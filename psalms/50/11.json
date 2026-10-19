@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina brez kopule"
+    },
+    {
+      "kind": "crux",
+      "subject": "ziz",
+      "rationale": "ziz sadaj: 'gibljiva žival polja' dobesedno; prevodi se razhajajo — 'poljske živali' (KJV), 'polnoživali' (YLT 'fullness of the breast'?"
+    }
+  ],
+  "translation": "Poznam vse ptice gora, in kar se giblje po poljih, ⟨je⟩ pri meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/9-12.1792434863592.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Poznam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gora"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "in kar se giblje"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "po poljih"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pri meni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:23.594426694Z",
+  "model": "glm-5.3"
+}

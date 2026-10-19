@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Duša",
+      "rationale": "נפש je dih\/grlo\/življenjska sila, ne 'duša' v poznejšem pomenu; slovenščina nima boljše ene besede."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמל\/עמלה",
+      "rationale": "Isti koren עמל ponovljen kot glagol in samostalnik: 'trdela duša trdi' — igra izgubljena v slovenščini."
+    },
+    {
+      "kind": "crux",
+      "subject": "אכף",
+      "rationale": "'žene\/prisili' (KJV 'craveth', JPS 'compelleth') — ali usta od človeka zahtevajo, ali ga prisiljujejo k delu."
+    }
+  ],
+  "translation": "Duša, ki trdi, trdi zase, kajti njegova usta ga ženejo ⟨k temu⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/25-28.1792435988131.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Duša"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ki trdi"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "trdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "žene"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "njegova usta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:08.132670439Z",
+  "model": "glm-5.3"
+}

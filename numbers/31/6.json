@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אֹתָם",
+      "rationale": "Zapisano z alef-tav, a je tu osebni zaimek 'jih', ne označevalnik predmeta; Selah ga kljub temu ohranja kot ⟨את⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "התרועה",
+      "rationale": "Popot — vojni krik\/ovacijo; 'trobente za popot' drži obliko, a hebrejščina nosi vpitje."
+    }
+  ],
+  "translation": "In Moše jih je poslal ⟨אתם⟩, tisoč za rod, v vojsko, ⟨אתם⟩ in ⟨את⟩ Pinhasa, sina duhovnika Elazarja, v vojsko, in posodbe svetosti ter trobente za popot, v njegovi roki.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/31\/5-8.1792425510414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "in je poslal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih (tisoč za rod)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "za rod"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "v vojsko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Pinhasa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "v vojsko"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "in posodbe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "ter trobente"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "za popot"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v njegovi roki"
+    }
+  ],
+  "timestamp": "2026-10-19T15:58:30.415458297Z",
+  "model": "glm-5.3"
+}

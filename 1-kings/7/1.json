@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svoj",
+      "rationale": "Hebrejščina ima samo ״dom njegov״; slovenščina potrebuje svojilni zaimek"
+    }
+  ],
+  "translation": "Svoj ⟨את⟩ dom pa je Salomon gradil trinajst let, in dokončal ⟨את⟩ ves svoj dom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "563dc9235ca9f0421671d060b5619d4f33abf1e62d946c3778088d508944fba3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/7\/1-4.1792428860449.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dom"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "je gradil"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomon"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "najst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "leta"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "in dokončal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoj dom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:54:20.449476948Z",
+  "model": "glm-5.3"
+}

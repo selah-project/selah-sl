@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola — nominalni stavki z naštevnikom"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחקקי",
+      "rationale": "doslovno 'moj izklesovalec (zakonov)': 'zakonodajalec' (KJV) proti 'žezlo' (ASV\/JPS) ali 'vladar'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "naštevanje plemen",
+      "rationale": "Sezemski spisek ozemelj\/plemen kot Božja posest"
+    }
+  ],
+  "translation": "Moj je Gilad, moj je Menaše; Efrajim ⟨je⟩ trdnjava moje glave, Jehuda ⟨je⟩ moj zakonodajalec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/9-12.1792435383798.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "moj je"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj je"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrajim pa"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "trdnjava"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moje glave"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "moj zakonodajalec"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:03.798750710Z",
+  "model": "glm-5.3"
+}

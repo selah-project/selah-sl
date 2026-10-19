@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "preštel \/ vpisoval",
+      "rationale": "Jahve šteje in vpisuje ljudstva v seznam — dejanje popisa in knjige rojenih"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "glasbena oznaka za premor, ostaja kot zvočni zapis, ne prevaja se"
+    }
+  ],
+  "translation": "Jahve bo preštel, ko bo vpisoval ljudstva: ta je rojen tam. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/87\/5-7.1792435222874.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bo preštel"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "ko bo vpisoval"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "je rojen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:22.946231999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רם \/ שפל \/ גבה",
+      "rationale": "Verz gradi nasprotje visoko–ponižno–ošabno; רם in גבה sta skoraj sopomenki, a ju loči glagol (vidi vs. spoznava od daleč)."
+    },
+    {
+      "kind": "crux",
+      "subject": "od daleč spoznava",
+      "rationale": "Ali Jahve ošabnega 'pozna od daleč' (drži ga na razdalji) ali 'kljub razdalji vidi njegovo ošabnost'; večina prevodov drži prvo."
+    }
+  ],
+  "translation": "Kajti visok je Jahve, a ponižnega vidi, ošabnega od daleč spoznava.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/138\/5-8.1792435739100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "רם",
+      "gloss": "visok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "a ponižnega"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ošabnega"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "od daleč"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "spoznava"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:59.101743545Z",
+  "model": "glm-5.3"
+}

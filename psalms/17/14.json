@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידך",
+      "rationale": "'tvoja roka': srednji pomen — 'iz rok smrtnikov, [z] tvojo roko' (ASV) ali 'smrtniki, ki so v tvoji roki' (KJV)."
+    },
+    {
+      "kind": "crux",
+      "subject": "וצפינך",
+      "rationale": "'tvoj skriti zaklad': ali 'od tvojih založenih' (BSB bere 'tvoji založeni' namesto zaklada)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממתים ... ממתים",
+      "rationale": "ponovitev 'iz rok smrtnikov' — naraščajoča prošnja, v prevodu ohranjena."
+    }
+  ],
+  "translation": "⟨Reši me⟩ iz rok smrtnikov, Jahve, iz rok smrtnikov, katerih delež je ⟨v⟩ tem minljivem življenju; njihov trebuh napolniš s svojim skritim zakladom, siti so sinov in svoj ostanek pustijo svojim dojenčkom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/13-15.1792434590441.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "iz rok smrtnikov"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "s tvojo roko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "iz rok smrtnikov"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "iz minljivega sveta"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "njihov delež"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "v življenju"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "s tvojim skritim zakladom"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "napolniš"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "njihov trebuh"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "siti so"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "in pustijo"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "svoj ostanek"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "svojim dojenčkom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:50.444754894Z",
+  "model": "glm-5.3"
+}

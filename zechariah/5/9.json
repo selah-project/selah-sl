@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 5:9",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ורוח je lahko 'veter' ali 'duh'; puščeno kot ruah, ker hebrejščina pomeni oboje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסידה",
+      "rationale": "Štorklja ima v hebrejščini isti koren kot חסד (hesed, zvesta ljubezen) — 'prijazna ptica'; igra besed je v slovenščini izgubljena."
+    },
+    {
+      "kind": "addition",
+      "subject": "imeli sta",
+      "rationale": "ולהנה je poudarjen zaimek 'njima'; slovenščina potrebuje glagol 'imeti', dodan v oklepajih."
+    },
+    {
+      "kind": "measurement",
+      "subject": "efo",
+      "rationale": "Efa je mere za žito — videnje nosi mero samó."
+    }
+  ],
+  "translation": "In povzdignil sem svoje oči in sem videl, in glej, dve ženi izhajata, in ruah v njunih peruteh; imeli sta peruti kakor peruti štorklje; in nesli sta ⟨את⟩ efo med zemljo in med nebom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa2c8ec70bd8f8165d479177909061ae65aece51093613bd53825b23a3a7ca85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/5\/9-11.1792434357941.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "in povzdignil sem"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "in sem videl"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dve"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "יוצאות",
+      "gloss": "izhajata"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "in ruah"
+    },
+    {
+      "surface": "בכנפיהם",
+      "gloss": "v njunih peruteh"
+    },
+    {
+      "surface": "ולהנה",
+      "gloss": "⟨imeli sta⟩"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "peruti"
+    },
+    {
+      "surface": "ככנפי",
+      "gloss": "kakor peruti"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "štorklje"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "in nesli sta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efo"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in med"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:57.942605090Z",
+  "model": "glm-5.3"
+}

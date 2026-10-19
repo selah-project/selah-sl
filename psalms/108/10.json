@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule"
+    },
+    {
+      "kind": "idiom",
+      "subject": "vržem svoj sandal",
+      "rationale": "Metanje sandala na ozemlje je dejanje prevzema lastnine (Rut 4,7), ne zgolj zaničevanje"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתרועע",
+      "rationale": "intenziv 'zakričim\/zvenčim': 'vzklikam (v zmagi)' proti 'kričim, da razbijem ušesa'"
+    }
+  ],
+  "translation": "Moab ⟨je⟩ lonec za moje umivanje; na Edom vržem svoj sandal; nad Pelešet vzklikam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/9-12.1792435383798.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "lonec"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "za moje umivanje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "vržem"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "svoj sandal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "vzklikam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:03.799039109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "zato",
+      "rationale": "vzročni veznik, ki hebrejščina izpusti — vzklik in posledica sta postavljena drug ob drugem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד \/ יחסיון",
+      "rationale": "hesed in glagol חסה (zatekati se) imata isti koren — dobrota in zatočišče sta ena beseda, v slovenščini razpadneta na dve"
+    }
+  ],
+  "translation": "Kako dragocen je tvoj hesed, Elohim! Zato se sinovi človeka zatekajo v senco tvojih peruti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/36\/5-8.1792434754272.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dragocen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "v senco"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tvojih peruti"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "zatekajo se"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:34.274177173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ko te pogasim",
+      "rationale": "בכבותך je infinitiv 'ob tvojem gašenju' — faraon kot ugašajoča se luč; v slovenščini odvisni čas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסה\/אכסנו",
+      "rationale": "koren za 'pokriti' se ponovi dvakrat (prekrijem nebesa — pokrijem sonce), pri čemer drugič s končnico -נו."
+    }
+  ],
+  "translation": "Ko te pogasim, prekrijem nebesa in počernim ⟨את⟩ njihove zvezde; sonce pokrijem z oblakom in luna ne bo svetila svoje svetlobe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/32\/5-8.1792432573892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "prekrijem"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "ko te pogasim"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "in počernim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove zvezde"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "njihove zvezde"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sonce"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "z oblakom"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "pokrijem"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "in luna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bo svetila"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "svojo svetlobo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:56:13.895682984Z",
+  "model": "glm-5.3"
+}

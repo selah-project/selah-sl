@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "po lahkem",
+      "rationale": "על נקלה — dobesedno 'ob lahkom', torej površno, ne po resnici"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום ואין שלום",
+      "rationale": "trikrat ponovljen 'mir' — dva klica in ena zavrnitev; učinek ostaja tudi v slovenščini"
+    }
+  ],
+  "translation": "In zdravili so ⟨את⟩ prelom hčere ⟨od⟩ mojega ljudstva po lahkem, govoreč: Mir, mir! — ni pa miru.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3707db63a101073d60ee5b71878724098842e1b65345fa399c7d50c846fae53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/8\/9-12.1792431197630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "in zdravili so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prelom hčere mojega ljudstva"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "prelom"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčere"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojega ljudstva"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lahkem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "miru"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:17.632072183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "šeol ni pekel — svet mrtvih, zato ne 'pekla'."
+    }
+  ],
+  "translation": "Poti šeola ⟨so⟩ njen dom, stopnice, ki silijo v celice smrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/25-27.1792435870722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "poti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "njen dom"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "stopnice, ki silijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "celice"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:10.723318948Z",
+  "model": "glm-5.3"
+}

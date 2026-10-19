@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לערץ אנושׁ",
+      "rationale": "'da človek ne bo več strašil' (dread\/terrible) ali 'da ne bo več zatiral' (KJV 'oppress') — glagol ערץ nosi oba pomena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנושׁ",
+      "rationale": "אנושׁ je 'smrtnik' — 'človek iz zemlje' poudarja minljivost nasilnika"
+    }
+  ],
+  "translation": "soditi siroto in stiskanega, da človek iz zemlje ne bo več strašil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/10\/17-18.1792434568278.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "soditi"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "siroto"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "in stiskanega"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bo več"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "strašil"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "človek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:28.280084802Z",
+  "model": "glm-5.3"
+}

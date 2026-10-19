@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "אפך je dobesedno 'tvoj nos\/nozdrvi', sem za 'jeza' — slika telesa izgubi."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Govorec se neposredno obrača na Jahveja v zahvali."
+    },
+    {
+      "kind": "invitation",
+      "subject": "tisti dan",
+      "rationale": "Verz postavlja govor, ki ga bo poslušalec izrekel — besedilo vabi bralca, da govori."
+    }
+  ],
+  "translation": "In rekel boš tisti dan: Hvalil te bom, Jahve, ker si bil jezen namez ⟨mene⟩; tvoja jeza se je obrnila, in ti si me tolažil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/12\/1-4.1792430073975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "in rekel boš"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hvalil te bom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "si bil jezen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "namez"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "se je obrnila"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvoja jeza"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "in ti si me tolažil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:14:33.976367928Z",
+  "model": "glm-5.3"
+}

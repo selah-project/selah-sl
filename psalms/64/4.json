@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "jezik\/puščica",
+      "rationale": "Dvojni prispodobni: jezek kot meč in beseda kot puščica — puščica JE beseda (apozicija, ne ločen strel)."
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכו חצם",
+      "rationale": "darak pomeni 'usmeriti (lok)', a hebrejščina navaja le puščico: 'usmerili svojo puščico — grenko besedo'; KJV dodaja streljanje."
+    }
+  ],
+  "translation": "Ki so najostrili kakor meč svoj jezik, zategnili svojo puščico — beseda grenka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/64\/1-4.1792435000789.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "so najostrili"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kakor meč"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "svoj jezik"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "zategnili"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "svojo puščico"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "מר",
+      "gloss": "grenka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:40.791044995Z",
+  "model": "glm-5.3"
+}

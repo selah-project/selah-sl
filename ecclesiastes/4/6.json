@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "počitek",
+      "rationale": "nahat pomeni 'spuščanje, mir, zadovoljstvo'; 'počitek' je najkrajši slovenski približek."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כף \/ חפנים",
+      "rationale": "dlan proti dvojni pesti — besedna igra mere, v slovenščini ohranjena kot 'dlan' proti 'obeh pesti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlastanje za ruah",
+      "rationale": "reut ruah dobesedno 'pasti vetra\/ruah'; lovljenje nečesa, česar ni mogoče zgrabiti."
+    }
+  ],
+  "translation": "Boljša je ena dlan polna počitka kot polnost obeh pesti — napor in hlastanje za ruah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/4\/5-8.1792437103761.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "boljša"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "polna"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dlan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "počitek"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "od polnosti"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "pesti"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "napor"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "in hlastanje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:43.763026138Z",
+  "model": "glm-5.3"
+}

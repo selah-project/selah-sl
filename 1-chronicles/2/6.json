@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez veznika: 'vsi pet' dobesedno brez 'so'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pet",
+      "rationale": "Štetje sinov — vsi pet."
+    }
+  ],
+  "translation": "In sinovi Zerahovi: Zimri in Ejtan in Heman in Kalkol in Dara — vsi ⟨so⟩ pet.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e688587675671ac2e5b874c32f86514ec58f1e577af70816543a0e93e7d9028d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/5-8.1792437995560.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeraha"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "in Ejtan"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "in Heman"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "in Kalkol"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "in Dara"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:35.561701812Z",
+  "model": "glm-5.3"
+}

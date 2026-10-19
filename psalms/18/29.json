@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 18:29",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svetilka",
+      "rationale": "ניר je gorilnik svetilke, ne svetilka sama"
+    },
+    {
+      "kind": "addition",
+      "subject": "mojo (temo)",
+      "rationale": "hebrejščina ima samo končnico -י, slovenščina potrebuje svojilni zaimek"
+    }
+  ],
+  "translation": "Kajti ti boš prižgal mojo svetilko, Jahve, moj Elohim, razsvetli mojo temo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "de77b700c3666fdb82ebf2f306b18da03fa0d5225ed49355d996046230563ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/29-32.1792434555687.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "boš prižgal"
+    },
+    {
+      "surface": "נרי",
+      "gloss": "mojo svetilko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "razsvetli"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "mojo temo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:15.688893346Z",
+  "model": "glm-5.3"
+}

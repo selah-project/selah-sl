@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 5:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "učitelji \/ poučevalci",
+      "rationale": "מורי (od ירה, usmerjati kot izstrelek) in למלמדי (od למד, govoriti z ostjo) sta dve besedi; slovenščina ju ločuje kot učitelje in poučevalce."
+    },
+    {
+      "kind": "elision",
+      "subject": "in ⟨nisem⟩",
+      "rationale": "hebrejščina drugi לא ne ponovi glagola; slovenščina ga potrebuje, dodan v oklepaju."
+    }
+  ],
+  "translation": "In nisem poslušal ⟨v⟩ glas svojih učiteljev, in svojim poučevalcem ⟨nisem⟩ nagnil svojega uha.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "748318b3b54d52d1c30d26421f1c48bcc02a03a82e2ab02817d04b22aed23631",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/13-16.1792435839668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in nisem"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "poslušal"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨v⟩ glas"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "svojih učiteljev"
+    },
+    {
+      "surface": "ולמלמדי",
+      "gloss": "in svojim poučevalcem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "הטיתי",
+      "gloss": "nagnil"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "svojega uha"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:39.669416157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלותי\/שקטתי\/נחתי",
+      "rationale": "trojna kopičenje treh sopomenk za počitek, ki jih prekinja רגז (nemir) — vzorec tri-proti-enemu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רגז",
+      "rationale": "nemir; beseda lahko pomeni tudi viharjev hrup ali konjevo nemirnost — slika nenadnega vznemirjenja"
+    }
+  ],
+  "translation": "Nisem mirno živel in nisem tiho počival, nisem se naselil — in prišel je nemir.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/25-26.1792439075210.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "mirno živel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nisem"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "tiho počival"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "se naselil"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in prišel je"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "nemir"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:35.211892021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 30:16",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "škropili",
+      "rationale": "זרקים je particip 'metajoč'; JPS 'dash' — kri je bila metana ob oltar, ne nežno škropljena."
+    },
+    {
+      "kind": "addition",
+      "subject": "sprejeto",
+      "rationale": "מיד 'iz roke' nakazuje posredovanje; dodan glagol v oklepajih za berljivost."
+    }
+  ],
+  "translation": "In stali so na svojem mestu po svojem pravu, po Tori Mošeta, moža Elohim; duhovniki pa so škropili ⟨את⟩ kri ⟨sprejeto⟩ iz roke levitov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/30\/13-16.1792438825311.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "stali so"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "svojem mestu"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "po svojem pravu"
+    },
+    {
+      "surface": "כתורת",
+      "gloss": "po Tori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovniki"
+    },
+    {
+      "surface": "זרקים",
+      "gloss": "škropili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kri"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:25.312995949Z",
+  "model": "glm-5.3"
+}

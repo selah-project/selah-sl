@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האסור \/ הכלא",
+      "rationale": "Dve različni hebrejski besedi za pripor — אסור je 'vez\/jeksa', כלא 'zapor'; slovenščina z 'ječa\/zapor' ohranja razliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אתו עשו",
+      "rationale": "Dobesedno 'kajti ⟨את⟩ njo so naredili (za) hišo zapora' — 'njo' se nanaša na Jehonatanovo hišo, ne na Jeremija."
+    }
+  ],
+  "translation": "In knezi so se razjarili nad Jeremijahom in udarili ⟨את⟩ ⟨ga⟩, in dali ⟨so⟩ ⟨את⟩ ⟨ga⟩ v hišo ječe, v hišo Jehonatana pisarja, kajti ⟨את⟩ ⟨jo⟩ so naredili za hišo zapora.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6f54195d2cc6f60e689c53b6ae9762ffddb6ed69828e816b72a9dd838ebf3b1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/37\/13-16.1792431758464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "in so se razjarili"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijahom"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "in udarili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (Jeremija)"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "in dali"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (Jeremija)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hišo"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "ječe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pisarja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jo (hišo)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "so naredili"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "za hišo"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "zapora"
+    }
+  ],
+  "timestamp": "2026-10-19T17:42:38.465293086Z",
+  "model": "glm-5.3"
+}

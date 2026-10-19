@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maziljenci",
+      "rationale": "משיחי 'moji maziljeni' — po D2 pri duhovniku\/kralju 'maziljenec', ne 'mašiah' kot naslov"
+    },
+    {
+      "kind": "you",
+      "subject": "narodi\/kralji",
+      "rationale": "prepoved neposredno nagovarja tiste, ki bi škodili ljudstvu"
+    }
+  ],
+  "translation": "Ne dotikajte se mojih maziljencev in mojim prerokom ne delajte hudega!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "457c151114f005f2d00a5d9b2bd1dec0b569555b7ea1cd676cffe67b7ee81a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/16\/21-24.1792438214237.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dotikajte se"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "mojih maziljencev"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "in mojim prerokom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "delajte hudega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:14.238329777Z",
+  "model": "glm-5.3"
+}

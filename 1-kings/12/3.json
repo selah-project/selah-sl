@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨posle⟩",
+      "rationale": "וישלחו nima izrečenega predmeta; slovenski glagol 'poslati' ga zahteva"
+    },
+    {
+      "kind": "you",
+      "subject": "govorila sta Rehabeamu",
+      "rationale": "naslavljanje novega kralja pred zborom"
+    }
+  ],
+  "translation": "in poslali so ⟨posle⟩ ter poklicali njega; prišla sta Jarobeam in vsa skupščina Jisraela in govorila sta Rehabeamu, rekoč:",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/12\/1-4.1792429079274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "in poslali so"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ter poklicali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njega"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "in sta prišla"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "skupščina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "in sta govorila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    }
+  ],
+  "timestamp": "2026-10-19T16:57:59.275430992Z",
+  "model": "glm-5.3"
+}

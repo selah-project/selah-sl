@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלב ים",
+      "rationale": "dobesedno 'v srcu morja' = sredi morja; srce kot središče, ne organ."
+    },
+    {
+      "kind": "crux",
+      "subject": "דרך גבר בעלמה",
+      "rationale": "'pot moža z dekletom' — aluzija na spolni odnos (ker sledi v20 o prešuštnici) ali nedolžno 'mladostniška pot' (YLT 'in youth', עלמה iz korena 'biti skrit\/mlad')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך ×4",
+      "rationale": "štirikratna anafora 'pot' — štiri sledi brez sledi, retorična struktura, v slovenščini delno ohranjena."
+    }
+  ],
+  "translation": "pot orla po nebu, pot kače po skali, pot ladje sredi ⟨sredine⟩ morja in pot moža z dekletom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "226cb39cb7c912ee9135b26247b64812ddc76df494e0d60874da88ff3e176e27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/17-20.1792436212333.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "orla"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "po nebu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "kače"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "po"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skali"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "ladje"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sredi ⟨sredine⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "in pot"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moža"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "z dekletom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:52.335904569Z",
+  "model": "glm-5.3"
+}

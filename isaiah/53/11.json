@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je življenjska sila, dih, grlo — ne 'duša'."
+    },
+    {
+      "kind": "crux",
+      "subject": "צדיק עבדי",
+      "rationale": "'opravičil bo svojega pravičnega služabnika številnim' ali 'moj pravični služabnik bo opravičil številne' (KJV) — hebrejščina dopušča obe."
+    }
+  ],
+  "translation": "Iz truda svoje nefesh bo videl ⟨in⟩ se bo nasičil; s svojim spoznanjem bo opravičil pravičnega, svojega služabnika, številnim, in njihove krivice bo on nosil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/53\/9-12.1792430802170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "Iz truda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoje nefesh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bo videl"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se bo nasičil"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "s svojim spoznanjem"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "bo opravičil"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svojega služabnika"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "številnim"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "in njihove krivice"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "bo nosil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:42.171973499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "od",
+      "rationale": "predlog ל pred imenom matere, slovenščina doda »od«"
+    },
+    {
+      "kind": "crux",
+      "subject": "Egla, njegova žena",
+      "rationale": "כי אשתו manjka v MT; morda namig na Egl kot najljubšo ali prvo ženo"
+    }
+  ],
+  "translation": "peti Šefatja, ⟨od⟩ Abital; šesti Jitream, ⟨od⟩ Egle, njegove žene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c3795f4562fc399c747c35e08df0f25ecf74d5cc987341f4b77bad1d30c950c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/3\/1-4.1792438033770.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "peti"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Šefatja"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "⟨od⟩ Abital"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "šesti"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Jitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "⟨od⟩ Egle"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "njegove žene"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:13.772689083Z",
+  "model": "glm-5.3"
+}

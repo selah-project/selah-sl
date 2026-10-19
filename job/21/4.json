@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah pomeni dih\/veter\/duh; 'krajšati ruah' je hebrejska podoba neterpljivosti — slovenščina 'skrajšana ruah' je dobesedno."
+    },
+    {
+      "kind": "crux",
+      "subject": "complaint",
+      "rationale": "שיח: 'nagovor\/premlevanje' — 'pritožba' (KJV) ali 'razmišljanje' (Geneva); uporabljeno dobesedno 'nagovor'."
+    }
+  ],
+  "translation": "Je moj nagovor ⟨namenjen⟩ človeku? In če ⟨je tako⟩, zakaj se moja ruah ne bi skrajšala?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/21\/1-4.1792436530952.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "A jaz"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "človeku"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "moj nagovor"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "bi se skrajšala"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:10.954662768Z",
+  "model": "glm-5.3"
+}

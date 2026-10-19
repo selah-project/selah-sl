@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריס",
+      "rationale": "'evnuh' proti 'dvorni uradnik' — kraljevi uradniki so pogosto (a ne vedno) bili evnuhi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "od dne … do zdaj",
+      "rationale": "časovno obdobje pridelkov je natančno določeno"
+    }
+  ],
+  "translation": "In kralj je vprašal ženo, in ona mu je pripovedovala. In kralj ji je dodelil enega evnuha rekoč: Vrni vse, kar je nje, in ⟨את⟩ vse pridelke polja od dne, ko je zapustila deželo, do zdaj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/8\/5-8.1792429568834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "je vprašal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ženo"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "in ona je pripovedovala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dodelil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "evnuha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enega"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Vrni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse, kar je nje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לה",
+      "gloss": "je nje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vse pridelke polja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "pridelke"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dne"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ko je zapustila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deželo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:06:08.835925561Z",
+  "model": "glm-5.3"
+}

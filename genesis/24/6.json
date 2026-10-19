@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenski pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "idiom",
+      "subject": "השמר לך",
+      "rationale": "dobesedno 'varuj sebe', slovensko 'pazi zase'"
+    }
+  ],
+  "translation": "In Avraham mu je rekel: Pazi zase, da ne bi vrnil ⟨את⟩ mojega sina tja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2e9ff319661a6b8b3c958ed1f80acb36a7d8f0be943c6775cdc72c885ea6e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/24\/5-8.1792422384550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "pazi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zase"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vrnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojega sina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mojega sina"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:06:24.551724064Z",
+  "model": "glm-5.3"
+}

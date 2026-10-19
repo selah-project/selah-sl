@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מצר",
+      "rationale": "Ta oblika (kamen\/krema) se pojavi samo tu v Tanahu."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina ima brezglagolniki predikat 'bêṯ merî hêmmâ' — slovenščina potrebuje ⟨so⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית מרי",
+      "rationale": "'uporna hiša' — dobesedno 'hiša upora\/grenkosti'; merî izhaja iz grenkobe in upora hkrati."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרי",
+      "rationale": "Koren מרר (grenko) nosi v sebi 'grenkobo' kot upor — slika, ki v slovenščini izzveni."
+    }
+  ],
+  "translation": "Kot šamir, trši od kamena, sem naredil tvoje čelo; ne boš se ⟨את⟩ jih bal in ne boš se prestrašil pred njimi, kajti uporno hiša ⟨so⟩ oni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "84a6f5ea000c804b8f93c4b1b8fd58ec51b5c30a84b34c8e1fe867143f2a8311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/3\/9-12.1792432076204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "kot šamir"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "trši"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "od kamena"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sem naredil"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "tvoje čelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boš se bal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jih"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boš se prestrašil"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "pred njimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "uporno"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:56.205192095Z",
+  "model": "glm-5.3"
+}

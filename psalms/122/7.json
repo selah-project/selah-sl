@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obzidja",
+      "rationale": "חיל je vojaški tabor\/obrambni obod, 'obzidje' po analogiji intrenchment"
+    },
+    {
+      "kind": "alternative",
+      "subject": "šalva",
+      "rationale": "šifra za 'spokojnost'; 'blaginja' (KJV prosperity) je širša interpretacija"
+    }
+  ],
+  "translation": "Bodi šalom v tvojih obzidjih, šalva v tvojih gradovih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/122\/5-8.1792435543188.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Bodi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "v tvojih obzidjih"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "šalva"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "v tvojih gradovih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:43.189540311Z",
+  "model": "glm-5.3"
+}

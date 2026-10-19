@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשיב אשיב",
+      "rationale": "ponovitev glagola — slovenščina ohranja z dvojno ponovitvijo."
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ne poda predmeta; 'jih' je dodan za razumljivost."
+    }
+  ],
+  "translation": "Adonaj je rekel: Iz Bašana bom spravil nazaj, spravil nazaj ⟨jih⟩ iz globin morja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/21-24.1792434997509.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "iz Bašana"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bom spravil nazaj"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "spravil nazaj"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "iz globin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:37.511531690Z",
+  "model": "glm-5.3"
+}

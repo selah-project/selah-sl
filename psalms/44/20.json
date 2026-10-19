@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "'šakali' (kraj puščavskih šakalov) ali 'morski zmaj\/pošast' (tannin); večina prevodov tu bere šakale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "senco-smrti",
+      "rationale": "צלמות je zložena beseda 'senca-smrt', ena beseda v hebrejščini, v slovenščini povezana z vezajem"
+    },
+    {
+      "kind": "mystery",
+      "subject": "senco-smrti",
+      "rationale": "motiv prekritega, temačnega kraja namiguje na skrito in neprehodno"
+    }
+  ],
+  "translation": "Kajti poteptal si nas na kraju šakalov, in pokril si nas senco-smrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/17-20.1792434821926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "poteptal si nas"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "šakalov"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "in pokril si"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nas"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "senco-smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:41.928896625Z",
+  "model": "glm-5.3"
+}

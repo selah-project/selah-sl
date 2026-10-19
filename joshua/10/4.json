@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "štirim kraljem",
+      "rationale": "neposreden poziv — dva imperativa (pridite, pomagajte mi) in koheziv v. 1 (zelo so se bali)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "je sklenil mir",
+      "rationale": "השלימה je 'naredil šalom' z Jehošuo — šalom kot celovit mir, ne le premirje"
+    }
+  ],
+  "translation": "Pridite k meni in pomagajte mi, da udarimo ⟨את⟩ Givon, ker je sklenil mir ⟨את⟩ z Jehošuo in ⟨את⟩ z sinovi Jisraela.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9bb88ad1ab432ae26ee1059731d17768e220b30bdae39f969c2b4aac48386cb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/10\/1-4.1792426612861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "pridite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "in pomagajte mi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "da udarimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "je sklenil mir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Jehošuo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "z sinovi Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T16:16:52.862971342Z",
+  "model": "glm-5.3"
+}

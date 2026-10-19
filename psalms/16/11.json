@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima glagola biti v drugem stavku"
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "gloss": "tukaj je את predlog 'z\/pred' (z obličjem), ne oznaka tožilnika; prevedeno 'pred'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sladkosti",
+      "rationale": "נעמות je 'prijetnosti\/mile stvari'; 'sladkosti' nosi čutno podobo, ki je v hebrejščini"
+    }
+  ],
+  "translation": "Se mi dá poznati pot življenja; polnost radosti ⟨je⟩ pred ⟨את⟩ tvojim obličjem, sladkosti v tvoji desnici za vedno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/16\/9-11.1792434564671.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Se mi dá poznati"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pot"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "življenja"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "polnost"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "pred ⟨את⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvojim obličjem"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "sladkosti"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "v tvoji desnici"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "za vedno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:24.680581179Z",
+  "model": "glm-5.3"
+}

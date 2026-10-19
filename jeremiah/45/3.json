@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Joj meni zdaj",
+      "rationale": "אוי נא לי je vzporednik togi vzklik; dobesedno 'joj, prosim, meni'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגון \/ מכאוב \/ יגע",
+      "rationale": "zvočna bližina korenov j-g-n, m-k-b, j-g-' — ver igre žalosti, slovenščina je ne prenese."
+    },
+    {
+      "kind": "elision",
+      "subject": "על מכאבי",
+      "rationale": "hebrejsko 'žalost na mojo bolečino' — prostorska predloga je v slovenščini dajalna z zlitjem v 'moji bolečini'."
+    }
+  ],
+  "translation": "Rekel si: Joj meni ⟨zdaj⟩, kajti Jahve je dodal žalost moji bolečini; izčrpal sem se v svojem vzdihovanju in počitka nisem našel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8a590235eed7de6e5e90bacf80bb1d69cba08f8c48ea50a904a68d81982438b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/45\/1-4.1792431834289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Rekel si"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Joj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zdaj⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "je dodal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "žalost"
+    },
+    {
+      "surface": "על",
+      "gloss": "moji"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "bolečini"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "izčrpal sem se"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "v svojem vzdihovanju"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "in počitka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "našel"
+    }
+  ],
+  "timestamp": "2026-10-19T17:43:54.290821398Z",
+  "model": "glm-5.3"
+}

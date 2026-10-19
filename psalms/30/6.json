@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "אף dobesedno 'nos, nosnica'; idiom za jezo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רגע",
+      "rationale": "' utrip očesa ' — zelo kratek čas; 'trenutek' izgubi sliko."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכי \/ רנה",
+      "rationale": "Nasprotje jok–vzklik v vzporednem verzu zvečer–zjutraj."
+    }
+  ],
+  "translation": "Kajti trenutneᴷ ⟨je⟩ ⟨ njegova jeza ⟩, življenje ⟨je⟩ v njegovi dobri volji; zvečer prenoči jok, zjutraj pa vzklijanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/30\/5-8.1792434708742.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "trenutek"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "v njegovi jezi (dobesedno: v njegovih nosnicah)"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "življenje ⟨je⟩"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "v njegovi dobri volji"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "zvečer"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "prenoči"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "jok"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "zjutraj pa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "vzklijanje (krič radosti)"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:48.743442819Z",
+  "model": "glm-5.3"
+}

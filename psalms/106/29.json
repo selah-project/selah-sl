@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je, ga",
+      "rationale": "Hebrejščina ne izraža osebka niti predmeta jeze; dodano v slovenščini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kužna nadloga",
+      "rationale": "מגפה pomeni kugo\/poraz; vzeta slika kužne nadloge."
+    }
+  ],
+  "translation": "In s ⟨je⟩ razjezili ⟨ga⟩ s svojimi dejanji, in razlomila se je med ⟨nje⟩ kužna nadloga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/29-32.1792435415536.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "In s ⟨ga⟩ razjezili"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "s svojimi dejanji"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "in razlomila se je"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med ⟨nje⟩"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "kužna nadloga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:35.537020667Z",
+  "model": "glm-5.3"
+}

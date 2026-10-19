@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "parallelizem kovine\/srca",
+      "rationale": "Dvojna vzporednica: tavilnik–srebro, peč–zlato, tretji člen pa Jahve preskoči kovino k srcem — vzporednica, ne primera."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagolski veznik; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Tavilnik za srebro in peč za zlato, in preizkuševalec src je Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/17\/1-4.1792435985471.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "Tavilnik"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "in peč"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "za zlato"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "in preizkuševalec"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "src"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:05.473922910Z",
+  "model": "glm-5.3"
+}

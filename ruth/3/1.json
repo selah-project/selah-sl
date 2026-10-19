@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 3:1",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "hebrejščina nima pomožnika za prihodnjiški glagol"
+    },
+    {
+      "kind": "you",
+      "subject": "hči moja",
+      "rationale": "neposreden ogovor Ruti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ali ne iscem zate počitka",
+      "rationale": "retorično vprašanje, ki vabi k odgovoru"
+    }
+  ],
+  "translation": "In rekelа je njej Noemi, njena tašča: Hči moja, ali ne iscem zate počitka, ki ⟨bo⟩ tebi dobro?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/3\/1-4.1792436938480.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekelа je"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njej"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "njena tašča"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hči moja"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "iscem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zate"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "počitka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "bo dobro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:58.481476535Z",
+  "model": "glm-5.3"
+}

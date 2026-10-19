@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מה מני יהלך",
+      "rationale": "YLT dobesedno 'kaj odhaja od mene?'; KJV\/JS 'kaj sem olajšan?' — retorično vprašanje, oba branja možna."
+    },
+    {
+      "kind": "you",
+      "subject": "prijateljem",
+      "rationale": "Job nagovarja svoje tri prijatelje z retoričnim vprašanjem."
+    }
+  ],
+  "translation": "Če govorim, moja bolečina ni zadržana; in če preneham, kaj ⟨od mene⟩ odhaja?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/16\/5-8.1792436448668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "je zadržana"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "moja bolečina"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "in če preneham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "odhaja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:48.669480073Z",
+  "model": "glm-5.3"
+}

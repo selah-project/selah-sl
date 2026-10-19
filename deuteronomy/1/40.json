@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Trstično morje",
+      "rationale": "ים סוף je 'morje trsta' (papirusa); 'Rdeče morje' je tradicijski, ne dobesedni prevod."
+    },
+    {
+      "kind": "you",
+      "subject": "to Izraelu",
+      "rationale": "Dvajsetletnica: ukaz celotnemu ljudstvu, naj se obrne v puščavo."
+    }
+  ],
+  "translation": "Vi pa se obrnite in pojdite v puščavo, po poti proti Trstičnemu morju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/1\/37-40.1792425635126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "vi pa"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "obrnite se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨za se⟩"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "in pojdite"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "v puščavo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morju"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Trstičnega"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:35.127909389Z",
+  "model": "glm-5.3"
+}

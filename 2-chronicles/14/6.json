@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 14:6",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jih⟩",
+      "rationale": "Slovenščina potrebuje osebni zaimek kot predmet glagola 'obdajimo'; hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרשנו … דרשנו",
+      "rationale": "Ponovitev 'iskali smo … iskali smo' poudarja vzročnost; ohranjena dobesedno."
+    },
+    {
+      "kind": "you",
+      "subject": "Jehuda",
+      "rationale": "Asa neposredno nagovarja Jehudo s kohortativi 'zgradimo, obdajimo'."
+    }
+  ],
+  "translation": "In rekel je Jehudi: Zgradimo ⟨את⟩ ta mesta in obdajimo ⟨jih⟩ z obzidjem in stolpi, z vrati in zapahami; dežela je še pred nami, kajti iskali smo ⟨את⟩ Jahve, Elohim našega; iskali smo, in on je dal nam počitek na vseh straneh. In zgradili so in uspeli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04ee9185a07458604bb60d5a9ff3354edc34ec174150458bad2f77cb28098984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/14\/5-8.1792438615110.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudi"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "zgradimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta mesta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "in obdajimo"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "z obzidjem"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "in stolpi"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ובריחים",
+      "gloss": "in zapahi"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "je še"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pred nami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "דרשנו",
+      "gloss": "iskali smo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elohim našega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "דרשנו",
+      "gloss": "iskali smo"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "in dal je počitek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "na vseh straneh"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "in zgradili so"
+    },
+    {
+      "surface": "ויצליחו",
+      "gloss": "in uspeli"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:55.112148517Z",
+  "model": "glm-5.3"
+}

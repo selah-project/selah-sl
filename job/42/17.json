@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שבע ימים",
+      "rationale": "dobesedno 'sit dni' — hebrejščina govori o sitosti, ne o 'polnosti let', kot prevajajo starejši prevodi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dnevi",
+      "rationale": "življenjska doba šteta v dnevih, skupaj s štirimi rodovi v prejšnjem verzu"
+    }
+  ],
+  "translation": "In Ijov je umrl, star in sit dni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7bce2aec96f2c0cc28a4681788780d36df4860face8a1c0fdda33765aad5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/42\/17-17.1792436754664.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "In je umrl"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "star"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "in sit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:54.665901136Z",
+  "model": "glm-5.3"
+}

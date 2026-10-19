@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 31:28",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "imenovali za srečno",
+      "rationale": "אשר je tu 'imeti prav \/ biti srečen' — poklicati srečno, ne blagosloviti"
+    },
+    {
+      "kind": "addition",
+      "subject": "in · pa",
+      "rationale": "slovenščina potrebuje veznik, hebrejščina ga nosi v predponi ו"
+    }
+  ],
+  "translation": "Njeni sinovi so vstali ⟨in⟩ jo imenovali za srečno, njen mož ⟨pa⟩ jo hvali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fde8f28e3657338bf7d886e1db6524d782255cf4cbbe8cb0c8e2e2f63ea3872e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/31\/28-28.1792439060246.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קמו",
+      "gloss": "so vstali"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "njena sinova"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "in so jo imenovali za srečno"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "njen mož"
+    },
+    {
+      "surface": "ויהללה",
+      "gloss": "in jo hvali"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:20.250350665Z",
+  "model": "glm-5.3"
+}

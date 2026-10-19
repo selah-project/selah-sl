@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojo",
+      "rationale": "hebrejščina ima le בשחותו 'v njegovi jami'; 'svojo' poudari povratnost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישרים\/תמימים",
+      "rationale": "dva vzporedna pridevnika 'ravnih' in 'popolnih' v merilnem verzu"
+    }
+  ],
+  "translation": "Kdor zavaja poštenja po zli poti, sam bo padel v svojo jamo, a brezhibni bodo podedovali dobro.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/28\/9-12.1792436168213.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "Kdor zavaja"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "poštenja"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zli"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "v svojo jamo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bo padel"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "a brezhibni"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "bodo podedovali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:08.214298393Z",
+  "model": "glm-5.3"
+}

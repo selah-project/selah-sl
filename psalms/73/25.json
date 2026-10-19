@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola — vprašanje je sam samostalnik: 'Kdo mi v nebesih?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשמים",
+      "rationale": "dvojina šamajim — 'nebesa' dobesedno dvojinsko; slovenščina to izgubi"
+    }
+  ],
+  "translation": "Kdo mi ⟨je⟩ v nebesih? In ⟨s⟩ teboj ne hotelim ničesar na zemlji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/25-28.1792435056463.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesih"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "in ⟨s⟩ teboj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "hotelim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:36.464195708Z",
+  "model": "glm-5.3"
+}

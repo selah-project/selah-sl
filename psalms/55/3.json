@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohimu",
+      "rationale": "nadaljevanje neposrednega nagovora iz v. 2"
+    },
+    {
+      "kind": "crux",
+      "subject": "אריד",
+      "rationale": "koren רוד 'tavati kot brez doma' — prevodi se razhajajo: 'sem nemiren' \/ 'tavam' \/ 'žalujem'"
+    }
+  ],
+  "translation": "Pazljivo poslušaj me in mi odgovori; tavam sem v svojem premišljevanju in stokam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/1-4.1792434954108.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "pozorno poslušaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "in odgovori mi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "tavam sem"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "v svojem premišljevanju"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "in stokam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:54.109832185Z",
+  "model": "glm-5.3"
+}

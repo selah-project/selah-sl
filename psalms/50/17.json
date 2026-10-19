@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "ve- na začetku veza, v slovenščini ločilnik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "besedila",
+      "rationale": "dobesedno 'moje besede', večkrat množinska oblika"
+    }
+  ],
+  "translation": "Sovražil si ⟨danes⟩ disciplino in moja besedila si vrgel za seboj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/17-20.1792434879268.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "in-ti"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "sovražil si"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disciplino"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "in vrgel si"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moja besedila"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za seboj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:39.269571694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pri",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ga nima"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kakor rojevajoča žena",
+      "rationale": "חיל כיולדה — standardna hebrejska slika popolne preplavljenosti s bolečino"
+    }
+  ],
+  "translation": "Trepet jih je zgrabil tam, bolečina kakor ⟨pri⟩ rojevajoči ženi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/48\/5-8.1792434874282.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "trepet"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "jih je zgrabil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bolečina"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kakor rojevajoča žena"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:34.284362992Z",
+  "model": "glm-5.3"
+}

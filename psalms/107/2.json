@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאולי\/גאלם",
+      "rationale": "root גאל doubled — 'odkupljeni … odkupil' — kinship-redeemer language kept in both"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stiskovalec",
+      "rationale": "צר literally 'narrow\/tight place', rendered as an agent; KJV 'enemy', JPS 'adversary'"
+    }
+  ],
+  "translation": "Naj rečejo odkupljeni Jahveja, tiste, ki jih je odkupil iz roke stiskovalca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/1-4.1792435404958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Naj rečejo"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "odkupljeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiste, ki"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "jih je odkupil"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "צר",
+      "gloss": "stiskovalca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:24.959807681Z",
+  "model": "glm-5.3"
+}

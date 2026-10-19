@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנדדו",
+      "rationale": "koren נדד pomeni mahati sem in tja: ASV\/JPS\/BSB 'zmajati z glavo' nasproti KJV\/Geneva 'pobegniti' (t.i. nihati kot ptic peruti → odleteti)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pahnili so ga v padec",
+      "rationale": "ויכשילוהU je dobesedno 'in omahujoč-ga-naredili'; prevedeno z načinom omahovanja nog."
+    }
+  ],
+  "translation": "In pahnili so ga v padec; proti njim ⟨je⟩ njihov lastni jezik; vsak, ki jih vidi, bo zmajal z glavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/64\/9-11.1792434982567.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "pahnili so ga v padec"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "proti njim"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "njihov lastni jezik"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "bo zmajal z glavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ki vidi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:22.568616470Z",
+  "model": "glm-5.3"
+}

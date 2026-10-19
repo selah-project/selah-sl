@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 15:19",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojemu",
+      "rationale": "Slovenščina potrebuje svojilni pridevek, hebrejščina ga v končnici יהוה אלהיך že nosi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכור … בכר … בכור",
+      "rationale": "Trikratni ponovitvi prvca v zavrtnih stavkih dajata rytm, v prevodu delno ohranjen."
+    }
+  ],
+  "translation": "Vse prvence, ki se skotijo v tvojem govedu in tvoji drobnici, samca posveti Jahvu, svojemu Elohimu; ne delaj s prvencem svojega vola in ne stri prvca svoje drobnice.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "64ecb1644d8796386ea1fc87c02122cdbad7d713694f384d471a6873b052a062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/15\/17-20.1792425932671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vse"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvence"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "se skotijo"
+    },
+    {
+      "surface": "בבקרך",
+      "gloss": "v tvojem govedu"
+    },
+    {
+      "surface": "ובצאנך",
+      "gloss": "in tvoji drobnici"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "samca"
+    },
+    {
+      "surface": "תקדיש",
+      "gloss": "posveti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svojemu Elohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "delaj"
+    },
+    {
+      "surface": "בבכר",
+      "gloss": "s prvencem"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "svojega vola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תגז",
+      "gloss": "stri"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvca"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "svoje drobnice"
+    }
+  ],
+  "timestamp": "2026-10-19T16:05:32.672404343Z",
+  "model": "glm-5.3"
+}

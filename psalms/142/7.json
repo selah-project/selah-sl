@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Predlog אל se v slovenščini steka z glagolom 'prisluhni'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ponižan",
+      "rationale": "דלותי dobesedno 'sem oslabel potrt', ne 'ponižan'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Prisluhni",
+      "rationale": "Imperativ, prošnja govorca."
+    }
+  ],
+  "translation": "Prisluhni mojemu vzkliku, kajti zelo sem ponižan; reši me pred moimi zasledovalci, kajti močnejši so od mene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/142\/5-8.1792435731571.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Prisluhni"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mojemu vzkliku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "sem ponižan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "pred moimi zasledovalci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "močnejši so"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:51.573286395Z",
+  "model": "glm-5.3"
+}

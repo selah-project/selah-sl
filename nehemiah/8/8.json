@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפרש",
+      "rationale": "'razločno\/prevedeno\/razloženo' — ali je bila Tora razlaga ali prevod v aramejščino; 'razločno' drži dobesedno (koren: ločiti)"
+    },
+    {
+      "kind": "crux",
+      "subject": "במקרא",
+      "rationale": "'v branju' ali 'v zboru' — mikra je lahko dejanje branja ali shod"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩",
+      "rationale": "slovenski predlog dodan v oklepaju pri במקרא, ker slovenščina izraža lokativ drugače"
+    }
+  ],
+  "translation": "In brali so iz knjige, iz Tore Elohimove, razločno, in dajali so razumevanje, in so razumeli ⟨v⟩ branju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7215b9969b34f57d83d0ce51b3750da45096746e7806714168ae3dbd187c66dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/8\/5-8.1792437908257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "In brali so"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iz knjige"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "iz Tore"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimove"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "razločno"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "in dajali so"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "razumevanje"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "in so razumeli"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "⟨v⟩ branju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:08.259928216Z",
+  "model": "glm-5.3"
+}

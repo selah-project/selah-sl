@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "krivica",
+      "rationale": "עולה je krivica v smislu izkrivljenja pravice, ne splošno zlo"
+    }
+  ],
+  "translation": "Tudi krivice ne delajo; po njegovih poteh so hodili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/1-4.1792435503251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Tudi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "delajo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "krivice"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "po njegovih poteh"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "so hodili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:03.252271566Z",
+  "model": "glm-5.3"
+}

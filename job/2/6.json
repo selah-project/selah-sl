@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je dih\/življenjska sila, ne 'duša' v poznejšem pomenu; ohranjeno po D2."
+    },
+    {
+      "kind": "substitution",
+      "subject": "satu",
+      "gloss_note": "",
+      "rationale": "השטן s členom je nasprotnik; hebrejski zvok 'ha-satan' prenesen kot satu."
+    },
+    {
+      "kind": "crux",
+      "subject": "samo … varuj",
+      "rationale": "אך … שמר: 'samo varuj njegovo življenje' vs 'ampak prizanesi njegovemu življenju'."
+    }
+  ],
+  "translation": "In Jahve je rekel saditu: Glej, ⟨je⟩ v tvoji roki; samo ⟨את⟩ njegovo nefesh varuj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ffd3b03428f65098e92f115ca1a442e0fabe4717ad7bbaaea673ca7d6127fe1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/2\/6-7.1792439067457.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satu"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "glej"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "v tvoji roki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegovo nefesh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varuj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:27.457696464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Slovenščina potrebuje predmetni zaimek za 'besedo'; hebrejščina ga nima."
+    }
+  ],
+  "translation": "In David je šel gor po besedi Gada, ki jo je govoril v imenu Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/21\/17-20.1792438302781.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "In je šel gor"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "po besedi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jo je govoril"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:42.784480257Z",
+  "model": "glm-5.3"
+}

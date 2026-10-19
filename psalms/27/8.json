@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "Dvojni čit: KJV\/ASV 'ko si rekel: iščite moje obličje' (Bog govori) proti JPS 'v tvojem imenu je reklo moje srce' (srce govori); hebrejščina dovoljuje oba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "prevod",
+      "rationale": "Drugi čit: 'Ko si rekel: Iščite moje obličje, je moje srce reklo tebi: tvoje obličje, Jahve, bom iskal'"
+    }
+  ],
+  "translation": "Tebi je reklo moje srce: Iščite moje obličje; tvoje ⟨obličje⟩, Jahve, bom iskal — ⟨את⟩ tvojega obličja, Jahve, iskam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/27\/5-8.1792434710257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je reklo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "iščite"
+    },
+    {
+      "surface": "פני",
+      "gloss": "moje obličje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje obličje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvoje obličje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "bom iskal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:50.260242744Z",
+  "model": "glm-5.3"
+}

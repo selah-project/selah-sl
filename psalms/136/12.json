@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "roka-nadlakt",
+      "rationale": "זרוע is the stretched-out forearm, not just 'arm'; hyphenated to keep one word-shape."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יד חזקה \/ זרוע נטויה",
+      "rationale": "Fixed Deuteronomic pair 'strong hand \/ outstretched arm' — the pairing itself carries the rhetoric of might."
+    }
+  ],
+  "translation": "Z močno roko in z iztegnjeno roko-nadlaktjo, saj na veke je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/9-12.1792435578816.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "močno"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "in z roko-nadlaktjo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "iztegnjeno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "je njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:18.817787319Z",
+  "model": "glm-5.3"
+}

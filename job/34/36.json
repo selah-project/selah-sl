@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 34:36",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבי",
+      "rationale": "dovršek מאבי 'moj oče' (YLJ) proti לוא־אבי 'ne želim' ali samostalnik 'moja želja' (KJV, geneva)"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "'do konca' (KJV) proti 'do zmage' (YLJ, iz korena 'sijajni cilj')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kakor⟩",
+      "rationale": "primernik dodan; hebrejščina vezuje תשובות באנשי און brez 'kot' — 'odgovori v može krivice'"
+    }
+  ],
+  "translation": "Moja želja: Ijov naj bo preizkušen do konca, zaradi odgovorov ⟨kakor⟩ možje krivice.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/34\/33-36.1792436749817.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "moja želja"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "naj bo preizkušen"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "konca"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "odgovorov"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "און",
+      "gloss": "krivice"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:49.819629060Z",
+  "model": "glm-5.3"
+}

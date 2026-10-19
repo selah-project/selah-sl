@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik za preterit; hebrejščina ga nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Veriga rodoslovja z naslovom Nahšona."
+    }
+  ],
+  "translation": "In Ram je rodil ⟨את⟩ Aminadab, in Aminadab je rodil ⟨את⟩ Nahšona, kneza sinov Jude.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/9-12.1792437996335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "In Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "in Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahšona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahšona"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:36.336735849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 8:17",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשל אשר",
+      "rationale": "Mesta 8,17: 'kljub temu, da \/ kolikor se trudi' — BDB bere bəšel iz səl, 'kljub'; nekateri berejo ba'asher 'saj'. Tu izbrano 'kljub temu, da', kot KJV\/ASV."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Drugi אשר (za בשל) se v slovenščini zliva z zvezo 'kljub temu, da' in nima svoje besede."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "Slovenščina potrebuje predmet pri 'iskati'; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "mystery",
+      "subject": "neraziskljivost dela Elohimovega",
+      "rationale": "Verz izrecno izjavlja, da del pod soncem človek ne more najti niti modrec — zabrt spoznalni prostor."
+    }
+  ],
+  "translation": "In videl sem ⟨את⟩ vsa dela, ki jih je storil Elohim: človek ne more najti ⟨את⟩ dela, ki je storjeno pod soncem; kljub temu, da se človek trmuje iskati ⟨ga⟩, ne bo našel; in celo če modrec reče, da ve, ne bo mogel najti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d00bdb759115331f7f1163ca1680c2a459a6f1fde915cacd13f444bac29ca15d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/8\/17-17.1792437118098.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "in videl sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vsa dela, ki jih je storil Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "more"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "למצוא",
+      "gloss": "najti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dela, ki je storjeno pod soncem"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "je storjeno"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soncem"
+    },
+    {
+      "surface": "בשל",
+      "gloss": "kljub temu, da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעמל",
+      "gloss": "se trmuje"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "iskati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne bo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "našel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "in celo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "modrec"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da ve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne bo mogel"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mogl"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "najti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:58.099700706Z",
+  "model": "glm-5.3"
+}

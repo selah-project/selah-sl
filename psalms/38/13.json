@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "življenje",
+      "rationale": "נפש je dihajoče bitje, življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבקשי \/ דרשי",
+      "rationale": "dva glagola iskanja v vzporednici — tisti, ki iščejo njegovo življenje, proti tistim, ki sledijo njegovemu zlu"
+    }
+  ],
+  "translation": "In tisti, ki iščejo moje življenje, so nastavili zanke; in tisti, ki doréčejo moega zla, govorijo pogube, in prevare premišljajo ves dan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/13-16.1792434796954.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "so nastavili zanke"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tisti, ki iščejo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moje življenje"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "in tisti, ki doréčejo"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mojega zla"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govorijo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "pogube"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "in prevare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "premišljajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:16.955529053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 14:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Slovenščina potrebuje osebek pri ויהלך; hebrejščina ga ima v končnici."
+    },
+    {
+      "kind": "alternative",
+      "subject": "משנה פניו",
+      "rationale": "Dovoljen tudi brez osebka 'obraz se mu spremeni' — neosebni sistem hebrejščine."
+    }
+  ],
+  "translation": "Premagaš ga za vselej, in ⟨on⟩ odide; spremeniš njegov obraz in ga pošlješ proč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7923ceb8a410aa636914b3416f46a71b3e03e41d9702343a153269018cf76dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/14\/17-20.1792436360784.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתקפהו",
+      "gloss": "premagaš ga"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "za vselej"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "in odide"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "spremeniš"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "njegov obraz"
+    },
+    {
+      "surface": "ותשלחהו",
+      "gloss": "in ga pošlješ proč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:20.785533457Z",
+  "model": "glm-5.3"
+}

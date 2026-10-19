@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואעד עדים",
+      "rationale": "Dovedek »postavil priče«: dobesedno »pričal sem priče«, torej priče poklicane s ponovljeno izjavo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tehtnica",
+      "rationale": "במאזנים je dvojina — »na dveh tehtnicah«, en pripomoček v paru."
+    }
+  ],
+  "translation": "In zapisal sem v listino, zapečatil ⟨sem⟩, postavil priče in odtehtal srebro na tehtnici.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/32\/9-12.1792431656299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "In zapisal sem"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v listino"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "zapečatil"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "postavil priče"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "priče"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "in odtehtal"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "na tehtnici"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:56.300503432Z",
+  "model": "glm-5.3"
+}

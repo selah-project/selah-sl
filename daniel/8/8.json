@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 8:8",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rogove",
+      "rationale": "slovenščina potrebuje samostalnik; חזות je pridevniško 'opazne (stvari)'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חזות",
+      "rationale": "'opazne rogovje' ali 'videnje štirih' — YLT bere 'vision of four'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוחות השמים so 'strani\/vetrovi nebes' — ruah ohranjena kot ena beseda"
+    }
+  ],
+  "translation": "In kozel se je zelo povečal, in ko je bil pri svoji največji moči, prelomljeno je bilo veliko rogovje, in vstale so štiri opazne ⟨rogove⟩ namesto njega, proti štirim ruah nebes.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "491aa1c5cc94242790b105f345e06a1817693a5aba901e1e83e28999032798c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/5-8.1792437538998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצפיר",
+      "gloss": "in kozel"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kobil"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "se je povečal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "וכעצמו",
+      "gloss": "ko je bil pri svoji moči"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "prelomljeno je bilo"
+    },
+    {
+      "surface": "הקרן",
+      "gloss": "veliko rogovje"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "ותעלנה",
+      "gloss": "in vstale so"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "opazne"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štiri"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "namesto njega"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "proti štirim"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruah — stranem nebes"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    }
+  ],
+  "timestamp": "2026-10-19T19:18:59.002725228Z",
+  "model": "glm-5.3"
+}

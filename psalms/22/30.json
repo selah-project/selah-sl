@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu \/ življenjski sili', ne ločeni duši."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונפשו לא חיה",
+      "rationale": "'njegova duša ni oživela' (dobesedno) proti 'ne more ohraniti svoje duše pri življenju' (KJV\/JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "požlahtni",
+      "rationale": "דשני dobesedno 'debeli \/ maščobni' zemlje — bogati in mogočni."
+    }
+  ],
+  "translation": "Jedli bodo in priklonili se bodo vsi požlahtni zemlje ⟨pred njim⟩; pokleknili bodo vsi, ki sestopajo v prah, in ⟨ta, čigar⟩ duša ni oživela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/29-32.1792434658263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "jedli bodo"
+    },
+    {
+      "surface": "ושתחוו",
+      "gloss": "in priklonili se bodo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "požlahtni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "pokleknili bodo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ki sestopajo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "v prah"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "in njegova duša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "oživela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:58.264360787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rečejo v svojem srcu",
+      "rationale": "Hebrejski idiom za notranje premislevanje, ne zunanje govorjenje."
+    },
+    {
+      "kind": "you",
+      "subject": "govor Jahve",
+      "rationale": "Prvoosebni božji glas ('sem si zapomnil', 'pred mojim obličjem') neposredno obrača obsodbo na Izrael."
+    }
+  ],
+  "translation": "In ne rečejo v svojem srcu: vso njihovo zlo sem si zapomnil; zdaj so jih obdale njihova dejanja, pred mojim obličjem so bila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/7\/1-4.1792433835969.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "rečejo"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "v svojem srcu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "njihovo zlo"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "sem si zapomnil"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "so jih obdale"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "njihova dejanja"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mojim obličjem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:15.970726097Z",
+  "model": "glm-5.3"
+}

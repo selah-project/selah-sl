@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשקי",
+      "rationale": "Določen glagol נשק tu pomeni 'oboroženi z', ne 'poljubljati'; Qal particip aktivnih 'nosilcev' orožja."
+    },
+    {
+      "kind": "alternative",
+      "subject": "dvesto tisoč",
+      "rationale": "YLK 'dvesto poglavarjev' (אלף kot 'plemenski poglavar'), a večina bere 'tisoč'."
+    }
+  ],
+  "translation": "In iz Binjamina: mogočen junak Eliada, in z njim oboroženci z lokom in ščitom dvesto tisoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/17\/17-19.1792438627267.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "in iz"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mogočen junak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jakosti"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliada"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "in z njim"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "oboroženci"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "z lokom"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "in ščitom"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvesto"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:07.268394204Z",
+  "model": "glm-5.3"
+}

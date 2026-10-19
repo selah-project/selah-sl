@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima glagola biti v pregovorni nominalni stavbi"
+    },
+    {
+      "kind": "crux",
+      "subject": "לב מרפא",
+      "rationale": "dovršni ali nedovršni: 'srce, ki zdravi' \/ 'zdravo (mirno) srce'"
+    }
+  ],
+  "translation": "Srce, ki zdravi, ⟨je⟩ življenje mesa, gnitje kosti pa ⟨je⟩ zavist.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fba42c40bf9affc3fdd5d2f40c5d3e593b95c68d1abe959f275af7a4f559c92b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/29-32.1792435975946.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "življenje"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ki zdravi"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "gnitje"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "zavist"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:55.948045558Z",
+  "model": "glm-5.3"
+}

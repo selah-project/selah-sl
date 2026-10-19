@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hudič",
+      "rationale": "רע je pridevnik »hoden\/zloben«; pridevnik zamaknjen za samostalnikom »človek«"
+    }
+  ],
+  "translation": "Reši me, Jahve, pred hudičem človekom, pred možem nasilja me varuj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/140\/1-4.1792435725958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Reši me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "pred človekom"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hudičem"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "pred možem"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "me varuj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:45.958934095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mesecu⟩",
+      "rationale": "slovenščina potrebuje samostalnik kjer hebrejščina pušča »v prvem« brez njega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "macot",
+      "rationale": "מצות je beseda po zvoku (hbread maces), ne opis »nekvašen kruh«"
+    },
+    {
+      "kind": "you",
+      "subject": "vam",
+      "rationale": "neposreden nagovor Izraelu glede praznika"
+    }
+  ],
+  "translation": "V prvem ⟨mesecu⟩, štirinajsti dan meseca, vam bo pasha, praznik sedmih dni; macot se bo jedlo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "71fef6124124922a471a36a195be2d461eb7ba14c115d53cfe54d33f52cb6058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/45\/21-24.1792433706926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "v prvem"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "štirinajsti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "meseca"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pasha"
+    },
+    {
+      "surface": "חג",
+      "gloss": "praznik"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "sedmih"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "macot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se bo jedlo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:15:06.927728332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bili⟩",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga v tem stavku nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodbina",
+      "rationale": "Zaključek seznama sinov z nazivom glavarjev očetov."
+    }
+  ],
+  "translation": "In ⟨את⟩ Jeuc in ⟨את⟩ Šakijo in ⟨את⟩ Mirmo. To so ⟨bili⟩ njegovi sinovi, glavarji očetov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/9-12.1792438099577.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Jeuc"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeuc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Šakijo"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Šakijo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Mirmo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavarji"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "očetov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:19.580074645Z",
+  "model": "glm-5.3"
+}

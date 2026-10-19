@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mojega\/mojemu gospoda",
+      "rationale": "אדני je naslov človeka (Moša), zato »gospod« in ne Ime."
+    },
+    {
+      "kind": "substitution",
+      "subject": "od Jahve",
+      "rationale": "Hebrejščina ima passiv z ב: »ukazano v\/s Jahve«; slovenščina potrebuje »od«."
+    },
+    {
+      "kind": "you",
+      "subject": "govorci Mošetu",
+      "rationale": "Neposreden nagovor Mošeta in knezov."
+    }
+  ],
+  "translation": "In rekli so: Mojega gospoda je ukazal Jahve, da da ⟨את⟩ deželo v dediščino po žrebu sinovom Jisraela; in mojemu gospodu je bilo ukazano od Jahve, da da ⟨את⟩ dediščino Celofhada, našega brata, njegovim hčerem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b293b9973e761eae7a3dbfc8dae5089ef1c5948eb521200b8f5abaf6c6fe0cfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/36\/1-4.1792425614318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojega gospoda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mojega gospoda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je ukazal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deželo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "v dediščino"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "po žrebu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "in mojemu gospodu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je bilo ukazano"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dediščino Celofhada"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dediščino"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Celofhada"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "našega brata"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "njegovim hčerem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:14.319227029Z",
+  "model": "glm-5.3"
+}

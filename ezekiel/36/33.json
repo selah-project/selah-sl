@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 36:33",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩\/struktura",
+      "rationale": "slovenščina potrebuje veznik in glagolske oblike, ki jih hebrejščina izraža s predponskimi oblikami"
+    },
+    {
+      "kind": "substitution",
+      "subject": "opustele",
+      "rationale": "החרבות je dobesedno 'izsušene\/požejane', pomeni opustošene kraje"
+    }
+  ],
+  "translation": "Tako govori Adonaj Jahve: V dan, ko vas očistim ⟨od⟩ vseh vaših krivdic, vas naselim v mesta in zgrajene bodo opustele.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "812d97991d1e222a17c9e2dbd786a2735762fdad0c7b843a101675b6c9862575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/36\/33-36.1792433594437.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "V dan"
+    },
+    {
+      "surface": "טהרי",
+      "gloss": "očistim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vseh"
+    },
+    {
+      "surface": "עונותיכם",
+      "gloss": "vaših krivdic"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "naselim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "ונבנו",
+      "gloss": "zgrajene bodo"
+    },
+    {
+      "surface": "החרבות",
+      "gloss": "opustele"
+    }
+  ],
+  "timestamp": "2026-10-19T18:13:14.438588002Z",
+  "model": "glm-5.3"
+}

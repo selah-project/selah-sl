@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 6:12",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהים v množinski obliki, prevod ohranja Elohim, ne 'Bog'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שכרו",
+      "rationale": "Slovnično 'njegova plača\/najela ga je' — kdo je predmet: Šemaja je najet (JPS\/KJV), brez predmeta vhebrejščini."
+    }
+  ],
+  "translation": "In spoznal sem, in glej, Elohim ga ni poslal, kajti prerokbo je govoril zoper mene, in Tobija in Sanvalat sta ga najela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/6\/9-12.1792437837451.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכירה",
+      "gloss": "in spoznal sem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ga je poslal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הנבואה",
+      "gloss": "prerokbo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zoper mene"
+    },
+    {
+      "surface": "וטוביה",
+      "gloss": "in Tobija"
+    },
+    {
+      "surface": "וסנבלט",
+      "gloss": "in Sanvalat"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "sta ga najela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:23:57.452790448Z",
+  "model": "glm-5.3"
+}

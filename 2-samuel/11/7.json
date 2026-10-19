@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shalom",
+      "rationale": "לשלום rendered 'po blaginji' — Hebrew shalom is wellbeing\/peace, not mere greeting"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ולשלום ×3",
+      "rationale": "Triple repetition of 'and for the shalom of' — kept by parallel 'po blaginji'"
+    }
+  ],
+  "translation": "In Urija je prišel k njemu, in David je vprašal po blaginji Joába, po blaginji ljudstva in po blaginji vojne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eba1b03985ef8df025a0eed8c63e495ca2393a4266fb4cc9c384e885ea0c38de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/11\/6-8.1792433309998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "In je prišel"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "in je vprašal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "po blaginji"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joába"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "in po blaginji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "in po blaginji"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "vojne"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:30.000777085Z",
+  "model": "glm-5.3"
+}

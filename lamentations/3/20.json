@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכור תזכור",
+      "rationale": "podvajanje istega korena — 'spomni se, spomni' — poudarek iz ponovitve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "potone",
+      "rationale": "שוח je dobesedno 'potoniti, potopiti se'; prevodi imajo 'ponižana' (KJV) — vodna slika je v hebrejščini"
+    }
+  ],
+  "translation": "Spomni se, dobro se spomni, in moja duša potone v meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/17-20.1792437004574.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "spomni se"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "dobro se spomni"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "in potone"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:04.575486633Z",
+  "model": "glm-5.3"
+}

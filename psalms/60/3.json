@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "slovenščina zahteva pomožnik »si«, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנפת",
+      "rationale": "dobesedno »si težko dihal« — beseda za jezo, ki izhaja iz dihanja"
+    },
+    {
+      "kind": "invitation",
+      "subject": "vrni nas",
+      "rationale": "prošnja-usmerjen nagovor Elohima v množini (»nas«)"
+    }
+  ],
+  "translation": "Elohim, zavrnil si nas, razbil si nas, jezen si bil — vrni nas!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/1-4.1792434959119.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "zavrnil si nas"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "razbil si nas"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "jezen si bil"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "vrni (nas)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:59.122270383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Hebrejščina brez veznika; slovenščina ga zahteva"
+    },
+    {
+      "kind": "alternative",
+      "subject": "oče Gibeona",
+      "rationale": "Nekateri prevodi (ASV, JPS, BSB) iz 9,35 vstavijo ime Jeiel; besedilo tu ga ne ima"
+    }
+  ],
+  "translation": "V Gibeonu so prebivali ⟨oče Gibeona⟩ — in ime njegove žene ⟨je bilo⟩ Maaha.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0371539a7de4f2d12139e713b179a38f26962564211f35052ed28a85ea53e8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/29-32.1792438094609.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "V Gibeonu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "so prebivali"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeona"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "njegove žene"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:14.610552514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "nebesa",
+      "rationale": "Psalm začenja s trojim imperativom 'hvalite' — vabilo celotnemu stvarstvu k slavljenju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "višave",
+      "rationale": "מרומים je 'višave\/visoke kraji', množina isto kot hebrejščina."
+    }
+  ],
+  "translation": "Hvalite Jah! Hvalite ⟨את⟩ Jahve iz nebes, hvalite ga v višavah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/148\/1-4.1792435792157.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hvalite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "v višavah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:52.158431612Z",
+  "model": "glm-5.3"
+}

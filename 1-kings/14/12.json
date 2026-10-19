@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "tu osebni zaimek »in ti«, ne aleph-tav — končnice בך razkrivajo ženski naslovnico, Jarobamovo ženo"
+    }
+  ],
+  "translation": "In ti vstani, pojdi v svojo hišo; ob prihodu tvojih nog v mesto bo umrl otrok.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/14\/9-12.1792429096275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "vstani"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "v svojo hišo"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "ob prihodu"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "tvojih nog"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "v mesto"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bo umrl"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "otrok"
+    }
+  ],
+  "timestamp": "2026-10-19T16:58:16.276861088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "אשריו je medmetalnik 'kako srečen je on!' — 'on' je dodan za slovensko sintakso."
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר",
+      "rationale": "'beseda\/zadeva' — KJV 'handleth a matter wisely' proti JPS 'giveth heed unto the word'."
+    }
+  ],
+  "translation": "Kdor je razumen glede besade, našel bo dobro; in kdor zaupa v Jahveju, srečen je ⟨on⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/17-20.1792435985319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "kdor je razumen"
+    },
+    {
+      "surface": "על",
+      "gloss": "glede"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besede"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "našel bo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "in kdor zaupa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "srečen je on"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:05.321220460Z",
+  "model": "glm-5.3"
+}

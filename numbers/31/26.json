@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "štetje plena",
+      "rationale": "ukaz, da se povzdigne 'glava' (seštevek) plena — štetje ujetih ljudi in živali"
+    },
+    {
+      "kind": "elision",
+      "subject": "השבי",
+      "rationale": "bdal-konstrukcija 'plena ujetnikov' — slovenščina potrebuje odvisni rodilnik"
+    }
+  ],
+  "translation": "Povzdigni ⟨את⟩ glavo plena ujetnikov, izmed ljudi in izmed živine — ti in Elazar duhovnik ter poglavja očetov ⟨od⟩ občine.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d429b15ad0f108977781ae15b43b91547ef781aa2deca7dc10fa78e2818b21c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/31\/25-28.1792425487057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "povzdigni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavo plena ujetnikov"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavo"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "plena"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "ujetnikov"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "izmed ljudi"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "in izmed živine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "in Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "ter poglavja"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "očetov"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "občine"
+    }
+  ],
+  "timestamp": "2026-10-19T15:58:07.057861573Z",
+  "model": "glm-5.3"
+}

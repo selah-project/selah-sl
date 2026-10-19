@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nekoga⟩",
+      "rationale": "Hebrejščina ima samo particip מדבר 'govorečega' brez osebka"
+    },
+    {
+      "kind": "alternative",
+      "subject": "in mož je stal ob meni",
+      "rationale": "היה עומד dobesedno 'in mož je bil stoje' — trajnostno stanje"
+    }
+  ],
+  "translation": "In slišal sem ⟨nekoga⟩ govoriti k meni iz hiše, in mož ⟨je⟩ stal ob meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/43\/5-8.1792433690101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "in slišal sem"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "iz hiše"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in mož"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stoje"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "ob meni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:14:50.102217469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "prošnja",
+      "rationale": "Dvakratna imperativna prošnja — 'pokaži' in 'daj' — neposreden nagovor."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישענו \/ וישעך",
+      "rationale": "Beseda יֶשַׁע iz v. 5 ('Elohim rešitve naše') se vrne tukaj — okvir prošnje se sklene."
+    }
+  ],
+  "translation": "Pokaži nam, Jahve, hesed svoj, in rešitev svojo nam daj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/5-8.1792435174296.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Pokaži nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed svoj"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "in rešitev svojo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:34.298534048Z",
+  "model": "glm-5.3"
+}

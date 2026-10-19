@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pred očmi",
+      "rationale": "לפני je dobesedno 'pred obrazom'; 'pred očmi' je naravna slovenščina."
+    },
+    {
+      "kind": "addition",
+      "subject": "moškega",
+      "rationale": "איש je 'mož\/človek', oklepaj zaznamuje dodano obliko v slovenščini."
+    }
+  ],
+  "translation": "Je pot, ki je ravna pred očmi ⟨moškega⟩, in njegov konec so poti smrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/25-28.1792435988131.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Je"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ravna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred očmi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨moškega⟩"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "in njen konec"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "poti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:08.131830108Z",
+  "model": "glm-5.3"
+}

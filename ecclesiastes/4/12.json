@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tistega⟩",
+      "rationale": "hebrejščina pušča predmet יתקפו brez izraženega samostalnika; dodano za jasnost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "veri 10–12",
+      "rationale": "naraščajoče število ena–dva–tri kot retorična struktura, ki se konča s trojno vrvjo"
+    }
+  ],
+  "translation": "In če en premaga ⟨tistega⟩, dva stojita nasproti njemu; in vrv, trojna, se hitro ne pretrga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/4\/9-12.1792437052932.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "In če"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "premaga"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stojita"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "nasproti njemu"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "in vrv"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "trojna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "hitro"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "pretrga"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:52.935913931Z",
+  "model": "glm-5.3"
+}

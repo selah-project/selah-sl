@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כצל",
+      "rationale": "צל je 'senca\/senca sence' — minljivost; angleško 'shadow', slovensko 'senca' ohranja sliko"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨✗⟩",
+      "rationale": "hebrejščina izpušča osebek 'za to'; dodano oklepajno okno ni potrebno — 'dobro ne bo krivičnemu' je dobesedno"
+    }
+  ],
+  "translation": "In dobro ne bo ⟨✗⟩ krivičnemu, in ne bo podaljšal dni kakor senca, ker se ne boji pred Elohimom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/8\/13-16.1792437162403.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "in dobro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "krivičnemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "bo podaljšal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kakor senca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ker"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boji"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimom"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:42.404381420Z",
+  "model": "glm-5.3"
+}

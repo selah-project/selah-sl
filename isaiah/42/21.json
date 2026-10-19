@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חפץ למען צדקו",
+      "rationale": "'Jahve je hotel zaradi svojega cedeka' — ali 'začetnik cedeka' (cilj) ali zaradi svoje zvestobe; izbira vpliva na to, kdo prejema poveličanje Tore."
+    },
+    {
+      "kind": "elision",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je', hebrejščina ga nima."
+    }
+  ],
+  "translation": "Jahve je hotel zaradi svojega cedeka: poveličil je Toro in jo naredil veličastno.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/42\/21-24.1792430612904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "je hotel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "svojega cedeka"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "poveličil je"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toro"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "in naredil veličastno"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:32.905031069Z",
+  "model": "glm-5.3"
+}

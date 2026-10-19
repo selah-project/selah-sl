@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "poslal",
+      "rationale": "שלח tu pomeni 'izročil\/pustil, da gredo' (KJV: gave them up), dobesedno 'poslal'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "po svojih načrtih",
+      "rationale": "במועצותיה׸ — 'v svojih namenih', zloraba svetovalnih izrazov."
+    }
+  ],
+  "translation": "In sem jih poslal ⟨v⟩ trmastosti njihovega srca, hodili bi po svojih načrtih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/13-16.1792435187856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "in sem jih poslal"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "v trmastosti"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihovega srca"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "hodili bi"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "po svojih načrtih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:47.857206355Z",
+  "model": "glm-5.3"
+}

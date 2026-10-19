@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "je videlo",
+      "rationale": "Hebrejščina ne pove, kaj je morje videlo; nekateri prevodi dodajo 'to' — izpuščeno, ker besedilo tega ne pravi."
+    }
+  ],
+  "translation": "Morje je videlo in pobegnilo, Jordan se je obrnil nazaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/114\/1-4.1792435465368.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Morje"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "je videlo"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "in pobegnilo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "se je obrnil"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "nazaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:25.369889034Z",
+  "model": "glm-5.3"
+}

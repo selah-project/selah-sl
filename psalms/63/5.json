@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojem",
+      "rationale": "slovenščina zahteva svojilni zaimek, hebrejščina ga izraža s končnico"
+    }
+  ],
+  "translation": "Tako Te bom blagoslavljal v svojem življenju, v Tvojem imenu dvigam svoje dlani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/63\/5-8.1792434986060.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "Te bom blagoslavljal"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "v svojem življenju"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "v Tvojem imenu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dvigam"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "svoje dlani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:26.061868400Z",
+  "model": "glm-5.3"
+}

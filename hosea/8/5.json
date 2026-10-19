@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זָנַח עֶגְלֵךְ",
+      "rationale": "Kdo koga zavrača: 'telo te je zavrnilo' (KJV, Geneva) ali 'zavrnil je (Elohim) tvoje tele' (ASV, BSB) — glagol brez izraženega subjekta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אַפִּי",
+      "rationale": "dobesedno 'moj nos\/nozdrvi' — slika jeze, iz katere dimi."
+    },
+    {
+      "kind": "crux",
+      "subject": "נִקָּיוֹן",
+      "rationale": "'nedolžnost\/čistost' ali 'nedolžni dejanji'; vprašanje: 'doklej ne bodo zmožni čistosti'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Šomeron",
+      "rationale": "Neposreden ogovor Samarije v drugi osebi."
+    }
+  ],
+  "translation": "Zavrgel je ⟨je⟩ tvojega teleta, Šomeron; vnela se je jeza moja nad njimi. Doklej ne bodo zmožni neŽnosti?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/8\/5-8.1792433831101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זָנַח֙",
+      "gloss": "Zavrgel je"
+    },
+    {
+      "surface": "עֶגְלֵ֣ךְ",
+      "gloss": "tvojega teleta"
+    },
+    {
+      "surface": "שֹֽׁמְר֔וֹן",
+      "gloss": "Šomeron"
+    },
+    {
+      "surface": "חָרָ֥ה",
+      "gloss": "vnela se je"
+    },
+    {
+      "surface": "אַפִּ֖י",
+      "gloss": "jeza moja"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "מָתַ֕י",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוּכְל֖וּ",
+      "gloss": "bodo zmožni"
+    },
+    {
+      "surface": "נִקָּיֹֽן",
+      "gloss": "nežnosti — nedolžnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:11.102628921Z",
+  "model": "glm-5.3"
+}

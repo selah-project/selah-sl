@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Hebrejščina je brez glagola; slovenščina potrebuje kopulo."
+    },
+    {
+      "kind": "crux",
+      "subject": "שאגתי",
+      "rationale": "Dobesedno »mojega rjovenja« (levji krik) — prevodi se razhajajo: rjovenje, stokanje, kričanje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלי אלי",
+      "rationale": "Podvojeni klic »El moj, El moj« — ponovitev poudarja obup."
+    }
+  ],
+  "translation": "El moj, El moj, zakaj si me zapustil? Daleč od moje rešitve ⟨so⟩ besede mojega rjovenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/1-4.1792434645812.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "si me zapustil"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Daleč"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "od moje rešitve"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mojega rjovenja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:45.812913605Z",
+  "model": "glm-5.3"
+}

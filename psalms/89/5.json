@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זרעך",
+      "rationale": "Hebrejščina nima oznake זרעך kot tožilnice z את; seme je kar direktni predmet"
+    }
+  ],
+  "translation": "Do večnosti bom utrdil ⟨את⟩ tvoje seme in zgradil tvoj prestol za rod in rod. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/5-8.1792435242239.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "bom utrdil"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvoje seme"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "in zgradil"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "za rod"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "in rod"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tvoj prestol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:42.240489508Z",
+  "model": "glm-5.3"
+}

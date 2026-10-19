@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bilo⟩",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "idiom",
+      "subject": "איש ואיש",
+      "rationale": "Dosedni 'človek in človek' pomeni 'vsak posameznik'; dobesedna dvojica je ohranjena, saj poudarja posameznikovo izbiro."
+    },
+    {
+      "kind": "substitution",
+      "subject": "veljami",
+      "rationale": "כל רב ביתו 'vsak velikan njegove hiše' — veljave, predstojniki kraljevega gospodinjstva."
+    }
+  ],
+  "translation": "In pitje ⟨je bilo⟩ po datu: ni bilo siljenja, kajti tako je kralj postavil nad vsemi veljami svoje hiše, da storijo po želji vsakega človeka in človeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/1\/5-8.1792437192335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "In pitje"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "po datu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni bilo"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "siljenja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "je postavil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsemi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veljami"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoje hiše"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da storijo"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "po želji"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:12.338285319Z",
+  "model": "glm-5.3"
+}

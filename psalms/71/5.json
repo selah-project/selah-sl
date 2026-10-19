@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Hebrew lacks copula; nominal clause"
+    },
+    {
+      "kind": "substitution",
+      "subject": "upanje",
+      "rationale": "תקוה je dobesedno vrv\/pričakovanje; upanja-vrvi ohranja sliko"
+    }
+  ],
+  "translation": "Kajti ti ⟨si⟩ moja upanja-vrvi, Adonaj Jahve, moje zatočišče od svoje mladosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/5-8.1792435086645.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "moja upanja-vrvi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "moje zatočišče"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od svoje mladosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:06.645663477Z",
+  "model": "glm-5.3"
+}

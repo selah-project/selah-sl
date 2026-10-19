@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חברונה",
+      "rationale": "hebrejščina nosi končnico -ה za smer (»v Hevron«); slovenščina smer izrazi s predlogom"
+    },
+    {
+      "kind": "addition",
+      "subject": "smo",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "you",
+      "subject": "k Davidu",
+      "rationale": "nagovor cele skupnosti Jisraela Davidu s besedami zvestobe"
+    }
+  ],
+  "translation": "In zbrali so se vsi Jisraelci k Davidu v ⟨Hevron⟩, rekoč: Glej, tvoja kost in tvoje meso ⟨smo⟩ mi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/1-4.1792438201590.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "In zbrali so se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "v Hevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "tvoja kost"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "in tvoje meso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:01.607260520Z",
+  "model": "glm-5.3"
+}

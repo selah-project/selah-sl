@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩",
+      "rationale": "Slovenščina potrebuje predlog 'v'; hebrejščina ima samo ד v שער."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשער",
+      "rationale": "Merilo 'v vratih' — kraj sojenja; nespametnjevi sinovi nimajo zagovornika na sodišču."
+    },
+    {
+      "kind": "elision",
+      "subject": "מישע",
+      "rationale": "Beseda združuje 'rešitev, svobodo, blaginjo' — ena beseda, tri plati."
+    }
+  ],
+  "translation": "Njegovi sinovi so daleč od rešitve in so strti ⟨v⟩ vratih, in ni rešitelja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/1-4.1792436258407.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "so daleč"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Njegovi sinovi"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "od rešitve"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "so strti"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨v⟩ vratih"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "rešitelja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:38.409911275Z",
+  "model": "glm-5.3"
+}

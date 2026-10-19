@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "znanec naš",
+      "rationale": "מודעת: sorodnik\/znanc (KJV sorodnik) proti dobesedno 'znanc' — sorodstvo je sklepek iz Rut 2,1"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (pred נערותיו)",
+      "rationale": "predlog 'z', ne aleph-tav označevalnik; zapisan kot navaden predlog"
+    },
+    {
+      "kind": "you",
+      "subject": "pri katerem si bila",
+      "rationale": "nadaljnji nagovor Ruti"
+    }
+  ],
+  "translation": "Zdaj pa — ali ni Boaz znanec naš, pri katerem si bila ⟨את⟩ z njegovimi dekleti? Glej, on véje ⟨את⟩ gumno ječmena to noč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/3\/1-4.1792436938480.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zdaj pa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "znanec naš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pri katerem"
+    },
+    {
+      "surface": "היית",
+      "gloss": "si bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "njegovimi dekleti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "véje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumno ječmena"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gumno"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ječmena"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "to noč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:58.482526472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקך je 'svoj cedek\/pravičnost' — konstrukt 'sodbe svojega cedeka', ne pridevnik 'pravične sodbe'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ob polnoči noči",
+      "rationale": "časovna določitev — חצות לילה, sredina noči."
+    }
+  ],
+  "translation": "Ob polnoči noči vstajam, da se ⟨ti⟩ zahvalim nad ⟨sodbami⟩ svojega cedeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/61-64.1792435504819.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "ob polnoči"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noči"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "vstajam"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "da se zahvalim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨sodbami⟩"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "svojega cedeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:04.820583263Z",
+  "model": "glm-5.3"
+}

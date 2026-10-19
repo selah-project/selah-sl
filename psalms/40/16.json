@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על עקב",
+      "rationale": "דoslovno 'na peti svoje sramote' — prevodi se razhajajo: 'kot poplačilo za' (geneva, kjv) ali preprosto 'zaradi' (asv, jps)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הֶאָח הֶאָח",
+      "rationale": "šaljivi vzklik 'heha, heha' ponovljen — posmeh, ki ga slovenski 'heha' le delno prenese."
+    }
+  ],
+  "translation": "Opustošeni naj bodo zaradi pete svoje sramote, ki mi govóre: heha, heha!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/40\/13-16.1792434809050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "opustošeni naj bodo"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "pete"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "svoje sramote"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ki mi govóre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heha"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:29.052370026Z",
+  "model": "glm-5.3"
+}

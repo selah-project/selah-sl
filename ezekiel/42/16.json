@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמש אמות קנים",
+      "rationale": "hebrejščina dobesedno pravi 'pet komolcev palic'; KJV 'pet sto palic' (dodaja 'sto'), BSB 'pet sto komolcev' — masoretka podaja le 'pet komolcev palic'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח הקדים",
+      "rationale": "'ruah' je tu smer vetra — 'vzhodna stran' (smer vzhodnega vetra), ne 'veter' sam."
+    },
+    {
+      "kind": "measurement",
+      "subject": "celoten verz",
+      "rationale": "merjenje vzhodne strani s palico za merjenje."
+    }
+  ],
+  "translation": "Izmeril je vzhodno stran s palico mere, pet komolcev palic, s palico mere, naokoli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "72ea279afc917057bfb074b066c4b500967484d5743282bda2499e78a0becba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/42\/13-16.1792433652096.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "izmeril je"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "vzhodna"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "s palico"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "palic"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "s palico"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokoli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:14:12.098702973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zrenica, hčer očesa",
+      "rationale": "אישון בת עין dobesedno 'mali mož, hči očesa' — slovensko 'zrenica očesa'; slika se delno ohrani z 'hčer očesa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישון \/ בת",
+      "rationale": "'Mali mož' in 'hči' istega očesa — dvojna metafora v enem izrazu."
+    }
+  ],
+  "translation": "Varuj me kakor zrenico, hčer očesa, v senci svojih peruti me skrij.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/5-8.1792434601140.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Varuj me"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kakor zrenico"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčer"
+    },
+    {
+      "surface": "עין",
+      "gloss": "očesa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "v senci"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "svojih peruti"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "me skrij"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:01.142516929Z",
+  "model": "glm-5.3"
+}

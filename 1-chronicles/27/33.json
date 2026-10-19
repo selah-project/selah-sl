@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrejščina nima kopule; slovenščina jo zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prijatelj",
+      "rationale": "רע je 'družabnik, tovariš', uradni dvorni naziv 'kraljev prijatelj'"
+    }
+  ],
+  "translation": "in Ahitofel ⟨je bil⟩ svetovalec kralju, Hušaj Arčan pa prijatelj kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5eae05505eef4b078990407a3196fcce766f50adad8ad18822d34166d5022c29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/27\/33-34.1792438385605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "in Ahitofel"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "svetovalec"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "Hušaj pa"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Arčan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "prijatelj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:05.605785173Z",
+  "model": "glm-5.3"
+}

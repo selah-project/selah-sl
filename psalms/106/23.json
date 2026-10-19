@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bil⟩",
+      "rationale": "Slovenščina zahteva nikalni pomožnik pri protivnem pogojnem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "v prelomu",
+      "rationale": "בפרץ je vojaška slika 'vrzel v obzidju'; Mojzes stoji v prelomu pred Jahve."
+    }
+  ],
+  "translation": "In rekel je, da jih bo uničil — če ne bi ⟨bil⟩ Moše, njegov izbranec, stal v prelomu pred njim, da bi odvrnil njegovo jezo od uničenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/21-24.1792435380923.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "da jih bo uničil"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "če ne bi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "njegov izbranec"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stal"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "v prelomu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "da bi odvrnil"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "njegovo jezo"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "od uničenja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:00.924223385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מזבחותים",
+      "rationale": "sufiks -ותים je dolg množinski sufiks; dobesedno 'oltarji-njihovi'"
+    }
+  ],
+  "translation": "In kosti duhovnikov je sežgal na njihovih oltarjih in očistil ⟨את⟩ Jehudo in ⟨את⟩ Jerušalajim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "261d8261f136a4af713a37ab7c9e3b06b2f33404cf8f0dfb9dc10eed59bd6fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/34\/5-8.1792438898724.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "in kosti"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "duhovnikov"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "je sežgal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "njihovih oltarjih"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "in očistil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:38.725940805Z",
+  "model": "glm-5.3"
+}

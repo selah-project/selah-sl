@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נוֹד",
+      "rationale": "Postransko označeno kot 'potovanje v pregnanstvo'; tu množinsko 'moje beganje' — mojstroke, ne izgnanstvo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "knjiga",
+      "rationale": "Verz šteje in zapisuje: prešteta beganja, solze zapisane v knjigi — računovodstvo trpljenja."
+    },
+    {
+      "kind": "crux",
+      "subject": "נֹאד",
+      "rationale": "Mecha iz usnja za tekočino — 'steklenica' (KJV) je anahronizem; 'boca' prav tako."
+    }
+  ],
+  "translation": "Moje beganje si preštetal; ti, položi mojo solzo v svojo meho — ali ni ⟨že⟩ v tvoji knjigi?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/56\/9-12.1792434925616.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "moje beganje"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "si preštetal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "položi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mojo solzo"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "v svojo meho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "v tvoji knjigi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:25.616651558Z",
+  "model": "glm-5.3"
+}

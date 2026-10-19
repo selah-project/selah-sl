@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 50:38",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga izpušča in poudari s היא."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתהללו",
+      "rationale": "Od הלל: »obnemeti\/norčevati« (KJV, JPS) ali »hvaliti se« (YLT) — ista oblika nosi oba pomena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/חרב",
+      "rationale": "Suša tukaj zveni enako kot meč v prejšnjem verzu; besedna igra se v slovenščini izgubi."
+    }
+  ],
+  "translation": "Suša nad njenimi vodami, in usahnejo; kajti dežela rezanih podob ⟨je⟩ ⟨ona⟩, in nad strašnimi liki bodo obnemeli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c20f7490378a5e2a585d9aa5232a57bdc3b11b4a48017f1117b82ac24ac7e5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/50\/37-40.1792431956491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "suša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מימיה",
+      "gloss": "njenimi vodami"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "in usahnejo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "פסלים",
+      "gloss": "rezanih podob"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "ובאימים",
+      "gloss": "in nad strašnimi liki"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "bodo obnemeli"
+    }
+  ],
+  "timestamp": "2026-10-19T17:45:56.492304500Z",
+  "model": "glm-5.3"
+}

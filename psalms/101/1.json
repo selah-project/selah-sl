@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מזמור",
+      "rationale": "inštrumentalna pesem — glasbeni naslov, ostaja kot mizmor"
+    },
+    {
+      "kind": "you",
+      "subject": "tebi, Jahve",
+      "rationale": "neposreden ogovor Jahveja"
+    }
+  ],
+  "translation": "Davidov mizmor. O hesedu in sodbi bom pel; tebi, Jahve, bom godil na strunah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/101\/1-4.1792435361152.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "o hesedu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "in sodbi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": " bom pel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bom godil na strunah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:41.154294498Z",
+  "model": "glm-5.3"
+}

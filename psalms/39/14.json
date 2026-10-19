@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Odgledi od mene",
+      "rationale": "השע: 'poglej proč od mene' (JPS\/BSB) proti 'prizanašaj mi' (KJV, iz targuma)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "se razveselim",
+      "rationale": "ואבליגה dobesedno 'se razjasnim\/zažarim'; druga možnost 'se okrepim'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden zaključni nagovor Boga"
+    }
+  ],
+  "translation": "Odgledi od mene, in se razveselim, preden odidem in me ni več.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/13-14.1792434793891.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Odgledi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "in se razveselim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "preden"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "odidem"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "in me ni več"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:13.892705824Z",
+  "model": "glm-5.3"
+}

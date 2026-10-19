@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "k bralcu\/ bogoslužju",
+      "rationale": "Trojni imperativ hallelu — verz povabljen v slavospev."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו ×3",
+      "rationale": "Trojna ponovitev imperativa, v slovenščini ohranjena."
+    }
+  ],
+  "translation": "Hvalite Jah! Hvalite ⟨את⟩ ime Jahveja, hvalite, služabniki Jahveja!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/135\/1-4.1792435613229.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahveja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hvalite"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabniki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:53.229804671Z",
+  "model": "glm-5.3"
+}

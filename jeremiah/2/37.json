@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 2:37",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bodo",
+      "rationale": "Hebrew has no verb 'to be' in 'your hands on your head'; Slovenian requires the copula"
+    },
+    {
+      "kind": "idiom",
+      "subject": "roke na glavi",
+      "rationale": "Gesta žalosti in sramu; dobesedna slika je ohranjena"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאס יהוה",
+      "rationale": "Vrstni red: hebrejščina postavi glagol pred Ime; slovenščina obrne"
+    }
+  ],
+  "translation": "Tudi od ⟨את⟩ tega boš šla ven, in tvoje roke ⟨bodo⟩ na tvoji glavi, kajti zavrgel je Jahve tvoja zatočišča, in ne boš uspela pri njih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "013c75bd8009218c23ddaf1145c06b9b20e7c258fe01033abb3a4540eec14d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/37-37.1792430960799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "tega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "boš šla ven"
+    },
+    {
+      "surface": "וידיך",
+      "gloss": "in tvoje roke"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tvoji glavi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "zavrgel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במבטחיך",
+      "gloss": "tvoja zatočišča"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תצליחי",
+      "gloss": "boš uspela"
+    },
+    {
+      "surface": "להem",
+      "gloss": "pri njih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:20.800115964Z",
+  "model": "glm-5.3"
+}

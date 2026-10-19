@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבת",
+      "rationale": "izvirni pomen 'bolečina\/rana' (LXX: 'sramoto'); 'malik' v Strongovem slovarju tu ne ugaja"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": "לָבַט se v Tanahu pojavi samo tu; pomen 'pasti\/biti zrušen' je izpeljan"
+    }
+  ],
+  "translation": "Kdor mežika z očesom, povzroča bolečino; nespametnež z ustnicami pa bo zrušen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/10\/9-12.1792435896168.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "kdor mežika"
+    },
+    {
+      "surface": "עין",
+      "gloss": "z očesom"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "povzroča"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "bolečino"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "nespametnež pa"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "z ustnicami"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "bo zrušen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:36.169333812Z",
+  "model": "glm-5.3"
+}

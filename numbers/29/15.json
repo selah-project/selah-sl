@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "desetina na jagnje",
+      "rationale": "Ponovitev עשרון עשרון poudarja: ena desetina (efe) za vsako od štirinajstih jagnjet."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשרון עשרון",
+      "rationale": "Podvojena beseda 'desetina, desetina' — distributivni poudarek, v slovenščini izražen z 'po eno'."
+    }
+  ],
+  "translation": "in po eno desetino za eno jagnje, za štirinajst jagnjet;",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7caf05065640b1824b8b630d3c1d122bce379eb6dc62d5a423443722addb795c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/29\/13-16.1792425411042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "in po eno desetino"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "desetino"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "za jagnje"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "eno jagnje"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "za štirinajst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "štirinajst"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "jagnjet"
+    }
+  ],
+  "timestamp": "2026-10-19T15:56:51.043358484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחליף \/ ימיר",
+      "rationale": "dva bližnjska glagola za menjavo v istem verzu; ponovitev המר ימיר poudari vztrajnost menjave"
+    },
+    {
+      "kind": "addition",
+      "subject": "bo tako",
+      "rationale": "והיה besedno priredi slovenski stavčni okvir"
+    }
+  ],
+  "translation": "Ne bo ga zamenjal in ne bo menjal ⟨את⟩ njega, dobro s slabim ali slabo z dobrim; in če vendarle menja živino za živino, tedaj ⟨bo tako⟩: on in njegova zamenjava bosta sveta.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/27\/9-12.1792424662650.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "bo ga zamenjal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "bo menjal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "s slabim"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slabo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "z dobrim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "המר",
+      "gloss": "vendarle menja"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "menja"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "živino"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "za živino"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "tedaj bo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "in njegova zamenjava"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveto"
+    }
+  ],
+  "timestamp": "2026-10-19T15:44:22.650880330Z",
+  "model": "glm-5.3"
+}

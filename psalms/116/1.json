@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Ljubil sem \/ Ljubim",
+      "rationale": "perfekt אהבתי kot trajno stanje: 'Ljubim' (JPS) ali 'Ljubil sem' (KJV); hebrejščina dopušča oboje."
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahveja",
+      "rationale": "Psalmist govori v prvi osebi neposredno o Jahveju kot naslovniku svoje zahvale."
+    }
+  ],
+  "translation": "Ljubil sem, ker Jahve sliši ⟨את⟩ moj glas, mojo prošnjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/116\/1-4.1792435463155.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ljubil sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sliši"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj glas"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "moj glas"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mojo prošnjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:23.156407973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אך יצא יצא",
+      "rationale": "Dvojni glagol z אך: 'komaj-kar je šel ven' — ponovitev poudarja stisljivost trenutka"
+    },
+    {
+      "kind": "addition",
+      "subject": "da je",
+      "rationale": "Slovenščina potrebuje veznik v odvisnem stavku, hebrejščina ga s ויהי ne izraža tako"
+    }
+  ],
+  "translation": "In zgodilo se je, ko je Jichak končal blagoslavljati ⟨את⟩ Jaakova — Jaakova, ki je komaj odšel izpred ⟨את⟩ obličja Jichaka, svojega očeta — da je Esav, njegov brat, prišel z lova.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3b32dee35b19fb090e6a3468a07e2a2a7dd3ea48e78949b0d5c1534f8a8f9e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/27\/29-32.1792422525313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "končal"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "blagoslavljati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakova"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "אך",
+      "gloss": "komaj"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "odšel"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "šel ven"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "izpred ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličja"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichaka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "in Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegov brat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "prišel"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "z lova"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:45.314228110Z",
+  "model": "glm-5.3"
+}

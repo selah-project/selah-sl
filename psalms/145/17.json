@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed-poln",
+      "rationale": "חסיד iz korena חסד (hesed): 'dobroten, zvest v hesed'; običajni prevodi 'svet' ali 'milostiv' izgubijo vez na hesed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "derech\/ma'aseh",
+      "rationale": "parallelna struktura: poti\/dela, pravičen\/hesed-poln — poudarek se ponovi"
+    }
+  ],
+  "translation": "Pravičen je Jahve na vseh svojih poteh in hesed-poln na vseh svojih delih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/17-20.1792435720995.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "pravičen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na vseh"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svojih poteh"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "in hesed-poln"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na vseh"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "svojih delih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:40.996314114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 10:5",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חוצות",
+      "rationale": "'ulice' za חוצות (zunanjost, odprti prostor pred mestom); slovenščina nima bližje ene besede."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "slovenščina potrebuje oziralni 'ki' pred deležnikom 'tepčejo', hebrejščina ga nima."
+    }
+  ],
+  "translation": "In bili bodo kakor junaki, ki tepčejo blato ulic v boju, in borili se bodo, kajti Jahve je z njimi, in osramotili bodo jezdce konj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9673acada831d6f6b8a432867083438694cd5935c0468f51ebe476f7e49a291b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/10\/5-8.1792434403973.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "bili bodo"
+    },
+    {
+      "surface": "כגברים",
+      "gloss": "kakor junaki"
+    },
+    {
+      "surface": "בוסים",
+      "gloss": "tepčejo"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "blato"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ulic"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v boju"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "in borili se bodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "in osramotili bodo"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "jezdce"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "konj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:43.980092912Z",
+  "model": "glm-5.3"
+}

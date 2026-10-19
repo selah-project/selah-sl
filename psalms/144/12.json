@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨da⟩",
+      "rationale": "slovenščina potrebuje veznik za namenski odvisnik; hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "כזוית",
+      "rationale": "dobesedno 'vogal (kot štrleč)'; 'vogalni steber' ali 'izklesani vogalni kamen' (YLT: 'hewn stones')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היכל",
+      "rationale": "'velika javna stavba, palača ali tempelj'; izbrano 'palača' brez tempeljske predsodke"
+    }
+  ],
+  "translation": "⟨da⟩ bodo naši sinovi kakor sadiki, zrasli v svoji mladosti, naše hčere kakor vogalni stebri, izklesani po podobi palače.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/9-12.1792435709132.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "naši sinovi"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "kakor sadiki"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "zrasli"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "v svoji mladosti"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "naše hčere"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "kakor vogalni stebri"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "izklesani"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "po podobi"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palače"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:29.134523950Z",
+  "model": "glm-5.3"
+}

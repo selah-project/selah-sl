@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הקשה\/הקל · על\/על",
+      "rationale": "nasprotje korenov קשה (težak) in קלל (lahak) ter dvojna igra על (jarmo) in על (nad\/nase) — v slovenščini delno izgubljeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "otregel",
+      "rationale": "הקשה dobesedno 'naredil trdo\/grobim'; 'otregel' je vloga, ne dobesedna slika"
+    },
+    {
+      "kind": "you",
+      "subject": "Rehavam",
+      "rationale": "neposreden nagovor ljudstva kralju s zahtevo po olajšanju"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עלנו = nase",
+      "rationale": "עלינו dobesedno 'nad nami'; 'jarmo nad nami' je bolj dobesedno, a 'nase' ohranja sliko nadelnja"
+    }
+  ],
+  "translation": "Tvoj oče je otregel ⟨את⟩ naše jarmo; zdajlej rahli to grobo službo svojega očeta in njegovo težko jarmo, ki ga je nadel nase — ⟨na nas⟩, pa bomo služili tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/10\/1-4.1792438597573.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "tvoj oče"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "je otregel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše jarmo"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "naše jarmo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "rahli"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "od službe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "grobo"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "in od njegovega jarma"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "težkega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je nadel"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nase"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "pa bomo služili tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:37.576014475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "רָב 'množ' (YL T 'much lightning', ASV 'lightnings manifold') proti glagolu רבב 'streljati puščice' (KJV 'he shot out lightnings'); sprejeto 'množico'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "puščice",
+      "rationale": "חץ je dobesedno 'prebodevalec'; slike strele kot Jahvejevih puščic ni treba razlagati"
+    }
+  ],
+  "translation": "In poslal je svoje puščice in jih razkropil, množico strel, in jih pretresel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/13-16.1792434573980.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "in poslal je"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "svoje puščice"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "in jih razkropil"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "in strele"
+    },
+    {
+      "surface": "רב",
+      "gloss": "množico"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "in jih pretresel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:33.982924866Z",
+  "model": "glm-5.3"
+}

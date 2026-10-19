@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דמים",
+      "rationale": "dobesedno 'krvi' — množina od דם pomeni krivdo prelivanja krvi, ne krvi same."
+    },
+    {
+      "kind": "crux",
+      "subject": "במחתרת",
+      "rationale": "'podkopavanje' (vlom skozi zid) — nekateri prevajalci splošno 'vlom'; hebrejščina nosi podobo prebitja."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ni zanj krivde krvi",
+      "rationale": "'zanj' se nanaša na tatu: njegova kri ne zapade maščevanju; lahko tudi 'krvnika ne doleti krivda'."
+    }
+  ],
+  "translation": "Če bo tat pri podkopavanju najden in bo udarjen ter umre, ni zanj krivde krvi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/22\/1-4.1792423508331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "pri podkopavanju"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bo najden"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "tat"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "in bo udarjen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ter umre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krivde krvi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:25:08.331864998Z",
+  "model": "glm-5.3"
+}

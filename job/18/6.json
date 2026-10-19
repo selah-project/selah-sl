@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 18:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "postane",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ima le 'zatemni'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידעך",
+      "rationale": "isti glagol kot v 5. verzu — veriženje ugašanja luči in svetilke"
+    }
+  ],
+  "translation": "Temna postane luč v njegovem šotoru, in njegova svetilka nad njim ugasne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5416ed64d4dec85a12aca1e820602aafdaa0296d593ee57abc9025fb96c5662b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/5-8.1792436428825.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "luč"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zatemni"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "v njegovem šotoru"
+    },
+    {
+      "surface": "ונרו",
+      "gloss": "in njegova svetilka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ugasne"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:28.825721656Z",
+  "model": "glm-5.3"
+}

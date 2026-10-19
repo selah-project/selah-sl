@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morje suf",
+      "rationale": "ים סוף dobesedno 'morje koničja' (suf = papirus); ohranjeno kot morje suf, ne 'Rdeče morje'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mnogo dni",
+      "rationale": "štetje dni popotovanja okoli gore Seir."
+    }
+  ],
+  "translation": "In obrnili smo se ter odšli v puščavo, po poti k morju suf, kakor je govoril Jahve k meni, in obšli smo ⟨את⟩ goro Seir mnogo dni.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "42f8353fa702b891626b3395906b30779fa9bb32b9392bd0b91f3acd7b2ca392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/2\/1-4.1792425642078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "in obrnili smo se"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "ter odšli"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "v puščavo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "k morju"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "suf"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "in obšli smo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goro"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:42.079282214Z",
+  "model": "glm-5.3"
+}

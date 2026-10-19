@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Hebrejščina postavlja particip מיחל brez veznika; slovenščina potrebuje »ko«."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרון \/ נחר",
+      "rationale": "»grlo« in »pregorelo« — telesna slika klica, ki je spraznil glas."
+    }
+  ],
+  "translation": "Utrudil sem se s klicanjem, pregorelo mi je grlo, oči mi ugasnjajo, ⟨ko⟩ čakam na svojega Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/1-4.1792435029452.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "utrudil sem se"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "s klicanjem"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "pregorelo"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "grlo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ugasnjajo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "⟨ko⟩ čakam"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na svojega Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:09.455144480Z",
+  "model": "glm-5.3"
+}

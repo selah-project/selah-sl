@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "priležnice",
+      "rationale": "פילגש je priležnica (soprega brez polne ženene pravice); 'ljubica' bi bilo premehko"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "štetje Davidovih sinov — rodovniški seznam"
+    }
+  ],
+  "translation": "Vsi sinovi Davidovi, razen sinov priležnic, in Tamara, njihova sestra.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fc760a66c815270a4df65b8d239245bd6757a5ac1394cd2ce43f291b3dae2310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/3\/9-12.1792438003642.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "razen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "priležnic"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "in Tamara"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "njihova sestra"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:43.643064077Z",
+  "model": "glm-5.3"
+}

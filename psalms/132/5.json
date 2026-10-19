@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mogočni",
+      "rationale": "אביר je redka beseda za 'Mogočnega' (o Bogu), del vzdevka Abir Jaakov."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקום\/משכנות",
+      "rationale": "množinska oblika miškanot — več prebivališč, ohranjena kot množina."
+    }
+  ],
+  "translation": "Dokler ne najdem kraja za Jahveja, bivališč za Mogočnega Jaakova.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/5-8.1792435607875.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokler ne"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "najdem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "bivališč"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "za Mogočnega"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:47.876273752Z",
+  "model": "glm-5.3"
+}

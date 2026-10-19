@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kajti",
+      "rationale": "ve- v ולא nosi tu razložilno težo; slovenščina ga izrazi z veznikom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hiša ječe",
+      "rationale": "בית הכליא je dobesedno 'hiša ječe'; samostalnik ostaja v odvisnem sklonu, oblika vezane zveze je ohranjena"
+    }
+  ],
+  "translation": "In Jeremija je prihajal in odhajal sredi ljudstva, kajti niso ⟨את⟩ ga dali v hišo ječe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "90cd1fd9f263e60f20249b8fa04b94d8874537a741556ceab9eaa12ef9720f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/37\/1-4.1792431727852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "In Jeremija"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prihajal"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "in odhajal"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kajti niso"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "so dali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "v hišo ječe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hišo"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ječe"
+    }
+  ],
+  "timestamp": "2026-10-19T17:42:07.853612753Z",
+  "model": "glm-5.3"
+}

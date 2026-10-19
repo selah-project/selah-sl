@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax-rich",
+      "subject": "זנח",
+      "rationale": "redak glagol (5× v Tanahu) — »zavreči, odriniti«"
+    },
+    {
+      "kind": "addition",
+      "subject": "nikogar",
+      "rationale": "hebrejščina ne imenuje predmeta zavrnitve; dodan nikogar v oglatih oklepajih"
+    }
+  ],
+  "translation": "Kajti Adonaj ne zavrača ⟨nikogar⟩ na veke.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5d51e442541d7b16619391804d868acaa74cdb5ff59829202d618b7afd3f88e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/29-32.1792437003290.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "zavrača"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:03.292253257Z",
+  "model": "glm-5.3"
+}

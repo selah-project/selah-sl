@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "slovenščina zahteva osebni zaimek 'jo'; aleph-tav označuje minho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maziljenec",
+      "rationale": "המשיח je 'maziljeni' — mašiah; 'maziljenec' ohranja duhovniški pomen brez poznejših mesijanskih asociacij"
+    }
+  ],
+  "translation": "In duhovnik, maziljenec izmed njegovih sinov namesto njega, jo bo pripravil ⟨את⟩ — večni odlok za Jahveja; v celoti naj se zažge.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/6\/13-16.1792424029761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "In duhovnik"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "maziljenec"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "izmed njegovih sinov"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bo pripravil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ jo",
+      "marks": "minho"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odlok"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "v celoti"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "naj se zažge"
+    }
+  ],
+  "timestamp": "2026-10-19T15:33:49.762443657Z",
+  "model": "glm-5.3"
+}

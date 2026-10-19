@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעביר נוגש הדר מלכות",
+      "rationale": "'ki spušča pobiralca davkov po siju kraljestva' (KJV\/JPS) proti 'ki bo dvignil davke za slavo kraljestva' (Geneva\/BSB) — odvisno od navezave הדר."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באפים → v jezi",
+      "rationale": "dovnjinsko 'v nosu\/obrazu', pretvorjeno v 'v jezi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jih bo⟩",
+      "rationale": "slovenščina potrebuje osebek pri אחדים (dveh izraz dvojine\/sestavljenega števila)."
+    }
+  ],
+  "translation": "Instal se bo na njegovem mestu eden, ki spušča pobiralca davkov nad sijem kraljestva, in v dneh, nekaj ⟨jih bo⟩, bo razbit — ne v jezi in ne v vojni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "da61b9b56ac0ef38fe85e37102910045707be9f700505d541d089b33739811d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/11\/17-20.1792437569921.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Instal se bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "njegovem mestu"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "ki spušča"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "pobiralca davkov"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "nad sijem"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljestva"
+    },
+    {
+      "surface": "ובימים",
+      "gloss": "in v dneh"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "nekaj"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "bo razbit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפים",
+      "gloss": "v jezi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v vojni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:29.924043252Z",
+  "model": "glm-5.3"
+}

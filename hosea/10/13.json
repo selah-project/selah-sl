@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 10:13",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "zaorali\/poželi\/jedli",
+      "rationale": "Oranje-žetev-jedenje iz 10,12 se obrne na glavo: sejal sem pravičnost, orali so krivico — ironija, ki se v slovenščini ohrani."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sad laži",
+      "rationale": "כחש je dobesedno 'shujšanje\/odpoved mesa', preneseno hinavščina; 'laž' je skrčena izbira."
+    },
+    {
+      "kind": "you",
+      "subject": "Israel",
+      "rationale": "Nagovor se premika iz množine ('ste') na edino ('si zaupal') — Hosejev značilen preklop med Izraelom kot ljudstvom in kot osebo."
+    }
+  ],
+  "translation": "Zaorali ste krivico, nepravičnost ste poželi, jedli ste sad laži — kajti zaupal si v svojo pot, v množici svojih junakov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "85cedc65ef27f6d9c20f2c180b5cd1d55d9a12f5b6b3651560e39d494ed1f5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/10\/13-15.1792433866112.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרשתם",
+      "gloss": "zaorali ste"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivico"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "nepravičnost"
+    },
+    {
+      "surface": "קצרתם",
+      "gloss": "ste poželi"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "jedli ste"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sad"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "laži"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "zaupal si"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "v svojo pot"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v množici"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "svojih junakov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:46.113020510Z",
+  "model": "glm-5.3"
+}

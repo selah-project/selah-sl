@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩",
+      "rationale": "hebrejščina ne pove, kdo podpira prestol — kralj ali hesed; mi dopolnemo 'se' (kralj), redakta 'hesed podpira' (ylt)."
+    },
+    {
+      "kind": "crux",
+      "subject": "וסעד",
+      "rationale": "subjekt glagola: kralj podpira prestol s hesedom, ali hesed podpira prestol — prevedralci se delijo."
+    },
+    {
+      "kind": "elision",
+      "subject": "hesed · emet",
+      "rationale": "transliterirani hebrejski besedi, ker 'milost' in 'resnica' ne nosita polne teže zvestobne zaveze."
+    }
+  ],
+  "translation": "Hesed in emet varujeta kralja, in s hesedom podpira ⟨se⟩ svoj prestol.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/20\/25-28.1792436057291.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "in emet"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "varujeta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "in podpira"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "s hesedom"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "svoj prestol"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:17.293250612Z",
+  "model": "glm-5.3"
+}

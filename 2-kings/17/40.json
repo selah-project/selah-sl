@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "navada",
+      "rationale": "משפט je tu 'sodba\/pravo' v pomenu ustaljena navada — D2 dovoljuje 'navada', kjer besedilo tako pravi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ne poslušajo \/ ravnajo",
+      "rationale": "nasprotje med božjim nagovorom (vv. 34–39 'poslušajte') in 'niso poslušali'"
+    }
+  ],
+  "translation": "A niso poslušali, ampak po svoji prvi navadi ravnajo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/17\/37-40.1792429693652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a niso"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "samo"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "po svoji navadi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ravnajo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:08:13.653064306Z",
+  "model": "glm-5.3"
+}

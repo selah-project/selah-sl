@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dva tisoč šeststo trideset",
+      "rationale": "Končni seštevek preštevanja Geršonovih sinov."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Slovenščina zahteva glagol za pomožnik; hebrejščina ima ויהיו ('in bili so')."
+    }
+  ],
+  "translation": "in njihovi prešteti po njihovih družinah, po hišah njihovih očetov, ⟨so⟩ dva tisoč šeststo trideset.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "153b6e5146795d6232295451dea64ae46833aed2ab002b3e86e4621b262cee08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/4\/37-40.1792424728978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "in bili so"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "njihovi prešteti"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovih družinah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po hišah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "njihovih očetov"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dva tisoč"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "trideset"
+    }
+  ],
+  "timestamp": "2026-10-19T15:45:28.979532192Z",
+  "model": "glm-5.3"
+}

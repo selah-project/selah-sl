@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו ... יבשו",
+      "rationale": "Inclusio: koren בושׁ na začetku in pred koncem verza obdaja gibanje sovražnikov."
+    },
+    {
+      "kind": "substitution",
+      "subject": "v trenutku",
+      "rationale": "רגע je dobesedno 'utrip očesa', najkrajši čas."
+    }
+  ],
+  "translation": "Sram naj jih bo in naj se zelo vznemirijo vsi moji sovražniki, naj se vrnejo, sram naj jih bo v trenutku.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/6\/9-11.1792434497038.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Sram naj jih bo"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "in naj se vznemirijo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moji sovražniki"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "naj se vrnejo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sram naj jih bo"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "v trenutku"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:17.039575961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 1:26",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "te bodo imenovali",
+      "rationale": "Hebrejščina ima brezosebni יקרא לך 'se bo poklical zate' — dodan subjekt 'te bodo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר\/קריה",
+      "rationale": "Dve besedi za 'mesto' v vzporednih členih — ponovitev, v slovenščini izgubljena z istim prevodom."
+    }
+  ],
+  "translation": "In povrnil bom tvoje sodnike kakor na začetku in tvoje svetovalce kakor prvotno; potem te bodo imenovali mesto cedeka, zvesto mesto.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/1\/25-28.1792429886168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "In povrnil bom"
+    },
+    {
+      "surface": "שפטיך",
+      "gloss": "tvoje sodnike"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "kakor na začetku"
+    },
+    {
+      "surface": "ויעציך",
+      "gloss": "in tvoje svetovalce"
+    },
+    {
+      "surface": "כבתחלה",
+      "gloss": "kakor prvotno"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨nato⟩"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "te bodo imenovali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "zvesto"
+    }
+  ],
+  "timestamp": "2026-10-19T17:11:26.169461789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרשו",
+      "rationale": "pučnik brez člena: 'ki ga iščejo' (rod je iskani) ali 'ki išče njega' (rod je iskalec)"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעקב",
+      "rationale": "Jaakov kot ogovor ('O Jaakov') ali kot poimenovanje rodu; brez 'Bog Jaakova', ki ga dodaja BSB"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbena oznaka, ostaja kot Sela"
+    }
+  ],
+  "translation": "To je rod, ki ga išče ⟨tisti, ki⟩ iščejo tvojega obličja — Jaakov. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/24\/5-8.1792434657534.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rod"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ki ga išče"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "iščejo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvojega obličja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:57.534924736Z",
+  "model": "glm-5.3"
+}

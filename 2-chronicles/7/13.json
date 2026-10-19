@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "če",
+      "rationale": "הן\/והן\/ואם uvaja pogojne stavke; slovenščina potrebuje »če«"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חגב",
+      "rationale": "samsar\/kobila — pomen prek Strongove številke; posamezna vrsta kobilice"
+    }
+  ],
+  "translation": "Če zaprem nebo in ne bo dežja, in če zapovem kobili, naj ⟨po⟩žre deželo, in če pošljem kugo med svoje ljudstvo —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/7\/13-16.1792438487293.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "če"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "zaprem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "dež"
+    },
+    {
+      "surface": "והן",
+      "gloss": "in če"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "zapovem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "kobilo"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "naj požre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "pošljem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kugo"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "med svoje ljudstvo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:47.294847502Z",
+  "model": "glm-5.3"
+}

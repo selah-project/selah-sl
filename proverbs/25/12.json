@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "opominal",
+      "rationale": "מוכיח je 'tisti, ki dokazuje, popravlja, opominja' — nikakor 'kaznovalec'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "Slovenščina potrebuje relativnik pri שמעת, hebrejščina ima samo active participle."
+    }
+  ],
+  "translation": "Nosni obroček iz zlata in dragulj iz čistega zlata je pametni opominal na uho, ki posluša.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/9-12.1792436118613.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "nosni obroček"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "iz zlata"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "in dragulj"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "iz čistega zlata"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "opominal"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "pametni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ki posluša"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:18.614986653Z",
+  "model": "glm-5.3"
+}

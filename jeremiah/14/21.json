@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nas⟩",
+      "rationale": "hebrejščina predmeta pri תנאץ ne izreče; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "crux",
+      "subject": "spomni se",
+      "rationale": "osamljen זכר brez predmeta: 'spomni se (zaveze)' ali veže na naslednji stavek 'spomni se, ne prekrši'"
+    },
+    {
+      "kind": "you",
+      "subject": "molitev k Jahveju",
+      "rationale": "neposreden nagovor Imena v prošnji ljudstva"
+    }
+  ],
+  "translation": "Ne zaničuj ⟨nas⟩ zaradi svojega imena, ne ponižaj prestola svoje slave; spomni se, ne prekrši svoje zaveze ⟨את⟩ z nami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a22c37075a4a00cdee73751f0e66c7636c43dfc933c35debd38bff90bcb38a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/14\/21-22.1792431288048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "zaničuj"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "svojega imena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "ponižaj"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prestol"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "svoje slave"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "spomni se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "prekrši"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "svoje zaveze"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ z nami"
+    }
+  ],
+  "timestamp": "2026-10-19T17:34:48.048534349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק ostaja cedek, ne 'pravičnost'"
+    },
+    {
+      "kind": "elision",
+      "subject": "רשע",
+      "rationale": "soglasniško 'ršav' brez samoglasnikov; pomen 'hudobnež'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩",
+      "rationale": "slovenščina potrebuje predlog z instrumentalom"
+    }
+  ],
+  "translation": "Odstrani ršavega pred kraljem, in ⟨v⟩ cedeku bo utrjen njegov prestol.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/5-8.1792436135345.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "odstrani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ršavega"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "bo utrjen"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "⟨v⟩ cedeku"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "njegov prestol"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:35.346405563Z",
+  "model": "glm-5.3"
+}

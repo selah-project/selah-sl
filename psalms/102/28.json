@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "hebrejščina izpusti glagol; הוא je poudarno 'on, isti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpolnila",
+      "rationale": "יתמו dobesedno 'se bodo končala\/zapolnila'; 'imela konec' v ustaljenih prevodih"
+    }
+  ],
+  "translation": "In ti ⟨si⟩ isti, in tvoja leta se ne bodo izpolnila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/25-28.1792435344037.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "In ti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isti"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "in tvoja leta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "se bodo izpolnila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:24.039198791Z",
+  "model": "glm-5.3"
+}

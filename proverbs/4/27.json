@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨od⟩",
+      "rationale": "hebrejščina ima מ- kot predlog predložnega odvzema; 'od' je z vljudnostjo dodano"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימין\/ושמאול",
+      "rationale": "desni (svetel, močnejši) proti levi (temen, sever) — nasprotje, v slovenščini ostane"
+    }
+  ],
+  "translation": "Ne naklanjaj se ne desni ne levi, odstrani svojo nogo ⟨od⟩ hudega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/4\/25-27.1792435825892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "naklanjaj se"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desni"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ne levi"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "odstrani"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "svojo nogo"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od hudega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:25.893518323Z",
+  "model": "glm-5.3"
+}

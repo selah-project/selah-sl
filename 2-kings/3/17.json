@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je tu 'veter', a po pravilu D2 ostaja ruah — ena beseda za veter\/dih\/Duha"
+    },
+    {
+      "kind": "addition",
+      "subject": "se bo napolnila z vodo",
+      "rationale": "slovenščina potrebuje predlog in glagolsko obliko, hebrejščina ima le 'napolnila se voda'"
+    }
+  ],
+  "translation": "Kajti tako je rekel Jahve: Ne boste videli ruah in ne boste videli dežja, in ta dolina se bo napolnila z vodo, in pili boste vi in vaše črede in vaša živina.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/3\/17-20.1792429383497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "boste videli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "boste videli"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "dežja"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "in ta dolina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "se bo napolnila"
+    },
+    {
+      "surface": "מים",
+      "gloss": "z vodo"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "in pili boste"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "in vaše črede"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "in vaša živina"
+    }
+  ],
+  "timestamp": "2026-10-19T17:03:03.498116935Z",
+  "model": "glm-5.3"
+}

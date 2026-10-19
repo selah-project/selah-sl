@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina uporablja nedoločeno množinsko oblikoויקבר, slovenščina doda osebek"
+    }
+  ],
+  "translation": "In pokopali so ga ⟨את⟩ v njegovem grobu, v vrtu Uze; in kraljeval je Jošija, njegov sin, namesto njega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/21\/25-26.1792429765842.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "In pokopali so ga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "v njegovem grobu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "v vrtu"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uze"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in kraljeval je"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošija"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    }
+  ],
+  "timestamp": "2026-10-19T17:09:25.843615584Z",
+  "model": "glm-5.3"
+}

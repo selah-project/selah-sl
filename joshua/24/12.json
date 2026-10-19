@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצרעה",
+      "rationale": "'sršen' dobesedno; nekateri prevzemajo 'sršeni' kot vojaški teror ali simbol panike, ne dobesedno žival"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפניכם",
+      "gloss-note": null,
+      "rationale": "hebrejščina ima 'izpred vašega obličja' — 'izpred vas' skrajša oblično metaforo"
+    },
+    {
+      "kind": "you",
+      "subject": "adresat",
+      "rationale": "nagovor Izraelu preklopi iz množine ('pred vami') v edinino ('tvoj meč')"
+    }
+  ],
+  "translation": "In poslal sem pred vami ⟨את⟩ sršena, in pregnal vas je izpred njih ⟨את⟩ ⟨אותם⟩ — oba kralja Emorejcev; ne s tvojim mečem in ne s tvojim lokom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/9-12.1792426886673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "in poslal sem"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sršena"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "sršen"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "in pregnal je"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "izpred vas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejcev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "s tvojim mečem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "s tvojim lokom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:21:26.674279807Z",
+  "model": "glm-5.3"
+}

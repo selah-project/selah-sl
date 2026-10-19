@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "osebek יענה (Eloah iz v. 10) je v hebrejščini izpuščen"
+    },
+    {
+      "kind": "crux",
+      "subject": "osebek יענה",
+      "rationale": "KJV 'none giveth answer' bere neosebno; hebrejska glagolska oblika je 3. sg. m. — odgovarja Eloah"
+    }
+  ],
+  "translation": "Tam vpijejo, in ⟨on⟩ ne odgovarja, zaradi ošabnosti hudobnih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/35\/9-12.1792436699059.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "vpijejo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "odgovarja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ošabnosti"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hudobnih"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:59.060688592Z",
+  "model": "glm-5.3"
+}

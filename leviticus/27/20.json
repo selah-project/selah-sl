@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je · bo",
+      "rationale": "slovenščina potrebuje pomožni glagol za preteklik in prihodnje-pasivno"
+    },
+    {
+      "kind": "crux",
+      "subject": "kdo prodaje",
+      "rationale": "hebrejščina ne pove subjekta מכר; Geneva bere 'duhovnik proda', drugi prepišče\/a preveč prodal"
+    }
+  ],
+  "translation": "In če ne odkupi ⟨את⟩ polja, in če prodal ⟨je⟩ ⟨את⟩ polje človeku drugemu, ne ⟨bo⟩ odkupljeno več.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/27\/17-20.1792424679857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "odkupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polje"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "prodal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polje"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "človeku"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "odkupljeno"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    }
+  ],
+  "timestamp": "2026-10-19T15:44:39.858918528Z",
+  "model": "glm-5.3"
+}

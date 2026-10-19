@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina nima pomožnika 'sem' pri אמרת."
+    },
+    {
+      "kind": "crux",
+      "subject": "טובתי בל עליך",
+      "rationale": "dobesedno 'moje dobrega ni nad teboj': 'nimam dobrega brez tebe' (JPS) proti 'moja dobrota se ne razširja nate' (KJV\/Geneva)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה \/ אדני",
+      "rationale": "zaporedje dveh imen v nagovoru; naslon na Ime, ki ga prevodi pogojno z 'Gospod' zamenjajo."
+    }
+  ],
+  "translation": "Rekel sem Jahveju: »Adonaj, ti; moja dobrina ni ničesar mimo tebe.«",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/16\/1-4.1792434585200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Rekel sem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "moja dobrina"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nikakor"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mimo tebe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:45.201315689Z",
+  "model": "glm-5.3"
+}

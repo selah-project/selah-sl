@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 19:17",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למה אמיתך",
+      "rationale": "'Zakaj naj te ubijem?' (vprašanje, KJV\/JPS) proti 'sicer te ubijem' (grožnja, geneva\/BSB); hebrejščina je dobesedno 'zakaj ubiti te'."
+    },
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Slovenščina potrebuje veznik 'da' pred 'je ušel'; hebrejščina ima samo wayyiqtol."
+    }
+  ],
+  "translation": "In Šaul je rekel Mihal: Zakaj tako me prevarila in poslala ⟨את⟩ mojega sovražnika, da je ušel? In Mihal je rekla Šaulu: On mi je rekel: Pošlji me, zakaj naj te ubijem?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b57c9e3ddc42367bb016a920bed103aee4c73931e2827e0a995ff34605d74eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/19\/17-20.1792427869806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mihal"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "me prevarila"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "in poslala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojega sovražnika"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mojega sovražnika"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "in je ušel"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "in je rekla"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mihal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Pošlji me"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "אמיתך",
+      "gloss": "naj te ubijem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:37:49.807659023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשני",
+      "rationale": "'v drugem' brez samostalnika: KJV\/ASV dopolnjujejo 'dan', drugi berejo ponovitev meseca ali dneva meseca; besedilo sam ne pove"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datum gradnje",
+      "rationale": "mesec, dan in leto kraljevanja kot štetje"
+    }
+  ],
+  "translation": "In začel je graditi v drugem mesecu, v drugem ⟨dnevu⟩, v četrtem letu svojega kraljevanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/3\/1-4.1792438449480.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "in začel je"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugem"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "v drugem"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "v letu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "četrtem"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "svojega kraljevanja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:09.484155679Z",
+  "model": "glm-5.3"
+}

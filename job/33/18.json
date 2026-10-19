@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlo\/dih\/življenjska sila' kot 'duša'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "'sulica\/metalec' (YL T dart) proti KJV\/ASV 'meč' — בשלח je izstrelek, kopje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jama",
+      "rationale": "שחת je 'jama\/past', ne 'pokvarjenost' (corruption)."
+    }
+  ],
+  "translation": "Zadrži njegovo dušo od jame in njegovo življenje, da ne preide pod sulico.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/17-20.1792436644842.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "zadrži"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegovo dušo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jame"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "in njegovo življenje"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "da ne preide"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "pod sulico"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:04.843815889Z",
+  "model": "glm-5.3"
+}

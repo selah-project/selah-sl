@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 31:14",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bil⟩",
+      "rationale": "Slovenščina zahteva glagol biti, hebrejščina ga v tem stavku nima."
+    },
+    {
+      "kind": "idiom",
+      "subject": "קדשי הקדשים",
+      "rationale": "DoBesedno 'svete stvari svetih' — svetinja nad svetinjami; ponovitev korena קדש je v prevodu delno izgubljena."
+    }
+  ],
+  "translation": "in Kore, sin Jimna, levit, vratar proti vzhodu, ⟨je bil⟩ nad prostovoljnimi darovi Elohim, da bi dajal dar Jahveja in svete stvari svetinj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3d5314f8d142823fa78c3d9158d114b5d35019be2cc2c2c086e51f4c46608446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/31\/13-16.1792438932040.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקורא",
+      "gloss": "in Kore"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Jimna"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levit"
+    },
+    {
+      "surface": "השוער",
+      "gloss": "vratar"
+    },
+    {
+      "surface": "למזרחה",
+      "gloss": "proti vzhodu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "prostovoljnimi darovi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da bi dajal"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וקדשי",
+      "gloss": "in svete stvari"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetinj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:12.044287604Z",
+  "model": "glm-5.3"
+}

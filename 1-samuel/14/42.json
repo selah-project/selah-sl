@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Vrzite žreb",
+      "rationale": "הפילו je dobesedno 'povzročite pasti' — 'spravite v padec' žreb; idiom metanja žreba."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Slovenščina potrebuje pomožnik 'je bil' pri glagolu וילכד, ki ga hebrejščina nima."
+    }
+  ],
+  "translation": "In Šaul je rekel: Vrzite ⟨את⟩ žreb med mene in Jonatana, mojega sina. In ujet je bil Jonathan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c8229df8c2183a088c2457015c26894380873efd6384a9583fa18bf46d4d3cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/14\/42-44.1792433339411.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "Vrzite ⟨את⟩ žreb"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "med mene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in med"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mojega sina"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "In ujet je bil"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:59.412442114Z",
+  "model": "glm-5.3"
+}

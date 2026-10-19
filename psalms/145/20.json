@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "šomer\/jašmid",
+      "rationale": "dvojni aleph-tav: varovanje ljubim (את) in pohabil grešnike (ואת) stojita v simetrični protitesi"
+    }
+  ],
+  "translation": "Varuje Jahve ⟨את⟩ vse, ki ga ljubijo, ⟨את⟩ vse grešnike pa bo pohabil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/17-20.1792435720995.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "varuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse, ki ga ljubijo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ki ga ljubijo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vse grešnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "grešnike"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "bo pohabil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:40.996930655Z",
+  "model": "glm-5.3"
+}

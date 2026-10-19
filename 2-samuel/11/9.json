@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨skupaj⟩",
+      "rationale": "slovenščina potrebuje predlog 'z', hebrejščina ga pred את nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדניו = gospoda",
+      "rationale": "אדני o človeku — David je Urijev gospod, ne Bog"
+    }
+  ],
+  "translation": "In Urija je legel na vhodu kraljeve hiše ⟨skupaj⟩ ⟨את⟩ z vsemi služabniki svojega gospoda in ni šel navzdol v svojo hišo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "dacb6223185ec7508e69a22eb0624312a1a548078775e66cf7602449a35ede9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/11\/9-12.1792428339755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "in je legel"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na vhodu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljeve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse služabnike svojega gospoda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "z vsemi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabniki"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svojega gospoda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "šel navzdol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svojo hišo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:45:39.756408995Z",
+  "model": "glm-5.3"
+}

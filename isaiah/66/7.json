@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בטרם ×2",
+      "rationale": "dvojna stopnjevana anafora 'preden … preden …' poudarja nenadnost rojstva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חבל",
+      "rationale": "koren pomeni tudi 'vrv, povoj' — slika popredenega porodnega krča"
+    }
+  ],
+  "translation": "Preden se je zavijala v bolečinah, je rodila; preden je prišel porodni krč njej, je na svet rešila moškega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/66\/5-8.1792430992240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Preden"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "se je zavijala v bolečinah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "je rodila"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "preden"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "porodni krč"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njej"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "je na svet rešila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "moškega"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:52.241093432Z",
+  "model": "glm-5.3"
+}

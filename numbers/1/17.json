@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "imenovani po imenih",
+      "rationale": "Može so določeni z imenovanjem po imenih — seznam pred štetjem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "imenovani",
+      "rationale": "נקבו dobesedno 'prebodeni\/označeni', preneseno 'izrecno navedeni'."
+    }
+  ],
+  "translation": "In Moše in Aharon sta vzela ⟨את⟩ te može, ki so bili imenovani po imenih.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/1\/17-20.1792424674709.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "in vzela sta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "in Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te može"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "te može"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "so bili imenovani"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "po imenih"
+    }
+  ],
+  "timestamp": "2026-10-19T15:44:34.709892020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svoj",
+      "rationale": "hebrejščina nima svojilnega zaimka pri פי, slovenščina ga zahteva"
+    }
+  ],
+  "translation": "In odprl sem ⟨את⟩ svoja usta, in on me je nahranil ⟨את⟩ s tem svitkom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b4b0d4e5da4a1cfbcf1655497993f9ee215f512ae7c6b89fa052abd9cd083809",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/3\/2-4.1792433472352.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "in odprl sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja usta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "in on me je nahranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta svitek"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "svitek"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:12.353270024Z",
+  "model": "glm-5.3"
+}

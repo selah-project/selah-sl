@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seže",
+      "rationale": "hebrejščina izpusti glagol; עד מרום 'do višave' stoji sam"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהים … אלהים",
+      "rationale": "Elohim se v verzu ponovi dvakrat, vključno s slovesno retorično vprašanjem na koncu"
+    }
+  ],
+  "translation": "In tvoj cedek, ⟨o⟩ Elohim, ⟨seže⟩ do višine, ti, ki si storil velike stvari; Elohim, kdo je kakor ti?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/17-20.1792435078058.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצדקתך",
+      "gloss": "In tvoj cedek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "višine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velike stvari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kakor ti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:58.059334822Z",
+  "model": "glm-5.3"
+}

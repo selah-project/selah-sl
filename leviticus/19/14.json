@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "מאלהים ostaja Ime Elohim s priponsko obliko, ne 'Bog'"
+    },
+    {
+      "kind": "you",
+      "subject": "do Izraela",
+      "rationale": "ukaz o varovanju šibkih, podpisan z 'jaz sem Jahve'"
+    }
+  ],
+  "translation": "Ne preklinjaj gluhega in pred slepim ne dajaj spotika; in boj se svojega Elohima — jaz sem Jahve.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/19\/13-16.1792424406329.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "preklinjaj"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gluhega"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "עור",
+      "gloss": "slepim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dajaj"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "spotik"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "in boj se"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "svojega Elohima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:06.330028020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Kajti reven in ubogej sem ⟨jaz⟩, in moje srce je ranjeno v moji notranjosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/21-24.1792435456767.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "reven"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in ubogej"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sem ⟨jaz⟩"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "in moje srce"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "je ranjeno"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "v moji notranjosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:16.768017174Z",
+  "model": "glm-5.3"
+}

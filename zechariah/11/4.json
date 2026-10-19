@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "hebrejščina ima samo particip ההרגה 'zakola\/umora'; slovenščina potrebuje označbo namena"
+    },
+    {
+      "kind": "crux",
+      "subject": "צאן ההרגה",
+      "rationale": "'drobnica zakola' — namenjena zakolu (tradicionalsko) ali že pobita; vprašanje, ali je ukaz ali opis"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Pas",
+      "rationale": "neposreden ukaz govorcevemu glasniku — začetek pastirske alegorije"
+    }
+  ],
+  "translation": "Tako govori Jahve, moj Elohim: Pas ⟨את⟩ drobnico ⟨za⟩ zakol.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/11\/1-4.1792434431824.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drobnico"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "drobnico"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "za zakol"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:11.829089650Z",
+  "model": "glm-5.3"
+}

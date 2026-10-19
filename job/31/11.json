@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina izpušča glagol 'biti'; copula je dodana."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלילים",
+      "rationale": "množina 'sodniki\/presojevalci' — KJV\/JPS 'iniquity to be punished by the judges', YLT 'judicial iniquity'; beseda je tu edino takšno določilo za עון."
+    }
+  ],
+  "translation": "kajti to je hudobni načrt in krivica, ki jo sodniki presojajo —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/9-12.1792436641401.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨je⟩"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "hudobni načrt"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "in ⟨je⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivica"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "ki jo sodniki presojajo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:01.402271257Z",
+  "model": "glm-5.3"
+}

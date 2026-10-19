@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "popis levitov",
+      "rationale": "štetje po glavah od tridesetega leta, natančno število 38.000"
+    },
+    {
+      "kind": "substitution",
+      "subject": "po glavah",
+      "rationale": "גלגלת je dobesedno 'lobanja'; pri štetju oseb pomeni 'po glavah', glava za glavo"
+    }
+  ],
+  "translation": "In bili so preštejni leviti od starosti tridesetih let navzgor, in bilo je njihovo število po njihovih glavah, moških, trideset osem tisoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/23\/1-4.1792438288082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "so bili preštejni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od starosti"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tridesetih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "navzgor"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bilo je"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "njihovo število"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "po njihovih glavah"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "moških"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "osem"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:28.084173696Z",
+  "model": "glm-5.3"
+}

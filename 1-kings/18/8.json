@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "אני je samo 'jaz'; slovenski odgovor zahteva 'jaz sem'"
+    }
+  ],
+  "translation": "In rekel mu je: Jaz sem. Pojdi, reci svojemu gospodu: Glej, Elija.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6c88113b5098a970a07713e3add1de52a5f7289c21b7f014a84c527a851cac37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/18\/5-8.1792429179827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jaz sem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pojdi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "svojemu gospodu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:39.828121839Z",
+  "model": "glm-5.3"
+}

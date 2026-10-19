@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "svoj",
+      "rationale": "hebrejščina ima svojilno končnico -ך, slovenščina potrebuje svojilni zaimek ⟨svoj⟩ — vstavljen brez oklepaja zaradi naravnega sklona, oklepaj na 'svoj sveti šabat'."
+    }
+  ],
+  "translation": "In ⟨את⟩ svoj sveti šabat si jim dal spoznati, in zapovedi ter določbe in Toro si jim naročil po roki Moša, svojega služabnika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/9\/13-16.1792437902371.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svoj sveti šabat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svoj sveti"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "si dal spoznati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "in zapovedi"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "ter določbe"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "in Tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "si naročil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po roki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moša"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega služabnika"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:02.372289437Z",
+  "model": "glm-5.3"
+}

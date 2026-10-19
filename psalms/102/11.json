@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאתני",
+      "rationale": "'dvignil si me' (KJV, dobesedno) proti 'vzdvignil in odvrgel' (ASV\/JPS); נשא kot dvig pred metom."
+    }
+  ],
+  "translation": "Pred tvojim ogorčenjem in tvojo jezo, kajti dvignil si me ⟨in⟩ me vrgel stran.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/9-12.1792435325085.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Pred"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "tvojim ogorčenjem"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "in tvojo jezo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "dvignil si me"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "me vrgel stran"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:05.086431477Z",
+  "model": "glm-5.3"
+}

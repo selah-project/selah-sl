@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se pokosi",
+      "rationale": "מולל pomeni dobesedno 'obrezati \/ skrajšati'; tu o travi — 'odsekan'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחלף \/ וחלף",
+      "rationale": "igranje חלף v zaporednih verzih — minljivost, v slovenščini izgubljeno"
+    }
+  ],
+  "translation": "Zjutraj procveti in mine, zvečer se pokosi in se posuši.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/90\/5-8.1792435235409.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "procveti"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "in mine"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "zvečer"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "se pokosi"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "in se posuši"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:35.411803803Z",
+  "model": "glm-5.3"
+}

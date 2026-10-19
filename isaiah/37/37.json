@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישב \/ וישב",
+      "rationale": "Dve enaki obliki z različno vowelsko piko: 'se je vrnil' (שׁוב) in 'prebival' (ישב) — paronomazija, v slovenščini izgubljena."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Poudarni zaimek iz v. 38 manjka v tem verzu; ne dodajam."
+    }
+  ],
+  "translation": "In odpotoval je, odšel in se vrnil Sanherib, kralj Asurja, in prebival v Ninivi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "be0e2930ffdc52feacf9ee25c040550596de529a3a4b19df885a65e0e129999c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/37\/37-38.1792430462918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "odpotoval je"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "odšel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "se je vrnil"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asurja"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "prebival"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "v Ninivi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:21:02.918790512Z",
+  "model": "glm-5.3"
+}

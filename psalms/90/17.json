@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ומעשה ידינו כוננה",
+      "rationale": "Enaka besedna zveza se ponovi dvakrat zapored — ponovitev za poudarek, kljjučna retorična figura verza."
+    },
+    {
+      "kind": "crux",
+      "subject": "כוננה עלינו",
+      "rationale": "Dvojno branje: 'utrdi nad nami' (hebrejski על) ali 'za nas' — KJV 'upon us', JPS 'upon us'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩ \/ ⟨ga⟩",
+      "rationale": "Slovenščina potrebuje predvidni zaimek pri povratnem glagolu in ponovno osebni zaimek pri כוננהו; hebrejščina nosi končnico -הו."
+    }
+  ],
+  "translation": "In bodi prijaznost Adonaja, Elohim našega, nad nami, in delo naših rok ⟨naj⟩ utrdi nad nami, in delo naših rok utrdi ⟨ga⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/90\/17-17.1792435220303.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In bodi"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "prijaznost"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nami"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "in delo"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "naših rok"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "⟨naj⟩ utrdi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nami"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "in delo"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "naših rok"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "utrdi ⟨ga⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:20.338868604Z",
+  "model": "glm-5.3"
+}

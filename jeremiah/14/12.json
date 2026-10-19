@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 14:12",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה tu je daritev (žitna daritev), ne 'davek' — po pravilu se ohrani heb. beseda."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pri⟩",
+      "rationale": "Slovenščina potrebuje predlog pred 'njihovem vpitju'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכלה ... כלה",
+      "rationale": "Zvonjenje ובדבר \/ מכלה: trojica meč–lakota– kuga se zaključi z glagolom 'dokončati\/pokončati'."
+    }
+  ],
+  "translation": "Ko bodo postili, jih ne poslušam ⟨pri⟩ njihovem vpitju; in ko bodo darovali žgalno daritev in minho, jih ne sprejemam; kajti z mečem in z lakoto in s kugo jih jaz pokončujem ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4ee4d7c13d129494ff944252cf0f6807e8ba25834a6b84bcccdcb82310a1800d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/14\/9-12.1792431291304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יצמו",
+      "gloss": "bodo postili"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "jih ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨pri⟩"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "njihovem vpitju"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "in ko"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bodo darovali"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "žgalno daritev"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "in minho"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "jih ne"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "sprejemam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "in z lakoto"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "in s kugo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "pokončujem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:34:51.305607157Z",
+  "model": "glm-5.3"
+}

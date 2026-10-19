@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrew lacks a verb in 'Jahve Cebaot with him'; copula added in Slovenian"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילך ... הלוך וגדול",
+      "rationale": "infinitive absolute doubling 'walking and growing great' — rhythm of continual increase"
+    }
+  ],
+  "translation": "In David je hodil, hodil in rastel vse bolj, in Jahve Cebaot je bil z njim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/9-12.1792438172509.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in je hodil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "hodil"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "in rastel vse bolj"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z njim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:32.510058298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שִׁגָּיוֹן",
+      "rationale": "שִׁגָּיוֹן se pojavi samo tu in v Hab 3,1; pomen 'zmetočena \/ tavajoča pesem' ostaja temen, zato je pustil kot Šigajon."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kuš, Benjamínec",
+      "rationale": "Kdo je Kuš benjaminjec — Saul (metonimija), Negeš (1 Sam 26,1) ali dobesedno Etiopij; verzija vsaka svojo uganko."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Benjamínec",
+      "rationale": "בֶּן־יְמִינִי je 'sin (desnice) Benjamina' — krajevno ime plemena."
+    }
+  ],
+  "translation": "Šigajon Davida, ki ga je pel Jahveju, glede besed Kuša, Benjamínca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/1-4.1792434534994.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Šigajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שר",
+      "gloss": "je pel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "על",
+      "gloss": "glede"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besed"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjamínca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:54.995432098Z",
+  "model": "glm-5.3"
+}

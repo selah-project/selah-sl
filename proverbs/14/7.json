@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובל ידעת",
+      "rationale": "KJV bere »ko ne zaznaš (pri njem) ustnic znanja«, ASV\/JPS pa kot posledico »kajti ne boš spoznal ustnic znanja«; obe poti temeljita na istem hebrejskem besedilu"
+    },
+    {
+      "kind": "addition",
+      "subject": "pri njem",
+      "rationale": "dodano za razumljivost; hebrejščina kraja ne imenuje"
+    }
+  ],
+  "translation": "Pojdi izpred neumnega moža, kajti ustnic znanja ne boš spoznal ⟨pri njem⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/5-8.1792435954655.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "izpred"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "neumnega"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kajti ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "boš spoznal"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ustnic"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:34.657466333Z",
+  "model": "glm-5.3"
+}

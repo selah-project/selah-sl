@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 8:26",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כידון",
+      "gloss-note": "",
+      "rationale": "כידון: 'kopje\/dart' po KJV\/JPS, 'meč' po arabski veji, 'ščit' po Wycliffu (lat. clipeus)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "herem",
+      "rationale": "החרים je 'izročiti v ban' (posvečeno uničenje), ne le 'povsem uničiti'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨v moči⟩",
+      "rationale": "slovenščina potrebuje glagolsko pomoč za infinitivni odvisnik."
+    }
+  ],
+  "translation": "Jozue pa ni povrnil svoje roke, ki jo je iztegnil s kopjem, dokler ni v ⟨moči⟩ ban prepovedal ⟨את⟩ vseh prebivalcev Haja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "86ffedb9d911180fb33c276e42ada6ebfb86e97f8b0c0c1d7f7fc06b89986b7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/8\/25-28.1792426531309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Jozue pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "povrnil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "iztegnil"
+    },
+    {
+      "surface": "בכידון",
+      "gloss": "s kopjem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "v ban prepovedal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vseh prebivalcev Haja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalcev"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haja"
+    }
+  ],
+  "timestamp": "2026-10-19T16:15:31.310563862Z",
+  "model": "glm-5.3"
+}

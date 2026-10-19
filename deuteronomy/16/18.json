@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 16:18",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "slovenščina potrebuje pomožnik pri velevilniku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק ostaja po zvoku: pravičnost\/pravo v enem; 'sodba cedek' = pravična sodba"
+    }
+  ],
+  "translation": "Sodnike in nadzornike si postavi v vseh svojih vratah, ki ti jih da Jahve, Elohim tvoj, po svojih rodovih; in sodili ⟨naj⟩ ⟨את⟩ ljudstvo s sodbo cedek.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "acdcb6f3d0db02e32aed939a367a11fd4f2156ea10ddc239720229740f2e8d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/16\/17-20.1792425916779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטים",
+      "gloss": "sodnike"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "in nadzornike"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vseh"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "svojih vratah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשבטיך",
+      "gloss": "po svojih rodovih"
+    },
+    {
+      "surface": "ושפטו",
+      "gloss": "in sodili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T16:05:16.780952604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Hebrew lacks the copula in the name-clause"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דנהבה",
+      "rationale": "Dinhabah, place name occurring only here in the Tanakh"
+    }
+  ],
+  "translation": "In kraljeval je v Edomu Bela, sin Beorjev; in ime njegovega mesta je bilo Dinhaba.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b10c73de20b177b04abeae4fc5c967c4f78d0b203347e5f19d5da00da4b150d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/36\/29-32.1792422660686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "In kraljeval je"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "v Edomu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beorjev"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "njegovega mesta"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhaba"
+    }
+  ],
+  "timestamp": "2026-10-19T15:11:00.688118563Z",
+  "model": "glm-5.3"
+}

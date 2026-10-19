@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se dan ne zadiha",
+      "rationale": "שיפוח: 'zadiha' (JPS) vs 'prodre\/razsvetli' (KJV 'break') vs 'ohladi' (ASV)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pojdiva zate",
+      "rationale": "אלך לי dobesedno 'pojdi zase'; slovenščina doda naslovnik ⟨zate⟩"
+    },
+    {
+      "kind": "invitation",
+      "subject": "neznan naslovnik",
+      "rationale": "govorec vabi ljubljeno na goro mire — zvočni vabilni gib"
+    }
+  ],
+  "translation": "Dokler se dan ne zadiha in sence ne pobegnejo, pojdiva ⟨zate⟩ na goro mire in na hrib kadila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/4\/5-8.1792436874176.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "se ne zadiha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "in ne pobegnejo"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "sence"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pojdiva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "המור",
+      "gloss": "mire"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in na"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "hrib"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "kadila"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:54.177771033Z",
+  "model": "glm-5.3"
+}

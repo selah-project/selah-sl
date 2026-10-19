@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spletkami",
+      "rationale": "תחבלות je prvotno 'upravljanje vrvi (krmilo)', preneseno vodenje\/načrtovanje; 'spletke' nosi zvok korena"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula"
+    }
+  ],
+  "translation": "Ker s spletkami vojiš ⟨svojo⟩ vojno, in rešitev ⟨je⟩ v množici svetovalcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/5-8.1792436112308.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "בתחבלות",
+      "gloss": "s spletkami"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vojiš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨svojo⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vojno"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "in rešitev"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v množici"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "svetovalcev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:12.309147031Z",
+  "model": "glm-5.3"
+}

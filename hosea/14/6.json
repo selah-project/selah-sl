@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "razprostrl",
+      "rationale": "ויך dobesedno 'udaril' (od נכה); korenine, ki 'udarjajo' v zemljo — podoba udarca, ne razprostrjanja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šošanja",
+      "gloss_note": null,
+      "rationale": "שושנה po hebrejskem zvoku; lahko tudi 'lilija' — cvet, ne nujno današnja lilija"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "slovenski predlog, dodan za veznavo, hebrejščina ima samo -ל"
+    }
+  ],
+  "translation": "Kakor rosa bom ⟨za⟩ Jisrael, razcvetel se bo kakor šošanja in razprostrl svoje korenine kakor Libanon.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/5-8.1792433895612.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "bom"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "kakor rosa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "razcvetel se bo"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "kakor šošanja"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "in razprostrl"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "svoje korenine"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kakor Libanon"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:15.614817586Z",
+  "model": "glm-5.3"
+}

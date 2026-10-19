@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 9:11",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "vezik plus aleph-tav; v slovenščini ostane 'in' + ⟨את⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kamen v silnih vodah",
+      "rationale": "slika iz pesmi pri morju (2 Mz 15) — utopitev zasledovalcev kot potopljen kamen."
+    }
+  ],
+  "translation": "In morje si razklal pred njimi, in prešli so sredi morja po suhem, ⟨in⟩ ⟨את⟩ njihove zasledovalce si vrgil v globine, kakor kamen v silne vode.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/9\/9-12.1792437890099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והים",
+      "gloss": "in morje"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "si razklal"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njimi"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "in so prešli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "po suhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njihove zasledovalce"
+    },
+    {
+      "surface": "רדפיהם",
+      "gloss": "njihove zasledovalce"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "si vrgil"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "v globine"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "v vode"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "silne"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:50.100701539Z",
+  "model": "glm-5.3"
+}

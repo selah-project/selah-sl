@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Cion",
+      "rationale": "ציון: Cion (hebrejski zvok) ali Sion (ustaljena slovenska oblika)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ob rekah",
+      "rationale": "על הore dobesedno 'nad\/zgoraj'; 'ob rekah' je slovenska krajša prostorska glosa"
+    }
+  ],
+  "translation": "Ob rekah Babela tam smo sedeli, da, jokali smo, ko smo se spomnili ⟨את⟩ Ciona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/137\/1-4.1792435615151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rekah"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "smo sedeli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da,"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "jokali smo"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ko smo se spomnili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciona"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:55.152648417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga v verzu nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "čast",
+      "rationale": "כבוד je dobesedno 'teža'; preneseno sij, čast."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden ogovor Jahveja v drugi osebi."
+    }
+  ],
+  "translation": "A ti, Jahve, si ščit okoli mene, moje časti in dvigovalec moje glave.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/3\/1-4.1792434535933.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ščit"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "okoli mene"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moje časti"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "in dvigovalec"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moje glave"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:55.935827501Z",
+  "model": "glm-5.3"
+}

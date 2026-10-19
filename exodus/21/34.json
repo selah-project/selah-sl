@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨živali⟩ ⟨pa⟩",
+      "rationale": "Slovenščina potrebuje samostalnik pri pridevniku המת (mrtvo); hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "lastnik jame naj povravi; srebro naj vrne lastniku ⟨živali⟩, udk ⟨pa⟩ pripade njemu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a13dccdae5a4d0edd2f35319f0c825280d35d180de65cd68496d5983fcd67602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/21\/33-36.1792423467124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "lastnik"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "jame"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "naj povravi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "naj vrne"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "lastniku"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "in mrtvo ⟨žival⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj pripade"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:27.125697243Z",
+  "model": "glm-5.3"
+}

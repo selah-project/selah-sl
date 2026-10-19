@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 38:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "את H854 je predlog 'z', ne predmetni označevalec; ⟨את⟩ ostaja v glosi, v besedilu pa se piše 's teboj'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממנו",
+      "rationale": "hebrejščina pravi 'od nas' (ednina 'od njega'), govoreči množinsko 'pred nami'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jeremiju",
+      "rationale": "Cedkija nagovarja Jeremija z navodilom, kaj naj reče knezom."
+    }
+  ],
+  "translation": "In če slišijo knezi, da sem govoril s teboj, in pridejo k tebi in ti rečejo: Povej nam, prosim, kaj si govoril s kraljem — ne skrij pred nami, in te ne bomo ubili — in kaj ti je govoril kralj —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "97ed94a5a00674374c59fbfaa64da0892d5e1af00b6f6c97213457a8f374e629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/38\/25-28.1792431755389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "in če"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "slišijo"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knezi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sem govoril"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "s ⟨את⟩ teboj",
+      "marks": "s teboj"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "in pridejo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "in rečejo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "povej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "si govoril"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "skrij"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pred nami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "נמיתך",
+      "gloss": "te bomo ubili"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:42:35.390128976Z",
+  "model": "glm-5.3"
+}

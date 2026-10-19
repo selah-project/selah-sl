@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 36:28",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "slovenščina potrebuje objektni zaimek 'jo' pri 'sem dal'; hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "zaveza",
+      "rationale": "ברit-formula 'vi meni ljudstvo, jaz vam Elohim' — vzporednica k 1 Mz 17 in 3 Mz 26; brez poznejših doktrin."
+    }
+  ],
+  "translation": "In prebivali boste v deželi, ki sem jo dal vašim očetom, in bili boste mi za ljudstvo, in jaz bom vam za Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "22db0b8bccbc122b1d89bc6e901f67801c334f3439afc9c5dbe9e05d56ee79a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/36\/25-28.1792433556792.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתם",
+      "gloss": "in prebivali boste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sem dal"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "vašim očetom"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "in bili boste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za ljudstvo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bom"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:36.794885080Z",
+  "model": "glm-5.3"
+}

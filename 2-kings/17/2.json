@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "v očeh Jahveja",
+      "rationale": "Hebrejski idiom בעיני יהוה — dobesedno 'v očeh Jahveja',标准的 vrednotenje kralja."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik glagola, hebrejščina ga nima."
+    }
+  ],
+  "translation": "In delal je húdo v očeh Jahveja, samo ne kakor kralji Jisraela, ki so bili pred njim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/17\/1-4.1792429734110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In delal je"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "kakor kralji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bili"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:08:54.110867030Z",
+  "model": "glm-5.3"
+}

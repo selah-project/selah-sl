@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 1:25",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prinesli",
+      "rationale": "ויורדו dobesedno 'sošli so navzdol'; smer navzdol je v slovenščini podvojena z 'prinesli'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבו אתנו דבר",
+      "rationale": "dovršnik 'vrnili so nam besedo' — hebrejščina dosledno uporabi 'vzeti\/vrniti' za poročilo"
+    }
+  ],
+  "translation": "In vzeli so v svoje roke od sadja dežele in prinesli ⟨את⟩ ga k nam ter nam odnesli ⟨את⟩ besedo in rekli: Dobra je dežela, ki jo Jahve, naš Elohim, dáva nam.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/1\/25-28.1792425656729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "in vzeli so"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "v svoje roke"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "od sadja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "in prinesli"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "k nam"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in odnesli"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "je dežela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naš Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dáva"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:56.730217539Z",
+  "model": "glm-5.3"
+}

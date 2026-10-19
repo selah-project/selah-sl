@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sedemdeset let",
+      "rationale": "Verz šteje leta človekovega življenja."
+    },
+    {
+      "kind": "crux",
+      "subject": "ורהבם",
+      "rationale": "רהב: 'oholost\/prevzetost' (JPS) ali 'trpljenje' (KJV 'labour and sorrow' glede na עמל); izbrana dobesedna 'oholost'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גז",
+      "rationale": "glagol pomeni 'postriči' (kot runo) — življenje je postriženo, slika izgubljena v 'porezano'."
+    }
+  ],
+  "translation": "Dni naših let — pri njih je sedemdeset let, in če v moči osemdeset let, in njihova oholost je napor in ničevost, kaj hitro je porezano, in mi odletimo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/90\/9-12.1792435239017.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "naših let"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pri njih"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedemdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "v moči"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "osemdeset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "in njihova oholost"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "napor"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "in ničevost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "גז",
+      "gloss": "je porezano"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "hitro"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "in odletimo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:39.020177412Z",
+  "model": "glm-5.3"
+}

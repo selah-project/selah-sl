@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so \/ so se",
+      "rationale": "slovenski glagolski pomožnik dodan; hebrejščina ima samo sameljnišne delevnike."
+    },
+    {
+      "kind": "crux",
+      "subject": "zgnusili",
+      "rationale": "ne'alhu: redka beseda — 'postali gnusni\/zmedeni, pokvarjeni'; KJV 'filthy', JPS 'impure'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ni niti enega",
+      "rationale": "univerzalni števec: vsi, skupaj, niti en — popolna ničla med ljudmi."
+    }
+  ],
+  "translation": "Vsi ⟨so⟩ se odvrnili, skupaj ⟨so se⟩ zgnusili; ni kdor dela dobro, ni niti enega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/14\/1-4.1792434589892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Vsi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "so se odvrnili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "so se zgnusili"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdor dela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "niti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:49.895067976Z",
+  "model": "glm-5.3"
+}

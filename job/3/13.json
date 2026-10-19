@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bi",
+      "rationale": "Hebrew participles\/infinite forms without copula; Slovenian conditional 'bi' supplied"
+    },
+    {
+      "kind": "mystery",
+      "subject": "smrt kot spanje",
+      "rationale": "Job govori o smrti kot o neznanem stanju počitka — podoba, ne razodeta"
+    }
+  ],
+  "translation": "Kajti zdaj bi ležal in ⟨bi⟩ tiho obstal, bi spal, tedaj bi ⟨zame⟩ počival.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8a181b5fc0d00486d693f5149c13c170114b2e44865f92d27c8aabb3761f5a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/13-16.1792436244316.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "bi ležal"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "in ⟨bi⟩ tiho obstal"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "bi spal"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "bi počival"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨zame⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:24.317756480Z",
+  "model": "glm-5.3"
+}

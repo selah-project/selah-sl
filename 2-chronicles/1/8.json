@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "hesed ostaja nepreveden: 'ljubeča dobrota'\/'milost' bi zožilo eno hebrejsko besedo na en pomen"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Šelomova molitev je neposreden nagovor Elohima z 'Ti'"
+    }
+  ],
+  "translation": "In Šelomo je rekel Elohimu: Ti si storil z Davidom, mojim očetom, velik hesed in postavil si me za kralja namesto njega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/5-8.1792438425153.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojim očetom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "in postavil si me za kralja"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:45.159784509Z",
+  "model": "glm-5.3"
+}

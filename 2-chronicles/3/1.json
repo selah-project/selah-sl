@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "slovenščina zahteva veznik na začetku waw-konsekutiva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המוריה",
+      "rationale": "Morija zapisan po hebrejskem zvoku, ne 'Morija' v ustaljeni obliki"
+    }
+  ],
+  "translation": "In začel je Šelomo graditi ⟨את⟩ hišo Jahveja v Jerušalajimu na gori Morija, kjer se je prikazal Davidu, njegovemu očetu, na mestu, ki ga je pripravil David, na gumnu Ornana Jebusejca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/3\/1-4.1792438449480.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "in začel je"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hišo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Morija"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "se je prikazal"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "njegovemu očetu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "je pripravil"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mestu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "na gumnu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornana"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusejca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:09.483226157Z",
+  "model": "glm-5.3"
+}

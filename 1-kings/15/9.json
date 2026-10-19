@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvajseto leto",
+      "rationale": "datiranje začetka vladavine po letu Jarobama"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In dvajsetem letu Jarobama, kralja Jisraela, je zavladal Asa, kralj Judovega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/15\/9-12.1792429104617.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "in dvajsetem letu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je zavladal"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovega"
+    }
+  ],
+  "timestamp": "2026-10-19T16:58:24.618391504Z",
+  "model": "glm-5.3"
+}

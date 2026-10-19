@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "Hebrejščina brez relativnega veznika, slovenščina ga zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "preklinja",
+      "rationale": "יקלל dobesedno 'delati lahkim', omalovaževati; iz tega 'preklinjati'."
+    }
+  ],
+  "translation": "Rod, ki preklinja svojega očeta, in ⟨את⟩ svojo mater ne blagoslavlja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/9-12.1792436174122.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "rod"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "preklinja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svojo mater"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svojo mater"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslavlja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:14.124573711Z",
+  "model": "glm-5.3"
+}

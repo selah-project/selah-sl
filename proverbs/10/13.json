@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסר לב",
+      "rationale": "dobesedno 'brez srca' — srcu manjka razumevanje, ne 'brez razuma'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tistemu, ki",
+      "rationale": "slovenščina potrebuje dosledno osebkovo zgradbo, hebrejščina ima samo samostalniško frazo"
+    }
+  ],
+  "translation": "Na ustnicah razumnika se najde modrost, palica pa za hrbet tistemu, ki mu manjka srca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3327ddd08224dd2b01ba9ebc43fe55f4beea596d03ea59b3aef588bb4393e959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/10\/13-16.1792435911396.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "na ustnicah"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "razumnika"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "se najde"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "palica pa"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "za hrbet"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ki mu manjka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:51.397230226Z",
+  "model": "glm-5.3"
+}

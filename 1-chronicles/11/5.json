@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trdnjavo",
+      "rationale": "מצדת je lahko tudi 'mreža' ali 'zavzetje'; tu 'utrdba\/trdnjava', kot v vseh različicah"
+    },
+    {
+      "kind": "addition",
+      "subject": "to je",
+      "rationale": "היא kot poudarjeni zaimek v slovenščini zahteva copulo 'je'"
+    }
+  ],
+  "translation": "In prebivalci Jevusa so rekli Davidu: Ne boš prišel sem. Vendar je David zavzel ⟨את⟩ trdnjavo Cion — to je Davidovo mesto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/5-8.1792438153138.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "in so rekli"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalci"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jevusa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "boš prišel"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "je zavzel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trdnjavo"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "trdnjavo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:13.139319676Z",
+  "model": "glm-5.3"
+}

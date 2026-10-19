@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/שדה",
+      "rationale": "šudad sadeh — opustošeno polje: ista soglasja, udarec aliteracije"
+    },
+    {
+      "kind": "substitution",
+      "subject": "usahnil",
+      "rationale": "הוביש (Hifil od יבש) pomeni 'posušil' in 'osramotil' — dvojni pomen se razpre v v. 11–12"
+    }
+  ],
+  "translation": "Opustošeno je polje, žaluje zemlja, kajti opustošeno je žito, mošt je usahnil, olje je ovenelo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/1\/9-12.1792433892187.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "opustošeno"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "žaluje"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "opustošeno"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "žito"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "je usahnil"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mošt"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "je ovenelo"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "olje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:12.189539319Z",
+  "model": "glm-5.3"
+}

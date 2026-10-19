@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'grlo\/dih\/življenjska sila', ne nesmrtna duša."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלה",
+      "rationale": "'Prekletev sliši' ali 'sliši zaprisego (pričo)' — sodni kontekst (3 Mz 5,1), kjer molčanje postane krivda."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenski glagol potrebuje predmet, hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "Kdor se deli s tatom, sovraži svojo ⟨lastno⟩ dušo; prekletev sliši in ne pove ⟨je⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/21-24.1792436204187.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "kdor se deli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "tat"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "sovraži"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "prekletev"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sliši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "pove"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:44.189229498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "takrat",
+      "rationale": "slovenščina potrebuje časovno določilo, kjer hebrejščina pušča deležnik brez njega"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedem dni",
+      "rationale": "število dni praznika je podano dobesedno"
+    }
+  ],
+  "translation": "In sinovi Jisraela, ki so se ⟨takrat⟩ našli, so ⟨takrat⟩ priredili ⟨את⟩ pasho ob tistem času in ⟨את⟩ praznik mac, sedem dni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "57e47f81b11a15ead81ebf2d894b1268e1e9d9c09ab8c7ca8f70aed520e4f680",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/35\/17-20.1792438966322.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "in so priredili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ki so se našli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasho"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pasho"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ob času"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tistem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "praznik mac"
+    },
+    {
+      "surface": "חג",
+      "gloss": "praznik"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mac"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:46.323982885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 24:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעיר מתים",
+      "rationale": "'Iz (naseljenega) mesta ljudje' (מת = moški) ali 'umirajoči iz mesta'; nekateri berejo 'mrtvi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תפלה",
+      "rationale": "Dobesedno 'neumnost\/norost' — 'Eloah ne prišteve norosti (krivcem)' (KJV, JPS) ali 'ne označi vpitja za neumnost' (ASV); pomen je, da Bog ne ukreva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dih\/življenjska sila', ne nesnovna duša."
+    }
+  ],
+  "translation": "Iz mesta stokajo ljudje, duša prebodenih vpija, in Eloah ne postavi neumnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "162591c073d69330d3c9b4a8b6f31d674c9395e593d4f8faab5139bd4a991159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/24\/9-12.1792436501795.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעיר",
+      "gloss": "iz mesta"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "ljudje"
+    },
+    {
+      "surface": "ינאקו",
+      "gloss": "stokajo"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "prebodenih"
+    },
+    {
+      "surface": "תשוע",
+      "gloss": "vpija"
+    },
+    {
+      "surface": "ואלוה",
+      "gloss": "in Eloah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "neumnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:41.796729731Z",
+  "model": "glm-5.3"
+}

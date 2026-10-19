@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויטהרו … ויטהרו",
+      "rationale": "Istota beseda se ponovi: najprej se očistijo sami, nato očistijo drugo — ponovitev je v prevodu ohranjena."
+    },
+    {
+      "kind": "measurement",
+      "subject": "očiščenje",
+      "rationale": "Zaporedni obredni red: duhovniki, leviti, ljudstvo, vrata, zid."
+    }
+  ],
+  "translation": "In očistili so se duhovniki in leviti, in očistili so ⟨את⟩ ljudstvo in ⟨את⟩ vrata in ⟨את⟩ zid.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/29-32.1792437958823.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "in očistili so se"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovniki"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "in leviti"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "in očistili so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vrata"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "zid"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "zid"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:58.825310182Z",
+  "model": "glm-5.3"
+}

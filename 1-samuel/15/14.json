@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "glas",
+      "rationale": "קול je 'glas, zvok'; 'blejanje\/rence' v drugih prevodih je podvojena izpeljava"
+    },
+    {
+      "kind": "you",
+      "subject": "Samuel to Saul",
+      "rationale": "retorično vprašanje neposredno nagovarja Šaula"
+    }
+  ],
+  "translation": "In Samuel je rekel: Kaj pa je ta glas drobnice v mojih ušesih in glas govedi, ki ga slišim?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/15\/13-16.1792427778021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kaj pa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "drobnice"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "v mojih ušesih"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "in glas"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slišim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:18.021953143Z",
+  "model": "glm-5.3"
+}

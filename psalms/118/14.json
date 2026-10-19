@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje kopulo; hebrejščina jo izpušča."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמרת",
+      "rationale": "Redka beseda: 'pesem\/hvalnica' (LXX 'odobravanje') — nekateri berijo 'zaščita'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jah kot subjekt",
+      "rationale": "Kot YLT: 'Jah je moja moč in pesem' — Ime kot subjekt, ne kot pridevek."
+    }
+  ],
+  "translation": "Moč ⟨moja⟩ in pesem ⟨moja⟩ ⟨je⟩ Jah, in ⟨on⟩ ⟨je⟩ postal ⟨meni⟩ za rešitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/13-16.1792435493899.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עָזִּ֣י",
+      "gloss": "moč"
+    },
+    {
+      "surface": "וְזִמְרָ֣ת",
+      "gloss": "in pesem"
+    },
+    {
+      "surface": "יָּ֑הּ",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "in je postal"
+    },
+    {
+      "surface": "לִ֝֗י",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לִֽישׁוּעָֽה",
+      "gloss": "za rešitev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:53.899923474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במתיו \/ מזבחתיו",
+      "rationale": "zaimenske končnice -יו so dvoumne: 'njegove (Hizkijáhove)' ali 'Njegove (Elohimove)' — YLT bere 'His' kot Božje; izbrano 'njegove' (Hizkijáhove) po kontekstu obtožbe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "višave",
+      "rationale": "במות so 'vzvišena svetišča' — pridevnik 'višave' ohranja obliko besede, pomen svetišča se izgubi"
+    }
+  ],
+  "translation": "Ali ni on, Hizkijah, odstranil ⟨את⟩ njegove višave in ⟨את⟩ njegova oltarja, in rekel je Judi in Jerušalajimu s tem da pravi: Pred enim oltarjem se boste priklanjali in na njem boste kadili?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/32\/9-12.1792438919800.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijah"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odstranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegove višave"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "njegove višave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegova oltarja"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "njegova oltarja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judi"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "in Jerušalajimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s tem da pravi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltarjem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enim"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "se boste priklanjali"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "in na njem"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "boste kadili"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:59.805397041Z",
+  "model": "glm-5.3"
+}

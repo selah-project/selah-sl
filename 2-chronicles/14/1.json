@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojega",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ga ima v končnici אלהיו"
+    }
+  ],
+  "translation": "In storil je Asa dobro in pravo v očeh Jahveja, Elohima svojega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/14\/1-4.1792438559671.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in storil je"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "in pravo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohima svojega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:35:59.671759510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uprl se je",
+      "rationale": "פשע pomeni odkloniti od prave oblasti, prestopiti — upor je le ena plat"
+    },
+    {
+      "kind": "idiom",
+      "subject": "do tega dne",
+      "rationale": "hebrejski izraz עד היום הזה pomeni 'do današnjega dne', torej časa pisca"
+    }
+  ],
+  "translation": "In Jisrael se je uprl domu Davidovemu do ⟨tega⟩ dne ⟨danes⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ca8c44a0bf348bb73412359cc1b44a4e6628c59ce4b7ace02eec05f438e7c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/10\/17-19.1792438543887.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "In ... se je uprl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovemu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨danes⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T19:35:43.888748432Z",
+  "model": "glm-5.3"
+}

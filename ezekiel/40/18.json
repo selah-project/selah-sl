@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 40:18",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrejščina nima glagola biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כתף",
+      "rationale": "Doslovno 'rame' — arhitekturno preneseno kot 'stran\/vzporedno z'."
+    }
+  ],
+  "translation": "In tlak ⟨je bil⟩ ob strani vrat, sočasno z dolžino vrat — spodnji tlak.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "624b53936760db4875832a30b07aee5f6ecf77b8b9326f62ebb97ec475c73cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/40\/17-20.1792433588932.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרצפה",
+      "gloss": "in tlak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "strani (ramenu)"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "sočasno z"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dolžino"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "tlak"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "spodnji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:13:08.933190685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התרשתא",
+      "rationale": "perzijski naslov namestnika; 'tiršata' (prepuščeno) ali 'guverner'\/'namestnik' (ASV 'the governor')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨spadajo⟩",
+      "rationale": "hebrejščina navaja samo imena brez glagola"
+    }
+  ],
+  "translation": "Med zapečatljene ⟨spadajo⟩: Nechemja, hatiršata, sin Hakalja, in Cidkija.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/10\/1-4.1792437860823.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "med"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "zapečatljene"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemja"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "hatiršata (perzijski namestnik)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Hakalja"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "in Cidkija"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:20.823938960Z",
+  "model": "glm-5.3"
+}

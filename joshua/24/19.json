@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 24:19",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez glagola biti (אלהים קדשים הוא); slovenščina ga dodaja."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים קדשים",
+      "rationale": "Množinska oblika Elohim s pridevnikom v množini (קדשים): »sveti Bog« (edninsko) ali dobesedno » Bogovi sveti« — prevodi praviloma ublažijo v ednino."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לא ישא",
+      "rationale": "Dobesedno »ne bo nosil\/prevzel« (חatajoth — tudi krivdo za greh); prevod »ne bo odpuščal«."
+    },
+    {
+      "kind": "you",
+      "subject": "Jozue ljudstvu",
+      "rationale": "Neposreden nagovor ljudstva z opozorilom."
+    }
+  ],
+  "translation": "In Jozue je rekel ljudstvu: Ne morete služiti ⟨את⟩ Jahveju, kajti Elohim sveti ⟨je⟩ on, El ljubosumen ⟨je⟩ on; ne bo odpuščal vašega upora in vaših grehov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/17-20.1792426947182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "morete"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "služiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sveti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "ljubosumen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bo odpuščal"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "vašega upora"
+    },
+    {
+      "surface": "ולחטאותיכם",
+      "gloss": "in vaših grehov"
+    }
+  ],
+  "timestamp": "2026-10-19T16:22:27.183441912Z",
+  "model": "glm-5.3"
+}

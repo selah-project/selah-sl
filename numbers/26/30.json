@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima glagola biti; dodan s pomočnikom ⟨so⟩ v zvezi To so"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seznam družin",
+      "rationale": "popis rodov Manašejevih sinov po družinah"
+    }
+  ],
+  "translation": "To so sinovi Gilada: od Iezerja družina Iezercev, od Heleka družina Helekcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a1a8147f208572968157dad99eb5d0847d031abd2dcfa4d8471a3d0f602d8ed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/26\/30-32.1792433270781.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "od Iezerja"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "družina"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "Iezercev"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "od Heleka"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "družina"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "Helekcev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:50.782651676Z",
+  "model": "glm-5.3"
+}

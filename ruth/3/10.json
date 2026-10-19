@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨od⟩",
+      "rationale": "slovenščina potrebuje predlog pri blagoslovu 'od Jahve'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hesed",
+      "rationale": "Rutin hesed (dobrota do Jaakobove družine) se oglasi drugič; ista beseda kot v 1,8 — veriga zvestobe"
+    }
+  ],
+  "translation": "In rekel je: Blagoslovljena si ⟨od⟩ Jahve, hčerka moja; izkazala si svoj zadnji hesed boljši od prvega, da si ne šla za mladeniči, ne za uboge in ne za bogate.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/3\/9-12.1792436918042.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַיֹּ֗אמֶר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "בְּרוּכָ֨ה",
+      "gloss": "blagoslovljena"
+    },
+    {
+      "surface": "אַ֤תְּ",
+      "gloss": "si"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "⟨od⟩ Jahve"
+    },
+    {
+      "surface": "בִּתִּ֔י",
+      "gloss": "hčerka moja"
+    },
+    {
+      "surface": "הֵיטַ֛בְתְּ",
+      "gloss": "izkazala si boljše"
+    },
+    {
+      "surface": "חַסְדֵּ֥ךָ",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "הָאַחֲר֖וֹן",
+      "gloss": "zadnji"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הָרִאשֹׁ֑ן",
+      "gloss": "prvega"
+    },
+    {
+      "surface": "לְבִלְתִּ֗י",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "לֶ֗כֶת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "za"
+    },
+    {
+      "surface": "הַבַּּחוּרִ֔ים",
+      "gloss": "mladeniči"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דַּ֖ל",
+      "gloss": "ubog"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "עָשִֽׁיר",
+      "gloss": "bogat"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:38.042972865Z",
+  "model": "glm-5.3"
+}

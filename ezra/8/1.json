@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "hebrejščina postavlja rodovnik v asindeton; slovenščina potrebuje veznik"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "verz uvede seznam rodovnic in štetja mož"
+    }
+  ],
+  "translation": "In to so glavarje ⟨njihovih⟩ očetov ⟨in⟩ njihov rodovnik, ki so šli gor z mano v kraljestvu Artašaste, kralja, iz Babela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/8\/1-4.1792437702521.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "in to so"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavarje"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "očetov"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "⟨in⟩ njihov rodovnik"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "ki so šli gor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "z mano"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "v kraljestvu"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artašaste"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "iz Babela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:42.522308072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "brez glagola v hebrejščini; ⟨so⟩ označa kopulo, dodano v slovenščini"
+    }
+  ],
+  "translation": "In Reaja, sin Šovala, je rodil ⟨את⟩ Jahata; in Jahat je rodil ⟨את⟩ Ahumaja in ⟨את⟩ Lahada. Te ⟨so⟩ družine Ceratov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/1-4.1792438036075.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "In Reaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Šovala"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahata"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jahata"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "in Jahat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahumaja"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahumaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Lahada"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahada"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "družine"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Ceratov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:16.077247109Z",
+  "model": "glm-5.3"
+}

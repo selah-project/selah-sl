@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "zame",
+      "rationale": "לי je v hebrejščini (dober 'meni'), slovenščina pa potrebuje predlog 'za' — dodan smisel, ne beseda."
+    },
+    {
+      "kind": "alternative",
+      "subject": "to vem",
+      "rationale": "זה ידעתי lahko tudi 'to sem spoznal' — popolna pretekla izkušnja, ne le sedanje prepričanje."
+    }
+  ],
+  "translation": "Tedaj se moji sovražniki obrnejo nazaj na dan, ko kličem; to vem, da je Elohim ⟨zame⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/56\/9-12.1792434925616.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "יובו",
+      "gloss": "se bodo obrnili"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "moji sovražniki"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ko kličem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zame"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:25.616962518Z",
+  "model": "glm-5.3"
+}

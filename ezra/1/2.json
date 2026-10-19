@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 1:2",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "'obiskoval\/zadolžil\/postavil' — Jahve je nad Korešem izvršil naročilo; prevodi se razhajajo med 'ukazal', 'določil', 'zadolžil'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol biti v odvisniku, hebrejščina ga pri אשר nima."
+    }
+  ],
+  "translation": "Tako govori Koreš, kralj Perzije: Vse kraljevine zemlje mi je dal Jahve, Elohim nebes, in on je mene zadolžil, da mu zgradim hišo v Jerušalajim, ki ⟨je⟩ v Judeji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0d0afe178f53c17f1900fbf10b1510bab5300f96599edf87c84488a8386a832f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/1\/1-4.1792437637455.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "כרש",
+      "gloss": "Koreš"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Perzije"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Vse"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljevine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "zadolžil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "da zgradim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "v Judeji"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:37.458031308Z",
+  "model": "glm-5.3"
+}

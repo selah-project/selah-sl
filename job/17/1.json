@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 17:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez kopule; končnica -y v קברים je lahko tudi množina 'grobovi' ali 'grobišče'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נזעכו",
+      "rationale": "zָעַךְ 'pogašiti' se v Tanahu pojavlja redko; dobesedna slika goreče sveče"
+    }
+  ],
+  "translation": "Moja ruah je zavehana, moji dnevi so pogašeni, grobovi ⟨so⟩ za mano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2248aa7a076023bb4c064b517bc6ae11562bd355c3d0846e2c5431ac87dab4ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/17\/1-4.1792436462308.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "je zavehana"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "moji dnevi"
+    },
+    {
+      "surface": "נזעכו",
+      "gloss": "so pogašeni"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "grobovi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za mano"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:02.309571415Z",
+  "model": "glm-5.3"
+}

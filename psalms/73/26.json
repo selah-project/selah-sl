@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule — 'skala mojega srca in moj delež Elohim'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "KJV 'moč' proti dobesedni 'skala' (YL T, JPS) — hebrejščina pravi skala"
+    }
+  ],
+  "translation": "Premine moje meso in moje srce; skala mojega srca in moj delež ⟨je⟩ Elohim na veke.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/25-28.1792435056463.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Premine"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "moje meso"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "in moje srce"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skala"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mojega srca"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "in moj delež"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:36.464606619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדיק \/ צדקות",
+      "rationale": "ponovitev korena cedek — 'pravični Jahve ljubi pravičnost' — v slovenščini z istim prevodom ohranjena"
+    },
+    {
+      "kind": "elision",
+      "subject": "צדקות",
+      "rationale": "množinska oblika 'cedek-pravic' zložena v eno besedo 'cedek'"
+    }
+  ],
+  "translation": "Ker cedek je Jahve, cedek ljubi; pokončni bodo gledali njegov obraz.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/11\/5-7.1792434579955.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pokončni"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bodo gledali"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "njegov obraz"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:39.958538922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨od⟩",
+      "rationale": "predlog dodan, ker se השיבות veže z мин, ki slovenski glagol 'obrnil se' privzema"
+    },
+    {
+      "kind": "idiom",
+      "subject": "žar nosu",
+      "rationale": "ḥaron af, dobesedno 'gorenje nosu', je hebrejski idiom za razjarjenost; 'nos' je etimološija אף"
+    }
+  ],
+  "translation": "Odzval si vso svojo ogorčenost, obrnil si se ⟨od⟩ žara svojega nosu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/1-4.1792435169583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "odzel si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "svojo ogorčenost"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "obrnil si se"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "žar"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "svojega nosu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:29.585204698Z",
+  "model": "glm-5.3"
+}

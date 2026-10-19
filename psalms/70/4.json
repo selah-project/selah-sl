@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על עקב בשתם",
+      "rationale": "Dobesedno 'ob petki njihove sramote': 'zaradi njihove sramote' (JPS\/BSB) proti 'za plačilo njihove sramote' (KJV); עקב pomeni 'peta', preneseno 'plačilo \/ posledica'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האח האח",
+      "rationale": "Zasmevalni vzklik, podvojen kot odmev; poskuseno z 'Heha, heha!'."
+    }
+  ],
+  "translation": "Naj se vrnejo zaradi svoje sramote, ki pravijo: Heha, heha!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/70\/1-4.1792435048196.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "naj se vrnejo"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨zaradi⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "svoje sramote"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ki pravijo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha!"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:28.198009601Z",
+  "model": "glm-5.3"
+}

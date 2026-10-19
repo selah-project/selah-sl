@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדש",
+      "rationale": "'mesec' (KJV: čas enega meseca) proti 'mlaj' (ASV\/JPS\/BSB: praznik nove lune); oboje slovninsko mogoče."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלקיהם",
+      "rationale": "'dele\/porcije' (JPS) proti 'njive' (ASV: 'fields'); חלק je 'gladek kos, delež'."
+    },
+    {
+      "kind": "addition",
+      "subject": "skupaj z",
+      "rationale": "predlog את tukaj kot 'z', vključno z deležem — slovenščina potrebuje 'skupaj z', ker את ne more nositi obeh vlog hkrati."
+    }
+  ],
+  "translation": "Zoper Jahveja so zagrešili nezvestobo, kajti tuje sinove so rodili; zdaj jih bo požrl mesec ⟨skupaj z⟩ njihovimi deli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/5\/5-8.1792433800563.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "zoper Jahveja"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "so zagrešili nezvestobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tuje"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "so rodili"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "jih bo požrl"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mesec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove dele"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "njihove deli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:40.572402946Z",
+  "model": "glm-5.3"
+}

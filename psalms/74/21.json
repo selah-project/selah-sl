@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דַּךְ נִכְלָם",
+      "rationale": "dvojni pridevek 'zdrobljen-sramoten': različice berejo 'dvojno' (zdrobljen in zavračan) ali 'zdrobljen do sramote'."
+    },
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "hebrejščina ima le אל + imperfect; slovenščina potrebuje 'naj' za želenje."
+    },
+    {
+      "kind": "you",
+      "subject": "tebi — Elohimu",
+      "rationale": "neposreden prošnji nagovor Adonaja nasprotnikov."
+    }
+  ],
+  "translation": "Ne ⟨naj⟩ se zatirani sramoten vrača; ubogi in reven naj hvalita tvoje ime.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/21-23.1792435104857.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naj se vrača"
+    },
+    {
+      "surface": "דך",
+      "gloss": "zatirani"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "sramoten"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in reven"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "naj hvalita"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:24.858166077Z",
+  "model": "glm-5.3"
+}

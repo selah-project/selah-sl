@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Paroh",
+      "rationale": "neposreden nagovor Paroája po Mošetovih ustih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "služilo",
+      "rationale": "עבד 'služiti, delati' — ne nujno bogoslužje; to je temeljni zahtevi Exodus"
+    }
+  ],
+  "translation": "in mu reci: Jahve, Elohim Hebrejcev, me je poslal k tebi, rekoč: Izpusti ⟨את⟩ moje ljudstvo, da mi bo služilo v puščavi; in gle, do zdaj nisi poslušal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/7\/13-16.1792423143005.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "in reci"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejcev"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "me je poslal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Izpusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje ljudstvo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moje ljudstvo"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "da mi bo služilo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in gle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si poslušal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zdaj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:19:03.006687557Z",
+  "model": "glm-5.3"
+}

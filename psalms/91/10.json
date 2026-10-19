@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo \/ se bo",
+      "rationale": "Slovenščina zahteva pomožni glagol pri prihodnjiku, hebrejščina ga ima v obliki sama."
+    }
+  ],
+  "translation": "Ne bo te doletelo húdo, in nadloga se ne bo približala tvojemu šotoru.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/91\/9-12.1792435307203.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "bo doletelo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "in nadloga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "se bo približala"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "tvojemu šotoru"
+    }
+  ],
+  "timestamp": "2026-10-19T18:41:47.205364027Z",
+  "model": "glm-5.3"
+}

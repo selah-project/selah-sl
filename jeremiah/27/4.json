@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "adonejhem \/ adonejhem (2. oseba)",
+      "rationale": "verz se obrača na poslance z ukazom 'recite svojim gospodom' — neposreden nagovor odposlancev"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gospodom",
+      "rationale": "אדניהם o ljudeh — 'gospodje', ne božji naslov; tu so človeški vladarji"
+    }
+  ],
+  "translation": "In zapovej ⟨jim⟩ ⟨את⟩, naj ⟨se⟩ reče njihovim gospodom takole: Tako govori Jahve Cebaot, Elohim Jisraela: Takole recite svojim gospodom:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e57cb00699db0c7d0b7642f466d07c5229a707740e3111f2ea62fe8a2c70d62a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/27\/1-4.1792431525458.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "in zapovej"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jim",
+      "marks": "poslanci \/ njihovi gospodje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "njihovim gospodom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "naj reče"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takole"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takole"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "recite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gospodom"
+    }
+  ],
+  "timestamp": "2026-10-19T17:38:45.459441098Z",
+  "model": "glm-5.3"
+}

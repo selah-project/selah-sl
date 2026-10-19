@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 18:29",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלום לנער",
+      "rationale": "hebrejski vprašalni oklep 'mir mladeniču?' pomeni 'ali je dobro z mladeničem?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההמון",
+      "rationale": "pomeni hkrati 'hrup, vrvež in množica' — Ahimaac dvoumno prikriva, kaj je videl"
+    }
+  ],
+  "translation": "In kralj je rekel: Ali je mir ⟨je⟩ z mladeničem, z Avšalomom? In Ahimaac je rekel: Videl sem velik nemir, ko je Joav, služabnik kralja, poslal ⟨את⟩ služabnika kralja in ⟨את⟩ tvojega služabnika, pa nisem vedel, kaj ⟨je⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "788bebdaae4b07be151c51cf8c63fc2727efb03454dbfce47825c057536fa767",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/18\/29-32.1792428542477.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "z mladeničem"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "z Avšalomom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaac"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "videl sem"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "nemir"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ko je poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "služabnika kralja"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "služabnik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "tvojega služabnika"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvoj služabnik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vedel sem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    }
+  ],
+  "timestamp": "2026-10-19T16:49:02.478149134Z",
+  "model": "glm-5.3"
+}

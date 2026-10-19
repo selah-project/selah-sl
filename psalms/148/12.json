@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "starostne skupine",
+      "rationale": "Verz našteva vse starosti — mladi, device, starci, dečki — popolna množica hvaliteljev."
+    },
+    {
+      "kind": "crux",
+      "subject": "נערים",
+      "rationale": "'Dečki\/otroci' (KJV children) ali 'mladeniči' — beseda pokriva od dojenčka do mladeniča."
+    }
+  ],
+  "translation": "Mladeniči in tudi device, starci skupaj z dečki,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/148\/9-12.1792435775626.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mladeniči"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "device"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "skupaj z"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dečki"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:35.627896911Z",
+  "model": "glm-5.3"
+}

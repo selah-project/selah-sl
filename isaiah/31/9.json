@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסלעו ממגור יעבור",
+      "rationale": "'njegova skala bo od strahu prešla čez' — kralj (ali Asirija) pobegne k svoji trdnjavi; KJV bere 'prešel bo k svoji trdnjavi iz strahu', ASV\/JPS 'njegova skala bo minila od strahu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אור",
+      "rationale": "אור je 'plamen\/svetloba', prevedeno kot 'ogenj' po kontekstu peči (תנור)."
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "Hebrejski dativek 'njemu' se v slovenščini izrazi z zaimkom ⟨zanj⟩, oklepaji označujejo dodano besedo."
+    }
+  ],
+  "translation": "In njegova skala bo od strahu prešla čez, njegovi knezi bajo obnemeli od bojne zastave, govori Jahve, ki ima ogenj v Cionu in peč ⟨zanj⟩ v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/31\/9-9.1792430341881.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "In njegova skala"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "od strahu"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "bo prešla čez"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "obnemeli bodo"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "od bojne zastave"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "njegovi knezi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zanj⟩"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "v Cionu"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "in peč"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zanj⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:19:01.881744010Z",
+  "model": "glm-5.3"
+}

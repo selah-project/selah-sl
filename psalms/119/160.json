@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'glava\/začetek' ali 'vsota (besed)'; KJV 'od začetka', JPS 'začetek', YLT\/ASV 'vsota'"
+    },
+    {
+      "kind": "addition",
+      "subject": "trajajo",
+      "rationale": "hebrejščina glagola nima; obstoj sodbo izraza zveza 'do vekomaj'"
+    }
+  ],
+  "translation": "Glava tvoje besede je resnica, in do vekomaj vsak sodba tvojega cedeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/157-160.1792435538744.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvoje besede"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "resnica"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "in do vekomaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodba"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvojega cedeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:38.745446495Z",
+  "model": "glm-5.3"
+}

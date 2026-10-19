@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina je brez glagola biti — nominalni stavek 'moj glas k Elohimu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קולי אל אלהים",
+      "rationale": "Dvojna ponovitev 'moj glas k Elohimu' — zrcalna struktura, ki vabi, naj Bog prisluhne."
+    }
+  ],
+  "translation": "Moj glas ⟨je⟩ k Elohimu in vpijem; moj glas ⟨je⟩ k Elohimu in ⟨naj⟩ mi prisluhne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/1-4.1792435145271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Moj glas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "in vpijem"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "moj glas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "in prisluhne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:05.271840362Z",
+  "model": "glm-5.3"
+}

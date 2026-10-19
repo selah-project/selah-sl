@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "drugi 'ne' ('in se ne prikloni')",
+      "rationale": "hebrejščina\/aramejščina ima en sam לא za oba glagola; slovenščina ga ponovi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שעתא",
+      "rationale": "'isti uri' — trenutek kot točna mera kazni, brez odloga."
+    }
+  ],
+  "translation": "In kdor ne pade in se ne prikloni, bo v isti uri vržen v sredo peči, gorečega ognja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c2d861dc09834698150ca6c0722c90defe73c889d1f681646dd10456f69a0e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/3\/5-8.1792437366950.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "in kdor"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "in se ne prikloni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "isti uri"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "bo vržen"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "v sredo"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "peči"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "gorečega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:16:06.953247185Z",
+  "model": "glm-5.3"
+}

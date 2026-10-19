@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עללות ברשע",
+      "rationale": "'Dejanja v hudobiji' (KJV) proti 'naklede\/dejanja' — עלילה pomeni izvedena dejanja, pogosto slaba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nič",
+      "rationale": "און je dobesedno 'ničnost'; 'krivica' je vloga, ne oblika besede."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Prošnja (negativni imperativ), obrnjena na Jahveja."
+    }
+  ],
+  "translation": "Ne nagni mojega srca h slabemu dejanju, da bi počenjal naklede v zlorabi ⟨z⟩ ⟨את⟩ možmi, ki delajo nič; in ne bom jedel ⟨iz⟩ njihovih dobrot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/141\/1-4.1792435737184.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "nagni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mojega srca"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "h dejanju"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slabemu"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "da bi počenjal"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "naklede"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "v zlorabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "možmi, ki delajo nič"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "možmi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ki delajo"
+    },
+    {
+      "surface": "און",
+      "gloss": "nič"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "in ne bom"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "jedel"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "⟨iz⟩ njihovih dobrot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:57.187576219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 7:11",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גלה יגלה",
+      "rationale": "Infinitiv absolut pred glagolom — dobesedno 'izseljen bo izseljen'; ponovitev za zagotovilo je v slovenščini izgubljena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "s svoje zemlje",
+      "rationale": "מעל אדמתו dobesedno 's svoje prsti\/adme' — rdeča prst, ne abstraktna 'domovina'"
+    }
+  ],
+  "translation": "Ker tako je rekel Amos: Z mečem bo umrl Jeroveam in Jisrael bo zagotovo izseljen s svoje zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1049fde033480a5577e80d4867640c2cbe73defcc689bca51e6f0d00ef4df4aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/7\/9-12.1792434073956.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amos"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bo umrl"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroveam"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "in Jisrael"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "zagotovo"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "izseljen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "svoje zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:13.958877107Z",
+  "model": "glm-5.3"
+}

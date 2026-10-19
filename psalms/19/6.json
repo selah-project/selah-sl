@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חופה",
+      "rationale": "מֵחֻפָּתוֹ — svadbena krošnja\/streha, v Tanahu samo tu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol; hebrejščina izraža poudarek z samim והוא."
+    }
+  ],
+  "translation": "In on ⟨je⟩ kakor ženin, ki izhaja iz svoje svadbene strehe; razveseljuje se kakor junak, da bi tekel po poti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/19\/5-8.1792434664218.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kakor ženin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izhaja"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "iz svoje svadbene strehe"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "razveseljuje se"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kakor junak"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "da bi tekel"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "po poti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:04.219580885Z",
+  "model": "glm-5.3"
+}

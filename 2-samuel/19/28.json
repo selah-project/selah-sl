@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "širil grajo",
+      "rationale": "וירגל iz רגל 'noga' — dobesedno 'hodil kot vohun\/izvidnik o tvojem služabniku', tj. obrekal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poslanec",
+      "rationale": "מלאך je 'poslanec'; 'angel' bi vneslo kasnejšo podobo — tukaj 'poslanec Elohim'"
+    },
+    {
+      "kind": "addition",
+      "subject": "v svojih",
+      "rationale": "בעיניך je 'v tvojih očeh'; slovenski zvočni red zahteva premestitev"
+    }
+  ],
+  "translation": "In širil je grajo o tvojem služabniku pred mojim gospodom kraljem; moj gospod kralj pa je kakor poslanec Elohim, zato stori dobro v svojih očeh.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/19\/25-28.1792428554012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "In širil grajo"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "o tvojem služabniku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mojim gospodom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "moj gospod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "je kakor poslanec"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "zato stori"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v svojih očeh"
+    }
+  ],
+  "timestamp": "2026-10-19T16:49:14.013425403Z",
+  "model": "glm-5.3"
+}

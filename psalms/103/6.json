@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקות je množina abstraktnosti 'pravična dejanja'; 'cedek' ohranja koren v skladu z disciplino."
+    }
+  ],
+  "translation": "Deluje cedek Jahve in sodbe za vse, ki so zatirani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/5-8.1792435328470.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Deluje"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "in sodbe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za vse"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ki so zatirani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:08.471300617Z",
+  "model": "glm-5.3"
+}

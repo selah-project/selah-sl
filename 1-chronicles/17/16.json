@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moj hiša",
+      "rationale": "ביתי je dobesedno 'moja hiša' v pomenu rodu\/družine; slovensko 'moj rod' bi bila zamenjava, zato ostaja 'moj hiša'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד הלם",
+      "rationale": "Dobesedno 'do sem' — 'dovendar' ohranjaHebrajsko sliko poti do tega kraja."
+    },
+    {
+      "kind": "you",
+      "subject": "David Jahveju",
+      "rationale": "Neposreden nagovor: David se obrača na Jahveja, Elohima."
+    }
+  ],
+  "translation": "In kralj David je prišel in sedel pred Jahvejem ter rekel: Kdo sem jaz, Jahve, Elohim, in kaj je moj hiša, da si me pripeljal ⟨dovendar⟩ sem?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b893a976ccf180e82bf5ea8607127b61dd5732d6e9d5f12c20924ae9d9a98d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/13-16.1792438241449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "in je prišel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in je sedel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "je moj hiša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "si me pripeljal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dovendar"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "sem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:41.450843391Z",
+  "model": "glm-5.3"
+}

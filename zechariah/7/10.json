@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "k Izraelu",
+      "rationale": "Zapovedalne oblike se obračajo neposredno na poslušalce."
+    },
+    {
+      "kind": "addition",
+      "subject": "svojemu",
+      "gloss-pfx": "",
+      "rationale": "Slovenščina potrebuje svojilni zaimek, hebrejščina ima le אחיו."
+    }
+  ],
+  "translation": "In vdove in sirote, tujca in reveža ne zatirajte, in húdo zlo vsakdo svojemu bratu ne premišljujte v svojem srcu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca34ddebd83b41ff8656f7ff9f29fd25500aac65e5e91b47cb0fe3f831946768",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/7\/9-12.1792434373786.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "in vdovo"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "in siroto"
+    },
+    {
+      "surface": "גר",
+      "gloss": "tujca"
+    },
+    {
+      "surface": "ו עני",
+      "gloss": "in reveža"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "zatirajte"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "in húdo zlo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsakdo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svojemu bratu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "premišljujte"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "v svojem srcu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:13.788422974Z",
+  "model": "glm-5.3"
+}

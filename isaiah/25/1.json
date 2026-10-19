@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמונה \/ אמן",
+      "rationale": "Igranje besed zvestoba–zanesljivo (emuna\/omen), v slovenščini izgubljeno."
+    },
+    {
+      "kind": "crux",
+      "subject": "עצות מרחוק אמונה אמן",
+      "rationale": "Sklonjena sintagma brez glagola: 'načrti iz davnine, zvestoba, O zanesljivi' (YL T) proti 'po zvestobi in resnici' (KJV\/ASV)."
+    }
+  ],
+  "translation": "Jahve, Elohim moj, si ti; povzdigoval te bom, zahvaljeval se bom tvojemu imenu, kajti naredil si čudež, načrte iz davnine, zvestobo, trdno zanesljivo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7bb95e0e15ceb423ac2a45287e22e54a883347c1052115c90f986c872004d217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/25\/1-4.1792430315614.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "povzdigoval te bom"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "zahvaljeval se bom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvojemu imenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "naredil si"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "čudež"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "načrte"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "iz davnine"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "zvestobo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "trdno zanesljivo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:18:35.614897641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אִשָּׁה",
+      "rationale": "'žena' ali 'ženska' — hebrejščina z eno besedo pomeni oboje; 'najti ženo' pomeni oženiti se"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "ponovljeni glagol מצא je v drugem stavku kot popolnoma 'je našel', slovenščina potrebuje pomožni glagol"
+    }
+  ],
+  "translation": "Kdor najde ženo, našel je dobro, in naklonjenost pridobi od Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/18\/21-24.1792436021353.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "kdor najde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženo"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "je našel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "in pridobi"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "naklonjenost"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:41.355540896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tebi — Elohimu",
+      "rationale": "neposreden prošnji nagovor: pozabi glasu nasprotnikov."
+    },
+    {
+      "kind": "addition",
+      "subject": "zoper tebe",
+      "rationale": "particip קָמֶיך nosi zaimkov končnico 'tvojih', ki jo slovenščina izrazi z 'zoper tebe'."
+    }
+  ],
+  "translation": "Ne pozabi glasu svojih nasprotnikov, hrupa tistih, ki se dvigajo zoper tebe, ⟨ki⟩ se dviga neprestano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/21-23.1792435104857.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pozabi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glasu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "svojih nasprotnikov"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hrupa"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "tistih, ki se dvigajo zoper tebe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "se dviga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprestano"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:24.858717102Z",
+  "model": "glm-5.3"
+}

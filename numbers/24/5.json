@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew exclamative lacks copula; Slovene requires ⟨so⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškani",
+      "rationale": "משכנתיך je miškan (bivališče); tabela D2 prepoveduje 'šotor' samega"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaakov in Jisrael",
+      "rationale": "Bileam neposredno ogovarja Jaakova in Jisrael v vzkliku"
+    }
+  ],
+  "translation": "Kako dobri so tvoji šotori, Jaakov, tvoji miškani, Jisrael!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "91510087081c40ae0d4bbc15222ac732f10eaa01fd2212901955416c750f2fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/24\/5-8.1792425271714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "dobri"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "tvoji šotori"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "tvoji miškani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T15:54:31.714709678Z",
+  "model": "glm-5.3"
+}

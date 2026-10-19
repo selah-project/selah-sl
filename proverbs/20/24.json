@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva glagol biti, hebrejščina ga ni ima."
+    },
+    {
+      "kind": "mystery",
+      "subject": "človekova pot",
+      "rationale": "Retorično vprašanje: človek ne more razumeti svoje poti, ker je v Jahvejih rokah."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר \/ אדם",
+      "rationale": "Zamenjava dveh besed za človeka — 'mož' in 'človek' — v vzporednih colonih."
+    }
+  ],
+  "translation": "Od Jahveja ⟨so⟩ koraki moža, in človek — kako razume svojo pot?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/20\/21-24.1792436039591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Od Jahveja"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "koraki"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moža"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "in človek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "razume"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "svojo pot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:59.593209594Z",
+  "model": "glm-5.3"
+}

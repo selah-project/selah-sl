@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "v očeh Jahveja",
+      "rationale": "hebrejski idiom בעיני יהוה — vrednotenje po 'očeh', ne po videzu"
+    },
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina ima samo 'pred njim', slovenščina potrebuje glagol"
+    }
+  ],
+  "translation": "In Ahav, sin Omrija, je storil húdo v očeh Jahveja, več kot vsi, ki so bili pred njim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f22eaf49146f8791465e5f52b22b76b033ddc2f3f38380879c809d7c06164be2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/16\/29-32.1792429164459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In je storil"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrija"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "več kot vsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "so bili pred njim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:24.460192386Z",
+  "model": "glm-5.3"
+}

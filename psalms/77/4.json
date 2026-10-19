@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשיחה",
+      "rationale": "שיח pomeni 'prenašati\/pomilovati, premišljevati, govoriti' — 'premišljujem' (JPS) proti 'pritožujem se' (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "omaguje",
+      "rationale": "תעטף dobesedno 'ovije se, zaodene' — ruah se 'zaodene', torej opeša; 'omaguje' je funkcionalni prevod."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "Glasbeni znak za premor, brez znanega slovenskega ustreznika — puščeno po zvoku."
+    }
+  ],
+  "translation": "Spomnim se Elohima in vriskam; premišljujem, in moj ruah omaguje. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/1-4.1792435145271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Spomnim se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "in vriskam"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "premišljujem"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "in omaguje"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moj ruah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:05.272678809Z",
+  "model": "glm-5.3"
+}

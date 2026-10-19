@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "napeli",
+      "rationale": "דרכו dobesedno 'stopili so' — lok se napne s stopanjem nanj; 'napeti' izgubi sliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישרי דרך",
+      "rationale": "'pošteni poti' (konstrukt) — 'tisti, ki so na ravni poti' ali 'ravni glede poti'."
+    }
+  ],
+  "translation": "Meč so odprli zlobneži in napeli svoj lok, da povejejo ubogega in revnega, da zakoljejo poštene ⟨na⟩ poti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/13-16.1792434753939.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "so odprli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlobneži"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "in napeli"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "svoj lok"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "da povejejo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogega"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in revnega"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "da zakoljejo"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "poštene"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "poti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:33.940737718Z",
+  "model": "glm-5.3"
+}

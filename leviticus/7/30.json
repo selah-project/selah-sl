@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 7:30",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hole bom",
+      "rationale": "חלב je 'hole bom', najboljša delež, ne 'masto' nujno."
+    },
+    {
+      "kind": "crux",
+      "subject": "ognjene daritve",
+      "rationale": "אשי dobesedno 'njegove ognjene (daritve)'; prevodi se razhajajo med 'daritve, dane v ognju' in 'ognjene daritve'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvig-dar",
+      "rationale": "תנופה je tehničen izraz za dvigajoče mahanje pred Jahvejem."
+    }
+  ],
+  "translation": "S svojimi rokami naj prinese ⟨את⟩ ognjene daritve Jahveja: ⟨את⟩ delež-prsi s hole bom prinese; ⟨את⟩ prsi, da ju dvigne kot dvig-dar pred obličjem Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/29-32.1792423977249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "s svojimi rokami"
+    },
+    {
+      "surface": "תביאינה",
+      "gloss": "naj prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ognjene daritve"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ognjene daritve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delež"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "delež-prsi (hole bom)"
+    },
+    {
+      "surface": "על",
+      "gloss": "z"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "prsmi"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prsi"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "prsi"
+    },
+    {
+      "surface": "להניף",
+      "gloss": "da dvigne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dvig-dar"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kot dvig-dar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:32:57.250565321Z",
+  "model": "glm-5.3"
+}

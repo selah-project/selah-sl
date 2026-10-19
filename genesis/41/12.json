@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "hebrejščina brez glagola 'biti'; slovenščina ga zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתנו",
+      "rationale": "predlog 'pri\/z' (H854), ohranjen kot ⟨את⟩ z besedo"
+    }
+  ],
+  "translation": "In tam je bil ⟨את⟩ pri nas mladenič, Hebrejec, suženj poglavarja krvnikov; in pripovedovali smo mu, in razložil nam je ⟨את⟩ naše sanje; vsakomur po njegovi sanji je razložil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/9-12.1792422758838.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "in tam"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ pri nas",
+      "marks": "pri nas"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladenič"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrejec"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "suženj"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "poglavarja"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "krvnikov"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "in pripovedovali smo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "in razložil je"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše sanje"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "naše sanje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsakomur"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "po njegovi sanji"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "je razložil"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:38.839416564Z",
+  "model": "glm-5.3"
+}

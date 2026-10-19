@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויראו \/ וייראו",
+      "rationale": "Koren y-r-' 'videti' in j-r-' 'batiti se' zvenita skoraj enako — videti in bati se sta zrcaljeni v zvoku, v slovenščini izgubljeno."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "Slovenščina potrebuje predmet pri 'posmeli'; hebrejščina ga nosi v naslednjem ועליו."
+    }
+  ],
+  "translation": "In videli bodo cedek-pravični in se bali ⟨ga⟩ in se posmeli ⟨nad njim⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "90a2ec3b953de35725f657c2869a838ec303fc146f47f7693d50fd14f841b096",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/52\/8-8.1792439033455.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "in videli bodo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedek-pravični"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "in se bali"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "⟨nad njim⟩"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "in se posmeli"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:53.457187901Z",
+  "model": "glm-5.3"
+}

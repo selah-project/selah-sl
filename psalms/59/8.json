@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bruhajo",
+      "rationale": "יביעון dobesedno 'izvira(si) bruhajo' — besede kot voda."
+    },
+    {
+      "kind": "crux",
+      "subject": "kdo posluša",
+      "rationale": "'Kdo (nas) sliši?' kot posmeh sovražnikov (KJV\/JPS 'say they') proti preprostemu vprašanju pesnika; hebrejščina narekov ničesar ne doda."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga opušča."
+    },
+    {
+      "kind": "mystery",
+      "subject": "מי שמע",
+      "rationale": "retorično vprašanje — 'kdo posluša?' namiguje na nekaznovanost, nič ne odgovarja."
+    }
+  ],
+  "translation": "Glej, bruhajo s svojimi usti, meči ⟨so⟩ na njihovih ustnicah — kajti kdo posluša?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/5-8.1792434966822.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "bruhajo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "s svojimi usti"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "meči"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "na njihovih ustnicah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "posluša"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:06.824342959Z",
+  "model": "glm-5.3"
+}

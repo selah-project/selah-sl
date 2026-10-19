@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "v trebuhu",
+      "rationale": "מעי je dobesedno 'drobovje', notranjost telesa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tri dni in tri noči",
+      "rationale": "število dni in noči je natančno prešteto"
+    }
+  ],
+  "translation": "In Jahve je določil veliko ribo, da požre ⟨את⟩ Jono, in Jona je bil v trebuhu ribe tri dni in tri noči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/2\/1-4.1792434064276.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "je določil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ribo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "da požre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jono"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jono"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in je bil"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "v trebuhu"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ribe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "in tri"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "noči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:04.277543466Z",
+  "model": "glm-5.3"
+}

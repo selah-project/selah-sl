@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dar Jahve",
+      "rationale": "דבר je dobesedno 'beseda'; v slovenščino 'dar' kot uveljavljena tanahična oblika."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dne⟩",
+      "rationale": "hebrejščina pravi le 'prvega [dne] meseca'; slovenščina potrebuje samostalnik."
+    },
+    {
+      "kind": "measurement",
+      "subject": "datum",
+      "rationale": "natančno štetje časa: enajsto leto, prvi dan meseca."
+    }
+  ],
+  "translation": "In zgodilo se je v enajstem letu, prvega ⟨dne⟩ v mesecu, da je bil ⟨prišel⟩ dar Jahve k meni govoreč:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/26\/1-4.1792432467446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "v enajstem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "–najst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "letu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvega"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dar Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    }
+  ],
+  "timestamp": "2026-10-19T17:54:27.447443098Z",
+  "model": "glm-5.3"
+}

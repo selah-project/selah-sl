@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 35:4",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina zahteva glagol 'biti', hebrejščina glagola v tem verzu nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tisoč komolcev",
+      "rationale": "določena meritev pašnikov od mestnega zidu navzven"
+    }
+  ],
+  "translation": "Pašniki mest, ki jih daste levitom, ⟨so⟩ od zidu mesta in navzven tisoč komolcev naokoli.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ca51427f5a2cfd942f72823f44e1936f8443529e9833bc95f3b5835a10de0601",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/35\/1-4.1792425584554.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומגרשי",
+      "gloss": "Pašniki"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "jih daste"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitom"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "od zidu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "וחוצה",
+      "gloss": "in navzven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokoli"
+    }
+  ],
+  "timestamp": "2026-10-19T15:59:44.555554451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשגבני",
+      "rationale": "'postavi me na varno\/višavo': rešitev kot dejanje dviganja, ne samo pomoči"
+    }
+  ],
+  "translation": "Jaz pa sem reven in boleč ⟨sem⟩; tvoja rešitev, Elohim, me dviga na višavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/29-32.1792435073128.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jaz pa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "reven"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "in boleč"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tvoja rešitev"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "me dviga na višavo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:53.129469924Z",
+  "model": "glm-5.3"
+}

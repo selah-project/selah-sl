@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je 'cedek\/pravičnost' — okostje besede se ohrani, ne pa le 'pravičnost'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעשות",
+      "gloss": "",
+      "rationale": "infinitiv 'za delati' je vključen v 'varovali bomo delali' — v slovenščini glagol 'varovati' nosi celoten pomen 'čuvati, da delamo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨biti⟩",
+      "rationale": "slovenščina zaheva glagol 'biti', hebrejščina ga izraža s תהיה"
+    }
+  ],
+  "translation": "In cedek nam bo ⟨biti⟩, če bomo varovali ⟨את⟩ vso to zapoved pred obličjem Jahve, Elohim našega, kakor nam je zapovedal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/6\/25-25.1792425693375.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "in cedek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo ⟨biti⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "bomo varovali"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "delati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso to zapoved"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "zapoved"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "nam je zapovedal"
+    }
+  ],
+  "timestamp": "2026-10-19T16:01:33.375722319Z",
+  "model": "glm-5.3"
+}

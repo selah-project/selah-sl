@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina brez kopule"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי־עד",
+      "rationale": "ponovitev 'vek vekov' — večnost izražena s podvajanjem, v slovenščini ena beseda 'vekomaj'"
+    }
+  ],
+  "translation": "To ⟨je⟩ moja počivališča vekomaj: tu bom prebival, kajti zaželjel sem si ⟨jo⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/13-16.1792435601960.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "moja počivališča"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vekoma-"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-vek"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "bom prebival"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "zaželjel sem si ⟨jo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:41.961685825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨zame⟩",
+      "rationale": "עמי dobesedno »z mano«; slovenščina zahteva »zame«"
+    },
+    {
+      "kind": "substitution",
+      "subject": "osramočeni",
+      "rationale": "ויבשו dobesedno »pobledeli bodo«; sram je posledica bledosti"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor Boga v drugi osebi"
+    }
+  ],
+  "translation": "Stori ⟨zame⟩ znamenje v dobro, in videti bodo tisti, ki me sovražijo, in osramočeni bodo, kajti ti, Jahve, si mi pomagal in me tolažil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca3c05d2dd211a5c43c39796f2cc157968030645956ff2e9083f121a2bcb31a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/86\/17-17.1792435216150.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Stori"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨zame⟩"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znamenje"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "v dobro"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "in videli bodo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "tisti, ki me sovražijo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "in osramočeni bodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "si mi pomagal"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "in me tolažil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:16.151384535Z",
+  "model": "glm-5.3"
+}

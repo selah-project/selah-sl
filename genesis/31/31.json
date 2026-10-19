@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasilno vzel",
+      "rationale": "גזל dobesedno 'otrebiti, orvati' — nasilno odvzeti; podoba odiranja je v slovenščini izgubljena"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨si⟩",
+      "rationale": "hebrejščina 'sem rekel' brez osebka; slovenščina zahteva"
+    }
+  ],
+  "translation": "In Jaakov je odgovoril in rekel Lavanu: Ker sem se bal, kajti rekel sem ⟨si⟩: Da ne bi nasilno vzel ⟨את⟩ svojih hčera od mene.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/31\/29-32.1792422621400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in je odgovoril"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lavanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "sem se bal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sem rekel"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "nasilno vzel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojih hčera"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "svojih hčera"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:21.401941226Z",
+  "model": "glm-5.3"
+}

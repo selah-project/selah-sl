@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סחרחר",
+      "rationale": "reduplicated form; according to some it is a hapax in the form Piel of 'go around\/trade', here 'to pound'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "trepeta",
+      "rationale": "סחרחר is literally 'go around\/go around' — a fluttering or pounding of the heart"
+    }
+  ],
+  "translation": "Srce mi trepeta, moč me je zapustila, in svetloba mojih oči — tudi ta ni ⟨z⟩ ⟨את⟩ menoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/9-12.1792434775362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "srce mi"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "trepeta"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "me je zapustila"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "moč"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "in svetloba"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mojih oči"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨z⟩ ⟨את⟩",
+      "marks": "menoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:55.364397883Z",
+  "model": "glm-5.3"
+}

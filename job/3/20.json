@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש je dih, grlo, življenjska moč — ne nesnovna duša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמל",
+      "gloss": "trpeči",
+      "rationale": "עמל je naporno delo in iz njega trpljenje; ' trudozlo '"
+    },
+    {
+      "kind": "invitation",
+      "subject": "beralcu",
+      "rationale": "retorično vprašanje 'zakaj' neposredno vabi bralca v Jobovo tarnanje."
+    }
+  ],
+  "translation": "Zakaj ⟨daja⟩ svetlobo trpečemu, in življenje tistim, ki so grenki v duši?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/17-20.1792436264509.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨daja⟩"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "trpečemu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetlobo"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "in življenje"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "tistim, ki so grenki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "v duši"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:44.513001583Z",
+  "model": "glm-5.3"
+}

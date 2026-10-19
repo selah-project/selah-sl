@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישמרו\/ינצרו",
+      "rationale": "dva različna glagola za varovati (šamar — obdati s trni; nacar — varovati) v vzporednem verigu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Halelujah",
+      "gloss": "הללו יה je dobesedno 'hvalite Jah'; delno prevod v okviru"
+    },
+    {
+      "kind": "you",
+      "subject": "bralcu\/skupnosti",
+      "rationale": "imperativ hvaljenja na koncu psalma neposredno nagovarja poslušalce"
+    }
+  ],
+  "translation": "Da bi ⟨so⟩ njegove uke ohranjali in njegove Tore ⟨so⟩ varovali. Halelujah, Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1ebe7267b8e6df7da5f67b082a68150ef37cb5a8e473d80d2acb2c155e5af9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/45-45.1792435378517.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ohranjali"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "njegove uke"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "in njegove Tore"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "varovali"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu — hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:58.518290810Z",
+  "model": "glm-5.3"
+}

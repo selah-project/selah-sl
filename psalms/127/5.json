@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "drugi את",
+      "rationale": "Tukaj je את predlog 'z\/s' (H854), ne označevalnik predmeta — 'govoriti zoper sovražnike v vratih'; prevedeno kot ⟨את⟩ po pravilu ohranitve z oznako."
+    }
+  ],
+  "translation": "Kako srečen je mož, ki je napolnil ⟨את⟩ svojo tobolo z njimi; ne bodo se sramovali, kajti govorili bodo ⟨את⟩ sovražnikov ⟨v⟩ vratih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/127\/5-5.1792435575998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "kako srečen"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "je mož"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "je napolnil"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "svojo tobolo"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "svojo tobolo"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "bodo se sramovali"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "govorili bodo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sovražnikov"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "sovražnikov"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "⟨v⟩ vratih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:15.998948324Z",
+  "model": "glm-5.3"
+}

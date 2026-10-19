@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוק ברק",
+      "rationale": "Infinitiv in samostalnik istega korena (barak\/barak) — 'bliskni blisk', besedna igra izgubljena v slovenščini."
+    },
+    {
+      "kind": "alternative",
+      "subject": "spravi v zmedo",
+      "rationale": "ותהמם dobesedno 'spravi v tresenje\/vzdravljenje'; tudi 'uniči jih'."
+    }
+  ],
+  "translation": "Bliskni strela in jih razkropi, izstreli svoje puščice in jih spravi v zmedo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e16963f424e8261bb5d71ce7e0cfdc702fb783752583f68ef2ca1669c69444e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/6-7.1792439061147.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Bliskni"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "strela"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "in jih razkropi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "izstreli"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "svoje puščice"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "in jih spravi v zmedo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:21.147804724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maliki",
+      "rationale": "גִּלּוּל dobesedno 'hlod' (koren okrogel); 'malik' izgubi dobesedno podobo klada."
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "dobesedno 'pred obrazom' (פָּנִים); 'pred' izpušča podobo obraza."
+    }
+  ],
+  "translation": "In položil bom ⟨את⟩ trupla sinov Jisraela pred njihove malike, in raztresel bom ⟨את⟩ vaše kosti okoli vaših oltarjev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/6\/5-8.1792432110045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "in položil bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trupla"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "trupla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "njihove malike"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "in raztresel bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše kosti"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "vaše kosti"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "vaših oltarjev"
+    }
+  ],
+  "timestamp": "2026-10-19T17:48:30.045764844Z",
+  "model": "glm-5.3"
+}

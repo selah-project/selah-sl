@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקעו \/ תבקע",
+      "rationale": "isti glagol בקע na začetku in koncu verza — okvir 'predreti se', v slovenščini ohranjen z istim glagolom 'predreti se'."
+    },
+    {
+      "kind": "crux",
+      "subject": "וקורי",
+      "rationale": "קור je edinole v množini; 'mreže\/tkane jaške' vs 'kokoni' — izbrano 'mreže' po povezavi s pajkom."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפעה",
+      "rationale": "beseda אפעה se v Tanahu pojavi samo tu in v Ri 32,33; pomen 'strupena kača', izbrano 'gad'."
+    }
+  ],
+  "translation": "Jajca modrasa so se predrla in mreže pajka so si presle-tkale; kdor jé iz njihovih jajc, bo umrl, in iz stisnjenega se bo predrl gad.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/5-8.1792430933934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "jajca"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "modrasa"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "so se predrla"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "in mreže"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "pajka"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "so si presle-tkale"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "kdor jé"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "iz njihovih jajc"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bo umrl"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "in iz stisnjenega"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "se bo predrl"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "gad"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:53.935147969Z",
+  "model": "glm-5.3"
+}

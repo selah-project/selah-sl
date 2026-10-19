@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "Hebrejščina brez glagola biti; hodoščina zahteva kopulo"
+    },
+    {
+      "kind": "rhetorical",
+      "subject": "אנכי אנכי",
+      "rationale": "podvojeni jaz — poudarek govorca, v slovenščini z dvema »jaz«"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Jisrael",
+      "rationale": "Jahve nagovarja Izraela glede odpuščanja prestopkov"
+    }
+  ],
+  "translation": "Jaz, jaz ⟨sem⟩ tisti, ki izbriše tvoje upore — zaradi sebe, in tvojih grehov ne bom spomnil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/43\/25-28.1792430618496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "izbriše"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "tvoje upore"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "zaradi sebe"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "in tvojih grehov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "spomnil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:38.496535205Z",
+  "model": "glm-5.3"
+}

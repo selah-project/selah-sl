@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu\/dih\/življenjski sili', ne klasični 'duši'"
+    },
+    {
+      "kind": "addition",
+      "subject": "svojo",
+      "rationale": "slovenščina zahteva svojilni zaimek, hebrejščina ga ima v končnici"
+    }
+  ],
+  "translation": "Davidova. K tebi, Jahve, dvigam svojo dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/1-4.1792434661721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dvigam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:01.721608299Z",
+  "model": "glm-5.3"
+}

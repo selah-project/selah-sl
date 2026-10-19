@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 15:11",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina ima samo pasivni deležnik 'zapisani'; slovenščina potrebuje pomožnik."
+    },
+    {
+      "kind": "elision",
+      "subject": "הנם",
+      "rationale": "'glej, ti' — deiktik, ki ga večina prevodov spusti ali omili."
+    }
+  ],
+  "translation": "In preostanek besed Zeharije — glej, zapisane so na knjigi besed dni kraljev Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3830af877209e74aeaee347cf793e8732a9e10a567f9327111e61b84001229ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/15\/10-12.1792433381865.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "in preostanek"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besed"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zeharije"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "glej, ti"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapisane so"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjigi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besed"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:41.866857528Z",
+  "model": "glm-5.3"
+}

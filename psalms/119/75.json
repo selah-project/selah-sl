@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ima samo imeňovalniško dvojico 'cedek sodb'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ponižal",
+      "rationale": "עניתני je dobesedno 'stisnil\/ponižal' (koren ענה II) — 'prizadel', 'izmučil' so možni odtenki."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden nagovor Imena v drugi osebi."
+    }
+  ],
+  "translation": "Vem, Jahve, da je cede(k) tvojih sodb in da si me v zvestoti ponižal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dcf8309e24a1acc039b4034f014b1cb610880976765d0f6352e0ef7f9c854351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/74-75.1792439048123.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "je cedek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvojih sodb"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "v zvestoti"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "si me ponižal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:08.124364063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 16:10",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew relative clause lacks a verb; Slovenian requires ⟨je⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "דומשק",
+      "rationale": "Place name between 'king of Assyria' and verb: Ahaz went to Damascus to meet him, or Tiglath-Pileser (was) at Damascus — preverbal locale, both readings exist."
+    }
+  ],
+  "translation": "In šel je kralj Ahaz naproti Tiglat-Pilaserju, kralju Asirije, v Damask; in je videl ⟨את⟩ oltar, ki ⟨je⟩ v Damasku; in je poslal kralj Ahaz k Uriju, duhovniku, ⟨את⟩ podobo oltarja in ⟨את⟩ njegov načrt, za vse njegovo delo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "26a99f8254fe96002a3a6109c9c948d983ad2976ffddd3e4d43fbf48fb200aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/16\/10-12.1792433423159.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in šel je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Tiglat"
+    },
+    {
+      "surface": "פלאסר",
+      "gloss": "Pilaser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirije"
+    },
+    {
+      "surface": "דומשק",
+      "gloss": "v Damask"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "v Damasku"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "in je poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovniku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podobo oltarja"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "podobo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltarja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegov načrt"
+    },
+    {
+      "surface": "תבניתו",
+      "gloss": "njegov načrt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za vse"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "njegovo delo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:23.160513545Z",
+  "model": "glm-5.3"
+}

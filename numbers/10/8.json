@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "זvezni člen 'to' dodan, ker slovenščina potrebuje osebek za היו."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovi",
+      "rationale": " zapoved vezana na rodove — časovni okvir po generacijah."
+    }
+  ],
+  "translation": "In sinovi Ahronovi, duhovniki, bodo trobili v trobente; to naj vam bo za večno zapoved za vaše rodove.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/10\/5-8.1792424923121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovniki"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "bodo trobili"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "v trobente"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "in to naj bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "za zapoved"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "za vaše rodove"
+    }
+  ],
+  "timestamp": "2026-10-19T15:48:43.122327032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 2:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "s sporočilom",
+      "rationale": "לאמר dobesedno 'reči', slovenščina potrebuje samostalnik ob pošiljanju"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "zaimek dodan, ker slovenski odvisni stavek zahteva osebek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "v njej",
+      "rationale": "hebrejščina ima בו 'v njem' (moški spol hiše), slovenščina 'hiša' zahteva ženski"
+    }
+  ],
+  "translation": "In Šelomo je poslal k Huramu, kralju Czorja, s sporočilom: Kakor si ravnal z Davidom, mojim očetom, in si mu poslal cedre, da mu zgradi hišo, v kateri bo ⟨on⟩ prebival —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33b59f29e34947e154aca152ed16c330b1a62d7eada842dedc9c7f067b303845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/2\/1-4.1792438455287.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huramu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Czorja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s sporočilom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si ravnal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojim očetom"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "in si poslal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "da zgradi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "da prebival"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njej"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:15.291872351Z",
+  "model": "glm-5.3"
+}

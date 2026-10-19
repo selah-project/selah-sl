@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ima končnico -מ namesto samostojnega zaimka; slovenščina zahteva predmetni dodatek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "suknjiči",
+      "rationale": "כתנת je srajca\/tunika, ne zgolj 'obleka'."
+    }
+  ],
+  "translation": "In Jahve Elohim je naredil za Adama in za njegovo ženo suknjiči iz usnja ter ⟨jih⟩ oblekel.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "74471a1707e533cf2913e04fc2c47140a8a0ac7bf873fcde31c9c5cf5a07ce03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/3\/21-24.1792422037060.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in naredil je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "za Adama"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "in za njegovo ženo"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "suknjiči"
+    },
+    {
+      "surface": "עור",
+      "gloss": "iz usnja"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ter jih oblekel"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:37.061404640Z",
+  "model": "glm-5.3"
+}

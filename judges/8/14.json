@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויכתב אליו",
+      "rationale": "'in zapisal mu je' — kdo piše: Gedeon (KJV 'described') ali mladenič (JPS\/BSB); hebrejščina dopušča oboje."
+    },
+    {
+      "kind": "addition",
+      "subject": "in ta",
+      "rationale": "slovenščina potrebuje subjekt, hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In ujel je mladeniča med možmi Sukota ter ga izprašal; ⟨in ta⟩ mu je zapisal ⟨את⟩ glavarje Sukota in ⟨את⟩ njegove starešine, sedemdeset in sedem mož.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/8\/13-16.1792427108438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "in ujel je"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladeniča"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "med možmi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ter ga izprašal"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "in zapisal je"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glavarje Sukota"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "glavarje"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegove starešine"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "njegove starešine"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedemdeset"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "in sedem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    }
+  ],
+  "timestamp": "2026-10-19T16:25:08.439592377Z",
+  "model": "glm-5.3"
+}

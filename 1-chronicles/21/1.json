@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "naspronik\/satan",
+      "rationale": "שטן brez člena: 'nasprotnik' (splošen nasprotnik) ali osebno ime 'Satan'; vzporedni 2 Sam 24,1 pravi, da je Jahve sprovokiral Davida."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prešteje",
+      "rationale": "מנה dobesedno 'odmeriti\/preteti', kot pri tehtanju"
+    }
+  ],
+  "translation": "In stopil je nasprotnik proti Jisraelu in sprovokiral ⟨את⟩ Davida, da prešteje ⟨את⟩ Jisrael.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/21\/1-4.1792438307993.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "in stopil je"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "nasprotnik"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "in sprovokiral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "da prešteje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:47.995004315Z",
+  "model": "glm-5.3"
+}

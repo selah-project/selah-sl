@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima kopule; 'to nama je znamenje'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלו\/ועלינו",
+      "rationale": "Peleščanski ukaz 'pojdi gor' in Jonatanov odgovor uporabljata isti glagol עלה — jasnina namerna, svetloba preprosta v slovenščini"
+    }
+  ],
+  "translation": "In če tako rečejo: Pridite gor k nam — pojdiva gor, kajti Jahve jih je dal v našo roko; to pa nama bo ⟨je⟩ znamenje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "10018b4478227d75f97b3a7f3bb705d85c3f89b6fcba2a78850440bfa3f2ce0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/14\/9-12.1792427772533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "rečejo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "pridite gor"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "k nam"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "pojdiva gor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "jih je dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "v našo roko"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "in to"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האות",
+      "gloss": "znamenje"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:12.534433278Z",
+  "model": "glm-5.3"
+}

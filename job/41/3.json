@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Vse, kar je",
+      "rationale": "hebrejščina postavi samostalnik תחת כל השמים in nato pušča הוא brez podredbe — slovenščina doda samostalnik"
+    },
+    {
+      "kind": "addition",
+      "subject": "jaz",
+      "rationale": "izrecni subjekt prve osebe, ki ga hebrejščina izraža s končnico"
+    }
+  ],
+  "translation": "Kdo me je prehitel, da bi mu ⟨jaz⟩ poplačal? Vse, kar je pod vsemi nebesi, je moje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b60dfa97f656be58387d36eb96f2153ed47230698aeebacdaf78eba1c4fc1df1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/41\/1-4.1792436805839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "me je prehitel"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "da bi poplačal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "je moje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨vse, kar je⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:45.841818680Z",
+  "model": "glm-5.3"
+}

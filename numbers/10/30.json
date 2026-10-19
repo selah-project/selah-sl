@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrejski dvojni veznik 'ki im' pomeni 'ampak\/temveč', dobesedno 'kajti če'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלך ... אלך",
+      "rationale": "Ponovitev 'pojdem' na začetku in koncu — zavrnil in hkrat potrjuje isti glagol; v slovenščini ohranjeno."
+    }
+  ],
+  "translation": "In ⟨ta⟩ je rekel ⟨nanj⟩: Ne pojdem, ampak ⟨v⟩ svojo deželo in ⟨k⟩ svojemu rojstvu pojdem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/10\/29-32.1792424935607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨nanj⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pojdem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨pa⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨v⟩"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "svojo deželo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ⟨k⟩"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "svojemu rojstvu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pojdem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:48:55.608608867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תעשה לך",
+      "rationale": "dobesedno 'storila sebi' — idiom 'nakopala si sama', vzeto kot slovenski pregovorni obrat"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraelu",
+      "rationale": "Jeremija neposredno nagovarja Izrael z drugo osebo ženskega spola"
+    }
+  ],
+  "translation": "Ali si si ⟨to⟩ sama nakopala, ker si zapustila ⟨את⟩ Jahveja, svojega Elohima, v času, ko te je vodil po poti?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/17-20.1792431035735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ali si"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "si nakopala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi si"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "si zapustila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svojega Elohima"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v času"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "ko te je vodil"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po poti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:30:35.735848913Z",
+  "model": "glm-5.3"
+}

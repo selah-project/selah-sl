@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem \/ je",
+      "rationale": "hebrejščina brez glagola 'biti' — čista pripadnostna enačba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי\/לי",
+      "rationale": "zrcalna struktura 'jaz svojemu… moj name' — hiasm, ki ga slovenščina lahko ohrani"
+    }
+  ],
+  "translation": "Jaz ⟨sem⟩ svojemu ljubljenemu in moj ljubljena ⟨je⟩ moj — ⟨ta, ki⟩ pase med lilijami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/6\/1-4.1792436883718.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "svojemu ljubljenemu"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "in moj ljubljena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pase"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "med lilijami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:03.720586123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 12:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekači",
+      "rationale": "הרצים dobesedno 'tekači' (kraljeva stráž, ki teče pred kraljem), ne 'stražarji'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "zlato\/bron",
+      "rationale": "bronasti ščiti namesto zlatih — besedilo tiho pokaže padec s Šelomovega sijaja"
+    }
+  ],
+  "translation": "In kralj Rahaveam je naredil namesto njih ščite iz brona in jih izročil v roke poglavarjem tekačev, ki so varovali vhod hiše kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/12\/9-12.1792438552005.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in naredil je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahaveam"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "namesto njih"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ščite"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iz brona"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "in izročil"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roke"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "poglavarjem"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "tekačev"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ki so varovali"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vhod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:35:52.006618139Z",
+  "model": "glm-5.3"
+}

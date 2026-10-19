@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "njim",
+      "rationale": "neposreden nagovor plačnikom — 'če je dobro v vaših očeh'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kosov",
+      "rationale": "slovenščina potrebuje množinski samostalnik za trideset enot srebra; hebrejščina pravi le 'trideset srebra'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trideset srebra",
+      "rationale": "utežena in štetega plačila — meritveni dejanji (וישקלו 'odtehtali')"
+    }
+  ],
+  "translation": "In rekel sem jim: Če je dobro v vaših očeh, dajte mojo plačo; in če ne, opustite. In odtehtali so ⟨את⟩ mojo plačo — trideset ⟨kosov⟩ srebra.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/11\/9-12.1792434457199.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "In rekel sem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "v vaših očeh"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dajte"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mojo plačo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "opustite"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "in odtehtali so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo plačo"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mojo plačo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:37.201804749Z",
+  "model": "glm-5.3"
+}

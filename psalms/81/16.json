@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "כחש pomeni 'lagati, hinaviti, tajiti'; tu 'hinili bi pokornost' (KJV: submitted themselves; YLT: feign obedience; JPS: dwindle away — trije različni predlogi)."
+    },
+    {
+      "kind": "crux",
+      "subject": "njihov čas",
+      "rationale": "עתם — 'njihov čas\/kazen'; geneva\/KJV berejo kot večno uničenje sovražnikov, JPS kot večno kazen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "⟨iz strahu⟩",
+      "rationale": "dodano za smisel: poklon iz prisile, hebrejščina ga ne izreka."
+    }
+  ],
+  "translation": "Tisti, ki sovražijo Jahveja, bi se mu priklonili ⟨iz strahu⟩, in njihov čas bi trajal na veke.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/13-16.1792435187856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "tisti, ki sovražijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bi se priklonili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bi trajal"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "njihov čas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:47.857960496Z",
+  "model": "glm-5.3"
+}

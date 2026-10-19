@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Zborovodja",
+      "rationale": "למנצח dobesedno 'tistemu, ki sija od daleč, tj. odličnemu nadzorniku'; običajno 'zborovodja'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "poučna pesem",
+      "rationale": "משכיל je oznaka vrste — didaktična pesem; izbran opisni prevod, ne lastno ime."
+    }
+  ],
+  "translation": "Zborovodji; sinovom Koraha; poučna pesem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/1-4.1792434839085.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pesem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:59.086054233Z",
+  "model": "glm-5.3"
+}

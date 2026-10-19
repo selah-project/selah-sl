@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meso",
+      "rationale": "שאר dobesedno 'meso, telesno sorodstvo'; prevodi gladeko 'bližnja sorodnica'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "odkriti goloto",
+      "rationale": "idiom za spolni odnos, dobesedno ohranjen"
+    }
+  ],
+  "translation": "Goloto sestre svojega očeta ne odkrivaj, kajti meso svojega očeta ⟨je⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/18\/9-12.1792424299677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "golota"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odkrivaj"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:19.678876635Z",
+  "model": "glm-5.3"
+}

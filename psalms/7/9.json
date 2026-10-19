@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק se po D2 piše po zvoku, ne kot 'pravičnost'."
+    },
+    {
+      "kind": "you",
+      "subject": "k Davidu",
+      "rationale": "Neposreden nagovor Jahveja v drugi osebi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki je",
+      "rationale": "Slovenščina potrebuje vezdni glagol, hebrejščina ga nima."
+    }
+  ],
+  "translation": "Jahve sodi ljudstva: sodi me, Jahve, po mojem cedeku in po moji nežženosti, ki je nad menoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "40ae694cbd7f6cf79a29ef0decb96b60e79950582892448604467b244f512c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/9-12.1792434511206.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sodi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "sodi me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "po mojem cedeku"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "in po moji nežženosti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad menoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:31.207295781Z",
+  "model": "glm-5.3"
+}

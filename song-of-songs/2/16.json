@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem njegova",
+      "rationale": "לו je le predlog z zamanskim zaimkom; 'sem' je dodana veznica."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרועה בשושנים",
+      "rationale": "'kdor pase med lilijami' — ali pastoralna podoba pastirja ali ljubčkok, ki se naslavlja med cvetjem (cvetje kot ljubljena)."
+    }
+  ],
+  "translation": "Moji ljubček je moj in jaz sem njegova, tisti, ki pase med lilijami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/2\/13-16.1792436844853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "moji ljubček"
+    },
+    {
+      "surface": "לי",
+      "gloss": "je moj"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sem njegova"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ki pase"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "med lilijami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:24.855174558Z",
+  "model": "glm-5.3"
+}

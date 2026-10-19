@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אין מלה בלשוני",
+      "rationale": "dobesedno 'kaj ni besede na mojem jeziku' — pomen: še preden beseda zapusti jezik, jo Jahve že pozna"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden ogovor Jahveja"
+    }
+  ],
+  "translation": "Kaj besede ni na mojem jeziku — glej, Jahve, ti jo poznaš v celoti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/139\/1-4.1792435722300.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "besede"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na mojem jeziku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ti poznaš"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "v celoti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:42.301938844Z",
+  "model": "glm-5.3"
+}

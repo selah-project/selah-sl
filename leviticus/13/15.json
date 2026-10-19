@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Hebrejščina ima וטמאו z pripono -ו ('in nečistega ga'); slovenščina potrebuje ločeno zaimkovno dvojino 'ga razglasi'."
+    }
+  ],
+  "translation": "In duhovnik pogleda ⟨את⟩ živo meso in ga razglasi nečistega; živo meso je nečisto — gobenost je.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/13\/13-16.1792424195967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "in pogleda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "živo meso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "in ga razglasi nečistega"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "gobenost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-19T15:36:35.968357758Z",
+  "model": "glm-5.3"
+}

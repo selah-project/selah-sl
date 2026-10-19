@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתפש",
+      "rationale": "Aktivno 'se prijema z rokami' (KJV, pajek) proti pasivnemu 'da se ga prijame z rokami' (JPS\/BSB, kuščar) — ista oblika, dve razlagi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuščar",
+      "rationale": "שׂממית je kuščar (sorodno s 'pusti' שמם); starejši prevodi 'pajek'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew omits the verb 'to be' before 'in kings' palaces'."
+    }
+  ],
+  "translation": "Kuščar se z rokami prijema, vendar ⟨je⟩ v palačah kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/25-28.1792436173807.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "Kuščar"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "z rokami"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "se prijema"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "vendar ⟨je⟩"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "v palačah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:13.808987291Z",
+  "model": "glm-5.3"
+}

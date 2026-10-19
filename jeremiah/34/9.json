@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "איש (zadnji)",
+      "rationale": "Zaključni איש ('kdor koli') se v slovenščini naravno raztopi; hebrejščina ga postavi na konec stavka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "delali sužnjev iz njih",
+      "rationale": "עבד בָּם je dobesedno 'služiti z njimi \/ vladati nad njimi'; dosledno prenesena podoba sužnjastva."
+    }
+  ],
+  "translation": "poslati proč vsak ⟨את⟩ svojega sužnja in vsak ⟨את⟩ svojo sužnjo, Hebrejca in Hebrejko, proste, da ne bi delali sužnjev iz njih — iz Juda, svojega brata.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/34\/9-12.1792431647425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "poslati proč"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega sužnja"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svojega sužnja"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in vsak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo sužnjo"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "svojo sužnjo"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "Hebrejec"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "in Hebrejka"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "proste"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "delali sužnjev"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iz njih"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "iz Juda"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:47.426156897Z",
+  "model": "glm-5.3"
+}

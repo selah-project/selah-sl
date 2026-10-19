@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "slovenščina potrebuje veznik za vprašalno prihodnjo konstrukcijo; hebrejščina ga nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tisti dan",
+      "rationale": "določitev dneva Jahvejevega dejanja — časovna oznaka."
+    }
+  ],
+  "translation": "Ali ne ⟨bo⟩ tisti dan, govori Jahve, da bom iztrebil modre iz Edoma in razumevanje z gora Esava?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "856eebfe7103cabbe5f241d07520183106008abe8910f4d936c3365ba15737ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/obadiah\/1\/5-8.1792434052951.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "da bom iztrebil"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "modre"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "iz Edoma"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "in razumevanje"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "z gore"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    }
+  ],
+  "timestamp": "2026-10-19T18:20:52.953064891Z",
+  "model": "glm-5.3"
+}

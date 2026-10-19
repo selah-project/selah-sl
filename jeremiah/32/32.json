@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 32:32",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "slovenščina potrebuje kazalni zaimek za dvojno rodilniško verigo »zaradi vse hudobije … ki so jo delali«"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעת … להכעיסני",
+      "rationale": "ponavljanje korenov rd (húdo, r29–30) in kʿs (jeziti, r29–31) veje štiri verze v eno obtožbo"
+    }
+  ],
+  "translation": "Zaradi vse hudobije sinov Jisraelovih in sinov Judovih, ki so jo delali, da bi me jezili — oni, njihovi kralji, njihovi poglavarji, njihovi duhovniki in njihovi preroki, in možje Judovi in prebivalci Jerušalajima.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9c79303358388be4b6d6ff6706b66754d989ca81e7dbc2ce3a53787f4ce81d8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/32\/29-32.1792431678641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "hudobije"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovih"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinov"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "so delali"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "da bi me jezili"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "njihovi kralji"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "njihovi poglavarji"
+    },
+    {
+      "surface": "כהניהם",
+      "gloss": "njihovi duhovniki"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "in njihovi preroki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovi"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "in prebivalci"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:18.642329702Z",
+  "model": "glm-5.3"
+}

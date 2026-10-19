@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחש",
+      "rationale": "'vzkipi' — redek glagol, slika vrela, ki se preliva; edinkrat v tej obliki v Tanahu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩ · ⟨je⟩",
+      "rationale": "Slovenščina zahteva kopulo; hebrejščina je ima ne izraža."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעשי למלך",
+      "rationale": "'moja dejanja kralju' ali 'moje delo (je) o kralju' — naslovnik je kralj ali tema."
+    }
+  ],
+  "translation": "Vzkipi moje srce z besedo dobrego, govori ⟨jaz⟩: moja dejanja ⟨so⟩ za kralja; moj jezik ⟨je⟩ pisalo hitrega pisarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/1-4.1792434833167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "vzkipi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "z besedo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrega"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨jaz⟩"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "moja dejanja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "moj jezik"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pisalo"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "pisarja"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "hitrega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:53.168876838Z",
+  "model": "glm-5.3"
+}

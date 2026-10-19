@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "mesto utrdbe",
+      "rationale": "מצור lahko pomeni tudi 'zapora, oblegovalni nasip' — morda 'utrjeno mesto' kot en pojem"
+    },
+    {
+      "kind": "you",
+      "subject": "retorično vprašanje",
+      "rationale": "naslovnik je sam Bog, ki je edini odgovor na vprašanje"
+    }
+  ],
+  "translation": "Kdo me bo pripeljal v mesto utrdbe? Kdo me bo vodil do Edoma?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/9-12.1792434933146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "me bo pripeljal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "utrdbe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "me bo vodil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:33.147813557Z",
+  "model": "glm-5.3"
+}

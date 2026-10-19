@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "glavo tistih, ki me obdajajo",
+      "rationale": "ראש מסבי: 'glava\/knez mojih obdajalcev' (ednina — vodja) proti množinskemu 'glave'; KJV\/JPS množina, Geneva 'chiefe' ednina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tramo",
+      "rationale": "עמל je 'napor, izčrpavajoče delo, nadloga' — 'trav' je ozko."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "špansk odsek",
+      "rationale": "Stavek je eliptičen: עמל שפתימו יכסומo — 'napor njihovih ustnic naj pokrije njih' — pomeni: naj jih zadene posledica lastnih besed."
+    }
+  ],
+  "translation": "Glavo tistih, ki me obdajajo — tramo njihovih ustnic naj jih pokrije ⟨sama⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/140\/9-12.1792435709205.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "glavo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "tistih, ki me obdajajo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tramo"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "njihovih ustnic"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "naj jih pokrije"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:29.206643956Z",
+  "model": "glm-5.3"
+}

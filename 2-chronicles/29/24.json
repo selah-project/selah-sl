@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לכפר",
+      "rationale": "Koren כפר pomeni dobesedno pokriti; slovenščina običajno 'poklepšati' ali 'spraviti' — pokriti ohranja sliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחטאו את דמם המזבחה",
+      "rationale": "Dobesedno 'ogrešili so z njihovo kri oltar' — očistili (s krvjo kot sredstvom žrtve za greh) ali onesnažili; večina prevodov bere prvo."
+    }
+  ],
+  "translation": "In duhovniki so jih zaklali in z ⟨את⟩ njihovo kri očistili ⟨so⟩ oltar, da pokrije ⟨greh⟩ za ves Jisrael, kajti za ves Jisrael, je rekel kralj, ⟨je⟩ žrtega za žgo in žrtev za greh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a0b8227fa1ff5d4fb45247c3dd6f253ce85f3c43615b20441bbe91f7e9d26687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/29\/21-24.1792438830405.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "In duhovniki so jih zaklali"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovniki"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "in očistili ⟨so⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovo kri"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "njihovo kri"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da pokrije ⟨greh⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za ves"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "žrtev za žgo"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "in žrtev za greh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:30.407958084Z",
+  "model": "glm-5.3"
+}

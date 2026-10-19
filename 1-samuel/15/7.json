@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני מצרים",
+      "rationale": "Doslovno 'na obrazu Micrajima' — 'pred Micrajimom'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בואך",
+      "rationale": "Splošni 'ko greš' je tukaj neoseben: 'ko se hodi' — potopisni opis dežele."
+    }
+  ],
+  "translation": "In Šaul je udaril ⟨את⟩ Amaleka od Havila, ko se hodi proti Šurju, ki je pred Micrajimom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/15\/5-8.1792427765009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "in je udaril"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "od Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ko se hodi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "proti Šurju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obrazom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:05.010950592Z",
+  "model": "glm-5.3"
+}

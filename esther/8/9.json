@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sto sedemindvajset pokrajin",
+      "rationale": "Verz našteva datum, mesec in število pokrajin — popolnoma numeričen."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Slovenščina potrebuje pomožnik glagol pri brezglagolni relativni zvezi אשר מהדו ועד כוש."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jezik",
+      "rationale": "לשון dobesedno 'jezik' kot organ in kot govor; 'jezik' obdrži obliko, a pomen 'govor' je v ozadju."
+    }
+  ],
+  "translation": "In poklicani so bili pisarji kralja tisti čas, v mesecu tretjem — to je mesec sivan — triindvajsetega dne v njem, in napisano je bilo vse, kar je ukazal Mordejai Judom in satrapom in namestnikom in poglavarjem pokrajin, ki ⟨so⟩ od Hoduja do Kuša, sto sedemindvajset pokrajin, pokrajina za pokrajino po njeni pisavi in ljudstvo za ljudstvom po njegovem jeziku, in Judom po njihovi pisavi in po njihovem jeziku.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/8\/9-12.1792437271212.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "in so poklicani bili"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "pisarji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tisti čas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "isti"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tretjem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mesec"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "sivan"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "trije (dnevi)"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "in dvajset"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "in je napisano bilo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je ukazal"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in k"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "satrapom"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "in namestnikom"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "in poglavarjem"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "pokrajin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "od Hoduja"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "in dvajset"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "in sto"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "pokrajin"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "pokrajina"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "za pokrajino"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "po njeni pisavi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "in ljudstvo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "za ljudstvo"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "po njegovem jeziku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in k"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "po njihovi pisavi"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "in po njihovem jeziku"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:31.215113738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והיו \/ אהיה",
+      "rationale": "Ista glagolska oblika היה v vzporedniku — oni bodo, jaz bom — chiazem, v slovenščini delno ohranjen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Elohim v množinski obliki, izpisano po zvoku, ne »Bog«."
+    }
+  ],
+  "translation": "In bodo mi ljudstvo, in jaz bom njim Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f142d11fac7caf5530022656cfc0d7024b363a2c207127d1c66bd621d6485916",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/32\/37-40.1792431643132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "in bodo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ו אני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bom"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:43.133403397Z",
+  "model": "glm-5.3"
+}

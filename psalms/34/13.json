@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "hebrejski člen ה se v slovenščini ne zapiše, dodan kot oklepajni oznak"
+    },
+    {
+      "kind": "invitation",
+      "subject": "verz",
+      "rationale": "vprašanje, ki kliče poslušalca k odgovoru in uvaja napotke v vv. 14–15"
+    }
+  ],
+  "translation": "Kdo je ⟨ta⟩ človek, ki želi življenja, ki ljubi dni, da vidi dobro?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/13-16.1792434748070.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ki želi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "življenja"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ki ljubi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:28.071331749Z",
+  "model": "glm-5.3"
+}

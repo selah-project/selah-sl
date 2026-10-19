@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strup",
+      "rationale": "חמה je dobesedno 'vročina, jeza'; 'strup' je preneseni pomen, ki ga narekuje podobje kače."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ki zapira svoje uho",
+      "rationale": "דורך - lahko tudi 'ko napne svoj lok'; 'ko namerava' je druga izbira."
+    }
+  ],
+  "translation": "Njihov strup je kakor strup kače, kakor modras, gluh, ki zapira svoje uho.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/58\/5-8.1792434945249.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "strup"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njihov"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "strup"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "kače"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "modras"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gluh"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ki zapira"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "svoje uho"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:45.250418169Z",
+  "model": "glm-5.3"
+}

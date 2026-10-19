@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "v miru",
+      "rationale": "בשלום pomeni tudi 'v celosti, varno'; 'v miru' je ožje."
+    },
+    {
+      "kind": "addition",
+      "subject": "potem",
+      "rationale": "והיה uvaja pogojni izid poprejšnje zaobljube; slovenščina potrebuje veznik časa."
+    }
+  ],
+  "translation": "in se vrnem v miru v hišo svojega očeta, potem bo Jahve meni za Elohim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/28\/21-22.1792422475615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "in se vrnem"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v miru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "potem bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:07:55.615734110Z",
+  "model": "glm-5.3"
+}

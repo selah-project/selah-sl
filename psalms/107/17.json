@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh-neumneži",
+      "rationale": "אולים je »neumneži« — (slovensko: beseda pomeni preprosto nore \/ norecá) dobesedno »silly fools«, ne gre za norecá v pomenu hudobneži"
+    },
+    {
+      "kind": "crux",
+      "subject": "poti njihovega upora",
+      "rationale": "מדרך פשעם: »pot njihovega upora« (JPS) ali samo »zaradi njihovega upora« (KJV) — derekh je lahko pot dobesedno ali vzrok"
+    }
+  ],
+  "translation": "Neumneži po poti svojega upora in zaradi svojih krivic ⟨so⟩ bili trpinčeni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/17-20.1792435403494.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Neumneži"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "svojega upora"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "in zaradi svojih krivic"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "so bili trpinčeni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:23.494589972Z",
+  "model": "glm-5.3"
+}

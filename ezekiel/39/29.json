@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah ostaja neprevedena: dih, veter, Duh v eni besedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "svoje",
+      "rationale": "Slovenščina zahteva svojilni zaimek pri 'obličju'; hebrejščina ga pri פני ne izrazi."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "veznik אשר izražen kot 'ker'; dobesedno 'ob katerem\/ko'."
+    }
+  ],
+  "translation": "In ne bom več skrival svojega obličja pred njimi, ker sem izlil ⟨את⟩ svojo ruah nad dom Jisraela, govori Adonaj Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8e54b7304b90ede725bd7d847ffc2432ee827ff0d9bc42ef822e72f70483b173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/39\/29-29.1792433530197.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "bom skrival"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svojega obličja"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "pred njimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ker"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "sem izlil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo ruah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "svojo ruah"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:10.198110884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah pomeni veter, dih in duha hkrati; slovenski 'duh' bi izbral eno od treh, zato ostaja ruah"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא ימלט רשע את בעליו",
+      "rationale": "'krivičnost ne reši svojih gospodarjev' (רשע kot podstavek, בעליו množinski lastnik) proti 'krivičnost ne reši tistega, ki je dan njej' (KJV\/ASV\/JPS)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "משלחת",
+      "rationale": "tudi 'odpustitev, odpuščanje iz vojne'; dobesedno 'spustitev'"
+    }
+  ],
+  "translation": "Ni človeka, ki bi gospodoval nad ruah, da bi zadržal ⟨את⟩ ruah; in ni oblasti na dan smrti; in ni odpusta v vojni; in krivičnost ne bo rešila ⟨את⟩ svojih gospodarjev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/8\/5-8.1792437151295.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ki bi gospodoval"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nad ruah"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "da bi zadržal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "oblasti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "odpusta"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v vojni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bo rešila"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnost"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojih gospodarjev"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "svojih gospodarjev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:31.298965938Z",
+  "model": "glm-5.3"
+}

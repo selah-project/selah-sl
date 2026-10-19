@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "drugi את",
+      "rationale": "prvi את pred 'njeno pot' bi v slovenščini podvajal oznako, zato samo en ⟨את⟩ v besedilu"
+    }
+  ],
+  "translation": "Elohim razume ⟨את⟩ njeno pot, on pa pozna ⟨את⟩ njen kraj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/28\/21-24.1792436578625.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "razume"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "njeno pot"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njen kraj"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "njen kraj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:58.626223296Z",
+  "model": "glm-5.3"
+}

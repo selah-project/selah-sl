@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule: לעולם היא לי — 'večno je ona zame'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לעולם היא לי",
+      "rationale": "KJV 'they are ever with me' (zapovedi kot spremljevalke) proti YLT 'it is before me to the age' — dobesedno 'večno je (ona, zapoved) zame'."
+    }
+  ],
+  "translation": "Nad moje sovražnike me tvoje zapovedi naredijo modrejšo, kajti zaveza ⟨z⟩ ⟨njimi⟩ ⟨je⟩ večna ⟨zame⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/97-100.1792435533251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "nad moje sovražnike"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "me naredijo modrejša"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "tvoje zapovedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zame"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:33.252404793Z",
+  "model": "glm-5.3"
+}

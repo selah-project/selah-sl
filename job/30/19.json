@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨On⟩",
+      "rationale": "Hebrejščina ne imenuje subjekta; iz konteksta (30,21) je Elohim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר \/ אפר",
+      "rationale": "Prah (עפר) in pepel (אפר) — zvočni par, ki ga slovenščina ohrani naključno podobno."
+    }
+  ],
+  "translation": "⟨On⟩ me je vrgel v blato in postal sem kakor prah in pepel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9e472ef1d53024c6fc49c9449aec97a376dde5d77f5b2b8c5e0cc19a21f3ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/17-20.1792436623150.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "me je vrgel"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "v blato"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "in sem postal podoben"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kakor prah"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "in pepel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:43.152221201Z",
+  "model": "glm-5.3"
+}

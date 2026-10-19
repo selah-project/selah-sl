@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נביא",
+      "rationale": "Oblika נביא je tu particip glagola בוא (prinesti) in ne 'prerok' — kljub enakemu zapisu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "בנפשנו pomeni 'z (tveganjem) svojega življenja\/diha', ne 'duša' v antičnem pomenu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "meč puščave",
+      "rationale": "Nekateri berijo 'meč v puščavi' (razbojniki), drugi 'požgo' — חרב pomeni tudi sušo."
+    }
+  ],
+  "translation": "Z lastnostjo naše duše prinašamo svoj kruh, pred obličjem meča puščave.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dad04d08ae50ed2f6dbdeef38a54c9b836a41977d4ed733eeddbd9d3e4a90712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/5\/9-12.1792436979486.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "z lastnostjo naše duše"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prinašamo"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meča"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "puščave"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:39.488262129Z",
+  "model": "glm-5.3"
+}

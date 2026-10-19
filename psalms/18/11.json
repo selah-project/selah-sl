@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah pomeni veter\/dih\/duh hkrati; 'veter' bi izgubil polje pomenov, zato ostaja ruah."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעף \/ וידא",
+      "rationale": "Dve glagoli letenja drug ob drugem — najprej leteti, nato hitro drseti; podvajanje gibanja."
+    }
+  ],
+  "translation": "In jezdil je na kerubu in letel je, hitro je drsel na perutih ruah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/9-12.1792434560016.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "in jezdil je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "in letel je"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "hitro drsel"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "peruteh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:20.017606761Z",
+  "model": "glm-5.3"
+}

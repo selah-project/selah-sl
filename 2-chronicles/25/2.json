@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "hebrejščina tu nima את; oglati oklepaj pri pravo označuje besedo, dodano v slovenščini — odpravljeno, glej spodaj."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם",
+      "rationale": "koren שלם pomeni cel\/manj hvale vreden; mendiren prevaja 'celega', povezan tudi z imenom Jerušalajim."
+    }
+  ],
+  "translation": "In počel je ⟨את⟩ pravo v očeh Jahveja, ⟨samo⟩ ne z mendirnim srcem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/25\/1-4.1792438760887.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in počel"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "s srcem"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mendirnim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:20.889034105Z",
+  "model": "glm-5.3"
+}

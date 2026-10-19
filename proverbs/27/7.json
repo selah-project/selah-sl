@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "satje",
+      "rationale": "נפת je 'kapljanje medu iz satja'; ena beseda za delec medu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne nesmrtna duša"
+    }
+  ],
+  "translation": "Duša sita pohodi satje, lačni duši pa je vsako grenko sladko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/5-8.1792436121562.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "pohodi"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "satje"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "lačni duši pa"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "lačni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsako"
+    },
+    {
+      "surface": "מר",
+      "gloss": "grenko"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sladko"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:21.563529485Z",
+  "model": "glm-5.3"
+}

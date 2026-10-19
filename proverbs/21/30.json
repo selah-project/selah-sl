@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אין ... ואין ... ואין",
+      "rationale": "trojna anafa 'ni ... in ni ... in ni' gradi naraščajoči vzorec izpovedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zoper",
+      "rationale": "לנגד dobesedno 'nasproti, pred obrazom'; 'zoper' izraža sovražno nasprotovanje."
+    }
+  ],
+  "translation": "Ni modrosti in ni razumevanja in ni načrta zoper Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "243034cdca2f0efe63be48014d3d8c29e9982e3f1e7a05bbc98fffff9eb9e825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/29-31.1792436043787.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrosti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "razumevanja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "načrta"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:03.787811564Z",
+  "model": "glm-5.3"
+}

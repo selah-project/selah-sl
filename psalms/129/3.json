@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרשו חרשים",
+      "rationale": "Ista beseda kot glagol in samostalnik — 'orali orjači' ohranja koren."
+    },
+    {
+      "kind": "hapax",
+      "subject": "למענותם",
+      "rationale": "Oblika 'brazde' (מענות) se v Tanahu pojavi samo tu in v 3 Mz 26 ali vzporednih mestih s skupnim korenom."
+    }
+  ],
+  "translation": "Po mojem hrbtu so zorali orjači, dolge so vlekle svoje brazde.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/129\/1-4.1792435590192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Po"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "mojem hrbtu"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "so zorali"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "orjači"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "so vlekle dolge"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "svoje brazde"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:30.194033118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bil je",
+      "rationale": "hebrejščina je brez glagola; slovenščina potrebuje copulo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "glava",
+      "rationale": "ראשש dobesedno 'glava' — vodja rodu, ne anatomska glava"
+    }
+  ],
+  "translation": "Ahi, sin Avdiela, sina Gunija, ⟨bil je⟩ glava hiše njihovih očetov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "16fe03070639c582b7d892302ee40228c035395d14a5136b9b37d9b3a6ac7a3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/13-16.1792438046642.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdiela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Gunija"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "njihovih očetov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:26.643581012Z",
+  "model": "glm-5.3"
+}

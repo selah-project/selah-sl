@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "slovenščina potrebuje zvezo 'za poveljnika' (לשר)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הכי נכבד",
+      "rationale": "retorično vprašanje 'ali ni bil najčislanejši' — priznava njegov ugled"
+    }
+  ],
+  "translation": "Med tremi — ali ni bil najčislanejši? in postal jim je ⟨za⟩ poveljnika; a do prvih treh ni prišel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9c0377606fb2421516864bd47e94d0c60c0a331c8f2ac6444404e83b9aa0c1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/23\/18-20.1792433321696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "med"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "tremi"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "najčislanejši"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in postal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "za poveljnika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a do"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "prvih treh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "prišel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:41.697993593Z",
+  "model": "glm-5.3"
+}

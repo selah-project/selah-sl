@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נושע\/ינצל",
+      "rationale": "Dva glagola za rešitev v vzporednih polovicah, ponovljen 'b'rov' (z množtvom) — vzporednost delno ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "'H'ajil' pomeni vojsko, moč, premoženje; tu 'vojska' po vzporednici z 'močjo'."
+    }
+  ],
+  "translation": "Ni kralja, rešenega z množtvom ⟨vojske⟩; mogočne ne reši velika moč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9c34cb076672dd2ad8be5cd4603e5bf60e5d0b8c50ab786b0461c1ef29731a23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/13-16.1792434703926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "rešenega"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "z množtvom"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨vojske⟩"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mogočne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "reši"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "velika"
+    },
+    {
+      "surface": "כח",
+      "gloss": "moč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:43.929341046Z",
+  "model": "glm-5.3"
+}

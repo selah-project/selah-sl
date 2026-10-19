@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 29:29",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks the copula in this passive clause."
+    },
+    {
+      "kind": "substitution",
+      "subject": "v dejanjih",
+      "rationale": "Hebrew על דברי je dobesedno 'nad dejanji' — 'zraven\/v' po JPS; דברי je 'besede\/reči', ne 'knjiga'."
+    },
+    {
+      "kind": "elision",
+      "subject": "knjiga",
+      "rationale": "Različice (KJV, BSB) dodajo 'knjigo', hebrejščina je ne omenja — 'dejanja Šmuela' so sama po sebi zapis."
+    }
+  ],
+  "translation": "In dejanja Davida, kralja, prva in zadnja, glejte, zapisana ⟨so⟩ v dejanjih Šmuela videlca in v dejanjih Natana preroka in v dejanjih Gada videlca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/29\/29-30.1792438389577.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "in dejanja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prva"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "in zadnja"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "glejte"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapisana"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dejanjih"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuela"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "videlca"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in v"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dejanjih"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natana"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "preroka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in v"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dejanjih"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "videlca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:09.580172033Z",
+  "model": "glm-5.3"
+}

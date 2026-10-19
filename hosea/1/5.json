@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se bo zgodilo",
+      "rationale": "ve-hajah — vejdalnik, hebrejščina ga izraža z besedo, slovenščina potrebuje 'da'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל",
+      "gloss": "Jizreel se igra z ločevanjem semena (zorea) in krvavo dolino; lok = moč Jisraela"
+    }
+  ],
+  "translation": "In tisti dan se bo zgodilo, da bom zlomil ⟨את⟩ lok Jisraela v dolini Jizreel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/1\/5-8.1792433737545.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in tisti dan se bo zgodilo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "da bom zlomil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lok Jisraela"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "v dolini"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:15:37.549851266Z",
+  "model": "glm-5.3"
+}

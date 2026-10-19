@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "slovenščina potrebuje predlog pri לכסא; hebrejski ל- je tu' 'za', ne prostorski"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי עד",
+      "rationale": "podvojen 'ad ad' — 'do vekomaj', intenzivna večnost"
+    }
+  ],
+  "translation": "Če bodo tvoji sinovi varovali mojo zavezo in moje priče, ki jih bom naučil, tudi njihovi sinovi bodo sedeli na tvojem prestolu do vekomaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/9-12.1792435591931.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bodo varovali"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji sinovi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mojo zavezo"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "in moje priče"
+    },
+    {
+      "surface": "זו",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "ki jih bom naučil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "njihovi sinovi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "do"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vekoma"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bodo sedeli"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "na tvojem prestolu"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:31.933499346Z",
+  "model": "glm-5.3"
+}

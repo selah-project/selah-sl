@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima kopule; slovenščina jo zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedekovega",
+      "rationale": "צדיק je 'pravičen\/pravi'; cedek po D2 ohranja koren."
+    },
+    {
+      "kind": "crux",
+      "subject": "pokriva nasilje",
+      "rationale": "'usta pokriva nasilje' – kdo koga: nasilje zamaši usta hudobnim (KJV) ali usta skrivajo nasilje (JPS)."
+    }
+  ],
+  "translation": "Blagoslovi ⟨so⟩ na glavi cedekovega, usta hudobnih pa pokriva nasilje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/10\/5-8.1792435907425.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "Blagoslovi"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "na glavi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedekovega"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "pokriva"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:47.426367919Z",
+  "model": "glm-5.3"
+}

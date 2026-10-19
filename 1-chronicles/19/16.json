@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלאכים",
+      "rationale": "poslanci\/odposlanci, ne 'angeli' — tu človeški glasniki"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעבר הנהר",
+      "rationale": "'onkraj reke' — Evfrat, reka ni imenovana v hebrejščini"
+    }
+  ],
+  "translation": "In Aram je videl, da so bili poraženi pred Jisraelom, in poslali so posle in izpeljali ⟨את⟩ Aram, ki je onkraj reke; pred njimi pa je bil Šofak, poveljnik vojske Hadadezerjeve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ee5139bebb14d12b37ce3bbf147526cbf5f38fb569989363f9c4e4d4ab369a00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/19\/13-16.1792438284571.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "je videl"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "so bili poraženi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "in poslali so"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posle"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "in izpeljali so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram, ki je onkraj reke"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "onkraj"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "reke"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "Šofak"
+    },
+    {
+      "surface": "שר",
+      "gloss": "poveljnik"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerjeve"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:24.573886851Z",
+  "model": "glm-5.3"
+}

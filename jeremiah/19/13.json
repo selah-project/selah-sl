@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 19:13",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הטמאים",
+      "rationale": "'umazane\/omadežene': glagol osnovi manjka — KJV bere 'bodo omadežene', JPS 'ki so omadežene'; טמא je versko nečisto."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina potrebuje pomožnik 'so', hebrejščina ga v tem deležnem stavku nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogovom",
+      "rationale": "אלהים אחרים tu — drugi bogovi — z malo, ker so bogovi narodov, ne Elohim Izraela."
+    }
+  ],
+  "translation": "In hiše Jerušalajma in hiše kraljev Jehude bodo kakor kraj Tofet, umazane ⟨so⟩ — vse hiše, na katerih strehah so kadili vsemu vojski neba in izlivali žrtve livenja drugim bogovom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "83d122923bb304b82ff50160792c5f080c6c3f5252502ef2b310deca85cbc442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/19\/13-15.1792431407947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "in bodo"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajma"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "in hiše"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "כמקום",
+      "gloss": "kakor kraj"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "umazane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "— vse"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katerih"
+    },
+    {
+      "surface": "קטרו",
+      "gloss": "so kadili"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גגתיהם",
+      "gloss": "njihovih strehah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsemu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojski"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "והסך",
+      "gloss": "in izlivali"
+    },
+    {
+      "surface": "נסכים",
+      "gloss": "žrtve livenja"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:36:47.947797599Z",
+  "model": "glm-5.3"
+}

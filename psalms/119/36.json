@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצע",
+      "rationale": "dobesedno 'nasilje\/plen', posnsodobljeno 'dobiček' — 'grabežljivost' (KJV) proti 'nepošten dobiček' (YLT)."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor — prošnja o srcu."
+    }
+  ],
+  "translation": "Nagni moje srce k svojim pričanjem in ne k nepoštenemu dobičku.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eab5b816828de101e86cb7aa463f2d876246dcec84e3ba96a850a676d4b21947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/33-36.1792435511946.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "nagni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "svojim pričanjem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nepoštenemu dobičku"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:11.947516496Z",
+  "model": "glm-5.3"
+}

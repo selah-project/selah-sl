@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bodeta",
+      "rationale": "hebrejščina nima glagola biti v tem stavku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "hesed ostaja po zvoku: 'milost' ne nosi vse širine besede"
+    }
+  ],
+  "translation": "Moja zvestoba in moj hesed ⟨bodeta⟩ z njim, in v mojem imenu se bo dvignil njegov rog.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/25-28.1792435252524.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "moja zvestoba"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "in moj hesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z njim"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "in v mojem imenu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "se bo dvignil"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "njegov rog"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:52.525188684Z",
+  "model": "glm-5.3"
+}

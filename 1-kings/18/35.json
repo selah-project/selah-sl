@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "je stekla",
+      "rationale": "המים וילכו dobesedno »voda je hodila\/šla« — hebrejščina uporablja glagol hoje za tekočo vodo"
+    }
+  ],
+  "translation": "In voda je stekla okrog žrtvenika, in tudi ⟨את⟩ jarek je napolnil z vodo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/18\/33-36.1792429204352.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "in je stekla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okrog"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "žrtvenika"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarek"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "jarek"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "je napolnil"
+    },
+    {
+      "surface": "מים",
+      "gloss": "z vodo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:00:04.353357524Z",
+  "model": "glm-5.3"
+}

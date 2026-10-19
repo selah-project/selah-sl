@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je 'pravičnost, cedek'; ohranjena hebrejska beseda po pravilu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne pridejo v tvojo cedek",
+      "rationale": "razlaga: 'ne deležni tvoje rešitve\/pravičnosti' ali 'ne bojo uvrščeni med pravične'"
+    }
+  ],
+  "translation": "Položi krivdo na njihovo krivdo, in ne pridejo v tvojo cedek.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/25-28.1792435058102.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Položi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivdo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "njihovo krivdo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "pridejo"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "v tvojo cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:38.104510772Z",
+  "model": "glm-5.3"
+}

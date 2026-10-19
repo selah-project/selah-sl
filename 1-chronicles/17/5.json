@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העליתי",
+      "rationale": "DOSEG ‘pripeljal gor\/dvignil’ — sem pripelval; brez ‘iz Egipta’, ker Kronike tega ne pravijo (razlikuje se od 2 S 7,6)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאהל אל אהל וממשכן",
+      "rationale": "Ponovitez šotor–šotor–miškan: gibajoče bivanje, besedna igra אהל\/מאהol je v slovenščini delno ohranjena."
+    }
+  ],
+  "translation": "Kajti nisem prebival v hiši od dneva, ko sem pripelval ⟨את⟩ Jisrael, do tega dneva, ampak sem bil od šotora do šotora in od miškana.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/5-8.1792438262023.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "prebival"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "sem pripelval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "in sem bil"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "od šotora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šotora"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "in od miškana"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:02.025624084Z",
+  "model": "glm-5.3"
+}

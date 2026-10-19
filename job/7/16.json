@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svoje življenje",
+      "rationale": "מאסתי nima predmeta; slovenščina potrebuje objekt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ničevost",
+      "rationale": "הבל je dobesedno 'dih, para' — prehodnost in praznina v eni besedi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "prenehaj",
+      "rationale": "Vezljivnik, upravljen Elohimu: odnehaj, pusti me pri miru."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Hiob neposredno zapušča nagovoriti Elohima: 'prenehaj za menoj'."
+    }
+  ],
+  "translation": "Zgnusil sem ⟨svoje življenje⟩ — ne bom živel na veke; prenehaj ⟨iti⟩ za menoj, kajti ničevost so moji dnevi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/13-16.1792436342706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "zgnusil sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "bom živel"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "prenehaj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "za menoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ničevost"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "so moji dnevi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:02.709557312Z",
+  "model": "glm-5.3"
+}

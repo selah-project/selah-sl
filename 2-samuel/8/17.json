@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 8:17",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so · je",
+      "rationale": "Hebrejščina izpušča glagol biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "measurement",
+      "subject": "uradniški seznam",
+      "rationale": "Verz je del seznama Davidovih dvornih uradnikov."
+    }
+  ],
+  "translation": "in Cadok, sin Ahituba, in Ahimelek, sin Ebjatarja, ⟨so⟩ duhovnika; in Seraja ⟨je⟩ pisar.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/8\/17-18.1792428237091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "in Cadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahituba"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "in Ahimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjatarja"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "in Seraja"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "pisar"
+    }
+  ],
+  "timestamp": "2026-10-19T16:43:57.092080088Z",
+  "model": "glm-5.3"
+}

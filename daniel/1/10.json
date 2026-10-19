@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 1:10",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחיבתם את ראשי",
+      "rationale": "חיב doli 'zavezati\/dolgovati' — KJV 'endanger my head' (spraviti glavo v nevarnost), YLT 'indebted', dobesedno 'naredili mojo glavo krivo\/dolžno kralju'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gospod",
+      "rationale": "אדני je tu o človeku (kralju), zato 'gospod' in ne 'Adonaj'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladeniči",
+      "rationale": "הילדיד 'otroci\/mladeniči' — dvajsetletni kraljevi vzgojenci"
+    },
+    {
+      "kind": "addition",
+      "subject": "jaz",
+      "rationale": "אני stoji poudarjeno ('jaz se bojim'), slovenščina ga vključi v glagolsko obliko"
+    }
+  ],
+  "translation": "In poglavar skopljencev je rekel Danielu: Bojim se ⟨את⟩ svojega gospoda, kralja, ki je določil ⟨את⟩ vašo hrano in ⟨את⟩ vaše pijačo; zakaj naj vidi ⟨את⟩ vaša obraza zamrjenima v primerjavi z mladeniči, ki so ⟨kot⟩ vaših let, in bi navzdol ⟨את⟩ moje glavo prelomili ⟨pred⟩ kraljem?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/9-12.1792437299682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "שר",
+      "gloss": "poglavar"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "skopljencev"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danielu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bojim se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega gospoda, kralja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "svojega gospoda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "je določil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vašo hrano"
+    },
+    {
+      "surface": "מאכלכם",
+      "gloss": "vašo hrano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vaše pijačo"
+    },
+    {
+      "surface": "משתיכם",
+      "gloss": "vaše pijačo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "naj vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaša obraza"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vaša obraza"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "zamrjenima"
+    },
+    {
+      "surface": "מן",
+      "gloss": "v primerjavi z"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mladeniči"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki so"
+    },
+    {
+      "surface": "כגילכם",
+      "gloss": "kot vaših let"
+    },
+    {
+      "surface": "וחיבתם",
+      "gloss": "in bi prelomili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje glavo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moje glavo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:59.685312551Z",
+  "model": "glm-5.3"
+}

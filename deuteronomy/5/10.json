@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד je hesed — zvesta ljubezen do tisoč generacij, ne 'milost'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאלפים",
+      "rationale": "do tisočeric (generacij) proti tretji in četrti generaciji sovražnikov v v. 9; dobesedno 'do alefov'"
+    }
+  ],
+  "translation": "in dela hesed do tisočeric ⟨tistim, ki⟩ me ljubijo in ⟨tistim, ki⟩ varujejo njegove mitzvot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4074192af2f8e4b449986ed56fe6def0675f1a6ae68449e38b90f209b9af85ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/5\/10-12.1792433319309.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "in dela"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "do tisočeric"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "tistim, ki me ljubijo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "in tistim, ki varujejo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "njegove mitzvot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:39.310843582Z",
+  "model": "glm-5.3"
+}

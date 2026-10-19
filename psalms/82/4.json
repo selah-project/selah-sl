@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje predmetni dovelek, hebrejščina ga izpušča."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pomanjkljivega",
+      "rationale": "אביון je 'reven, ki proseči' — beseda 'pomanjkljiv' ni popolnoma dobesedna; prim. tudi 'rešen potrebnega'."
+    }
+  ],
+  "translation": "Rešita šibkega in pomanjkljivega, iz roke hudobnih jih vytrgita.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/82\/1-4.1792435174248.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Rešita"
+    },
+    {
+      "surface": "דל",
+      "gloss": "šibkega"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in pomanjkljivega"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "vytrgita"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:34.250494436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩",
+      "rationale": "hebrejščina ima gol jussiv, želeni naklon dodan."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחשב לי",
+      "rationale": "»misli name« \/ »mi predvidi dobro« (JPS) \/ »mi presoji« — הָשַׁב כְּ z odvisnim predlogom ni, zato pomen ni čisto jasen."
+    }
+  ],
+  "translation": "Jaz pa sem revež in ubožec; Adonaj ⟨naj⟩ misli name. Pomoč moja in rešiteljica moja si ⟨ti⟩, Elohim moj — ne zadržuj ⟨se⟩!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/40\/17-18.1792434790379.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "Jaz pa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "revež"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in ubožec"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "⟨naj⟩ misli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "name"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "Pomoč moja"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "in rešiteljica moja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ⟨ti⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zadržuj ⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:10.380451882Z",
+  "model": "glm-5.3"
+}

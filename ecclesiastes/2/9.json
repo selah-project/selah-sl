@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima pomožnika 'biti' v preteritu"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמדה לי",
+      "rationale": "dobesedno 'stala mi je' — 'ostala pri meni' proti JPS 'mi je koristila'"
+    }
+  ],
+  "translation": "In postal sem velik in povečal sem se bolj kot vse, kar je bilo pred menoj v Jerušalajimu; tudi moja modrost je ostala pri meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/9-12.1792437061818.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "in postal sem velik"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "povečal sem se"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bolj kot vse"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "kar je bilo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "moja modrost"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "je ostala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pri meni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:01.819629461Z",
+  "model": "glm-5.3"
+}

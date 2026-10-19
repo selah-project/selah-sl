@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "hebrejščina ponovi glagol brez okrepitvene besede"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "ה6864 צדק ostaja po zvoku kot cedek, ne 'pravičnost' sama"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וארשתיך",
+      "rationale": "veriga sedmih zaročnih vzklikov — ponovitev בְּ z veznikom v (=600000000) gradi ritem poroke"
+    }
+  ],
+  "translation": "In zaročil ⟨se⟩ bom ⟨tebi⟩ sebi za večno časov; da, zaročil ⟨se⟩ bom ⟨tebi⟩ sebi v cedek in v sodbo in v hesed in v usmiljenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/21-24.1792433797304.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "in zaročil ⟨se⟩ bom ⟨tebi⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za večno časov"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "da, zaročil ⟨se⟩ bom ⟨tebi⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "v cedek"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "in v sodbo"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "in v hesed"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "in v usmiljenja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:37.305491363Z",
+  "model": "glm-5.3"
+}

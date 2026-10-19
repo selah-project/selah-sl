@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק ostane po hebrejskem zvoku namesto 'pravičnost'"
+    },
+    {
+      "kind": "elision",
+      "subject": "מלכים",
+      "rationale": "dvojina 'kraljem' prekriva hebrejsko množico"
+    }
+  ],
+  "translation": "Kakó je všeč kraljem ustnice cedeka, in kdor govori prave stvari, ga ljubijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "125b1f1f144b270f7f11e95b28a44126e7b8d218855788ba6d6d8dec13f7a84e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/13-16.1792435998824.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "všeč"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ustnice"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "in kdor govori"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "prave stvari"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ga ljubijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:18.824780328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 7:6",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrejščina brez glagola 'biti' — slovenščina ga zahteva."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהיר",
+      "rationale": "Dobesedno 'hiter'; 'vešč' (spreten) ali 'hiter' v pisanju — prevodi se delijo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pismouk",
+      "rationale": "ספר je dobesedno 'števec, zapisovalec' — pisar-učenjak, ne le pismouk."
+    }
+  ],
+  "translation": "Ta Ezra je šel gor iz Babela; ⟨bil⟩ je pismouk, vešč v Tori Mošeho, katero je dal Jahve, Elohim Jisraelov. In dal mu je kralj vso njegovo prošnjo, po roki Jahveja, njegovega Elohima, ki ⟨je bila⟩ nad njim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bdae3b3f200ca3f23da91a5718519244ba6e8b3b31964457885a3354297c318b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/5-8.1792437655430.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "je šel gor"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "iz Babela"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in ⟨bil⟩ je"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pismouk"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "vešč"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "v Tori"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dal je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "po roki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "njegovega Elohima"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "בקשתו",
+      "gloss": "njegovo prošnjo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:55.433446182Z",
+  "model": "glm-5.3"
+}

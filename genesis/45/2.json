@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so \/ je",
+      "rationale": "slovenščina zahteva pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויתן את קלו בבכי",
+      "rationale": "dobesedno 'dal je svoj glas v joku' — idiom za glasen jok"
+    }
+  ],
+  "translation": "In je dal ⟨את⟩ svoj glas v joku, in slišali ⟨so⟩ Micrajim, in slišala ⟨je⟩ hiša Paro.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/45\/1-4.1792422961230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj glas"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "v joku"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "in slišali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "in slišala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-10-19T15:16:01.231783338Z",
+  "model": "glm-5.3"
+}

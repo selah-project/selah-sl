@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tistega, ki si ga udaril",
+      "rationale": "ednina brez določenega predmeta: govorí o ubogem v psalmu ali o množici; prevodi se delijo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prebodenih",
+      "rationale": "חלal je 'preboden (do smrti)', ne splošno 'ranjen'"
+    }
+  ],
+  "translation": "Kaj tistega, ki si ga udaril, preganjajo, in o bolečini tvojih prebodenih pripovedujejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/25-28.1792435058102.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "si udaril"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "preganjajo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in o"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bolečini"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "tvojih prebodenih"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "pripovedujejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:38.104168591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tisti⟩",
+      "rationale": "hebrejščina postavlja dve besedi druga ob drugi brez veznika; slovenščina potrebuje označevalca osebe"
+    },
+    {
+      "kind": "alternative",
+      "subject": "besede, ki stojijo naravnost",
+      "rationale": "נכחים dobesedno 'nasproti stoječe' — ravnodušne, poštene besede"
+    }
+  ],
+  "translation": "Ustnice poljublja ⟨tisti⟩, kdor odgovarja besede, ki stojijo naravnost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "aa910965656cf62a28bd6d01c5aa3711daf4ebf69ddea540827e525aa64bee3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/25-28.1792436126457.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ustnice"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "poljublja"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "⟨tisti⟩, kdor odgovarja"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ki stojijo naravnost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:26.458594252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מבלעדי \/ זולתי",
+      "rationale": "dve različni hebrejski besedi za 'razen' v vzporednih polverših; slovenščina ponavlja isto besedo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skala",
+      "rationale": "צור je dobesedno čer oz. oster klif, ne splošna 'skala'"
+    }
+  ],
+  "translation": "Kajti kdo je Eloah razen Jahveja, in kdo je skala razen Elohim, našega ⟨Boga⟩?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "37b03c73420c5116bd75dfee553fff3a45eb36a645ef86c53ea5b4fceda4b355",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/32-32.1792438975610.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "razen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "in kdo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skala"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "razen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim, naš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:55.610833001Z",
+  "model": "glm-5.3"
+}

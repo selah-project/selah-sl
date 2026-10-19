@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se ⟨jé⟩",
+      "rationale": "hebrejščina ima samo יאכל (nedoločnik 'jesti se') brez pomožnika 'se'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pri njem",
+      "rationale": "בו dobesedno 'v njem' — 'na njem\/od njega', glede na kost"
+    }
+  ],
+  "translation": "V eni hiši se ⟨jé⟩; ne izneseš mesa iz hiše navzven, in kosti ne boste zlomili ⟨pri njem⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/12\/45-48.1792423274737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "v eni hiši"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨jé⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "izneseš"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "navzven"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "in kosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "boste zlomili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨pri njem⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T15:21:14.738375080Z",
+  "model": "glm-5.3"
+}

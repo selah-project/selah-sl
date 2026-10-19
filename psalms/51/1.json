@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Zborovodja",
+      "rationale": "למנצח dobesedno 'tistemu, ki sija od daleč', tj. nadzornik; podoba izgubljena v slovenščini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mizmor",
+      "rationale": "מזמור je pesem z inštrumentalno glasbo; ohranjena po zvoku, ne kot 'psalm'."
+    }
+  ],
+  "translation": "Zborovodji. Mizmor Davidu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/51\/1-4.1792434878764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:38.765291917Z",
+  "model": "glm-5.3"
+}

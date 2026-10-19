@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 2:2",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pohlastí",
+      "rationale": "אכלה je 'pojéla bo' — ogenj 'je', slovenščina uporabi 'pohlastí'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קריות\/קריה",
+      "rationale": "Keriot pomeni 'mesta'; ime mesta zveni kot običajna beseda 'mesta'"
+    }
+  ],
+  "translation": "In pošljem ogenj na Moab, in pohlastí graduje Keriot, in Moab bo umrl v hrupu, v bojnem vzkliku, ob glasu šofarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd2b8eba31930dd0517ccd94bcf2f958f67f5f200f7472cc6d92552b5c094931",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/2\/1-4.1792433999049.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "In pošljem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "na Moab"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "in pohlastí"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "graduje"
+    },
+    {
+      "surface": "הקריות",
+      "gloss": "Keriot"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "in bo umrl"
+    },
+    {
+      "surface": "בשאון",
+      "gloss": "v hrupu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "v bojnem vzkliku"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ob glasu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofarja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:59.050882264Z",
+  "model": "glm-5.3"
+}

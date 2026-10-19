@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "o zločincu",
+      "rationale": "Nadaljevanje prekletstva iz 109,6–8, izrečenega nad sovražnikom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתומים \/ אלמנה",
+      "rationale": "Dvojni udarec: sirota in vdova — oba socialno najbolj izpostavljena."
+    }
+  ],
+  "translation": "Bodijo njegovi sinovi sirote, ⟨sibodijo⟩ ⟨sirota⟩ in njegova žena vdova.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/9-12.1792435436099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bodijo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sirote"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "in njegova žena"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdova"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:56.100406811Z",
+  "model": "glm-5.3"
+}

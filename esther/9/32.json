@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Slovenščina potrebuje pomožni glagol pri brezosebni obliki ונכתב."
+    },
+    {
+      "kind": "crux",
+      "subject": "v knjigi",
+      "rationale": "הספר z določenim členom: 'v knjigi' — dvomljivo, ali je to kraljeva kronika ali zvezek Estere."
+    }
+  ],
+  "translation": "In zapoved Ester je potrdila ⟨te⟩ besede tega Purima, in ⟨to⟩ je bilo zapisano v knjigi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/9\/29-32.1792437297605.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "in zapoved"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "je potrdila"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Purima"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "in je zapisano"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v knjigi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:57.608344299Z",
+  "model": "glm-5.3"
+}

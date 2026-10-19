@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גדיתיו",
+      "rationale": "redka beseda za rečni breg; pojavlja se le tu in v Joz 3,15"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dolinske ⟨prebivalce⟩",
+      "rationale": "hebrejščina dobesedno 'vse doline' — metonimija za prebivalce dolin"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הוא ממלא על כל גדיתיו",
+      "rationale": "dobesedno 'on se polnja prek vseh svojih bregov' — reka se razlije"
+    }
+  ],
+  "translation": "Ti so tisti, ki so prestopili ⟨את⟩ Jordan v prvem mesecu, ko se je razlil prek vseh svojih bregov, in so spravili v beg ⟨את⟩ vse dolinske ⟨prebivalce⟩ na vzhod in na zahod.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/12\/13-16.1792438178332.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "so"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tisti, ki"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "so prestopili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ko se je"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "razlil"
+    },
+    {
+      "surface": "על",
+      "gloss": "prek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "svojih bregov"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "in so spravili v beg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse dolinske prebivalce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "dolinske"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "na vzhod"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "in na zahod"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:38.349195953Z",
+  "model": "glm-5.3"
+}

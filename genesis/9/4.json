@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je gorlo\/dih\/življenjska sila, ne »duša« v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו דמו",
+      "rationale": "dobesedno »v njegovi duši, njegovi krvi« — ali je kri pojasnilo duše (»to je njegova kri«) ali dvojni opis"
+    }
+  ],
+  "translation": "Samo mesa z njegovo dušo — s krvjo njegovo — ne jejte.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/9\/1-4.1792422079727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "z njegovo dušo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "s krvjo njegovo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jejte"
+    }
+  ],
+  "timestamp": "2026-10-19T15:01:19.728352194Z",
+  "model": "glm-5.3"
+}

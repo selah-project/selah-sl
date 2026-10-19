@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 13:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "z",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ima samo ב-"
+    },
+    {
+      "kind": "invitation",
+      "subject": "poslušnite",
+      "rationale": "Job neposredno kliče prijatelje, naj poslušajo njegovo govorjenje"
+    }
+  ],
+  "translation": "Poslušnite dobro mojo besedo, mojo izpoved pa ⟨z⟩ vašimi ušesmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/13\/17-20.1792436374228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "poslušnite"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "mojo besedo"
+    },
+    {
+      "surface": "ואחותי",
+      "gloss": "mojo izpoved"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "⟨z⟩ vašimi ušesmi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:34.228741490Z",
+  "model": "glm-5.3"
+}

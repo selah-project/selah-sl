@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 1:16",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקוא",
+      "rationale": "KJV bere 'mikve' kot 'plat' (niti); YLT\/JPS kot zemljepisno ime Kve (Cilicija); tok je priključen k 'iz' v prejšnji frazi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bil⟩",
+      "gloss": "slovenščina potrebuje 'bil je' pri 'izvor'; hebrejščina uporablja samostalnik 'izhod' brez glagola"
+    },
+    {
+      "kind": "alternative",
+      "subject": "izvor konj",
+      "rationale": "možen drug prevod 'uvoz' namesto 'izvor'; dobesedno 'izhod (konzja)'"
+    }
+  ],
+  "translation": "In izvor konj, ki so bili Šelomovi, ⟨bil⟩ je iz Micrajima in iz Kve; trgovci kraljevi iz Kve so jih jemali za določeno ceno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/13-16.1792438406882.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "izvor"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "konj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki so bili"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomovi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ומקוא",
+      "gloss": "in iz Kve"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "trgovci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "מקוא",
+      "gloss": "iz Kve"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "so jih jemali"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "za ceno"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:26.884476930Z",
+  "model": "glm-5.3"
+}

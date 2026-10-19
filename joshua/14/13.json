@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In Jehosua ga je blagoslovil, in dal je ⟨את⟩ Hebron Kalebu, sinu Jefuneja, v dediščino.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c3af06b3b67f6277ccb847fa5281b0f7d04c4209833b5c65a5dab075a2d42358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/14\/13-15.1792426633170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "in blagoslovil ga je"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dal je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefuneja"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "v dediščino"
+    }
+  ],
+  "timestamp": "2026-10-19T16:17:13.170789609Z",
+  "model": "glm-5.3"
+}

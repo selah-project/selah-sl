@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slava",
+      "rationale": "כבוד je dobesedno 'teža'; 'slava' je ustaljeni prevod, slika teže je izgubljena"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Pokaži mi",
+      "rationale": "Moševa prošnja, imperativ z נא"
+    }
+  ],
+  "translation": "In rekel je: Pokaži mi, prosim, ⟨את⟩ svojo slavo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f75ae32522f2b9cc6076c3b186a90a01c4976cf5d15144ab463ca73c6bee2459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/33\/17-20.1792423738328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Pokaži mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo slavo"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "svojo slavo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:28:58.329670966Z",
+  "model": "glm-5.3"
+}

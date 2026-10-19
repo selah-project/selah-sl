@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בחן\/טעם",
+      "rationale": "Dvojica preskušanja — uho preskuša, nebočje okuša; vzporednica je v slovenščini ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebočje",
+      "rationale": "חך je nebce\/ustna votlina kot organ okušanja."
+    }
+  ],
+  "translation": "Kajer uho preskuša besede, in nebočje okuša ⟨hrano⟩ za jedenje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "be3cc776f67fa98d5cca2550369741584e979ff751a9c5d2b25d65352a68c1de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/34\/1-4.1792436680706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajer"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "besede"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "preskuša"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "in nebočje"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "okuša"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "za jedenje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:40.707534088Z",
+  "model": "glm-5.3"
+}

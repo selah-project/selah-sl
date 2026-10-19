@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kriči od vina",
+      "rationale": "מתרונן je dobesedno ' oddaja hreščeč glas'; 'kriči' ohranja glasu, ne veselja"
+    },
+    {
+      "kind": "crux",
+      "subject": "Adonaj kakor spečec",
+      "rationale": "antropomorfizem: JPS 'ki se iztrezniva iz vina' proti KJV 'ki kriči od vina'; podvojena primerjava (spalec + junak) ostane"
+    }
+  ],
+  "translation": "In zbudil se je Adonaj kakor spečec, kakor junak, ki kriči od vina.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/65-68.1792435206749.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "in zbudil se je"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "kakor spečec"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kakor junak"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "ki kriči"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "od vina"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:06.751242034Z",
+  "model": "glm-5.3"
+}

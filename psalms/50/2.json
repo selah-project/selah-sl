@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "pomožnik za preteklik dodan v slovenščini"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכלל־יפי \/ הופיע",
+      "rationale": "konstrukt 'popolnost lepote' in glagol 'zasijal' iz korena יפע — lepota in sijaj sta v hebrejščini povezana, v slovenščini se povezava izgubi"
+    }
+  ],
+  "translation": "Iz Ciona, popolnosti lepote, ⟨je⟩ Elohim zasijal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/1-4.1792434907257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Iz Ciona"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "popolnosti"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "lepote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "zasijal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:07.259138684Z",
+  "model": "glm-5.3"
+}

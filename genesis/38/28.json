@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 38:28",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨eden⟩",
+      "rationale": "hebrejščina ויתן יד ne imenuje subjekta; slovenščina ga potrebuje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "škrlatno nit",
+      "rationale": "שני je škrlat — barva iz žuželke; hebrejščina ne omenja 'nit', le 'škrlat', razlaga se iz vezanja."
+    }
+  ],
+  "translation": "In zgodilo se je, ko je rojevala, da je ⟨eden⟩ stegnil roko; in vzela je babica in vezala na njegovo roko škrlatno nit, rekoč: Ta je prišel ven prvi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9f8855b193fdbbab680198e55c770e2862880b339aa9207e467660fedd14adcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/38\/25-28.1792422746729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ko je rojevala"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in stegnil je"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roko"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "in vzela je"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "babica"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "in vezala je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegovo roko"
+    },
+    {
+      "surface": "שני",
+      "gloss": "škrlatno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "je prišel ven"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "prvi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:26.730972221Z",
+  "model": "glm-5.3"
+}

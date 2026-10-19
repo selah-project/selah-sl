@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זאת",
+      "rationale": "ההשב אשיב je inf. abs. + perfekt — dobesedno 'vračajoč povem nazaj', slovensko glagol razcepljen"
+    }
+  ],
+  "translation": "In slugu ⟨je⟩ rekel njemu: Morda žena ne bo hotela iti za menoj v to deželo — ali naj povem ⟨את⟩ tvojega sina nazaj v deželo, iz katere si izšel?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2e9ff319661a6b8b3c958ed1f80acb36a7d8f0be943c6775cdc72c885ea6e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/24\/5-8.1792422384550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "služabnik"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "morda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "bo hotela"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "naj povem"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvojega sina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvojega sina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iz katere"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "si izšel"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtod"
+    }
+  ],
+  "timestamp": "2026-10-19T15:06:24.551508935Z",
+  "model": "glm-5.3"
+}

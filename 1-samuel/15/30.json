@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 15:30",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina ne izraža osebka; dodano za slovensko sintakso"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaul Šmuelu",
+      "rationale": "neposreden nagovor: Šaul prosi Šmuela za čast pred ljudstvom"
+    }
+  ],
+  "translation": "In rekel ⟨je⟩: Grešil sem; zdaj me počasti, prosim, pred starešinami mojega ljudstva in pred Jisraelom, in vrni se z menoj, da se priklonim Jahveju, tvojemu Elohimu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3f18b0421dd3e0ed1bb12f5cd1505c7683195b2685a70c11b338d4a6e86b90ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/15\/29-32.1792427765630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel ⟨je⟩"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Grešil sem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "כבדני",
+      "gloss": "me počasti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starešinami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojega ljudstva"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "in vrni se"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "z menoj"
+    },
+    {
+      "surface": "והשתחויתי",
+      "gloss": "da se priklonim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvojemu Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:05.631199643Z",
+  "model": "glm-5.3"
+}

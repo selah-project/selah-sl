@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrew lacks a copula; participle construction implies future 'shall be'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dojenčke",
+      "rationale": "עלליך is 'sucklings' (dojene otroke) — dojenčki keeps the literal picture"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשרי",
+      "rationale": "Hebrew interjection 'how happy!' rendered as 'Srečen' with implied copula"
+    }
+  ],
+  "translation": "Srečen ⟨bo⟩ tisti, ki zgrabi in razbije ⟨את⟩ tvoje dojenčke ob skalo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/137\/9-9.1792435692626.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Srečen"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "ki zgrabi"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "in razbije"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje dojenčke"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "tvoje dojenčke"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "skalo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:12.627520031Z",
+  "model": "glm-5.3"
+}

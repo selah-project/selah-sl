@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 16:46",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenska kopula dodana, hebrejščina je brez glagola"
+    },
+    {
+      "kind": "substitution",
+      "subject": "levica\/desnica",
+      "rationale": "Levo in desno sta hkrati sever in jug (orientacija z vzhodom spredaj); BSB prevaja 'north\/south'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגדולה \/ הקטנה",
+      "rationale": "'velika\/mala' dobesedno; prevajalci večinoma 'starejša\/mlajša sestra'"
+    }
+  ],
+  "translation": "In tvoja velika sestra ⟨je⟩ Šomron, ona in njene hčere, ki prebiva ob tvoji levici; in tvoja mala sestra, manjša od tebe, ki prebiva od tvoje desnice, ⟨je⟩ Sodom in njene hčere.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/45-48.1792432253160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחותך",
+      "gloss": "in tvoja sestra"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "velika"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomron"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "in njene hčere"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "tvoji levici"
+    },
+    {
+      "surface": "ואחותך",
+      "gloss": "in tvoja sestra"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "manjša od tebe"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "od tvoje desnice"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "in njene hčere"
+    }
+  ],
+  "timestamp": "2026-10-19T17:50:53.161085622Z",
+  "model": "glm-5.3"
+}

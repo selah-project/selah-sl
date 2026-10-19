@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez kopule; dvojno ב ב švu"
+    }
+  ],
+  "translation": "Naš Elohim ⟨je⟩ v nebesih; vse, kar je hotel, je storil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/115\/1-4.1792435468042.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Naš Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "je hotel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:28.043015740Z",
+  "model": "glm-5.3"
+}

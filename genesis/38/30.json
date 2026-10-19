@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "hebrejščina izpusti glagol biti; dodan v oklepaju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "škrlatna nit",
+      "rationale": "השני je samo 'škrlat'; 'nit' je iz v. 28 (השני) dodan zaradi razumljivosti"
+    }
+  ],
+  "translation": "In potem je prišel ven njegov brat, na čigar roki ⟨je bila⟩ škrlatna nit; in njegovo ime je imenoval Zerah.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bb2ebc3c959a2611fe1ba35778edbc2d89a6d61356c989cb55ed55ef78baa227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/38\/29-30.1792422729535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "in potem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "je prišel ven"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegov brat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na čigar"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "roki"
+    },
+    {
+      "surface": "השני",
+      "gloss": "škrlatna nit"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "in njegovo ime je imenoval"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerah"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:09.536355553Z",
+  "model": "glm-5.3"
+}

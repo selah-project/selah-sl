@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svoj sadež",
+      "rationale": "יתן 'daje' brez predmeta v besedilu; dodano za berljivost"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "'mreža\/zanka' (KJV) nasproti 'plen' (JPS 'prey of evil men')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רעים",
+      "rationale": "istokovni koren רע v stavku — 'hudobni hlepi zanko hudih'"
+    }
+  ],
+  "translation": "Hudobni hlepi zanko hudih, korenina pravičnih pa daje ⟨svoj sadež⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/12\/9-12.1792435960504.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "hlepi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Hudobni"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "zanko"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hudih"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "korenina"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravičnih"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje ⟨svoj sadež⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:40.506734840Z",
+  "model": "glm-5.3"
+}

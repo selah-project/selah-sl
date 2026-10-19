@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "posušilo se je",
+      "rationale": "יבש pomeni tudi 'biti osramočen'; tu je sušenje kot voda, ki usahne"
+    }
+  ],
+  "translation": "Udárjen sem kakor travá in posušilo se je moje srce, ker sem pozabil jesti svoj kruh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/5-8.1792435322853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "udárjen sem"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kakor travá"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "in posušilo se je"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "sem pozabil"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "svoj kruh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:02.854602726Z",
+  "model": "glm-5.3"
+}

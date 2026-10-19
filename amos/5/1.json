@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Slišite",
+      "rationale": "immerzivni uvodni klic preroka, naslovljena hiša Jisraelova."
+    },
+    {
+      "kind": "you",
+      "subject": "hiša Jisraelova",
+      "rationale": "neposreden ogovor poslušalcev."
+    },
+    {
+      "kind": "substitution",
+      "subject": "žalostinka",
+      "rationale": "קינה je tužnica, pesem za mrtve — izrek je hkrati govorni in pogrebni dejan."
+    }
+  ],
+  "translation": "Slišite ⟨את⟩ to besedo, ki jo jaz nosim nad vami — žalostinko, hiša Jisraelova.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/1-4.1792433996200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slišite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to besedo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nosim"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vami"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "žalostinko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelova"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:56.201382161Z",
+  "model": "glm-5.3"
+}

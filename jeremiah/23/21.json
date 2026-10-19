@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "toda",
+      "rationale": "slovenščina potrebuje nasprotujoči veznik, hebrejščina ga v והם nima"
+    }
+  ],
+  "translation": "Nisem poslal ⟨את⟩ prerokov, toda oni so stekli; nisem govoril z njimi, toda oni so prerokovali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "587e3668655334fcb3a7f25a2129870534bc33b5d96cadde832d5ad94681bf44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/23\/21-24.1792431473857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prerokov"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "prerokov"
+    },
+    {
+      "surface": "והם",
+      "gloss": "toda oni"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "so stekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "govoril"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "toda oni"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "so prerokovali"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:53.857888998Z",
+  "model": "glm-5.3"
+}

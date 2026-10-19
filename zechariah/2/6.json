@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti pri pridevnikih, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "kamu greš",
+      "rationale": "prerok neposredno ogovori moža z merilno vrvjo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "širina in dolžina",
+      "rationale": "verz merja dimenzije Jerušalajima"
+    }
+  ],
+  "translation": "In rekel sem: Kam greš? In rekel je meni: Izmeriti ⟨את⟩ Jerušalajim, da vidim, kako širok je in kako dolg je.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/2\/5-8.1792434316303.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "In rekel sem"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "greš"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "למד",
+      "gloss": "izmeriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da vidim"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "širok je"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "in kako"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dolg je"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:16.304367167Z",
+  "model": "glm-5.3"
+}

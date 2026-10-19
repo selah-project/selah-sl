@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שם (drugi)",
+      "rationale": "drugi שם (»tam je zaveza«) se v tekoči slovenščini podvoji; prevod ga nosi z »v kateri je«"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "dobesedno »rezati zavezo« (po rezanju žrtve); slovensko »skleniti zavezo«"
+    }
+  ],
+  "translation": "In tam sem določil ⟨את⟩ mesto za skrinjo, v kateri ⟨je⟩ zaveza Jahve, ki jo je sklenil z našimi očeti, ko jih je izpeljal iz dežele Micrajim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/8\/21-24.1792428972542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "in določil sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "za skrinjo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v kateri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zaveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "je sklenil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "našimi očeti"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "ko je izpeljal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "naši očetje"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:56:12.543312599Z",
+  "model": "glm-5.3"
+}

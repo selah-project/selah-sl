@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogovom",
+      "rationale": "אלהים אחרים — tu 'bogovi' z malo, saj gre za tuje bogove, ne Elohim"
+    },
+    {
+      "kind": "addition",
+      "subject": "jim",
+      "rationale": "slovenščina potrebuje dativec za ועבדתם"
+    }
+  ],
+  "translation": "Če pa se obrne tvoje srce in ne boš poslušal, ampak boš odnesen ter se boš priklonil drugim bogovom in jim služil,",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/30\/17-20.1792426371217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "če pa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "se obrne"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tvoje srce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "boš poslušal"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "boš odnesen"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "se boš priklonil"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "in jim služil"
+    }
+  ],
+  "timestamp": "2026-10-19T16:12:51.217917917Z",
+  "model": "glm-5.3"
+}

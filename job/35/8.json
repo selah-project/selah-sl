@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "krivica",
+      "rationale": "רשע je 'krivica\/hudobija' — moralna nepravica, ne abstraktno 'zlo'."
+    },
+    {
+      "kind": "crux",
+      "subject": "glagolsko jedro",
+      "rationale": "Hebrejščina ne ponudi glagola ('škodi\/koristi') — različice od 'may hurt' (KJV) do čiste priredbe (YLT); dodan ⟨zadeva⟩ kot uredniški šiv."
+    }
+  ],
+  "translation": "Tvoja krivica ⟨zadeva⟩ človeka, kakor si ti, in tvoj cedek sina človekovega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/35\/5-8.1792436720796.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kakor si ti"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "tvoja krivica"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "in sina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človekovega"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvoj cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:20.797699406Z",
+  "model": "glm-5.3"
+}

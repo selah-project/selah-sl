@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez veznika v nominalnem stavku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "z njihovimi usti",
+      "rationale": "פה dobesedno 'usta'; tu metonimija za 'izreke' — standardni prevodi pravijo 'njihove besede'"
+    },
+    {
+      "kind": "crux",
+      "subject": "tisti za njimi",
+      "rationale": "ואחריהם: 'potomci' (tisti, ki pridejo za njimi) ali 'tisti, ki jim sledijo'; dobesedno 'za njimi'"
+    }
+  ],
+  "translation": "Ta ⟨je⟩ njihova pot, neumnost ⟨je⟩ njihova zanje; in tisti za njimi se bodo z njihovimi usti ugajali. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/13-16.1792434903629.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njihova pot"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "neumnost"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njihova"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "in tisti za njimi"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "z njihovimi usti"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "se bodo ugajali"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:03.631176919Z",
+  "model": "glm-5.3"
+}

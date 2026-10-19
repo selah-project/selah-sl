@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je tisti, ki",
+      "rationale": "hebrejščina ima samo deležnik brez samostalnika in veznika"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל",
+      "rationale": "možno tudi »glede na slabotnega razmiavlja« (sodalni ali akuzativni odvisni od משכיל)"
+    }
+  ],
+  "translation": "Kako srečen je tisti, ki razumno ravna s slabotnim; v dan hudega ga bo rešil Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/1-4.1792434824825.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kako srečen"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "razumno ravna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "דל",
+      "gloss": "slabotnim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hudega"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ga bo rešil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:44.827025643Z",
+  "model": "glm-5.3"
+}

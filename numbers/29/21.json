@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 29:21",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה ostaja po zvoku, ker ni dar in ne davek, temveč daritev"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izlivi",
+      "rationale": "נסכים dobesedno 'izliti' — žrtva izlivanja, ne 'pijačna daritev'"
+    }
+  ],
+  "translation": "in njihova minha in njihovi izlivi za bike, za ovne in za jagnjeta, po njihovem številu, po pravilu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ea4ed03d2b9c9739f35157d833789c7c636644bf8db277c3f8b5f43d0b47dfad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/29\/21-24.1792425379356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "in njihova minha"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "in njihovi izlivi"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "za bike"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "za ovne"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "in za jagnjeta"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "po njihovem številu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "po pravilu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:56:19.357478562Z",
+  "model": "glm-5.3"
+}

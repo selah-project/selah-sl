@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה prevedena kot cedek in ne 'pravičnost', po pravilu D2"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוררי",
+      "rationale": "'nasprotniki' (KJV\/ASV) proti 'tisti, ki opazujejo me' (YL T); aktivni deležnik korena שׁרר"
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahve",
+      "rationale": "neposreden nagovor Boga z Imperativoma"
+    }
+  ],
+  "translation": "Jahve, vodi me v svojem cedeku zaradi mojih nasprotnikov; izravnaj pred menoj svojo pot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/9-12.1792434522495.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "vodi me"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "v svojem cedeku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mojih nasprotnikov"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "izravnaj"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "svojo pot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:42.496495562Z",
+  "model": "glm-5.3"
+}

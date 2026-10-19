@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "Hebrejščina brez glagola biti; slovenščina zahteva veznik."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvajset šeklov",
+      "rationale": "Dnevni obrok stehtan — približno 220 g, kruhk pomanjšanja."
+    }
+  ],
+  "translation": "In jed, ki jo boš jedel, ⟨naj bo⟩ po teži dvajset šeklov na dan; od časa do časa jo boš jedel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/4\/9-12.1792432102988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "in tvoja jed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "jo boš jedel"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "po teži"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šeklov"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "od časa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "časa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "jo boš jedel"
+    }
+  ],
+  "timestamp": "2026-10-19T17:48:22.989708412Z",
+  "model": "glm-5.3"
+}

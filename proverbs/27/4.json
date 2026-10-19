@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמה",
+      "rationale": "besedno pomeni 'vročina'; 'žgoča jeza' ohranja toploto podobe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "gloss_note": "",
+      "rationale": "dobesedno 'nosnica', preneseno gnev; slovenščina pozna 'narediti koga z nosom', a tukaj izbrano 'gnev'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kdo bo stal pred zavistjo",
+      "rationale": "retorično vprašanje brez odgovora — odgovor je prikrit: nihče"
+    }
+  ],
+  "translation": "Kruta je žgoča jeza in poriv gneva, toda kdo bo stal pred zavistjo?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/1-4.1792436142321.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "kruta"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "žgoča jeza"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "in poriv"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gneva"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "toda kdo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bo stal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "zavistjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:42.324745060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגידים",
+      "rationale": "נגידים pomeni 'voditelji\/knezi'; tu kot pridevnik: 'voditeljske, odlične stvari' — alternativno 'knežje besede'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga nima."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ves verz",
+      "rationale": "Imperativ שמעו neposredno kliče poslušalce."
+    }
+  ],
+  "translation": "Poslušajte, kajti knežje-stvari govorim, in odpiranje mojih ustnic ⟨je⟩ pravost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/5-8.1792435901394.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "knežje-stvari"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "in odpiranje"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mojih ustnic"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pravost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:41.395913263Z",
+  "model": "glm-5.3"
+}

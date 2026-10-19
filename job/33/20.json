@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש tu je 'poželenje\/apetit', ne nesmrtna duša."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זהם",
+      "rationale": "Glagol זהם (ognusiti se) se v Tanahu pojavi le tu."
+    }
+  ],
+  "translation": "In njegovo življenje se zgnusi kruha in njegova duša jedi, po kateri hrepeni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/17-20.1792436644842.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "in zgnusi se"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "njegovo življenje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "in njegova duša"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "jedi"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "po kateri hrepeni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:04.844266190Z",
+  "model": "glm-5.3"
+}

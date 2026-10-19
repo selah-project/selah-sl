@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Doklej",
+      "rationale": "drugi 'Doklej' je dodan; hebrejščina eno עד מה razteza čez obe vprašanji"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "חמה je dobesedno 'vročina, vrelina', preneseno jeza"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor Jahveja z vprašanjem 'doklej'"
+    }
+  ],
+  "translation": "Doklej, Jahve, se boš skrival, do konca? Doklej bo gorela kot ogenj tvoja jeza?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f2361448b820e43538140bba91febbd67508c36144c0299ff41f8c16d53c905e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/45-48.1792435259682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "מה",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "se boš skrival"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "do konca"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "bo gorela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kot"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tvoja jeza"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:59.684918041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poslanec",
+      "rationale": "מלאך je 'poslanec'; 'angel' bi vnesel poznejšo podobo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "postavlja tabor",
+      "rationale": "חנה pomeni 'utaboriti se' — vojaška slika tabora kot zaščite"
+    }
+  ],
+  "translation": "Jahvejev poslanec postavlja tabor okrog tistih, ki se ga bojijo, in jih rešuje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/5-8.1792434735799.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "postavlja tabor"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "poslanec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejev"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okrog"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tistih, ki se ga bojijo"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "in jih rešuje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:15.801726760Z",
+  "model": "glm-5.3"
+}

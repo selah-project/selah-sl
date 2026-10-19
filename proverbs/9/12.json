@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חכמת חכמת",
+      "rationale": "Infinitivus absolutus — dobesedno 'moder si, moder'; ponovitev poudari gotovost."
+    },
+    {
+      "kind": "addition",
+      "subject": "posledice",
+      "rationale": "תשא 'nosil' brez predmeta v hebrejščini; slovenščini je dodan ⟨posledice⟩ za berljivost."
+    }
+  ],
+  "translation": "Če si postal moder, zase si postal moder; in če posmehuješ, sam boš nosil ⟨posledice⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/9\/9-12.1792435912403.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "si postal moder"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "si postal moder"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zase"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "in posmehuješ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sam"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "boš nosil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:52.404664607Z",
+  "model": "glm-5.3"
+}

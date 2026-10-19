@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "belialova",
+      "rationale": "בליעל je 'brezvrednost' kot lastno-poimenovana sila; ostaja po zvoku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "slovenska zaimenska veznava za brezosebni glagol"
+    }
+  ],
+  "translation": "Ne postavim pred oči svoje reči belialove; delo odklonjenih sovražim, ⟨to⟩ se me ne bo oklepalo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/101\/1-4.1792435361152.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postavim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči svoje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reči"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belialove"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "odklonjenih"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "sovražim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "se bo oklepalo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:41.155234990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ ⟨ga⟩",
+      "rationale": "Slovenščina zahteva glagol in predmet v drugem stavku; hebrejščina v podrejenem stavku izpušča glagol 'biti'."
+    },
+    {
+      "kind": "crux",
+      "subject": "באפס",
+      "rationale": "Dobesedno 'v prenehanju\/niču' — 'zastonj, brez vzroka' (KJV) proti 'do konca' (različna branja korena אפס)."
+    }
+  ],
+  "translation": "Kajti tako govori Adonaj Jahve: v Micrajim je moj ljudstvo prvotno šlo dol, da bi tam bivalo kot tujec, in Asirija ⟨je⟩ zatirala ⟨ga⟩ zastonj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/52\/1-4.1792430812466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "je šel dol"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moj ljudstvo"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "prvotno"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "da bi bivalo kot tujec"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "in Asirija"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "zastonj"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "je zatirala"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:52.467497573Z",
+  "model": "glm-5.3"
+}

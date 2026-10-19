@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨reke⟩",
+      "rationale": "בין אולי je dobesedno 'med Ulajem'; samostalnik 'reka\/bregovi' je dodan iz konteksta (Ulaj je reka iz 8,2)."
+    },
+    {
+      "kind": "crux",
+      "subject": "בין אולי",
+      "rationale": "Samoglasniki 'med [bregovi] Ulaja' ali 'na obali Ulaja'; besedna igra z בין (med\/benajim) in obliko אולי."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ukaz Gabrielu",
+      "rationale": "Nevidni človeški glas naroči razlago videnja — razodetje je naročeno, a bralcu še ni dano."
+    }
+  ],
+  "translation": "In slišal sem glas človeka sredi ⟨reke⟩ Ulaja, in zaklical je ter rekel: Gabriel, daj temu razumeti ⟨את⟩ videnje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f01d3cfe2e22e77903adaed5bd8d3f7b7e9931f1d9fd3f4e3a15e7bf6817d255",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/13-16.1792437534564.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "in slišal sem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulaja"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "in zaklical je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ter rekel"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gabriel"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "daj razumeti"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "temu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "videnje"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "videnje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:18:54.569199176Z",
+  "model": "glm-5.3"
+}

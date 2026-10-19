@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראש\/פינה",
+      "rationale": "'glava vogala' — živa podoba stavbnega vogala, ne naziv 'vogalni kamen' v gradbenem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "glava vogala",
+      "rationale": "roš pinna: 'glava vogala' dobesedno; prevodi se razhajajo med 'vogelni kamen', 'kapitel' in 'poglavar'"
+    }
+  ],
+  "translation": "Kamen, ki so ga zidarji zavrgli, je postal glava vogala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/21-24.1792435483818.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "so zavrgli"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "zidarji"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je postal"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vogala"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:43.819498629Z",
+  "model": "glm-5.3"
+}

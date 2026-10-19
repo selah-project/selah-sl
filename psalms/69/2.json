@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je »grlo \/ življenjski dih«, ne nesnovna duša."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "zvezo כי je slovenščina v tem sklepu pogoltnila."
+    }
+  ],
+  "translation": "Reši me, Elohim, kajprišli so vode do duše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/1-4.1792435029452.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajprišli so vode do duše"
+    },
+    {
+      "surface": "באו",
+      "gloss": "prišli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:09.454287594Z",
+  "model": "glm-5.3"
+}

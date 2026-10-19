@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "the second כי of the refrain is omitted here in the Hebrew of vv.2-4; rendered implicitly"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jisrael",
+      "rationale": "direct summons to Israel to speak the refrain"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "addressed to Israel as addressee"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refrain",
+      "rationale": "fourfold repetition of כי לעולם חסדו builds liturgical structure"
+    }
+  ],
+  "translation": "Reci ⟨zdaj⟩, Jisrael: na veke je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/1-4.1792435481078.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Reci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zdaj⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:41.078799511Z",
+  "model": "glm-5.3"
+}

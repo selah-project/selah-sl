@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 2:5",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יתהוללו \/ ישתקשקון \/ ירוצצו",
+      "rationale": "zloženi glagoli s podvojenimi soglasniki (hitpaal\/šitpeal) posnemajo ropot in rojenje vozov; v slovenščini zvok izgine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "križajo se",
+      "rationale": "ישתקשקון dobesedno 'tekajo sem in tja (kot zver v lovu)' — 'križajo se' je približek drsenja drug ob drugem"
+    }
+  ],
+  "translation": "Po ulicah divjajo vozovi, križajo se po širokih trgih; njihov videz je kakor bakle, kakor strele hitijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/2\/5-8.1792434209081.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוצות",
+      "gloss": "po ulicah"
+    },
+    {
+      "surface": "יתהוללו",
+      "gloss": "divjajo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vozovi"
+    },
+    {
+      "surface": "ישתקשקון",
+      "gloss": "križajo se"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "po širokih trgih"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "njihov videz"
+    },
+    {
+      "surface": "כלפידם",
+      "gloss": "kakor bakle"
+    },
+    {
+      "surface": "כברקים",
+      "gloss": "kakor strele"
+    },
+    {
+      "surface": "ירוצצו",
+      "gloss": "hitijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:29.082349766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבואהו \/ תרחק — čas",
+      "rationale": "oblika je preteklik (»prišla je«) ali želelnik (»naj pride«); večina prevodov bere kot želelnik."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קללה \/ ברכה",
+      "rationale": "nasprotje kletva—blagoslov v vzporednih členih."
+    }
+  ],
+  "translation": "In kdor je ljubil kletvo, ⟨naj⟩ mu pride ⟨nazaj⟩; in v blagoslovu ni imel veselja, ⟨naj⟩ se od njega oddalji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/17-20.1792435449447.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "in kdor je ljubil"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kletvo"
+    },
+    {
+      "surface": "ויבואהו",
+      "gloss": "⟨naj⟩ mu pride ⟨nazaj⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "imel veselja"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "v blagoslovu"
+    },
+    {
+      "surface": "וותרחק",
+      "gloss": "⟨naj⟩ se oddalji"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:09.447818904Z",
+  "model": "glm-5.3"
+}

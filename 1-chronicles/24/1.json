@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Hebrew lacks copula in the naming clause"
+    },
+    {
+      "kind": "measurement",
+      "subject": "četrtine",
+      "rationale": "priestly divisions enumerated; verse organizes by counted courses"
+    }
+  ],
+  "translation": "In za sinove Aharonove so bile njihove četrtine: sinje Aharonovi ⟨so bili⟩ Nadav in Avihu, Elazar in Itamar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2eba3e8651940b0bc165d42ef5f9ed31d3cecc1f37ae34e5e98849bc29af445f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/24\/1-4.1792438350527.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "in za sinove"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonove"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "njihove četrtine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "in Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "in Itamar"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:30.529897190Z",
+  "model": "glm-5.3"
+}

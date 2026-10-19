@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מזרח\/מבוא השמש",
+      "rationale": "dežela vzhajanja nasproti deželi vhoda (zahoda) sonca — prostorska simetrija vzhod–zahod."
+    },
+    {
+      "kind": "elision",
+      "subject": "הנני",
+      "rationale": "partikel הן + zaimkov končnica; predstavljeno kot 'glede, glej'"
+    }
+  ],
+  "translation": "Tako govori Jahve Cebaot: Glej, rešujem ⟨את⟩ svoje ljudstvo iz dežele vzhoda in iz dežele zahoda sonca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/8\/5-8.1792434384354.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Glede, glej"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "rešujem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ljudstvo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "vzhoda"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "in iz dežele"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "zahoda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sonca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:24.355709829Z",
+  "model": "glm-5.3"
+}

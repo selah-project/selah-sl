@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצרנו",
+      "rationale": "'Naša oblika\/naprava' (jecer) vs 'iz česar smo ustvarjeni' — KJV 'our frame'."
+    },
+    {
+      "kind": "addition",
+      "subject": "smo",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Kajti on pozna ⟨את⟩ svojko naravo našo, spominja se, da smo prah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/13-16.1792435335847.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "naša oblika"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "spominja se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "smo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:15.848352794Z",
+  "model": "glm-5.3"
+}

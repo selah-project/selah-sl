@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "trdega tilnika",
+      "rationale": "עם קשה ערף — dobesedno 'ljudstvo trdega tilnika (zatilja)', v slovenščini 'trdovratno'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "požrem",
+      "rationale": "אכלך iz koren כלה ('konec narediti, uničiti'), ne 'jesti'; dobesedno 'da te ne uničim'."
+    }
+  ],
+  "translation": "V deželo, ki teče z mlekom in medom, kajti ne bom šel gor sredi tebe, ker si trdega tilnika ljudstvo, da te ne požrem na poti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/33\/1-4.1792423760256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ki teče"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "z mlekom"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "in medom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "bom šel gor"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sredi tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "trdega"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tilnika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "te požrem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na poti"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:20.257797412Z",
+  "model": "glm-5.3"
+}

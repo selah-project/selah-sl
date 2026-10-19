@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 4:1",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "Dvojni hebrejski izraz za neimenovano osebo — 'tako-in-tako' — Boaz namenoma ne imenuje moža."
+    },
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "Slovenščina zahteva dajalnik pri 'rekel'; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אלמני",
+      "rationale": "Beseda אלמני se v Tanahu pojavi le tukaj in v 2 Sam 6,20 — nedoločena oseba brez imena."
+    }
+  ],
+  "translation": "Boaz pa je šel gor k vratom in sedeł ⟨je⟩ tam; in glej, odkupitelj je šel mimo, tisti, o katerem je govoril Boaz. In rekel ⟨je⟩ ⟨mu⟩: Pojdi stran, sedi sem, ti-tam-in-tam! In ⟨ta⟩ je šel stran in sedeł.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f9f10f41f90983eba33f5e91f718cbea656441d54503a322e36385173b5c96e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/1-4.1792436918224.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "je šel gor"
+    },
+    {
+      "surface": "השער",
+      "gloss": "k vratom"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in sedeł ⟨je⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "odkupitelj"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "je šel mimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tisti, o katerem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel ⟨je⟩ ⟨mu⟩"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "pojdi stran"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "sedi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ti-tam-in-tam"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "(tako-in-tako)"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "in ⟨ta⟩ je šel stran"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in sedeł"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:38.225543248Z",
+  "model": "glm-5.3"
+}

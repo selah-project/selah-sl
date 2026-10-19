@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sklenil zavezo",
+      "rationale": "karat berit, dobesedno 'rezati zavezo' — slovenščina 'skleniti'."
+    },
+    {
+      "kind": "elision",
+      "subject": "šam",
+      "rationale": "drugi šam ('kjer je') je kot glagolski ostanek izražen z 'je' v odvisnem stavku."
+    }
+  ],
+  "translation": "In postavil sem tja ⟨את⟩ skrinjo, v kateri je zaveza Jahveja, ki jo je sklenil z Jisraelovimi sinovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ddac39b2742e4b60f3e63695d812401c4c5001f1a04b1f6d40cb64a1b9bc4520",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/6\/9-12.1792438478550.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "in postavil sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrinjo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v kateri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "je"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zaveza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "je sklenil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:38.551942709Z",
+  "model": "glm-5.3"
+}

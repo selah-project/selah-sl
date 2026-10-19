@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kraljestva dežele",
+      "rationale": "verz nagovarja kraljestva z dvema imperativoma: pojte, prepevajte."
+    },
+    {
+      "kind": "you",
+      "subject": "kraljestva dežele",
+      "rationale": "neposreden nagovor ljudstev v množini."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbeni znak za premor, ostaja kot Sela brez prevoda."
+    }
+  ],
+  "translation": "Kraljestva dežele, pojte Elohimu, prepevajte Adonaju. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/33-36.1792435008449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljestva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "pojte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "prepevajte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:48.451092124Z",
+  "model": "glm-5.3"
+}

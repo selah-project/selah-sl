@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "אני »jaz« podpira refleksivni »si«, ki ga slovenščina potrebuje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל dobesedno »dih\/para«; puščeno kot hevel, ne »praznina«"
+    },
+    {
+      "kind": "you",
+      "subject": "govornik sam sebi",
+      "rationale": "Pogovor s srcem — neposreden nagovor"
+    }
+  ],
+  "translation": "Rekel sem ⟨si⟩ v svojem srcu: Hajde, preizkusim ⟨se⟩ z veseljem in poglej v dobro — in glej, tudi to je hevel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/1-4.1792437093567.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Rekel sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "v svojem srcu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Hajde"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "preizkusim ⟨se⟩"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "z veseljem"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "in poglej"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "v dobro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:33.568234852Z",
+  "model": "glm-5.3"
+}

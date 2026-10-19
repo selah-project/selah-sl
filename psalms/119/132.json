@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמשפט",
+      "rationale": "'Po (sodbi\/)pravu' — 'kakor je tvoja navada' (KJV\/JPS) proti dobesednemu 'po svoji pravi' (sodba kot ustaljeno pravilo)."
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahveja",
+      "rationale": "Neposreden nagovor Boga — prošnja usmiljenja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "navada",
+      "rationale": "משפט je 'sodba\/pravo'; tu pomeni ustaljen običaj ravnanja, zato 'navada'."
+    }
+  ],
+  "translation": "Obrni se k meni in mi bodi milostljiv, kakor ⟨je⟩ tvoja navada do tistih, ki ljubijo tvoje ime.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/129-132.1792435536287.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "obrni se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "in mi bodi milostljiv"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kakor tvoja navada"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "do tistih, ki ljubijo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:36.288730881Z",
+  "model": "glm-5.3"
+}

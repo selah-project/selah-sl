@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרמי שלי",
+      "rationale": "podvajanje 'moj vinograd, moj' — poudarek nasprotja Šelomovemu vinogradu; some read 'je na voljo mene' (BSW)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tisoč in dvesto",
+      "rationale": "številski razdeljen donosa med kralja in varuhe"
+    }
+  ],
+  "translation": "Moj vinograd, moj, je pred menoj: tisoč naj bo tvoj, Šelomo, in dvesto varuhom ⟨את⟩ njegovega sadja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/8\/9-12.1792436850556.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "moj vinograd"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "je pred menoj"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "in dvesto"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "varuhom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovega sadja"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "njegovega sadja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:30.559790296Z",
+  "model": "glm-5.3"
+}

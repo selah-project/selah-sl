@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דיש\/בציר\/זרע",
+      "rationale": "Verižna podoba letnega cikla — mlatve dosegajo trgatev, trgatev setev — blagostanje, ki nikoli ne preneha; ponovitev glagola השיג veže člen."
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרע",
+      "rationale": "Tukaj 'setev' (čas sejanja), ne 'seme' — vzporedno z 'mlatve' in 'trgatev' kot letni časi."
+    }
+  ],
+  "translation": "In mlatve vam bodo dosegale ⟨את⟩ trgatev, in trgatev bo dosegla ⟨את⟩ setev, in jedli boste svoj kruh do sitosti in prebivali varno v svoji deželi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/26\/5-8.1792424591375.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "in bodo dosegale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "mlatve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trgatev"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "trgatev"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "in trgatev"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "bo dosegla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setev"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "setev"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "in jedli boste"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "do sitosti"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "in prebivali boste"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "varno"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "v svoji deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:43:11.376609095Z",
+  "model": "glm-5.3"
+}

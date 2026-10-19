@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nominalni stavek brez kopule: עשו הוא אדום — 'Esav ta (je) Edom'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שעיר\/שער",
+      "rationale": "ime gore Seir se sliši kot 'seir' (kosmat), navezuje na Esavovo kosmatost (1 Mz 27,11)"
+    }
+  ],
+  "translation": "In Esav je prebival na gori Seir — Esav, ta je Edom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/36\/5-8.1792422651522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "In je prebival"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta je"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:51.523732121Z",
+  "model": "glm-5.3"
+}

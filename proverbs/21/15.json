@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola biti — nominalni stavek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naklepno hudo",
+      "rationale": "און pomeni 'ničevost, hagla, pakost' — ena beseda, več odtenkov"
+    }
+  ],
+  "translation": "Veselje ⟨je⟩ pravičnemu delati sodbo, uničenje ⟨pa⟩ tistim, ki delajo naklepno hudo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/13-16.1792436036977.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "Veselje"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pravičnemu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "delati"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "uničenje"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "tistim, ki delajo"
+    },
+    {
+      "surface": "און",
+      "gloss": "naklepno hudo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:56.979434920Z",
+  "model": "glm-5.3"
+}

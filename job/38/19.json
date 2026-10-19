@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "njen",
+      "rationale": "slovenščina potrebuje svojilni zaimek pri 'prostor', hebrejščina ima pripono -ו na samostalniku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "svetloba\/tema",
+      "rationale": "več kot antiteza: hebrejščina postavlja אור in חשך v vzporedne verige, svetloba ima pot, tema prostor — kozmična geografija"
+    }
+  ],
+  "translation": "Kje je pot, kjer prebiva svetloba — in tema, kje je njen prostor?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/38\/17-20.1792436731493.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "kje"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "kjer prebiva"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetloba"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "in tema"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kje"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "njen prostor"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:31.494857261Z",
+  "model": "glm-5.3"
+}

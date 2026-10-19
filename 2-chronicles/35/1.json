@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 35:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dneva",
+      "rationale": "Hebrejščina pravi le 'štirinajsti meseca prvega'; 'dan' je dodan za slovensko slovnico."
+    },
+    {
+      "kind": "measurement",
+      "subject": "štirinajstega v mesecu prvem",
+      "rationale": "Datum žrtvovanja je natančno določen."
+    },
+    {
+      "kind": "you",
+      "subject": "pesah",
+      "rationale": "Pesah se piše po hebrejskem zvoku, ker je tehnični izraz za praznik."
+    }
+  ],
+  "translation": "In storil je Jošijahu v Jerušalajimu pesah za Jahveja, in zaklali so pesah štirinajstega ⟨ dneva ⟩ v mesecu prvem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/35\/1-4.1792438953911.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In storil je"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijahu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "in zaklali so"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "štirinajstega"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "štirinajstega"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:33.911951696Z",
+  "model": "glm-5.3"
+}

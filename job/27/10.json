@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ali",
+      "rationale": "vprašalni 'im' zahteva slovensko vprašalnico"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naslajal",
+      "rationale": "יתענג je dobesedno 'biti mehak\/razkošen'; 'naslajati se' je blizu, a mehke telesnosti ni več"
+    }
+  ],
+  "translation": "Ali se bo naslajal nad Šadajem, ali bo klical Eloaha ob vsakem času?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "674c6db14c7ce9f8951ccd277c2f694bb54a8948ae3ce99b9e668777f6b616d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/9-12.1792436579365.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ali"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadajem"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "se bo naslajal"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bo klical"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloaha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ob vsakem"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:59.366515538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתו",
+      "rationale": "את z zaednim מ — v slovenščini se »od njega« zeže z ⟨את⟩, glagolska zveza je »vprašati pri njem«"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošafat kralju Jisraela",
+      "rationale": "neposreden naslov kralju Jisraela"
+    }
+  ],
+  "translation": "In rekel je Jehošafat: Ali ni tu še preroka za Jahve, da bi vprašali ⟨את⟩ njega?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/18\/5-8.1792438665785.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "preroka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "da bi vprašali"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ od njega",
+      "marks": " prerok, o katerem govori"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:45.786978145Z",
+  "model": "glm-5.3"
+}

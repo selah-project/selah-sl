@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמת מיין",
+      "rationale": "'žar vina' (ASV\/JPS) proti 'strup vina' (YLT) proti 'steklenice vina' (KJV); החלו je lahko 'zboleli' ali 'se oslabeli', in bolni so lahko knezi ali kralj."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Tukaj את ni oznaka tožilnika (H853), ampak predlog 'z' (H854): 'vleče svojo roko z posmehljivci'."
+    },
+    {
+      "kind": "crux",
+      "subject": "משך ידו",
+      "rationale": "'iztegnil je svojo roko' — ali skupaj s posmehljivci (zavezništvo) ali proti njim (nasilje)."
+    }
+  ],
+  "translation": "Dan našega kralja so se poglavarji naredili bolni od žara vina; razteguje svojo roko ⟨את⟩ ⟨s⟩ posmehljivci.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a24c437edf1bd670d9addc9e26ea4962e81d9bc325ba0f3cf69aa202b6eaa001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/7\/5-8.1792433821288.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "našega kralja"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "so se naredili bolni"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "poglavarji"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "žar"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "משך",
+      "gloss": "razteguje"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨s⟩",
+      "marks": "s posmehljivci"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "posmehljivci"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:01.290954347Z",
+  "model": "glm-5.3"
+}

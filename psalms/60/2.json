@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvanajst tisoč",
+      "rationale": "štetje padlih Edomcev v dolini Soli"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נהרים",
+      "rationale": "dvojina »dve reki« (Evfrat in Tigris) kot ime dežele Mezopotamije"
+    }
+  ],
+  "translation": "ko se je bojeval ⟨z⟩ ⟨את⟩ Aramom-Naharajim in ⟨z⟩ ⟨את⟩ Aramom-Covo, se je Joab vrnil in udaril ⟨את⟩ Edom v dolini Soli — dvanajst tisoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/1-4.1792434959119.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "ko se je bojeval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramom-Naharajim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "(dveh) rek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Aramom-Covo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "se je vrnil"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "in udaril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "v dolini"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Soli"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvanajst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(deset)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:59.121800311Z",
+  "model": "glm-5.3"
+}

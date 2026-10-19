@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula between Elohim and zatočišče"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperativi",
+      "rationale ": "Dvakratni imperativ (zaupajte, izlijte) nagovarja ljudstvo"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Glasbeni oznaki Sela ni bilo prevedeno"
+    }
+  ],
+  "translation": "Zaupajte vanj ob vsakem času, ljudstvo; izlijte pred njim svoja srca; Elohim je ⟨je⟩ zatočišče za nas. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/9-12.1792434998356.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Zaupajte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vanj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ob vsakem"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "izlijte"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svoja srca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "zatočišče"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "za nas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:38.357250815Z",
+  "model": "glm-5.3"
+}

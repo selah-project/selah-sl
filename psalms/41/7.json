@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨me⟩",
+      "rationale": "Hebrejščina ne izreka predmeta; slovenščina ga potrebuje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידבר … ידבר",
+      "rationale": "Ponovitev 'govori' na začetku in koncu verza obdaja zbiranje hudobije — v slovenščini ohranjeno z istim glagolom."
+    },
+    {
+      "kind": "elision",
+      "subject": "לחוץ",
+      "rationale": "'Na ulico\/zunaj' je stapljen v 'gre ven'; dvojno gibanje (vnoter–ven) ostane."
+    }
+  ],
+  "translation": "In če pride ⟨me⟩ videt, govori prevaro; njegovo srce zbida zase nagajivost; ko gre ven, govori ⟨jo⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/5-8.1792434818928.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "In če"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pride"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "videt"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "prevaro"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "njegovo srce"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "zbida"
+    },
+    {
+      "surface": "און",
+      "gloss": "nagajivost"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zase"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gre ven"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "govori"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:38.930366575Z",
+  "model": "glm-5.3"
+}

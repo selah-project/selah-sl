@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני פי מלך שמור",
+      "rationale": "sintaksa je lomljiva: 'jaz, usta kralja varuj' — mnogi berejo 'svetujem ti' (KJV) ali 'obljubljam' (tako jaz — jaz ⟨sem⟩ tisti, ki varuje), tretji pa 'vodnik tvoj ⟨je⟩ ⟨ta⟩.'"
+    },
+    {
+      "kind": "crux",
+      "subject": "דברת",
+      "rationale": "פ bug: redke besede; 'zaradi (prisega Elohim)'."
+    }
+  ],
+  "translation": "⟨Jaz⟩: usta kralja varuj, in glede na prisego Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/8\/1-4.1792437128889.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "varuj"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in glede na"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "glede"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "prisego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:08.890974149Z",
+  "model": "glm-5.3"
+}

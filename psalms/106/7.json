@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morje Suf",
+      "rationale": "ים סוף je 'morje trstičja'; ustaljeno 'Rdeče morje' je zamenjava, tu ohranjen hebrejski zvok Suf"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על ים בים סוף",
+      "rationale": "podvojenost 'morje … morje' poudarja kraj upora; vzorec je ohranjen"
+    }
+  ],
+  "translation": "Naši očetje v Micrajimu niso razumeli tvojih čudežev, niso se spomnili ⟨את⟩ množine svojih hesedov in so se uprli ob morju, pri morju Suf.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/5-8.1792435418748.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Naši očetje"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Micrajimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "niso razumeli"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvojih čudežev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "niso se spomnili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "množino"
+    },
+    {
+      "surface": "רב",
+      "gloss": "množino"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "svojih hesedov"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "in so se uprli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morju"
+    },
+    {
+      "surface": "בים",
+      "gloss": "pri morju"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:38.749812586Z",
+  "model": "glm-5.3"
+}

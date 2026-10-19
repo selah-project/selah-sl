@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משא",
+      "rationale": "'breme' (JPS) proti 'preroštvo\/orakelj' (KJV, ASV) — isti koren kot 'dvigati'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Slovenščina potrebuje predmet pri 'poučila'; hebrejščina ga ima v končnici."
+    }
+  ],
+  "translation": "Besede Lemuela, kralja: breme, s katerim ga je poučila njegova mati.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/31\/1-4.1792436206498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Besede"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "משא",
+      "gloss": "breme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ga je poučila"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "njegova mati"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:46.499555228Z",
+  "model": "glm-5.3"
+}

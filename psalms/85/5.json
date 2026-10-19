@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "prošnja Elohimu",
+      "rationale": "Vers je neposreden klic k Elohimu, ljudstvo prosi za vrnitev."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "כעס je dobesedno 'razdraženost, grenkost'; 'jezo' je najbližja slovenska beseda."
+    }
+  ],
+  "translation": "Povrni nas, Elohim rešitve naše, in razblini jezo svojo nad nami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/5-8.1792435174296.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Povrni nas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "rešitve naše"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "in razblini"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "jezo svojo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nad nami"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:34.297420334Z",
+  "model": "glm-5.3"
+}

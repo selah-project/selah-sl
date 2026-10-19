@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החר",
+      "rationale": "dovbesedno 'odprtina\/votlina'; prevodi se razhajajo: odprtina vrat, rešetka, ključavnica"
+    },
+    {
+      "kind": "substitution",
+      "subject": "notranjosti",
+      "rationale": "ומעי so dobesedno 'trebuh\/notranjosti' kot sedež čustev; KJV 'bowels', sodobni prevodi 'srce'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨vrat⟩",
+      "rationale": "slovenščina potrebuje dopolnitev, hebrejščina pusti החר brez določitve"
+    }
+  ],
+  "translation": "Moj ljubljeni je pomaknil svojo roko iz odprtine ⟨vrat⟩, in moje notranjosti so se vznemirile ⟨nad njim⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/5\/1-4.1792436891114.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Moj ljubljeni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "je pomaknil (poslal)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "החר",
+      "gloss": "odprtine"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "in moje notranjosti"
+    },
+    {
+      "surface": "המו",
+      "gloss": "so se vznemirile"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:11.119160420Z",
+  "model": "glm-5.3"
+}

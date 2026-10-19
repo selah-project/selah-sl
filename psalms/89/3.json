@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina ima končnico 1. osebe, slovenščina zahteva pomožni glagol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסед ostaja hesed po D2"
+    },
+    {
+      "kind": "crux",
+      "subject": "עולם חסד יבנה",
+      "rationale": "'na veke bo zgrajen hesed' ali 'hesed bo zgrajen za vekomaj' — בנה kot gradnja ali utrditev"
+    }
+  ],
+  "translation": "Kajti rekel ⟨sem⟩: na veke bo zgrajen hesed, ⟨v⟩ nebesih boš utrdil svojo zvestobo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3409fdd4636c99cf504f8bb3410abd2d46b4ca9083d4062b35a4785139511c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/2-3.1792439047498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rekel sem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bo zgrajen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesih"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "boš utrdil"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "svojo zvestobo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v njih"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:07.499676732Z",
+  "model": "glm-5.3"
+}

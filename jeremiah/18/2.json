@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Vstani in sidi",
+      "rationale": "Jahve neposredno nagovarja Jeremija z ukazoma."
+    },
+    {
+      "kind": "you",
+      "subject": "Vstani",
+      "rationale": "Neposreden nagovor Jahveja Jeremiju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lončar",
+      "rationale": "היוצר je deležnik 'oblikovalec'; slovenščina potrebuje samostalnik."
+    }
+  ],
+  "translation": "Vstani in sidi v hišo lončarja, in tam ti bom dal slišati ⟨את⟩ svoje besede.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "70b72f669050c089236245bd671e7a822fa671e64cba1a73f833ee9149d5d39a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/18\/1-4.1792431446212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Vstani"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "in sidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hišo"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "lončarja"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "in tam"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ti bom dal slišati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje besede"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "svoje besede"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:26.213392129Z",
+  "model": "glm-5.3"
+}

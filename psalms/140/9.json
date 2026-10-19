@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Psalmist se neposredno obrača na Jahveja s prošnjo (deprecativni אל)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpelji",
+      "rationale": "תפק iz הפיק pomeni dobesedno 'izvesti\/poskrbeti'; 'izpelji' ohranja pomen uspeha naklepa."
+    },
+    {
+      "kind": "addition",
+      "subject": "da se",
+      "rationale": "Hebrejščina navaja ירומו golo (jih bodo povzdignili) brez veznika namena."
+    }
+  ],
+  "translation": "Ne daj, Jahve, želja hudobneža; njegovega naklepa ne izpelji, ⟨da se⟩ ne povzdignejo. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/140\/9-12.1792435709205.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "želja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hudobneža"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "njegovega naklepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "izpelji"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "povzdignejo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:29.206363310Z",
+  "model": "glm-5.3"
+}

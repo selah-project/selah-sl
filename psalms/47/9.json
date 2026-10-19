@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik, hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Elohim … Elohim",
+      "rationale": "Podvojenost Imena v stavku — ponovitev poudarja vladarski par: kraljuje \/ sede."
+    }
+  ],
+  "translation": "Kraljuje Elohim nad narodi, Elohim je sede⟨l⟩ na prestol svoje svetosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cdf1c7bfa7a6d88c56939cd2a2fd8ef6e560d347d67c36d08b2408182d00591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/47\/9-10.1792434860847.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "je sede⟨l⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prestol"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svoje svetosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:20.848318104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ארשע",
+      "rationale": "glagol 'biti kriv\/ravnati krivično' preveden s pridevniško zvezo 'sem kriv'"
+    },
+    {
+      "kind": "crux",
+      "subject": "על דעתך",
+      "rationale": "dobesedno 'po tvojem znanju\/vedenju' — vprašalni 'čeprav veš' (KJV\/ASV) ali pogojni 'po tvojem védenju'"
+    }
+  ],
+  "translation": "čeprav veš, da nisem kriv, in ni rešitelja iz tvoje roke?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/10\/5-8.1792436302178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "čeprav"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "veš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "sem kriv"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz tvoje roke"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "rešitelja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:22.179554949Z",
+  "model": "glm-5.3"
+}

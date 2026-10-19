@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולב אין",
+      "rationale": "dvojno branje: »ČEPRAV srca ni« (pogoj — KJV, JPS) ali »in srca ni« (prosta ugotovitev — YLT); ו lahko pomeni oboje."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨namenjena⟩",
+      "rationale": "slovenščina potrebuje oznako namena zaל infinitiv לקנות, hebrejščina ga izraža s predlogom sam."
+    }
+  ],
+  "translation": "Zakaj je to cena v roki neumneža, ⟨namenjena⟩ kupovanju modrosti, ČEPRAV srca ni?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/17\/13-16.1792435989250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "cena"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roki"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "neumneža"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "kupovanju"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrosti"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "in srca"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:09.253028419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kanaan",
+      "rationale": "כנען je ime dežele, a pomeni tudi 'trgovec' (KJV 'merchant', YLT 'Canaan') — ohranjeno ime, ne vloga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tehte",
+      "rationale": "מאזני je dvojina — 'para tehtnic'; slovenščina dvojine predmeta ne nosi."
+    }
+  ],
+  "translation": "Kanaan — v njegovi roki so tehte prevarе; tlačiti ljubi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/12\/5-8.1792433889569.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v njegovi roki"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "tehte"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevarе"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "tlačiti"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:09.572733645Z",
+  "model": "glm-5.3"
+}

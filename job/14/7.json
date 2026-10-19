@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 14:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "upanje",
+      "rationale": "תקוה je dobesedno vrv\/konop — pričakovanje kot vrv, na katero je Drevo privezano."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחליף",
+      "rationale": "'pomladi se\/spet požene' — dobesedno 'zamenja, preide v novo'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨spet⟩",
+      "rationale": "veza ועוד pomeni iteracijo — dodano za slovenski tok."
+    }
+  ],
+  "translation": "Kajti za drevo ⟨je⟩ upanje: če je posekano, se ⟨spet⟩ obnovi, in njegove mladike ne prenehajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/14\/5-8.1792436364766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "za drevo"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "upanje"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "je posekano"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "se spet"
+    },
+    {
+      "surface": "יחליף",
+      "gloss": "obnovi"
+    },
+    {
+      "surface": "וינקתו",
+      "gloss": "in njegove mladike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "prenehajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:24.767994379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "subject pronoun supplied; Hebrew verb only"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגרע",
+      "rationale": "'he diminishes\/withholds' (KJV) vs 'he draws up' (ASV) — same verb, opposite pictures of the water cycle"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אדו",
+      "rationale": "word for vapor\/mist rare; cloud-imagery of the verse"
+    }
+  ],
+  "translation": "Kajti ⟨on⟩ odvzema kapljice vode, dež se steka v meglo njegovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d0e647d59e2a844a09e99bb31d08222085fe8af42eb0c519d346a2c21dfc3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/25-28.1792436715480.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "odvzema"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "kapljice"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "se steka"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "dež"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "v megli njegovi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:15.481310860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת היענה",
+      "rationale": "dobesedno 'hči jaunce' (noj); hebrejščina imenuje noja po njegovem klicu."
+    },
+    {
+      "kind": "crux",
+      "subject": "התחמס",
+      "rationale": "neznana ptica — 'norič' (KJV), 'nočna sova' (JPS), morda ujeda; pomen negotov."
+    },
+    {
+      "kind": "crux",
+      "subject": "השחף",
+      "rationale": "'galeb' po tenkosti; KJV 'kukavica', JPS\/ASV 'galeb'."
+    }
+  ],
+  "translation": "in ⟨את⟩ hčer noja, in ⟨את⟩ nočno sovo, in ⟨את⟩ galeba, in ⟨את⟩ jastriba po njegovi vrsti;",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "215bedf6efaa4642ae3d24bf99ce14d3bdd77ee434f4b4d92e9e4cb5fa93745e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/14-16.1792433273796.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "hčer noja"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčer"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "noja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "nočno sovo"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "nočna sova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "galeba"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "galeb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "jastriba"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "jastreb"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po njegovi vrsti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:53.799218649Z",
+  "model": "glm-5.3"
+}

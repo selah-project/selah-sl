@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 14:14",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne 'duša' v poznejšem smislu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨smo⟩",
+      "rationale": "Hebrejščina brez kopule."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא ישא אלהים נפש",
+      "rationale": "KJV 'ne upošteva osebe' (nasa panim) vs ASV 'ne odvzame življenja'; dobesedno 'ne nosi (proč) duše'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מחשבות",
+      "rationale": "Namesto 'poti' dobesedno 'načrti\/promislek' — Elohim izmislí načrte."
+    }
+  ],
+  "translation": "Saj moramo umreti in ⟨smo⟩ kakor voda, izlita na tla, ki se ne more zbrati; in Elohim ne odvzame duše, ampak izmislí poti, da pregnanec ne bo od njega pregnan.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/14\/13-16.1792428404339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "מות",
+      "gloss": "moramo"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "umreti"
+    },
+    {
+      "surface": "וכמים",
+      "gloss": "in kakor voda"
+    },
+    {
+      "surface": "הנגרים",
+      "gloss": "izlita"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na tla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "se zbrati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "odvzame"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "ampak izmislí"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "poti"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ידח",
+      "gloss": "bo pregnan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "נדח",
+      "gloss": "pregnanec"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:44.339987920Z",
+  "model": "glm-5.3"
+}

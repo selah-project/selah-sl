@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "te bom",
+      "rationale": "Hebrejščina ima kohortativ 1. os. ed. brez izrazitega zaimka; slovenščina potrebuje osebek"
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalam",
+      "rationale": "Uvorna hvalnica, neposreden nagovor Eloaha kot kralja"
+    }
+  ],
+  "translation": "Hvalnica Davidova. Povzdigoval te bom, moj Eloah, kralj, in blagoslavljal tvoje ime na veke in do vedno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/1-4.1792435722266.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Hvalnica"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Povzdigoval te bom"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "moj Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "in blagoslavljal"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do vedno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:42.267490704Z",
+  "model": "glm-5.3"
+}

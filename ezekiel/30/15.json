@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vrelo jezo",
+      "rationale": "חמה dobesedno 'vročina, vročekrvnost' — slika vročine, ne abstraktna jeza"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המון \/ נא",
+      "rationale": "'hreščeča množica' No (Tebe) — המון nosi tako 'množico' kot 'hrup', kar se v prevodu izgubi"
+    }
+  ],
+  "translation": "In izlil bom svojo vrelo jezo nad Sin, trdnjavo Micrajima, in odrezal bom ⟨את⟩ množico No.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5c783689e46755e80be6428b5733412df1cc63e8348a3215f4c61a99059e01cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/30\/13-16.1792432522455.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "in izlil bom"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "svojo vrelo jezo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "trdnjavo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "in odrezal bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "množico No"
+    },
+    {
+      "surface": "המון",
+      "gloss": "množico"
+    },
+    {
+      "surface": "נא",
+      "gloss": "No"
+    }
+  ],
+  "timestamp": "2026-10-19T17:55:22.456356256Z",
+  "model": "glm-5.3"
+}

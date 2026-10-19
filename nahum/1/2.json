@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקם",
+      "rationale": "Trojna ponovitev korena נקם v enem verzu — naraščajoči ritem maščevanja."
+    },
+    {
+      "kind": "idiom",
+      "subject": "קנוא",
+      "rationale": "Dobesedno 'zapuhel\/ljubosumen'; prevod 'ljubi sumničenje' ohranja intenzivno pretiršanje hebrejščine."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונוטר הוא",
+      "rationale": "Natar = 'varuje\/shranjuje' (zamero); dobesedno 'varuje', ne 'odpušča'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je\/on",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga v nominalnem stavku nima."
+    }
+  ],
+  "translation": "El, ki ljubi sumničenje in se maščuje, ⟨je⟩ Jahve; Jahve se maščuje in ⟨je⟩ gospodar jeze; Jahve se maščuje svojim nasprotnikom in ⟨on⟩ varuje zamero svojim sovražnikom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/1\/1-4.1792434237942.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "ljubi sumničenje"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "in se maščuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "se maščuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "in ⟨je⟩ gospodar"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "jeze"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "se maščuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "svojim nasprotnikom"
+    },
+    {
+      "surface": "ונוטר",
+      "gloss": "in varuje zamero"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "svojim sovražnikom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:57.945378671Z",
+  "model": "glm-5.3"
+}

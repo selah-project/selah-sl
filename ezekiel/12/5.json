@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "skozi \/ skoznjega",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ima samo ה v zidu\/v njem"
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekielu",
+      "rationale": "ukaz v drugi osebi ednine, naslovljen prerok"
+    }
+  ],
+  "translation": "Pred njihovimi očmi si prebij ⟨zase⟩ ⟨skozi⟩ zid in iznesi ⟨skoznjega⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7eb8a7a037712a4f877640cf9c30a07eeaa2d8d50762e5bf3667f4805bdce533",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/12\/5-8.1792432180164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "pred njihovimi očmi"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "prebij"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨zase⟩"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "⟨skozi⟩ zid"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "in iznesi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨skoznjega⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T17:49:40.165146478Z",
+  "model": "glm-5.3"
+}

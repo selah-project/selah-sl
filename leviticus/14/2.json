@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mocávan",
+      "rationale": "המצרע je 'tisti z מצרע (izpuščaji\/kožna bolezen)', ne nujno goba"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨in⟩",
+      "rationale": "hebrejščina podaja vav-sklad brez veznika v slovenščini"
+    }
+  ],
+  "translation": "To bo Tora za ⟨את⟩-mocávanega na dan njegove očiščenja: ⟨in⟩ pripeljan bo k duhovniku.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/14\/1-4.1792424246489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "To"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "za mocávanega"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "njegovega očiščenja"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "pripeljan bo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovniku"
+    }
+  ],
+  "timestamp": "2026-10-19T15:37:26.490415949Z",
+  "model": "glm-5.3"
+}

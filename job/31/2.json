@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 31:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bi bil dolguje",
+      "rationale": "hebrejščina je nominalni vprašalni stavek brez glagola; dodan slovenski predikat"
+    },
+    {
+      "kind": "crux",
+      "subject": "job 31:2",
+      "rationale": "'kakšen delež ima od Eloah' (kaj čaka prešuštnega) ali 'kakšen delež pripada Eloahu'; večina bere prvo"
+    }
+  ],
+  "translation": "Kaj namreč ⟨bi⟩ ⟨bil⟩ delež Eloah ⟨dolguje⟩ od zgoraj, in dediščina Šadaja iz višav?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b5ac2bfc9d09541da6be469023606aef4302fad1a3253832f911418c0059726f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/1-4.1792436668076.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "kaj namreč"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "delež"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "od zgoraj"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "in dediščina"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaja"
+    },
+    {
+      "surface": "ממרמים",
+      "gloss": "iz višav"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:28.078354879Z",
+  "model": "glm-5.3"
+}

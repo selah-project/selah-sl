@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נרדף",
+      "rationale": "pretlk 'kar je preganjano' (kar je minilo, dobesedno 'za-njim-potegnjeno'); KJV 'kar je minilo', JPS 'kar je preganjano', BSB 'pokliče na odgovornost'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבר הוא \/ כבר היה",
+      "rationale": "zrcalna struktura 'že je \/ je že bilo' — ponovitev בהיה\/היה drži verz skupaj"
+    }
+  ],
+  "translation": "Kar je bilo, je že zdaj, in kar bo, je že bilo; in Elohim išče ⟨את⟩ preganjano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/3\/13-16.1792437081011.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kar"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "že"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in kar"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "že"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "išče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "preganjano"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "preganjano"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:21.013070806Z",
+  "model": "glm-5.3"
+}

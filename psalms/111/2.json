@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima glagola biti v tem stavku, slovenščina ga zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "raziskana",
+      "rationale": "דרושים: pasivni deležnik »iskana\/raziskana« – prevodi se razhajajo med »raziskovati jih morajo vsi« (imperativni odtenek) in opisom »so raziskana«"
+    }
+  ],
+  "translation": "Velika so dela Jahveja, raziskana ⟨so⟩ vsem, ki si jih želijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/111\/1-4.1792435440082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Velika"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "raziskana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "ki si jih želijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:00.082934025Z",
+  "model": "glm-5.3"
+}

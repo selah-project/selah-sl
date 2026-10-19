@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "temveč",
+      "rationale": "nasprotje med vav-konsekutivom in prejšnjim ne-je izraženo s protivnim veznikom, ki ga hebrejščina izpričuje s samim zaporedjem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הארון",
+      "rationale": "skrinja (zaveze) — heb. dobesedno 'škatla'"
+    }
+  ],
+  "translation": "David pa ni odnesel ⟨את⟩ skrinje k sebi v Davidovo mesto, temveč jo je usmeril h domu Obed-Edoma Gatca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/13\/13-14.1792438213756.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "je odnesel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrinje"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "skrinje"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k sebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "temveč jo je usmeril"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gatca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:13.757346438Z",
+  "model": "glm-5.3"
+}

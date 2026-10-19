@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זֻלּוּת",
+      "rationale": "Hapax; rabinsko izročilo in moderne razlage: 'nizkost\/1podlost' (od זלל, zaničevati) proti Strongovi 'viharna vihra'; KJV bere 'najodvratnejši možje'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זֻלּוּת",
+      "rationale": "Beseda se v Tanahu pojavi samo tu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כְּרֻם",
+      "rationale": "Infinitiv 'biti povzdignjen' preveden s glagolsko obliko; KJV bere pogojno ('ko so povzdignjeni'), YLT vzročno ('saj je')."
+    }
+  ],
+  "translation": "Na vse strani hudobneži hodijo naokrog, ko je nizkost povzdignjena med sinovi človeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b2778bfa2d03ee89d0f960057d56dd703d5cd57a8b8b89b82e2c82745f85fc0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/12\/9-9.1792434561465.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "na vse strani"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobneži"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "hodijo naokrog"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "je povzdignjena"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "nizkost"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "med sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:21.465899154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nemira",
+      "rationale": "רגז je notranje premikanje, vznemirjenje, nemir — ne zunanja 'nadloga', kot v starih prevodih."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sit nemira",
+      "rationale": "שבע 'nasičen' z rodilnikom — hebrejska merilna zveza, po slovensko z rodilnikom."
+    }
+  ],
+  "translation": "Človek, rojen iz žene, je kratek dnevov in sit nemira.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/14\/1-4.1792436361234.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Človek"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "rojen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iz žene"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kratek"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnevov"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "in sit"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "nemira"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:21.234539139Z",
+  "model": "glm-5.3"
+}

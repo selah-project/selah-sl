@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהלל",
+      "rationale": "dve beritvi: 'Hvaljenega kličem: Jahve' (JPS) ali 'kličem Jahveja, ki je hvaljenja vreden' (KJV)"
+    },
+    {
+      "kind": "you",
+      "subject": "David Jahveju",
+      "rationale": "neposreden klic Imenu"
+    }
+  ],
+  "translation": "Hvaljenega kličem — Jahveja, in pred svojimi sovražniki sem rešen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/1-4.1792434574094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "hvaljenega"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kličem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "svoje sovražnike"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "sem rešen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:34.138363921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיבם",
+      "rationale": "Infinitivus absolutus pred glagolom — dobesedno 'vrni vrniš jih', poudarjena zapoved."
+    },
+    {
+      "kind": "crux",
+      "subject": "נדחים",
+      "rationale": "'Zblodena\/odrnjena' — KJV 'go astray' (samostojno blodenje) proti YLT\/JPS 'driven away' (odrnjeno od koga)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שור",
+      "gloss-trap": "",
+      "rationale": "שור je vol\/govedo, ne 'bik' nasploh."
+    }
+  ],
+  "translation": "Ne smeš videti ⟨את⟩ goveda svojega brata ali ⟨את⟩ njegovega jagnjeta zblodena in se skriti pred njima; vrni jih zagotovo svojemu bratu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/22\/1-4.1792426100599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "videti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goveda"
+    },
+    {
+      "surface": "שור",
+      "gloss": "govedo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovega jagnjeta"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "njegovega jagnjeta"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "zblodena"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "in se skriti"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "pred njima"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vrni"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "jih zagotovo vrni"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "svojemu bratu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:08:20.599857183Z",
+  "model": "glm-5.3"
+}

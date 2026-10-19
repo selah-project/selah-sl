@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידבר",
+      "rationale": "‘podvrguje\/subdues’ (po aramejskem pomenu) dobesedno ‘govori\/vodi’ — YLT ima ‘vodí’"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמים\/לאמים",
+      "rationale": "paronomazija עמים–לאמים (ljudstva–narodi), zvočna bližina izgubljena v slovenščini"
+    }
+  ],
+  "translation": "Podvrguje ljudstva pod nas in narode pod naše stopala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/47\/1-4.1792434890722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Podvrguje"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "pod nas"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "in narode"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "naše stopala"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:50.725143577Z",
+  "model": "glm-5.3"
+}

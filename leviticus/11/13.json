@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפרס",
+      "rationale": "brkati jastreb (lammergeier) vs. 'peres' kot razparovalec; ista beseda pomeni tudi 'pazarec'."
+    },
+    {
+      "kind": "crux",
+      "subject": "העזניה",
+      "rationale": "ribji orel (osprey) po moči leta; drugi brajo morski orel."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez veznika 'so' — dopolnjeno v slovenščino."
+    }
+  ],
+  "translation": "In te ⟨boste⟩ v gnusobi ⟨את⟩ imeli med pticami; naj se ne jejo, gnusoba so: ⟨את⟩ orel, ⟨את⟩ brkati jastreb in ⟨את⟩ ribji orel.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/13-16.1792424099649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "boste v gnusobi imeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "med"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "pticami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "naj se jejo"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orel"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "orel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "brkati jastreb"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "brkati jastreb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "ribji orel"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ribji orel"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:59.649537835Z",
+  "model": "glm-5.3"
+}

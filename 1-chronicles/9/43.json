@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez copule; brez glagola samo imena in 'njegov sin'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "nadaljevanje rodovnika"
+    }
+  ],
+  "translation": "In Moca je rodil ⟨את⟩ Bineo; Refaja ⟨je⟩ njegov sin, Elasa ⟨je⟩ njegov sin, Asel ⟨je⟩ njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6f26c4d4fa1a56ff88dfa22b6832edce7ca43134197451ffe4a42413d12fcb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/9\/41-44.1792438191304.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "In Moca"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bineo"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Bineo"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "Refaja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Asel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:51.314983409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne »duša« v poznejšem pomenu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנם … חנם",
+      "rationale": "ponovitev »zastonj« v istem verzu — poudarek neupravičenosti"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחת רשתם",
+      "rationale": "sintaksa dvoumna: »jamo z mrežo« (ena past) ali ločeno »jamo, svojo mrežo«"
+    }
+  ],
+  "translation": "Ker zastonj so mi zakopali jamo, ⟨s⟩ svojo mrežo; zastonj so kopali ⟨za⟩ mojo nefes.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/5-8.1792434755783.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zastonj"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "so zakopali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jamo"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "njihova mreža"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zastonj"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "so kopali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "za mojo nefes"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:35.785281992Z",
+  "model": "glm-5.3"
+}

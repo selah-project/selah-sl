@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "starši",
+      "rationale": "הזקנים dobesedno 'stari', tu v pomenu 'starešine'; izbrana slovenska beseda starešine\/starši."
+    },
+    {
+      "kind": "addition",
+      "subject": "jim",
+      "gloss": "hebrejščina ima samo pripone v ויענם, slovenščina potrebuje ločeno besedo."
+    }
+  ],
+  "translation": "In kralj jim je odgovoril ostro, in kralj Rehavam je zapustil ⟨את⟩ svet staršev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/10\/13-16.1792438574908.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "in odgovoril jim je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ostro"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "in zapustil je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svet staršev"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "svet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starši"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:14.909327121Z",
+  "model": "glm-5.3"
+}

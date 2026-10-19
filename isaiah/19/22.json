@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נגף\/רפוא",
+      "rationale": "nasprotje udaril–ozdravil ponovljeno dvakrat; paradoks ranjenja in zdravljenja v enem stavku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "uslišal",
+      "rationale": "נעתrr pomeni 'dihati s kadilom \/ posredovati'; tukaj 'uslišati prošnjo'"
+    }
+  ],
+  "translation": "In Jahve bo udaril ⟨את⟩ Micrajim — udaril in ozdravil; vrnili se bodo k Jahveju, on jih bo uslišal in jih ozdravil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/19\/21-24.1792430196144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "udaril bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "udaril"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "in ozdravil"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "vrnili se bodo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "uslišal bo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jih"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "in jih ozdravil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:16:36.144866394Z",
+  "model": "glm-5.3"
+}

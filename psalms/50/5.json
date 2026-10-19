@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרתי בריתי",
+      "rationale": "כרת (rezati) + ברית (zaveza): zaveza se dobesedno 'reže', ker je nastala s prehodom med razrezanimi kosi; slovenščina 'skleniti zavezo' sliko rezanja izgubi."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי זבח",
+      "rationale": "'nad\/ob žrtviji' — ali 'z žrtvijo (kot sredstvom sklenitve)' (KJV) ali 'nad žrtvijo (kot pričo)' (YLT)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "אספו",
+      "rationale": "Vez 'Zberite!' je vabilo-s Viktor k zvestim, naslavlja可比 nebesa in zemljo iz v. 4."
+    }
+  ],
+  "translation": "Zberite mi moje zveste, ki so rezali mojo zavezo ⟨ob⟩ žrtviji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/5-8.1792434879286.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Zberite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "moje zveste"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ki so rezali"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mojo zavezo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ob⟩"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtviji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:39.287233153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סס",
+      "rationale": "molj — beseda se v Tanahu pojavi samo tukaj."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עש \/ סס",
+      "rationale": "dve besedi za molja v vzporednici; סס je zvočna beseda (okretrost muhe), v slovenščini se dvojnost zgubi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה po D2 ostaja cedek, ne »pravičnost«."
+    }
+  ],
+  "translation": "Kajti kakor oblačilo jih bo pojedla vešča in kakor volno jih bo pojedel molj; moj cedek pa bo vekomaj in moja rešitev iz roda v rodove.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/51\/5-8.1792430828338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kakor oblačilo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "jih bo pojedla"
+    },
+    {
+      "surface": "עש",
+      "gloss": "vešča"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "in kakor volno"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "jih bo pojedel"
+    },
+    {
+      "surface": "סס",
+      "gloss": "molj"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "moj cedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "moja rešitev"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "iz roda"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "v rodove"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:08.340052865Z",
+  "model": "glm-5.3"
+}

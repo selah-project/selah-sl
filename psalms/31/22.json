@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj bo⟩",
+      "rationale": "hebrejščina ima samoברוך (blagoslovljen), brez glagola."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד je hesed, ne 'ljubeča dobrota' ali 'milost' sama."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעיר מצור",
+      "rationale": "'v mestu obleganja' (mangoצור kot nasip\/najezdnikov obroč) — KJV 'strong city' bere מצור kot 'utrdba'."
+    }
+  ],
+  "translation": "Blagoslovljen ⟨naj bo⟩ Jahve, kajti čudovito je pokazal svoj hesed meni v mestu obleganja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7c2ac757e14069e2a4acd5d820ebda04241ba52f5155d71d95b78f5c7a1a87d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/31\/21-22.1792439002754.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "čudovito je pokazal"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "obleganja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:22.755673846Z",
+  "model": "glm-5.3"
+}

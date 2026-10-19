@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sam⟩",
+      "rationale": "גם אני je dobesedno 'tudi jaz'; 'sam' dodan, ker slovenščina brez njega ne zveni."
+    },
+    {
+      "kind": "you",
+      "subject": "do sina",
+      "rationale": "Neposreden nagovor 'sin moj' — značilni uvod poučevalca v Pregovorih."
+    }
+  ],
+  "translation": "Sin moj, če je tvoje srce modro, veseli se bo moje srce, tudi jaz ⟨sam⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/13-16.1792436062869.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sin moj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "modro"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvoje srce"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "veseli se bo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz ⟨sam⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:22.870399874Z",
+  "model": "glm-5.3"
+}

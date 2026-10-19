@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina izpušča glagol biti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יחדו",
+      "rationale": "'skupaj' kot prislov: sodbe so pravične vse naenkrat"
+    }
+  ],
+  "translation": "Strah pred Jahvejem je čist, stoji za vedno; sodbe Jahveja so resnične, vse skupaj pravične.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/19\/9-12.1792434629324.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "strah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "je čist"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sodbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "so resnične"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "pravične"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "vse skupaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:29.326393015Z",
+  "model": "glm-5.3"
+}

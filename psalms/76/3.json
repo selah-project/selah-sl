@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sok",
+      "rationale": "סֹךְ je iz prepletenih vej spletena koliba ali brlog, ne 'šotor'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Šalem\/šalom",
+      "rationale": "שלם zveni kot 'mir'; prisotnost Elohim v 'mestu miru'"
+    }
+  ],
+  "translation": "In bil je v Šalemu njegov sok, njegova bivališča v Cionu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/76\/1-4.1792435105303.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In bil je"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "v Šalemu"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "njegov sok"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "njegova bivališča"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "v Cionu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:25.304743109Z",
+  "model": "glm-5.3"
+}

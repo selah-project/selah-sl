@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogov",
+      "rationale": "אלהים אחרים: o bogovih narodov piše Elohim z malo — bogovi, ne Elohim"
+    },
+    {
+      "kind": "addition",
+      "subject": "tako",
+      "rationale": "ויהי כי je uvodna formula, dodano »tako« za slovenski tekom"
+    }
+  ],
+  "translation": "In bilo je tako, ker so grešili sinovi Jisraela proti Jahveju, svojemu Elohimu, ki jih je dvignil ⟨את⟩ iz dežele Micrajima, izpod roke Faraona, kralja Micrajima, in so se bali drugih bogov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/17\/5-8.1792429715780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in bilo je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tako, ker"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "so grešili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "proti Jahveju"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svojemu Elohimu"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ki je dvignil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "izpod"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roke"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "in so se bali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogov"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:08:35.781951948Z",
+  "model": "glm-5.3"
+}

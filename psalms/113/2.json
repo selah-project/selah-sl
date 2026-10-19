@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "od zdaj in do vekomaj",
+      "rationale": "מעתה ועד עולם — dobesedno 'od te (točke) do skritega (vidnega obzorja)'; עולם iz korena 'biti skrito'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina za ta Desired vzdiguje pomožnik; hebrejščina ima samo jussiv יהי 'bodi'"
+    }
+  ],
+  "translation": "Bodibo ⟨je⟩ blagoslovljeno ime Jahveja od zdaj in do vekomaj!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/113\/1-4.1792435446706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "blagoslovljeno"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od zdaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:06.707245761Z",
+  "model": "glm-5.3"
+}

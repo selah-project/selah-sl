@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רשפי קשת",
+      "rationale": "dosedanje razlage: 'žareče puščice loka' ali 'bliski\/strele loka' — רשף je žareča kovina, blisk, puščica"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "סלה ostaja po zvoku; glasbenioznačevalni znamenj, ne prevaja se"
+    }
+  ],
+  "translation": "Tam je stresel\/bliskе loka, ščit in meč in vojno. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/76\/1-4.1792435105303.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "je stresel\/bliskе"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "bliskе"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "loka"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ščit"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "in meč"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "in vojno"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:25.304929112Z",
+  "model": "glm-5.3"
+}

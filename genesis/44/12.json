@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 44:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "najstarejši\/najmlajši",
+      "rationale": "hebrejščina pravi dobesedno 'pri velikem in pri malem' — starost po velikosti\/starševski hierarhiji"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החל \/ כלה",
+      "rationale": "hiiazem začel-končal oklepa red iskanja od najstarejšega do najmlajšega"
+    }
+  ],
+  "translation": "In iskal je: pri najstarejšem je začel in pri najmlajšem končal, in najdena je bila čaša v vreči Binjamina.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/44\/9-12.1792422842955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחפש",
+      "gloss": "in iskal je"
+    },
+    {
+      "surface": "בגדול",
+      "gloss": "pri najstarejšem"
+    },
+    {
+      "surface": "החל",
+      "gloss": "je začel"
+    },
+    {
+      "surface": "ובקטן",
+      "gloss": "in pri najmlajšem"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "končal"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "in najdena je bila"
+    },
+    {
+      "surface": "הגביע",
+      "gloss": "čaša"
+    },
+    {
+      "surface": "באמתחת",
+      "gloss": "v vreči"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    }
+  ],
+  "timestamp": "2026-10-19T15:14:02.956684992Z",
+  "model": "glm-5.3"
+}

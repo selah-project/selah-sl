@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩",
+      "rationale": "slovenščina potrebuje predlog; hebrejščina ima samo stavek ב- v Šušan-trdnjavi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nominalni stavek brez kopule"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogija",
+      "rationale": "štiri člene rodovnika: Mordehaj–Jair–Šimi–Kiš"
+    }
+  ],
+  "translation": "Mož judovski je bil v Šušanu, ⟨v⟩ trdnjavi, in njegovo ime ⟨je⟩ Mordehaj, sin Jairja, sin Šimija, sin Kiša, Benjaminčan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89b2eb1fd88fcb2017c4cb8b0e1773aa292f2ea0e2d4fc01de471c62c9b9153e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/5-8.1792437248464.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mož"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "judovski"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šušanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "trdnjavi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "in njegovo ime"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jairja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiša"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjaminčan"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:08.466547845Z",
+  "model": "glm-5.3"
+}

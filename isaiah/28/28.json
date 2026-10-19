@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחם יודק",
+      "rationale": "vprašalno 'Ali se drobí krušno žito?' (JPS) ali trditveno 'se drobí' (KJV); veje odvisne od vokalizacije"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krušno žito",
+      "rationale": "לחם je 'kruh\/žito'; 'žito za kruh' ohranja sliko"
+    },
+    {
+      "kind": "alternative",
+      "subject": "konji",
+      "rationale": "פרשים je lahko 'konji' ali 'konjeniki'; pri mlatilu z vozom so verjetneje vprežni konji"
+    },
+    {
+      "kind": "elision",
+      "subject": "ידושנו",
+      "rationale": "ponovljen glagol 'mlati' se v slovenščini podvajal; prepuščeno glagolu אדוש"
+    }
+  ],
+  "translation": "Krušno žito se drobí, kajti ne vekomaj ga bo mlatil, in kolo njegovega voza ter njegovi konji ga ne bodo drobili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7326f4f7a557220ac5d122042c1a5a21e3c43f79efe0b3499479111301ece267",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/28\/26-28.1792433430382.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "krušno žito"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "se drobí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "bo mlatil"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "ter"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "kolo"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "njegovega voza"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "in njegovi konji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "bodo drobili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:30.384637358Z",
+  "model": "glm-5.3"
+}

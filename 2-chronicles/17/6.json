@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "srce povzdignjeno",
+      "rationale": "גבה לב povsod drugje pomeni ošabnost; tu v dobrotesterpih poteh Jahveja — vznosiljenost v dobro."
+    },
+    {
+      "kind": "crux",
+      "subject": "višave",
+      "rationale": "2 Kron 20,33 pravi, da višav ni odstranil — usklajevanje med mestoma je znana težava."
+    }
+  ],
+  "translation": "In njegovo srce je bilo povzdignjeno v poteh Jahvejevih, in še odstranil je ⟨את⟩ višave in ⟨את⟩ ašere iz Jude.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a52d366876a78ef456d9b44a2639baa113a846f33faa3122ead21bab2ad393b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/17\/5-8.1792438651611.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "in povzdignjeno"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "njegovo srce"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "v poteh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejevih"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "in še"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odstranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "višave"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "višave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ašere"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašere"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "iz Jude"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:31.612785162Z",
+  "model": "glm-5.3"
+}

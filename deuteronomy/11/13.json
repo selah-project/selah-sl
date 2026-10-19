@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne nesmrtna duša"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩ ⟨tako⟩",
+      "rationale": "hebrejščina nima glagola biti v והיה; slovenščina ga zahteva"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמע תשמעו",
+      "rationale": "infinitivus absolutus — 'poslušati boste poslušali', intenziv: poslušati z vso pozornostjo"
+    }
+  ],
+  "translation": "In ⟨bo⟩ ⟨tako⟩, če boste poslušali moje zapovedi, ki ⟨את⟩ vam jih jaz zapovedujem danes, da ljubite ⟨את⟩ Jahve, svojega Elohima, in mu služite z vsem svojim srcem in z vso svojo dušo,",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/11\/13-16.1792425860652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in ⟨bo⟩ ⟨tako⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "boste poslušali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(poslušali) — do"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovedujem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "da ljubite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svojega Elohima"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "in mu služite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "z vsem"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svojim srcem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "in z vso"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "svojo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:04:20.653553623Z",
+  "model": "glm-5.3"
+}

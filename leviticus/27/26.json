@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Slovenščina potrebuje predmet; hebrejščina ga izrazi z אתו."
+    },
+    {
+      "kind": "crux",
+      "subject": "prvorojenec",
+      "rationale": "יבכר: 'ki se kot prvorojenec rodi\/določi' — rojstvo posredno, posvetitev nedovoljena, ker že pripada Jahvu."
+    }
+  ],
+  "translation": "Samo prvorojenec, ki se kot prvorojenec določi Jahvu pri živini, ga človek ne sme posvetiti ⟨את⟩; če je vol ali jagnje, Jahvovo je.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/27\/25-28.1792424653218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorojenec"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "se določi kot prvorojenec"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "pri živini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "sme posvetiti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga (prvorojenca — vol ali jagnje)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "שה",
+      "gloss": "jagnje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-19T15:44:13.219749686Z",
+  "model": "glm-5.3"
+}

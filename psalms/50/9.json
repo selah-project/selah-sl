@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ממכלאתיך",
+      "rationale": "makla'ot, 'svedi\/zagode za drobnico', redka beseda; prevedeno kot 'zagode'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kozli",
+      "rationale": "atudim pomeni odrasle kozle (nešte), ne le 'koze'"
+    }
+  ],
+  "translation": "Ne vzamem iz tvoje hiše bika, iz tvojih zagod kozlov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/9-12.1792434863592.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "vzamem"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "iz tvoje hiše"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "iz tvojih zagod"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kozli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:23.593527060Z",
+  "model": "glm-5.3"
+}

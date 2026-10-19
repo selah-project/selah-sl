@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "san",
+      "rationale": "Nebukadnevarjeva san je zaprta in ne razložena — besedilo namenoma zadržuje njeno vsebino."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina dodaja pomožni glagol za predikativno strukturo."
+    }
+  ],
+  "translation": "Sanjal sem san, ki me je prestrašila, in premisleki na moji postelji in videnja moje glave so me preplašili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/4\/1-4.1792437430845.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "san"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "Sanjal sem"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "ki me je prestrašila"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "in premisleki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "moji postelji"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "in videnja"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moje glave"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "so me preplašili"
+    }
+  ],
+  "timestamp": "2026-10-19T19:17:10.855357921Z",
+  "model": "glm-5.3"
+}

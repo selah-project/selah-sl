@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 3:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pobaten plod",
+      "rationale": "נפל je dobesedno 'padli (plod)' — splod, ki ni živ rojen"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא אהיה",
+      "rationale": "'ne bi bil' ali 'kot da nisem' — vprašanje, ali Job želi, da bi bil kot mrtvorojenec"
+    }
+  ],
+  "translation": "ali kot skriti pobaten plod, ⟨ne⟩ bi bil, kakor dojenčki, ki svetlobe niso videli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8a181b5fc0d00486d693f5149c13c170114b2e44865f92d27c8aabb3761f5a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/13-16.1792436244316.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "כנפל",
+      "gloss": "kot pobaten plod"
+    },
+    {
+      "surface": "טמון",
+      "gloss": "skriti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bi bil"
+    },
+    {
+      "surface": "כעללים",
+      "gloss": "kakor dojenčki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niso"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "videli"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetlobe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:24.319311673Z",
+  "model": "glm-5.3"
+}

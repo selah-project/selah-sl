@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "hebrejščina samostalniški stavek brez kopule"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelu",
+      "rationale": "neposreden ogovor ljudstva z obljudbo 'ne boj se'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ne boj se",
+      "rationale": "obrat k poslušalcu z vzpodbudno zapovedjo"
+    }
+  ],
+  "translation": "Kajti jaz, Jahve, tvoj Elohim, se držim tvoje desne roke, jaz, ki ti pravim: Ne boj se, jaz ⟨sem⟩ ti pomagal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/41\/13-16.1792430602500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "se držim"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoje desne roke"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ki pravim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "sem ti pomagal"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:22.501292910Z",
+  "model": "glm-5.3"
+}

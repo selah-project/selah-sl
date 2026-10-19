@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu\/življenjski sili' kot slovenski 'duši'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא אדע נפשי",
+      "rationale": "'ne poznam svoje duše' (KJV) proti 'ne oziram se nase' (ASV\/JPS): dobesedno 'ne poznam svoje nefesh'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina nima glagola; kopula je dodana"
+    }
+  ],
+  "translation": "Popoln sem — ⟨ne⟩ poznam svoje duše, svoje življenje zaničujem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/9\/21-24.1792436323686.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Popoln"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem ⟨jaz⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "poznam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "zaničujem"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "svoje življenje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:43.687284178Z",
+  "model": "glm-5.3"
+}

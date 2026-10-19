@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 21:13",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "poslance",
+      "rationale": "hebrejščina ne pove, koga so poslali; dodano za berljivost"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישלחו",
+      "rationale": "'poslali' brez predmeta — dobesedno 'poslali in govorili'"
+    }
+  ],
+  "translation": "In vsa ⟨skupnost⟩ je poslala ⟨poslance⟩ in govorila z Benjaminci, ki so bili v skali Rimona, in zaklicali so jim mir.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "807d2d89fca0e93892c8e323c964475833ccdf46011164260cc592867b92497d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/21\/13-16.1792427426545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "poslala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "skupnost"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "govorila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "v skali"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "zaklicali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    }
+  ],
+  "timestamp": "2026-10-19T16:30:26.546405309Z",
+  "model": "glm-5.3"
+}

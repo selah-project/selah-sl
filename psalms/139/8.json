@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואציעה",
+      "rationale": "'Razprostrmem (ležišče)' — glagol הציע pomeni razprosti ležišče; predmet 'postelja' je v hebrejščini izpuščen, mnogi prevodi ga dodajo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "šeol ni 'pekel' — podzemni prostor mrtvih, ne kraj kazni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nebo\/šeol",
+      "rationale": "Najvišja in najnižja točka kot merilo vseprisotnosti; vzpenjanje proti razprostranjanju navzdol."
+    }
+  ],
+  "translation": "Če se vzpnem v nebo — tam si ti; in če razprostrmem v šeol, glej, ti si.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/139\/5-8.1792435707360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "se vzpnem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "v nebo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "in če razprostrmem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "v šeol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "glej, ti si"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:27.362038631Z",
+  "model": "glm-5.3"
+}

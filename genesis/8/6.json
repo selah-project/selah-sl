@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "štirideset dni",
+      "rationale": "štetje dni pred odprtjem okna"
+    },
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "slovenščina potrebuje veznik po ויהי"
+    }
+  ],
+  "translation": "In zgodilo se je ob koncu štiridesetih dni, da je Noaj odprl ⟨את⟩ okno skrinje, ki ga je naredil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/8\/5-8.1792422072828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ob koncu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "štiridesetih"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "da je odprl"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okno skrinje"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "skrinje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    }
+  ],
+  "timestamp": "2026-10-19T15:01:12.829413271Z",
+  "model": "glm-5.3"
+}

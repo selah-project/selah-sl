@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naročje",
+      "rationale": "חיק je naročje oz. krilo oblačila, kamor se je metal žreb"
+    },
+    {
+      "kind": "crux",
+      "subject": "sklep",
+      "rationale": "משפט tu 'sodba\/sklep\/razsodba' — kako žreb 'odloča'; alternative: sodba, odločitev"
+    },
+    {
+      "kind": "secret",
+      "subject": "žreb",
+      "rationale": "verz govori o skritem izidu žreba, ki ga določa sam Jahve"
+    }
+  ],
+  "translation": "V naročje se vrže ⟨את⟩ žreb, a od Jahveja je vsak njegov sklep.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3cd67df8c2b1466b247e47f0a57072167f5bc2c2a8d284b67124f5a90e28a1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/33-33.1792435965704.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "V naročje"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "se vrže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žreb"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "žreb"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "a od Jahveja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "njegov sklep"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:45.705351505Z",
+  "model": "glm-5.3"
+}

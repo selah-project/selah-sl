@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da ne bi",
+      "rationale": "hebrejščina izraža namen z infinitivoma מהושיע in משמוע brez veznika"
+    },
+    {
+      "kind": "you",
+      "subject": "Izrael",
+      "rationale": "neposreden nagovor ljudstva z 'glej' — govorec (Izaija) obtožuje poslušalce"
+    }
+  ],
+  "translation": "Glej, ni skrajšana roka Jahveja, da ne bi reševal, in ni obteženo njegovo uho, da ne bi slišalo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/1-4.1792430908044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "skrajšana"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "reševal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "obteženo"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "njegovo uho"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "slišalo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:28.044532011Z",
+  "model": "glm-5.3"
+}

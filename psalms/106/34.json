@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj jih uničijo⟩",
+      "rationale": "להם 'njim' — hebrejščina izpusti glagol ukaza; vstavljen po smislu"
+    },
+    {
+      "kind": "elision",
+      "subject": "להם",
+      "rationale": "zadošča kot neizrečen predmet ukaza"
+    }
+  ],
+  "translation": "Niso uničili ⟨את⟩ ljudstev, o katerih je rekel Jahve ⟨naj jih uničijo⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bc1945d688b20fc5f89cfc6c0c2511330e5a2c83611c2f56f83df6d2cd8e68de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/33-36.1792435407766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "niso"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "uničili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstev"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ljudstev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o katerih"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨naj jih uničijo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:27.767657389Z",
+  "model": "glm-5.3"
+}

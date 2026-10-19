@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "you",
+      "subject": "Cerkvi\/ljudstvu (ženska oblika: naslavlja hčer Siona)",
+      "rationale": "imperativi v ženski ednini nagovarjajo naslovnico"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגור מסביב",
+      "rationale": "refren 'strah vsepovsod' (magor missaviv) se ponavlja po Jeremiju; v slovenščini fraza ostane enotna"
+    }
+  ],
+  "translation": "Ne pojdi na polje in po poti ne hodi, kajti meč ima sovražnik, strah ⟨je⟩ vsepovsod.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89a92273f22558b1f54b7f6ec73c5a83116d6720a0a02e4858693c395d67d9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/6\/25-28.1792431095216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na polje"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "in po poti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "ima sovražnik"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "strah"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "vsepovsod"
+    }
+  ],
+  "timestamp": "2026-10-19T17:31:35.217038676Z",
+  "model": "glm-5.3"
+}

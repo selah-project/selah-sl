@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je tu apetit\/poželenje, ne 'duša'; ker hebrejščina tu ne pozna 'nefes' v slovenščini, je glosa prirejena"
+    },
+    {
+      "kind": "elision",
+      "subject": "ničesar",
+      "rationale": "hebrejščina ne ponovi beseda za predmet; 'ne daj' brez predmeta"
+    }
+  ],
+  "translation": "Kadar prideš v vinograd svojega bližnjega, smeš jesti grozdje po svoji nefes, do sitosti, v svojo posodo pa ne daj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/23\/25-26.1792426124196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "prideš"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "v vinograd"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "in smeš jesti"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "grozdje"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "po svoji nefes"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "do sitosti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "v"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "svojo posodo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    }
+  ],
+  "timestamp": "2026-10-19T16:08:44.197250312Z",
+  "model": "glm-5.3"
+}

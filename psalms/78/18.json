@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neefeš",
+      "rationale": "נפש je življenjska sila, grlo, apetit — ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Slovenski glagol potrebuje osebni pridevnik, hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In preizkušali ⟨so⟩ Ela v svojem srcu, da bi zahtevali jed za svojo neefeš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/17-20.1792435131597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "preizkušali ⟨so⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "v svojem srcu"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "da bi zahtevali"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jed"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "za svojo neefeš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:51.598984273Z",
+  "model": "glm-5.3"
+}

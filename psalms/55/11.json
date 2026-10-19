@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez kopule; omogočenih nadomestnih osebkov (kdo obhaja) ni v besedilu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יסובבה",
+      "rationale": "brez izraženega osebka; lahko '(nasilje in prepir) obhajata' ali 'oni (krorušitelji) obhajajo'."
+    }
+  ],
+  "translation": "Podne in ponoči jo obhajajo po njenih zidovih, in krivičnost in napor ⟨so⟩ v njeni sredi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/9-12.1792434937235.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Podne"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "in ponoči"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "jo obhajajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "njenih zidovih"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "in krivičnost"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "in napor"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "v njeni sredi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:37.237447591Z",
+  "model": "glm-5.3"
+}

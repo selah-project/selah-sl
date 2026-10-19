@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol pri drugem stavku; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "substitution",
+      "subject": "venec",
+      "rationale": "זֵר je dobesedno okrasni rob (umivan rob); »venec« po vzoru kronе (crown) je tradicionalen."
+    }
+  ],
+  "translation": "In obložil jo je z zlatom čistim, znotraj in zunaj, in naredil ⟨je⟩ zanjo venec zlata v krogu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/37\/1-4.1792423867779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "in obložil jo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "z zlatom"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "znotraj"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "in zunaj"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "in naredil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zanjo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "venec"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "v krogu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:31:07.780683647Z",
+  "model": "glm-5.3"
+}

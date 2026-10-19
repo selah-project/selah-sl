@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nevel",
+      "gloss": "נבל = glasen instrument; hebrejski zvok po D2-principu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ob kitari",
+      "rationale": "בכנון bi lahko tudi 'ob harfi', kitari je bolj domače"
+    }
+  ],
+  "translation": "Zahvaljujte Jahveju ob kitari, ob nevelu desetih strun mu zaigrjte.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/1-4.1792434715029.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "zahvaljujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ob kitari"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ob nevelu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "desetih strun"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zaigrjte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:55.031718846Z",
+  "model": "glm-5.3"
+}

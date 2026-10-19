@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בר \/ ברי",
+      "rationale": "Trikratni aramejski 'bar' (sin) namesto hebrejskega 'ben' — naraščajoči trop, v slovenščini izgubljen."
+    },
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "'sin' proti 'čisti' (drug koren בר) — večina prevodov bere 'sin'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "Materin neposredni ogovor kralja."
+    }
+  ],
+  "translation": "Kaj, moj sin? In kaj, sin mojega živodka? In kaj, sin mojih zaobljub?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/31\/1-4.1792436206498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "moj sin"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "In kaj"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mojega živodka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "In kaj"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mojih zaobljub"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:46.500165832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 2:1",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יש לאל ידם",
+      "rationale": "dobesedno 'je pri Elu njihova roka': razlage se delijo med 'njihova roka je moč' (KJV\/JPS) in 'njihova roka je uperjena proti Bogu' (Wycliffe)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשבי",
+      "rationale": "חשב je dobesedno 'plesti, prepletati' — tu 'spletavci', ne le 'smislivci'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga pri יש ne izraža s samostalniško strukturo."
+    }
+  ],
+  "translation": "Gorje spletavcem svarila in delavcem húdega na svojih posteljah; ob svetlobi jutranje svetlobe jo izvršijo, kajti ⟨je⟩ pri Elu njihova roka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "26cfdd4910736fa914ba2a051f8ef74326e406c0fd4bb09b82e4ac5ac8dfa2ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/2\/1-4.1792434157878.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Gorje"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "spletavcem"
+    },
+    {
+      "surface": "און",
+      "gloss": "svarila"
+    },
+    {
+      "surface": "ופעלי",
+      "gloss": "in delavcem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "húd"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "svojih posteljah"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ob svetlobi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "jutranje svetlobe"
+    },
+    {
+      "surface": "יעשוה",
+      "gloss": "jo izvršijo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "pri Elu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "njihova roka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:37.888598312Z",
+  "model": "glm-5.3"
+}

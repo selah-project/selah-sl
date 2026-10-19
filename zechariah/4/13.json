@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "slovenščina potrebuje pomožnik pri pretekliku, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "angel Zahariju",
+      "rationale": "vprašanje je neposreden nagovor vidca; אדני tu nagovarja angela — človeški naslov 'moj gospod'"
+    }
+  ],
+  "translation": "In je govoril ⟨k meni⟩, rekoč: Ali ne veš, kaj so te? In rekel sem: Ne, moj gospod.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "76f0baf8b6ac329cadd81aee5376303ac3863a332ccadfe694d5e739223d23ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/4\/13-14.1792434353974.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je govoril"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨k meni⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ali ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "veš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "In rekel sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospod"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:53.975529682Z",
+  "model": "glm-5.3"
+}

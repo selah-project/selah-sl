@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "povratek",
+      "rationale": "שיבת pomeni dobesedno 'vračanje\/povratek', ne 'izgnanstvo'; večina prevodov da 'sujenstvo'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשוב יהוה",
+      "rationale": "Infinitivni konstruktor: 'obrnenje Jahveja' — kdo obrne: Jahve ali je to povratek ljudstva?"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב\/שיבת",
+      "rationale": "Isti koren šuv v 'obrnil' in 'povratek' — besedna igra, v slovenščini deloma ohranjena."
+    }
+  ],
+  "translation": "Pesem vzponov. Ko je Jahve obrnil ⟨את⟩ povratek Ciona, smo bili kakor sanjajoči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/126\/1-4.1792435602937.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pesem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vzponov"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Ko je obrnil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "povratek Ciona"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "povratek"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "smo bili"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kakor sanjajoči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:42.938062067Z",
+  "model": "glm-5.3"
+}

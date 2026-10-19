@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sušne puščave",
+      "rationale": "חֹרְבוֹת je dobesedno 'suša \/ opustela mesta', ne 'puščava'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור … מים",
+      "rationale": "skala se ponovi (מצור \/ צור) in voda dvakrat (מים … מים) — pravljična oklepalka: kapljanje, potem razkol in tok"
+    }
+  ],
+  "translation": "In niso žejali, ko jih je vodil po sušnih puščavah; voda je zanje kapljala iz skale; in skalo je razklal, in voda je stekla.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/48\/21-22.1792430651076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "žejali"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "po sušnih puščavah"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "jih je vodil"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "iz skale"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "je kapljala"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zanje"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "in je razklal"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skalo"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "in je stekla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    }
+  ],
+  "timestamp": "2026-10-19T17:24:11.076581897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨njeno⟩",
+      "rationale": "hebrejščina pušča namig na Cion iz vv. 13–14"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך \/ אברך",
+      "rationale": "infinitiv absolut pred glagolom — 'blagoslavljajoče bom blagoslavljal', podvajanje za intenzivnost"
+    }
+  ],
+  "translation": "⟨Njeno⟩ živež bom obilno blagoslavljal, njene reveže bom nasitil s kruhom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/13-16.1792435601960.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "⟨njeno⟩ živež"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bom"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "obilno blagoslavljal"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "njene reveže"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "bom nasitil"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "s kruhom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:41.962201018Z",
+  "model": "glm-5.3"
+}

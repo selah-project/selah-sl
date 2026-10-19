@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "glagol zaupanja",
+      "rationale": "hebrejščina brez glagola: 'ti z vozovi, ti s konji' — vosek, ki ga mora slovenščina dopolniti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה … ואלה",
+      "rationale": "ponovitev 'ti … in ti' nasproti 'mi pa' — retorični kontrast"
+    }
+  ],
+  "translation": "Ti ⟨so z⟩ bojnimi vozovi in ti ⟨so s⟩ konji, mi pa v imenu Jahve, našega Elohim, se spominjamo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/20\/5-8.1792434661306.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "z bojnimi vozovi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "s konji"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mi pa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našega Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "se spominjamo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:01.307045471Z",
+  "model": "glm-5.3"
+}

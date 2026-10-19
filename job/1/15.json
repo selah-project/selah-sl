@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "dobesedno 'usta meča', slovensko 'rob meča'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותפל",
+      "rationale": "napadel' (padel nanih) — נפל 'pasti' uporabljen za napad; dodan ⟨nanje⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "posrednik neposredno nagovarja Joba ('rešil sem se, da bi ti povedal')"
+    }
+  ],
+  "translation": "In Sabejci so padli ⟨nanje⟩ in so jih odnesli, ⟨את⟩ fante pa so pobili z robom meča; in rešil sem se, samo jaz sam, da bi ti povedal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ad30e7cfdcb3053502b77c8ca732940a455803b94d94276b60ddf585ddb15708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/1\/15-16.1792439081737.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "in so padli"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sabejci"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "in so jih odnesli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fante"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "fante"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "so pobili"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "z robom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meča"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "in rešil sem se"
+    },
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sam"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "da bi povedal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:41.737757321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a verb in 'asher sham ha'Elohim'; copula supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gosta tema",
+      "rationale": "ערפל je spuščajoča se megla\/mračnost neba, ne zgolj 'tema'."
+    }
+  ],
+  "translation": "In ljudstvo je stalo od daleč, Moše pa je pristopil k gosti temi, kjer ⟨je⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/20\/21-24.1792423379561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "In je stalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "od daleč"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moše pa"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "je pristopil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "gosti temi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:22:59.562141527Z",
+  "model": "glm-5.3"
+}

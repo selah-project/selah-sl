@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלום חלמתי",
+      "rationale": "infinitivni ablolut: 'sanjo sem sanjal' — ponovitev korena poudarja težo sanj"
+    },
+    {
+      "kind": "you",
+      "subject": "govor kralja",
+      "rationale": "neposreden nagovor vedeževalcev in čarovnikov"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sanja",
+      "rationale": "kralj zahteva spoznanje sanje same — skrito, kar bo razodeto šele po božji razodetitvi"
+    }
+  ],
+  "translation": "In kralj jim je rekel: Sanjo sem sanjal, in moj ruah je vznemirjen, da bi spoznal ⟨את⟩ sanjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/2\/1-4.1792437324402.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sanjo"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "sem sanjal"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "in je vznemirjen"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moj ruah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da bi spoznal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanjo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sanjo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:24.405648152Z",
+  "model": "glm-5.3"
+}

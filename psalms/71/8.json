@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "s",
+      "rationale": "predlog pred תפארתך v hebrejščini manjka; vzeta iz prvega dela verza"
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahveja",
+      "rationale": "neposreden nagovor molitve k Bogu"
+    }
+  ],
+  "translation": "Naj se napolni moja usta s tvojo hvalo, ⟨s⟩ tvojo veličastnostjo ves dan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/5-8.1792435086645.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "naj se napolni"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "s tvojo hvalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "s tvojo veličastnostjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:06.647352594Z",
+  "model": "glm-5.3"
+}

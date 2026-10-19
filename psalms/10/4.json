@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין אלהים",
+      "rationale": "'Ni Elohim' kot hujšeni izjava (YLT\/JPS) ali opis: 'Elohim ni v vseh njegovih načrtih' (KJV\/BSB)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "אף je dobesedno nos\/nozdrvi — 'višina njegovega obraza' je omilitev; obvelja telesna podoba ošabnosti."
+    }
+  ],
+  "translation": "Hujšeni — po višini svojega nosu ⟨ne⟩ išče ⟨⟨ni⟩ Elohima⟩: ⟨⟨ni⟩ Elohim⟩ so vsi njegovi načrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/10\/1-4.1792434547079.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "hujšeni"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "po višini"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "svojega nosu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "išče"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "njegovi načrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:07.080865234Z",
+  "model": "glm-5.3"
+}

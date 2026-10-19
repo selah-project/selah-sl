@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצר\/מרחב",
+      "rationale": "nasprotje »ozkost\/stiska« in »širina\/prostranost«, v slovenščini delno ohranjeno"
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "slovenščina zahteva pomožnik pri pretekliku"
+    }
+  ],
+  "translation": "Iz stiske sem klical Jaha, Jah me je uslišal v ⟨prostranosti⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/5-8.1792435484542.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "stiske"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sem klical"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "me je uslišal"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "v prostranosti"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:44.543374833Z",
+  "model": "glm-5.3"
+}

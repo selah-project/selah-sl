@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 106:39",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "refleksivni dajalnik dodan; hebrejščina ima Nifal brez zaimka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nečistovali",
+      "rationale": "ויזנו je dobesedno 'hovorili\/prehujšali' — metafora nezvestobe Elohimu"
+    }
+  ],
+  "translation": "In oskrunili so se s svojimi deli in nečistovali s svojimi ravnanji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/37-40.1792435399549.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטמאו",
+      "gloss": "In oskrunili so se"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "s svojimi deli"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "in nečistovali"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "s svojimi ravnanji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:19.550888652Z",
+  "model": "glm-5.3"
+}

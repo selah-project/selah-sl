@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se vrti",
+      "rationale": "Glagol על מטתו je eliptičen (samo 'na svoji postelji'); slovenščina potrebuje glagol ⟨se vrti⟩ po vzporedbi z vrati."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תסוב ... סוב",
+      "rationale": "Ista beseda 'vrteti se' za vrata in (implicitno) za lenega — slika gibanja brez napredka."
+    }
+  ],
+  "translation": "Vrata se vrtijo na svojem tečaju, in leni ⟨se vrti⟩ na svoji postelji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/13-16.1792436098252.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "se vrtijo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "svojem tečaju"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "in leni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "svoji postelji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:58.253352594Z",
+  "model": "glm-5.3"
+}

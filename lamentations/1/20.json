@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "Podvajanje korena מרה: 'grenko sem grenko ravnala' — igro grenkobe\/upora slovenščina nosi z ponovitvijo 'grenko'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרו מריתי",
+      "rationale": "KJV\/ASV: 'grEViously rebelled' (upor) proti 'grenko' — isti koren pomeni oboje."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje glagol 'biti', hebrejščina ga pri בבית כמות nima."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Poglej, Jahve",
+      "rationale": "Neposreden naslov h Jahveju — prošnja, naj vidi stisko (govorna dejanca ='you')"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמרמרו",
+      "rationale": "Intenzivna oblika korena חמר 'vreti' — redka, slikovita oblika za notranjost, ki kipi."
+    }
+  ],
+  "translation": "Poglej, Jahve, kajti stisnjeno je meni; moja notranjost vre, srcu se je obrnilo v meni, kajti grenko sem grenko ravnala; zunaj meč dela brezdetstvo, v hiši ⟨je⟩ kakor smrt.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "94dc03657c5d047c8eed35ef1a1d0a5ba2dbd1a3e7cd7bfc4d32738c4b672e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/1\/20-20.1792439092539.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Poglej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "stisnjeno"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "notranjost"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "vre"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se je obrnilo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srcu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "grenko"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "sem grenko ravnala"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "dela brezdetstvo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "kakor smrt"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:52.540292964Z",
+  "model": "glm-5.3"
+}

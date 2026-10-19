@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mascota",
+      "rationale": "דשן je 'drev\/maščoba', prispodoba obilja in rodovitnosti; 'obilje' bi izgubilo slikovitost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עטרת ... טובתך",
+      "rationale": "kronanje leta s Plato dobrote — slika kralja, ki ovenči leto kakor vladarja"
+    }
+  ],
+  "translation": "Ovenčeš leto svoje dobrote, tvoje steze kapljajo mascot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/65\/9-12.1792435005679.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ovenčeš"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "leto"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "svoje dobrote"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "tvoje steze"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "kapljajo"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "mascoto"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:45.682517560Z",
+  "model": "glm-5.3"
+}

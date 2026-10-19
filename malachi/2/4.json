@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את לוי",
+      "rationale": "ta את (H854, 'z') je predlog, ne oznaka tožilnika — 'zaveza z Levijem', ne 'zaveza ⟨את⟩ Levi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "da ostane",
+      "rationale": "hebrejščina pravi samo להיות 'da biti' — smisel 'ostati\/nadaljevati' je dodan iz sobesedila"
+    }
+  ],
+  "translation": "In vedeli boste, da sem vam poslal ⟨את⟩ to zapoved, da moja zaveza ostane ⟨את⟩ z Levijem, govori Jahve Cebaot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/2\/1-4.1792434487941.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "In vedeli boste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "sem poslal"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to zapoved"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "zapoved"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da ostane"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moja zaveza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:07.944682280Z",
+  "model": "glm-5.3"
+}

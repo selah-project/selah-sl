@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 24:22",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסED je hesed — zvesta dobrota; ne 'milost' sama"
+    },
+    {
+      "kind": "addition",
+      "subject": "Naj",
+      "rationale": "hebrejščina ima gibalnik (jussiv), slovenščina potrebuje 'naj'"
+    },
+    {
+      "kind": "you",
+      "subject": "Zeharijeva zadnja beseda",
+      "rationale": "neposreden ogovor Jahveja umirajočega"
+    }
+  ],
+  "translation": "In ni se spomnil Joaš, kralj, heseda, ki ga je storil Jehojada, oče njegov, z njim, in ubil je ⟨את⟩ njegovega sina; ob svoji smrti pa je rekel: Naj vidi Jahve in naj terja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f38cff1b63a2d4526584c94d8f336a35bacaa1f4f93b0c6e8c992f03c262d9c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/24\/21-24.1792438766751.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "In ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "se je spomnil"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "heseda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oče njegov"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z njim"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "in ubil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovega sina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegovega sina"
+    },
+    {
+      "surface": "וכמותו",
+      "gloss": "ob svoji smrti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "Naj vidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "in naj terja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:26.752759829Z",
+  "model": "glm-5.3"
+}

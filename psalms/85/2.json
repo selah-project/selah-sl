@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨do⟩",
+      "rationale": "slovenščina potrebuje predlog pri naklonjenosti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "ševut dobesedno 'izgnanstvo\/ujeti'; 'obrati usodo izgnanstva' (šuv + ševut) je idiom za obnovo, ne zgolj fizične vrnitve"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבות",
+      "rationale": "koren שוב se ponovi v glagolu in predmetu — 'obrat izgnanstva', v slovenščini izgubljeno"
+    }
+  ],
+  "translation": "V naklonjenosti si bil, Jahve, ⟨do⟩ svoje dežele; obrnil si usodo izgnanstva Jaakova.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/1-4.1792435169583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "si bil naklonjen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svoje dežele"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "obrnil si"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "usodo izgnanstva"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:29.584751040Z",
+  "model": "glm-5.3"
+}

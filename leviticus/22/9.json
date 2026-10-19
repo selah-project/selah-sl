@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמרו\/משמרתי",
+      "rationale": "Isti koren: 'čuvali bodo mojo čuvanje' — dvojni udarec glagola in samostalnika istega korena."
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrejščina brez glagola 'biti'; dodan kot veznik v drugem stavku."
+    }
+  ],
+  "translation": "In čuvali bodo ⟨את⟩ mojo čuvanje, da ne nosijo zaradi nje krivde in umrejo zaradi nje, če jo oskrunijo; jaz sem Jahve, ki jih posvečujem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/22\/9-12.1792424446981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "in čuvali bodo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo čuvanje"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mojo čuvanje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nosijo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zaradi nje"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "krivdo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "in umrejo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "zaradi nje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "jo oskrunijo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "jih posvečujem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:46.981621549Z",
+  "model": "glm-5.3"
+}

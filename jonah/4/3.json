@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh je »dih \/ življenjska moč«, ne nesmrtna duša"
+    },
+    {
+      "kind": "you",
+      "subject": "Joni govori k Jahveju",
+      "rationale": "prošnja za smrt, neposreden nagovor"
+    }
+  ],
+  "translation": "In zdaj, Jahve, vzemi ⟨נא⟩ ⟨את⟩ mojo dušo od mene, kajti moja smrt je boljša od mojega življenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/4\/1-4.1792434117997.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vzami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo dušo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "boljša"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "moja smrt"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "od mojega življenja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:58.000463474Z",
+  "model": "glm-5.3"
+}

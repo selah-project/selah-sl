@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאל \/ גאלה \/ גאלתי",
+      "rationale": "Koren גאל se v enem verzu ponovi petkrat; slovenščina 'odkupiti\/odkupna pravica' ohranja del igre."
+    },
+    {
+      "kind": "substitution",
+      "subject": "goel",
+      "rationale": "הגאל je deležnik 'tisti, ki odkupuje', ne naziv; 'sorodnik-odkupitelj' bi bil opis, ne oblika besede."
+    },
+    {
+      "kind": "you",
+      "subject": "Boazu",
+      "rationale": "Goel neposredno prepusti svojo pravico Boazu."
+    }
+  ],
+  "translation": "In goel je rekel: Ne morem odkupiti ⟨zase⟩, da ne bi pokvaril ⟨את⟩ svoje dediščine; odkupi ti ⟨zase⟩ ⟨את⟩ mojo odkupno pravico, kajti ne morem odkupiti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/5-8.1792436919290.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "morem"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "odkupiti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨zase⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "pokvarim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo dediščino"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "svojo dediščino"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "odkupi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo odkupno pravico"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "odkupno pravico"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "morem"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "odkupiti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:39.291792237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga \/ je",
+      "rationale": "Slovenščina potrebuje povratni zaimek in pomožni glagol, hebrejščina jih nima."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה- pri הנביא",
+      "rationale": "Hebrejski člen se v slovenščini ne zapiše."
+    }
+  ],
+  "translation": "Breme, ki ga je videl Habakuk, ⟨prerok⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7822c4d3ab655b3d070bdb30726a49fe4cf9de1ab1ff2eff429da8de8c3b7047",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/1\/1-4.1792434248676.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "Breme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "je videl"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Habakuk"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨prerok⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:08.677459136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kralju",
+      "rationale": "למלך: tradicionalno 'kralju' (asirskemu), nekateri (BSB) berejo Moloku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "odposlance",
+      "rationale": "ציר je dobesedno 'vodja\/odposlanec', ne 'telesni pritisk'"
+    },
+    {
+      "kind": "elision",
+      "subject": "šeol",
+      "rationale": "šeol ni pekel — svet mrtvih, brez pojma kazni"
+    }
+  ],
+  "translation": "In potovala si k kralju z maziljenim oljem in pomnožila si svoja dišavna mazila, in poslala si svoje odposlance vse do daljave, in ponižala si se vse do šeola.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/57\/9-12.1792430840288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "in potovala si"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "k kralju"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "z maziljenim oljem"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "in pomnožila si"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "svoja dišavna mazila"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "in poslala si"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "svoje odposlance"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "daljave"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "in ponižala si se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:20.289550346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima veznika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Adonaj gospodov",
+      "rationale": "superlativna zveza kot v v. 2 — vzporednost Elohim bogov \/ Adonaj gospodov"
+    }
+  ],
+  "translation": "Zahvaljujte Adonaju gospodov, kajti za večno vekomaj ⟨je⟩ njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f6106afd89616535912ecf0c88195e9b1dc2820b774689dd7f9538148c04e53e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/1-4.1792435587214.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Zahvaljujte"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaju"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "gospodov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "za večno vekomaj"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:27.216547105Z",
+  "model": "glm-5.3"
+}

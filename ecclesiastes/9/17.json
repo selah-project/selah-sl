@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik pri pasivni obliki"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזעקת",
+      "rationale": "'kričanje\/vzklik' vladarja: med vladarjem, ki kriči, ali vzklikom nad vladarjem (nad megalci med neumniki)"
+    }
+  ],
+  "translation": "Besede modrecev se ⟨je⟩ slišijo v tišini, več kot vzklik vladarja med neumniki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4942a5bb515b16e718bf405fea6d11ec38523fd37d1c5d9bf58424b5c7cf178a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/9\/17-18.1792437113601.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "modrecev"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "v tišini"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "se slišijo"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "več kot vzklik"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "vladarja"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "med neumniki"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:53.603471848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨njej, ki je⟩",
+      "rationale": "hebrejščina da dve samostojni ženski pridevnika brez samostalnika; slovenščina potrebuje nosilca"
+    },
+    {
+      "kind": "crux",
+      "subject": "מראה",
+      "rationale": "lahko tudi 'bičevalka' (koren מרא v pomenu bičati); večina bere 'uporna'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "היונה",
+      "rationale": "od korena יונה 'zatirati, nasilno zatirati'; ne 'golobica' — istе črke, druga beseda"
+    }
+  ],
+  "translation": "Gorje ⟨njej, ki je⟩ uporna in oskrunjena, mestu zatiralskemu!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zephaniah\/3\/1-4.1792434326511.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Gorje"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "uporna"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "in oskrunjena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mestu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "zatiralskemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:26.512333246Z",
+  "model": "glm-5.3"
+}

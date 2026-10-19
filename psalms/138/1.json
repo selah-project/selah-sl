@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "z godalom",
+      "rationale": "zamar je igranje na strunskem glasbilu; 'slaviti z godalom' ohranja sliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "bogovi",
+      "rationale": "neged elohim: 'pred bogovi' (mali bogovi, sodniki) ali 'pred mogočnimi' (JPS)."
+    }
+  ],
+  "translation": "Davidov. Hvalil te bom z vsem svojim srcem; pred bogovi te bom slavil z godalom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "346831442b593983d91b4805757d480418ee2d0e94b60ab9c1b20b4682cdb7b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/138\/1-4.1792435743880.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hvalil te bom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "z vsem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svojim srcem"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovi"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "te bom slavil z godalom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:03.880853525Z",
+  "model": "glm-5.3"
+}

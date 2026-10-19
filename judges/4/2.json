@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 4:2",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prodal",
+      "rationale": "וימכרם je dobesedno 'prodal' — hebrejska podoba ljudstva kot blaga v roki prodajalca, prevodi raje omilijo z 'izročil'"
+    }
+  ],
+  "translation": "In Jahve jih je prodal v roko Jabina, kralja Kenaańa, ki je kraljeval v Hacorju; poveljnik njegove vojske pa je bil Sisera, in ta je prebival v Harošet-hagójim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0857687e4fafd5a3b3faefc6e9749ad447dade816daa5d4799ecc8f56f860610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/4\/1-4.1792427044273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימכרם",
+      "gloss": "in jih je prodal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Jabina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "בחצור",
+      "gloss": "v Hacorju"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "in poveljnik"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "njegove vojske"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in ta"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "je prebival"
+    },
+    {
+      "surface": "בחרשת",
+      "gloss": "v Harošetu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodov"
+    }
+  ],
+  "timestamp": "2026-10-19T16:24:04.274416479Z",
+  "model": "glm-5.3"
+}

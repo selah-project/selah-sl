@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 39:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika v odvisnem stavku; slovenščina ga zahteva."
+    },
+    {
+      "kind": "crux",
+      "subject": "השה",
+      "rationale": "Hifil od נשה: 'naredil, da pozabi' (YLt) proti 'odvzel' (KJV\/BSB) — ista oblika nosi oba pomena."
+    }
+  ],
+  "translation": "Ker je Eloah naredil, da ⟨je⟩ pozabila modrost, in ji ni dal deleža v razumevanju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b0824b03a1eb400679b7a1c8600f2827655390c27762f80533db61b8cf597d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/39\/17-20.1792436781140.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "השה",
+      "gloss": "naredil, da pozabi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dal deleža"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בבינה",
+      "gloss": "v razumevanju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:21.141293315Z",
+  "model": "glm-5.3"
+}

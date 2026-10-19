@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 51:23",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "hebrejščina ima prihodnjiko ושמתיה s povratnim soglasnikom (-ה), slovenščina potrebuje 'jo' (čašo)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר \/ עברים",
+      "rationale": "koren 'prehajati' trikrat v verzu: 'da gremo čez' — 'ki hodijo čez'; podoba Siona kot tlaka pod nogami."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "נפש je 'dih\/življenjska sila', ne nesnovna duša."
+    }
+  ],
+  "translation": "In položil sem ⟨jo⟩ v roko tvojih zatiralcev, ki so rekli tvoji duši: Pogni se, da gremo čez; in položila si kot zemljo svoj hrbet in kot ulico tistim, ki hodijo čez.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/51\/21-23.1792430772987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתיה",
+      "gloss": "in položil sem ⟨jo⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "מוגיך",
+      "gloss": "tvojih zatiralcev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "so rekli"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "tvoji duši"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "pogni se"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "da gremo čez"
+    },
+    {
+      "surface": "ותשימי",
+      "gloss": "in položila si"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kot zemljo"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "svoj hrbet"
+    },
+    {
+      "surface": "וכחוץ",
+      "gloss": "in kot ulico"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "tistim, ki hodijo čez"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:12.988506414Z",
+  "model": "glm-5.3"
+}

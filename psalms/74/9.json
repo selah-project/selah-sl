@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tistega, ki⟩",
+      "rationale": "Hebrew has participle ידע without explicit relative; Slovenian requires it"
+    },
+    {
+      "kind": "crux",
+      "subject": "do kdaj",
+      "rationale": "עד מה je dobesedno 'do česa\/kako dolgo' — presojanje trajanja, ki ga nihče ne pozna"
+    },
+    {
+      "kind": "mystery",
+      "subject": "עד מה",
+      "rationale": "Nihče med njimi ne ve, kako dolgo bo trpelo — skrito trajanje"
+    }
+  ],
+  "translation": "Svojih znamenj ne vidimo; ni več preroka, in ni ⟨את⟩ z nami ⟨tistega, ki⟩ ve, do kdaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/9-12.1792435070629.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "svojih znamenj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vidimo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "preroka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ z nami"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kdaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:50.630474250Z",
+  "model": "glm-5.3"
+}

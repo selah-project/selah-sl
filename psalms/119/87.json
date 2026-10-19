@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "oni",
+      "rationale": "hebrejščina ne imenuje preganjalcev; slovenščina zahteva }vokat, dodan samo po obliki"
+    }
+  ],
+  "translation": "Konec me je bilo skoraj na zemlji, toda jaz nisem zapustil Tvojih pokazov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/85-88.1792435514658.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "skoraj"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "konec me je bilo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "toda jaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "zapustil"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Tvojih pokazov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:14.659541731Z",
+  "model": "glm-5.3"
+}

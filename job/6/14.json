@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 6:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ki zapušča strah Šadaja",
+      "rationale": "Komu se glasi 'ki zapušča': Jobu (KJV\/ASV) ali nevernemu prijatelju (ylt) — dvoumna skladenjščina."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ dolžan",
+      "rationale": "Hebrejščina brez glagola 'biti dolžan'; brez tega slovenščina poved razpade."
+    }
+  ],
+  "translation": "Nemočnemu ⟨je⟩ dolžan hesed prijatelj ⟨njegov⟩, celo tistemu, ki zapušča strah Šadaja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/6\/13-16.1792436319473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למס",
+      "gloss": "nemočnemu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "prijatelj njegov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "in strah"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaja"
+    },
+    {
+      "surface": "יעזוב",
+      "gloss": "ki zapušča"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:39.474005336Z",
+  "model": "glm-5.3"
+}

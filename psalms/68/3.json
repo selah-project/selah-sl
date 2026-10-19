@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj se⟩ … ⟨oni⟩",
+      "rationale": "Hebrejščina izpusti predmet glagola תנדף; besedilo samo slika, komu velja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדף\/תנדף",
+      "rationale": "Koren נדף se ponovi v prime (כהנדף) in glagolu (תנדף) — igra dim\/izgon, v slovenščini deloma ohranjena z 'razprši\/razpršijo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "obličje",
+      "rationale": "מפני אלהי׮ dobesedno 'izpred obličja Elohim', navzočnost kot obrazen dejanja."
+    }
+  ],
+  "translation": "Kakor se razprši dim, ⟨naj se⟩ razpršijo ⟨oni⟩; kakor se stali vosek pred ognjem, naj izginijo hudobneži pred obličjem Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/1-4.1792435009007.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "kakor se razprši"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dim"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨naj se⟩ razpršijo ⟨oni⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kakor se stali"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "vosek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "naj izginijo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobneži"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:49.009468027Z",
+  "model": "glm-5.3"
+}

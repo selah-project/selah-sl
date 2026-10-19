@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "priležnica",
+      "rationale": "פילגש je drugorazredna žena brez polne statusnosti žene; 'priležnica' je najbližja slovenska beseda"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik Ade",
+      "rationale": "zaključek seznama potomcev Ade"
+    }
+  ],
+  "translation": "In Timna je bila priležnica Elifazu, sinu Esava, in rodila je Elifazu ⟨את⟩ Amaleka; to so sinovi Ade, žene Esava.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4ef9550c2aa0c26e92fae80a97402bac5b41ff85fe797058531808ed80dc21a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/36\/9-12.1792422636496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "In Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "priležnica"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifazu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "in rodila je"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifazu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "so sinovi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ade"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:36.497295651Z",
+  "model": "glm-5.3"
+}

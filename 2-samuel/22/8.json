@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zagorelo je ⟨v njem⟩",
+      "rationale": "חרה לו je hebrejski idiom za vnelo se je v njem (jezo); dobesedno 'vroče je njemu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "געש\/רעש\/רגז",
+      "rationale": "Verz niza tri korenne glagole tresenja; ponovitev געש v 1. in 7. besedi obdaja verz."
+    }
+  ],
+  "translation": "In zatresla se je in vzdrhtela zemlja, temelji nebes so se zgenili in vrteli, kajti zagorelo je ⟨v njem⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/22\/5-8.1792428590806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "in se je vrtela"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "in zatresla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "temelji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "so se zgenili"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "in vrteli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "zagorelo je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨v njem⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T16:49:50.807716942Z",
+  "model": "glm-5.3"
+}

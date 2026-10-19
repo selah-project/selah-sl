@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika; slovenščina ga zahteva"
+    }
+  ],
+  "translation": "Tisti čas je zbolel Avija, sin Jarobama.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "203c8ed12b716bc9afbfaa64931c5eb677928f8cb450ed4aa54af993b6bd4daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/14\/1-4.1792429097755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Tisti čas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "je zbolel"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    }
+  ],
+  "timestamp": "2026-10-19T16:58:17.755687167Z",
+  "model": "glm-5.3"
+}

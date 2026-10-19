@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagolsko obliko, hebrejščina ima samo ה doing-phrases brez samostalnika »človek«."
+    },
+    {
+      "kind": "substitution",
+      "subject": "obresti",
+      "rationale": "נשך dobesedno »ugriz« — obresti kot ugriz na dolgu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא trikrat",
+      "rationale": "Trojna negacija לא (ni dal · ni vzel · ne bo omagen) gradi vzporedni ritem seznama."
+    }
+  ],
+  "translation": "Svojega srebra ni dal v obresti in podkupnine zoper nedolžnega ni vzel; kdor dela te stvari, ne bo omagen ⟨na veke⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/15\/5-5.1792434567709.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "svojega srebra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "v obresti"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "in podkupnine"
+    },
+    {
+      "surface": "על",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nedolžnega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bo omagen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:27.712886221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta darovala",
+      "rationale": "hebrejščina ima le 'vzpel' (ויעל) — glagol darovanja je dodan."
+    },
+    {
+      "kind": "alternative",
+      "subject": "na vsakem oltarju",
+      "rationale": "množina oltarjev v 1. verzu nakazuje porazdelitev 'na vsakem oltarju' (KJV\/JPS), a besedilo pravi edninsko 'na oltaru'."
+    }
+  ],
+  "translation": "In Balak je storil, kakor je rekel Bileam; in Balak in Bileam sta darovala bika in jelena na oltaru.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d07dc78fabb8a37462ee67a5fe488d82abfd59c21b14b4e3050f66ac7b6b19dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/23\/1-4.1792425312268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In je storil"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "in sta darovala"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "in Bileam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "in jelena"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "na oltaru"
+    }
+  ],
+  "timestamp": "2026-10-19T15:55:12.269002695Z",
+  "model": "glm-5.3"
+}

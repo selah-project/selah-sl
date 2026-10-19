@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenski glagol 'nosi' potrebuje predmet, ki ga hebrejščina pušča v zvezi."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלות",
+      "rationale": "עוּלִית — 'doječe' (kovčice, ki sesajo) ali 'observne' (matere z mladiči); YLT 'suckling ones' proti KJV 'those that are with young'."
+    }
+  ],
+  "translation": "Kakor pastir svojo čredo pase, z roko zbira jagnjeta in v naročju jih nosi, doječe nežno vodi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/40\/9-12.1792430585648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "kakor pastir"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "svojo čredo"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "pase"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "zbira"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "jagnjeta"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "in v naročju"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nosi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "doječe"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "nežno vodi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:05.649654109Z",
+  "model": "glm-5.3"
+}

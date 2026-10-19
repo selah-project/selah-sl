@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpoved brez glagola: 'Jahve Elohim njegov' — slovenščina potrebuje glagol 'je'."
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim je Jahve",
+      "rationale": "אלהיו je večinsko 'njegov Bog'; ta prevod ohranja Ime Elohim, ne pa svojilne navezave — 'čigar Elohim (je) Jahve'."
+    }
+  ],
+  "translation": "Kako srečen je narod, katerega Elohim je Jahve, ljudstvo, ki ga je izbral ⟨sebi⟩ za dediščino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/9-12.1792434692156.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kako srečen"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katerega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim je"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "izbral je"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "za dediščino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sebi⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:32.158581603Z",
+  "model": "glm-5.3"
+}

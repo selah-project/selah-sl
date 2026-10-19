@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ostaja hesed, ne 'milost' ali 'ljubeča dobrota'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨prosim⟩",
+      "rationale": "delce נא, prošnja, v slovenščini zahteva dodano besedo"
+    }
+  ],
+  "translation": "Pridi ⟨prosim⟩ tvoj hesed, da me potolaži, kakor si rekel svojemu hlapcu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3b580181a94e34b93d98cee8ccd4d90773baac4c6b83402d8b42ba82a49bb3eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/76-76.1792439027493.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Pridi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨prosim⟩"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "da me potolaži"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "kakor si rekel"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "svojemu hlapcu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:47.494671243Z",
+  "model": "glm-5.3"
+}

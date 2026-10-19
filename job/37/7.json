@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "zapečati roko",
+      "rationale": "חתם 'zapečatiti' roko: zaznamovati roko (pečat identitete) ali zapreti roko (ustaviti delo v zimi)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨njegovo⟩",
+      "rationale": "slovenščina potrebuje določitev lastnina, hebrejščina jo nosi v končnici"
+    }
+  ],
+  "translation": "V roki vsakega človeka zapečati, da bi spoznali vsi ljudje ⟨njegovo⟩ delo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/37\/5-8.1792436715343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "v roki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakega"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "zapečati"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da bi spoznali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ljudje"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "njegovo delo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:15.344432134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje glagol biti pri naslovitvi, hebrejščina ga nima"
+    },
+    {
+      "kind": "addition",
+      "subject": "najde",
+      "rationale": "glagolska zveza v slovenščini dodana, hebrejščina ima samo ירחם"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר",
+      "rationale": "'kajti\/v katerem' — ירחם je brez osebka; JPS\/KJV bereta 'kajti', druge 'v katerem najde'"
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahve",
+      "rationale": "izpoved obrnjena neposredno k Elohimu ('v tebi')"
+    }
+  ],
+  "translation": "Ašur nas ne bo rešil, na konju ne bomo jahali, in ne bomo več rekli delu naših rok: naši Elohim ⟨so⟩; kajti v tebi ⟨najde⟩ usmiljenje sirota.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "93240e0eb19ba0b9cbe937718ae83124ada4802b3fc4673a19843ffbe2724b5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/4-4.1792438984887.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Ašur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "nas bo rešil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "konju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "bomo jahali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "bomo rekli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naši Elohim"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "delu"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "naših rok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebi"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "usmiljenje"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sirota"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:04.889249325Z",
+  "model": "glm-5.3"
+}

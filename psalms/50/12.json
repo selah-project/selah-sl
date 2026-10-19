@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "kopula, ki je hebrejščina nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ziz \/ melo'a",
+      "rationale": "verz 11 'ziz' (polnost prsi\/gibanje) in verz 12 'melo'ah' (polnost) odmevata — 'polnost' veže oba verza"
+    }
+  ],
+  "translation": "Če bi bil lačen, ti ⟨tega⟩ ne bi rekel, kajti moja je zemlja in njena polnost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/9-12.1792434863592.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "bi bil lačen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bi rekel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moja ⟨je⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "in njena polnost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:23.594711322Z",
+  "model": "glm-5.3"
+}

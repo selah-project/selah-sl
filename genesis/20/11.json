@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 20:11",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהים tu ostaja Elohim po D1, ne 'Bog'."
+    },
+    {
+      "kind": "elision",
+      "subject": "דבר",
+      "gloss": "על דבר אשתי = dobesedno 'na reč moje žene'; 'zaradi' pokrije obe besedi."
+    }
+  ],
+  "translation": "In rekel je Avraham: Ker sem si rekel: Le bojazni Elohim ni na tem kraju, in ubili me bodo zaradi moje žene —",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9f150a9b87b306c0dcb03392a78b32bcd176e710d372ed3bb1e68d8c7588c750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/20\/9-12.1792422329578.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sem si rekel"
+    },
+    {
+      "surface": "רק",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bojazni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tem"
+    },
+    {
+      "surface": "והרגוני",
+      "gloss": "in me bodo ubili"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "— (zaradi)"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "moje žene"
+    }
+  ],
+  "timestamp": "2026-10-19T15:05:29.579708745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "slovenski glagol potrebuje osebek za ogenj"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש \/ עזה",
+      "rationale": "ogenj (אש) požira Gazo (עזה) — zvočna bližina v hebrejščini"
+    }
+  ],
+  "translation": "In poslal bom ogenj na obzidje Gaze, in ⟨ta⟩ bo požrl njene dvorce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7868291165c5b9cc39cd0f08c517393fda9487837d1d1d36a0f9d4ab4d68f525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/1\/5-8.1792433998329.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "in poslal bom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "na obzidje"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaze"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "in bo požrl"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "njene dvorce"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:58.330755089Z",
+  "model": "glm-5.3"
+}

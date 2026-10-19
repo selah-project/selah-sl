@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ravnost",
+      "rationale": "מישרים je dobesedno 'ravne poti, pokončnost' — prostorska slika, ne abstraktna 'pravičnost'."
+    },
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "Hebrejščina ima prosti indikativ (jussiv); slovenščina potrebuje 'naj' za želenjak."
+    }
+  ],
+  "translation": "Izpred tebe naj izide moja sodba; tvoje oči naj gledajo ravnost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/1-4.1792434614764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Izpred tebe"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moja sodba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "naj izide"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "naj gledajo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ravnost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:14.765202018Z",
+  "model": "glm-5.3"
+}

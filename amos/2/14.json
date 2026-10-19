@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 2:14",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne nesmrtne duše."
+    },
+    {
+      "kind": "addition",
+      "subject": "je ⟨bo⟩",
+      "rationale": "Slovenščina zahteva pomožnik 'bo', ki ga hebrejščina izraža s predloženo obliko."
+    }
+  ],
+  "translation": "In pobegnil bo beg hitenega, in močan ne bo utrdil svoje moči, in mogočen ne bo rešil svoje duše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/2\/13-16.1792433971321.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וואבד",
+      "gloss": ""
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "In izginil bo"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "beg"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "hitenega"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "in močan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "bo utrdil"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "svoje moči"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "in mogočen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bo rešil"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoje duše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:31.323162957Z",
+  "model": "glm-5.3"
+}

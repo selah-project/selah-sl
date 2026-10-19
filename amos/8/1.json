@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koš",
+      "rationale": "כלוב je dobesedno ptičja past s sprožilno palico; tukaj pomeni koš iz pletera"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיץ\/קץ",
+      "rationale": "qayic (poletni sadež) se sliši kot qes (konec) — besedna igra, ki se razplete v 8,2"
+    }
+  ],
+  "translation": "Tako mi je pokazal Adonaj Jahve, in glej, koš poletnega sadja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/8\/1-4.1792434049225.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi je pokazal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "koš"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "poletnega sadja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:20:49.226410156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל \/ ואל",
+      "rationale": "hebrejska predloga 'k' se v slovenščini stakne z tožilnikom 'nebesa\/zemljo' in ni izražena kot ločena beseda"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nebesa in zemlja",
+      "rationale": "sodni oklic zgoraj in spodaj — ves svet je poklican za pričo"
+    }
+  ],
+  "translation": "Kliče nebesa od zgoraj in zemljo, da sodi svoje ljudstvo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/1-4.1792434907257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Kliče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(k)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od zgoraj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in (k)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "da sodi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoje ljudstvo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:07.259805097Z",
+  "model": "glm-5.3"
+}

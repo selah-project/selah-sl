@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez veznika; imenski stavek brez kopule."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלחיך",
+      "rationale": " שלח dobesedno 'puščica\/met izstrelka' ali 'poganjek'; tu 'poganjki' proti 'izhodi' (LXX)."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפרים",
+      "rationale": " koper: 'vasi' (kot pokrito) proti 'henna' (rastlina) — prevečina izbere henna."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרדס",
+      "rationale": " pardes, perzijska izposojenka 'park', redka v Tanahu."
+    }
+  ],
+  "translation": "Tvoji poganjki ⟨so⟩ park granatnih jabolk, z dragocenimi sadeži, henna z nardom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "37696ba28cc011a4939318da0158a8162721cba5725f694e247664598be6e9d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/4\/13-16.1792436857857.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "tvoji poganjki"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "park"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "granatna jabolka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sadeži"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "dragoceni"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "henna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "nard"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:37.859370634Z",
+  "model": "glm-5.3"
+}

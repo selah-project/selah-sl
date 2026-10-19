@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Hebrejščina brez glagola — sopostavitev brez veznika"
+    },
+    {
+      "kind": "substitution",
+      "subject": "smeje se",
+      "rationale": "שחק dobesedno 'smejati se' — ne 'veseliti se'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "zadnjemu dnevu",
+      "rationale": "ליום אחרון dobesedno 'dnevu, ki je zadnji' — prihodnosti"
+    }
+  ],
+  "translation": "Moč in sijaj ⟨sta⟩ njeni oblačili, in smeje se zadnjemu dnevu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/31\/25-28.1792436172040.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "moč"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "in sijaj"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "sta njeni oblačili"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "in smeje se"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "dnevu"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "zadnjemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:12.041756128Z",
+  "model": "glm-5.3"
+}

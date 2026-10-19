@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grape",
+      "rationale": "נחלים so struge zimskih hudournikov, torej ozke grape z ali brez vode."
+    },
+    {
+      "kind": "alternative",
+      "subject": "morajo prebivati",
+      "rationale": "לשכן je gol infinitiv 'prebivati'; 'morajo' izraža prisiljenost, ki jo mnogi prevodi izpeljejo iz konteksta."
+    }
+  ],
+  "translation": "V strahotnih grapah morajo prebivati, v jamah prahu in v skalnih razpokah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/5-8.1792436613173.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בערוץ",
+      "gloss": "v strahotnih"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "grapah"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "morajo prebivati"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "v jamah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prahu"
+    },
+    {
+      "surface": "וכפים",
+      "gloss": "in v skalnih razpokah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:33.175897640Z",
+  "model": "glm-5.3"
+}

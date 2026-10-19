@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 39:18",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילים",
+      "rationale": "איל je 'jelen' (po D4) ali 'oven'; stari prevodi večinoma 'ovni' — tu izbrano 'jelenjad' po tabeli živali."
+    },
+    {
+      "kind": "crux",
+      "subject": "כרים",
+      "rationale": "כר je 'oven, odrasel in masten'; po D4 'כבש' = jagnje — prevodi se delijo med 'ovni' in 'jagnjeta'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מריאי בשן",
+      "rationale": "'Pitana teleta Bašana' — מריא je strogo pitano govedo, ne navadna 'živina'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "žrtvovanje ljudi kot živali",
+      "rationale": "Vojaki in knezi so predstavljeni kot žrtvene živali — groteskna podoba, namerno zakrita in pretresajoča."
+    }
+  ],
+  "translation": "Meso mogočnih boste jedli in kri knezov dežele pili: jelenjad, jagnjeta in kozli, teleta, pitana teleta Bašana — vsega tega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "06e1c580b4b101f6444ec7845d786cd8c6aeb973e70453ebd39bafc88145ba0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/39\/17-20.1792433567523.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשר",
+      "gloss": "Meso"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "mogočnih"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "boste jedli"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "in kri"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "knezov"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "pili"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "jelenjad"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "jagnjeta"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "in kozli"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "teleta"
+    },
+    {
+      "surface": "מריאי",
+      "gloss": "pitana teleta"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašana"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ves tega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:47.525215379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "aleph-tav z pripono označuje objekt 'ju'; v slovenščini osebni zaimek že stoji, zato le oznaka ⟨אתם⟩"
+    }
+  ],
+  "translation": "In Jahve jim bo storil, kakor je storil Sihonu in Ogu, kraljema Emorijcev, in njuni deželi, ki ju je uničil ⟨אתם⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "93068135cf33ae1e5fc4afae7b6848fcc2a0a396743b2258686252ac2e77c840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/31\/1-4.1792426390360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "in bo storil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihonu"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "in Ogu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljema"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorijcev"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "in njuni deželi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "je uničil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ju"
+    }
+  ],
+  "timestamp": "2026-10-19T16:13:10.361361057Z",
+  "model": "glm-5.3"
+}

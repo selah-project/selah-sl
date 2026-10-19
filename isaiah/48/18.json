@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום je celota, blaginja, dobrobit — ne le odsotnost vojne"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לוא הקשבת",
+      "rationale": "zaželeni pogoj (»oh, da bi«) namesto dobesednega pogojnega če"
+    },
+    {
+      "kind": "you",
+      "subject": "Izrael",
+      "rationale": "togovor z drugo osebo ednine"
+    }
+  ],
+  "translation": "Oh, da bi poslušal moje zapovedi! Takrat bi bil ⟨tvoj⟩ šalom kakor reka in tvoj cedek kakor valovi morja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "729f08c787722c99a8eca2eb0e87ba705a754e7fd2755fa9ed184c382761d74d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/48\/17-20.1792430693351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "Oh, da bi"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "poslušal"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "moje zapovedi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Takrat bi bil"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "kakor reka"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "⟨tvoj⟩ šalom"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "in tvoj cedek"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "kakor valovi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:24:53.351891541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožnik 'je', ki ga hebrejski perfekt דבר ne izraža."
+    }
+  ],
+  "translation": "Po vseh teh besedah in po vsem tem videnju je tako govoril Natan Davidu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b893a976ccf180e82bf5ea8607127b61dd5732d6e9d5f12c20924ae9d9a98d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/13-16.1792438241449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "po vseh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "besedah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "teh"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "in po vsem"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "videnju"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:41.450600673Z",
+  "model": "glm-5.3"
+}

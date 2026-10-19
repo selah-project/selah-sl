@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez kopule; slovenščina zahteva ⟨so⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Zaključek Joktanovega rodu s povzetkom 'vsi ti sinje Joktana'."
+    }
+  ],
+  "translation": "in ⟨את⟩ Ofir in ⟨את⟩ Havila in ⟨את⟩ Jobav; vsi ti ⟨so⟩ sinje Joktana.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a5fcb20369ee24b939fe7c956a1b9fcaaa899a87c8d93a81f587166346ffd4fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/21-24.1792437988437.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Havila"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jobav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinje"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktana"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:28.441077179Z",
+  "model": "glm-5.3"
+}

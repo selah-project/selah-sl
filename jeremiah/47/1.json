@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "To je",
+      "rationale": "slovenščina potrebuje začetno vezavo; אשר שהיה je hebrejski uvod v naslov prerokbe"
+    },
+    {
+      "kind": "you",
+      "subject": "do bralca",
+      "rationale": "uvodni naslov preroške besede naslavlja poslušalca kot objavo"
+    }
+  ],
+  "translation": "To je beseda Jahveja, ki je prišla k preroku Jeremiji o Peliščanih, preden je faraon udaril ⟨את⟩ Gazo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/47\/1-4.1792431843988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiji"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "preroku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peliščanih"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "preden"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "je udaril"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:44:03.988702258Z",
+  "model": "glm-5.3"
+}

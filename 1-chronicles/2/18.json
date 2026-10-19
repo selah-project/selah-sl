@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוליד את עזובה",
+      "rationale": "KJV\/JPS: »spolovil otroke z Azubo«; YLT dobesedno »spolovil Azubo« — hebrejščina postavi ženo kot neposredni predmet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "spolovil",
+      "rationale": "הוליד (hifil od ילד) je »plođeval\/bil oče«; slovenski glagol nosi rodilni pomen"
+    }
+  ],
+  "translation": "Kaleb, sin Hecrona, je spolovil ⟨את⟩ Azubo, ⟨ženo⟩, in ⟨את⟩ Jeriot; ti pa so njeni sinovi: Ješer, Šovab in Ardon.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "df66b52cd7b39d71470cbd0b8f9a80537e58d09120bdc00f2eac9dac8f1b1b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/17-20.1792438009941.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Kaleb pa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hecrona"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je spolovil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azubo"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azubo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Jeriot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Jeriot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "so njeni sinovi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Ješer"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "in Šovab"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "in Ardon"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:49.943459722Z",
+  "model": "glm-5.3"
+}

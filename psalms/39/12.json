@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "húpnost",
+      "rationale": "הבל je dobesedno 'dih\/para' — nekaj minljivega; izbrana beseda Tiha 1,2 'húpnost nad húpnostmi'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbena oznaka, ostaja neprevedena kot Sela"
+    }
+  ],
+  "translation": "Z grajanami zaradi krivice si kaznoval človeka in raztapljaš ⟨kot⟩ vešča njegovo hrepenenje; le húpnost je vsak človek. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/9-12.1792434794706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "z grajanami"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivice"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "si kaznoval"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "in raztapljaš"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "⟨kot⟩ vešča"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "njegovo hrepenenje"
+    },
+    {
+      "surface": "אך",
+      "gloss": "le"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "húpnost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:14.708092434Z",
+  "model": "glm-5.3"
+}

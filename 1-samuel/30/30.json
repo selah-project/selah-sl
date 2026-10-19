@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבור עשן",
+      "rationale": "KJV 'Chor-ashan' (כור עשן, 'peč dima') proti hebrejskemu besedilu בור עשן 'Bor-Ašan', kot JPS in ASV."
+    },
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Hebrejščina brez glagola; slovenščina zahteva samostalniški stavek."
+    }
+  ],
+  "translation": "in tistim, ki ⟨so bili⟩ v Hormi, in tistim, ki ⟨so bili⟩ v Bor-Ašanu, in tistim, ki ⟨so bili⟩ v Ataku,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dab9e50a1f08d611684cbc444f7afdbd686d1f1a42a37bdb20b24d99e02656a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/30\/30-31.1792438979865.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "in tistim, ki"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "v Hormi"
+    },
+    {
+      "surface": "ו לאשר",
+      "gloss": "in tistim, ki"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "v Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "-Ašanu"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "in tistim, ki"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "v Ataku"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:59.866618446Z",
+  "model": "glm-5.3"
+}

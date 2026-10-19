@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעדה",
+      "rationale": "Hiphil от עדה: буквально 'удаляющий' (одежду в холод) — или, по другому чтению, 'спотыкающийся'; переводы расходятся: 'снимающий' против 'рвущий'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קרה",
+      "rationale": "'Холод\/прохлада' — только здесь в Танахе."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמץ\/נתר",
+      "rationale": "Уксус на соду (щелок) шипит и нейтрализуется — картина разрушенного утешения, потерянная в переводе."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לב רע",
+      "rationale": "'Сердце злое\/склонное к злому' — можно читать как 'падшее сердце', не только 'печальное'."
+    }
+  ],
+  "translation": "Снимающий одежду в холодный день, уксус на соду — и поющий песни ⟨на⟩ печальное сердце.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/17-20.1792436134281.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "снимающий"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "одежду"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в день"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "холодный"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "уксус"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "соду"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "и поющий"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "песни"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сердце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "печальное"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:34.282462454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula; infinitive construction 'good to take refuge'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "plemeniči",
+      "rationale": "נדיבים so 'plemeniči\/veljaki' — prostovoljni, radodarni veljaki, ne navadni knezi."
+    }
+  ],
+  "translation": "Dobro je zateči se k Jahveju raje kot zaupati v plemiče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/9-12.1792435485359.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobro je"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "zateči se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "k Jahveju"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "raje kot zaupati"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "v plemiče"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:45.360824911Z",
+  "model": "glm-5.3"
+}

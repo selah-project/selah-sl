@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; slovenščina jo zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ledvice",
+      "rationale": "כליות so dobesedno ledvice, sedeča čustev in notranjosti — ne »moči«."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רע\/רשעים … צדיק\/צדיק",
+      "rationale": "Igra korenov r-š-‛ in ṣ-d-q: hudobnost hudobnežev nasproti dvakratnemu pravičnemu."
+    }
+  ],
+  "translation": "Naj se konča, prosim, húdost hudobnežev, ti pa utrdi pravičnega; in preizkuševalec src in ledvic ⟨je⟩ Elohim, pravični.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e6ee9b5f9c80637c840a8713f39180a5cd79c8d247d7bbe8df9b311b489a0f5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/10-11.1792438994385.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "naj se konča"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "רע",
+      "gloss": "húdost"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnežev"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "in utrdi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "in preizkuševalec"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "src"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "in ledvic"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravični"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:14.386552169Z",
+  "model": "glm-5.3"
+}

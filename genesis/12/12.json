@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והרגו אתי ואתך יחיו",
+      "rationale": "Chiazem 'ubili — mene \/ tebe — živeti' postavi uboj in rešitev v strogo nasprotje."
+    },
+    {
+      "kind": "addition",
+      "subject": "te",
+      "rationale": "אתך je aleph-tav z drugoosebno pripono; 'te' je del zaimka, ne dodan pridevek."
+    }
+  ],
+  "translation": "In zgodilo se bo: ko ⟨te⟩ bodo Micrajci videli ⟨את⟩, bodo rekli: To je njegova žena, in mene bodo ubili, ⟨tebe⟩ pa pustili živeti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/12\/9-12.1792422171113.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in zgodilo se bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bodo videli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bodo rekli"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "njegova žena"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to je"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "in bodo ubili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mene ⟨את⟩",
+      "marks": "mene"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨tebe⟩ את",
+      "marks": "tebe"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "pustili živeti"
+    }
+  ],
+  "timestamp": "2026-10-19T15:02:51.114659634Z",
+  "model": "glm-5.3"
+}

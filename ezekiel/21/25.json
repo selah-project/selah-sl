@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki je",
+      "rationale": "hebrejščina da přídevesnico brez veznika; slovenščina potrebuje odvisnik"
+    },
+    {
+      "kind": "alternative",
+      "subject": "utrjen",
+      "rationale": "בצורה je deležnik od בצר — 'zaprt\/utrjen'; lahko tudi 'v utrjenem Jerušalajimu'"
+    }
+  ],
+  "translation": "Pot postavi, da pride meč, ⟨את⟩ Raba sinov Amona in ⟨את⟩ Jehudo, ⟨ki je⟩ v Jerušalajimu utrjen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dd98bd2d9a8ddb9501d7ce2cdf5f15fb33a334009530cb7634576b17f09a00d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/21\/25-28.1792432383161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "da pride"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba sinov Amona"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Jehudo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "utrjen"
+    }
+  ],
+  "timestamp": "2026-10-19T17:53:03.161976258Z",
+  "model": "glm-5.3"
+}

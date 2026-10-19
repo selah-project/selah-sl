@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 22:25",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בן נכר",
+      "rationale": "'sin tujca' = dobesedno 'sin tujine', slovenščina 'sin tujca'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kruh",
+      "rationale": "לחם tu pomeni žrtveno hrano\/žrtve, ne dobesedno kruh."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משחתם",
+      "rationale": "משחת (pohabljenost) se v Tanahu pojavlja samo tu."
+    }
+  ],
+  "translation": "In iz roke sina tujca ne prinašajte ⟨את⟩ kruha svojega Elohima od vsega tega, kajti njihova pohabljenost je v njih, hiba je v njih — ne bodo všeč ⟨za⟩ vas.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/22\/25-28.1792424414447.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומיד",
+      "gloss": "in iz roke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tujca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "prinašajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kruha svojega Elohima"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svojega Elohima"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vsega"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "njihova pohabljenost"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v njih"
+    },
+    {
+      "surface": "מום",
+      "gloss": "hiba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v njih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bodo všeč"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:14.447795478Z",
+  "model": "glm-5.3"
+}

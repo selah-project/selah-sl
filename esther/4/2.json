@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dopustno⟩",
+      "rationale": "hebrejščina pravi le 'ni', pomen 'ni dovoljeno' je podan s kontekstom."
+    },
+    {
+      "kind": "elision",
+      "subject": "שק",
+      "rationale": "ponovljena beseda prekrita z zaimkom v prejšnjem samostalniku 'suknji'."
+    }
+  ],
+  "translation": "In prišel je vse do pred vhodna vrata kralja, kajti vstopiti skozi vrata kralja v suknji ni bilo ⟨dopustno⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/4\/1-4.1792437233536.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "In prišel je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vhodna vrata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni bilo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vstopiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "skozi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "v suknji"
+    },
+    {
+      "surface": "שק",
+      "gloss": "(suknja)"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:53.537873641Z",
+  "model": "glm-5.3"
+}

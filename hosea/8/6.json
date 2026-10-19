@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שְׁבָבִים",
+      "rationale": "Množina 'drobci\/ublanci' se v Tanahu pojavlja samo tukaj."
+    },
+    {
+      "kind": "crux",
+      "subject": "שְׁבָבִים יִהְיֶה",
+      "rationale": "Popolni drobci bo (YLJ 'je drobci!') ali 'v drobce se bo razbil'; shva fragmentov -im je intenzivna množina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אֱלֹהִים tukaj o maliku: 'ni Elohim' — ime ostaja, čeprav zanika malika."
+    }
+  ],
+  "translation": "Kajti ⟨to⟩ je iz Jisraela — obrtnik ga je naredil, in ni Elohim; v drobce se razbije tele Šomerona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/8\/5-8.1792433831101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "מִיִּשְׂרָאֵל֙",
+      "gloss": "iz Jisraela"
+    },
+    {
+      "surface": "וְה֔וּא",
+      "gloss": "on — ⟨to⟩"
+    },
+    {
+      "surface": "חָרָ֣שׁ",
+      "gloss": "obrtnik"
+    },
+    {
+      "surface": "עָשָׂ֔הוּ",
+      "gloss": "ga je naredil"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "on"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שְׁבָבִ֣ים",
+      "gloss": "v drobce"
+    },
+    {
+      "surface": "יִֽהְיֶ֔ה",
+      "gloss": "se razbije — bo"
+    },
+    {
+      "surface": "עֵ֖גֶל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "שֹׁמְרֽוֹן",
+      "gloss": "Šomerona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:11.103001975Z",
+  "model": "glm-5.3"
+}

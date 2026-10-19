@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima pomožnika za preteklik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žgalna daritev",
+      "rationale": "עלה je 'tisto, kar gre gor (v dim)', dobesedno vzpenjajoča daritev"
+    },
+    {
+      "kind": "you",
+      "subject": "neznan subjekt",
+      "rationale": "subjekt (kralj Ahas) je iz prejšnjega verza, slovenščina ga izpusti"
+    }
+  ],
+  "translation": "In zažgal ⟨je⟩ ⟨את⟩ svojo žgalno daritev in ⟨את⟩ svojo 미노... svojo_IMETHODO —In prekadi ⟨את⟩ svojo עolo —V prekadil je ⟨את⟩ svojo žgalno daritev in ⟨את⟩ svojo daritev minho, izlil ⟨je⟩ ⟨את⟩ svoj naliv, ter poškropil ⟨את⟩ kri shelamimov, ki so njegovi, po žrtveniku.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/16\/13-16.1792429722373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "prekadil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo žgalno daritev"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "svojo žgalno daritev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "svojo daritev minho"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "svojo daritev minho"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "izlil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj naliv"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "svoj naliv"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "poškropil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kri"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "žrtev shelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "so njegovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "žrtveniku"
+    }
+  ],
+  "timestamp": "2026-10-19T17:08:42.373880103Z",
+  "model": "glm-5.3"
+}

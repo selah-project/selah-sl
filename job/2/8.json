@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "והוא",
+      "rationale": "Poudarljen zaimek 'in on' se v slovenščini naravno raztopi v 'in sedeł je'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je', hebrejščina ga nima."
+    }
+  ],
+  "translation": "In vzel si je črepinjo, da se z njo praska, in sedeł je sredi pepela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "604f062db4ecd76fccebb3c0222608711c0e9c240b8f55c7797a6925f80e0992",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/2\/8-8.1792439055483.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "In vzel si je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "črepinjo"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "da se praska"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z njo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedeł je"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "pepela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:15.487024217Z",
+  "model": "glm-5.3"
+}

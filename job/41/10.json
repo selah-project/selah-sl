@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 41:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Slovenščina potrebuje veznik, hebrejščina ga izpušča (nominalni stavek)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "trepalnice zarje",
+      "rationale": "ע׷פעפי שחר — dobesedno 'trepalnice zarje', podoba utripajoče jutranje svetlobe, ki se odpira."
+    }
+  ],
+  "translation": "Njegova kihanja razbliskajo svetlobo, in njegove oči ⟨so⟩ kakor trepalnice zarje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a1979f6f514715784fb8510322ebed528f6f814a8a9b6fb470e8d0f8c9a4b649",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/41\/9-12.1792436770434.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטישתיו",
+      "gloss": "njegova kihanja"
+    },
+    {
+      "surface": "תהל",
+      "gloss": "razbliskajo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetlobo"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "in njegove oči"
+    },
+    {
+      "surface": "כעפעפי",
+      "gloss": "kakor trepalnice"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zarje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:10.436876623Z",
+  "model": "glm-5.3"
+}

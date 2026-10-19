@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 11:10",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gnusoba",
+      "rationale": "šek ec je odpadek, umazanija, nesnaga — ne le 'nečistoč'"
+    },
+    {
+      "kind": "you",
+      "subject": "za vas",
+      "rationale": "neposreden nagovor Izraelu glede jedilnih pravil"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "hebrejski dativ 'njemu' se v slovenščini stopi v 'nima'"
+    }
+  ],
+  "translation": "In vse, kar nima plavuti in lusk, v morjih in v rekah, od vsega drobnja, ki se roji v vodah, in od vse živeče duše, ki je v vodah — gnusoba so za vas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b19a48fe6bbb43f42d6e63601603db7bc56bc411b580397f0616e7eaf2a338b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/10-12.1792433292642.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pri sebi⟩"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "plavuti"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "in lusk"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v morjih"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "in v rekah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vsega"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "drobnja, ki se roji"
+    },
+    {
+      "surface": "המים",
+      "gloss": "v vodah"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "in od vse"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živeče"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "במים",
+      "gloss": "v vodah"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "so"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:12.643461609Z",
+  "model": "glm-5.3"
+}

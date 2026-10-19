@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrew imperative lacks explicit object; supplied from context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה כלה",
+      "rationale": "ponovljen glagol — ponovitev izraža popolnost, v slovenščini izgubljena"
+    }
+  ],
+  "translation": "Pohodi ⟨jih⟩ v svoji jezi, pohodi, da jih ne bo več; in spoznali bodo, da Elohim vlada v Jaakovu, do krajev ⟨od⟩ zemlje. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/13-16.1792434951789.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "pohodi"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "v svoji jezi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pohodi"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "da jih ne bo več"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "in spoznali bodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vlada"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "v Jaakovu"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "do krajev ⟨od⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:51.789826083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בערתיה — 'jo\/zažgal'",
+      "rationale": "KJV\/Geneva z versom o meču zamenja: tukaj hebrejščina govori o ognju ('sem ga prižgal'), ne o pravičnem in krivičnem"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje oziralni zaimek, ki ga hebrejska končnica -ה nosi sama"
+    }
+  ],
+  "translation": "In videlo bo vsako meso, da sem jaz Jahve, ki sem ga prižgal; ne bo ugasnjen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7da1e21f133e764a4b43af5a86cf8c8724fe0d443257e6cbb7577235c82a2f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/21\/1-4.1792432375043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "In videlo bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsako"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "sem ga prižgal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "bo ugasnjen"
+    }
+  ],
+  "timestamp": "2026-10-19T17:52:55.044821276Z",
+  "model": "glm-5.3"
+}

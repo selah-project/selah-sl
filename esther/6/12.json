@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נדחף",
+      "rationale": "edina pojavitev tega glagola v Tanahu — 'zaganjan, potisnjen v naglico', močnejše od navadnega 'pohitel'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "z zagrnjeno glavo",
+      "rationale": "חפוי ראש dobesedno 'pokrita glava' — znamenje sramote in žalovanja, ne časti."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨k svoji⟩",
+      "rationale": "slovenščina potrebuje predlog z naslonsko zaimkov ob ביתו."
+    }
+  ],
+  "translation": "In Mordehaj se je vrnil h kraljevim vratom, Haman pa je pohitel ⟨k svoji⟩ hiši, objokan in z zagrnjeno glavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cab17817ff1e14b4b86f16d7cbabc5a922309a5d4dc532f7e3a2c20a028f55ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/6\/9-12.1792437223241.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "in vrnil se je"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vratom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevim"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Haman pa"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "pohitil je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svoji hiši"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "objokan"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "in zagrnjeno"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:43.246334191Z",
+  "model": "glm-5.3"
+}

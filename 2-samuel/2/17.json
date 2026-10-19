@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 2:17",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina uporablja glagol נגף v aktivni obliki 'je poražil', slovenščina zahteva pasivno"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגף",
+      "rationale": "glagol pomeni dobesedno 'bosti, brcniti' — slika bika, ki poda z rogovi, izgubljena v 'poražen'"
+    }
+  ],
+  "translation": "In boj je bil tisti dan zelo hudež, in Avner in možje Jisraela so bili poraženi pred Davidovimi sužnji.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/2\/17-20.1792428178635.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "in bil je"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boj"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hudež"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zelo do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "izredno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "in so bili poraženi"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sužnji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:58.636191318Z",
+  "model": "glm-5.3"
+}

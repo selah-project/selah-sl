@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 32:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨medtem ko⟩",
+      "rationale": "hebrejščina postavlja dva stavka brez veznika; slovenščina potrebuje odnos (usklajeno z »whereas« ASV\/JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "veznik med stavkoma",
+      "rationale": "KJV bere vzglavnik (»for the city is given«), JPS\/ASV podrejeni odnos (»whereas«) — Jeremijav neizrečeni pritožbeni vprašaj"
+    }
+  ],
+  "translation": "In ti si rekel meni: Adonaj Jahve, kupi si ⟨את⟩ polje za srebro in pokliči priče — ⟨medtem ko⟩ je mesto dano v roko Kaldejcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04b4c806d9b6d367d87cfe6bb7ca413bce049a87a4847da8178076157c3d4ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/32\/25-28.1792431627400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "si rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za srebro"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "in pokliči priče"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "priče"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "in mesto"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "je dano"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kaldejcev"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:27.401148311Z",
+  "model": "glm-5.3"
+}

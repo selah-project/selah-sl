@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 31:18",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמוע שמעתי",
+      "rationale": "infinitivus absolutus pred glagolom — podvajanje za zagotovilo, 'slišno sem slišal'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבני \/ ואשובה",
+      "rationale": "koren שוב 'vrniti se' v vzporedniku — isti koren kot 'vesrt' v 17 in 21 v."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ujerno",
+      "rationale": "לא למד je dobesedno 'ni bilo naučeno', o teletu, ki ni navajeno jarma"
+    }
+  ],
+  "translation": "Slišno sem slišal Efrajima, kako trepeta: Kaznoval si me in bil sem kaznovan, kakor tele, ki ni bilo ujerno; obrni me, pa se bom obrnil, kajti ti si Jahve, moj Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a376f08c9d7f899c2c8e8ac50c0b0b5ae1a6749ce6dc3be31292fabfd22fff8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/31\/17-20.1792431628199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמוע",
+      "gloss": "slišno"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sem slišal"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מתנודד",
+      "gloss": "kako trepeta"
+    },
+    {
+      "surface": "יסרתני",
+      "gloss": "kaznoval si me"
+    },
+    {
+      "surface": "ואוסר",
+      "gloss": "in bil sem kaznovan"
+    },
+    {
+      "surface": "כעגל",
+      "gloss": "kakor tele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ni bilo ujerno"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "obrni me"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "pa se bom obrnil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:28.200799512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנון",
+      "rationale": "מנון se v Tanahu pojavi samo tu; pomen je temen — 'naslednik', 'kraljujoči' ali 'žalostivec'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנון",
+      "rationale": "Različne različice: KJV\/ASV 'sin', JPS 'master', BSB 'žalost' — hebrejščina sama ne odloči."
+    },
+    {
+      "kind": "addition",
+      "subject": "svojega",
+      "rationale": "Slovenščina potrebuje svojilni zaimek; hebrejščina ga nosi v končnici עבדו."
+    }
+  ],
+  "translation": "Kdor razvaja ⟨svojega⟩ sužnja od mladosti, bo njegova poslednja doba מנון — naslednik.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/21-24.1792436204187.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "razvaja"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od mladosti"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svojega sužnja"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "in njegova poslednja doba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "naslednik"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:44.188351310Z",
+  "model": "glm-5.3"
+}

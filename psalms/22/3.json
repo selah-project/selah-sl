@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דומיה לי",
+      "rationale": "Dvojni pogled: »ni tišine zame« (jaz ne molčim, KJV\/ASV) ali »ni odgovora\/oduška zame« (JPS); hebrejščina je dvoumna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם \/ ולילה",
+      "rationale": "Dan\/noč okvirjata verz v chiastični strukturi klica brez odgovora."
+    }
+  ],
+  "translation": "Elohim moj, kličem podnevi, pa se ne odzoveš, in ponoči, in ni ⟨tišine⟩ zame.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/1-4.1792434645812.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kličem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "podnevi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa se ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odzoveš"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "in ponoči"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tišine"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zame"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:45.813079632Z",
+  "model": "glm-5.3"
+}

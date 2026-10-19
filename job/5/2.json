@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sintaksa",
+      "rationale": "Dvojno branje: 'jeza ubija nespametnega' (jeza kot morilec) ali 'nespametnega ubije njegova jeza' — hebrejščina dopušča obe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lahkovernega",
+      "rationale": "פתה je dobesedno 'zavajan', tisti, ki se pusti zapeljati."
+    }
+  ],
+  "translation": "Kaj jeza ubija nespametnega in zavist usmrti lahkovernega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/1-4.1792436258407.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "nespametnega"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ubija"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "jeza"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "lahkovernega"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "usmrti"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "zavist"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:38.408715300Z",
+  "model": "glm-5.3"
+}

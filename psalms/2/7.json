@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rodil",
+      "rationale": "ילדתיך: 'rodil sem te' — neskončna razprava o tem, kdo govori in kdaj; besedilo samo ne pove več."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Pomožnik 'je' dodan v slovenščini, hebrejščina ga nima."
+    },
+    {
+      "kind": "secret",
+      "subject": "חק",
+      "rationale": "'Odlok' — božanska ustanova, razglašena kot skrivnost kraljevega ustoličenja."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve kralju",
+      "rationale": "Neposreden naslov 'Sin si ti' — Jahve govori kralju na Sionu."
+    }
+  ],
+  "translation": "Pripovedoval bom o odloku: Jahve mi je rekel: »Sin si ti, jaz sem te danes rodil.«",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/2\/5-8.1792434535747.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Pripovedoval bom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odloku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "sem te rodil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:55.749324391Z",
+  "model": "glm-5.3"
+}

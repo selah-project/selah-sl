@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezekiel 16:56",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשמועה בפיך",
+      "rationale": "dobesedno 'za posluh\/poročilo v tvojih ustih': KJV 'ni bila omenjena v tvojih ustih' proti BSB 'si jo imela za posmeh'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאוניך",
+      "rationale": "גאון je 'vzvišenost, veličnost, ošabnost'; izbrano 'ošabnost' glede na obsovalni kontekst"
+    },
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "predlog, ki ga slovenska zveza zahteva, dodan v oklepaju"
+    }
+  ],
+  "translation": "In Sodoma, tvoja sestra, ni bila ⟨za⟩ posluh v tvojih ustih na dan tvoje ošabnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "640aafe30c751ead5b897540ab0923db8a612c98c8c2970ea80620bdefdc03a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/53-56.1792432271416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "In ni"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "tvoja sestra"
+    },
+    {
+      "surface": "לשמועה",
+      "gloss": "⟨za⟩ posluh"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "v tvojih ustih"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "גאוניך",
+      "gloss": "tvoje ošabnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:51:11.417840569Z",
+  "model": "glm-5.3"
+}

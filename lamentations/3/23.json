@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Hebrejščina brez glagola; slovenščina ga dodaja v primež med v. 22 in 23."
+    },
+    {
+      "kind": "alternative",
+      "subject": "zore",
+      "rationale": "לבקרים je množina z dajalnikom 'jutrom\/zoram'; 'vsako jutro' poravna ponavljalnost."
+    }
+  ],
+  "translation": "Novi ⟨so⟩ vsako jutro, velika je tvoja zvestoba.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/21-24.1792436981250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "novi"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "vsako jutro"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velika"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvoja zvestoba"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:41.251315140Z",
+  "model": "glm-5.3"
+}

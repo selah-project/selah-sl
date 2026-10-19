@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "slovenščina potrebuje glagol biti pri pridevniku, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רק אין בו מים",
+      "rationale": "dvojna ločena izjava o isti praznosti (prazna — ni vode v njej) poveča napetost pred naslednji verz"
+    }
+  ],
+  "translation": "In vzeli so ga in vreli ⟨את⟩ njega v jamo — jama pa ⟨je bila⟩ prazna, ni bilo v njej vode.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/37\/21-24.1792422779203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "in vzeli so ga"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "in vreli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "v jamo"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "jama pa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "prazna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni bilo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:59.205018630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "hebrejščina brez kopule; stanje prostega prilastka"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארזי אל",
+      "rationale": "'cedri El' (mogočni cedri) kot slika velikosti veja — JPS pa bere, da veje pokrivajo cedre"
+    }
+  ],
+  "translation": "Pokrite so gore z njeno senco, njene veje ⟨so⟩ cedri El.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/80\/9-12.1792435191904.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "pokrite so"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "z njeno senco"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "njene veje"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:51.905752028Z",
+  "model": "glm-5.3"
+}

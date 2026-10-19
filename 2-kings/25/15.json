@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב \/ כסף כסף",
+      "rationale": "podvajanje: 'zlato zlata' in 'srebro srebra' — povsem iz čiste kovine; slovenščina potrebuje glagol ⟨je bilo⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poveljnik krvnikov",
+      "rationale": "רב טבחים dobesedno 'velik klavcev' — poveljnik telesne straže, ki izvršuje usmrtitve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kadilnice",
+      "rationale": "מחתות so ponve za žerjavico"
+    }
+  ],
+  "translation": "In ⟨את⟩ kadilnice in ⟨את]] sklede — kar zlato, ⟨je bilo⟩ zlato, in kar srebro, ⟨je bilo⟩ srebro — je vzel poveljnik krvnikov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "95703763d54c1c21acd93bac7856947fba863c57aa834cbe5fe57371ddcb4a3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/25\/14-16.1792433404068.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadilnice"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "kadilnice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sklede"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "sklede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in kar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "je vzel"
+    },
+    {
+      "surface": "רב",
+      "gloss": "poveljnik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "krvnikov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:04.070203300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 5:6",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "gloss": "kazalni zaimek 'ta' se v slovenščini veže na samostalnik (ta duša), samostojna beseda odpade"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih \/ življenjska sila, ne nesmrtna duša v poznejšem pomenu"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל מעל",
+      "rationale": "dvojnost korena ma'al: 'prekršek zoper' — drugi מעל ostaja neprevoden ponovitev istega korena"
+    }
+  ],
+  "translation": "Govori sinovom Jisraela: moš ali žena, kadar storita katero od grehov človeka, s prekrškom ma'al zoper Jahve, in ta duša je kriva —",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c9643639b94dd7c68b4d719576e9a7349c0f9011b70335748b7ebbb8108cee06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/5\/5-8.1792424810623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Govori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moš"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "storita"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "katero od"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grehov"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "s prekrškom"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ma'al"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "zoper Jahve"
+    },
+    {
+      "surface": "ואשמה",
+      "gloss": "je kriva"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta duša"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-19T15:46:50.624208798Z",
+  "model": "glm-5.3"
+}

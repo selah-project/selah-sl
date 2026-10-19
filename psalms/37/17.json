@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "roke",
+      "rationale": "זרועות je 'roki\/roke' v pomenu sila, moč; doslovno 'iztegnjene roke'."
+    },
+    {
+      "kind": "addition",
+      "subject": "spol glagola",
+      "rationale": "Hebrejščina ženski množinski glagol תשברנה se nanaša na זרועות; slovenščina zahteva aktivno obliko."
+    }
+  ],
+  "translation": "Kajti roke hudobnih bodo zlomljene, pravične pa podpira Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/17-20.1792434750658.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "roke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bodo zlomljene"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "pa podpira"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravične"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:30.658723014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה אם יומת",
+      "rationale": "priseg_znal formula 'živ je Jahve' + אם 'če': dobesedno 'živ je Jahve, če bo umorjen' pomeni 'gotovo ne bo umorjen'; negacija je dodana"
+    }
+  ],
+  "translation": "In Šaul je poslušal glas Jehonatana, in Šaul je prisegel: Živ je Jahve, da ne bo umorjen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/19\/5-8.1792427862714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "in poslušal je"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatana"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "in prisegel je"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ne bo umorjen"
+    }
+  ],
+  "timestamp": "2026-10-19T16:37:42.719326828Z",
+  "model": "glm-5.3"
+}

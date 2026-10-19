@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "v sredi mojega srca",
+      "rationale": "čigavo srce: Davidovo (pričevanje znotraj psalmista) ali srce hudobneža; KJV\/JPS bereta 'mojega', drugi 'njegovega'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "groza",
+      "rationale": "פחד je nenadna groza, predmet strahu in občutek hkrati; 'strah' bi prevečgladko"
+    }
+  ],
+  "translation": "Izreka pregrehe govori hudobnežu: v sredi mojega srca ⟨je⟩ — ni groze Elohim pred njegovimi očmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/36\/1-4.1792434779035.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "izreka"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pregrehe"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "hudobnežu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "v sredi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mojega srca"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "groze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "njegovimi očmi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:59.037409569Z",
+  "model": "glm-5.3"
+}

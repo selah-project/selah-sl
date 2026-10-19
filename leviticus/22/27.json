@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 22:27",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sedem dni \/ osmi dan",
+      "rationale": "Štetje dni določa, kdaj je žival sprejemljiva za daritev."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩",
+      "gloss": "vejica",
+      "rationale": "Hebrejščina ima והיה kot 'in bodi'; slovenski ukaz zahteva 'naj'."
+    }
+  ],
+  "translation": "Govedo ali jagnje ali koza, kadar se skoti, ⟨naj⟩ bo sedem dni pod svojo materjo, in od osmega dne naprej bo sprejemljivo za daritev, ognjeno daritev Jahveju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/22\/25-28.1792424414447.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שור",
+      "gloss": "govedo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "jagnje"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "עז",
+      "gloss": "koza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "se skoti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svojo materjo"
+    },
+    {
+      "surface": "ומיום",
+      "gloss": "in od dne"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "osmega"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "naprej"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "bo sprejemljivo"
+    },
+    {
+      "surface": "לקרבן",
+      "gloss": "za daritev"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ognjena daritev"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:14.448208133Z",
+  "model": "glm-5.3"
+}

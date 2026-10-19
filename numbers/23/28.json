@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פני הישימן",
+      "rationale": "Dobesedno 'obličje pustinje'; פנים 'obražna ploskev, prednja stran' je tu izravnan v 'prostranstvo'."
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "הנשקף",
+      "rationale": "Niphal-particip od שקף 'izstrekovati se, gledati' – gora je upodobljena kot glava, ki se sklanja iz okna in gleda na pustinjo."
+    }
+  ],
+  "translation": "In Balak je vzel ⟨את⟩ Bileáma na vrh Peorja, ki se ozira na prostranstvo pustinje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c3b31df4a71248b783e76668eac1d073e098db14a578b995522147c3a6dde198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/23\/25-28.1792425280335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "in je vzel"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileáma"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileáma"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrh"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peorja"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "ki se ozira"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "prostranstvo"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "pustinje"
+    }
+  ],
+  "timestamp": "2026-10-19T15:54:40.336198415Z",
+  "model": "glm-5.3"
+}

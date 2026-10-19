@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je grlo, dih, življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": " Begaj na svojo goro, ptica",
+      "rationale": "נודו הרכם צפור: kdo beži in čigava gora — 'begaj ti na svojo goro, kot ptica' (KJV\/JPS) proti 'begajte na goro, ptice' (JPS rob)"
+    }
+  ],
+  "translation": "Zborovodji, Davidovu. V Jahveju sem se zatekel; kako govorite duši moji: Begaj na svojo goro, ptica!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/11\/1-4.1792434585203.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "V Jahveju"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sem se zatekel"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kako"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "duši moji"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Begaj"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "na svojo goro"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ptica"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:45.204364602Z",
+  "model": "glm-5.3"
+}

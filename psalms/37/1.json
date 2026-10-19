@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Davidov ⟨je⟩ ⟨ta⟩ psalm",
+      "rationale": "Hebrew לדוד is a bound phrase without copula or article"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תתחר",
+      "rationale": "lit. 'grow hot\/blaze up' — idiom for burning anger or vexation"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "two negative imperatives address the hearer directly"
+    }
+  ],
+  "translation": "Davidov ⟨je⟩ ⟨ta⟩ psalm. Ne vnamevaj se ⟨nad⟩ storilci hudega, ne zavisti po delavcih krivice.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/1-4.1792434766727.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "vnamevaj se"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "nad storilci hudega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "zavisti"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "po delavcih"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "krivice"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:46.728294696Z",
+  "model": "glm-5.3"
+}

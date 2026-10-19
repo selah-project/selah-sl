@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bila",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ima samo 'ki pri njih'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "malike",
+      "rationale": "גלולים dobesedno 'okrogla hloda', prispodoba za malike."
+    }
+  ],
+  "translation": "In videli ste ⟨את⟩ njihove gnusobe in ⟨את⟩ njihove malike — les in kamen, srebro in zlato, ki so bila pri njih.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/29\/13-16.1792426260820.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "in ste videli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove gnusobe"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "njihove gnusobe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njihove malike"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "njihove malike"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "les"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "in kamen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "in zlato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "pri njih"
+    }
+  ],
+  "timestamp": "2026-10-19T16:11:00.821382511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חבל",
+      "rationale": "dovdosno 'vrv (merilna)' — iz nje 'okrožje\/posest'; prevedeno kot meja posesti"
+    },
+    {
+      "kind": "addition",
+      "subject": "meja",
+      "rationale": "poskus izraziti vrv kot odmerjeno območje dediščine"
+    }
+  ],
+  "translation": "s tem besedilom: »Tebi dam ⟨את⟩ deželo Kenaan, vrv ⟨je⟩ meja vaše dediščine.«",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/9-12.1792435323976.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "s tem besedilom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deželo Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "vrv ⟨meja⟩"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "vaše dediščine"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:03.978213778Z",
+  "model": "glm-5.3"
+}

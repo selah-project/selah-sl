@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina nima glagola 'biti' v sedanjiku; slovenščina ga zahteva."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Glasbeni označevalec pavze, ostaja nepreveden."
+    }
+  ],
+  "translation": "Jahve Cebaot ⟨je⟩ z nami; visoka trdnjava ⟨nam⟩ ⟨je⟩ Elohim Jaakova. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/46\/9-12.1792434890402.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "visoka trdnjava"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨nam⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:50.404042940Z",
+  "model": "glm-5.3"
+}

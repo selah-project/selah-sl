@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 18:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "hebrejščina ima zaimke v glagolski obliki תשליכהו, slovenščina potrebuje ločen zaimek"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עצתו",
+      "rationale": "tudi 'njegov sklep'; načrt samega hudobnega ga podre"
+    }
+  ],
+  "translation": "Ozki bodo koraki njegove moči, in njegov načrt ⟨ga⟩ vre z dna.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5416ed64d4dec85a12aca1e820602aafdaa0296d593ee57abc9025fb96c5662b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/5-8.1792436428825.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצרו",
+      "gloss": "ozki bodo"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "koraki"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "njegove moči"
+    },
+    {
+      "surface": "ותשליכהו",
+      "gloss": "in ⟨ga⟩ vre"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "njegov načrt"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:28.825883001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 41:57",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לשבר",
+      "rationale": "שבר tu pomeni trgovanje z žitom; slovenščina potrebuje dve besedi — kupovati žito"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Hebrejščina brez glagola biti v drugem stavku; slovenščina ga zahteva"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vsa dežela",
+      "rationale": "ponovitev בכל הארץ v okviru poudarja obseg lakote po vsej deželi"
+    }
+  ],
+  "translation": "In vsa dežela je prihajala v Micrajim, da bi kupovala žito pri Jožefu, kajti huda lakota je bila po vsej deželi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1212edd08cae7b8177f181e3c19a634969d19d668a23012d588046148b9a62fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/57-57.1792422809726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "באו",
+      "gloss": "je prihajala"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "v Micrajim"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "da bi kupovala žito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožefu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "huda"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "lakota"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po vsej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:13:29.727208165Z",
+  "model": "glm-5.3"
+}

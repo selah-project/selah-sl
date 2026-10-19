@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sta⟩",
+      "rationale": "Dvojina hebrejskega glagola נועדו; slovenščina potrebuje pomožnik"
+    },
+    {
+      "kind": "invitation",
+      "subject": "retorično vprašanje",
+      "rationale": "Prvo v verigi retoričnih vprašanj, ki vabi poslušalca k sklepu"
+    }
+  ],
+  "translation": "Ali hodita dva skupaj, razen če ⟨sta⟩ se dogovorila?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/3\/1-4.1792433991428.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Ali hodita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "razen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "sta se dogovorila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:51.430396012Z",
+  "model": "glm-5.3"
+}

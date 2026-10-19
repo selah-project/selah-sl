@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "dobesedno 'kdo bo dal', hebrejski optativ: 'kdo bi dal, da …'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החרש \/ תחרישון",
+      "rationale": "isti koren חרש ponovljen: 'utihnite — utihnili bi', intenziv, v slovenščini delno ohranjen s ponovitvijo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oni⟩ · ⟨to⟩",
+      "rationale": "slovenščina potrebuje osebkov in reference za ta dva glagola, hebrejščina ju izpušča"
+    }
+  ],
+  "translation": "Kdo bi dal, da bi ⟨oni⟩ utihnili — da bi ⟨utihnili⟩ povsem, in da bi ⟨to⟩ bilo vam za modrost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9453e0ce58502f6b4905bb723c0d53c66c8ba6ac61f4174513ce3790c919ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/13\/5-8.1792436369633.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bi dal"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "da bi utihnili"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "utihnili povsem"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in da bi bilo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "za modrost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:29.634546182Z",
+  "model": "glm-5.3"
+}

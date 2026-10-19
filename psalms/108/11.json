@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זnanja נחני",
+      "rationale": "Nekateri prevodi berejo kot preteklik ('kdo me je pripeljal') proti futurju ('kdo me bo pripeljal') — vprašanje upanja ali spomina"
+    },
+    {
+      "kind": "invitation",
+      "subject": "dvojno vprašanje 'Kdo… Kdo…'",
+      "rationale": "Retorični vprašanji nagovarjata Elohima kot edinega voditelja"
+    }
+  ],
+  "translation": "Kdo me bo pripeljal v mesto, ⟨v⟩ trdnjavo? Kdo me bo vodil do Edoma?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/9-12.1792435383798.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "me bo pripeljal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "v mesto"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "trdnjavo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "me bo vodil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:03.799254378Z",
+  "model": "glm-5.3"
+}

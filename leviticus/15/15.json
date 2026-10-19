@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spravi",
+      "rationale": "כפר dobesedno 'pokriti'; 'spraviti' nosi pokritje krivde"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "'nad njim' (spravitev nad človekom) vs 'za njega' — večina prevodov vzame 'za njega'"
+    }
+  ],
+  "translation": "In duhovnik ju pripravi: ⟨את⟩ eno za daritev za greh in ⟨את⟩ drugo za žgalno daritev, in duhovnik spravi ⟨nad njim⟩ pred Jahve ⟨zaradi⟩ njegovega zbava.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/15\/13-16.1792424353735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "in pripravi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eno … in drugo (dve ptici)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ena"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "daritev za greh"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "in druga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "žgalna daritev"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "in spravi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "njegovega zbava"
+    }
+  ],
+  "timestamp": "2026-10-19T15:39:13.736206202Z",
+  "model": "glm-5.3"
+}

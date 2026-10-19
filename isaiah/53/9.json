@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במתיו",
+      "rationale": "Dvojina\/množina 'njegovih smrti': dobesedno 'v njegovih smrtih'; enotinek 'smrti' je gladek prevod."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina ne pove subjekta; 'oni so dali' je dodano."
+    }
+  ],
+  "translation": "In določili so ⟨את⟩ hudobnim njegov grob in ⟨את⟩ z bogatim ob njegovi smrti, ker nasilja ni storil in prevare ni bilo v njegovih ustih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/53\/9-12.1792430802170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "In določili so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hudobnim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnim"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "njegov grob"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "in ⟨את⟩",
+      "marks": "z bogatim"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogatim"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ob njegovi smrti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "storil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in prevare ni"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevare"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "v njegovih ustih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:42.171578723Z",
+  "model": "glm-5.3"
+}

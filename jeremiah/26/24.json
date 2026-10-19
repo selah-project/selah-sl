@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את Jeremijem",
+      "rationale": "tukajšnji את je predlog »z« (H854), ne označevalnik določenega predmeta — »roka je bila Z Jeremijem«, prevodi se razhajajo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שפן",
+      "rationale": "lemma je sicer tudi skalni jazbec, a tukaj je osebno ime Šafan in se ne prevaja"
+    }
+  ],
+  "translation": "Vendar je bila roka Ahikama, sina Šafanovega, ⟨את⟩ ⟨z⟩ Jeremijem, da ne bi ga dali ⟨את⟩ v roko ljudstva, da bi ga usmrtili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28c68054f803527cf0f46ee1e578653df8b485e69bed8e4748e33727e67a6965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/26\/21-24.1792431470445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vendar"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roka"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafanovega"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨z⟩ Jeremijem",
+      "marks": "Jeremijem"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijem"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da bi ga usmrtili"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:50.446550466Z",
+  "model": "glm-5.3"
+}

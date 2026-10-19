@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "ezra 2:68",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nekateri",
+      "rationale": "hebrejščina pravi 'in od glavarjev rodov' — 'nekateri' izraža delni odvzek, ki ga slovenščina potrebuje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "temelj",
+      "rationale": "מכונ je 'ustaljeni prostor, podlaga' — ne stavbni temelj v tehničnem pomenu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית יהוה \/ בית האלהים",
+      "rationale": "ponovitev 'hiša' — Jahvejeva hiša in Elohimova hiša v enem verzu"
+    }
+  ],
+  "translation": "In nekateri od glavarjev rodov so, ko so prišli h hiši Jahve, ki je v Jerušalajimu, prostovoljno darovali za hišo Elohim, da bi jo postavili na njen temelj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eac2c82a09c52e2b697d163dc3e8272265413c564dbdd8d4afc6942bee19ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/2\/65-68.1792437608062.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומראשי",
+      "gloss": "in nekateri od glavarjev"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "rodov"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ko so prišli"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "h hiši"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "התנדבו",
+      "gloss": "so prostovoljno darovali"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "za hišo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להעמידו",
+      "gloss": "da bi jo postavili"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מכונו",
+      "gloss": "njen temelj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:08.065815445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 8:6",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול ostaja po D2 'šeol', ne 'grob' ali 'pekel'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלהבת יה",
+      "rationale": "'plamen Jah' — končnica יה bereta kot Ime Jah (YLT, ASV) ali kot poudarčna končnica 'njen najžarečši plamen'; ohranjen Imenu beri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשפיה רשפי אש שלהבתיה",
+      "rationale": "Verižna ponovitev: žarki–žarki–ognja–plamen; slovenščina ohranja verigo delno."
+    }
+  ],
+  "translation": "Postavi me kot pečat na svoje srce, kot pečat na svojo roko, kajti močna kakor smrt je ljubezen, trda kakor šeol je ljubosumje; žarki njeni so žarki ognja, plamen Jah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/8\/5-8.1792436888437.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שימני",
+      "gloss": "Postavi me"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "kot pečat"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "kot pečat"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "močna"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "kakor smrt"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "je ljubezen"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "trda"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "kakor šeol"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "je ljubosumje"
+    },
+    {
+      "surface": "רשפיה",
+      "gloss": "žarki njeni"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "žarki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "plamen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:08.440446668Z",
+  "model": "glm-5.3"
+}

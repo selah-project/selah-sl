@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "Hebrejščina ima povzročiteljski glagol s pripono -הו (njega), slovenščina potrebuje ločen zaimak"
+    }
+  ],
+  "translation": "In vzel je ljudstvo dežele ⟨את⟩ Jehoahaça, sina Jošija, in postavilo ⟨ga⟩ za kralja namesto njegovega očeta v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3db89a6fa8e7eb30aa1c0cf18e1b8a4fcd02324c19d64b1d494fa30136a7b23f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/36\/1-4.1792438948434.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "in vzel je"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahaça"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahaça"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošija"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "postavilo za kralja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "namesto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegovega očeta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:28.435553383Z",
+  "model": "glm-5.3"
+}

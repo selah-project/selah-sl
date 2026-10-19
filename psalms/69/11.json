@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je 'grlo\/dih\/življenjska moč', ne 'duša' v poznejšem pomenu; zato puščena po zvoku"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol 'biti', hebrejščina ga v ותהי nosi zaimensko"
+    }
+  ],
+  "translation": "In jokal sem v postu svoje nefesh, in to je postalo meni v sramotenje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/9-12.1792435056265.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "in jokal sem"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "v postu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svoje nefesh"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in postalo je"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "v sramotenje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:36.267971924Z",
+  "model": "glm-5.3"
+}

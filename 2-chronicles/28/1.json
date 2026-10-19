@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 28:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tistega, kar je⟩",
+      "rationale": "Hebrew has just 'the straight' as direct object; Slovenian requires a noun phrase"
+    },
+    {
+      "kind": "measurement",
+      "subject": "age and reign length",
+      "rationale": "twenty years old, sixteen years reigning"
+    }
+  ],
+  "translation": "Star dvajset let je bil Ahaz, ko je začel kraljevati, in šestnajst let je kraljeval v Jerušalajimu; ni pa delal ⟨tistega, kar je⟩ prav v očeh Jahveja, kakor David, njegov oče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9e594cb3f5e8af00810fa4bc7664f313392e5d5b0ca9987195954ae866c9da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/28\/1-4.1792438790717.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "star"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ko je začel kraljevati"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "in šest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "najst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni pa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "delal"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "prav"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "kakor David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegov oče"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:50.718294008Z",
+  "model": "glm-5.3"
+}

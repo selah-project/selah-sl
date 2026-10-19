@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 5:13",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ašere",
+      "rationale": "אשירים: ašere (Ašerini stebri\/kipi) — KJV 'groves'\/'graven images' izgubi božanstvo Ašero."
+    },
+    {
+      "kind": "crux",
+      "subject": "tvoja mesta",
+      "rationale": "עריך: 'mesta' (KJV, ASV) proti JPS 'sovražnike' — verbalni samoglasnik se razlikuje, večina bere 'mesta'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "Slovenščina zahteva pomožnik pri pretekliku, hebrejščina ga nima."
+    }
+  ],
+  "translation": "In izpulil bom tvoje ašere iz tvoje srede, uničil pa ⟨ bom ⟩ tvoja mesta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/5\/13-14.1792434104140.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתשתי",
+      "gloss": "in izpulil bom"
+    },
+    {
+      "surface": "אשיריך",
+      "gloss": "tvoje ašere"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iz tvoje srede"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "uničil pa bom"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tvoja mesta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:44.142256877Z",
+  "model": "glm-5.3"
+}

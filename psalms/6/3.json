@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנני \/ רפאני",
+      "rationale": "Dva imperativa z istim priponnim zaključkom -ני tvorita vzporedni par prošenj."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Dvakrat ponovljen nagovor Imena v prošnji."
+    }
+  ],
+  "translation": "Usmili se me, Jahve, kajti omagujem; ozdravi me, Jahve, kajti trepetajo moje kosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/6\/1-4.1792434505864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Usmili se me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "omagujem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ozdravi me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "trepetajo"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "moje kosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:25.867086486Z",
+  "model": "glm-5.3"
+}

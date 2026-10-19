@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 9:10",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iz",
+      "rationale": "Slovenščina potrebuje predlog, hebrejščina ga ima v obliki מ- (izvor), zato dodan z oklepajem."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנהר (Reka)",
+      "rationale": "Z ordinalnim členom misli na Evfrat; dobesedno 'od reke' — 'Reka' ali 'Evfrat'?"
+    },
+    {
+      "kind": "measurement",
+      "subject": "od morja do morja",
+      "rationale": "Prostorska meritev oblasti: od morja do morja, do koncev zemlje."
+    }
+  ],
+  "translation": "In odrezal bovam voz ⟨iz⟩ Efrajima in konja ⟨iz⟩ Jerušalajma, in odrezan bo lok vojne, in govoril bo mir narodom; njegova oblast ⟨bo⟩ od morja do morja in od Reke do koncev zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/9\/9-12.1792434360956.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "In odrezal bom"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "voze"
+    },
+    {
+      "surface": "מאפרים",
+      "gloss": "⟨iz⟩ Efrajima"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "in konja"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "⟨iz⟩ Jerušalajma"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "in odrezan bo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lok"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vojne"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "in govoril bo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "ומשלו",
+      "gloss": "in njegova oblast"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od morja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "in od Reke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "koncev"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:00.957588799Z",
+  "model": "glm-5.3"
+}

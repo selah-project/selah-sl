@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ničevost",
+      "rationale": "אָוֶן pomeni 'ničevost, praznina, naklep'; 'krivica' bi izgubila dobesedno sliko."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stiska",
+      "rationale": "מֵעֹנִי je 'iz zmoženja', depresija, stiska — ne 'trpljenje' na splošno."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Elihu Jobu",
+      "rationale": "Vez 'Varuj se, ne oziraj se' je nagovor — opomin naslovniku."
+    }
+  ],
+  "translation": "Varuj se, ne oziraj se na ničevost, kajti to si izbral raje kot stisko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "16bfc0e0c1d310dabd981c34c189b76ce34f0ab8153a2b58f1fbbe53bc20355a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/21-24.1792436697164.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Varuj se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "oziraj se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničevost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "על",
+      "gloss": "raje kot"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "si izbral"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "stisko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:57.164665883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרש",
+      "rationale": "'lomiti\/razdeliti kruh' nasproti 'razkropiti se'; večina: nihče jim ne lomi kruha"
+    },
+    {
+      "kind": "addition",
+      "subject": "nihče",
+      "rationale": "slovenščina potrebuje osebek, hebrejščina ga samo namiguje s פרש"
+    }
+  ],
+  "translation": "Jezik dojenčka se prilepi na jeho nebce od žeje; dojenčki prosijo za kruh, a nihče jim ga ne lomi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/4\/1-4.1792437030447.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "se prilepi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezik"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "dojenčka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "njegovo nebce"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "od žeje"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "dojenčki"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "prosijo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "za kruh"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "nihče ne razdeli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zanje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:30.449954690Z",
+  "model": "glm-5.3"
+}

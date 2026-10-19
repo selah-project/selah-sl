@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Predlog אֵת (H854) 'pri\/z' se kot ločena beseda v slovenščini steka z 'pri meni'; ohranjen kot ⟨את⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "zmota ostaja pri meni",
+      "rationale": "Drug reading: 'moja zmota leži na meni' — tožba, ne zagovor; Jov tukaj ni priznal krivde, ampak pogojsko dopušča."
+    }
+  ],
+  "translation": "In če resnično zaidim, moja zmota ostaja ⟨את⟩ pri meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "772b40919c30e9bed244a051291c604f7267bd8bf9a13ac44c6bc8834ba540d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/19\/1-4.1792436463435.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "In če"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "resnično"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "zaidim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pri meni",
+      "marks": "pri meni"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ostaja"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "moja zmota"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:03.438467073Z",
+  "model": "glm-5.3"
+}

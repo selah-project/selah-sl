@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 17:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "si zakril",
+      "rationale": "צפן je dobesedno 'skriti s pokrivanjem, shraniti'; 'zakriti pred razumevanjem' ohranja sliko"
+    },
+    {
+      "kind": "elision",
+      "subject": "כן",
+      "rationale": "'zato' על כן je zveza dveh besed; כן samo ne dobi ločene slovenske besede"
+    },
+    {
+      "kind": "secret",
+      "subject": "צפנת",
+      "rationale": "glagol 'skriti\/zatajiti' — Bog skriva razumevanje pred nasprotniki"
+    }
+  ],
+  "translation": "Kajti njihovo srce si zakril pred razumevanjem; zato jih ne boš povzdignil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2248aa7a076023bb4c064b517bc6ae11562bd355c3d0846e2c5431ac87dab4ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/17\/1-4.1792436462308.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihovo srce"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "si zakril"
+    },
+    {
+      "surface": "משכל",
+      "gloss": "pred razumevanjem"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרמם",
+      "gloss": "boš povzdignil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:02.311412706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti v vprašanju, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakov",
+      "rationale": "Ezav govori neposredno Jaakovu v pogajanjih o prvorojenstvu"
+    }
+  ],
+  "translation": "In Ezav je rekel: Glej, jaz grem v smrt, in zakaj mi ⟨je⟩ to prvorojenstvo?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d0ff11142b1d5d823162abac2e76b1bfe849d94f07c53396abc3b51e471117bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/25\/29-32.1792422449020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "grem"
+    },
+    {
+      "surface": "למות",
+      "gloss": "v smrt"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "in zakaj"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "prvorojenstvo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:07:29.021250410Z",
+  "model": "glm-5.3"
+}

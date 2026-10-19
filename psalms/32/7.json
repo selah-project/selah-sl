@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צר \/ תצרני",
+      "rationale": "Isti tročrni koren: ozko mesto in varovati — 'iz ozkega me varuje', v slovenščini izgubljeno."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Glasbeni označevalec, zapisan kot Sela."
+    }
+  ],
+  "translation": "Ti si moj zaklon; pred stisko me boš varoval, z vzkliki rešitve me boš obdal. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/32\/5-8.1792434720133.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "zaklon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "pred stisko"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "me boš varoval"
+    },
+    {
+      "surface": "רני",
+      "gloss": "z vzkliki"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "rešitve"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "me boš obdal"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:00.134990241Z",
+  "model": "glm-5.3"
+}

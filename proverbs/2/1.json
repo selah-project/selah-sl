@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Moj",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ima samostalnik v konstruktu"
+    },
+    {
+      "kind": "you",
+      "subject": "Moj sin",
+      "rationale": "neposreden nagovor učitelja učencu — vzpodbuda"
+    },
+    {
+      "kind": "invitation",
+      "subject": "če sprejmeš",
+      "rationale": "pogojni vzvratni klic, ki vabi bralec k poslušnosti"
+    }
+  ],
+  "translation": "Moj sin, če sprejmeš moje besede in moja zapovedi skriješ pri sebi ⟨אתך⟩,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/2\/1-4.1792435771063.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Moj sin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sprejmeš"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "moje besede"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "in moja zapovedi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "skriješ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "pri sebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:31.063909955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-samuel 14:37",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pri",
+      "rationale": "Hebrew ב in באלהים rendered as 'vprašal pri', inquiry at a sanctuary"
+    },
+    {
+      "kind": "elision",
+      "subject": "ה",
+      "rationale": "Hebrew interrogative prefix in הארד\/התתנם rendered by 'Ali… Ali'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "silent God",
+      "rationale": "Elohim's refusal to answer creates the plot's withheld knowledge"
+    }
+  ],
+  "translation": "In Šaul je vprašal ⟨pri⟩ Elohimu: Ali naj stopim dol za Plištijci? Ali jih boš izročil v roko Jisraelu? In ⟨ta⟩ mu ni odgovoril na ta dan.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "04f74b327bb112abd6bfe82b0b2a80183f22db432c416ab665017e63e4c70fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/14\/37-40.1792427761091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "in je vprašal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "pri Elohimu"
+    },
+    {
+      "surface": "הארד",
+      "gloss": "Ali naj stopim dol"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plištijci"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "ali jih boš izročil"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "mu je odgovoril"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:01.091546418Z",
+  "model": "glm-5.3"
+}

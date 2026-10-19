@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 23:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "crux",
+      "subject": "uporn",
+      "rationale": "מרי pomeni tako 'grenkoba' (KJV, JPS) kot 'upor' (ASV); שחי je tudi 'godorna\/govorica' ali 'razmišljanje'"
+    },
+    {
+      "kind": "crux",
+      "subject": "odebeljuje nad mojim vzdihovanjem",
+      "rationale": "על אנחתי: 'težja kot moj vzdih' (primera) ali 'težka nad\/zaradi mojega vzdihovanja' (vzrok)"
+    }
+  ],
+  "translation": "Tudi danes ⟨je⟩ uporn mojo godorno, ⟨nežno⟩ roka se mi odebeljuje nad mojim vzdihovanjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "22611f0377ce044819b85aa507b1352c908304232dfc0ce76a089988cc97b6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/23\/1-4.1792436545527.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "uporn"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "godorno"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "roka se mi"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "odebeljuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mojim vzdihovanjem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:25.528799344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 15:31",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוא ... שוא",
+      "rationale": "Ponovitev שוא okvirja verza: v čem zaupa, to bo njegovo povračilo — vzporednica dveh šav."
+    },
+    {
+      "kind": "crux",
+      "subject": "נתעה",
+      "rationale": "Glagolska oblika dvoumna: 'on je zapeljan' (KJV) ali 'zapeljuje samega sebe' (ASV); tudi besedni red בשו \/ נתעה je negotov."
+    }
+  ],
+  "translation": "Naj ne zaupa v ničevost, zapeljan ⟨sam⟩; kajti ničevost bo njegovo povračilo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/29-32.1792436482748.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "naj ne"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "zaupa"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "v ničevost"
+    },
+    {
+      "surface": "נתעה",
+      "gloss": "zapeljan ⟨sam⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ničevost"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "תמורתו",
+      "gloss": "njegovo povračilo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:22.751040576Z",
+  "model": "glm-5.3"
+}

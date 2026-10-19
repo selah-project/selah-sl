@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina brez pomožnika — samostalnik in pridevnik stojita skupaj"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול\/גדול",
+      "rationale": "ponovitev 'velika hiša \/ velik Elohim' — utemeljitev, ki jo slovenščina ohrani z enakim pridevnikom"
+    }
+  ],
+  "translation": "In hiša, ki jo jaz gradim, ⟨je⟩ velika, kajti velik je naš Elohim nad vsemi bogovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33b59f29e34947e154aca152ed16c330b1a62d7eada842dedc9c7f067b303845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/2\/1-4.1792438455287.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "in hiša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "gradim"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "je naš Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nad vsemi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bogovi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:15.294477639Z",
+  "model": "glm-5.3"
+}

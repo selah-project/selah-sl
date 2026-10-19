@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 14:3",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרים שפתינו",
+      "rationale": "Dosljedno 'tele nasih ust': teleta namesto zivaliske daritve nudi hvala ust — KJV 'the calves of our lips', JPS 'for bullocks the offering of our lips'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשא",
+      "rationale": "Dosljedno 'dvigni' krivdo; odpustiti je idiomatcno cista odlozitev."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨in⟩ · ⟨dar⟩",
+      "rationale": "Slovenski stavek potrebuje veznik in razjasnilo, ki ga hebrejscina ne izgovori."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפתינו",
+      "rationale": "Ustnice kot meja (שׂפה tudi 'rob, meja') — hvala iz ust namesto daritve iz hleva."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Vzemite ... recite",
+      "rationale": "Imperativni klic z besedami v roki namesto daritve."
+    }
+  ],
+  "translation": "Vzemite s seboj besede in se vrnite h Jahveju; recite mu: Vso krivdo odpusti ⟨in⟩ sprejmi dobro, in poplacali bomo tele — ⟨dar⟩ nasih ust.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4f64cb382f2bb950a45546ee995c19197cc02a664b2c281b39c0ed5216848c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/2-3.1792439010766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Vzemite"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s seboj"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "in se vrnite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "recite"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Vso"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "odpusti"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivdo"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "sprejmi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ונשלמה",
+      "gloss": "in poplacali bomo"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "tele"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "nasih ust"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:30.766816744Z",
+  "model": "glm-5.3"
+}

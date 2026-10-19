@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "izjavljam, kar se bo zgodilo ob koncu jeze",
+      "rationale": "Napoved prihodnjega, skritega konca — razodetje zaprte vsebine."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to je⟩",
+      "rationale": "Hebrejščina brez glagola: 'kajti (za) imenovani čas konec' — brezseudo dodan za slovenščino."
+    }
+  ],
+  "translation": "In rekel: Glej, jaz ti izjavljam ⟨את⟩ tisto, kar se bo zgodilo ob koncu jeze; kajti ⟨to je⟩ za imenovani čas konca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/17-20.1792437503420.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Glej, jaz"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "ti izjavljam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tisto, kar se bo zgodilo ob koncu jeze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se bo zgodilo"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ob koncu"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "jeze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "za imenovani čas"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "konca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:18:23.421396091Z",
+  "model": "glm-5.3"
+}

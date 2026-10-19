@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jaz⟩",
+      "rationale": "hebrejščina nima osebka pri ואלך; slovenščina ga zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "upanje",
+      "rationale": "תקוה je dobesedno 'vrv, vrvič' — upanje kot tisto, po čemer se držiš"
+    }
+  ],
+  "translation": "Poruši me z vseh strani in ⟨jaz⟩ odidem, in izruje mojo upanje kakor drevo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "73763410bb0c133fdc2ba7067d798af746f239bb18033f58ce5030dfa3bc7c86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/19\/9-12.1792436442222.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "poruši me"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "z vseh strani"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "in odidem"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "in izruje"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kakor drevo"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "moje upanje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:42.223650308Z",
+  "model": "glm-5.3"
+}

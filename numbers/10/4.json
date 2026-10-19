@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "samo",
+      "rationale": "slovenščina poudari enojni pih proti dvojnemu iz v. 3"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tisočev",
+      "rationale": "אלף šteje rodovne enote, ne zgolj dobesedno tisoč"
+    }
+  ],
+  "translation": "In če zapiheta z eno samo, zbrali se bodo k tebi načelniki, glavarji tisočev Jisraela.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ec48da0700fefbb516884a805dba57a3c68612e51ba1ddd8845f108caf35819d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/10\/1-4.1792424918748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "In če"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "z eno samo"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "zapiheta"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "zbrali se bodo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "načelniki"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavarji"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tisočev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T15:48:38.749865477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "vični ויצפו je množinski (delavci), slovenščina potrebuje osebek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "keruba",
+      "rationale": "כרובים ostane po zvoku, ne 'kerubin' in ne opisno"
+    }
+  ],
+  "translation": "In naredil je v domu svetosti-svetega dva keruba, delo rezbarije, in prevlekla sta ⟨את⟩ njiju z zlatom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/3\/9-12.1792438419963.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In je naredil"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svetega"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "rezbarije"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "in sta prevlekla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njiju"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "z zlatom"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:39.968416266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rešitev",
+      "rationale": "ješu'a je 'rešitev, pomoč, zmaga' — ne teološko 'odrešenje'"
+    },
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "slovenščina zahteva pomožnik 'biti' pri pretekliku, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Hvalil te bom, kajti odgovoril si mi, in postal si mi za rešitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/21-24.1792435483818.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hvalil te bom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "odgovoril si mi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in postal si"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "za rešitev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:43.819058802Z",
+  "model": "glm-5.3"
+}

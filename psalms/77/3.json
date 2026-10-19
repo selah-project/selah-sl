@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Slovenščina zahteva pomožni glagol pri pretekliku."
+    },
+    {
+      "kind": "crux",
+      "subject": "נגרה",
+      "rationale": "Hebrejščina: roka se 'razlja\/zliva' (נגר) v nočni molitvi z dvignjeno roko; JPS bere 'oko solzi' — obe sliki iz istega korena 'pretakanja'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v kasnejšem pomenu — puščeno po zvoku."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנחם",
+      "rationale": "Hofal 'biti tolažen' — 'zavrnila tolažbo' proti dobesednemu 'zavrnila biti tolažena'."
+    }
+  ],
+  "translation": "V dnevu svoje stiske sem iskal Adonaja; moja roka se je ponoči razlila in ni usahnila; moja nefes je zavrnila tolažbo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/1-4.1792435145271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V dnevu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "svoje stiske"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "sem iskal"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moja roka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ponoči"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "se je razlila"
+    },
+    {
+      "surface": "וולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "usahnila"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "je zavrnila"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "tolažbo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:05.272274044Z",
+  "model": "glm-5.3"
+}

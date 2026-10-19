@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "brez kopule v hebrejščini"
+    },
+    {
+      "kind": "idiom",
+      "subject": "vrzenje sandale na Edom",
+      "rationale": "sandalа na tla pomeni zaseženje posesti; dobesedno bi zavedlo"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי",
+      "rationale": "'zaradi mene' (KJV) proti 'nada mene \/ z mojo oblastjo' — večina bere kot izziv"
+    }
+  ],
+  "translation": "Moab ⟨je⟩ moj lonec za umivanje; na Edom bom vrgel svojo sandalo; nadame Pelešet, kriči zaradi mene!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/9-12.1792434933146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "lonec"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "za umivanje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "bom vrgel"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "svojo sandalo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zaradi mene \/ nadame"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "kriči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:33.147617146Z",
+  "model": "glm-5.3"
+}

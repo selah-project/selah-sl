@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מת",
+      "rationale": "ednina 'mrtvega' (Egipt kot ena oseba) pred množinskim 'mrtve' večine prevodov"
+    },
+    {
+      "kind": "substitution",
+      "subject": "breg",
+      "rationale": "שפת je dobesedno 'ustnica', rob morja"
+    }
+  ],
+  "translation": "In Jahve je rešil ⟨את⟩ Jisraela tisti dan iz rok Micrajima; in Jisrael je videl ⟨את⟩ Micrajim ⟨kot⟩ mrtve na bregu morja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cdc43dc64a16671c25b4b9ae776611e29c5f1a761da68286b6e6686f08cdbda4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/14\/29-31.1792423257722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "je rešil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz rok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtve"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bregu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:20:57.723975052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כיקר כרים",
+      "rationale": "KJV 'kot mast jagnjet' (כרים kot skozer\/pičniki) proti YLT 'kot dragocenost ovrnov'; BSB bere 'sijaj poljan' (כרים ~ קרח?). Tukaj: sijaj ovrnov."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלו ... כלו",
+      "rationale": "Ponovitev 'sočiščeni, sočiščeni' — makrostruktura stiha, v slovenščini ohranjena."
+    }
+  ],
+  "translation": "Kajti hudobni bodo izginili, nasprotniki Jahvejevi pa kakor sijaj ovnov — sočiščeni v dim, sočiščeni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/17-20.1792434750658.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobni"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bodo izginili"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "in nasprotniki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejevi"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "kakor sijaj"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ovnov"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sočiščeni"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "v dim"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sočiščeni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:30.659342281Z",
+  "model": "glm-5.3"
+}

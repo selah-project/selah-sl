@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bližnji",
+      "rationale": "עמית je 'vrstnik, rojak' — beseda iz istega korena kot עם."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשה\/יעשה",
+      "rationale": "Chiastus dejanja in povračila: 'kakor je storil, tako bo storjeno'."
+    }
+  ],
+  "translation": "In če kdo da hibo svojemu bližnjemu, kakor je storil, tako naj se ⟨njemu⟩ stori.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/24\/17-20.1792424513864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "In če kdo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "מום",
+      "gloss": "hibo"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "svojemu bližnjemu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "naj se stori"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨njemu⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T15:41:53.865440969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 6:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina v והיתה sicer ima glagol biti, a slovenščina zahteva popolno konstrukcijo pri desetini"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלכת",
+      "rationale": "koren שלך: 'ob podiranju\/ob padanju listja' — KJV bere 'ko odlagajo liste' (metateza מְשַׁלֶּכֶת), ASV\/JPS 'ko so podrti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצבת ... מצבתה",
+      "rationale": "ponovitev besede panj na začetku in koncu verza — v slovenščini ohranjeno z istim besednim parom"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sveto seme",
+      "rationale": "zapečaten konec poslanstva: ostanek je le panj — skriti ostanek"
+    }
+  ],
+  "translation": "In še v njej ⟨bo⟩ desetina, in se obrne, in bo za sežiganje; kakor terpintinovec in kakor hrast, pri katerih ob podiranju ostane panj v njih — sveto seme je njen panj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3bc2f33005b74deb7c971fd9a717a2498c0b0595a863c11915d7fe832f5623bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/6\/13-13.1792429970590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "in še"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "עשריה",
+      "gloss": "desetina"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "in se obrne"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "in bo"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "za sežiganje"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "kakor terpintinovec"
+    },
+    {
+      "surface": "וכאלון",
+      "gloss": "in kakor hrast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pri katerih"
+    },
+    {
+      "surface": "בשלכת",
+      "gloss": "ob podiranju"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "panj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v njih"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveto"
+    },
+    {
+      "surface": "מצבתה",
+      "gloss": "njen panj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:12:50.590934109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערום",
+      "rationale": "'prebrisan\/ zvitaš' (slabša cona) vs 'pameten\/previden'; enak koren kot gol v 1 Mz 3"
+    },
+    {
+      "kind": "addition",
+      "subject": "naprej",
+      "rationale": "עברו je 'prečkajo\/stopijo čez' — poudarek prehoda čez nevarnost"
+    }
+  ],
+  "translation": "Prebrisan vidi hudo in se skrije, naivni pa gredo ⟨naprej⟩ in so kaznovani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/22\/1-4.1792436078924.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "prebrisan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hudo"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "in se skrije"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "naivni"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gredo"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "in so kaznovani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:38.926042981Z",
+  "model": "glm-5.3"
+}

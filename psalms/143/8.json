@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד je zvesta ljubeča dobrota zaveze — 'lovingkindness' ali 'milost' sta le delna pomena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "'Dvigniti nefes' je hebrejska zveza za usmeriti svojo življenjsko sila, svoje bitje, k nekomu — ne vzdigovanje 'duše' v grškem pomenu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pesnik k Jahveju",
+      "rationale": "Verz je prošnja z dvojnim imperativom (daj mi slišati \/ daj mi spoznati) — naslavlja Boga neposredno."
+    }
+  ],
+  "translation": "Daj mi zjutraj slišati svoj hesed, kajti vate sem zaupal; daj mi spoznati pot, po kateri naj hodim, kajti k tebi sem dvignil svojo nefes.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/5-8.1792435743484.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Daj mi slišati"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "vate"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "sem zaupal"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "daj mi spoznati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "זו",
+      "gloss": "po kateri"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "naj hodim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "sem dvignil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svojo nefes"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:03.485512850Z",
+  "model": "glm-5.3"
+}

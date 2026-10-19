@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Tvoja kri na tvoji glavi",
+      "rationale": "hebrejska formula osebne odgovornosti, dobesedno ohranjena"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naj bo⟩",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "crux",
+      "subject": "מותתי",
+      "rationale": "Amalečanova lastna izjava po Davidu: po 2 Sam 1,6–10 poroča o Saulovi smrti, ki jo morda ni povzročil sam; David sodi po njegovih besedah"
+    }
+  ],
+  "translation": "In David mu je rekel: Tvoja kri ⟨naj bo⟩ na tvoji glavi, kajti tvoja usta so pričala proti tebi, ko si rekel: Jaz sem umoril ⟨את⟩ maziljenca Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/1\/13-16.1792428164809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Tvoja kri"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tvoji glavi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvoja usta"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "so pričala"
+    },
+    {
+      "surface": "בך",
+      "gloss": "proti tebi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko si rekel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "sem umoril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziljenca Jahveja"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "maziljenca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:44.810660662Z",
+  "model": "glm-5.3"
+}

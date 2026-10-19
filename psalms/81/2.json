@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨našo⟩",
+      "rationale": "hebrejščina izraža svojilno samo s končnico -נו"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to izraelski zbor",
+      "rationale": "dvojna imperativa, poziv k slavju"
+    }
+  ],
+  "translation": "Pokličite z rejo Elohima, ⟨našo⟩ moč; zaigrjte vzklik Elohimu Jaakovovemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/1-4.1792435194672.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "pokličite z rejo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "moč ⟨našo⟩"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "zaigrjte vzklik"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovovemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:54.673880678Z",
+  "model": "glm-5.3"
+}

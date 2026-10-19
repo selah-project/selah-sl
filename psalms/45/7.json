@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "vokativ 'o Elohim' (KJV, Geneva) proti 'prestol tvoj je Elohimov' (JPS 'given of God'); naslovljeni je kralj, ne Elohim sam"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva veznik, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "parataktični par 'vekomaj in večno' — dvojni izraz trajanja, v slovenščini zveni kot en"
+    }
+  ],
+  "translation": "Prestol tvoj, ⟨o⟩ Elohim, ⟨je⟩ vekomaj in večno; žezlo ravnosti ⟨je⟩ žezlo tvoje kraljevine.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/5-8.1792434838867.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "prestol tvoj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in večno"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ravnosti"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "tvoje kraljevine"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:58.868733402Z",
+  "model": "glm-5.3"
+}

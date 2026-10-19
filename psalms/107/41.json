@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iz njegove",
+      "rationale": "hebrejščina ima samostalnik 'stiska' z zaimkovno končnico, ki slovenščina izrazi z ločenim zaimekom"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפחות\/כצאן",
+      "rationale": "družine kakor drobnica — podoba množenja čred prevzeta dobesedno"
+    }
+  ],
+  "translation": "In povzdigne reveža iz njegove stiske ter postavi ⟨družine⟩ kakor drobnico.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a21e665bc73bc95b50f307edc276b79471371200406a43bb2a3e2c7db17a02f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/41-43.1792435378745.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "povzdigne"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "reveža"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "iz stiske"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kakor drobnica"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "družine"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:58.745629107Z",
+  "model": "glm-5.3"
+}

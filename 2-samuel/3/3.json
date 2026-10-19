@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 3:3",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ומשנהו",
+      "rationale": "Dobesedno 'njegov dvojnik\/ponovitev' — torej 'drugi' po vrsti; hebrejščina šteje z besedo 'dvojen', ne z številnikom."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kilav",
+      "rationale": "V 1 L kron 3,1 se isti sin imenuje Daniel; tu Kilav — dve imeni istega sina."
+    }
+  ],
+  "translation": "njegov drugi Kilav, od Abigajil, žene Navala Karmelca; in tretji Avšalom, sin Maahe, hčere Talmaja, kralja Gešura.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6379446422c6033a3d372e7bc2331cb36181fc99176cd83d0b460d0af5989b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/3\/1-4.1792428196756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשנהו",
+      "gloss": "njegov drugi"
+    },
+    {
+      "surface": "כלאב",
+      "gloss": "Kilav"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "od Abigajil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navala"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Karmelca"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "in tretji"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maahe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčere"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Gešura"
+    }
+  ],
+  "timestamp": "2026-10-19T16:43:16.757544934Z",
+  "model": "glm-5.3"
+}

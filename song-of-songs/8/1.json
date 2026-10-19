@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "dobesedno 'kdo bi te dal' — hebrejski optativ; slovenščina ga izrazi s pogojnikom."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "slovenščina potrebuje veznik v odvisnem stavku, hebrejščina ga nima."
+    }
+  ],
+  "translation": "Kdo bi te dal kakor brata meni, ki sesa prsi moje matere? Našla bi te zunaj, poljubila bi te, in tudi ne bi me zaničevali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/8\/1-4.1792436864929.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "bi te dal"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kakor brata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ki sesa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "prsi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "moje matere"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "Našla bi te"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "poljubila bi te"
+    },
+    {
+      "surface": "גם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "bi zaničevali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:44.930393684Z",
+  "model": "glm-5.3"
+}

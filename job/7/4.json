@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ומדד ערב",
+      "rationale": "dobesedno 'in izmerjen je večer' — noč je bila izmerjena kot dolga prostornina; JPS 'noč je dolga'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושבעתי נדדים",
+      "rationale": "dobesedno 'nasiten sem bil s premetavanji' — pregnen s tem, kar ni hrana."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשף",
+      "rationale": "sopih večernji ali jutranji sumrak; tu verjetno 'do zore' (KJV\/BSB), ne 'do mraka'."
+    }
+  ],
+  "translation": "Če sem legel, sem rekel: Kdaj se bom vzdignil? In večer je bil izmerjen ⟨dolg⟩, in nasiten sem bil s premetavanjem do nočnega vetra ⟨zore⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "41b6471a0cb73396cea584d43085c4b73243f686816d781d4463aee8ec29aad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/1-4.1792436298868.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "sem legel"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "sem rekel"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kdaj"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "se bom vzdignil"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "in izmerjen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "in nasiten sem bil"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "s premetavanjem"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "do"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "nočnega vetra (sumraka)"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:18.870295087Z",
+  "model": "glm-5.3"
+}

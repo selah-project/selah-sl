@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se mejeta dotikata",
+      "rationale": "יפגעון dobesedno 'zadeneta\/najesteta'; prevodi se razhajajo: 'mejeta se dotikata', 'sešteta se' ali 'sežata'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "kopula dodana v slovenščini, ker hebrejščina ויהי הים גבולו ne potrebuje 'biti' v tem položaju"
+    }
+  ],
+  "translation": "južno Efrajimu in severno Menašeju, morje ⟨je⟩ pa njegova meja; v Ašerju se mejeta dotikata s severa in v Jisakarju z vzhoda.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/17\/9-12.1792426744403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "južno"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrajimu"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "in severno"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menašeju"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in je bilo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "njegova meja"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "in v Ašerju"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "se mejeta dotikata"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "s severa"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "in v Jisakarju"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "z vzhoda"
+    }
+  ],
+  "timestamp": "2026-10-19T16:19:04.404598871Z",
+  "model": "glm-5.3"
+}

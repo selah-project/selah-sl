@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הפוצה",
+      "rationale": "koren pomeni 'razpeti\/odpreti (usta)'; tukaj 'rešiti, iztrgati' — idiom"
+    }
+  ],
+  "translation": "Tisti, ki daje rešitev kraljem, ki rešuje ⟨את⟩ Davida, svojega služabnika, pred hudobnim mečem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/9-12.1792435709132.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Tisti, ki daje"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "rešitev"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ki rešuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svojega služabnika"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "pred mečem"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hudobnim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:29.133995695Z",
+  "model": "glm-5.3"
+}

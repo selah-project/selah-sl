@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ \/ ⟨so⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "slonovina",
+      "rationale": "השן je dobesedno 'zob', tu v pomenu slonove kosti"
+    },
+    {
+      "kind": "crux",
+      "subject": "בת רבים",
+      "rationale": "'hči množice' ali lastno ime vrat Bat-Rabim v Hešbonu"
+    }
+  ],
+  "translation": "Tvoj vrat ⟨je⟩ kakor stolp iz slonovine, tvoje oči ⟨so⟩ kot bazena v Hešbonu ob vratih Bat-Rabim, tvoj nos ⟨je⟩ kakor stolp Libanona, ki gleda proti Damasku.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/7\/5-8.1792436844108.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוארך",
+      "gloss": "tvoj vrat"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "kakor stolp"
+    },
+    {
+      "surface": "השן",
+      "gloss": "iz slonovine"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bazena"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "v Hešbonu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vratih"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Rabim"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvoj nos"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "kakor stolp"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanona"
+    },
+    {
+      "surface": "צופה",
+      "gloss": "ki gleda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "proti"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasku"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:24.108805051Z",
+  "model": "glm-5.3"
+}

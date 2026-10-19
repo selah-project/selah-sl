@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קאת",
+      "rationale": "pelikan — redka beseda, znana le iz pesniških podob samote"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כוס",
+      "rationale": " lahko tudi 'puhar' ali 'lastovka'; večina bere sova"
+    }
+  ],
+  "translation": "Podoben sem pelikanu pustinje, postal sem kakor sova razvalin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/5-8.1792435322853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "podoben sem"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelikanu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pustinje"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "postal sem"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "kakor sova"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "razvalin"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:02.855156265Z",
+  "model": "glm-5.3"
+}

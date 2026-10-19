@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמה",
+      "rationale": "'zloben načrt' (zločin) ali 'spolna nagnjenost' — izvor negotov."
+    }
+  ],
+  "translation": "saj njihove roke načrtujejo zlo in njihova desna roka ⟨je⟩ polna podkupnin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/26\/9-12.1792434684095.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "saj"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "v njihovih rokah"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zloben načrt"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "in njihova desna roka"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "polna"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "podkupnina"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:24.097618691Z",
+  "model": "glm-5.3"
+}

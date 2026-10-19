@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "čednost",
+      "rationale": "חן pomeni milost, naklonjenost ali lepoto; 'venec iz čednosti' ohranja veznost konstrukta."
+    },
+    {
+      "kind": "addition",
+      "subject": "ti bo \/ te",
+      "rationale": "Slovenščina potrebuje namestnika, hebrejščina jih ima v zaimenskih končnicah."
+    }
+  ],
+  "translation": "Dala ⟨ti bo⟩ na tvojo glavo venec iz čednosti, krono lepote ⟨te⟩ bo varovala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf1f4411e8cd614e5055254aeda9d2ef59346b1e27d6800bc2ca24128b2ab2a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/4\/9-12.1792435834979.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "dala bo"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "na tvojo glavo"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "venec"
+    },
+    {
+      "surface": "חן",
+      "gloss": "čednosti"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "krona"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "lepote"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "te bo varovala"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:34.980067839Z",
+  "model": "glm-5.3"
+}

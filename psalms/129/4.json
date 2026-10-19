@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga nima — 'Jahve cedek'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדיק kot 'cedek\/pravičen' — hebrejska beseda ostane po D2."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבות",
+      "rationale": "Spleteni vrvi — KJV\/BSB: 'vrvi hudobnih' (odsekane žrtvi) proti BSB 'me odvrval' — tu izbrana klasična razlaga."
+    }
+  ],
+  "translation": "Jahve ⟨je⟩ cedek, zarezal je vrvi hudobnih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/129\/1-4.1792435590192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "zarezal je"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "vrvi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:30.194347501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "Slovenščina zahteva glagol 'biti'; hebrejščina ga pri samostalniški stavku nima."
+    }
+  ],
+  "translation": "⟨את⟩ Jahveja bom blagoslavljal ob vsakem času, nenehno ⟨bo⟩ njegova hvala v mojih ustih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/1-4.1792434767766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "bom blagoslavljal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ob vsakem"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nenehno"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "njegova hvala"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "v mojih ustih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:47.767986011Z",
+  "model": "glm-5.3"
+}

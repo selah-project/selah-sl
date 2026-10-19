@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "z roko",
+      "rationale": "ביד dobesedno 'z roko', idiom za 'po poti \/ z močjo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "je šel v izgnanstvo",
+      "rationale": "הלך בהגלות dobesedno 'šel v razgaljenje\/izgnanstvo'; glagol gola pomeni 'razgaliti', tu 'odpeljati v pregnanstvo'"
+    }
+  ],
+  "translation": "in Jehocadak je šel v izgnanstvo, ko je Jahve izgnal ⟨את⟩ Jehudo in Jerušalajim z roko Nevukadnecarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "df82fd2be578c996086efc5cc820cc09626438414f658d37deb231d92a6418f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/41-41.1792438028781.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "in Jehocadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je šel"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "v izgnanstvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudo"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "in Jerušalajim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnecarja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:08.782889910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 26:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima glagola biti"
+    },
+    {
+      "kind": "crux",
+      "subject": "pred njim",
+      "rationale": "namešnik se nanaša na Boga iz konteksta, hebrejščina ga ne imenuje"
+    },
+    {
+      "kind": "secret",
+      "subject": "šeol in Abadon",
+      "rationale": "skriti podzemni svet je pred Bogom razgaljen — nič skritega pred njim"
+    }
+  ],
+  "translation": "Gola je ⟨še⟩ šeol pred ⟨njim⟩ in ni pokritka za Abadon.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "152c63d6c621933ac89e1e3a17fb121e5eeb47d3b2b672f34f85d76c3ffae927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/26\/5-8.1792436573880.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "gola"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "pokritek"
+    },
+    {
+      "surface": "לאבדון",
+      "gloss": "za Abadon"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:53.882522979Z",
+  "model": "glm-5.3"
+}

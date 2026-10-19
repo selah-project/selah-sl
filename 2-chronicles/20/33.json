@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 20:33",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "višine",
+      "rationale": "הבמות so 'višine' — vzvišena čaščenska mesta, ne 'hribi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "niso odstranjene",
+      "rationale": "slovenščina potrebuje pasivni glagol; hebrejščina pravi dobesedno 'niso se odvrnile\/odšle'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכינו לבבם",
+      "rationale": "doslovno 'niso pripravili svojega srca' za Elohim svojih očetov"
+    }
+  ],
+  "translation": "Le višine ⟨niso⟩ odstranjene ⟨še⟩ niso odšle, in ⟨še⟩ ljudstvo ni pripravilo svojega srca za Elohim svojih očetov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3b1445139b793024d74f29b6347eba246b0d402353dddaf6908a5c4d32e00b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/20\/33-36.1792438738721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "le"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "višine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "odšle"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "in ⟨še⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "pripravilo"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "za Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "svojih očetov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:58.722043758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 4:16",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zarjal",
+      "rationale": "שאג je rjav leva; 'zaretí' v slovenščini nosi isto podlogo zveri."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "Slovenščina potrebuje glagol biti pri imenskem predikatu; hebrejščina ga nima."
+    }
+  ],
+  "translation": "In Jahve bo zarjal s Ciona in iz Jerušalajma bo dal svoj glas, in trepetala bosta nebesa in zemlja; in Jahve ⟨bo⟩ zatočišče svojemu ljudstvu in trdnjava sinovom Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3fbc8a850e0d0df1e72589a3162180a22b4a1e6f9b8feeeb298aaeae9f757e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/4\/13-16.1792433951966.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "In Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "s Ciona"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "bo zarjal"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "in iz Jerušalajma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bo dal"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ורעשו",
+      "gloss": "in trepetala bosta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "in zemlja"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "zatočišče"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svojemu ljudstvu"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "in trdnjava"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:11.968142536Z",
+  "model": "glm-5.3"
+}

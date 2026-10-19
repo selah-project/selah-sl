@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovni seznam",
+      "rationale": "Verižni rodovnik: sin, sin, sin."
+    },
+    {
+      "kind": "hapax",
+      "subject": "גוג kot Jozefov potomec",
+      "rationale": "Gog tu izraelsko ime v rodovniku — isto ime kot poznejši severni kralj v Jeheskelu, brez povezave."
+    }
+  ],
+  "translation": "Sinovi Joela: Šemaja njegov sin, Gog njegov sin, Šimi njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0de4d91d30b0e44333e1b9a3b76f6d8455afb94af21e726227b509b76aeda7b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/1-4.1792438058554.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Sinovi"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joela"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Šemaja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov-sin"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Gog"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov-sin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov-sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:38.556647417Z",
+  "model": "glm-5.3"
+}

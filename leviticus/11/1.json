@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "torej",
+      "rationale": "slovenščina potrebuje uvodni ukaz, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In Jahve je govoril Mošetu in Aharonu, rekoč: Govorita njima ⟨torej⟩:",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/1-4.1792424118294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "in je govoril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošetu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njima"
+    }
+  ],
+  "timestamp": "2026-10-19T15:35:18.294786669Z",
+  "model": "glm-5.3"
+}

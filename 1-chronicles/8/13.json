@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima glagola biti v tem stavku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האבות → družine",
+      "rationale": "dobesedno 'očetje', tu pomensko 'družine\/rojglavarji'"
+    }
+  ],
+  "translation": "in Beria in Šema — ti ⟨so⟩ glavarji družin ⟨za⟩ prebivalce Ajalona; ti so pregnali ⟨את⟩ prebivalce Gata.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/13-16.1792438093663.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובריעה",
+      "gloss": "in Beria"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "v Šema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavarji"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "družin"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "prebivalcem"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalona"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "so pregnali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prebivalce Gata"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "prebivalce"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:13.664969204Z",
+  "model": "glm-5.3"
+}

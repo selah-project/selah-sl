@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožni glagol v preteriku; hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "פרץ",
+      "rationale": "'razpočil se \/ prebil se' — preneseno 'namnožil se'; dobesedna slika je preboj, ne le rast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "živina",
+      "rationale": "miqne — premoženje v živini; ne splošno 'premoženje'."
+    }
+  ],
+  "translation": "Ali nisi ti ogradel ⟨את⟩ okoli njega in okoli njegove hiše in okoli vsega, kar ima, z vseh strani? Delo njegovih rok si blagoslovil, in njegova živina se je razširila po deželi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/1\/9-12.1792436235482.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "ogradal"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "okoli njega"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "in okoli"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegove hiše"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "in okoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ima"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "z vseh strani"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "njegovih rok"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "si blagoslovil"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "in njegova živina"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "se je razširila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:15.484308516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tvoja jeza",
+      "rationale": "אפך dobesedno 'tvoj nos\/nosi' — hebrejščina jezo umeje v nosnicah."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "Neposreden ogovor Boga; vprašanje je retorično — nihče ne more stati."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨se vname⟩",
+      "rationale": "מאז אפך 'od tedaj, ko (tvoj) nos' — glagol je podumljan, dodan za slovensko slovnico."
+    }
+  ],
+  "translation": "Ti, strašen si ti, in kdo bo stal pred ⟨obrazom⟩ tvojim, odkoder ⟨se vname⟩ tvoja jeza?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/76\/5-8.1792435105972.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "strašen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "in kdo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bo stal"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred ⟨obrazom⟩ tvojim"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "odkoder"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvoja jeza"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:25.974315648Z",
+  "model": "glm-5.3"
+}

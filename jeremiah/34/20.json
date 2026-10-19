@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefeš je grlo \/ življenjski dih — 'njihovo življenje' bi bilo natančneje od 'dušo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina zahteva določno obliko pri 'ptice neba' — hebrejski člen se ne zapiše"
+    }
+  ],
+  "translation": "in podal ⟨את⟩ njih v roko njihovim sovražnikom in v roko tistim, ki iščejo njihovo dušo; njihovo truplo bo v hrano pticam neba in živini ⟨je⟩ zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7d0230518154abe19c650c24ad53b1258aa8c3287d60cf6dadaf0dde2c2238a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/34\/17-20.1792431680464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "in podal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "njihovim sovražnikom"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "in v roko"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tistim, ki iščejo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihovo dušo (nefeš)"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "njihovo truplo"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "v hrano"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ptici"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "in živini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:20.465444192Z",
+  "model": "glm-5.3"
+}

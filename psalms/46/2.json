@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; imenski stavek."
+    },
+    {
+      "kind": "crux",
+      "subject": "zelo najdena",
+      "rationale": "נמצא מאד: dobesedno 'najdena zelo\/rahlo' — KJV 'very present', drugi 'rahko najdena'; lega מאד je negotova."
+    }
+  ],
+  "translation": "Elohim ⟨je⟩ nam zatočišče in moč, pomoč v stiskah, zelo najdena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/46\/1-4.1792434887772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "zatočišče"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "in moč"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "pomoč"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "v stiskah"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "najdena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:47.774115266Z",
+  "model": "glm-5.3"
+}

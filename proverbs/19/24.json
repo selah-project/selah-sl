@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצלחת",
+      "rationale": "»v globoko skledo«; KJV ima »v naročje« — a צלחת je posoda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידו",
+      "rationale": "ednina — »svojo roko«, ne »roki«, kot bi bilo pričakovano"
+    }
+  ],
+  "translation": "Leni je skril svojo roko v skledo, celo v svoja usta je ⟨ne⟩ vrne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f3c37f1b94bb87d26d2143964b5ddc38aba25361142ea20519786dd7e9fd4257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/21-24.1792436016623.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "je skril"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leni"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "v skledo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "celo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "svoja usta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "je vrne"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:36.628257460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תשטמני",
+      "rationale": "šátam: 'preganjaš' (kot zasidovati se zoper koga) ali 'sovražiš' (JPS); izbral 'preganjaš'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨proti⟩",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ga v לי nima izrecno."
+    }
+  ],
+  "translation": "V krutega se obračaš ⟨proti⟩ meni; z močjo roke svoje me preganjaš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/21-24.1792436600190.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "obračaš se"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "v krutega"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "z močjo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "roke svoje"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "me preganjaš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:20.191877177Z",
+  "model": "glm-5.3"
+}

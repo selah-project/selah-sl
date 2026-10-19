@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 24:23",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "njegovo oko",
+      "rationale": "עֵינֵיהוּ je ednina ('njegovo oko') z množinskim 'njihove poti' — večina prevodov bere kot Božje oko, ki bedi nad potmi hudodelnikov"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je' pri 'da mu v varnost'"
+    }
+  ],
+  "translation": "Da mu ⟨je⟩ v varnost, in ⟨se⟩ nanjo zanese, in njegovo oko je nad njihovimi potmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cfa8f97f930a03ac9ffbb4aed381d4f8c19a201058ef5beb76f78e75b096347a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/24\/21-24.1792436500930.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v varnost"
+    },
+    {
+      "surface": "וישען",
+      "gloss": "in se zanese"
+    },
+    {
+      "surface": "ועיניהו",
+      "gloss": "in njegovo oko"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דרכיהם",
+      "gloss": "njihovimi potmi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:40.931221876Z",
+  "model": "glm-5.3"
+}

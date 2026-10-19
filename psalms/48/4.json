@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izkazal se",
+      "rationale": "נודע dobesedno 'znan je postal'; slovenščina potrebuje glagolski ovinek"
+    },
+    {
+      "kind": "addition",
+      "subject": "kot",
+      "rationale": "Predlog ל- tu razkriva vlogo, slovenščina ga izraža s primerjalnim 'kot'"
+    }
+  ],
+  "translation": "Elohim se je v njenih trdnjavah izkazal ⟨kot⟩ visoka utrdba.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/48\/1-4.1792434897182.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "v njenih trdnjavah"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "je izkazal se"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "visoka utrdba"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:57.184331653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sredina noči",
+      "rationale": "אישון je dobesedno 'mali mož očesa' (zenica), preneseno 'najgloblja sredina noči'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "čas",
+      "rationale": "Verz šteje štiri stopnje teme: somrak, mrak, sredina noči, temota — postopno potanjevanje."
+    }
+  ],
+  "translation": "v somrak, v mrak dneva, v sredino noči in v temoto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/9-12.1792435885319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "v somrak"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "v mrak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "v sredino noči"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noči"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "in v temoto"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:25.320446850Z",
+  "model": "glm-5.3"
+}

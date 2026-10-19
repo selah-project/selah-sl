@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי עורו",
+      "rationale": "'sestavine njegove kože' vs 'kosi njegove kože' — בד je lahko ud, veja ali kožni obliž; različni prevodi izbirajo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאכל … יאכל",
+      "rationale": "ponovitev glagola 'požre' v vzporednih polverzih, poudari požirljivost nesreče."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בכור מות",
+      "rationale": "zloženica 'prvorojenec smrti' — najhujši od smrtnih bolezni\/nesreč, brez človeškega poimenovanja."
+    }
+  ],
+  "translation": "Požrli bodo sestavine njegove kože, požre sestavine njegove prvorojenec smrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/13-16.1792436428512.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "požre"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "sestavine"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "njegove kože"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "požre"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sestavine njegove"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorojenec"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:28.513083348Z",
+  "model": "glm-5.3"
+}

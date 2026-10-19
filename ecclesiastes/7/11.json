@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "עם נחלה",
+      "rationale": "'z dediščino' (modrost skupaj z imetjem) proti 'kot dediščina' (ASV\/BSG prevedeno kot primerjava)"
+    }
+  ],
+  "translation": "Dobra je modrost z dediščino, in dodatek ⟨je⟩ tistim, ki gledajo sonce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/9-12.1792437124988.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dediščino"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dodatek"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "tistim, ki gledajo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sonce"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:04.989202305Z",
+  "model": "glm-5.3"
+}

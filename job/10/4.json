@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "smrtnik",
+      "rationale": "אנוש poudarja smrtnost ('smrtni človek'), ne splošno 'človek'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Eloah",
+      "rationale": "retorično vprašanje neposredno Bogu."
+    }
+  ],
+  "translation": "Imaš li oči iz mesa? Ali gledaš, kakor gleda smrtnik?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/10\/1-4.1792436328951.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "Imaš li oči"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "iz mesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imaš li"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ali"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kakor gleda"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "gledaš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:48.953416236Z",
+  "model": "glm-5.3"
+}

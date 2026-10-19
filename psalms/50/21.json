@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "ואערכה nima izrecnega predmeta; ⟨to⟩ označuje postavljene stvari (dejanja)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "in jaz sem molčal",
+      "rationale": "JPS bere והחרשתי kot vprašanje: 'in naj bi molčal?' — izjava ali vprašanje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהיה",
+      "rationale": "oblika Hajeja 'jaz sem' odmeva Iz 3,14; govoreči je sam Elohim, zimson izgubi v slovenščini"
+    }
+  ],
+  "translation": "Tehle stvari si storil, in jaz sem molčal; pomislil si, da sem jaz kakor ti: ošteval te bom in postavil ⟨to⟩ v vrsto pred tvoje oči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/21-23.1792434865458.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tehle"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "in jaz sem molčal"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "pomislil si"
+    },
+    {
+      "surface": "היות",
+      "gloss": "biti"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "jaz sem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kakor ti"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ošteval te bom"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "in postavil v vrsto"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "pred tvoje oči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:25.458710686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ ⟨jarem⟩",
+      "rationale": "hebrejščina nima osebka niti predmeta; נטל עליו dobesedno 'naložil nanj'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "velelnik ali opis",
+      "rationale": "oblika dovoljuje tudi opis ('sedi in molči') poleg velelnika ('naj sede in molči')"
+    }
+  ],
+  "translation": "Sedi sam in molči, ker ⟨je⟩ naložil ⟨jarem⟩ nanj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/25-28.1792437008451.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Sedi"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "in molči"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "⟨je⟩ naložil"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:08.453312998Z",
+  "model": "glm-5.3"
+}

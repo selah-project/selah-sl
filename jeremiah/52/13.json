@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožni glagol, hebrejščina ga ni ima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרף … שרף",
+      "rationale": "glagol ponovljen na začetku in koncu verza, okvir požiga"
+    }
+  ],
+  "translation": "In zažgal je ⟨את⟩ Jahvejevo hišo in ⟨את⟩ kraljevo hišo ter ⟨את⟩ vse hiše Jerušalajima; ⟨את⟩ vsako veliko hišo je sežgal z ognjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/13-16.1792432028725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "in zažgal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvejevo hišo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejevo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "kraljevo hišo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ter ⟨את⟩",
+      "marks": "vse hiše Jerušalajima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ter ⟨את⟩",
+      "marks": "vsako veliko hišo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sežgal"
+    },
+    {
+      "surface": "באש",
+      "gloss": "z ognjem"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:08.726434536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hlastno iskali",
+      "rationale": "šahar dobesedno 'zgodaj se lotiti, iskati ob svitu'; 'hlastno' izgubi podobo zore."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'ko' (večina) proti 'če' (YLT); pogojni 'im' v pripovedi o preteklem dejanju."
+    }
+  ],
+  "translation": "Ko jih je pobijal, so ga iskali, in obrnili so se nazaj in hlastno iskali Ela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/33-36.1792435122145.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "jih je pobijal"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "so ga iskali"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "in obrnili so se nazaj"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "in hlastno iskali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:42.146779341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 22:49",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "niso odplule",
+      "rationale": "hebrejščina ima ednino הלך (ni šel) — ladje kot množica v ednini; slovenščina zahteva množino"
+    },
+    {
+      "kind": "crux",
+      "subject": "deset",
+      "rationale": "עשר (deset) je tukaj okrnjeno zapisano; glej 2 Krn 20,36, kjer je izrecno 'združil se je z Ahazjáhuom, da bi naredil ladje'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ladje taršiša",
+      "rationale": "תרשיש lahko pomeni vrsto trgovske ladje, ne le pristanišče"
+    }
+  ],
+  "translation": "Jehošafat je naredil deset ladij taršiša, da bi šle v Ofir po zlato, toda ⟨niso⟩ odplule, kajti ladje so se razbile pri Ecjon-Geberju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/22\/49-52.1792429305403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ladj"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "taršiša"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da bi šle"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "v Ofir"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "po zlato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "toda ne"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je šel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "so se razbile"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ladje"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "pri Ecjon-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Geberju"
+    }
+  ],
+  "timestamp": "2026-10-19T17:01:45.404258457Z",
+  "model": "glm-5.3"
+}

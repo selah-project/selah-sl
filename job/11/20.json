@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je 'dih, življenjska sila', ne 'duša' v poznejšem pomenu; מפח נפש = izdih življenja, zadnji dih"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפח נפש",
+      "rationale": "'izdih duše\/življenja' (YL T) vs. 'obup duše' (Geneva) vs. 'izpust duha' (KJV 'giving up of the ghost')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקוה",
+      "rationale": "vrv-upanje iz v. 18 se tu obrne: isto ime, druga usoda — nasprotje pravičnega in hudobnega"
+    }
+  ],
+  "translation": "In oči hudobnih izginejo, in beg je izgubil ⟨se⟩ od njih, in njihovo upanje je izdih nefeš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/11\/17-20.1792436414979.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "in oči"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "izginejo"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "in beg"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "je izgubil"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "in njihovo upanje"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "izdih"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:14.984042140Z",
+  "model": "glm-5.3"
+}

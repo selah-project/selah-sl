@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 28:20",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da bi",
+      "rationale": "hebrejščina ima le infinitiv l\/hair; slovenščina potrebuje veznik."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ne bo ostal neokaran",
+      "rationale": "lo jinaqqeh je 'ne bo očiščen\/ne bo oproščen'; dvojna negacija je v slovenščini izražena z litoto."
+    }
+  ],
+  "translation": "Človek zvestobe obiluje blagoslovov; kdor pa hiti, da bi se obogatil, ne bo ostal neokaran.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3181c1b9699163fd3d4412d818a1b05e9d3579f6e99f1224b2187ac140a7f885",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/28\/17-20.1792436190299.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Človek"
+    },
+    {
+      "surface": "אמונות",
+      "gloss": "zvestobe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obiluje"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "blagoslovov"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "kdor pa hiti"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "da bi se obogatil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bo ostal neokaran"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:30.300828634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tujke",
+      "rationale": "זרות: 'tujke\/čudne ženske' (KJV, Wycliffe) proti 'čudne stvari' (ASV, JPS) — prvi okvir je opomin pred vinskimi zapeljivkami, drugi halucinacije."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prevrženosti",
+      "rationale": "תהפכןות je dobesedno 'obrnjene stvari', iz korena za obračanje."
+    },
+    {
+      "kind": "parallelism",
+      "subject": "oči\/srce",
+      "rationale": "Verset je vzporedni dvojni stih: oči–vidijo, srce–govori."
+    }
+  ],
+  "translation": "Tvoje oči bodo videle tujke, tvoje srce pa bo govorilo prevrženosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "feb163848608604bbce5bbee1ad0f93b833777b8836bac80708b3509009a9890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/33-35.1792436142287.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bodo videle"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "tujke"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "tvoje srce"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bo govorilo"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "prevrženosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:42.288756243Z",
+  "model": "glm-5.3"
+}

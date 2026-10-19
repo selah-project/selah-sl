@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je 'dih, življenjska sila', ne nesmrtna duša."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגאל הדם",
+      "rationale": "'odkupitelj krvi' (sorodnik po zakonu) vs. 'krvni maščevalec' — hebrejščina ima isto besedo za odkupitelja in maščevalca."
+    }
+  ],
+  "translation": "da pobegne tja ubijalec, ki udari dušo po pomoti, nevedno; in ta mesta vam bodo v zatočišče pred krvnim maščevalcem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/20\/1-4.1792426811969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "da pobegne"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tja"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "ubijalec"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ki udari"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušo"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "po pomoti"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "vedno"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "in bodo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "v zatočišče"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "pred maščevalcem"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvnim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:20:11.970355299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 2:13",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Slovenščina potrebuje pomožnik za passiv, aramejščina ga nima."
+    },
+    {
+      "kind": "you",
+      "subject": "kraljev odlok",
+      "rationale": "Passivni odlok brez imenovanega izvršitelja — nasilje prihaja z odlokom, ne z osebo."
+    }
+  ],
+  "translation": "In odlok je izšel, modri ⟨so⟩ ⟨bili⟩ pobijani, in iskali so Daniela in njegove tovariše, da bi jih pobili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb0e57a1789b1afeec6273b28319c8185370bc7682de9ac35bb131d7f8a7f8b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/2\/13-16.1792437301777.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודתא",
+      "gloss": "in odlok"
+    },
+    {
+      "surface": "נפקת",
+      "gloss": "je izšel"
+    },
+    {
+      "surface": "וחכימיא",
+      "gloss": "modri"
+    },
+    {
+      "surface": "מתקטלין",
+      "gloss": "pobijani"
+    },
+    {
+      "surface": "ובעו",
+      "gloss": "in iskali so"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniela"
+    },
+    {
+      "surface": "וחברוהי",
+      "gloss": "in njegove tovariše"
+    },
+    {
+      "surface": "להתקטלה",
+      "gloss": "da bi jih pobili"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:01.778029747Z",
+  "model": "glm-5.3"
+}

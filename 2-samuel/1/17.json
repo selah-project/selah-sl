@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika za preteklik"
+    }
+  ],
+  "translation": "In David je zapel ⟨את⟩ to žalostinko nad Šaulom in nad Jehonatanom, njegovim sinom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/1\/17-20.1792428150293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "je zapel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to žalostinko"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "žalostinka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegovim sinom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:30.294153258Z",
+  "model": "glm-5.3"
+}

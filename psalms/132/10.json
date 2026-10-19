@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojega",
+      "rationale": "slovenščina zahteva svojilni pridevek pri עבדך in משיחך"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne odvrni obraz",
+      "rationale": "idiom פני ... תשב: 'ne odvrni obraz' — torej zavrnitve, ne dobesednega obračanja"
+    }
+  ],
+  "translation": "Zaradi Davida, svojega sužnja, ne odvrni obraz svojega mašiah-a.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/9-12.1792435591931.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega sužnja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "odvrni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "svojega mašiah-a"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:31.932904109Z",
+  "model": "glm-5.3"
+}

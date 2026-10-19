@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez osebka; deležnik nadaljuje slavospev o Elohimu iz v. 1–4."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ne bo omahnila nikoli in večno",
+      "rationale": "עולם ועED dobesedno 'skritost in meja' — slovenska fordaja 'nikoli in večno'."
+    }
+  ],
+  "translation": "Utemeljil je ⟨את⟩ zemljo na njenih temeljih, ne bo omahnila nikoli in večno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/5-8.1792435337797.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "Utemeljil je"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "nih temeljih"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bo omahnila"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nikoli"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in večno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:17.798091042Z",
+  "model": "glm-5.3"
+}

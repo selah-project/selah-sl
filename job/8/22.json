@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 8:22",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "oblekli se v sramoto",
+      "rationale": "hebrejska metafora לבש בשת — sramota kot oblačilo; slovenščina jo obdrži dobesedno"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨obstajal⟩",
+      "rationale": "איננו je popolna negacija ('ni ga'); glagol je dodan za slovensko slovnico"
+    },
+    {
+      "kind": "you",
+      "subject": "te (Job)",
+      "rationale": "Bildad neposredno nagovarja Joba"
+    }
+  ],
+  "translation": "Tisti, ki te sovražijo, se bodo oblekli v sramoto, in šotor hudobnih ne bo več ⟨obstajal⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/21-22.1792436286122.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאיך",
+      "gloss": "tisti, ki te sovražijo"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "se bodo oblekli"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "v sramoto"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "in šotor"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne bo več"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:06.123887849Z",
+  "model": "glm-5.3"
+}

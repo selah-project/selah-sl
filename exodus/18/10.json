@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "hebrejščina ima samo deležnik ברוך, brez pomožnika"
+    },
+    {
+      "kind": "you",
+      "subject": "Jitro → Moše in ljudstvo",
+      "rationale": "neposreden nagovor: Jitro blagoslavlja Jahve pred Mošetom in ljudstvom"
+    }
+  ],
+  "translation": "In Jitro je rekel: Blagoslovljen naj bo Jahve, ki ⟨את⟩ vas je rešil iz roke Micrajima in iz roke Faraona — ⟨את⟩ ljudstvo je rešil izpod roke Micrajima.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/18\/9-12.1792423415252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rešil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "in iz roke"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rešil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "izpod"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-19T15:23:35.253024174Z",
+  "model": "glm-5.3"
+}

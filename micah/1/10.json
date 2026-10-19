@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעפרה\/עפר",
+      "rationale": "ime kraja Bet-ha-Afra ('hiša prahu') se igra z 'prah': valjajte se v prahu v Hiši prahu"
+    },
+    {
+      "kind": "you",
+      "subject": "do Judov",
+      "rationale": "imperativi 'ne povejte, ne jočite' neposredno nagovarjajo ljudstvo"
+    },
+    {
+      "kind": "crux",
+      "subject": "התפלשתי",
+      "rationale": "hitpael 1. osebe 'sem se valjal' (govorec\/Miha) proti KJV 'valjaj se' (2. oseba, iz drugega oglašanja)"
+    }
+  ],
+  "translation": "V Gatu ne povejte, ne jočite; v Bet-Leafri v prahu sem se valjal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/1\/9-12.1792434141434.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "V Gatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "povejte"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ne jočite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "jočite"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v Bet-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafri"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "v prahu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "sem se valjal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:21.435673599Z",
+  "model": "glm-5.3"
+}

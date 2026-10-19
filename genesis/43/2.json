@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר",
+      "rationale": "root š-b-r: 'žito' (השבר) in plural with glagolom 'nakupiti žito' (שברו) — ista beseda, dva pomena, v slovenščini razpadeta"
+    },
+    {
+      "kind": "you",
+      "subject": "sinovi",
+      "rationale": "oče neposredno nagovarja sinove z imperativoma 'Vrnite se, nakupite'"
+    }
+  ],
+  "translation": "In zgodbilo se je, ko so pojedli ⟨את⟩ žito, ki so ga prinesli iz Micrajima, da jim je rekel njihov oče: Vrnite se, nakupite nam malo hrane.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/43\/1-4.1792422884409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In zgodbilo se je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "so pojedli"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žito"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "žito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "so prinesli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "njihov oče"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Vrnite se"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nakupite"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hrane"
+    }
+  ],
+  "timestamp": "2026-10-19T15:14:44.410692697Z",
+  "model": "glm-5.3"
+}

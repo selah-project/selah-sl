@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 5:7",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק puščen po zvoku 'cedek', ne 'pravičnost'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבה … גבה … גבהים",
+      "rationale": "Trikratni pomnilnik 'višji — viškim — viški' gradi stopnjevanje hierarhije; v slovenščini ohranjen z istim korenom besede"
+    },
+    {
+      "kind": "crux",
+      "subject": "שומר",
+      "rationale": "'varuje' (kdo nadzira) proti 'opazuje' — subjekt je lahko Bog ali zgolj višji uradnik"
+    },
+    {
+      "kind": "you",
+      "subject": "do bralca",
+      "rationale": "'Če vidiš … ne čudi se' neposreden nagovor bralcu"
+    }
+  ],
+  "translation": "Če zatiranje reveža in nasilje nad pravom in cedekom vidiš v pokrajini, ne čudi se nad ⟨to⟩ stvarjo, kajti višji nad viškim varuje in viški nad njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/5\/5-8.1792437112892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zatiranje"
+    },
+    {
+      "surface": "רש",
+      "gloss": "reveža"
+    },
+    {
+      "surface": "וגזל",
+      "gloss": "in nasilje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nad pravom"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "in cedekom"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidiš"
+    },
+    {
+      "surface": "במדינה",
+      "gloss": "v pokrajini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתמה",
+      "gloss": "čudi se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "stvarjo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "višji"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "viškim"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varuje"
+    },
+    {
+      "surface": "וגבהים",
+      "gloss": "in viški"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:52.894785348Z",
+  "model": "glm-5.3"
+}

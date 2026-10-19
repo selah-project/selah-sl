@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 34:4",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "את ... ובפרך",
+      "rationale": "פרך (surovost) si deli koren s pomikanjem\/trganjem — nasprotje bindingu potrtega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje osebni zaimek za אתם, zato ⟨jih⟩"
+    }
+  ],
+  "translation": "⟨את⟩ omagalih niste okrepili, ⟨את⟩ bolnih niste ozdravili, potrte niste povezali, ⟨את⟩ zavrženih niste odpeljali nazaj, ⟨את⟩ zablodilih niste iskali, ampak jih oblastno poteptavate, s surovostjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf690e89f003df85ce4769192af2962884b9bcb35a26ec5151f19959a53b1c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/34\/1-4.1792433504298.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omagale"
+    },
+    {
+      "surface": "הנחלות",
+      "gloss": "omagale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזקתם",
+      "gloss": "niste okrepili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "bolne"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "bolne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רפאתם",
+      "gloss": "niste ozdravili"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "in potrte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חבשתם",
+      "gloss": "niste povezali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "zavržene"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "zavržene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "niste odpeljali nazaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "zablodile"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "zablodile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשתם",
+      "gloss": "niste iskali"
+    },
+    {
+      "surface": "ובחזקה",
+      "gloss": "z oblastjo"
+    },
+    {
+      "surface": "רדיתם",
+      "gloss": "poteptavate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    },
+    {
+      "surface": "ובפרך",
+      "gloss": "s surovostjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:44.301579408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 47:18",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כִּי אִם",
+      "rationale": "dvojni veznik 'da-če' v en poudarjeni 'razen'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גְּוִיָּתֵנוּ",
+      "rationale": "doslovno 'naša telesa', ne 'mi sami' — poudarek na telesu kot edini premoženjski vrednosti"
+    },
+    {
+      "kind": "elision",
+      "subject": "אִם",
+      "rationale": "drugi אִם v paru כִּי אִם brez lastnega pomena, izgine v 'razen'"
+    }
+  ],
+  "translation": "In ko se je končalo tisto leto, so prišli k njemu v drugem letu in mu rekli: Ne skrivamo pred svojim gospodom, da je srecoffee porabljeno in da je živina ⟨prišla⟩ k mojemu gospodu; ni ostalo pred mojim gospodom ničesar razen naših teles in naše zemlje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d2f0369eec0a43f8ef07cd9ee72529d221192d5be24e97d0ec790aa4f43f5d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/47\/17-20.1792422950086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתם",
+      "gloss": "in ko se je končalo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "leto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisto"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "so prišli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "v letu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugem"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "in so rekli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "skrivamo"
+    },
+    {
+      "surface": "מאדני",
+      "gloss": "pred svojim gospodom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ker"
+    },
+    {
+      "surface": "תם",
+      "gloss": "je porabljeno"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srecoffee"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "in živina"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "živine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mojemu gospodu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ostalo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mojim gospodom"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "razen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "גויתנו",
+      "gloss": "naših teles"
+    },
+    {
+      "surface": "ואדמתנו",
+      "gloss": "in naše zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T15:15:50.087963364Z",
+  "model": "glm-5.3"
+}

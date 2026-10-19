@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 5:1",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eloah",
+      "rationale": "aramejski אלה je aramejska oblika Elohima; uporabljena oblika Eloah po D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "aramejščina brez pomožnika glagola 'biti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חגי",
+      "rationale": "ime preroka pomeni 'praznik', povezano s בשם — v slovenščini izgubljeno"
+    }
+  ],
+  "translation": "In prerokovala sta Hagaj, prerok, in Zeharija, sin Ida, prerok, Judom, ki ⟨so bili⟩ v Judeji in v Jerušalajim, v imenu Eloah Jisraela, nadnje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3dd81ccaa02aeb44040bed8a6edd4d37ad2a2d2dc050961a0ac994033cb79b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/5\/1-4.1792437710703.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתנבי",
+      "gloss": "in prerokovala sta"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagaj"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "prerok"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "in Zeharija"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "Ido"
+    },
+    {
+      "surface": "נביאיא",
+      "gloss": "prerok"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Judi"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביהוד",
+      "gloss": "v Judeji"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "in v Jerušalajim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עליהון",
+      "gloss": "nadnje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:50.706057147Z",
+  "model": "glm-5.3"
+}

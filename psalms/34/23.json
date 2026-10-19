@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dih\/življenjska sila', ne nesmrtna duša."
+    },
+    {
+      "kind": "alternative",
+      "subject": "noben od tistih, ki se zatekajo",
+      "rationale": "Dobesedno 'vsi, ki se zatekajo, ne bodo obsojeni' — dvojna negacija v slovenščini bi bila okorna."
+    }
+  ],
+  "translation": "Jahve odkuplja dušo svojih služabnikov in ni obsojen noben od tistih, ki se zatekajo k njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/21-23.1792434733080.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "odkupljuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svojih služabnikov"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "obsojen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noben od"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "tistih, ki se zatekajo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:13.082073209Z",
+  "model": "glm-5.3"
+}

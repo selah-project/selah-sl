@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דגול",
+      "rationale": "participij od דגל 'izobeši zastavo': 'z zastavo označen \/ izpostavljen' proti 'izvoljeni' (KJV) ali 'vidnejši od vseh'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דגול \/ דגל",
+      "rationale": "slika vojaške zastave: med desettisočerico ga označuje zastava — v prevodih se slika pogosto izgubi"
+    }
+  ],
+  "translation": "Moj ljubljeni je bleščeč in rdeč, z zastavo označen nad mirjado.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/5\/9-12.1792436841414.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "moj ljubljeni"
+    },
+    {
+      "surface": "צח",
+      "gloss": "bleščeč"
+    },
+    {
+      "surface": "ו אדום",
+      "gloss": "in rdeč"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "z zastavo označen"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "nad mirjado"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:21.416071594Z",
+  "model": "glm-5.3"
+}

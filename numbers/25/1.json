@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לזנות",
+      "rationale": "dobesedno 'voditi vlačugarsko življenje'; tukaj tako dobesedno (nemišljensko) kot pregovorno odpadništvo."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss-mismatch": "",
+      "rationale": "hebrejski 'el' v zvezi z ločitvijo se v slovenščini uteče v predlog 'z'."
+    }
+  ],
+  "translation": "In Jisrael je ostal v Šitimu, in ljudstvo je začelo nečistovati z hčermi Moaba.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0343efe128faed1801f91b62bbdf3a0f38ec239c733469186c1b1a872c77b549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/25\/1-4.1792425294869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "je ostal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "v Šitimu"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "in je začelo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "nečistovati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "hčeram"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    }
+  ],
+  "timestamp": "2026-10-19T15:54:54.870178805Z",
+  "model": "glm-5.3"
+}

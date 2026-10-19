@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gnilič",
+      "rationale": "שחין je vnetje, razjeda; 'gnilič' (stara slovenska beseda za razjedo\/ognojek) ohranja telesnost."
+    },
+    {
+      "kind": "addition",
+      "subject": "njegove glave",
+      "rationale": "קדקדו pomeni 'njegovo teme'; 'glave' je dodano za slovensko jasnost."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת פני je 'izpred obličja'; sam מאת nima lastnega pomena, zato ⟨את⟩ samo v glosi."
+    }
+  ],
+  "translation": "In sadit je šel ven izpred ⟨obličja⟩ Jahvejevega ter udaril ⟨את⟩ Ijova z gniličem, hudim, od podplata njegove noge do temena ⟨njegove glave⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ffd3b03428f65098e92f115ca1a442e0fabe4717ad7bbaaea673ca7d6127fe1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/2\/6-7.1792439067457.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "In je šel ven"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "izpred ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "in je udaril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijova"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijova"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "z gniličem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hudim"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "od podplata"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "njegove noge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "temena njegove glave"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:27.458114847Z",
+  "model": "glm-5.3"
+}

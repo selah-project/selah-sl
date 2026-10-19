@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ bo",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "dumija tehilah",
+      "rationale": "'tišina ⟨je⟩ hvala' (YLt) proti 'hvala čaka nate' (KJV) — odnos dveh samostalnikov brez glagola je odprt"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "neposreden ogovor Elohima skozi celo pesem"
+    }
+  ],
+  "translation": "Tebi ⟨je⟩ tišina ⟨kot⟩ hvala, Elohim, na Cionu, in tebi ⟨bo⟩ izpolnjen ⟨celo⟩ zaobljuba.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/65\/1-4.1792434992047.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "tišina"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "hvala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Cionu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "in tebi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bo izpolnjen"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zaobljuba"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:32.049319543Z",
+  "model": "glm-5.3"
+}

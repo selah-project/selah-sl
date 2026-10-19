@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקץ",
+      "rationale": "KJV 'abhorred' nasproti YLT 'cutteth off': gnusiti se ali odrezati v Jisraelu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שטן",
+      "rationale": "Tu obična beseda 'nasprotnik' (Rezon), ne knez zla; hebrejščina ima isto besedo."
+    }
+  ],
+  "translation": "In bil je nasprotnik Jisraelu vse dni Šeloma; in ⟨את⟩ húdo, ki jo je storil Hadad, in gnusil se mu je Jisrael, in kraljeval je nad Aramom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/11\/25-28.1792429059422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in bil je"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "nasprotnik"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "húdo, ki jo je storil Hadad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "in gnusil se mu je"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in kraljeval je"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:57:39.422827362Z",
+  "model": "glm-5.3"
+}

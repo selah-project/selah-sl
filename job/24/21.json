@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pase",
+      "rationale": "רעה pomeni dobesedno 'pasti (čredo)' — ropar 'pase' na neplodni in vdovi; angleški prevodi 'devoureth' ali 'evil entreateth' so razlage, ne oblika"
+    },
+    {
+      "kind": "crux",
+      "subject": "pase",
+      "rationale": "Nekateri berijo רֹעֶה (dela húdo — 'deluje húdo') namesto רֹעֶה (pase); soglasniki so isti"
+    }
+  ],
+  "translation": "Pase ⟨je⟩ ⟨את⟩ neplodno, ki ne rodi, in vdovi ne stori dobro.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cfa8f97f930a03ac9ffbb4aed381d4f8c19a201058ef5beb76f78e75b096347a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/24\/21-24.1792436500930.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "pase"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "neplodno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "rodi"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "in vdovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "stori dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:40.930788758Z",
+  "model": "glm-5.3"
+}

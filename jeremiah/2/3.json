@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez kopule, slovenščina brez nje ne more"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prvina pridelka",
+      "rationale": "slika prvih sadežev, posvečenih Jahveju; kdor jih poje, je kriv"
+    }
+  ],
+  "translation": "Svet Jisraela ⟨je⟩ Jahvejev, prvina njegovega pridelka; vsi, ki ga jedo, bodo krivi, húdo pride nadnje — govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6af2e5c5a4b11c549c8a82a011af0178168ec588d3cbbfce4139e838fb465c96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/1-4.1792431013909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvejev"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvina"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "njegovega pridelka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "ki ga jedo"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bodo krivi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "pride"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nadnje"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:30:13.910888869Z",
+  "model": "glm-5.3"
+}

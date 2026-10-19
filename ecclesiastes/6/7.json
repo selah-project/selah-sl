@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nafša",
+      "rationale": "נפש je 'dih\/grlo\/življenjski apetit', ne 'duša'; prepuščeno po zvoku"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפיהו",
+      "rationale": "do njegovih ust = za njegova usta (njegov trebuh); dobesedna telesna slika"
+    }
+  ],
+  "translation": "Vsa️ nagava človeka ⟨ gre ⟩ ⟨ v ⟩ njegova usta, toda nafša se ne napolni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/6\/5-8.1792437078211.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nagava"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "⟨ gre ⟩ ⟨ v ⟩ njegova usta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "toda nafša tudi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nafša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "napolni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:18.212732133Z",
+  "model": "glm-5.3"
+}

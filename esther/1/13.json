@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי כן דבר המלך",
+      "rationale": "KJV\/JPS berou 'tako je bila navada kralja'; YLT dobesedno 'tako je beseda kralja' — dobesedna različica je izbrana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dat",
+      "rationale": "Perzijska beseda דת pomeni kraljevi odlok\/statut; puščena po zvoku 'dat'."
+    }
+  ],
+  "translation": "In kralj je rekel modrecem, poznavalcem časov — kajti tako je beseda kralja pred vsemi poznavalci dat in prava —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/1\/13-16.1792437172410.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "modrecem"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "poznavalcem"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "časov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsemi"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "poznavalci"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "in prava"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:52.415223504Z",
+  "model": "glm-5.3"
+}

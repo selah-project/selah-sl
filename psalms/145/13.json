@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "traja",
+      "rationale": "hebrejščina ne izreka glagola; vladavina v vseh rodih implicitno vztraja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכותך מלכות",
+      "rationale": "ponovitev besede kraljestvo v stavku brez glagola — nominalni poudarek, v slovenščini delno glajen"
+    }
+  ],
+  "translation": "Tvoje kraljestvo je kraljestvo vseh vekov, in tvoja vladavina ⟨traja⟩ v vsakem rodu in rodu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/13-16.1792435710014.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "tvoje kraljestvo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljestvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "vekov"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "in tvoja vladavina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vsakem"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rodu"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "in rodu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:30.015563622Z",
+  "model": "glm-5.3"
+}

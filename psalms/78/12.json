@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pred očmi",
+      "rationale": "נגד je dobesedno 'nasproti\/pred'; 'pred očmi' idiomatsko, a blizu"
+    },
+    {
+      "kind": "addition",
+      "subject": "očmi",
+      "rationale": "נגד samo po sebi ne omenja oči; dodano za berljivost"
+    }
+  ],
+  "translation": "Pred očmi njihovih očet je naredil čudeže v deželi Micrajim, na polju Coan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/9-12.1792435116831.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "pred očmi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "njihovih očet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "čudeže"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "na polju"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Coan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:36.833195459Z",
+  "model": "glm-5.3"
+}

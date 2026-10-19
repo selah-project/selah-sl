@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dal bo zapreti",
+      "rationale": "Pi'el הסגיר je povzročiteljsko: duhovnik 'da zapreti', ne zapre sam."
+    },
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "Slovenščina dodaja predlog 'za' pred časovnim določilom."
+    }
+  ],
+  "translation": "In duhovnik bo šel iz hiše k vhodu hiše in dal bo zapreti ⟨את⟩ hišo za sedem dni.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e61339b29cce012c4c6ab1fb1eceb947dbbe02b207e0436c312ffc8d9881011a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/14\/37-40.1792424246890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "in šel bo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vhodu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "in dal bo zapreti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hišo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-10-19T15:37:26.890978219Z",
+  "model": "glm-5.3"
+}

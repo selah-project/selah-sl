@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 27:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "me",
+      "rationale": "hebrejščina pravi dobesedno 'ne bo grajalo moje srce mojih dnij'; slovenščina potrebuje predmet 'me'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יחרף",
+      "rationale": "koren pomeni 'odtrgati, razodeti'; druga možnost 'razkrinkalo' namesto 'grajalo'."
+    }
+  ],
+  "translation": "Svojo pravičnost držim trdno in je ne popustim; moje srce me ne bo grajalo ⟨skozi⟩ moje dneve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/5-8.1792436595582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקתי",
+      "gloss": "Svojo pravičnost"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "držim trdno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ארפה",
+      "gloss": "popustim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "bo grajalo"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "moje dneve"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:15.583529672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "postavil",
+      "rationale": "נסכתי dobesedno 'izlil sem' (umno maziljenje): 'postavil' (KJV) proti 'namazal' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'sem', ki ga hebrejščina nima (perfekt)."
+    },
+    {
+      "kind": "you",
+      "subject": "govor Elohima",
+      "rationale": "Neposreden govor — govorec je Elohim iz v. 4, naslovljeni so uporni kralji."
+    }
+  ],
+  "translation": "In jaz: »Postavil sem svojega kralja na Sion, goro svoje svetosti.«",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/2\/5-8.1792434535747.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "In jaz"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "sem postavil"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "svojega kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svoje svetosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:55.748900626Z",
+  "model": "glm-5.3"
+}

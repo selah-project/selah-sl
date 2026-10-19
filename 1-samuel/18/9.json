@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עון",
+      "rationale": "Neobičajna oblika: sopomenčno z עין (oko) — 'glejal z zlim očesom' (KJV 'eyed'), dobesedno pa 'hudobnost' — prevodi se razhajajo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "z zlim očesom glejel",
+      "rationale": "עון dobesedno 'hudobnost\/perversnost'; prevedeno kot opis glejanja, kot večina starih prevodov."
+    }
+  ],
+  "translation": "In je Šaul z zlim očesom glejel ⟨את⟩ Davida, od tistega dne naprej.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9cbcbd1c84569f80b6e0663f5ac2250682273701ea7a4fdef6542f485ccafa35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/18\/9-12.1792427857268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in je"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "z zlim očesom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "od dneva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tistega"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "naprej"
+    }
+  ],
+  "timestamp": "2026-10-19T16:37:37.268818390Z",
+  "model": "glm-5.3"
+}

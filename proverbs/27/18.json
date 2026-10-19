@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bo povzdignjen v čast",
+      "rationale": "יכבד je dobesedno 'biti težek'; 'čast' je teža v prenesenem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨njen⟩",
+      "rationale": "Slovenščina potrebuje svojilni zaimek, hebrejščina ga v פריה nosi v obliki končnice."
+    }
+  ],
+  "translation": "Kdor varuje smokvo, je ⟨njen⟩ sadež, in kdor varuje svojega gospoda, bo povzdignjen v čast.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/17-20.1792436123001.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "kdor varuje"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "smokvo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "je"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "sadež"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "in kdor varuje"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svojega gospoda"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "bo povzdignjen v čast"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:23.002454536Z",
+  "model": "glm-5.3"
+}

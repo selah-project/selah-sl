@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ali",
+      "rationale": "Hebrew has no question word; the question is carried by context alone"
+    },
+    {
+      "kind": "alternative",
+      "subject": "prinesli blizu",
+      "rationale": "הגשתם is literally 'brought near', the technical verb for presenting offerings"
+    },
+    {
+      "kind": "measurement",
+      "subject": "štirideset let",
+      "rationale": "the verse counts the forty years in the wilderness"
+    },
+    {
+      "kind": "you",
+      "subject": "hiša Jisrael",
+      "rationale": "direct address to the house of Israel"
+    }
+  ],
+  "translation": "⟨Ali⟩ ste žrtve in ⟨minho⟩ prinesli blizu meni v puščavi štirideset let, hiša Jisrael?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ad1f14fee36ae25e64ae009f0b7d9db16b7153cb6b6a9bb3f8c35ecc0b7bde3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/25-26.1792438988419.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "in-minho"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "ste-prinesli-blizu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v-puščavi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "štirideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:08.420064159Z",
+  "model": "glm-5.3"
+}

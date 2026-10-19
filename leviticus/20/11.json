@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערות גלה",
+      "rationale": "'razodel je nagoto' — stalni izraz za spolno zvezo z bližnjim sorodnikom, ohranjen dobesedno"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומתו",
+      "rationale": "infinitiv-absolutni poudarek: 'smrt bosta umorjena'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol 'biti', hebrejščina ga pri 'njuna kri nad njima' nima"
+    }
+  ],
+  "translation": "In človek, ki leže z ⟨את⟩ ženo svojega očeta — nagoto svojega očeta je razodel — oba naj sta umorjena; njuna kri ⟨je⟩ nad njima.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/20\/9-12.1792424425376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "in človek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leže z"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženo svojega očeta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nagoto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "je razodel"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "naj sta umorjena"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "njuna kri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nad njima"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:25.378024648Z",
+  "model": "glm-5.3"
+}

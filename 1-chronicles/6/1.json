@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "rodnoslovni seznam levitskih družin"
+    }
+  ],
+  "translation": "Sinovi Levija: Geršon, Kehat in Merari.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/6\/1-4.1792438075902.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levija"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Geršon"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "in Merari"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:55.903232283Z",
+  "model": "glm-5.3"
+}

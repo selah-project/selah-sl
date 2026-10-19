@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tisti, ki",
+      "rationale": "slovenščina potrebuje samostalnik pri deležniku"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו- (končnica v ידרשׁוהו)",
+      "rationale": "ponujeni zaimek v glagolu, v slovenščini ločen kot ⟨ga⟩"
+    }
+  ],
+  "translation": "Kako srečni so tisti, ki varujejo ⟨את⟩ njegova pričevanja, z vsem srcem ⟨ga⟩ iščejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/1-4.1792435503251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kako srečni so"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ki varujejo"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "njegova pričevanja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "z vsem"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcem"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "iščejo ⟨ga⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:03.252087659Z",
+  "model": "glm-5.3"
+}

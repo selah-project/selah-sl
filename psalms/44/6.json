@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brcali",
+      "rationale": "ננגח is the verb of an ox butting with its horns; Slovenian keeps the bodily picture rather than a generic 'repel'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרינו\/מצרינו",
+      "rationale": "Same root צר 'narrow\/distress' as 'enemies' here and in v. 8 — 'our tight-place-ones'."
+    }
+  ],
+  "translation": "Po tebi bomo brcali svoje nasprotnike, s tvojim Imenom bomo poteptali tiste, ki se dvigajo proti nam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/5-8.1792434805200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Po tebi"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "svoje nasprotnike"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "bomo brcali"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "s tvojim Imenom"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "bomo poteptali"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "tisti, ki se dvigajo proti nam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:25.201626642Z",
+  "model": "glm-5.3"
+}

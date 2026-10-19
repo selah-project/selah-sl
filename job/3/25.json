@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחדתי",
+      "rationale": "koren פחד se ponovi — imenovalnik strahu in glagol istega korena, paronomazija"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויאתיני",
+      "rationale": "dobesedno 'in prišel je name' (poseben glagol בוא\/אתה), ne isto kot יבא לי v drugem delu"
+    }
+  ],
+  "translation": "Kajti strah sem se bal, in prišel je name; in kar sem se bal, je prišlo ⟨name⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/25-26.1792439075210.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "strah"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "sem se bal"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "in prišel je name"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in kar"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "sem se bal"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "je prišlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "name"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:35.211653144Z",
+  "model": "glm-5.3"
+}

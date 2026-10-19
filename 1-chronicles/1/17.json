@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ga v rodoslovju nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodoslovje",
+      "rationale": "seznam imen — sinovi Šema"
+    }
+  ],
+  "translation": "Sinovi Šema: Elam in Ašur in Arpaḥšad in Lud in Aram in Uc in Hul in Geter in Mašeh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cb27f37812a6456cc68161b8050ab0739ec5a7fbf88e8117e16cf0dbaa5c87fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/17-20.1792438019671.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "in Ašur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "in Arpaḥšad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "in Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "in Aram"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "in Uc"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "in Hul"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "in Geter"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "in Mašeh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:59.672895088Z",
+  "model": "glm-5.3"
+}

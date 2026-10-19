@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "po svoji volji",
+      "rationale": "בנפשו je dobesedno 'v svoji duši (nefeš)'; idiom za po osebni odločitvi."
+    }
+  ],
+  "translation": "da veže njegove kneze ⟨po svoji volji⟩ in njegove starešine uči modrosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/21-24.1792435335653.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "da veže"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "njegove kneze"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "⟨po svoji volji⟩"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "in njegove starešine"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "uči modrosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:15.654000735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מתרפקת",
+      "rationale": "Edini pojav v Tanahu; iz korena רפק 'naslanjati se', tvorba hitipa — 'opirajoč se' namesto blage 'naslanjajoč se'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חבלתך",
+      "rationale": "חבל 'vezati, zavoriti' — 'zavrla te je \/ spočela'; YLT bere 'zastavila', večina 'bila v porodnih bolečinah'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלתך ... חבלה ילדתך",
+      "rationale": "Ponovitev korena חבל in ילד v vzporednih polverških; slovenščina ohranja le delno."
+    }
+  ],
+  "translation": "Kdo je ta, ki prihaja iz puščave, opirajoč se na svojega ljubega? Pod jabolkanom sem te prebudil, tam te je zrodila tvoja mati, tam je rodila ona, ki te je rodila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/8\/5-8.1792436888437.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "prihaja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "puščave"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "opirajoč se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "svojega ljubega"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "jabolkanom"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "sem te prebudil"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "te je zrodila"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tvoja mati"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "je rodila"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ki te je rodila"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:08.438809042Z",
+  "model": "glm-5.3"
+}

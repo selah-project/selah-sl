@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ledvice",
+      "rationale": "כליות so dobesedno ledvice — notranjost, zavest; Angleži in slovenske Biblije pogosto pišejo 'srce'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prave stvari",
+      "rationale": "מישרים je 'ravnost, poštenost'; 'kar je pravo' bi bilo druga možnost."
+    }
+  ],
+  "translation": "in moje ledvice bodo poskočile, ko bodo tvoje ustnice govorile prave stvari.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/13-16.1792436062869.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "in bodo poskočile"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "moje ledvice"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ko govorijo"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tvoje ustnice"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "prave stvari"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:22.870629182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "v njih",
+      "rationale": "slovenščina potrebuje kraj, hebrejščina ga v tej obliki ne izrazi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואכלת\/תאכל",
+      "rationale": "verz 10 ('pojedel in se nasitil') se dobesedno ponovi z opozorilnim 'da ne' — enak blaženi dogodek postane nevarnost"
+    }
+  ],
+  "translation": "da ne bi pojedel in se nasitil, ter dobra hiše zidal in ⟨v njih⟩ prebival,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb8d72e731f8fa446a4540813ab780d8baeeeb10d25a9d43f46aa3ae7e416e03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/8\/10-12.1792433324877.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "pojedel"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "in se nasitil"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "in hiše"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zidal"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "in prebival"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:44.879932562Z",
+  "model": "glm-5.3"
+}

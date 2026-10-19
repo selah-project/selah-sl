@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "odgovarjaš",
+      "rationale": "ענה dobesedno 'odgovarjati': YLT 'ne odgovarjaš' vs običajno 'ne pričuješ lažno' — sodniški kontekst odgovarjanja kot pričevanja"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelu",
+      "rationale": "neposreden naslov ljudstvu"
+    }
+  ],
+  "translation": "In ne odgovarjaš against svojega bližnjega priča-lahko — lažno pričevanje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/5\/17-20.1792425698027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odgovarjaš"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "עד",
+      "gloss": "priča-lahko"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lažno"
+    }
+  ],
+  "timestamp": "2026-10-19T16:01:38.028526782Z",
+  "model": "glm-5.3"
+}

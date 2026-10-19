@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרים",
+      "rationale": "glagol רום 'dvigniti': pasivno 'je bila odvzeta' stalna daritev (KJV\/JPS) ali 'se povzdiguje' — tu obravnavan kot pasiv"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "hebrejščina postavlja glagol brez pomožnega bitja; slovenščina zahteva pasivno obliko"
+    }
+  ],
+  "translation": "In do kneza vojske se je povzdignil, in od njega je bila odvzeta stalna daritev, in mesto njegovega svetišča je bilo porušeno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/9-12.1792437511708.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojske"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "se je povzdignil"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "in od njega"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "je bila odvzeta"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "stalna daritev"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "in porušeno je bilo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "njegovega svetišča"
+    }
+  ],
+  "timestamp": "2026-10-19T19:18:31.710275125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "'mešanica\/mešano ljudstvo' (KJV, JPS) proti 'ves ostali ljud' (Wycliffe); koren ערב kot mešana populacija tujcev."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארץ הברית",
+      "rationale": "'dežela zaveze' (Sinaj?) proti 'dežela, ki je v zvezi' — komu je zaveza namenjena, je temno."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כוב",
+      "rationale": "Kub se v Tanahu pojavlja samo tukaj; lokacija blizu Micrajima neznana."
+    }
+  ],
+  "translation": "Kuš in Put in Lud in vsa mešanica in Kub in sinovi dežele zaveze — ⟨z njimi⟩ bodo padli ⟨את⟩ z mečem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/30\/5-8.1792432512833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "in Put"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "in Lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mešanica"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "in Kub"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "zaveze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "z njimi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bodo padli"
+    }
+  ],
+  "timestamp": "2026-10-19T17:55:12.833652418Z",
+  "model": "glm-5.3"
+}

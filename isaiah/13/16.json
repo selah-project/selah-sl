@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bodo z njimi legali",
+      "rationale": "שגל je dobeseden evfemizem za spolni odnos; KJV\/JPS 'ravished' (posiljene) načita silo, hebrejščina jezikovno pove le 'polagali bodo z njimi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עללים",
+      "rationale": "dobesedno 'dojenčki, sesniki' — ne 'otroci' nasplošno"
+    }
+  ],
+  "translation": "Njihovi dojenčki bodo raztreščeni pred njihovimi očmi, njihove hiše bodo oplenjene in z njihovimi ženami bodo legali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/13\/13-16.1792430085653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "njihovi dojenčki"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "bodo raztreščeni"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pred njihovimi očmi"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "bodo oplenjene"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "njihove hiše"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "in njihove žene"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "bodo z njimi legali"
+    }
+  ],
+  "timestamp": "2026-10-19T17:14:45.654321119Z",
+  "model": "glm-5.3"
+}

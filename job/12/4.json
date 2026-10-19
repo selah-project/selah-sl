@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti v drugem stavku; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדיק",
+      "rationale": "cedek je beseda iz hebrejskega korena; glosa 'cedekov človek' ohranja koren, ki pomeni pravičnost."
+    }
+  ],
+  "translation": "Smeh prijatelju sem jaz, ki kliče k Eloah, in On mu odgovori; smeh ⟨je⟩ cedekov človek, neoporečen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/12\/1-4.1792436381156.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "smeh"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "prijatelju"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ki kliče"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "k Eloah"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "in On mu odgovori"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "smeh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedekov človek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "neoporečen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:41.158351730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih \/ življenjska sila, ne duša v grškem pomenu."
+    },
+    {
+      "kind": "crux",
+      "subject": "preneha za vedno",
+      "rationale": "וחדל: 'preneha za vedno' (rešitev je nemogoča) ali 'in se je za vedno iztekla' — prekinitve med prevajalci."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לעולם",
+      "rationale": "'za vedno' dobesedno 'do skritega \/ izginjanja' — čas onkraj vpogleda."
+    }
+  ],
+  "translation": "In dragocena je odkupnina njihove duše, in preneha ⟨za⟩ vedno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/9-12.1792434874262.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "in dragocena"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "odkupnina"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihove duše"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "in preneha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vedno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:34.263250655Z",
+  "model": "glm-5.3"
+}

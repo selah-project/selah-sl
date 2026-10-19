@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "osramoti",
+      "rationale": "בוש je dobesedno 'obledniti (od sramu)' — slovenščina 'osramotiti' izgubi podobo bledenja."
+    },
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "Hebrejščina ima kohortativ 'in jaz bom živel' brez pomožnika; dodan kot glagolski naklon."
+    }
+  ],
+  "translation": "Podpri me po svoji besedi in ⟨naj⟩ živim, in ne osramoti me glede mojega upanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f2171ca9ded4f0e8c84a24d924add0d0205ac09dc1bac1229adccbce1cee5610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/116-116.1792439031293.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סָמְכֵ֣נִי",
+      "gloss": "Podpri me"
+    },
+    {
+      "surface": "כְאִמְרָתְךָ֣",
+      "gloss": "po svoji besedi"
+    },
+    {
+      "surface": "וְאֶֽחְיֶ֑ה",
+      "gloss": "in ⟨naj⟩ živim"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תְּבִישֵׁ֗נִי",
+      "gloss": "osramoti me"
+    },
+    {
+      "surface": "מִשִּׂבְרִֽי",
+      "gloss": "glede mojega upanja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:51.294198875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לירות \/ ירהו",
+      "rationale": "Isti koren ירה na začetku in sredi verza — streljanje je obrojeno, v slovenščini delno ohranjeno z 'streljajo\/ustrelijo'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תם",
+      "rationale": "'Neporečni' (cel, pošten) nasproti 'popolni'; oblika je ednina s kolektivnim pomenom."
+    }
+  ],
+  "translation": "Da streljajo iz zasede na neporečnega — nenadoma ga ustrelijo in se ne bojijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/64\/5-8.1792435018192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "da streljajo"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "iz zasede"
+    },
+    {
+      "surface": "תם",
+      "gloss": "neporečnega"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nenadoma"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ga ustrelijo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "se bojijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:58.193727042Z",
+  "model": "glm-5.3"
+}

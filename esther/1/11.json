@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bila",
+      "rationale": "slovenščina potrebuje pomožni glagol, hebrejščina ima samo היא"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכתר מלכות",
+      "rationale": "'s kraljevsko krono' — ali gre za krono na njeni glavi ali za kraljevo krono, ki naj bi jo nosila; rabinska razlaga vidi namig na golota"
+    }
+  ],
+  "translation": "naj pripeljejo ⟨את⟩ Vašti, kraljico, pred kralja s kraljevsko krono, da bi pokazali ljudstvom in knezom ⟨את⟩ njeno lepoto, kajti ⟨bila⟩ je lepa na videz.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe5a3fb65ca18f924811ba7cb1573bd07e27d81351854287fbf50aec3b545b39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/1\/9-12.1792437180429.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "naj pripeljejo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vašti, kraljico"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljico"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "s krono"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevsko"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "da bi pokazali"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ljudstvom"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "in knezom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeno lepoto"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "njeno lepoto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "lepa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "na videz"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:00.432571693Z",
+  "model": "glm-5.3"
+}

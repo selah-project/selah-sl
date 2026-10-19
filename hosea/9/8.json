@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je, kot",
+      "rationale": "Hebrejščina brez kopul in veznika med stavki; slovenščina ju dodaja v ⟨…⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "z mojim Elohimom",
+      "rationale": "אלהי lahko 'moj Elohim' (govori Hošea) ali statusna konstrukcija 'Elohimov'; YLT bere celo 'obriral se je od mojega Elohima'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פח יקוש",
+      "rationale": "Zveza 'past lovca ptic' — podoba mreže, razpete kakor tanka kovinska plošča."
+    }
+  ],
+  "translation": "Opazovalec Efrajima ⟨je⟩ z mojim Elohimom ⟨kot⟩ prerok: past lovca ptic ⟨je⟩ na vseh njegovih poteh, sovraštvo v hiši njegovega Elohima.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d5d09eb92835de4ae541378ac56adfdc09d8c44d03eb1f4968286b21c3baf902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/9\/5-8.1792433846002.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "Opazovalec"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mojim Elohimom"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prerok"
+    },
+    {
+      "surface": "פח",
+      "gloss": "past"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "lovca ptic"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njegovih poteh"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "sovraštvo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "njegovega Elohima"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:26.005034486Z",
+  "model": "glm-5.3"
+}

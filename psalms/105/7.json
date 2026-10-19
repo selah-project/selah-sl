@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ · ⟨so⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga v tem verzelnem stavku nima"
+    }
+  ],
+  "translation": "On ⟨je⟩ Jahve, Elohim naš; po vsej zemlji ⟨so⟩ njegove sodbe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/5-8.1792435348155.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po vsej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "njegove sodbe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:28.157112048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrew has no copula; the nominal clause states an office"
+    },
+    {
+      "kind": "substitution",
+      "subject": "srečanja",
+      "rationale": "מועד je 'določeni čas\/godba'; 'šotor srečanja' je tradicionalna zveza za אהל מועד"
+    }
+  ],
+  "translation": "Zekarja, sin Mešelemja, ⟨je bil⟩ vratar pri vhodu ⟨v⟩ šotor srečanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4af917128977be64890599bf9c0f40bec729b6745ca4bd5d4db81380f0168f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/9\/21-24.1792438116280.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Mešelemja"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vratar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vhod"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "šotoru"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "srečanja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:36.281375326Z",
+  "model": "glm-5.3"
+}

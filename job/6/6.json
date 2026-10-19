@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלמות",
+      "rationale": "Hapaks: 'beljak jajca' (KJV) \/ 'slina sanj' (YLT) \/ 'sok utrinkov' (JPS); koren חלם — sanje ali sluzast."
+    },
+    {
+      "kind": "crux",
+      "subject": "בריר",
+      "rationale": "Hapaks: slina ali juha; 'slina sanj' ali 'izcedek utrinkov'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bljuzgavo",
+      "rationale": "תפל je dobesedno 'brez okusa, nemarkirano' — figuralno 'neumnost'; tu 'okusno prazno'."
+    }
+  ],
+  "translation": "Ali se ⟨je⟩ jedlo bljuzgavo brez soli, ali je okus v slini sanj?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/6\/5-8.1792436228681.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "se jedlo"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "bljuzgavo"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "brez"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "okus"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "v slini"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "sanj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:08.682249481Z",
+  "model": "glm-5.3"
+}

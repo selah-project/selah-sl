@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je 'dih, življenjska sila', ne nesmrtne duše"
+    },
+    {
+      "kind": "crux",
+      "subject": "רמיה",
+      "rationale": "'prevareno\/tajnostvo' — lahko 'nemaren' ali 'prevaranten'; izbrana druga"
+    }
+  ],
+  "translation": "Jahve, reši mojo dušo pred ustnicami laži, pred jezikom prevarenim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/120\/1-4.1792435549271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "reši"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "pred ustnicami"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "pred jezikom"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "prevarenim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:49.272178572Z",
+  "model": "glm-5.3"
+}

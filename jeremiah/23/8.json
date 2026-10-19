@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 23:8",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "כי אם je zgolja protivni veznik ('temveč'); אם nima samostojnega pomena in je glosirano prazno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "seme",
+      "rationale": "זרע dobesedno 'seme, potomstvo' — ne 'potomci'."
+    },
+    {
+      "kind": "secret",
+      "subject": "nov eksodus",
+      "rationale": "Zamolkla napoved novega izhoda iz 'dežele severa', ki nadomešča spomin na eksodus iz Micrajima."
+    }
+  ],
+  "translation": "temveč: Živ je Jahve, ki je dvignil in ki je pripeljal ⟨את⟩ seme hiše Jisraela iz dežełe severa in iz vseh dežel, kamor sem jih bil pregnal tja, in prebivali bodo na svoji zemlji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/23\/5-8.1792431494860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "temveč"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "je Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "je dvignil"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in ki"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "je pripeljal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seme hiše Jisraela"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežełe"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "severa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "in iz vseh"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dežel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamor"
+    },
+    {
+      "surface": "הדחתים",
+      "gloss": "sem jih pregnal"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tja"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in prebivali bodo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "svoji zemlji"
+    }
+  ],
+  "timestamp": "2026-10-19T17:38:14.861474090Z",
+  "model": "glm-5.3"
+}

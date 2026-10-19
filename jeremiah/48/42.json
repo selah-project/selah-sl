@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Slovenščina potrebuje povratni glagol; hebrejščina ima samo הגדיל 'povečal [se]'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moab",
+      "rationale": "Neposreden božanski izrek proti Moabu, ne nagovor osebe."
+    }
+  ],
+  "translation": "In uničen bo Moab izmed ljudstev, kajti zoper Jahve se je vzvišil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0fe9c419ce9dfa805a91c5353bc7f0bb72cdfa1b9d90f6266f33806e627414a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/48\/41-44.1792431912975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "in uničen bo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "izmed ljudstev"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "על",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "se je vzvišil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:45:12.976277299Z",
+  "model": "glm-5.3"
+}

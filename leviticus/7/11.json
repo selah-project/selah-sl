@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shelamim",
+      "rationale": "השלמים — daritve shelamim (zajedalne\/delomične daritve), ne 'mirne daritve'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "slovenščina potrebuje predlog pri zvezni zvezi 'Tora za daritev'"
+    }
+  ],
+  "translation": "In to je Tora ⟨za⟩ daritev shelamim, ki jo prinaša Jahveju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/9-12.1792423997349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "in to"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "השלמim",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "prinaša"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T15:33:17.350257196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ponižala",
+      "rationale": "ענה dobesedno 'pritisniti\/ponižati'; v kontekstu Jom Kipur pomeni postiti se — 'postila se' je druga možnost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dihajoče bitje, življenjska sila, ne 'duša' v grškem pomenu"
+    },
+    {
+      "kind": "elision",
+      "subject": "בעצם",
+      "rationale": "dobesedno 'v sami kosti\/moči dneva' — 'ravno ta dan'; slika kosti je izgubljena"
+    }
+  ],
+  "translation": "Kajti vsaka duša, ki se ravno ta dan ne bo ponižala, bo iztrebljena iz svojega ljudstva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/23\/29-32.1792424538645.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsaka"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "se bo ponižala"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ravno"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ta dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "bo iztrebljena"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "iz svojega ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T15:42:18.645822775Z",
+  "model": "glm-5.3"
+}

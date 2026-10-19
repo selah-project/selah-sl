@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik pri preteritu, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Elazar je rodil ⟨את⟩ Pinehasa, Pinehas je rodil ⟨את⟩ Abišuo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ee2038c59a8a8d237dce71378cb6f2dad9a19e034d2e38a9879f73f5263e5ddf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/29-32.1792438053987.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinehasa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehasa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abišuo"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abišuo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:33.989029184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 1:4",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩ ⟨prosim⟩",
+      "rationale": "hebrejski imperativ z נא in נא zaobljenim לי, slovenščina ločeno 'povej' + 'mi' + 'prosim'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הדבר",
+      "rationale": "'kaj je bila zadeva' — 'zadeva' v slovenščini delno podvojena z 'kaj se je zgodilo'"
+    },
+    {
+      "kind": "you",
+      "subject": "možu iz tabora",
+      "rationale": "David zahteva neposredno poročilo: 'Povej mi prosim'"
+    }
+  ],
+  "translation": "In David mu je rekel: Kaj se je zgodilo? Povej ⟨mi⟩ ⟨prosim⟩. In rekel je: Ljudstvo je pobegnilo iz boja, tudi veliko ljudstva je padlo in umrlo so; in tudi Šaul in Jehonatan, njegov sin, sta mrtva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/1\/1-4.1792428223950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se je zgodilo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zadeva"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "povej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נס",
+      "gloss": "je pobegnilo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boja"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "je padlo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "in umrli so"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "in Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sta mrtva"
+    }
+  ],
+  "timestamp": "2026-10-19T16:43:43.951952873Z",
+  "model": "glm-5.3"
+}

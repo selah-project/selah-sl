@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "prenehali (2. pojav)",
+      "rationale": "hebrejščina glagola pri mladeničih ne ponovi; elipza dodana za slovensko slovnico"
+    },
+    {
+      "kind": "substitution",
+      "subject": "glasba",
+      "rationale": "מנגינתם je dobesedno 'njihova napev\/igranje na strunska glasbila'"
+    }
+  ],
+  "translation": "Starci so prenehali ⟨pri⟩ vratih, mladeniči ⟨prenehali⟩ s svojo glasbo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/5\/13-16.1792437004804.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "starci"
+    },
+    {
+      "surface": "משער",
+      "gloss": "pri vratih"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "so prenehali"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "mladeniči"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "s svojo glasbo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:04.805503819Z",
+  "model": "glm-5.3"
+}

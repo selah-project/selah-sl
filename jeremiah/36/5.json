@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצור",
+      "rationale": "'zaprt\/zadržan' — nejasno, ali je Jirmejahu v ječi, bolnen ali zadržan s strani Jahveja."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je', hebrejščina ga nima."
+    }
+  ],
+  "translation": "In Jirmejahu je zapovedal ⟨את⟩ Baruhu, rekoč: Jaz sem zaprt, ne morem priti v hišo Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "467a08531437612b166bedf3e71e57e7dc1f1721d59e49139254c1adea436bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/36\/5-8.1792431703260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "je zapovedal"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "zaprt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "morem"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "priti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hišo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:43.261167141Z",
+  "model": "glm-5.3"
+}

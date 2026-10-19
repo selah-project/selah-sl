@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "recite svojim bratom",
+      "rationale": "neposreden imperativ, naslovljen na otroke z navezo na 1,9"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמי \/ רחמה",
+      "rationale": "simbolični imeni Amí in Ruhamá preigri zavrnitev Lo-amí in Lo-ruhamá iz 1,9 — dvojica se obrne"
+    }
+  ],
+  "translation": "Recite svojim bratom: Amí — moje ljudstvo, in svojim sestram: Ruhamá — usmiljena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b31616355a5530e5d6890226146878deefb310dbd4734f3406351c48fe5a5591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/1-4.1792433845472.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "recite"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "svojim bratom"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Amí — moje ljudstvo"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "in svojim sestram"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamá — usmiljena"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:25.475020696Z",
+  "model": "glm-5.3"
+}

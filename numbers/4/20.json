@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבלע",
+      "rationale": "dobesedno 'ob požiranju svetinje': prevodi se razhajajo — 'za trenutek' (ASV), 'ko se svetinja zavije' (KJV\/JPS), 'ko se pogoltne' (YLT)"
+    },
+    {
+      "kind": "mystery",
+      "subject": "skrite svete stvari",
+      "rationale": "svetinja je pred navadnimi leviti prikrita in zapečatena — videti pomeni umreti"
+    }
+  ],
+  "translation": "In naj ne vstopijo, da bi videli, ⟨kakor⟩ požiranje ⟨את⟩ svetinje, da ne umrejo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "45d4616ce6586472e8b54cd37ee325fdc1a155ac0b1a1f15e09e6b296929fb44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/4\/17-20.1792424743239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in naj ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vstopijo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da bi videli"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "⟨kakor⟩ požiranje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetinjo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetinjo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "da ne umrejo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:45:43.240086178Z",
+  "model": "glm-5.3"
+}

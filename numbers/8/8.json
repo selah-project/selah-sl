@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 8:8",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה je daritev iz moke; tukaj zapisana kot 'mosquito' je napaka — pravilno 'minha' (daritev)"
+    },
+    {
+      "kind": "addition",
+      "subject": "mladega",
+      "rationale": "'mlad' ni v hebrejščini; פר בן בקק je dobesedno 'bik, sin govedi'"
+    }
+  ],
+  "translation": "In vzeli bodo mladega bika govedi in njegovo mosquito: solet, zamešano v olju; in drugega mladega bika govedi vzemi za žrtev za greh.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6cd6930c32ddcfa1ffbd0c6043e0213112408be014d5087a908da84b5bc3a5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/8\/5-8.1792424916439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "in vzeli bodo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mladega bika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "in njegovo mosquito"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solet"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "zamešano"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "v olju"
+    },
+    {
+      "surface": "ופר",
+      "gloss": "in drugega mladega bika"
+    },
+    {
+      "surface": "שני",
+      "gloss": "drugega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vzemi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za žrtev za greh"
+    }
+  ],
+  "timestamp": "2026-10-19T15:48:36.440188412Z",
+  "model": "glm-5.3"
+}

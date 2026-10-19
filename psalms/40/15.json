@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נֶפֶשׁ je 'dih, življenjska sila' — 'duša' je deloma zavajuč, a uveljavljen."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לסװפותה",
+      "rationale": "דoslovno 'postrgati\/izbrisati ⟨jo⟩' — pregnan izraz za uničiti dušo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויכלמו",
+      "rationale": "trije sopomenki sramu (בּוּשׁ, חפר, כלם) v eni vrstici — akumulacija, ki slovenščina zgubi."
+    }
+  ],
+  "translation": "Sram naj jih bo in zmedeni nejó skupaj, ki iščejo mojo dušo, da ⟨jo⟩ pokončajo; naj se pomaknejo nazaj in naj bodo osramočeni, ki želijo mojega hudega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/40\/13-16.1792434809050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "sram naj jih bo"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "in zmedeni nejó"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ki iščejo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "da ⟨jo⟩ pokončajo"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "naj se pomaknejo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "in naj bodo osramočeni"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ki želijo"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mojega hudega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:29.051980417Z",
+  "model": "glm-5.3"
+}

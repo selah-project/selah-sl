@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "hebrejščina ima golo imperfekt יעשו, slovenščina doda modalnost 'naj'"
+    }
+  ],
+  "translation": "in ⟨את⟩ maziljenja olje in ⟨את⟩ dihavnega kadila za svetišče; po vsem, kar sem ti zapovedoval, naj naredijo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/31\/9-12.1792423624612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maziljenja olje"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "maziljenja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dihavnega kadila"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadila"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dihavnega"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "za svetišče"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po vsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sem ti zapovedoval"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "naj naredijo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:27:04.613814446Z",
+  "model": "glm-5.3"
+}

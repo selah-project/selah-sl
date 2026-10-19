@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima glagola biti v tem stavku"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעל לגבול",
+      "rationale": "'nad mejo' (Jahve je velik tudi zunaj Jisraela) ali 'od meje naprej' (od meja Jisraela dalje)"
+    }
+  ],
+  "translation": "In vaše oči bodo videle, in vi boste rekli: Poveličan je Jahve nad mejo Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d28947932efe84caf789d4506c0c2f45d37703029378f68fd5d351f6f8fd7d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/1\/5-8.1792434491700.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "in vaše oči"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "bodo videle"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "in vi"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "boste rekli"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Poveličan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "mejo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:11.701888459Z",
+  "model": "glm-5.3"
+}

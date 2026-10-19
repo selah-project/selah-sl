@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "je ujet (v zanko)",
+      "rationale": "נוקש je glagol »zankati, ujeti zanko«; aktiven »zanka« prepušča pasivni slovenski »je ujet«"
+    },
+    {
+      "kind": "elision",
+      "subject": "Higajon · Sela",
+      "rationale": "glasbeni oznaki, ostajata neprevedeni"
+    }
+  ],
+  "translation": "Znan je Jahve po sodbi, ki jo je izvršil; v delu svojih dlani je ujet hudobnež. Higajon. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/17-20.1792434522705.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "znan je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "izvršil"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "v delu"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "svojih dlani"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "je ujet (v zanko)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hudobnež"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:42.705715287Z",
+  "model": "glm-5.3"
+}

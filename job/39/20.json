@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 39:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol-bitje, ki ga hebrejščina izpušča (nominalni stavek)."
+    },
+    {
+      "kind": "crux",
+      "subject": "התרעישנו",
+      "rationale": "'Preplašiš' (KJV) proti 'dviguje se\/zareska' (ASV 'leap'); koren רעש pomeni tresenje, mahanje."
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "Retorično vprašanje neposredno nagovarja Joba."
+    }
+  ],
+  "translation": "Ali ga preplašiš, da skáče kakor kobilica? Veličast njegovega prhanja ⟨je⟩ groza.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b0824b03a1eb400679b7a1c8600f2827655390c27762f80533db61b8cf597d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/39\/17-20.1792436781140.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התרעישנו",
+      "gloss": "ali ga preplašiš"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kakor kobilica"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "veličast"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "njegovega prhanja"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "groza"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:21.141827153Z",
+  "model": "glm-5.3"
+}

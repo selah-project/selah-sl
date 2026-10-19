@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "kinor",
+      "rationale": "Hebrejščina brez člena; slovenščina uporablja predlog 'ob' z orodnikom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרו\/זמרה",
+      "rationale": "Isti koren זמר — igranje na struni in pesem; ponovitev v enem verzu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Igrajte Jahveju",
+      "rationale": "Veznik, ki kliče k bogoslužju z glasbili."
+    }
+  ],
+  "translation": "Igrajte Jahveju ob kinorju, ob kinorju in z glasom pesmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/98\/5-8.1792435279178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Igrajte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ob kinorju"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ob kinorju"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "in z glasom"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "pesmi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:41:19.179650470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh = grlo\/dih\/življenjska sila; 'ne udrimo ga na dušo' je hebrejski vzorec za 'ne umorimo ga', dobesedno ohranjen"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga \/ na",
+      "rationale": "slovenščina potrebuje predmet in predlog, hebrejščina jih v tej obliki nima"
+    }
+  ],
+  "translation": "In Reuben je slišal in rešil ⟨ga⟩ iz njihovih rok ter rekel: Ne udrimo ⟨ga⟩ ⟨na⟩ dušo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/37\/21-24.1792422779203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "in slišal"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "in rešil ga"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iz njihovih rok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "udrimo ga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:59.204359623Z",
+  "model": "glm-5.3"
+}

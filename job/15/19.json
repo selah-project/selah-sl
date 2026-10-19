@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bila",
+      "rationale": "Slovenščina potrebuje pomožni glagol; hebrejščina ima samo נתנה."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dediščina dežele",
+      "rationale": "Verz šteje izključno lastništvo — dežela dana 'njim samim', nihče tuj ne prešel."
+    }
+  ],
+  "translation": "njim samim je bila dana dežela, in tujec ni prešel mednje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "045d62d856cd4937b69d0bd74c781a588eb5979e5f4713ca197c41810b2f1809",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/17-20.1792436368576.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "samim"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "je bila dana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prešel"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tujec"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mednje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:28.577555771Z",
+  "model": "glm-5.3"
+}

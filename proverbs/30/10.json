@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "postal",
+      "rationale": "Hebrejščina ima samo glagol 'biti kriv', slovenščina potrebuje pomožni glagol."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ne obreklaj",
+      "rationale": "Zabran v drugi osebi, neposreden naslov bralcu."
+    }
+  ],
+  "translation": "Ne obreklaj hlapca ⟨k⟩ njegovemu gospodu, da te ne bo preklel in postal kriv.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/9-12.1792436174122.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "obreklaj"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hlapca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "njegovemu gospodu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "te preklel"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "postal kriv"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:14.124131718Z",
+  "model": "glm-5.3"
+}

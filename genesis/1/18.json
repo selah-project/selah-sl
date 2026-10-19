@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez veznika v 'da je dobro'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין … ובין",
+      "rationale": "Podvojen 'med … in med' ohranja hebrejsko zgradbo ločevanja."
+    }
+  ],
+  "translation": "in vladala podnevi in ponoči, in ločevala med svetlobo in med temo; in Elohim je videl, da ⟨je⟩ dobro.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/1\/17-20.1792421988567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "in vladala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "podnevi"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "in ponoči"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "in ločevala"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "האור",
+      "gloss": "svetlobo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in med"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "temo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:48.568478553Z",
+  "model": "glm-5.3"
+}

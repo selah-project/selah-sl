@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "puščava",
+      "rationale": "מדבר je pašnik\/pusto odprto polje, ne nujno peščena puščava"
+    }
+  ],
+  "translation": "Njemu, ki je vodil ⟨את⟩ svoje ljudstvo po puščavi, kajti na veke je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/13-16.1792435579314.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "ki je vodil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "po puščavi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:19.315136962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina zahteva glagol biti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמר \/ דמתה",
+      "rationale": "zamenjava glasov m\/t med glagolom 'primerjati' in palmo, v slovenščini izgubljeno"
+    }
+  ],
+  "translation": "Ta tvoja rast ⟨je⟩ primerljiva palmi in tvoji prsi grozdom grozdja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/7\/5-8.1792436844108.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "tvoja rast"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "primerljiva"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "palmi"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "in tvoji prsi"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "grozdom grozdja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:24.109375140Z",
+  "model": "glm-5.3"
+}

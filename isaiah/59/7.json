@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sta⟩",
+      "rationale": "slovenščina zahteva glagol 'biti', hebrejščina ga v tem stavku nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבותיהם מחשבות",
+      "rationale": "ponovitev 'načrti načrtov' kot v 59,6 'dela del' — enaka retorična shema."
+    }
+  ],
+  "translation": "Njihove noge tečejo h slabemu in hitijo razliti nedolžno kri; njihovi načrti so načrti ničevosti, pustošenje in razvalina ⟨sta⟩ na njihovih poteh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/5-8.1792430933934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "njihove noge"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "h slabemu"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "tečejo"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "in hitijo"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "razliti"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nedolžno"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "njihovi načrti"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "načrti"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničevosti"
+    },
+    {
+      "surface": "שד",
+      "gloss": "pustošenje"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "in razvalina"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "na njihovih poteh"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:53.935500976Z",
+  "model": "glm-5.3"
+}

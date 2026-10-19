@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני... אם",
+      "rationale": "Prisega z אם: 'Živ sem... ali...' pomeni 'gotovo ni storila'; pogojnik deluje kot zaporna prisega"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Osebni zaimek 'ti' (H859), ne aleph-tav označevalnik predmeta"
+    }
+  ],
+  "translation": "Živ sem, govori Adonaj Jahve: ali je storila Sodom, tvoja sestra, ona in njene hčere, kakor si storila ti in tvoje hčere?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/45-48.1792432253160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "je storila"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "tvoja sestra"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "in njene hčere"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storila"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti",
+      "marks": "ti — zaimek, ne označevalnik predmeta"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "in tvoje hčere"
+    }
+  ],
+  "timestamp": "2026-10-19T17:50:53.161408525Z",
+  "model": "glm-5.3"
+}

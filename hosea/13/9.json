@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחתך",
+      "rationale": "'Uničil si se' (KJV) proti 'tvoja poguba [je od tebe]' (Wycliffe) — כי brano kot 'samo' ali 'kajti'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jisrael",
+      "rationale": "Nagovor Izraelu v drugi osebi."
+    }
+  ],
+  "translation": "Tvoja poguba, o Jisrael, kajti v meni ⟨je⟩ tvoja pomoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/13\/9-12.1792433878213.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "tvoja poguba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "tvoja pomoč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:58.214252268Z",
+  "model": "glm-5.3"
+}

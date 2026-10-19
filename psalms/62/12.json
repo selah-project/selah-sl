@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pripada",
+      "rationale": "Hebrew predlog ל (moč Elohimu) zahteva slovenski glagol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת \/ שתים",
+      "rationale": "Številska vzporednica 'enkrat… dvakrat' — hebrejska figura potrditve"
+    }
+  ],
+  "translation": "Enkrat je govoril Elohim, dvakrat ⟨to⟩ sem slišal: da moč ⟨pripada⟩ Elohimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/9-12.1792434998356.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Enkrat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvakrat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sem slišal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moč"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:38.358478591Z",
+  "model": "glm-5.3"
+}

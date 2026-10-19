@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נדר\/נדבה",
+      "rationale": "Besedna dvojica 'zaobljuba\/prostovoljni dar' — neder (zavezujoča obljuba) in nedava (prostovoljno), razlika določa rok uživanja."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rok uživanja",
+      "rationale": "Prostovoljne daritve se smejo jesti dva dni, zahvalne (7,15) le enega — točno štetje dni."
+    }
+  ],
+  "translation": "Če pa je dar žrtve njegov neder ali nedava, na dan, ko prinese ⟨את⟩ svojo žrtev, naj se poje; naslednji dan pa naj se poje, kar od njega ostane.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/13-16.1792424023408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "če pa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "neder"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nedava"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtev"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "njegovega dara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ko prinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo žrtev"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "svojo žrtev"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "naj se poje"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "naslednji dan"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "kar ostane"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "naj se poje"
+    }
+  ],
+  "timestamp": "2026-10-19T15:33:43.410243580Z",
+  "model": "glm-5.3"
+}

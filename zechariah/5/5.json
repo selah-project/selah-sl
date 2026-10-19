@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩",
+      "rationale": "hebrejski delček נא (prošnja) se v slovenščino doda zubezcem v oklepaju"
+    },
+    {
+      "kind": "invitation",
+      "subject": "angel → prerok Zaharija",
+      "rationale": "imperativ 'vzdigni in glej' vpoklican pogled v videnje"
+    }
+  ],
+  "translation": "In je stopil naprej angel, ki je govoril v meni, in mi je rekel: Vzdigni ⟨naj⟩ svoji očesi in glej, kaj to je, kar izhaja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/5\/5-8.1792434378713.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "in je stopil naprej"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ki je govoril"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שא",
+      "gloss": "vzdigni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨naj⟩"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "svoji očesi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "izhaja"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:18.713643900Z",
+  "model": "glm-5.3"
+}

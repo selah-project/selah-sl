@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "hebrejščina ima zgolj veav, ki tu deluje poudarno"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/ישבר",
+      "rationale": "ponovitev korena lomljenja v istem verzu"
+    }
+  ],
+  "translation": "Glas Jahveja lomi cedre, da, Jahve je zlomil ⟨את⟩ cedre Libanona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/29\/5-8.1792434692347.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lomi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "zlomil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedre Libanona"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:32.349074261Z",
+  "model": "glm-5.3"
+}

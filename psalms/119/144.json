@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks copula; cedek is a noun predicate"
+    },
+    {
+      "kind": "substitution",
+      "subject": "za vedno",
+      "rationale": "לעולם is literally 'into vanishing-point\/concealed time', rendered as 'za vedno'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "do Boga",
+      "rationale": "Verset je prošnja — imperativ 'daj mi razumevanje' neposredno nagovarja Boga"
+    }
+  ],
+  "translation": "Cedek ⟨so⟩ tvoja pričevanja, za vedno; daj mi razumevanje, in bom živel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "659157b8be52f984c9b43988277a7165760e90011943aec6dbe5e503ad324138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/144-144.1792439055701.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tvoja pričevanja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "daj mi razumevanje"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "in bom živel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:15.701784808Z",
+  "model": "glm-5.3"
+}

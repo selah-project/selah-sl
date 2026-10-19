@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nefes kakor izmučena dežela",
+      "rationale": "כלתה manjka v MT; večina bere 'moja duša žeja po tebi' (KJV, JPS), YLT dobesedno 'kakor izmučena dežela zate'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je življenjska sila, dih, grlo — ne ločena 'duša'."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "Glasbeni oznaki za premor ni slovenskega ekvivalenta; ostaja kot zvočno ime."
+    }
+  ],
+  "translation": "Razprorl sem svoji roki k tebi, moja nefes ⟨je⟩ kakor izmučena dežela ⟨žeja⟩ po tebi. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/5-8.1792435743484.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Razprorl sem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svoji roki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kakor dežela"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "izmučena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "po tebi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:03.484984945Z",
+  "model": "glm-5.3"
+}

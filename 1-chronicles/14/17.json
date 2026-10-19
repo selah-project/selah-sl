@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je šel",
+      "rationale": "hebrejščina brez glagola 'biti' — ויצא je 'in šel je iz'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם דויד \/ שם יהוה",
+      "gloss": null,
+      "rationale": "motiv imena: ime Davida se razširi, ker Jahve da svoj strah — vzporednica imen"
+    }
+  ],
+  "translation": "In šel ime Davida je šel ⟨v⟩ vse dežele, in Jahve je dal ⟨את⟩ njegov strah nad vse narode.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "012f00093b3318e0e4fea7c9e52abf745479239a6ae62611276935162749a715",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/14\/17-17.1792438208228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "je šel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vse"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegov strah"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "njegov strah"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narode"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:08.229346978Z",
+  "model": "glm-5.3"
+}

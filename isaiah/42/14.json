@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩",
+      "rationale": "Slovenščina potrebuje povratni veznik pri אתאפק, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "KJV bere 'uničil in pogoltnil' (iz נשם 'spraviti v nič'); ASV\/JPS 'zadihal' — tu sledim dihu roječe žene."
+    }
+  ],
+  "translation": "Molčal sem od vékovno-zamolklega časa, zamolčal sem, ⟨se⟩ zadržal; kakor roječa žena bom zavpila, zadihal in hlastal bom hkrati.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/42\/13-16.1792430633316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "Molčal sem"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od vékovno-zamolklega časa"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "zamolčal sem"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "zadržal"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kakor roječa žena"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "bom zavpila"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "zadihal"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "hlastal bom"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hkrati"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:53.316799473Z",
+  "model": "glm-5.3"
+}

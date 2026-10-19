@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "prelomita",
+      "rationale": "תפרו je 2. oseba množine ('če vi prelomite') — JPS\/KJV berejo osebo, dobesedno je pogoj naslovan na poslušalce"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨s⟩",
+      "rationale": "hebrejščina ima konstrukt 'zavezo dne' — slovenščina potrebuje predlog"
+    },
+    {
+      "kind": "mystery",
+      "subject": "pogojni stavek",
+      "rationale": "neresnični pogoj: nihče ne more prekiniti zaveze dneva in noči — zagotovo zaveze z Davidom"
+    }
+  ],
+  "translation": "Tako govori Jahve: Če prelomita ⟨את⟩ mojo zavezo ⟨s⟩ dnem in ⟨את⟩ mojo zavezo ⟨s⟩ nočjo, da ne bo več dneva in noči v svojem času —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "536010f4029c2e6799bad06c98b91fb4b0cc5413c4e94b27365538b6cbb567fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/33\/17-20.1792431637993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "prelomita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo zavezo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mojo zavezo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "z dnem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "mojo zavezo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mojo zavezo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "z nočjo"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "da ne bo več"
+    },
+    {
+      "surface": "היות",
+      "gloss": " obstajala"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "in noči"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "v svojem času"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:37.994534704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨stvari⟩",
+      "rationale": "'do teh' potrebuje v slovenščini samostalnik, hebrejščina ima le 'אלה'"
+    }
+  ],
+  "translation": "In če do teh ⟨stvari⟩ ne boste poslušali mene, bom dodal, da vas kaznujem sedemkrat za vaše grehe.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/26\/17-20.1792424629802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "teh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "boste poslušali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "bom dodal"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "da kaznujem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedemkrat"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "vaše grehe"
+    }
+  ],
+  "timestamp": "2026-10-19T15:43:49.803571626Z",
+  "model": "glm-5.3"
+}

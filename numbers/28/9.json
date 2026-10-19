@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 28:9",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה ostaja po D2 kot minha — žitna daritev"
+    },
+    {
+      "kind": "addition",
+      "subject": "kot daritev",
+      "rationale": "slovenščina potrebuje oznako vrste daritve, hebrejščina ima samo appozicijo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dva desetinka",
+      "rationale": "odmera moke za šabatno daritev"
+    }
+  ],
+  "translation": "In na dan šabata dva jagnjeti, stari eno leto, brezhibni, in dva desetinka solate kot daritev minhe, zamešana v olju, ter njen libacija.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c7ea6afaba141f6ce1e5d299e2912e99ecf1a943b8380ad363942d984e1c4610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/28\/9-12.1792425368958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "in na dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "jagnjeti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "stari"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eno leto"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "brezhibni"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "in dva"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "desetinka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solate"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kot daritev minhe"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "zamešana"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "v olju"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "ter njen libacija"
+    }
+  ],
+  "timestamp": "2026-10-19T15:56:08.959408540Z",
+  "model": "glm-5.3"
+}

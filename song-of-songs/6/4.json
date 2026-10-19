@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "tu je אַתְּ osebni zaimek 'ti', ne oznaka tožnika — po dogovoru Selah zapisana kot ⟨את⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדגלות",
+      "rationale": "'zastavljene' — dobesedno 'tiste, ki dvigajo zastavo'; večina prevodov dodá 'vojsko\/čete', ki je v hebrejščini ni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "strašna",
+      "rationale": "איומה pomeni 'zastrašujoča, veličastna' — 'terrible' v KJV zveni preveč negativno"
+    }
+  ],
+  "translation": "Lepa si ⟨את⟩, moja prijateljica, kot Tirca, očarljiva kot Jerušalajim, strašna kakor zastavljane ⟨čete⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/6\/1-4.1792436883718.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "lepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moja prijateljica"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "moja prijateljica"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "kot Tirca"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "očarljiva"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "kot Jerušalajim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "strašna"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "kakor zastavljane"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:03.721478485Z",
+  "model": "glm-5.3"
+}

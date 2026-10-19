@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סירים",
+      "rationale": "dvojina 'sirīm' pomeni bodisi trnje (pokanje pod loncem) bodisi 'kotlice'; večina bere trnje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "hevel je dobesedno 'dih, para'; 'ničevost' je le približek"
+    }
+  ],
+  "translation": "Kaj kakor ščet tresh-ja-lonca pod loncem, tako je smeh norega; tudi to je hevel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/5-8.1792437095413.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kakor ščet"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "lonca"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "loncem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "smeh"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "norega"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:35.415140067Z",
+  "model": "glm-5.3"
+}

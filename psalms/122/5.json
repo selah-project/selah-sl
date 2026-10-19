@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/שליו\/שלוה",
+      "rationale": "v6–8 trije koreni na ש-ל: šalom, j'išlaju, šalva — besedna igra miru, v slovenščini delno izgubljena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישבו",
+      "rationale": "doslovno 'sedijo'; prestoli 'stoje' (usidrani) kot v BSB"
+    }
+  ],
+  "translation": "Kajti tam stojijo prestoli za sodbo, prestoli za hišo Davida.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/122\/5-8.1792435543188.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "stojijo"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "prestoli"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "za sodbo"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "prestoli"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "za hišo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:43.189177385Z",
+  "model": "glm-5.3"
+}

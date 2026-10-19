@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svoje",
+      "rationale": "slovenščina zahteva svojilni zaimek, hebrejščina ima samo pripadnik končnice"
+    }
+  ],
+  "translation": "In umivali bodo iz njega Aharon in njegovi sinovi ⟨את⟩ svoje roke in ⟨את⟩ svoje noge.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c2a1a6f17bc6b39a011243e57844f42c9a959608cdec24de1bdf7f64c7fbbd8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/30\/17-20.1792423631196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "in umivali bodo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "in njegovi sinovi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iz njega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje roke"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "svoje noge"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "svoje noge"
+    }
+  ],
+  "timestamp": "2026-10-19T15:27:11.197528426Z",
+  "model": "glm-5.3"
+}

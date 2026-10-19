@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v poznejšem pomenu"
+    }
+  ],
+  "translation": "In dal bom svoj miškan med vas, in ne bo se moja nefes gadala ⟨את⟩ vas.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/26\/9-12.1792424566259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "in dal bom"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "svoj miškan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "med vas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "bo se gadala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "gadala vas"
+    }
+  ],
+  "timestamp": "2026-10-19T15:42:46.260949652Z",
+  "model": "glm-5.3"
+}

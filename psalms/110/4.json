@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pokesal",
+      "rationale": "נחם dobesedno 'vzdihovati\/obžalovati'; tukaj 'spremeniti sklep'"
+    },
+    {
+      "kind": "crux",
+      "subject": "דברתי",
+      "rationale": "'moja uredba\/red' ali 'zaradi mojih besed' — dvoumen izraz v samem središču prerokbe"
+    },
+    {
+      "kind": "you",
+      "subject": "ti",
+      "rationale": "Jahvejeva prisega nagovarja 'adoni' iz v. 1 neposredno"
+    }
+  ],
+  "translation": "Jahve je prisegel in se ne bo pokesal: Ti si duhovnik večno, po uredbi Malki-Cedeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/110\/1-4.1792435467013.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "je prisegel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "se bo pokesal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "uredbi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Cedeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:27.014798978Z",
+  "model": "glm-5.3"
+}

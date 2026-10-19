@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šabat",
+      "rationale": "שבת je šabat — ime, ne 'sobota'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמור",
+      "rationale": "Devarim uporabi שמור ('varuj'), Šemot 20,8 זכור ('spomni se') — razlika med obema različicama deseterih zapovedi"
+    }
+  ],
+  "translation": "Varuj ⟨את⟩ dan šabata, da ga posvetiš, kakor ti je zavezal Jahve, Elohim tvoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4074192af2f8e4b449986ed56fe6def0675f1a6ae68449e38b90f209b9af85ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/5\/10-12.1792433319309.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "varuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan šabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "da ga posvetiš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti je zavezal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:39.312374071Z",
+  "model": "glm-5.3"
+}

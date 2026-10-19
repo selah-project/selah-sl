@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima pomožnika pri נדמו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "dva glasovno sorodna glagola (primerjati \/ utihniti-propasti) v istem verzu; v slovenščini igra izgubi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "utihnili",
+      "rationale": "דמה pomeni 'biti nemo, utihniti', odtod 'propasti'; standardni prevodi 'pomrli so' deloma izravna sredino"
+    }
+  ],
+  "translation": "In človek v bogastvu ne prenoči; primerjan je z živino, utihnili ⟨so⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/13-16.1792434903629.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "in človek"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "v bogastvu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "prenoči"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "primerjan je"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "z živino"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "utihnili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:03.630726474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול je šeol — svet mrtvih — nikoli 'pekel'"
+    },
+    {
+      "kind": "you",
+      "subject": "molivec",
+      "rationale": "neposreden nagovor Jahveja v prošnji"
+    }
+  ],
+  "translation": "Jahve, naj se ne sramujem, kajti klical sem te; naj se sramujejo hudobneži, naj umolknejo v šeolu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/31\/17-20.1792434682455.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "naj se sramujem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "klical sem te"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "naj se sramujejo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobneži"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "naj umolknejo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "v šeolu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:22.456250296Z",
+  "model": "glm-5.3"
+}

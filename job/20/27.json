@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 20:27",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nebesa",
+      "rationale": "hebrejski dvojina šamajim ostaja množina 'nebesa'; oklepaj ni potreben — pustimo brez"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krivdo",
+      "rationale": "עון je 'izkrivljenost, krivda' — ne splošno 'hudobija'."
+    }
+  ],
+  "translation": "Razodeta bodo ⟨nebesa⟩ njegovo krivdo, in zemlja se dviga proti njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "808d4f9111a4f9943accc31da01a87509ac0d05ddc141915a5c83eaae2861ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/25-28.1792436550563.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגלו",
+      "gloss": "razodeta bodo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "njegovo krivdo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "in zemlja"
+    },
+    {
+      "surface": "מתקוממה",
+      "gloss": "se dviga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "proti njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:30.566711075Z",
+  "model": "glm-5.3"
+}

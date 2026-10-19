@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מיץ ×3",
+      "rationale": "trojna ponovitev 'stiskanja' gradi vzporednico: mleko–maslo, nos–kri, jeza–prepir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף \/ אפים",
+      "rationale": "isti koren pomeni 'nos' in 'jeza' — dvojni nos v drugem in tretjem stavku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨iz⟩",
+      "rationale": "slovenski glagol 'privede' potrebuje predlog, ki ga hebrejščina יוציא nima ločeno"
+    }
+  ],
+  "translation": "Kajti stiskanje mleka privede ⟨iz⟩ maslo, in stiskanje nosu privede ⟨iz⟩ kri, in stiskanje jeze privede ⟨iz⟩ prepir.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/33-33.1792436159870.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "stiskanje"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mleka"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "privede"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "maslo"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "in stiskanje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nosu"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "privede"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "in stiskanje"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "jeze"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "privede"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "prepir"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:59.872328561Z",
+  "model": "glm-5.3"
+}

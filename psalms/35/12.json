@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je življenjska sila, ne 'duša' v novozaveznozvenem smislu"
+    },
+    {
+      "kind": "crux",
+      "subject": "שכול לנפשי",
+      "rationale": "'osirotitev moji duši' — KJV\/BSB 'do oderuščine moje duše', YLT 'beravajo mojo dušo', JPS 'osirotitev je prišla na mojo dušo'"
+    }
+  ],
+  "translation": "Vračajo mi hudo za dobro, osirotitev ⟨za⟩ mojo dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/9-12.1792434734176.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Vračajo mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hudo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "osirotitev"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "⟨za⟩ mojo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:14.177703540Z",
+  "model": "glm-5.3"
+}

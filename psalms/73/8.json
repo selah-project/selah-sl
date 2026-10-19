@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "Rugajo se",
+      "rationale": "ימיקו (koren מוק) se v Tanahu pojavi samo tukaj; pomen 'posmehovati se, zmerjati' je izpeljan iz sorodnih korenov."
+    },
+    {
+      "kind": "crux",
+      "subject": "z višave govorijo",
+      "rationale": "ממרום: 'govorijo z višave (domišljavo)' ali 'govorijo proti višini (nebu)' — primerno h Ps 73,9, kjer njihov jezik hodi po zemlji in usta napnejo proti nebesom."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Hebrejščina brez pomožnega glagola; slovenska stavčna zgradba ga zahteva — ⟨so⟩ je v prevodu izpuščeno."
+    }
+  ],
+  "translation": "Rugajo se in govore zlo, zatiranje; z višave govorijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/5-8.1792435046498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "Rugajo se"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "in govore"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zatiranje"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z višave"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govorijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:26.500218119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "brez glagola",
+      "rationale": "hebrejščina ima samo imelec: '⟨את⟩ sonce za vladanje' — brez 'ki je naredil' iz prejšnjega verza"
+    }
+  ],
+  "translation": "⟨את⟩ sonce za vladanje podnevi, kajti na veke je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/5-8.1792435576937.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonce"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sonce"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "za vladanje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "podnevi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:16.938666770Z",
+  "model": "glm-5.3"
+}

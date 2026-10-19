@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojo",
+      "gloss-dummy": "",
+      "rationale": "possessive pronoun added for Slovenian; Hebrew construct בתו already binds 'his daughter'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ta teden",
+      "rationale": "completion of the wedding-week marks the transaction"
+    }
+  ],
+  "translation": "In Jaakov je storil tako in izpolnil ta teden; in dal mu je ⟨את⟩ Rahelo, svojo hčer, njemu za ženo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/29\/25-28.1792422517601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in storil je"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "in izpolnil je"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "teden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dal je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelo"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelo"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "svojo hčer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:37.602484088Z",
+  "model": "glm-5.3"
+}

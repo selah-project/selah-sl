@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Dvojna svetost — dobesedno 'svetost svetinj', superlativ s ponovitvijo istega korena קדש."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina v primerjavi כחטאת...הוא izpušča glagol; slovenščina potrebuje ⟨je⟩."
+    }
+  ],
+  "translation": "In zakolje ⟨את⟩ jagnje na mestu, kjer zakolje ⟨את⟩ daritev za greh in ⟨את⟩ žgalno daritev, na kraju svetem; kajti kakor ⟨je⟩ daritev za greh, tako je daritev za krivdo duhovnikova — svetost svetinj je.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b11f18e47f81d439321057a275afa8702d4cc7dcb1e6b20a022b0b2d8181d049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/14\/13-16.1792424272380.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "In zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jagnje"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "jagnje"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daritev za greh"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "daritev za greh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žgalno daritev"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žgalno daritev"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kakor daritev za greh"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "daritev za krivdo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "duhovnikova"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetost"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svetinj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-10-19T15:37:52.380921432Z",
+  "model": "glm-5.3"
+}

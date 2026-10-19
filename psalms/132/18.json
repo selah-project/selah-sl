@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "venec",
+      "rationale": "נזר je 'posvečena daritev\/diadem, venec' — 'krona' je olajšava; koren pomeni 'ločeno, posvečeno'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sramota",
+      "rationale": "בשת je sramota kot stan in občutek; 'v sramoto' obleči je hebrejska podoba, ohranjena"
+    }
+  ],
+  "translation": "Njegove sovražnike bom oblekel v sramoto, na njem pa bo zazelenel njegov venec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/17-18.1792435581678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אֹיְבָיו",
+      "gloss": "Njegove sovražnike"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "bom oblekel"
+    },
+    {
+      "surface": "בֹּשֶׁת",
+      "gloss": "v sramoto"
+    },
+    {
+      "surface": "וְעָלָיו",
+      "gloss": "na njem pa"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "bo zazelenel"
+    },
+    {
+      "surface": "נִזְרוֹ",
+      "gloss": "njegov venec"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:21.679584210Z",
+  "model": "glm-5.3"
+}

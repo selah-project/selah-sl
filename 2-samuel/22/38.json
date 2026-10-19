@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 22:38",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ima končnični objekt (-ם), slovenščina potrebuje sina."
+    }
+  ],
+  "translation": "Preganjal sem svoje sovražnike in ⟨jih⟩ uničil, in se nisem obrnil, dokler niso bili pokončani.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "abe65d50f23095a10692a5a12f58212eca0c83f56f7c6c44ffc7d51e56b587f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/22\/37-40.1792428644179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארדפה",
+      "gloss": "preganjal sem"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "svoje sovražnike"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "in ⟨jih⟩ uničil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nisem"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "se obrnil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "niso bili pokončani"
+    }
+  ],
+  "timestamp": "2026-10-19T16:50:44.180478482Z",
+  "model": "glm-5.3"
+}

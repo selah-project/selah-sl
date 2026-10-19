@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je ⟨je⟩",
+      "rationale": "Slovenski glagolski pomožnik 'je', ki ga hebrejščina ne izraža."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bil je ujet",
+      "rationale": "וילכד je倪 preprosto 'bil ujet' — isti glagol לכד kot v v. 14; Jahve kot lovec."
+    }
+  ],
+  "translation": "In Jehošua je vstal zgodaj zjutraj in približal ⟨את⟩ Jisrael po njegovih rodovih; in bil je ujet rod Jehude.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "381ba58528775682fcc339618a9f35a388b6a4c48508671cf9ad1ba49e7df5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/7\/13-16.1792426590369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "je vstal zgodaj"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "in približal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "po njegovih rodovih"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "in bil je ujet"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "rod"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    }
+  ],
+  "timestamp": "2026-10-19T16:16:30.371136419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se boš⟩",
+      "rationale": "slovenščina potrebuje glagol ponovno; hebrejščina ga izpušče"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden ogovor Jahveja v pesmi"
+    }
+  ],
+  "translation": "A ti, Jahve, se boš smejal nad njimi, posmehoval ⟨se boš⟩ vsem narodom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/9-12.1792434927694.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "se boš smejal"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "posmehoval ⟨se boš⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:27.695842417Z",
+  "model": "glm-5.3"
+}

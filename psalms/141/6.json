@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בידי סלע",
+      "rationale": "»ob rokah (ob straneh) skale«: sme razumeti »vrženi s pečine« ali »ob robovih skale«"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina je ima v naklonskem glagolu"
+    }
+  ],
+  "translation": "Raztreseni bodo ob rokah skale njihovi sodniki, in poslušali bodo moje besede, kajti mile so.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/141\/5-8.1792435740919.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "raztreseni bodo"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ob rokah"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "skale"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "njihovi sodniki"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "in poslušali bodo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "moje besede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "mile so"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:00.920839570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Mar bo videl",
+      "rationale": "אם v prisegi je zaobljubni delavec 'ne' — dobesedno 'Če bo videl kateri mož…' pomeni 'prav gotovo NE bo videl'; retorično vprašanje to zanikanje nosi v slovenščini."
+    },
+    {
+      "kind": "addition",
+      "subject": "vprašaj",
+      "rationale": "Hebrejščina ima samo אם; slovenski vprašalni 'Mar' in '?' sta dodana, da se sliši prisega."
+    }
+  ],
+  "translation": "Mar bo videl kateri mož izmed teh mož, ta zli rod, ⟨את⟩ dobro deželo, katero sem prisegel dati vašim očetom?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/1\/33-36.1792425673305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Mar"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bo videl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kateri mož"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "izmed teh mož"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "teh"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "rod"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobro deželo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "sem prisegel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dati"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "vašim očetom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:01:13.306209266Z",
+  "model": "glm-5.3"
+}

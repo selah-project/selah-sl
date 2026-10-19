@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izvir",
+      "rationale": "עין pomeni 'oko', tu 'izvir' — oko zemlje"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina ima deležnik brez pomožnega glagola"
+    }
+  ],
+  "translation": "In Pelisti so zbrali ⟨את⟩ vsa svoja taborišča pri Afeki, Jisrael pa je taboril ob izviru, ki je v Jizreelu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/29\/1-4.1792428059426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "so zbrali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vsa svoja taborišča"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "svoja taborišča"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "pri Afeki"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Jisrael pa"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "je taboril"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ob izviru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "v Jizreelu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:40:59.426829774Z",
+  "model": "glm-5.3"
+}

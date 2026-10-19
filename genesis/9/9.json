@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "z",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ga ima v אתכם"
+    },
+    {
+      "kind": "substitution",
+      "subject": "seme",
+      "rationale": "זרע je dobesedno 'seme', ne 'potomci'"
+    }
+  ],
+  "translation": "In glej, jaz postavljam ⟨את⟩ svojo zavezo ⟨את⟩ z vami in ⟨את⟩ z vašim seménom za vami.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/9\/9-12.1792422041342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "glej, jaz"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "postavljam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo zavezo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svojo zavezo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z vami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "z vašim seménom"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "za vami"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:41.343055684Z",
+  "model": "glm-5.3"
+}

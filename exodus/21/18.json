@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Slovenščina potrebuje osebek za 'ne umre, ampak pade'; hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In če se prerivata moža in mož udari ⟨את⟩ svojega bližnjega s kamnom ali s pestjo, in ta ne umre, ampak pade v posteljo,",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/21\/17-20.1792423493770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "in če"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "se prerivata"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "moža"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "in udari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega bližnjega"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "s kamnom"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "s pestjo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umre"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ampak pade"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "v posteljo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:53.770931565Z",
+  "model": "glm-5.3"
+}

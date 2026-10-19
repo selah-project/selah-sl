@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je dih, življenjska sila, grlo — ne 'duša' v poznejšem pomenu; zato glosa po hebrejskem zvoku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרויתי \/ מלאתי",
+      "rationale": "Dva glagola napajanja (napojiti, napolniti) v vzporednem verzu; pri ponovni postavitvi obljube zrcali 31,14."
+    }
+  ],
+  "translation": "Kajer sem napojil utrujeno nefeš in vsako nefeš, ki hrepeni, sem napolnil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6166a361ef54335668358b2f4c27d648b091c93393ed7536f1c7d65b8945c8e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/31\/25-28.1792431584119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajer"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "sem napojil"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "utrujeno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsako"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ki hrepeni"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "sem napolnil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:39:44.120486025Z",
+  "model": "glm-5.3"
+}

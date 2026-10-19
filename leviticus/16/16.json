@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pokril",
+      "rationale": "כפר pomeni dobesedno 'pokriti'; 'spraviti' ali 'odkupiti' je prevzeta vloga, ne oblika besede"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "oblika השכן אתם: את H854 kot predlog 'z njimi' ali poudarjeni osebek 'njim' — spremljajoča pečat ⟨את⟩ je ohranjena v glosi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמאות\/טומאותיהם",
+      "rationale": "ponovitev korena טמא v istem verzu (nečistovanja … nečistovanj) poudarja okuženost svetišča"
+    }
+  ],
+  "translation": "In pokril bo zaradi svetosti nečistovanja sinov Jisraela in njihovih uporov v vseh njihovih grehih; tako naj stori za šotor srečanja, ki prebiva ⟨z njimi⟩ sredi njihovih nečistovanj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/16\/13-16.1792424361133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "pokril bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "nečistovanja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "njihovih uporov"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "v vseh"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "njihovih grehih"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "naj stori"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "za šotor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "srečanja"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-z-njimi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "njihovih nečistovanj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:39:21.135774267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Slovenska dvojina zahteva glagol, hebrejščina ga ne izrazi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שני\/כשני",
+      "rationale": "Dvojina se ponovi v primerjavi — dva proti dvema, zrcalna struktura."
+    }
+  ],
+  "translation": "Tvoji dve prsi sta kakor dva mladiča, dvojčka gazele.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/7\/1-4.1792436859719.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "dve"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "prsi"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "kakor dva"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "mladiča"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "dvojčka"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "gazele"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:39.722940972Z",
+  "model": "glm-5.3"
+}

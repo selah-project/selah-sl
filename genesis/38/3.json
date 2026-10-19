@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Hebrejščina ne pove, kdo kliče — spol glagola ויקרא je moški (Judá), v v. 4 pa ženska."
+    }
+  ],
+  "translation": "In zanosila je in rodila sina, in on je poklical ⟨את⟩ njegovo ime Er.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/38\/1-4.1792422724835.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "In zanosila je"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "in rodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "in on je poklical"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo ime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:04.836586753Z",
+  "model": "glm-5.3"
+}

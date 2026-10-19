@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Slovenščina doda dodatični popravek 'jo' za jasnost; hebrejščina ima samo nedoločnik 'in delati'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדרוש ולעשת וללמד",
+      "rationale": "Trojni neskončnik: raziskovati–delati–učiti; naraščajoč red svetuje, kaj je učeno, najprej živeto."
+    }
+  ],
+  "translation": "Kajti Ezra je pripravil svoje srce, da raziskuje ⟨את⟩ Toro Jahveja in da jo izpolnjuje ter da uči v Jisraelu odlok in pravo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/9-12.1792437659473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "je pripravil"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "da raziskuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toro Jahveja"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "in da izpolnjuje"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ter da uči"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Jisraelu"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odlok"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "in pravo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:59.477201764Z",
+  "model": "glm-5.3"
+}

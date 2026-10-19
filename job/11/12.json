@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבוב \/ ילבב",
+      "rationale": "Koren na 'votel' proti 'napolniti srce' — pragovni besedni dvoboj, v slovenščini delno ohranjen z 'votel' in 'dobi srce'"
+    },
+    {
+      "kind": "crux",
+      "subject": "cel verz",
+      "rationale": "Kontinuiteta: 'votel mož bo pameten, ko se divji osel rodi kot človek' (nikoli) — BSB tako; KJV bere opisno 'prazni moži bi radi bili modri'"
+    }
+  ],
+  "translation": "In votel mož dobi srce, kadar se mladič divjega osla rodi kot človek.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/11\/9-12.1792436397873.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "in-mož"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "votel"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "dobi-srce"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "in-mladič-osla"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "divjega-osla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "rodi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:57.874738944Z",
+  "model": "glm-5.3"
+}

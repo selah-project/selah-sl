@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je veter\/dih\/duh — ena beseda, ostaja kot ruah"
+    },
+    {
+      "kind": "elision",
+      "subject": "משא",
+      "rationale": "'breme' kot naslov prerokove besede, izpust bi izgubil strukturo"
+    }
+  ],
+  "translation": "Breme besede Jahve nad Jisraelom; govori Jahve, ki razpenja nebesa in utemeljuje zemljo in oblikuje ruah človeka v njegovem notranjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/12\/1-4.1792434468671.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "breme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "razpenja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "in utemeljuje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "in oblikuje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "v njegovem notranjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:48.672999843Z",
+  "model": "glm-5.3"
+}

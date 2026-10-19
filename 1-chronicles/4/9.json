@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 4:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v נכבד nima kot ločen žeton"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעצב",
+      "rationale": "isti koren kot ime Jabec (יעבץ\/עצב) — bolečina; ime je igra besed, povezana z materino izjavo"
+    }
+  ],
+  "translation": "In bil je Jabec bolj cenjen kakor svoji bratje; njegova mati je dala njegovemu imenu Jabec, rekoč: Ker sem ga rodila v bolečini.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "801208a00f9ff38f3699ad136cd0453560dc3c7eb0358b5d15ef96df382481bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/9-12.1792438085014.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In bil je"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Jabec"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "bolj cenjen"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "kakor svoji bratje"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "njegova mati"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "je dala ime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovemu imenu"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Jabec"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "sem rodila"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "v bolečini"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:05.015047678Z",
+  "model": "glm-5.3"
+}

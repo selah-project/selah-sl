@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpušča pomožnik pri perfektu; dodan ⟨je⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "smo se veselili",
+      "rationale": "Kohortativ nishmehah lahko pomeni tudi 'veselimo se' (jps); izbrana pretekla bertativa 'tam smo se veselili'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ים\/יבשה",
+      "rationale": "nasprotje morje\/suha dežela v eni vrstici — izhod in prehod reke v paru."
+    }
+  ],
+  "translation": "Spreobrnil ⟨je⟩ morje v suho deželo; po reki so prehodili peš — tam smo se veselili ⟨v njem⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/66\/5-8.1792435013809.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Spreobrnil"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "v suho deželo"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "po reki"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "so prehodili"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "peš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "smo se veselili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:53.811407430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima glagola biti v tem poudarjenem stavku"
+    },
+    {
+      "kind": "crux",
+      "subject": "po njihovih vojskah",
+      "rationale": "צבאתם: 'po njihovih četah\/vojskah' — vojaška slika izhoda, ne le organizirane skupine"
+    }
+  ],
+  "translation": "Ta ⟨je⟩ Aharon in Moše, katerima je Jahve rekel: Izpeljite ⟨את⟩ sinove Jisraela iz dežele Micrajim po njihovih vojskah.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "689f33bf5af3b1e4ab96bf325e77b2f3117236da145924433cf04301b21bd051",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/6\/25-28.1792423125938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ta ⟨je⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "in Moše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katerima"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "izpeljite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "njihovih vojskah"
+    }
+  ],
+  "timestamp": "2026-10-19T15:18:45.939386730Z",
+  "model": "glm-5.3"
+}

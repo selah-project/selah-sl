@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje kopulo pri pojasnitvi היא חברון; hebrejščina je nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבי הענוק",
+      "rationale": "'očet(a) Anaka': Arba kot oseba (oče Anaka) ali mestno ime 'mesto Arba' — prevod nosi osebno smer"
+    }
+  ],
+  "translation": "In dali so jim ⟨את⟩ Kirjat-Arba, očeta Anaka — to ⟨je⟩ Hevron, v gorovju Jehude — in ⟨את⟩ njene pašnike naokoli nje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f7218e2316651d3ed1c66a2d6c55baaeaaee77111433bcca1cbf8db535a6b44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/21\/9-12.1792426796718.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "in dali so"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anaka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "v gorovju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "pašnike"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "njene pašnike"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "naokoli nje"
+    }
+  ],
+  "timestamp": "2026-10-19T16:19:56.718993631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina nima kopule; slovenščina jo zahteva."
+    },
+    {
+      "kind": "you",
+      "subject": "govorec: Jisrael",
+      "rationale": "Nenadni glas obsojenih — priznanje znotraj obsodbe Bavela."
+    }
+  ],
+  "translation": "Naš odrešitelj — Jahve Cebaot ⟨je⟩ njegovo ime, Sveti Jisraelov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5df712179c3561addb28d02fc3306242bd3dc3172ff321cf40358524da1f55e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/47\/1-4.1792430720569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "naš odrešitelj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sveti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelov"
+    }
+  ],
+  "timestamp": "2026-10-19T17:25:20.570795488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "skupna vsota",
+      "rationale": "Vsota 5400 zaobjema ves inventar iz verzov 9–10."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nastanjenci⟩",
+      "rationale": "Slovenščina potrebuje osebek ob 'z', hebrejščina ga izpušča."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העלה \/ העלות",
+      "rationale": "Igra korena עלה: Šešbacar je 'dvignil' posode 'ob povzditvi' izgnancev — dvojni vzpon, v slovenščini delno ohranjen z 'dvignil\/povzditvi'."
+    }
+  ],
+  "translation": "Vseh posod, zlatih in srebrnih, pet tisoč in štiristo. Vse je Šešbacar dvignil ⟨z⟩ ⟨nastanjenci⟩ ob povzditvi izgnancev iz Babela v Jerušalajim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/1\/9-11.1792437601111.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vseh"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "posod"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "zlatih"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "in srebrnih"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "in štiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Vse"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "je dvignil"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Šešbacar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "ob povzditvi"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "izgnancev"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "iz Babela"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "v Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:01.114989636Z",
+  "model": "glm-5.3"
+}

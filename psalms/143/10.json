@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Slovenščina zahteva kopulo, hebrejščina je nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוחך ostaja ruah — Duh\/veter\/dih v eni besedi; 'duh' sam bi izgubil obliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "רצונך",
+      "rationale": "'tvoja volja' ali 'tvoje ugodje\/dobrohotnost' (razlika med 'hojo' in 'naklonjenostjo')."
+    }
+  ],
+  "translation": "Nauči me delati svojo voljo, kajti ti si moj Elohim; tvoj ruah je dober, vodi me po deželi ravnine.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/9-12.1792435715445.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Nauči me"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "delati"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "svojo voljo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "tvoj ruah"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "je dober"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vodi me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po deželi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ravnine"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:35.447074965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפל",
+      "rationale": "תפל: 'neskuhano mazilo' (KJV 'untempered mortar') ali 'tupo, nepravo' — tu dobesedno 'mazilo-ślina', pokvarjeno ometanje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ... אין שלום",
+      "rationale": "Ponovitev 'Mir! in mira ni' — preroška ironija, ohranjena dobesedno."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki ni pravo",
+      "rationale": "תפל kot pridevnik k mazilu zahteva slovenski opisnik; hebrejščina ima eno besedo."
+    }
+  ],
+  "translation": "Zato, prav zato, ker so zavedli ⟨את⟩ moje ljudstvo, rekóč: Mir! — in mira ni — in on zidá steno, in glej, oni jo mažejo z mazilom, ki ni pravo:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04a57dc34d8b131d1e4601f79bd961ed7a6d2ccc887a39cfd8862e807441d99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/13\/9-12.1792432166390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "zato"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "prav zato"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "so zavedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje ljudstvo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moje ljudstvo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekóč"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zidá"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "steno"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "mažejo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njo",
+      "marks": "mazilo, ki ni pravo"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "z mazilom, ki ni pravo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:49:26.391888679Z",
+  "model": "glm-5.3"
+}

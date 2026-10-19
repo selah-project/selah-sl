@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izhodi",
+      "rationale": "תוצאות je dobesedno 'izhodi' (mejne točke, kjer meja izteče), ne 'izteki' v sodnem pomenu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pri⟩",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ga pri_STATUSocuses konstrukciji nima"
+    }
+  ],
+  "translation": "in meja se bo spustila ob Jordanu, in njegovi izhodi bodo ⟨pri⟩ Slanem morju; to vam bo dežela po svojih mejah vsolej.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "66c5d20ba854d92fa6db2610cf553a3014abf97c3f9ce4018886567566843fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/34\/12-12.1792433304535.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "in se bo spustila"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "meja"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ob Jordanu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "in bodo"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "njegovi izhodi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Slano"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "po svojih mejah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "vsolej"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:24.536496237Z",
+  "model": "glm-5.3"
+}

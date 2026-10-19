@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "Hebrejščina postavi samostalnik 'kralj' v priredje; slovenščina potrebuje predlog 'za'."
+    },
+    {
+      "kind": "you",
+      "subject": "Huram Šalomu",
+      "rationale": "Kraljevo pismo neposredno nagovarja Šaloma z 'te'."
+    }
+  ],
+  "translation": "In reče Huram, kralj Cora, v pismu in ga pošlje Šalomu: Ker Jahve ljubi ⟨את⟩ svoje ljudstvo, te je postavil nadnje za kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6b0c6715ad3b4bf7343e52f9f4df0d0899fb4356af4ad3e1732db4a2d5621e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/2\/9-12.1792438435115.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in reče"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cora"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "v pismu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "in ga pošlje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomu"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "ker ljubi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ljudstvo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "te je postavil"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nadnje"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "za kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:55.121241154Z",
+  "model": "glm-5.3"
+}

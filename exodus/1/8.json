@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nov kralj",
+      "rationale": "traditionalno brano kot nova dinastija (npr. ramzeški faraoni) ali ista dinastija, a kralj, ki 'ni poznal' — namerno zanikal — Jožefa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קם \/ עקם",
+      "rationale": "קם lahko pomeni tudi 'vstal (zoper)'; namig na sovražno vzpostavitev oblasti"
+    }
+  ],
+  "translation": "In vstal je nov kralj nad Micrajimom, ki ni poznal ⟨את⟩ Jožefa.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/1\/5-8.1792423004897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "in vstal je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nov"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jožefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožefa"
+    }
+  ],
+  "timestamp": "2026-10-19T15:16:44.898377612Z",
+  "model": "glm-5.3"
+}

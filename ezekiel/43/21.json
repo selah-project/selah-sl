@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žrtvo greha",
+      "rationale": "חטאת je istoizvorna z 'greh'; slovenščina potrebuje dve besedi za eno hebrejsko"
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekielu",
+      "rationale": "Nauk o oltarju je neposreden nagovor preroka z imperativi"
+    }
+  ],
+  "translation": "In vzel boš ⟨את⟩ bika za žrtvo greha, in sežgal ga boš na določenem mestu hiše, zunaj svetišča.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "65d1b2443c8537c34dbec9c3bfab7345b82e9d92dff13857c6c30a01a6c8beb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/43\/21-24.1792433647810.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "in vzel boš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bika"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bik"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "za žrtvo greha"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "in sežgal ga boš"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "na določenem mestu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "svetišča"
+    }
+  ],
+  "timestamp": "2026-10-19T18:14:07.811276796Z",
+  "model": "glm-5.3"
+}

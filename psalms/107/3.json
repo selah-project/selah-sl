@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "z morja",
+      "rationale": "ומים literally 'and from the sea'; traditional 'south' (Targum, KJV) vs literal 'sea' (YLT, JPS) — west is already named, so 'sea' stands for south"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזרח\/מערב",
+      "rationale": "east = sunrise, west = evening-sun; the compass is drawn from the sun's motion, lost in slovenščina"
+    }
+  ],
+  "translation": "in iz dežel jih je zbral, z vzhoda in z zahoda, s severa in z morja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/1-4.1792435404958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "in iz dežel"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "jih je zbral"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "z vzhoda"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "in z zahoda"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "s severa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "in z morja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:24.960090073Z",
+  "model": "glm-5.3"
+}

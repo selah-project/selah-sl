@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על נקלה",
+      "rationale": "Dvojno branje: 'površno\/rahlo' (prilog) ali 'na lahkoto' — 'so rahlo obdelali zlom'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pozdravili",
+      "rationale": "רפא je dobesedno 'pozdraviti', a zlom (שבר, zlomljen okostnjak) se 'šiva'; slika nedolgočasnega obdelovanja rane."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום ואין שלום",
+      "rationale": "Trojna ponovitev 'mir, mir — in ni mira'; retorični padec, v prevodu delno ohranjen."
+    }
+  ],
+  "translation": "In pozdravili so zlom ⟨את⟩ mojega ljudstuba površno, govoreč: mir, mir! — miru pa ni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/6\/13-16.1792431121231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "in pozdravili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlom"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zlom"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojega ljudstva"
+    },
+    {
+      "surface": "על",
+      "gloss": "površno"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "lahkomiselno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mira"
+    }
+  ],
+  "timestamp": "2026-10-19T17:32:01.232126989Z",
+  "model": "glm-5.3"
+}

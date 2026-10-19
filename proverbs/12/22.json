@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zvestoba",
+      "rationale": "אמונה je 'trdnost, zanesljivost'; 'zvestoba' je najbližja, a izgubi podobo trdnosti."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima veznika; slovenščina ga zahteva v drugem delu protiveza."
+    }
+  ],
+  "translation": "Lažnive ustnice so gnusoba Jahveju, toda tisti, ki ravnanajo z zvestobo, ⟨so⟩ njegovo veselje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1a6647e4f6a0c7bd81ec8d4985205b95d09fbf9d90533ecf5d6aa8ece51a3cf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/12\/21-24.1792435957191.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "gnusoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ustnice"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažnive"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "toda tisti, ki ravnanajo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "z zvestobo"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "njegovo veselje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:37.192400389Z",
+  "model": "glm-5.3"
+}

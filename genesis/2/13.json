@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula; Slovenian requires it in this nominal clause."
+    },
+    {
+      "kind": "measurement",
+      "subject": "the second river",
+      "rationale": "Numbering of the rivers, an ordering count."
+    }
+  ],
+  "translation": "In ime druge reke ⟨je⟩ Gihton, ta, ki obdaja ⟨את⟩ vso deželo Kuš.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/2\/13-16.1792421974945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "reke"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druge"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gihton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ki obdaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso deželo Kuš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:34.946498778Z",
+  "model": "glm-5.3"
+}

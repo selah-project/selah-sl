@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 11:20",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החרימם",
+      "rationale": "Koren חרם: posvetiti za uničenje (herem) — 'iztrebiti' (KJV) izgubi tehnični pomen preklinjanja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחנה",
+      "gloss": "usmiljenja",
+      "rationale": "Dobesedno 'prošnja, milostna prošnja'; 'usmiljenje' je približek."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ pri מאת",
+      "rationale": "מאת je 'od' + את v eni besedi; ⟨את⟩ je ohranjen v glosi."
+    }
+  ],
+  "translation": "Saj od ⟨את⟩ Jahve je bilo to, da je utrdil ⟨את⟩ njihova srca, da so šli v boj zoper ⟨את⟩ Jisrael, da bi jih podvrgli preklinjanju in ne bi bilo jim usmiljenja, ampak da bi jih iztredbili, kakor je Jahve zapovedal ⟨את⟩ Mošeu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a0304fa8d4edd730bc5cbece05d2517bb7f9a4c4a7586d0ad076c9cb402b7565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/11\/17-20.1792426680625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "da utrdil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihova srca"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihova srca"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "da so šli v boj"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boj"
+    },
+    {
+      "surface": "את",
+      "gloss": "zoper ⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "jih podvrgli preklinjanju"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "היות",
+      "gloss": "bi bilo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "usmiljenja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "השמידם",
+      "gloss": "jih iztredbili"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovedal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:18:00.626606182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spraviti na tla",
+      "rationale": "להפיל dobesedno 'povzročiti padec' — za seme: uničiti, spraviti v padec med narodi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרעם \/ לזרותם",
+      "rationale": "zveneča podobnost med 'zar'am' (njihovo seme) in 'lezarotam' (razsuti jih) — besedna igra, v slovenščini izgubljena."
+    }
+  ],
+  "translation": "in razsuti njihovo seme med narode in jih razgnati po deželah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3ba6a7f87f6b6c49e8a4b34e6cf9e1074d45908f2a52bc700888b17d914f13bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/26-27.1792439044686.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "in spraviti na tla"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "njihovo seme"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "med narode"
+    },
+    {
+      "surface": "ו לזרותם",
+      "gloss": "in razsuti jih"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "po deželah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:04.687983553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי כשמע",
+      "rationale": "hebrejski 'in je bilo ob slišanju' — slovenščina zahteva odvisni stavek"
+    }
+  ],
+  "translation": "In je bilo, ko je Baasa slišal, da je prenehal graditi ⟨את⟩ Ramo, in je prebival v Tirsi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d1a641ef8e65ea0471c6e9c89ecf8404cd71cf19e9ca7a80dc338217715fead2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/15\/21-24.1792429129780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in je bilo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ko je slišal"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "je prenehal"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramo"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in je prebival"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "v Tirsi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:58:49.781321042Z",
+  "model": "glm-5.3"
+}

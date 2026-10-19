@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Hebrejščina ne ponudi predmeta (Mošea) — besedilo prejšnjega verza ga nosi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "premoženja",
+      "rationale": "קנינו je dobesedno 'pridobitev, stvaritev'; izbrano 'premoženje' po zvezi z dinastijo."
+    }
+  ],
+  "translation": "Postavil ⟨ga⟩ je za gospoda svojega doma in za vladarja vsega svojega premoženja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/21-24.1792435335653.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Postavil"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "za gospoda"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "svojega doma"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "in za vladarja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsega"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "svojega premoženja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:15.653741951Z",
+  "model": "glm-5.3"
+}

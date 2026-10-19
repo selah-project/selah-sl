@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "החצר",
+      "rationale": "Hebrew article not rendered; Slovenian has no article."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seznam",
+      "rationale": "Strojni seznam delov bivališča — predmet po predmet."
+    }
+  ],
+  "translation": "⟨את⟩ zagode dvorišča, ⟨את⟩ njegove stebre in ⟨את⟩ njegova podnožja ter ⟨את⟩ zaveso vrat dvorišča,",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "387dd514d427b4d960d2ba6183ac039628bac466275594dee996bd2c5feb9df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/35\/17-20.1792423778515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zagode dvorišča"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "zagode"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišča"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegove stebre"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "njegove stebre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegova podnožja"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "njegova podnožja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ter ⟨את⟩",
+      "marks": "zaveso"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "zaveso"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišča"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:38.516472049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožni glagol, hebrejščina deležnika ne potrebuje"
+    },
+    {
+      "kind": "crux",
+      "subject": "במות",
+      "rationale": "'višave' (kultna mesta na vzvišenih legah) nasproti 'hramovi'; dobesedno 'vzvišene lege'"
+    }
+  ],
+  "translation": "Vendar je ljudstvo ⟨je⟩ še vedno žrtvovalo na višavah, vendar le Jahveju, svojemu Elohimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/33\/17-20.1792438906852.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Vendar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še vedno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "žrtvovalo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na višavah"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vendar le"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svojemu Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:46.853815561Z",
+  "model": "glm-5.3"
+}

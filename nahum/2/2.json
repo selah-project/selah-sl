@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 2:2",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Nineve (implicitno)",
+      "rationale": "naslovnik je sprva brez imena — grožnja usmerjena v mesto"
+    },
+    {
+      "kind": "alternative",
+      "subject": "razprševalec",
+      "rationale": "מפיץ dobesedno 'ta, ki razbija v kosce \/ razpršuje'; lahko tudi kolektivno 'uničevalci'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלוח שני שורות",
+      "rationale": "hebrejska vrstična delitev tukaj razlikuje od majoritetnih izdaj (KJV\/Geneva berejo ta verz pri 2,1)"
+    }
+  ],
+  "translation": "Vzpel se je razprševalec pred tvoj obličjem: varuj utrdbo, opazi pot, okrepí ledja, omogoči moč zelo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/2\/1-4.1792434246493.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Vzpel se je"
+    },
+    {
+      "surface": "מפיץ",
+      "gloss": "razprševalec"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvoj obličjem"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "varuj"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "utrdbo"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "opazi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "okrepí"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ledja"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "omogoči"
+    },
+    {
+      "surface": "כח",
+      "gloss": "moč"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:06.495684545Z",
+  "model": "glm-5.3"
+}

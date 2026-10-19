@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "כי אם je zveza 'temveč \/ ampak'; אם se ne prevaja posebej"
+    },
+    {
+      "kind": "addition",
+      "subject": "njegovo",
+      "rationale": "פנים stoji brez svojilnega zaimka — slovenščina ga zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "da ne sliša",
+      "rationale": "משמוע je infinitiv 'od slišanja'; prevedeno kot namenski stavek"
+    }
+  ],
+  "translation": "Temveč vaše krivice so bile ločujoče med vami in vašim Elohimom, in vaši grehi so skrili ⟨njegovo⟩ obličje pred vami ⟨tako, da ne⟩ sliša.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/1-4.1792430908044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Temveč"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨–⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "vaše krivice"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bile"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "ločujoče"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "med vami"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "in"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašim Elohimom"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "in vaši grehi"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "so skrili"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "obličje"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pred vami"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sliša"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:28.044754893Z",
+  "model": "glm-5.3"
+}

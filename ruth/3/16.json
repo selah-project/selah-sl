@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי את בתי",
+      "rationale": "'Kdo si, hči moja?' — hebrejščina je dobesedna; prevodi mehčajo v 'Kako je šlo?' (BSB) ali 'Kaj si storila?' (Wycliffe)"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (2. os. sg.)",
+      "rationale": "ta את je osebni zaimek 'ti', ne aleph-tav označevalnik — slovenska končnica 'si' ga nosi"
+    }
+  ],
+  "translation": "In prišla je k svoji tašči in ta je rekla: Kdo si, hči moja? In povedala ji je ⟨את⟩ vse, kar je storil zanjo ⟨ta⟩ mož.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/3\/13-16.1792436930922.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "In prišla je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "svoji tašči"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "in je rekla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "si"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hči moja"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "In povedala"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zanjo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨ta⟩ mož"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:50.923833528Z",
+  "model": "glm-5.3"
+}

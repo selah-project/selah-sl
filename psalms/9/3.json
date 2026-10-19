@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igral bom na strune",
+      "rationale": "זמר pomeni dobesedno igrati na strune inštrumenta, ne le 'peti'."
+    }
+  ],
+  "translation": "Veselil se bom in vriskal v tebi, igral bom na strune tvojemu imenu, Najvišji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/1-4.1792434528021.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Veselil se bom"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "in vriskal"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "igral bom na strune"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvojemu imenu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najvišji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:48.022867441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrejščina brez glagola; slovenščina potrebuje kopulo (bracket)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vpisovanje po rodovniku",
+      "rationale": "בהתיחש — vpisovanje v rodovniški seznam, uradni dejanje štetja."
+    }
+  ],
+  "translation": "In njegovi bratje po svojih družinah, ko so se vpisovali po rodovniku svojih rodov: glava ⟨je bil⟩ Jeiel in Zeharija.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8a811349c470df94a1630eafe915d275481776e998ed103960b95a3956879415",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/5-8.1792438039324.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "In njegovi bratje"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "po svojih družinah"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "ko so se vpisovali po rodovniku"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "svojih rodov"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiel"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "in Zeharija"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:19.325550599Z",
+  "model": "glm-5.3"
+}

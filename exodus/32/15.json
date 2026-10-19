@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "slovenski glagol zahteva dvojinsko pomožnik, hebrejščina ima samo חרות-deljenje brez njega"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dve plošči, z obeh strani",
+      "rationale": "verz dimenzionira predmet: število plošč in pisave po straneh"
+    }
+  ],
+  "translation": "In Može se je obrnil in stopil z gore, in dve plošči pričevstava v njegovi roki; plošči, pisani z obeh strani, s te in s tiste strani ⟨sta⟩ pisani.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a9e72f0f8702db4b5f69b22f7e437d1b7aaf050dd69e8da32a32b7e4b11a2666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/32\/13-16.1792423765484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "se je obrnil"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "in stopil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Može"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "in dve"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "plošči"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pričevstava"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v njegovi roki"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "plošči"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "pisani"
+    },
+    {
+      "surface": "משני",
+      "gloss": "z obeh"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "strani"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s te"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "in s tiste strani"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sta⟩"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "pisani"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:25.486127601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "debir",
+      "rationale": "דביר je lastno ime notranjega svetišča; prevodi ga različno: 'svetišče', 'oracle', 'debir'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "gloss": "slovenščina zahteva glagol; hebrejščina ga v drugem stavku ne ponovi."
+    }
+  ],
+  "translation": "In ⟨את⟩ celotno hišo je prekril z zlatom, do konca vse hiše; in ves oltar, ki je za debirjem, je prekril z zlatom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4b775dc39288317568c7329efe373d4e581d21879d4411c169e95664f9d2f33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/6\/22-24.1792433387045.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "celotno hišo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celotno"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "je prekril"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "z zlatom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "תם",
+      "gloss": "konca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in ves"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "je za debirjem"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "je prekril"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "z zlatom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:47.049477249Z",
+  "model": "glm-5.3"
+}

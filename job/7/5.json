@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "וגיש",
+      "rationale": "gruda (prahu) — beseda se v Tanahu pojavi samo tukaj."
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "Pomen ni gotov: 'razpokati se in gnojiti' (KJV\/BSB) proti 'skrčiti se in ozdraviti znova' (ASV\/JPS 'se zaceli in znova izbruhne')."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožni glagol, hebrejščina ga nima."
+    }
+  ],
+  "translation": "S črvi se je obdelo moje meso in z grudó prahu; moja koža se je razpokala in ⟨je⟩ zgnusila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/5-8.1792436316188.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "se je obdelo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje meso"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "s črvi"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "in z grudó"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prahu"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "moja koža"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "se je razpokala"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "zgnusila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:36.189279906Z",
+  "model": "glm-5.3"
+}

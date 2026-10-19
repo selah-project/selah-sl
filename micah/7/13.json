@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 7:13",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "zaradi",
+      "rationale": "על\/joints dobesedno 'nad'; smerni veznik dodan, ker slovenščina tu zahteva razmerje vzroka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dejanj",
+      "rationale": "מעלליהם dobesedno 'njihovih ravnanj\/del'; kralj Jakob ima 'iznajdb' — dobesedno je 'dejanja, dobra ali slaba'"
+    }
+  ],
+  "translation": "In dežela bo za pustoš nad svojimi prebivalci, ⟨zaradi⟩ sadu njihovih dejanj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dbf71ed114ed89d8703c8c8f16ab3be9148f4e048ffc1e16d0de6a3027bafe67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/7\/13-16.1792434129109.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "in bo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "za pustoš"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "svojimi prebivalci"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "od sadu"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "njihovih dejanj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:09.135202974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 29:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עם לבבי",
+      "rationale": "dobesedno 'z mojim srcem' — hotenje; dodan glagol 'je', da je stavek slovensko glagolšen"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima glagola pri 'עם לבבי'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "srda",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi'; חרון אף je slika gorečega nosu jeze"
+    }
+  ],
+  "translation": "Zdaj je z mojim srcem, da sklenem zavezo z Jahvejem, Elohim Jisraela, in naj se odvrne od nas gorečnost njegovega srda.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a7f3b3fe272ddfa13621d46cddc865d631220f08554a31983900edf4d92e5534",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/29\/9-12.1792438840027.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mojim srcem"
+    },
+    {
+      "surface": "לכרות",
+      "gloss": "sklenem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "z Jahvejem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in naj se odvrne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "goréčnost"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "njegovega srda"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:40.028914869Z",
+  "model": "glm-5.3"
+}

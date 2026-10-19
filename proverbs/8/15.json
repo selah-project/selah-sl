@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "razsodijo",
+      "rationale": "חקק literally 'to engrave, inscribe (decrees)' — hence 'enact\/decree'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vladarji",
+      "rationale": "verse enumerates the tiers of rule: kings, magnates, judges"
+    }
+  ],
+  "translation": "Po meni kralji kraljujejo in veljaki razsodijo cedek.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/13-16.1792435889433.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "po meni"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "kraljujejo"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "in veljaki"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "razsodijo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:29.434488095Z",
+  "model": "glm-5.3"
+}

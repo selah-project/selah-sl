@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez kopule: נשכח זכרם — dobesedno 'pozabljen njihov spomin'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "plačila",
+      "rationale": "שכר je 'nadomestilo, plačilo', ne verske nagrade"
+    }
+  ],
+  "translation": "Kajti živi vedo, da bodo umrli, mrtvi pa ne vedo ničesar in ni jim več plačila, kajti njihov spomin je pozabljen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "55d197a98b905d603bc63dff21d41f637316b4d58248f802c40917be27c68002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/9\/5-8.1792437163254.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vedo"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "da bodo umrli"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "mrtvi pa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vedo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ničesar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "plačila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "je pozabljen"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "njihov spomin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:43.255150914Z",
+  "model": "glm-5.3"
+}

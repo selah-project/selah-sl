@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 15:36",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hebrejski člen ה- v הגדרה",
+      "rationale": "slovenščina nima člena, člen se ne zapiše"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vasi",
+      "rationale": "חצרים so okoliški dvori\/vasi mest, doslovno 'njihovi dvori'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "štirinajst mest",
+      "rationale": "verz zaključuje štetje mest nižavja z vsoto"
+    }
+  ],
+  "translation": "in Šaarajim in Aditajim in ⟨ה⟩ Gedera in Gederotajim — štirinajst mest s svojimi vasemi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2e78a333b6853452018ce1f3703feb81c59f4e5f7edcafce387293c04d0613c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/15\/33-36.1792426722165.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושערים",
+      "gloss": "in Šaarajim"
+    },
+    {
+      "surface": "ועדיתים",
+      "gloss": "in Aditajim"
+    },
+    {
+      "surface": "והגדרה",
+      "gloss": "Gedera"
+    },
+    {
+      "surface": "וגדרתים",
+      "gloss": "in Gederotajim"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mest"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štiri(najst)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(štiri)najst"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "s svojimi vasemi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:18:42.165766646Z",
+  "model": "glm-5.3"
+}

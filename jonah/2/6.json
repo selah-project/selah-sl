@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne nesmrtna duša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני\/יסבבני",
+      "rationale": "dva glagola 'obdajati' v vzporednih členih — ponovitev obkolitve"
+    }
+  ],
+  "translation": "Vode so me obdajale do duše, brezno me je obdajalo, trstika je bila zavita ⟨na⟩ mojo glavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/2\/5-8.1792434063600.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "so me obdajale"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "brezno"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "me je obdajalo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "trstika"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "zavita"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "na mojo glavo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:03.602207390Z",
+  "model": "glm-5.3"
+}

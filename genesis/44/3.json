@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina uporablja pu'al brez pomožnika; slovenščina potrebuje 'so bili poslani'"
+    }
+  ],
+  "translation": "Zjutraj je zasvetilo, in možje so bili poslani, oni in njihovi osli.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/44\/1-4.1792422888907.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "אור",
+      "gloss": "je zasvetilo"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "so bili poslani"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "in njihovi osli"
+    }
+  ],
+  "timestamp": "2026-10-19T15:14:48.908338653Z",
+  "model": "glm-5.3"
+}

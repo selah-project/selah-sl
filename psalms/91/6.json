@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קטב",
+      "rationale": "מקטב se v Tanahu pojavi samo tu; pomen 'poguba\/uničenje' je izpeljan iz sorodnega korena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צהרים",
+      "rationale": "dvojina 'dvoje svetlobe', dobesedno 'ob beli dnevi', prevedeno z 'opoldne'."
+    }
+  ],
+  "translation": "za kugo, ki hodi v mraku, za pogubo, ki pustoši opoldne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a0aa55138cb60796de14c3c9f2d75bf05f2d4e2b80b6e3108e94ffd4de40cf97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/91\/6-7.1792439036933.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "za kugo"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "v mraku"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ki hodi"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "za pogubo"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ki pustoši"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "opoldne"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:56.935459912Z",
+  "model": "glm-5.3"
+}

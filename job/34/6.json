@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אכזב",
+      "rationale": "'lažem (proti svojemu pravu)' (KJV) ali '(Bog me šteje za) lažnivega' (ASV\/JPS) — Elihu citira Ijova"
+    },
+    {
+      "kind": "crux",
+      "subject": "אנוש חצי",
+      "rationale": "dobesedno 'mrtvorna je moja puščica'; puščica kot metafora rane (JPS 'my wound is incurable') ali bolečine"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בלי פשע",
+      "rationale": "'neozdravljiva ... brez prestopka' — številke razlik: prestopka ali greha (מ = izpust)"
+    }
+  ],
+  "translation": "Kljub svojemu pravu ⟨sem⟩ označen za lažnega, neozdravljiva je moja puščica ⟨rana⟩, brez prestopka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f6ee47fd518beff898ee7d1dbb6a3cb2a864ea3644c6a9e6edb1641655b24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/34\/5-8.1792436677181.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kljub"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "svojemu pravu"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "označen za lažnega"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neozdravljiva"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "moja puščica"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "brez"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "prestopka"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:37.182594568Z",
+  "model": "glm-5.3"
+}

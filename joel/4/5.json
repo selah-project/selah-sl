@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 4:5",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩\/⟨ste⟩",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "tempelj\/palača",
+      "rationale": "היכל lahko pomeni palačo ali tempelj; kontekst je posvetna ropanja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחמדים",
+      "rationale": "iz korena חמד (poželenje) — 'predmeti želje', besedna igra izgubljena v slovenščini"
+    }
+  ],
+  "translation": "Ker ⟨je⟩ moje srebro in moje zlato vzeli ⟨ste⟩, in moje drage dobrine ste prinesli v svoje templje;",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/4\/5-8.1792433956668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ker"
+    },
+    {
+      "surface": "כספי",
+      "gloss": "moje srebro"
+    },
+    {
+      "surface": "וזהבי",
+      "gloss": "in moje zlato"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "ste vzeli"
+    },
+    {
+      "surface": "ומחמדי",
+      "gloss": "in moje drage dobrine"
+    },
+    {
+      "surface": "הטבים",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ste prinesli"
+    },
+    {
+      "surface": "להיכליכם",
+      "gloss": "v svoje templje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:16.669580323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki izpolnjujete",
+      "rationale": "Hebrew participle עשי 'delajoči' needs a relative clause in Slovene"
+    },
+    {
+      "kind": "you",
+      "subject": "angels\/hosts",
+      "rationale": "Direct imperative address to Jahve's hosts and ministers"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Blagoslavljajte",
+      "rationale": "Imperative summons to praise"
+    }
+  ],
+  "translation": "Blagoslavljajte Jahveja, vsi ⟨njegovi⟩ vojski, ⟨njegovi⟩ služabniki, ki izpolnjujete ⟨njegovo⟩ voljo!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/21-22.1792435322172.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Blagoslavljajte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "vojski ⟨njegove⟩"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "služabniki ⟨njegovi⟩"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ki izpolnjujete"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "voljo ⟨njegovo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:02.173368574Z",
+  "model": "glm-5.3"
+}

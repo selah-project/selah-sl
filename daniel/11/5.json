@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨eden⟩",
+      "rationale": "hebrejščina reče samo 'in izmed njegovih knezov', brez števnika; soustvarjanje je dodano."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזק \/ משל \/ ממשל \/ ממשלה",
+      "rationale": "trikratni koren חזק in trojni משל v enem verzu — veriga utrjevanja in vladanja, v slovenščini deloma ohranjena z 'okrepil\/vladal\/oblast'."
+    }
+  ],
+  "translation": "In okrepil se bo kralj juga, in ⟨eden⟩ izmed njegovih knezov, in okrepil se bo nad njim ter vladal — oblast velika bo njegova oblast.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "79ae92faba7151872893198dd2ddb826404eacf6a76d35019aa08c5cf34b1ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/11\/5-8.1792437574775.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "in okrepil se bo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "juga"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "in izmed"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "njegovih knezov"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "in okrepil se bo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ter vladal"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "oblast"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velika"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "njegova oblast"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:34.776161935Z",
+  "model": "glm-5.3"
+}

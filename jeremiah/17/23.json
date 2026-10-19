@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "otrdili so svoj vrat",
+      "rationale": "hebrejska idiomatska podoba trdovratnosti (ערף = zatilje), dobesedno ohranjena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "opomin",
+      "rationale": "מוסר pomeni vzgojo, kazen in opomin hkrati"
+    }
+  ],
+  "translation": "In niso poslušali in niso nagnili ⟨את⟩ svojega ušesa, ampak so otrdili ⟨את⟩ svoj vrat, da ne bi poslušali in da ne bi sprejeli opomina.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "138c2f1dc406141943049403a1be0e6ba256184ea735ce08de855332362a967b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/17\/21-24.1792431422677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "In niso"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "nagnili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega ušesa"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "svoje uho"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ampak so otrdili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj vrat"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "svoj vrat"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "in da ne bi"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "sprejeli"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "opomina"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:02.678594154Z",
+  "model": "glm-5.3"
+}

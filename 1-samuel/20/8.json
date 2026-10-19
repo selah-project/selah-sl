@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 20:8",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ostaja hesed — zvesta ljubezen, ne 'milost'."
+    },
+    {
+      "kind": "you",
+      "subject": "David Jonatanu",
+      "rationale": "neposreden nagovor — prošnja za zvestobo v zavezi."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועד אביך למה זה תביאני",
+      "rationale": "dobesedno 'in do svojega očeta, zakaj to me privedeš' — vprašanje, zakaj bi Jonatan izročil Davida očetu."
+    }
+  ],
+  "translation": "In izkaži hesed svojemu hlapcu, saj si ⟨את⟩ svojega hlapca peljal v zavezo z Jahvejem ⟨skupaj⟩ s seboj; če pa je v meni krivda, usmrti me ti ⟨sam⟩ — zakaj me pa vodiš h k svojemu očetu?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "dacb9edc516907cce415e8d123c2a0c59b440e80b5b153b56c2e26e53fb3c4b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/5-8.1792427909264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "in izkaži"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojemu hlapcu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "v zavezo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "z Jahvejem"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "si peljal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega hlapca"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega hlapca"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tabo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivda"
+    },
+    {
+      "surface": "המיתני",
+      "gloss": "usmrti me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvojega očeta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "תביאני",
+      "gloss": "me vodiš"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:29.265562637Z",
+  "model": "glm-5.3"
+}

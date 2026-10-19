@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki ga je izvršil",
+      "rationale": "Hebrejščina ima samo samostalnik מהפכת (prevračanje) z Elohim v genitivu; slovenščina potrebuje glagol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sin človekov",
+      "rationale": "בן אדם dobesedno »sin Adamov\/človekov« — splošen izraz za človeka, ne naslov."
+    }
+  ],
+  "translation": "Kakor prevračanje, ki ga je izvršil Elohim ⟨את⟩ Sodomi in ⟨את⟩ Gomori in ⟨את⟩ njenim sosedom, govori Jahve: ne bo tam prebival noben mož, in ne bo v njej bival sin človekov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c20f7490378a5e2a585d9aa5232a57bdc3b11b4a48017f1117b82ac24ac7e5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/50\/37-40.1792431956491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "kakor prevračanje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodomi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gomori"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njenim sosedom"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "njenim sosedom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bo prebival"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "noben mož"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bo bival"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človekov"
+    }
+  ],
+  "timestamp": "2026-10-19T17:45:56.492740485Z",
+  "model": "glm-5.3"
+}

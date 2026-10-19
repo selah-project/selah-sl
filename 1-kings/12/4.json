@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ti pa zdaj olajšaj",
+      "rationale": "neposreden nagovor Rehabeama s strani ljudstva"
+    },
+    {
+      "kind": "invitation",
+      "subject": "in služili ti bomo",
+      "rationale": "pogojna ponudba zvestobe, odvisna od kraljevega odgovora"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקשה \/ הקל",
+      "rationale": "nasprotje 'narediti težko' proti 'narediti lahko' — besedna struktura, ki jo slovenščina ohrani s poostril\/olajšaj"
+    }
+  ],
+  "translation": "Tvoj oče je poostril ⟨את⟩ naše jarmo; ti pa zdaj olajšaj hudo službo svojega očeta in težko jarmo njegovo, ki ga je nadel namesto nas, in služili ti bomo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/12\/1-4.1792429079274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "tvoj oče"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "je poostril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše jarmo"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "naše jarmo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ti pa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "olajšaj"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "od službe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hudo"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "in od njegovega jarma"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "težko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je nadel"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "namesto nas"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "in služili ti bomo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:57:59.275603654Z",
+  "model": "glm-5.3"
+}

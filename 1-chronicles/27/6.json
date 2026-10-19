@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrew nominal clauses lack copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "על השלשים",
+      "rationale": "'over the thirty' — commander of the Thirty, or ranked above them"
+    }
+  ],
+  "translation": "Ta Benajahu ⟨je bil⟩ mogočen med tridesetimi in nad tridesetimi, in nad njegovo razdelitvijo ⟨je bil⟩ njegov sin Amizabad.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/27\/5-8.1792438370002.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mogočen"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "med tridesetimi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "tridesetimi"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "njegovo razdelitvijo"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "Amizabad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:50.006870932Z",
+  "model": "glm-5.3"
+}

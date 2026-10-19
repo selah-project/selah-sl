@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורבה",
+      "rationale": "'veliko\/težko' — različice: pogosto med ljudmi (KJV), težko nad ljudmi (JPS\/ASV), veliko nad človekom (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpusti glagol biti; slovenščina ga zahteva."
+    }
+  ],
+  "translation": "Obstaja húdo, katero sem videl pod soncem, in težko ⟨je⟩ nad človekom:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e7d615df2aede3ce82de5c4d7bae7ef0fde2a970b29d382b558e6dc71bf68ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/6\/1-4.1792437116678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "obstaja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sem videl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soncem"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "in težko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "človekom"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:56.680188134Z",
+  "model": "glm-5.3"
+}

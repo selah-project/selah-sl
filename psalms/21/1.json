@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Zborovodja",
+      "rationale": "למנצח je 'tistem, ki od daleč blešči, torej nadzornik' — vodja zborovodja je uveljavljena, a zblešči se slika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "rationale": "מזמור je pojem za inštrumentalno glasbo oz. pesem z notami; ohranjena hebrejska beseda."
+    }
+  ],
+  "translation": "Zborovodji. Mizmor Davidu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/21\/1-4.1792434656511.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:56.511633125Z",
+  "model": "glm-5.3"
+}

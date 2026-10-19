@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 9:32",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kdo je 'človek kakor jaz'",
+      "rationale": "KJV\/JPS: 'on (Elohim) ni človek kakor jaz'; YLT obrne: 'če (bi bil) človek kakor jaz — odgovoril bi mu'; hebrejščina dopušča obe smeri."
+    },
+    {
+      "kind": "addition",
+      "subject": "ni",
+      "rationale": "slovenščina potrebuje glagolsko obliko 'je', hebrejščina je opušča; prirejeno 'ni' po prevzemni vejitvi."
+    }
+  ],
+  "translation": "Kajti ⟨ni⟩ človek kakor jaz, da bi mu ⟨lahko⟩ odgovoril, da bi skupaj prišla na sodbo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "677818c64360e2db54f6b20bba5a2a3cbb7f36ece44bf0eb28f62c7c4f3d4907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/9\/29-32.1792436334760.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "kakor jaz"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "da bi mu odgovoril"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "da bi prišla"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na sodbo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:54.762794299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sramota",
+      "rationale": "נבלה dobesedno 'neumnost\/nerodovitnost' — moralna sramota, ne le neumno dejanje."
+    },
+    {
+      "kind": "addition",
+      "subject": "je ⟨je⟩",
+      "rationale": "Slovenščina potrebuje pomožnik 'je' pri pretekliku, hebrejščina ga nima."
+    }
+  ],
+  "translation": "In zgodi se, da bo tisti, ki bo ujet z ⟨את⟩ ḥeremom, sežgan v ognju — ⟨את⟩ njega in ⟨את⟩ vse, kar ima; ker je prekršil ⟨את⟩ zavezo Jahveja in ker je storil sramoto v Jisraelu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "381ba58528775682fcc339618a9f35a388b6a4c48508671cf9ad1ba49e7df5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/7\/13-16.1792426590369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "In zgodi se"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "ki bo ujet"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "z ḥeremom"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sežgan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "v ognju"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vse, kar ima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker je"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "prekršil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavezo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "in ker je"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "storil"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "sramoto"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:16:30.370967039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se izenači",
+      "rationale": "šavah pomeni dobesedno 'je enako vredno \/ se izenači'; 'koristi' (KJV) je vloga, ne oblika besede"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשער המלך",
+      "rationale": "dobesedno 'v vratih kralja' — vhod\/palačna vrata kot kraj uradovanja; 'pri kraljevih vratih' vs 'v palači'"
+    },
+    {
+      "kind": "you",
+      "subject": "govor Hamana",
+      "rationale": "verz je Hamanov monolog, naslovljen na Zereš in prijatelje"
+    }
+  ],
+  "translation": "In vse to ⟨se⟩ mi ne izenači, vsak čas, ko vidim ⟨את⟩ Mordeja, Judija, ki sedi v vhodu kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eee27b4b9ad40fa9f2e199d73a8efdbb5b1407c590146ee13d554d42ed10b06f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/5\/13-14.1792437203524.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "se izenači"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordeja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordej"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Judij"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ki sedi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v vhodu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:23.526263506Z",
+  "model": "glm-5.3"
+}

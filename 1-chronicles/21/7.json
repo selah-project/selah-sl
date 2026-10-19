@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "slabo v očeh",
+      "rationale": "Hebrejska zveza 'zlo v očeh' pomeni neodobravanje; dobesedno ohranjeno."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "Neosebno poročilo o Elohimovem neodobravanju in udarcu Jisraela."
+    }
+  ],
+  "translation": "In slabo je bilo v očeh Elohim zaradi te stvari, in udaril je ⟨את⟩ Jisrael.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/21\/5-8.1792438277148.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "slabo je bilo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "te stvari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "in udaril je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:17.150237475Z",
+  "model": "glm-5.3"
+}

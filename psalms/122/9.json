@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom \/ zate",
+      "rationale": "slovenščina zahteva osebno obliko glagola in zaimke; hebrejščina jih vsebuje v končnicah"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב לך",
+      "rationale": "odmev »shalav« iz v. 7 — blagostanje Jerušalajima; ponovitev »dobro zate« veže sklep pesmi z začetkom"
+    }
+  ],
+  "translation": "Zaradi hiše Jahve, Elohim našega, iskali ⟨bom⟩ dobro ⟨zate⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d1e3aadcf74eaea365fa585b1ed22047f7bc5a1a698b41f8f4f823d55d7dda26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/122\/9-9.1792435521851.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našega"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "iskali ⟨bom⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨zate⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:21.852070029Z",
+  "model": "glm-5.3"
+}

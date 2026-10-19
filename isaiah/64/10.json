@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היה ... היה",
+      "rationale": "Dvakratni 'je postalo\/a' — vzporedni poriv: hiša v ogenj, dragocenosti v ruševino."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדש",
+      "rationale": "Skladno s pravilom D2: koren קדש vedno 'svet\/svetost', nikoli 'svetišče'."
+    }
+  ],
+  "translation": "Hiša naše svetosti in našega sijaja, kjer so te hvalili naši očetje, je postala ⟨za⟩ sežiganje z ognjem, in vse naše drage stvari so postale v ruševino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/64\/9-11.1792430973668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "naše svetosti"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "in našega sijaja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "so te hvalili"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "naši očetje"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je postala"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "za sežiganje"
+    },
+    {
+      "surface": "אש",
+      "gloss": "z ognjem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "naše drage stvari"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je postalo"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "v ruševino"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:33.669591005Z",
+  "model": "glm-5.3"
+}

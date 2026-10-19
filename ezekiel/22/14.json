@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 22:14",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "hebrejščina ima perfekt ועשיתי v obljubljenem pomenu — prihodnjost je vidna šele iz sobesedila"
+    },
+    {
+      "kind": "you",
+      "subject": "Jeruzalem",
+      "rationale": "retorični vprašanji sta neposreden ogovor mesta, ki ga Ezehijel obtožuje"
+    }
+  ],
+  "translation": "Ali bo obstalo tvoje srce, ali se bosta ojačali tvoji roki v dneh, ko jih jaz delam ⟨את⟩ tebi? Jaz, Jahve, sem govoril in storil bom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6efb30509f12ccc59fe447d6ca6edaa22d0ef308ecd57effc4e12cbe6d8e5c65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/22\/13-16.1792432410189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעמד",
+      "gloss": "ali bo obstalo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvoje srce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "se bosta ojačali"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tvoji roki"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "v dneh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "delam"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "tebi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sem govoril"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "in storil bom"
+    }
+  ],
+  "timestamp": "2026-10-19T17:53:30.189850681Z",
+  "model": "glm-5.3"
+}

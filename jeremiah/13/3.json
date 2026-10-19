@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina pri לאמר nima glagola 'rekel'; slovenska skladnja ga zahteva"
+    }
+  ],
+  "translation": "In prišla je beseda Jahveja do mene drugič, in rekel ⟨je⟩:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "44498b7b5e71b0b483896439d95876c5610ea883047a6088f0ad73965c593e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/13\/1-4.1792431335367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in prišla je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mene"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugič"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in rekel"
+    }
+  ],
+  "timestamp": "2026-10-19T17:35:35.367877096Z",
+  "model": "glm-5.3"
+}

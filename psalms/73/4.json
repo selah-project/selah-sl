@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרצבות",
+      "rationale": "'Spone\/okovi' dobesedno ali 'bolečine' po aramejski rabi (Targum, JPS)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אולם",
+      "rationale": "Telo kot 'zvito skupaj' — redka beseda, samo tu v Tanahu v tem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva kopulo; hebrejščina jo izpušča."
+    }
+  ],
+  "translation": "Kajr ni spon za njihovo smrtjo, in bujno ⟨je⟩ njihovo telo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/1-4.1792435042069.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajr"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "spon"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "za njihovo smrtjo"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "in bujno"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "njihovo telo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:22.071603199Z",
+  "model": "glm-5.3"
+}

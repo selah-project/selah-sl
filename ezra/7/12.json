@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמיר וכענת",
+      "rationale": "Aramejska pisemska formula: 'popolna (postava) in tako naprej'; KJ pretolmačil kot 'perfect peace, and at such a time'."
+    },
+    {
+      "kind": "elision",
+      "subject": "uvodni pozdrav",
+      "rationale": "Aramejsko pismo nima pozdravne formule; KJ 'Artaxerxes… perfect peace' jo dodaja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eloha",
+      "rationale": "Aramejski אלה je vzporedni hebrejskemu Eloah — kept po zvoku, ne 'Bog nebes'."
+    }
+  ],
+  "translation": "Artaḥšasta, kralj kraljev, Ezru, duhovniku, pisarju postave Eloha nebes, popolni, ⟨in tako naprej⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/9-12.1792437659473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artaḥšasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezru"
+    },
+    {
+      "surface": "כהנא",
+      "gloss": "duhovniku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pisarju"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "postave"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "גמיר",
+      "gloss": "popolni"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "in tako naprej"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:59.482123806Z",
+  "model": "glm-5.3"
+}

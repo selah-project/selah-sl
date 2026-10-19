@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "rivenje",
+      "rationale": "נהם je brnenje\/renkanje zvarega mladega leva; 'renčanje' bi bilo druga možnost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladega leva",
+      "rationale": "כפיר je 'pokriti' — mladi lev; dobesedna podoba pokritosti je v slovenščini izpuščena"
+    }
+  ],
+  "translation": "Rivenje mladega leva je jeza kralja, njegova naklonjenost pa kot rosa na travi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/9-12.1792436016841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "rivenje"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "mladega leva"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "jeza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "in kot rosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "travi"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "njegova naklonjenost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:36.845257013Z",
+  "model": "glm-5.3"
+}

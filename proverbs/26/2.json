@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבא — »ne pride«",
+      "rationale": "alternativna razlaga: kletvica brez vzroka se ne zgodi oz. ne prisede (JPS »shall come home« — vrača se na tistega, ki je izrekel)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דרור",
+      "rationale": "lastovka se v Tanahu pojavi samo tukaj in v Prl 26,4-pár vzporednih mestih (Prl 26,2 edino mesto ptice kot lastovke)"
+    }
+  ],
+  "translation": "Kakor ptica pri begu, kakor lastovka pri letu, tako kletvica brez vzroka ne pride ⟨na cilj⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/1-4.1792436099611.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "kakor ptica"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "pri begu"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "kakor lastovka"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "pri letu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "kletvica"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "brez vzroka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "pride"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:59.611935689Z",
+  "model": "glm-5.3"
+}

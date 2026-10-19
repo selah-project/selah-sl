@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 8:8",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "העל זאת לא תרגז",
+      "rationale": "Retorično vprašanje bralcu: 'Ali zaradi tega dežela ne bo zatrepetała?' — vprašanje vabi k odgovoru."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונגרשה ונשקה",
+      "rationale": "Redka glagola: גרש tu 'biti zvržen\/razgrnjen', שקה 'biti napojen\/utopljen' — prevodi nihajo od 'izvržena in potopljena' (KJV) do 'vznemirjena in spet potonila' (ASV\/JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאור",
+      "rationale": "יאור je kanal\/Nil — v slovenščini 'Nil', izgubi se povezava z namakalnimi kanali Micrajima."
+    }
+  ],
+  "translation": "Zaradi tega ali ne bo zatrepetała dežela in žaloval vsak, ki prebiva v njej? In dvignila se bo vsa kakor Nil, razgrnjena in napojena kakor Nil Micrajima.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5f1eace625e8ce6fc779704402dcd1258a9a87b8a6078d07b4df41b647d4a5d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/8\/5-8.1792434067376.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Zaradi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "תרגז",
+      "gloss": "bo zatrepetała"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "in žaloval"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "In dvignila se bo"
+    },
+    {
+      "surface": "כאר",
+      "gloss": "kakor Nil"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "ונגרשה",
+      "gloss": "razgrnjena"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "in napojena"
+    },
+    {
+      "surface": "כיאור",
+      "gloss": "kakor Nil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:07.378166662Z",
+  "model": "glm-5.3"
+}

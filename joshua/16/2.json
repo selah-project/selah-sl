@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenski pomožnik za preteklik, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "Atarot",
+      "rationale": "KJV 'do Atarota' vs JPS 'pri Atarotu' — עטרות je lahko konec meje ali mesto ob njej"
+    }
+  ],
+  "translation": "In izšel ⟨je⟩ od Bet Ela k Luzu ter prešel k meji Arkijcev, Atarot.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/16\/1-4.1792426731944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "in izšel"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "od Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "k Luzu"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ter prešel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meji"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Arkijcev"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "Atarot"
+    }
+  ],
+  "timestamp": "2026-10-19T16:18:51.944842615Z",
+  "model": "glm-5.3"
+}

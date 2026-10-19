@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "peli in slavili bomo",
+      "rationale": "Zaključni klic hvalnice: prvoosebna množina soborne vabi skupnost v petje."
+    },
+    {
+      "kind": "addition",
+      "subject": "bodi",
+      "rationale": "Hebrejščina ima samo povratni deležnik רומה ('povzdignjen'); slovenski glagolski veznik je dodan."
+    }
+  ],
+  "translation": "Povzdignjen bodi, Jahve, v svoji moči; peli in slavili bomo tvojo jakost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/21\/13-14.1792434616520.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Povzdignjen bodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "v svoji moči"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "peli bomo"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "in slavili bomo"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "tvojo jakost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:16.521885594Z",
+  "model": "glm-5.3"
+}

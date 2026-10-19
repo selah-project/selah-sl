@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shalom",
+      "rationale": "שלום pomeni celoto, blagostanje, ne le odsotnost vojne; 'mir' bi bil premalo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכשול",
+      "rationale": "spotika nasproti shalomu — hebrejsko pesniško nasprotje"
+    }
+  ],
+  "translation": "Velik shalom imajo tisti, ki ljubijo tvojo Toro, in ni zanje spotike.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/165-168.1792435547583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velik"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "tisti, ki ljubijo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvojo Toro"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zanje"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "spotika"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:47.584221468Z",
+  "model": "glm-5.3"
+}

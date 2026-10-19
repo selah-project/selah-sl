@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יורשנו",
+      "rationale": "ירש običajno pomeni 'podedovati\/zavzeti'; tukaj 'izganjati\/izrivati' — prevodi se razhajajo med 'izrivati' in 'odvzeti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "premoženje",
+      "rationale": "חַיִל je sila, vojska, bogastvo; tu 'bogastvo\/premoženje' po kontekstu požrtja."
+    }
+  ],
+  "translation": "Premoženje je pogoltnil in ga bo izbljuval; iz svojega trebuha ga bo izganjal El.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2eeb078858b3bfce377c3c30b05a714e374dc5aba42beba5a3fadfc2968462a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/13-16.1792436472134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "premoženje"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "pogoltnil"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "izbljuval"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "iz svojega trebuha"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "bo izganjal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:12.136921991Z",
+  "model": "glm-5.3"
+}

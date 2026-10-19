@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula; the predication is juxtapositional: Jahve — my shepherd."
+    },
+    {
+      "kind": "addition",
+      "subject": "ničesar",
+      "rationale": "Hebrew verb אחסר 'lack\/want' is absolute; Slovene needs an object or adverbial to read naturally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesem",
+      "rationale": "מזמור properly denotes instrumental music, a poem set to notes."
+    },
+    {
+      "kind": "you",
+      "subject": "molivec",
+      "rationale": "First-person declaration of trust; the speaker addresses no one but speaks of Jahve."
+    }
+  ],
+  "translation": "Pesem Davidu. Jahve ⟨je⟩ moj pastir, ne bom pogrešal ⟨ničesar⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/23\/1-4.1792434648957.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pesem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "moj pastir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "bom pogrešal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:48.958536447Z",
+  "model": "glm-5.3"
+}

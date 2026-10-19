@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 13:13",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zaspal s svojimi očeti",
+      "rationale": "hebrejski idiom za umrl; dobesedno 'ležal s svojimi očeti'"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina ima aktiven glagol brez osebka; slovenščina zahteva množinski predikat 'so pokopali'"
+    }
+  ],
+  "translation": "In Joaš je zaspal s svojimi očeti, in Jerobeam je sedel na njegovem prestolu; in Joaša so pokopali v Šomronu s kralji Jisraela.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "dd23b39b3bc22ac995aef71d255cb3e351f038262cd6c8eadb88d8522cc9f3b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/13\/13-16.1792429620591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "in zaspal je"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svojimi očeti"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "in Jerobeam"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "je sedel"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "njegovem prestolu"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "in pokopali so"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaša"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Šomronu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T17:07:00.592331646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "krona",
+      "rationale": "עטר pomeni obkrožiti\/okronati; ščit oklepa kot venec — večina prevodov raje 'obdaja'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ga boš obdal",
+      "rationale": "תעטרנו kot 'obkrožiš ga zaščitno' (BDB), bolj v skladu s sliko ščita"
+    },
+    {
+      "kind": "crux",
+      "subject": "צנה",
+      "rationale": "redka beseda: velik ščit (verjetno trnast\/vit), le Psalmi 91 in tu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רצון תעטרנו",
+      "rationale": "namig na torah pentatevh"
+    }
+  ],
+  "translation": "Kajti ti, Jahve, blagoslavljaš pravičnega; kakor s ščitom ⟨ga⟩ naklonjenost obdaja, ⟨krona ga⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/13-13.1792434496807.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "blagoslavljaš"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "kakor s ščitom"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "naklonjenost"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "ga krona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:16.807531946Z",
+  "model": "glm-5.3"
+}

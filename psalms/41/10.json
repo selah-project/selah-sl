@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אִישׁ שְׁלוֹמִי",
+      "rationale": "'človek mojega šaloma' — moj miroljubni prijatelj; šalom se ne prevaja."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הִגְדִּיל עָקֵב",
+      "rationale": "'naredil je veliko peto' — dvignil peto namesto miru; znamenje podlosti."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki je jedel",
+      "rationale": "slovenščina potrebuje veznik 'ki', ki ga hebrejščina nima."
+    }
+  ],
+  "translation": "Tudi človek mojega šaloma, v katerega sem zaupal, ki je jedel moj kruh, je naredil veliko peto ⟨proti meni⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/9-12.1792434804596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mojega šaloma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v katerega"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "sem zaupal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vanj"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ki je jedel"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "moj kruh"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "je naredil veliko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti meni"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "peto"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:24.598257245Z",
+  "model": "glm-5.3"
+}

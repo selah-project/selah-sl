@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מחנק",
+      "rationale": "Zadušitev se v Tanahu pojavlja samo v tem verzu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je grlo, dih, življenjska sila — ne ločena 'duša'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעצמותי",
+      "rationale": "'smrt raje kot moje kosti' — dobesedno; KJV-jeva 'ne moja življenja' mehča surovost."
+    }
+  ],
+  "translation": "In izbrala je zadušitev moja duša, smrt ⟨raje⟩ kot moje kosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/13-16.1792436342706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "in izbrala je"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "zadušitev"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "kot moje kosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:02.709147524Z",
+  "model": "glm-5.3"
+}

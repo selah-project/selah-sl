@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 23:35",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בל",
+      "rationale": "בל pomeni 'nič, sploh ne' — izrazita nikalnica, ne navadna 'ne'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ničesar⟩",
+      "rationale": "slovenščina potrebuje dopolnilo pri 'nisem vedel'; hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכוני\/הלמוני",
+      "rationale": "dva glagola za udarjanje v vzporednih polverzih — ponovitev poudarja toploto zadetkov."
+    },
+    {
+      "kind": "you",
+      "subject": "pijanec",
+      "rationale": "neposreden notranji govor pijanca, citiran brez uvedbe."
+    }
+  ],
+  "translation": "Udarcem so me bili — nisem zbolel; pretepli so me — nisem vedel ⟨ničesar⟩. Kdaj se bom zbudil? Še naprej ga bom iskal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca89d38e01548c82e402d06778a8664af82f69bb61ed60b920ff491b1a61a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/34-35.1792439081195.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכוני",
+      "gloss": "Udarcem so me bili"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "zbolel"
+    },
+    {
+      "surface": "הלמוני",
+      "gloss": "pretepli so me"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vedel"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kdaj"
+    },
+    {
+      "surface": "אקיץ",
+      "gloss": "se bom zbudil"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "Še naprej"
+    },
+    {
+      "surface": "אבקשנו",
+      "gloss": "ga bom iskal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "znova"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:41.197129847Z",
+  "model": "glm-5.3"
+}

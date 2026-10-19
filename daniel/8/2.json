@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 8:2",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "hebrejščina v drugem stavku izpušča glagol biti (samo ואני בשושן)"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשושן הבירה",
+      "rationale": "הבירה pomeni trdnjava\/palača; nekateri prevajajo 'Šušan, palača' kot ime kraja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ob",
+      "rationale": "על dobesedno 'nad\/po', prevedeno kot 'ob' po slovenski rabi za reko"
+    }
+  ],
+  "translation": "In videl sem v videnju; in zgodbilo se je, ko sem videl — in jaz ⟨sem⟩ v Šušanu, trdnjavi, ki je v Elamu, pokrajini — in videl sem v videnju, in jaz sem bil ob reki Ulaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4b390c126b9535d7d900cbb846e7bdda8a37adcb9c03d7bcaa6efbb120c83107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/1-4.1792437547070.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "in videl sem"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "v videnju"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se je"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ko sem videl"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šušanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "trdnjavi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "בעילם",
+      "gloss": "v Elamu"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "pokrajini"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "in videl sem"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "v videnju"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sem bil"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "reki"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulaj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:07.072661117Z",
+  "model": "glm-5.3"
+}

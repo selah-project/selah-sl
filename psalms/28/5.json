@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨k⟩",
+      "rationale": "hebrejski אל 'do\/k' pred predmetom glagola razumevanja se v slovenščini izpusti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהרסם\/יבנם",
+      "rationale": "nasprotje podreti\/zidati, pridevniško-paranomastični par okrog istega predmeta"
+    }
+  ],
+  "translation": "Ker ne razumejo del Jahveja in dejanja njegovih rok — podrl jih bo in jih ne bo zidal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/28\/5-8.1792434697438.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "razumejo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "del"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ⟨k⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dejanja"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "njegovih rok"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "podrl jih bo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "jih bo zidal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:37.440000270Z",
+  "model": "glm-5.3"
+}

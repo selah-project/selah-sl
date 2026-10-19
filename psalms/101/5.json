@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אצמית",
+      "rationale": "glagol צמת se v Tanahu pojavlja le še v 101,8 — isti redki koren okvirja pesem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "široko srce",
+      "rationale": "רחב לבב je dobesedno 'široko srce', tj. ošabno, napihnjeno — ne prostorno"
+    }
+  ],
+  "translation": "Tistega, ki v tajnosti obreka svojega bližnjega, ⟨את⟩ njega bom iztrebil; visoke oči in široko srce — ⟨את⟩ tega ne morem prenašati.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/101\/5-8.1792435364880.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "obreka"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v tajnosti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "njega — tistega, ki obreka"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "bom iztrebil"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "visoke"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "in široko"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tega — kdor je visokih oči in širokega srca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "morem prenašati"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:44.881872782Z",
+  "model": "glm-5.3"
+}

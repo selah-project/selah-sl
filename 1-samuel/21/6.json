@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 21:6",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bila⟩",
+      "rationale": "slovenščina potrebuje pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "והוא דרך חל",
+      "rationale": "»in pot je navadna« — prevodi se razhajajo: pot navadna (KJV\/ASV) ali pot sveta (BSB); והוא lahko poudari ali napoveduje nasprotje"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלי",
+      "rationale": "»posoda« ali »telo« — nekateri prevodi (Wycliffe, Vulgata) berejo kelimske posode kot telesa mladeničev"
+    },
+    {
+      "kind": "you",
+      "subject": "David duhovniku",
+      "rationale": "neposreden nagovor Ahimeleha v pogovoru o svetem kruhu"
+    }
+  ],
+  "translation": "In David je odgovoril ⟨את⟩ duhovnika in mu rekel: Ženska je ⟨bila⟩ zadržana od nas kakor včeraj in predvčerajšnjim, odkar sem odšel, in posode mladeničev so postale svete — pot pa je navadna, kaj šele, ko se bo danes posvetila v posodi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/21\/5-8.1792427985063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in je odgovoril"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duhovnika"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zares"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženska"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "zadržana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kakor včeraj"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "in predvčerajšnjim"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "odkar sem odšel"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "in so postale"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posode"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladeničev"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svete"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "חל",
+      "gloss": "navadna"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kaj šele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "se bo posvetila"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "v posodi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:39:45.064766812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 8:9",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "hebrejščina brez veznika pred infinitivom; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצהרים \/ אור",
+      "rationale": "dvojina 'dvojne svetlobe' (opoldne) nasproti 'dan svetlobe' — nasprotje svetlega in temnega v eni isti besedi"
+    }
+  ],
+  "translation": "In zgodilo se bo na tisti dan, govori Adonaj Jahve, da bom spravil sonce v opoldne in potemnil deželo na dan svetlobe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "afb258fcd798d2b5067b7b193cc9e6248516f227d6ab1b7dbd2aca4a02cb560f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/8\/9-12.1792434082503.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in zgodilo se bo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "da bom spravil"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sonce"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "v opoldne"
+    },
+    {
+      "surface": "והחשכתי",
+      "gloss": "in potemnil"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetlobe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:22.504477510Z",
+  "model": "glm-5.3"
+}

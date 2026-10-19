@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Slovenščina potrebuje veznik pri namernem infinitivu; hebrejščina ima gol infinitiv."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בית איש יומו",
+      "rationale": "Dobesedno 'v hiši moža, dan njegov' — vsak brat na svoj dan; možno tudi 'vsak na svoj rojstni dan'."
+    }
+  ],
+  "translation": "In sinovi njegovi so hodili in gostijo delali v hiši vsak svojega dne; in poslali so in poklicali svoje tri sestre, da jedo in pijo z njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3e5e494b7a43b63a7ba85f41cd9c4e3d2f83d2e5050621762ad6282d42899d7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/1\/1-4.1792436230089.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "in so hodili"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sinovi njegovi"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "in delali"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gostijo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "svojega dne"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "in poslali so"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "in poklicali"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "svoje tri"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "sestre"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da jedo"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "in pijo"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "z njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:10.092465607Z",
+  "model": "glm-5.3"
+}

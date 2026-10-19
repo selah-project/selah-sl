@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע \/ רשעו \/ ורע",
+      "rationale": "Zveneče ponavljanje korena רשע v enem verzu, v slovenščini delno ohranjeno (krivični\/krivoda)."
+    },
+    {
+      "kind": "crux",
+      "subject": "בל תמצא",
+      "rationale": "'Ne boš našel (nič)' — kdo ne najde: Elohim ali krivični; KJV 'till thou find none'."
+    }
+  ],
+  "translation": "Zlomi roko krivičnega in zlobnega; poizveduj njegovo krivodo, da je več ne najdeš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/10\/13-16.1792434583632.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "zlomi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "roko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "in zlobnega"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "poizveduj"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "njegovo krivodo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "najdeš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:43.636178492Z",
+  "model": "glm-5.3"
+}

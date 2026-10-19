@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ne išči ga",
+      "rationale": "ידרשהו: 'ne išči ga' (ASV\/JPS) proti 'ne glej ga' (KJV 'regard')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svetloba",
+      "rationale": "נהרה je 'dnevna svetloba, zarja', ne splošna luč"
+    }
+  ],
+  "translation": "Ta dan naj bo tema; ne išči ga Eloah od zgoraj in ne posijaj nanj svetloba!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/1-4.1792436264330.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ta dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "išči ga"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "od zgoraj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "posijaj"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "svetloba"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:44.333536311Z",
+  "model": "glm-5.3"
+}

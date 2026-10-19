@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kovač",
+      "rationale": "חרש je 'obdelovalec' nasploh — tu iz sobesedila kovinar orožja"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמר",
+      "rationale": "dovedenik brez כי po njem — 'so rekli' kot stalni ukaz ali 'so si izmislili'"
+    }
+  ],
+  "translation": "In kovača niso našli po vsej deželi Jisrael, kajti Pelištimci so rekli: da Hebrejci ne naredijo meča ali kopja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2df49bf26ebbae0f4dd2635862a4c6fc76d011fe6138fffef9c77ee458c8da8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/13\/17-20.1792427642947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "In kovača"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najdejo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po vsej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "so rekli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištimci"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "naredijo"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejci"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "kopje"
+    }
+  ],
+  "timestamp": "2026-10-19T16:34:02.948146460Z",
+  "model": "glm-5.3"
+}

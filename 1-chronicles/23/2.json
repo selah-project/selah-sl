@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in je",
+      "rationale": "slovenski sostavek za vav, ki začenja poved"
+    }
+  ],
+  "translation": "In je zbral ⟨את⟩ vse knezove Jisraela in duhovnike in levite.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/23\/1-4.1792438288082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "je zbral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse knezove Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "in duhovnike"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "in levite"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:28.083234463Z",
+  "model": "glm-5.3"
+}

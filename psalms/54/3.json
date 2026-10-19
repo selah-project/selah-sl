@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "imenu",
+      "rationale": "Hebrejščina ne pozna svojilnega zaimek; עמנו besedilo pravi בשמך 'v\/imenu tvoj'."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Neposreden nagovor Boga — začetek Davidove prošnje."
+    }
+  ],
+  "translation": "Elohim, s svojim imenom me reši in s svojo močjo mi sodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/54\/1-4.1792434929334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "s svojim imenom"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "me reši"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "in s svojo močjo"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "mi sodi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:29.336191474Z",
+  "model": "glm-5.3"
+}

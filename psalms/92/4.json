@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "desetstrunsko",
+      "rationale": "עשור je okrajšano 'deset strun', decakord; oblika ostaja vidna"
+    },
+    {
+      "kind": "crux",
+      "subject": "higaion",
+      "rationale": "הגיון: mrmranje\/glasbeni znak — 'slovesen zvok' (KJV) proti 'med igro' ali ne-prevedenemu imenu”; ostaja po zvoku"
+    },
+    {
+      "kind": "elision",
+      "subject": "עלי",
+      "rationale": "na hebrejščini 'nad\/na' — predsednik instrumenta, v slovenščini preprosto 'na'"
+    }
+  ],
+  "translation": "Na desetstrunsko in na nevel, na higaion ob kinorju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "425c3b8da0e2e55f2d1c8fded080e142e0d3d1acb7d7384820e66a9d4f292a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/92\/4-4.1792439028270.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עֲֽלֵי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עָ֭שׂוֹר",
+      "gloss": "desetstrunsko"
+    },
+    {
+      "surface": "וַעֲלֵי",
+      "gloss": "in na"
+    },
+    {
+      "surface": "נָ֑בֶל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הִגָּי֣וֹן",
+      "gloss": "higaion"
+    },
+    {
+      "surface": "בְּכִנּֽוֹר",
+      "gloss": "ob kinorju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:48.271313489Z",
+  "model": "glm-5.3"
+}

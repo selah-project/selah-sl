@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima kopule; besedilo je samostalniški seznam brez glagola."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עתק",
+      "rationale": "redka beseda, drugje 'star\/starodaven'; KJV 'durable' (trajno), JPS 'enduring', tukaj 'dragoceno (kot starina)'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה puščeno kot cedek po disciplini D2, ne 'pravičnost'."
+    }
+  ],
+  "translation": "Bogastvo in čast ⟨so⟩ pri meni ⟨את⟩, dragoceno premoženje in cedek.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/17-20.1792435903681.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "bogastvo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "in čast"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "pri meni ⟨את⟩",
+      "marks": "bogastvo in čast"
+    },
+    {
+      "surface": "הון",
+      "gloss": "premoženje"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "dragoceno"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "in cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:43.683308430Z",
+  "model": "glm-5.3"
+}

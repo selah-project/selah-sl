@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 31:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožni glagol pri pretekliku, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "madež",
+      "rationale": "מאום je telesna ali moralna hiba; 'madež' ohranja oba vidika"
+    }
+  ],
+  "translation": "Če je moj korak zapustil s poti in je za mojimi očmi hodilo moje srce, in se je moji dlani primegnilamadež,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "261fe6b7d806e813c43cc06aa5e06211f41b606622cf4a28a0bfb71044cf1664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/5-8.1792436636801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "zapustil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "moj korak"
+    },
+    {
+      "surface": "מני",
+      "gloss": "s"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "poti"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "za"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mojimi očmi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je hodilo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "ובכפי",
+      "gloss": "moji dlani"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "se je primegnil"
+    },
+    {
+      "surface": "מאום",
+      "gloss": "madež"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:56.802809447Z",
+  "model": "glm-5.3"
+}

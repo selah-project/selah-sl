@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבכא",
+      "rationale": "'Baká' kot lastno ime proti 'dolina joka' (בכה, kakor YLT\/ASV) — besedna igra je možna, a nedoločena."
+    },
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "'zgodnji dež' (JPS, ASV) proti 'učitelj\/vodja' (LXX, YLT 'director') — ista beseda pomeni oboje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכות\/בכא",
+      "rationale": "blagoslovi v dolini joka — zvočna bližina בכא in ברכות je v slovenščini izgubljena."
+    }
+  ],
+  "translation": "Ko prečkajo dolino Baká, naredijo ⟨tam⟩ izvir; tudi zgodnji dež jo prekrije z blagoslovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/84\/5-8.1792435158422.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ko prečkajo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "dolino"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baká"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "izvir"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "naredijo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "z blagoslovi"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "prekrije"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "zgodnji dež"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:18.424387623Z",
+  "model": "glm-5.3"
+}

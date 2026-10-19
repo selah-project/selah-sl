@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojo",
+      "rationale": "Hebrejščina pravi 'za njihovo kri' brez possessiva; kontekst zahteva 'svojo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "življenje",
+      "rationale": "נפש je dihajoče bitje, življenjska sila, ne 'duša' v poznejšem pomenu."
+    }
+  ],
+  "translation": "In ti ležé v zasedi za ⟨svojo⟩ kri, pretajajo ⟨za⟩ ⟨svoje⟩ lastno življenje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/1\/17-20.1792435758888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "za ⟨svojo⟩ kri"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "ležé v zasedi"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "pretajajo"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "⟨za⟩ ⟨svoje⟩ življenje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:18.889812249Z",
+  "model": "glm-5.3"
+}

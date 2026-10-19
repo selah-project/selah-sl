@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje kopulo, hebrejščina je nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "potoki",
+      "rationale": "פלגי so majhni namakalni kanali, ne veliki rečni tokovi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ga nagne",
+      "rationale": "Nagib objekta je srce kralja, ne voda; a slika je ena"
+    }
+  ],
+  "translation": "Potoki vode ⟨je⟩ srce kralja v roki Jahveja; kamor koli hoče, ga nagne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/1-4.1792436050502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "potoki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "על",
+      "gloss": "kamor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hoče"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "ga nagne"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:10.503869654Z",
+  "model": "glm-5.3"
+}

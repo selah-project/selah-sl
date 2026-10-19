@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התשפט … התשפוט",
+      "rationale": "Podvajanje glagola 'soditi' kot retorično vprašanje — poudarek se v prevodu ohrani z dobesedno ponovitvijo."
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekielu",
+      "rationale": "Neposreden ogovor preroka z vprašanjem in naročilom."
+    }
+  ],
+  "translation": "Ali ⟨את⟩ ju boš sodil, ali boš sodil, človeški sine? ⟨את⟩ gnusobe njihovih očetov jim daj spoznati.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/20\/1-4.1792432340431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ali … boš sodil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ju"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "ali boš sodil"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeški"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gnusobe njihovih očetov"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "gnusobe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "njihovih očetov"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "daj jim spoznati"
+    }
+  ],
+  "timestamp": "2026-10-19T17:52:20.432816481Z",
+  "model": "glm-5.3"
+}

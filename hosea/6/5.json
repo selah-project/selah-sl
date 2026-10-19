@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנביאים",
+      "rationale": "'v prerokih' (orodnik) — preroki so orodje, ne predmet; nekateri berejo 'jih' kot predmet (KJV 'hewed them by the prophets')."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשפטיך",
+      "rationale": "sodbe so 'tvoje' (Efraimove) pri večini, 'moje' (Jahvejeve) bereta YLT in Sirska"
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "hebrejščina ima pripletični predmet v הרגתים brez ločenega zaimka"
+    }
+  ],
+  "translation": "Zato sem kakor z oral ⟨את⟩ v prerokih, pobral ⟨את⟩ jih z besedami svojih ust, in tvoje sodbe gredo ⟨ven⟩ kakor svetloba.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/6\/5-8.1792433792540.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nad\/zaradi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "sem kot z oral"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "v prerokih"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "sem jih pobral"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "z besedami"
+    },
+    {
+      "surface": "פי",
+      "gloss": "svojih ust"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "in tvoje sodbe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetloba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gredo ven"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:32.541328314Z",
+  "model": "glm-5.3"
+}

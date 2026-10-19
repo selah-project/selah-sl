@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks a copula between אנוש and המה"
+    },
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "'strah\/teror' (JPS, KJV) proti 'vladar\/naučevalec' (YLT 'director', Wycliffe 'lawe makere') — ista soglasja kot מורה iz korena ירה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "smrtniki",
+      "rationale": "אנוש pomeni smrtnega človeka v nasprotju z dostojnejšim אדם; 'ljudje' bi izgubilo to kontrast"
+    }
+  ],
+  "translation": "Postavi, Jahve, strah nad njimi, da spoznajo narodi: smrtniki ⟨so⟩ oni. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/21-21.1792434501734.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Postavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "strah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "da spoznajo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtniki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:21.736030536Z",
+  "model": "glm-5.3"
+}

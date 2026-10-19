@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tipajo kakor ponoči",
+      "rationale": "hebrejska slika slehote, ki tipa v temi (prim. 5 Mz 28,29), dobesedno ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בצהרים",
+      "rationale": "dvojina 'dvojne svetlobe' pomeni opoldne; slovenščina nima dvojine za to."
+    }
+  ],
+  "translation": "Podnevi zadenejo ⟨v⟩ temo, opoldne pa tipajo kakor ponoči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/13-16.1792436236206.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Podnevi"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "zadenejo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "temo"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "kakor ponoči"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "tipajo"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "opoldne"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:16.209230678Z",
+  "model": "glm-5.3"
+}

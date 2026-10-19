@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ממרום",
+      "rationale": "hebrejščina: »iz z višave« — dvovladna zgradba, slovenščina potrebuje predlog z rodilnikom"
+    }
+  ],
+  "translation": "Poslal je iz z višine, vzel ⟨me⟩ je, izvlekel ⟨me⟩ je iz voda množnih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8ac8296ab4ed3e869e4133be596bb5fb7435700ed43ccd28ec2a808737651474",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/17-20.1792434556693.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "poslal je"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "iz višine"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "vzel ⟨me⟩ je"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "izvlekel ⟨me⟩ je"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "iz voda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "množnih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:16.694373923Z",
+  "model": "glm-5.3"
+}

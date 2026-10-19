@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "alamot",
+      "rationale": "עלמות: 'dekleta\/sopranski glas' (glasbeno navodilo) vs 'device' (KJV 'for the virgins') — pomen glasbenega termina je negotov."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; naslov je naslonsko dogovorjen."
+    }
+  ],
+  "translation": "Zborovodji, sinovom Koraha, po alamot ⟨je⟩ pesem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/46\/1-4.1792434887772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovodji"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:47.773524148Z",
+  "model": "glm-5.3"
+}

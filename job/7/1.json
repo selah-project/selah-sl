@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צבא",
+      "rationale": "'vojaška služba \/ vojna' (YLT, ASV) proti 'določen čas' (KJV) ali 'služba' (JPS) — beseda je ista kot vojska nebeška."
+    },
+    {
+      "kind": "substitution",
+      "subject": "smrtnik",
+      "rationale": "אנוש je 'smrtnik', ne zgolj 'človek' (adam) — poudarek na minljivosti."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina izpušča glagol biti v drugem stavku."
+    }
+  ],
+  "translation": "Ali ni vojaška služba dodeljena smrtniku na zemlji, in kakor dnevi najemnika ⟨so⟩ njegovi dnevi?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "41b6471a0cb73396cea584d43085c4b73243f686816d781d4463aee8ec29aad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/1-4.1792436298868.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ali ni"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojna služba"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "smrtniku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "in kakor dnevi"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "najemnika"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "njegovi dnevi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:18.869573226Z",
+  "model": "glm-5.3"
+}

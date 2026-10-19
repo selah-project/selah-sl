@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 28:26",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje pomožnik 'so', hebrejščina ga nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "zapisani so v knjigi kraljev",
+      "rationale": "formula hronološkega sklicevanja na kralješke anale."
+    }
+  ],
+  "translation": "Preostanek njegovih dejanj in vseh njegovih poti, prvih in zadnjih, glej, zapisani so v knjigi kraljev Jude in Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/28\/25-27.1792438792998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "preostanek"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "njegovih dejanj"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vseh"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njegovih poti"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prvih"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "in zadnjih"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "glej"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapisani so"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjigi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "in Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:52.999712635Z",
+  "model": "glm-5.3"
+}

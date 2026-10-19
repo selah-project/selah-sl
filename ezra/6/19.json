@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "datum",
+      "rationale": "Štirinajsti dan prvega meseca — določitev pashe po štetju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sinovi izgnanstva",
+      "rationale": "בני הגולה dobesedno 'sinovi golá (izgnanstva)'; dobesedna slika je ohranjena."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dne⟩",
+      "rationale": "Hebrejščina ne ponovi besede 'dan'; slovenščina jo potrebuje za datum."
+    }
+  ],
+  "translation": "In naredili so sinovi izgnanstva ⟨את⟩ pasho štirinajstega ⟨dne⟩ v prvem mesecu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/6\/17-20.1792437665978.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "In naredili so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "izgnanstva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasho"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pasho"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "štirinajstega (štiri)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(in) deset"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:05.982342338Z",
+  "model": "glm-5.3"
+}

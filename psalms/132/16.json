@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסידיה",
+      "rationale": "hasidim — 'zvesti\/pobožni', ne 'svetniki'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנן \/ ירננו",
+      "rationale": "infinitiv absolut pred glagolom — 'prepevaje prepevali', intenzivna ponovitev"
+    }
+  ],
+  "translation": "In njene duhovnike bom oblekel v rešitev, in njeni zvesti bodo glasno prepevali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/13-16.1792435601960.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "in njene duhovnike"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "bom oblekel"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "v rešitev"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "in njeni zvesti"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "glasno"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bodo prepevali"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:41.962808619Z",
+  "model": "glm-5.3"
+}

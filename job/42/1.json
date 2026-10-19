@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In odgovoril je Ijov ⟨את⟩ Jahveju in rekel:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/42\/1-4.1792436801979.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "In odgovoril je"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:41.980738074Z",
+  "model": "glm-5.3"
+}

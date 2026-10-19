@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Hebrejščina brez kopule: 'moja skala in moja trdnjava ti'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "Dva glagola voditi\/pasti iz istega polja — parna sopostavitev, v slovenščini delno ohranjena ('vodi in pasi')."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden nagovor Jahveja, nadaljevanje prošnje."
+    }
+  ],
+  "translation": "Kajti moja skala in moja trdnjava si ti; in zaradi svojega imena me vodi in pasi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/31\/1-4.1792434687639.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "moja skala"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "in moja trdnjava"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "in zaradi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "svojega imena"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "me vodi"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "in pasi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:27.642638178Z",
+  "model": "glm-5.3"
+}

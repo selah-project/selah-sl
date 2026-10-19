@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks copula in nominal list"
+    }
+  ],
+  "translation": "Ti ⟨so⟩ sinovi Jisraela: Ruben, Šimon, Levi in Jehuda, Jišakar in Zebulun.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7992844fe8275e20f92f59a8ab6cef3eda2098ca62b4f832102ccab180f599b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/1-4.1792438009112.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "in Jehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jišakar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "in Zebulun"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:49.113671536Z",
+  "model": "glm-5.3"
+}

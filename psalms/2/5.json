@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi', pregnan za gnev — obraz v jezi."
+    },
+    {
+      "kind": "crux",
+      "subject": "prestrašil",
+      "rationale": "יבהלמו: 'jih bo prestrašil' (JPS) proti 'jih bo spravil v stisko' (KJV 'vex')."
+    }
+  ],
+  "translation": "Takrat bo govoril k njim v svoji jezi in v svojem ogorčenju jih bo prestrašil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/2\/5-8.1792434535747.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Takrat"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bo govoril"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "k njim"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "v svoji jezi"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "in v svojem ogorčenju"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "jih bo prestrašil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:55.748502495Z",
+  "model": "glm-5.3"
+}

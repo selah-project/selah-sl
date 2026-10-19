@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; pridevniki stojijo predmečno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "modrost",
+      "rationale": "תבונתו je 'razumevanje\/umnost', ne le modrost."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ni števila",
+      "rationale": "מספר — številnost: njegova modrost je nešteta; odmev na štetje zvezd v v. 4."
+    }
+  ],
+  "translation": "Velik je naš Adonaj in obilen v moči, ⟨za⟩ njegovo modrost ni števila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/147\/5-8.1792435788403.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Velik"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "je naš Adonaj"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "in obilen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "v moči"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "⟨za⟩ njegovo modrost"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "števila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:48.404155908Z",
+  "model": "glm-5.3"
+}

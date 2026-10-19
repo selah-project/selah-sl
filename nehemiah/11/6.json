@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga pri popisu izpušča."
+    },
+    {
+      "kind": "measurement",
+      "subject": "468",
+      "rationale": "Štetje potomcev Perca v Jerušalajimu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "možje jakosti",
+      "rationale": "אנשי חיל je dobesedno »možje sile\/vojaške moči« — lahko tudi premožni, sposobni možje."
+    }
+  ],
+  "translation": "Vsi sinovi Perca, ki so prebivali v Jerušalajimu, ⟨so bili⟩ štiristo oseminšestdeset možje-jakosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/11\/5-8.1792437951877.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perca"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ki so prebivali"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štiristo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(sto)"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "oseminšestdeset"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "(in osem)"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "možje-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jakosti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:51.879293142Z",
+  "model": "glm-5.3"
+}

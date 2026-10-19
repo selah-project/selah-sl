@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 10:29",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨šekelov⟩",
+      "rationale": "hebrejščina pravi samo 'srebro'; šekel dodan kot mera, kakor v stoječih prevodih"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina zahteva pomožni glagol, hebrejščina ga v zvezi nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "בידם יצאו",
+      "rationale": "'z njihovo roko so izvažali' — kdo? Solomonovi trgovci (iz v. 28) ali kralji kot kupci; prevodi se razhajajo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "cene",
+      "rationale": "verz našteva cene: kočija 600 šekelov srebra, konj 150"
+    }
+  ],
+  "translation": "In dvigala se je in izhajala ⟨je⟩ kočija iz Micrajima za šest sto ⟨šekelov⟩ srebra, konj pa za petdeset in sto; in tako za vse kralje Hetitov in za kralje Arama — iz njihove roke so izvažali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b7f10c0327552518781a6cc0b938393d3e0d2faf5712657e3e8e39286274548b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/10\/29-29.1792428902078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלה",
+      "gloss": "in dvigala se je"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "in izhajala"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "kočija"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "za šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "konj pa"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "za petdeset"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "in sto"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "in tako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za vse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralje"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "Hetitov"
+    },
+    {
+      "surface": "ולמלכי",
+      "gloss": "in za kralje"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "iz njihove roke"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "so izvažali"
+    }
+  ],
+  "timestamp": "2026-10-19T16:55:02.078890339Z",
+  "model": "glm-5.3"
+}

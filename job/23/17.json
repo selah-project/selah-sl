@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצמתי",
+      "rationale": "רוממ 'iztrebiti\/odrezati': KJV 'cut off' proti BSB 'silenced'; predmet iztrebljenja (Job sama ali njegov glas) je nejasen."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Hebrejščina ne imenuje subjekta כסה; dodan ⟨on⟩ (Elohim iz 23,16) za slovensko slovnico."
+    },
+    {
+      "kind": "substitution",
+      "subject": "glošina",
+      "rationale": "אפל je 'somrak\/gosta tema' — vzeta 'glošina' kot najbližja slovenska beseda za gostoto teme."
+    }
+  ],
+  "translation": "Kajti nisem bil iztrebljen pred temo, in pred mojim obrazom je ⟨on⟩ zastrl glošino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3f888c8a961e6fb43e0866b6f5ac3bbb297d40a5fab46e185d9b3d6cab926d9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/23\/17-17.1792436510927.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "sem bil iztrebljen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "temo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "zastrl"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "glošino"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:50.928295230Z",
+  "model": "glm-5.3"
+}

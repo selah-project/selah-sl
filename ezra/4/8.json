@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gospodar-tehtnica ⟨sodbe⟩",
+      "rationale": "בעל טעם dobesedno 'gospodar okusa\/sodbe' — uradni naslov; prevodi se razhajajo: kancler, poveljnik, svetovalec."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ v 'sta napisali'",
+      "rationale": "Dvojina pisarjev: slovenška dvojina je dodana, hebrejščina obliko števila ne pokaže."
+    },
+    {
+      "kind": "you",
+      "subject": "bralcu pisma",
+      "rationale": "כנמא 'takole' odpira citirano pismo in naslavlja bralca kot poslušalca."
+    }
+  ],
+  "translation": "Rehum, gospodar-tehtnica, in Šimšaj, pisar, sta napisali eno pismo zoper Jerušalajem Artahšastu, kralju, takole:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/4\/5-8.1792437660779.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rehum"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "gospodar-tehtnica ⟨—⟩"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "⟨sodbe⟩"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "in Šimšaj"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "pisar"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "sta napisali"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "pismo"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "eno"
+    },
+    {
+      "surface": "על",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajem"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "Artahšastu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "takole"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:00.784466826Z",
+  "model": "glm-5.3"
+}

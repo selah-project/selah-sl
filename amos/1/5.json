@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 1:5",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zaponka",
+      "rationale": "בריח je dobesedno 'zapah\/zaponka' mestnih vrat, ne 'vrata' (BSB)"
+    },
+    {
+      "kind": "crux",
+      "subject": "dolina Aven",
+      "rationale": "און pomeni 'páč\/níčevost'; poimenovanje Baalbekove doline (Bikat-Aven) kot zasmehljivka"
+    },
+    {
+      "kind": "crux",
+      "subject": "Bet-Eden",
+      "rationale": "עדן 'užitek\/raj' — mesto v Siriji (Bit-Adini), ne biblijski Eden"
+    }
+  ],
+  "translation": "In zlomil bom zaponko Damaska in iztrebil prebivalca iz doline Aven in tistega, ki drži žezlo, iz Bet-Edena; in ljudstvo Arama bo odpeljano v pregnanstvo v Kir, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7868291165c5b9cc39cd0f08c517393fda9487837d1d1d36a0f9d4ab4d68f525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/1\/5-8.1792433998329.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "in zlomil bom"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "zaponko"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "in iztrebil bom"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "prebivalca"
+    },
+    {
+      "surface": "מבקעת",
+      "gloss": "iz doline"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "ותומך",
+      "gloss": "in tistega, ki drži"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz Bet-"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "וגלו",
+      "gloss": "in bo odpeljano v pregnanstvo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "v Kir"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:58.330317148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne ločena duša"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni dopustil, da bi se zatadle",
+      "rationale": "dobesedno: 'in ni dal, da bi se naše noge vrtile'; מוט je trepetanje\/omahanje"
+    }
+  ],
+  "translation": "Tisti, ki je postavil ⟨את⟩ našo dušo v življenje, in ni dopustil, da bi se naše noge zatadle.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/66\/9-12.1792434998368.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Tisti, ki je postavil"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "našo dušo"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "v življenje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni dopustil"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "da bi se zatadle"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "zadeti"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "naše noge"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:38.369194493Z",
+  "model": "glm-5.3"
+}

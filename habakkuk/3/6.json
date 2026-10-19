@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 3:6",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "premikal\/metal",
+      "rationale": "וימדד: koren pomeni 'stresati' (JPS 'zakoplje zemljo'), a ker zveni kot מדד 'meriti', več prevodov (KJV, Geneva) bere 'izmeril zemljo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולם\/עד",
+      "rationale": "oba pomenita 'večnost\/izvor', ponovljena dvakrat; 'večne' zajema skrito-dolgi čas korena עלם."
+    },
+    {
+      "kind": "addition",
+      "subject": "so ⟨njegove⟩",
+      "rationale": "לו (zaimski dajalnik) zahteva v slovenščini predikat s svojilnim pridevnikom."
+    }
+  ],
+  "translation": "Stal je in premaknil ⟨je⟩ zemljo, pogledal je in raztresel narode; razsule so se gore večnosti, priklonile so se večne vzpetine — večne hoje so ⟨njegove⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a712c69cc2b1238de8ff2dd2316f0d39f63c5a08a610543012cf9f6b69a97904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/3\/5-8.1792434262059.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "stal je"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "in premaknil"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pogledal je"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "in raztresel"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "ויתפצצו",
+      "gloss": "razsule so se"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עד",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "priklonile so se"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "vzpetine"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večne"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "hoje"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨njegove⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:22.062580484Z",
+  "model": "glm-5.3"
+}

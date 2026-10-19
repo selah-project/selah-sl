@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je 'dih, življenjska sila', ne nesmrtne duša."
+    },
+    {
+      "kind": "you",
+      "subject": "Izraelu",
+      "rationale": "Neposreden nagovor skupnosti z zavrnilnim imperativom."
+    },
+    {
+      "kind": "crux",
+      "subject": "venitmetem",
+      "rationale": "ונטמתם lahko pišemo z 'nun' (boste nečisti) ali z 'tet' (se boste okužili) — razlika med stanjem in dejanjem."
+    }
+  ],
+  "translation": "Ne delajte gnusobe iz ⟨את⟩ svojih duš z vsem rojenjem, ki se roji, in ne omadežujte se z njimi, da ne postanete nečisti po njih.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/41-44.1792424143698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "delajte gnusobe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojih duš"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "svojih duš"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "z vsem"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "rojenjem"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ki se roji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "omadežujte se"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "da ne postanete nečisti"
+    },
+    {
+      "surface": "בם",
+      "gloss": "po njih"
+    }
+  ],
+  "timestamp": "2026-10-19T15:35:43.699535140Z",
+  "model": "glm-5.3"
+}

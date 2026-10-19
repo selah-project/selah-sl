@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש kot dih\/življenjska sila, ne platonska duša"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dvigam svojo dušo",
+      "rationale": "נשא נפש — dobesedno 'dvigniti dušo', idiom za usmeriti hrepenenje\/čaščenje k Bogu"
+    }
+  ],
+  "translation": "Razveseli dušo svojega služabnika, kajti k tebi, Adonaj, dvigam svojo dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/86\/1-4.1792435181491.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Razveseli"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega služabnika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dvigam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:41.494115325Z",
+  "model": "glm-5.3"
+}

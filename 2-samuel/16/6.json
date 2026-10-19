@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina nima glagola biti v tem stavku; slovenščina ga zahteva"
+    }
+  ],
+  "translation": "In metal je s kamni ⟨את⟩ Davida in ⟨את⟩ vseh služabnike kralja Davida; vse ljudstvo in vsi junaki ⟨so bili⟩ na njegovi desnici in na njegovi levici.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/16\/5-8.1792428479426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "in metal je"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "s kamni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vseh služabnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabnike"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "junaki"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "na njegovi desnici"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "in na njegovi levici"
+    }
+  ],
+  "timestamp": "2026-10-19T16:47:59.427757816Z",
+  "model": "glm-5.3"
+}

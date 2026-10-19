@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאדני",
+      "rationale": "Dajalnik: 'razglašeno Adonaju' ali 'razglašeno o Adonaju' — smer pripovedovanja je dvoumna."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki prihaja",
+      "rationale": "Slovenščina potrebuje določitev, da je rod prihodnji."
+    }
+  ],
+  "translation": "Seme mu bo služilo; razglašeno bo ⟨o⟩ Adonaju rodu ⟨, ki prihaja⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/29-32.1792434658263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Seme"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "mu bo služilo"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "razglašeno bo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "o Adonaju"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "rodu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:58.264523042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maziljenje-Dispensacija",
+      "rationale": "משחה pomeni 'maziljenje (dejanje)' in po implikaciji posvetilni dar — ena beseda, dva pomena; prevodi si tu razhajajo (KJV 'portion of the anointing', JPS 'consecrated portion')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ognjene daritve",
+      "rationale": "אשה je splošno 'ognjena daritev' (ishé), ne le 'žgalna daritev' (olá)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje glagol 'biti', hebrejščina ga v tem stavku nima."
+    }
+  ],
+  "translation": "To ⟨je⟩ maziljenje-Dispensacija Aharonova in maziljenje-Dispensacija njegovih sinov iz ognjenih daritev Jahveja, na dan, ko jih je privedel ⟨את⟩, da duhovnikučujejo Jahveju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/33-36.1792424030288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "maziljenje-Dispensacija"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonova"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "in maziljenje-Dispensacija"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovih sinov"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "iz ognjenih daritev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ko je privedel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jih ⟨את⟩",
+      "marks": "da duhovnikučujejo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "da duhovnikučujejo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T15:33:50.291461057Z",
+  "model": "glm-5.3"
+}

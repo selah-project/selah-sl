@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jam suf",
+      "rationale": "dobesedno 'morje trstike (papirusa)'; večina prevodov 'Rdeče morje', toda סוף pomeni trstiko."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "predložena oblika aleph-tava se v slovenščini izrazi le kot veznik 'in' plus oznaka ⟨את⟩."
+    }
+  ],
+  "translation": "In videl si ⟨את⟩ stisko naših očetov v Micrajimu, ⟨in⟩ ⟨את⟩ njihov krik si slišal ob Morju trstike.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/9\/9-12.1792437890099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "in si videl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stisko naših očetov"
+    },
+    {
+      "surface": "עני",
+      "gloss": "stisko"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "naših očetov"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Micrajimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njihov krik"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "njihov krik"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si slišal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Morju"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "trstike"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:50.100198292Z",
+  "model": "glm-5.3"
+}

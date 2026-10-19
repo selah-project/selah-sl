@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "spreviten",
+      "rationale": "slovenščina potrebuje glagol za הבל, ki je samostalnik (praznina bo vzela)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח → veter",
+      "rationale": "po D2 ostaja ruah; tu pomeni veter, a beseda je ista kot Duh"
+    }
+  ],
+  "translation": "Ko boš kričala, naj te rešijo tvoji zbranci; a veter bo odnesel ⟨את⟩ vse, spreviten bo vzel praznina; kdor pa se zateka k meni, podedoval bo deželo in zasedel gore svoje svetosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01a735f0436826aec3f77325945b48a8c7e8a4e93dc89f1ca6e10e07b1bfca5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/57\/13-16.1792430873923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "ko boš kričala"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "naj te rešijo"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "tvoji zbranci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vse"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bo odnesel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "veter"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bo vzel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "praznina"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "kdor pa se zateka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "podedoval bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "in zasedel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svoje svetosti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:53.924519980Z",
+  "model": "glm-5.3"
+}

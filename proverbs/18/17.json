@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 18:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cedek je prvi",
+      "rationale": "צדיק הראשון בריבו: 'prvi ima prav' (KJV 'seemeth just') ali 'prvi je cedek v svoji tožbi' — hebrejščina ne pove 'zdi se', zato je videti brez omejitve"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בריבו \/ רעהו",
+      "rationale": "verz je klasična primanjkljajska modrost brez 'ampak' — nasprotje med prvim in drugim govorcem gradi samo z besednim redom, v slovenščini dodan podpičj"
+    }
+  ],
+  "translation": "Cedek je prvi v svojem prepiru; pride njegov drug in ga preišče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dca0a25dce8811f37fe2f0a35fd7ada92c83b5452e0d02d94c38f34edc6a65aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/18\/17-20.1792436018021.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "v svojem prepiru"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "pride"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "njegov drug"
+    },
+    {
+      "surface": "וחקרו",
+      "gloss": "in ga preišče"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:38.023344001Z",
+  "model": "glm-5.3"
+}

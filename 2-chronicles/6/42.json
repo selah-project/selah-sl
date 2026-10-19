@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ne odvrni obličja",
+      "rationale": "על תשב פני — dobesedno 'ne obrni nazaj obličja'; idiom za zavrnitev prošnje"
+    },
+    {
+      "kind": "crux",
+      "subject": "hesedov Davida",
+      "rationale": "לחסדי דויד: 'hesedi, ki si jih izkazal Davidu' ali 'hesedi, ki jih je David izkazal (tebi)' — JPS bere drugo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maziljenec",
+      "rationale": "משיחיך je 'tvoj maziljenec' (kralj), ne naslov 'Mesija'"
+    }
+  ],
+  "translation": "Jahve Elohim, ne odvrni obličja svojega maziljenca; spomni se hesedov Davida, svojega služabnika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "723a8eab90368c9d660a59b69366d80a65d583938a4fa3d90518331166d23c27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/6\/41-42.1792438462523.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "odvrni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličja"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "svojega maziljenca"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "spomni se"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "hesedov"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega služabnika"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:22.528718818Z",
+  "model": "glm-5.3"
+}

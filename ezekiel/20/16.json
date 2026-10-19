@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 20:16",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאסו ... הלכו ... חללו ... הלך",
+      "rationale": "V. 16 obrne besedni red v. 13 ( zavrgli–hodili–skrunili ) in zaključi z הלך — srce 'hodi' za maliki, kakor ljudstvo ni hodilo po odlokih."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maliki",
+      "rationale": "גלולים dobesedno 'hlodi', okrogli drvci — zaničevalno ime za malike."
+    }
+  ],
+  "translation": "Ker so moje sodbe zavrgli in po mojih odlokih niso hodili ⟨po njih⟩, in ⟨את⟩ moje šabate so skrunili, kajti za njihovimi maliki je hodilo njihovo srce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/20\/13-16.1792432386152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ker"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "moje sodbe"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "so zavrgli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje odloke"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "odloke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hodili"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "po njih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moje šabate"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "moje šabate"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "so skrunili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "njihovimi maliki"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihovo srce"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je hodilo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:53:06.153816580Z",
+  "model": "glm-5.3"
+}

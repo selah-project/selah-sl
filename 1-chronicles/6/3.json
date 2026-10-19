@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "Hevron",
+      "rationale": "isto besedo kot krajevno ime Hevron; tukaj osebno ime, ostaja Hevron"
+    }
+  ],
+  "translation": "In sinovi Kehata: Amram in Jicar in Hevron in Uziel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/6\/1-4.1792438075902.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "in Jicar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "in Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "in Uziel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:55.903553020Z",
+  "model": "glm-5.3"
+}

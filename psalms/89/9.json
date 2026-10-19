@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula in the second clause"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden ogovor Jahveja v pesmi"
+    }
+  ],
+  "translation": "Jahve, Elohim Cebaot, kdo je kakor ti, mogočni Jah? In tvoja zvestoba ⟨je⟩ okrog tebe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/9-12.1792435245337.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kakor ti"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "mogočni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "in tvoja zvestoba"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "okrog tebe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:45.338591889Z",
+  "model": "glm-5.3"
+}

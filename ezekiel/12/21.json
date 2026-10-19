@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨z besedami⟩",
+      "rationale": "hebrejski infinitiv לאמר ('reči') se v slovenščini izrazi z ločilom in dodanim pragom, ne z lastnim glagolom"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik 'je', hebrejščina ga nima"
+    }
+  ],
+  "translation": "In prišla je beseda Jahveja k meni ⟨z besedami⟩:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/12\/21-24.1792432199424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in prišla je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨z besedami⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T17:49:59.425422292Z",
+  "model": "glm-5.3"
+}

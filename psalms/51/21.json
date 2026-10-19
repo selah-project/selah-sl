@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨daritve⟩",
+      "rationale": "slovenščina potrebuje samostalnik, ki poimenuje זבחי kot daritve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žgalna daritev",
+      "rationale": "עולה je 'ta, ki se vzpenja' — dim se dviga; slovenščina ima ustaljeno podobo žgalne daritve"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולה \/ יעלו",
+      "rationale": " isti koren עלה: daritev, ki se vzpenja, in biki, ki 'vzidejo' na oltar — dvojno vzpenjanje v enem verzu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "biki",
+      "rationale": "פרים so mladi biki (volčki); 'mladiči' bi bil drugi možni izbor"
+    }
+  ],
+  "translation": "Tedaj boš želel ⟨daritve⟩ zakolov cedeka, žgalno daritev in povsem celo daritev; tedaj bodo povzeli bikov na tvoj oltar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/51\/21-21.1792434855262.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "boš želel"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "zakolove ⟨daritve⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "žgalna daritev"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "in povsem cela daritev"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bodo povzeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "tvoj oltar"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "bikov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:15.263546277Z",
+  "model": "glm-5.3"
+}

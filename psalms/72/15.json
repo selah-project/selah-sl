@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתפלל בעדו",
+      "rationale": "'molijo zanj' (ljudje za kralja) proti 'on moli zanje' (sufiks bi lahko kazal nazaj na reveže iz r. 13–14)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "slovenski glagol potrebuje pomožnik 'bo', ki ga hebrejščina nima."
+    }
+  ],
+  "translation": "In ⟨naj⟩ živi, in dano mu ⟨bo⟩ zlata iz Šebe, in ⟨naj⟩ molijo zanj vedno, ves dan ga blagoslavljajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/72\/13-16.1792435083289.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "In ⟨naj⟩ živi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dano"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "iz Šebe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "in ⟨naj⟩ molijo"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vedno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ga blagoslavljajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:03.290931539Z",
+  "model": "glm-5.3"
+}

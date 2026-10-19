@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלמוד",
+      "rationale": "'neplodna\/nerodovitna' (ASV 'barren') ali 'samotna\/pusteča' (JPS 'desolate')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vzklikovanje veselja",
+      "rationale": "רננה je vzklik (kričanje) veselja; ena beseda razstavljena v dve"
+    }
+  ],
+  "translation": "Glej, tista noč bodi samotna, vzklikovanje veselja naj ne pride vanjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04cc00782941dd4c58ff4d92d2e5b7f1bc517d601098d9e661d5de6ddd945575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/5-8.1792436253566.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tista noč"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tista"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "samotna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "naj pride"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "vzklikovanje veselja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vanjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:33.569226684Z",
+  "model": "glm-5.3"
+}

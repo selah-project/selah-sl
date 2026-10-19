@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 23:30",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עשה אלה לך",
+      "rationale": "Hebrejščina stoji brez osebka (infinitiv 'storiti te stvari tebi'); slovenščina potrebuje glagolsko poved."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maliki",
+      "rationale": "גלולים dobesedno 'okrogli hlodi' — zaničevalna beseda za idole."
+    }
+  ],
+  "translation": "⟨To⟩ ⟨so ti storili⟩, ker si nečistovala za narodi, ker si se onečistila z njihovimi maliki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "51c848ac14b594d592b382e39cee28ad24db1531b7dca7ef0b8151c72b6354c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/23\/29-32.1792432408995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "storiti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "בזנותך",
+      "gloss": "v svojem nečistovanju"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "si se onečistila"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "z njihovimi maliki"
+    }
+  ],
+  "timestamp": "2026-10-19T17:53:28.996166340Z",
+  "model": "glm-5.3"
+}

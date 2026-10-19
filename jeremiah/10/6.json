@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nikogar",
+      "rationale": "מאין כמוך je dobesedno 'ni kakor ti'; slovenščina potrebuje samostalnik."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Naslovnik himna je Jahve sam — neposreden nagovor Boga."
+    }
+  ],
+  "translation": "Ni ⟨nikogar⟩ kakor ti, Jahve; velik si ti in veliko je tvoje ime v moči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3de59caafb89fa41a15557fd268c4eaef4097bcb65b90b88d8b024fab11557bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/10\/5-8.1792431205009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kakor ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "in veliko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "v moči"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:25.010434604Z",
+  "model": "glm-5.3"
+}

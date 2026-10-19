@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bolj",
+      "rationale": "primera »kakor po zakladih« zahteva slovenski »bolj«; hebrejščina ga nima izrecno"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kopajo po njej",
+      "rationale": "ויחפרהU dobesedno »raziskujejo jo \/ kopljejo po njej«; alternativa: »iščejo jo«"
+    }
+  ],
+  "translation": "ki čakajo na smrt, pa je ni, in kopajo po njej ⟨bolj⟩ kakor po zakopanih zakladih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/21-24.1792436264591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "ki čakajo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na smrt"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "pa je ni"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "in kopajo po njej"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "kakor po zakopanih zakladih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:44.591971732Z",
+  "model": "glm-5.3"
+}

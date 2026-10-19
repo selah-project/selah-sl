@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ודבר",
+      "rationale": "Piel od דבר v bojnem pomenu 'podjarmiti, spraviti pod' — dobesedno 'pregnati', kot živino (prim. 3 Mz 25,43)."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה- člen",
+      "rationale": "Hebrejski določni člen pri האל se v slovenščini ne zapiše; ⟨Ta⟩ v prevodu označuje določenost."
+    }
+  ],
+  "translation": "⟨Ta⟩ El, ki daje maščevanja meni in podvrže ljudstva pod me.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/45-48.1792434663744.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ki daje"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "maščevanja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "in podvrže"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pod me"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:03.745273844Z",
+  "model": "glm-5.3"
+}

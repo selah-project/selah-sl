@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצוק \/ ויצוק",
+      "rationale": "istaglagol se ponovi v obeh polverših — 'ulito … ulito', vzporedje, ki ga slovenščina lahko obdrži."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפלח תחתית",
+      "rationale": "פלח 'rezina, plošča' — večina bere 'spodnji mlinski kamen' (geneva, JPS); dobesedno 'kot spodnja rezina'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "srce",
+      "rationale": "לב je srci kot sedeč volje in razumevanja, ne čustva samo."
+    }
+  ],
+  "translation": "Njegovo srce je ulito kakor kamen, in ulito kakor spodnja mlinska plošča.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/41\/13-16.1792436792920.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "njegovo srce"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "je ulito"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "in ulito"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "kot spodnja mlinska plošča"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "spodnja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:32.923112376Z",
+  "model": "glm-5.3"
+}

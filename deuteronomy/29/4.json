@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "štirideset let",
+      "rationale": "natančno štetje let v puščavi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sandal",
+      "rationale": "נעל je en sam sandal (ednina) za 'tvojo nogo', ne par čevljev"
+    }
+  ],
+  "translation": "In vodil sem vas štirideset let v puščavi: vaša oblačila niso se izrabila na vas in tvoj sandal ni se izrabil s tvoje noge.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/29\/1-4.1792426275594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "In vodil sem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "štirideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "niso se izrabila"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "vaša oblačila"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "na vas"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "in tvoj sandal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ni se izrabil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tvoje noge"
+    }
+  ],
+  "timestamp": "2026-10-19T16:11:15.596186537Z",
+  "model": "glm-5.3"
+}

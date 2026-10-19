@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joel 1:13",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima pomožnika glagola"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pitna daritev",
+      "rationale": "נסך je dobesedno 'livanje' — daritev, izlita na oltar"
+    },
+    {
+      "kind": "you",
+      "subject": "duhovniki",
+      "rationale": "neposreden nagovor duhovnikov s štirimi imperativi"
+    }
+  ],
+  "translation": "Opazite se in togite, duhovniki, vreščite, služabniki oltarja; pridite, prespajte noč v raševini, služabniki mojega Elohima; kajti odvzeta ⟨je⟩ iz hiše vašega Elohima daritev in pitna daritev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3348162225eb54ad91626f8e4858bc0c12354902f81394aa6db8731a0bd6267e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/1\/13-16.1792433899082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגרו",
+      "gloss": "opazite se"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "in togite"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovniki"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "vreščite"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "služabniki"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltarja"
+    },
+    {
+      "surface": "באו",
+      "gloss": "pridite"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "prespajte noč"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "v raševini"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "služabniki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mojega Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נמנע",
+      "gloss": "odvzeta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz hiše"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašega Elohima"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "in pitna daritev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:19.084008830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וייראו ... יראה גדולה",
+      "rationale": "infinitivni akuzativ 'bali so se strah velik' — slovenščina ne zmore glagola s samostalnikom istega korena."
+    },
+    {
+      "kind": "crux",
+      "subject": "darovanje na ladji",
+      "rationale": "mornarji darujejo זבח Jahveju na morju — brez templja in duhovnika; nekateri razlagalci zato razumejo daritev obljubljeno šele po pristanku."
+    }
+  ],
+  "translation": "In možje so se z velikim strahom bali ⟨את⟩ Jahveja in darovali ⟨žrtev⟩ Jahveju in izrekli zaobljube.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/1\/13-16.1792434061380.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "In bali so se"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "možje"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "strahom"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "in darovali so"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtev"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "in izrekli so"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "zaobljube"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:01.384253753Z",
+  "model": "glm-5.3"
+}

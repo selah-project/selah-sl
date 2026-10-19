@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 41:7",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨in vrgel⟩",
+      "rationale": "hebrejščina pravi dobesedno 'zaklal jih je v sredo jame'; glagol metanja je dodan iz v. 9, ker slovenščina 'zaklati v' ne zveni"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישחטם אל תוך הבור",
+      "rationale": "'zaklal v sredo jame' proti 'zaklal in vrgel v jamo' — večina prevodov doda glagol metanja"
+    }
+  ],
+  "translation": "In zgodilo se je, ko so prišli v sredo mesta, da jih je zaklal Jišmael, sin Netanije, ⟨in vrgel⟩ v sredo jame — on in možje, ki so bili ⟨את⟩ z njim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a78970f09215ed57da5668784f37613b8ec26d95f5e81c0bcbfae548b9e23b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/41\/5-8.1792431809715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "כבואם",
+      "gloss": "ko so prišli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "sredo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "jih je zaklal"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanije"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "sredo"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "jame"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z njim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:43:29.716778880Z",
+  "model": "glm-5.3"
+}

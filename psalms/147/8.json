@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המכסה\/המכין\/המצמיח",
+      "rationale": "Tri participi z défini členom — verižno naštevanje Božjih dejanj."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמים",
+      "gloss-note": "",
+      "rationale": "שמים je dvojina — 'nebesa' v slovenščini množinsko zajame obok neba."
+    },
+    {
+      "kind": "alternative",
+      "subject": "oblači",
+      "rationale": "המכסה dobesedno 'pokriva' (kakor oblačilo); 'zaodeva nebesa' je bolj dobesedno."
+    }
+  ],
+  "translation": "Ki oblači nebesa z oblaki, ki pripravlja dež ⟨za⟩ zemljo, ki kaliti daje travo na gorah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/147\/5-8.1792435788403.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ki oblači"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "z oblaki"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "ki pripravlja"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨za⟩ zemljo"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "dež"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "ki kaliti daje"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "na gorah"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "travo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:48.405959572Z",
+  "model": "glm-5.3"
+}

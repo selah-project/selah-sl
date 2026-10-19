@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "tujce",
+      "rationale": "hebrejski člen ה se v slovenščini ne zapiše"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tujce",
+      "rationale": "הגרים so 'tujci\/prenebivalci', priseljenci v deželi"
+    }
+  ],
+  "translation": "In David je rekel zbrati ⟨את⟩ tujce, ki so v deželi Jisrael, in postavil je kamnoseke, da klešejo klesance za gradnjo hiše Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "180f9f809dde6603bfc8483960c2561f945190e3307a797ad80ddafa320f6270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/22\/1-4.1792438306583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "zbrati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujce"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "tujce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "in postavil"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "kamnoseke"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "da klešejo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "klesance"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "obdelanega kamna"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "za gradnjo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:46.587322612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Reši, Jahve",
+      "rationale": "kratek klic na pomoč, usmerjen neposredno v Jahveja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hasid",
+      "rationale": "חסיד je 'zvesti v hesed', ostaja po zvoku, ne 'pobožnjak'"
+    },
+    {
+      "kind": "crux",
+      "subject": "פסו",
+      "rationale": "פסס redko: 'izginiti\/prenehati' proti 'redki postali' (prim. 1 Sam 3,1)"
+    }
+  ],
+  "translation": "Reši, Jahve, kajti zdolgan je hasid, kajti izginili so zvesti med sinovi človeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f04c0cfdc79d5248b176d2a2aff7365626218a330397881417bff38c9f64fe3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/12\/1-2.1792439005710.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Reši"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "je zdolgan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "izginili so"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "zvesti"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "med sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:25.711183489Z",
+  "model": "glm-5.3"
+}

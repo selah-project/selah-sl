@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תם",
+      "rationale": "Popolnost\/neomadeževanost namesto 'integrity'; hebrejščina pomeni celovitost, nedotaknjenost"
+    },
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "Hebrejščina ima deležnik brez vošilnice; slovenščina potrebuje modalen 'naj'"
+    }
+  ],
+  "translation": "Popolnost in pravost naj varujeta ⟨me⟩, kajti nate sem upal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/21-22.1792434671180.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "popolnost"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "in pravost"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "naj varujeta ⟨me⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "nanju sem upal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:11.181379704Z",
+  "model": "glm-5.3"
+}

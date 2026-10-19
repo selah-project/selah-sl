@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Zaključek rodoslovnega seznamja, ki se konča pri Davidu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Slovenščina potrebuje pomožni glagol; hebrejščina ga nima."
+    }
+  ],
+  "translation": "in Obed je bil očetal ⟨את⟩ Jišaja, in Jišaj je bil očetal ⟨את⟩ Davida.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3859f9a01c1b9358634182b3b4a32204d8354bc8afd854c903d00bba4a44c408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/21-22.1792436900576.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "in Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je bil očetal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jišaja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "in Jišaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je bil očetal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:20.577731888Z",
+  "model": "glm-5.3"
+}

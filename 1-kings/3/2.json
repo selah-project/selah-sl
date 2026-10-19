@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨da⟩",
+      "rationale": "slovenščina potrebuje veznik v priredju, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Samo ⟨da⟩ ljudstvo je žrtvovalo na višavah, kajti ni bila zgrajena hiša za ime Jahveja do tistih dni.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/3\/1-4.1792428764581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "žrtvovalo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na višavah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "bila zgrajena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "za ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "tistih"
+    }
+  ],
+  "timestamp": "2026-10-19T16:52:44.582252889Z",
+  "model": "glm-5.3"
+}

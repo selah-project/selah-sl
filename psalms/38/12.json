@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rane",
+      "rationale": "נגע is literally 'a blow, an (inflicted) wound', a mark on the body"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעמדו \/ עמדו",
+      "rationale": "repetition of the verb 'to stand' at the beginning and at the end — parallelism is preserved"
+    }
+  ],
+  "translation": "Moji ljubljeni in moji prijatelji ob moi rani stojijo oddaljeni, in moji bližnji od daleč stojijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/9-12.1792434775362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "moji ljubljeni"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "in moji prijatelji"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "stran od"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "moje rane"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stojijo"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "in moji bližnji"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "od daleč"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stojijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:55.364641999Z",
+  "model": "glm-5.3"
+}

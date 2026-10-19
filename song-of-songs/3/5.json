@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "Lemma pomeni 'sijaj'; tradicija bere 'gazele' (צביות), JPS 'by the gazelles'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ona⟩",
+      "rationale": "Slovenščina potrebuje osebek v odvisnem stavku; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "you",
+      "subject": "hčere Jerušalajima",
+      "rationale": "Neposreden nagovor hčera Jerušalajima — zaprisega."
+    }
+  ],
+  "translation": "Zaprisegla sem ⟨את⟩ vas, hčere Jerušalajima, pri sijajih ali pri košutah polja: da ne boste zbudile in da ne boste prebudile ⟨את⟩ ljubezni, dokler ⟨ona⟩ ne bo hotela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/3\/5-8.1792436880491.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Zaprisegla sem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "hčere Jerušalajima"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "hčere"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "pri sijajih"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "pri košutah"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ne boste zbudile"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in da"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ne boste prebudile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljubezen"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ljubezni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ne bo hotela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:00.492911102Z",
+  "model": "glm-5.3"
+}

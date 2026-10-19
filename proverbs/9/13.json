@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew has פתיות as a noun in apposition; Slovenian requires a copula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסילות\/פתיות",
+      "rationale": "two near-synonymous nouns for folly and seducibility set side by side; the contrast of kinds of foolishness flattens in translation."
+    },
+    {
+      "kind": "alternative",
+      "subject": "המיה",
+      "rationale": "'to make a loud sound, be in commotion' — 'hrupí\/je v vrvežu'; 'buči' chosen for the sound."
+    }
+  ],
+  "translation": "Žena neumnosti buči, preprosta ⟨je⟩ in sploh ne ve, kaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/9\/13-16.1792435890430.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "neumnosti"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "buči"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "preprosta"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "sploh ne"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:30.431195156Z",
+  "model": "glm-5.3"
+}

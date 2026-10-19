@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 58:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da ne \/ ne",
+      "rationale": "Hebrew infinitives lack negation; the sense 'from doing \/ not doing' requires Slovenian negations supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכבד",
+      "rationale": "'honoured' (adjective, YLT) vs 'for honouring' (adverbial, JPS) — taken adverbially here"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular address, singular 'you' representing the people"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענג \/ תתענג",
+      "rationale": "'delight' of v.13 answers 'you shall delight yourself' of v.14 — same root ענג"
+    }
+  ],
+  "translation": "Če odvrneš svojo nogo od šabata, da ne delaš svojih želja na dan moje svetosti, in proglasiš šabat za naslado, svetega v čast Jahveju, in ga častiš, ne hodeč svojih poti, ne iščoč svoje želje in ne govoreč besede:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25ac35dfc8d68c7cd3c03c04176c6051f0c3dcefab9e322937eeeb3f3735fe5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/58\/13-14.1792430861304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "odvrneš"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "od šabata"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "svojo nogo"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "delaš"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "svojih želja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "moje svetosti"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "in proglasiš"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "za naslado"
+    },
+    {
+      "surface": "לקדוש",
+      "gloss": "svetega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "מכבד",
+      "gloss": "v čast"
+    },
+    {
+      "surface": "וכבדתו",
+      "gloss": "in ga častiš"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "ne hodeč"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "svojih poti"
+    },
+    {
+      "surface": "ממצוא",
+      "gloss": "ne iščoč"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "svoje želje"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "in ne govoreč"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besede"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:41.304701317Z",
+  "model": "glm-5.3"
+}

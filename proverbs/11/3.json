@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ima samo priponske zaimke (תנחם, ושדם), v slovenščini izražene kot 'jih'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prekucuhi",
+      "rationale": "בוגדים dobesedno 'ti, ki pokrivajo' — tisti, ki ravnajo skrivaj (izdajalci)"
+    }
+  ],
+  "translation": "Nedolžnost iskrenih jih vodi, in popačenost prekucuhov jih pokonča.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/1-4.1792435878034.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "nedolžnost"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "iskrenih"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "jih vodi"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "in popačenost"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "prekucuhov"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "jih pokonča"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:18.036258411Z",
+  "model": "glm-5.3"
+}

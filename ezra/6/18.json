@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 6:18",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בפלגתהון \/ במחלקתהון",
+      "rationale": "Dve sorodni aramejski besedi za 'razdelitev\/oddelek' v vzporednici — dveh različnih besed v izvirniku slovenščina težko razlikuje."
+    },
+    {
+      "kind": "addition",
+      "subject": "je (v די)",
+      "rationale": "Aramejski relativ די zahteva slovenski glagol 'je', ki ga izvirnik ne izreče."
+    }
+  ],
+  "translation": "In postavili so duhovnike v njihove razdelitve in levite v njihove oddelke za službo Elohim, ki je v Jerušalajimu, kakor je zapisano v knjigi Mošeja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/6\/17-20.1792437665978.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקימו",
+      "gloss": "In postavili so"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "duhovnike"
+    },
+    {
+      "surface": "בפלגתהון",
+      "gloss": "v njihove razdelitve"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "in levite"
+    },
+    {
+      "surface": "במחלקתהון",
+      "gloss": "v njihove oddelke"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "službo"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki (je)"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "ככתב",
+      "gloss": "kakor je zapisano"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "v knjigi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:05.981809546Z",
+  "model": "glm-5.3"
+}

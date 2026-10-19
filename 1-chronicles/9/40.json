@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "hebrejščina nima cope, slovenščina ga zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "מריב בעל",
+      "rationale": "Meriv-Baal (prepir Baala) je v 2 Sam 4,4 kot Mefi-Bašet; ime z Baalom proti kasnejšemu Bašet"
+    }
+  ],
+  "translation": "Sin Jehonatanov je bil Meriv-Baal, in Meriv-Baal je rodil ⟨את⟩ Miko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8492f4dab857bb31b25b44fa570d8df7e1f528c388f1887e3833aaff3662c3c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/9\/37-40.1792438176519.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanov"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "in Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miko"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:36.523470599Z",
+  "model": "glm-5.3"
+}

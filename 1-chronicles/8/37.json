@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ve-zarzul",
+      "rationale": "Genealogical list; names follow the Hebrew sound with Slovenian endings."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew verbless clauses 'Raphah his son' — a Slovenian copula is needed."
+    }
+  ],
+  "translation": "In Moca je rodil ⟨את⟩ Bineo; Rafa njegov sin, Elasa njegov sin, Acel njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "661acc558170f2df8631ba40761ceec7f39ea65341f8212b3c296d8b0d68141a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/37-40.1792438089935.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "In Moca"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bineo"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Bineo"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Acel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:09.936815624Z",
+  "model": "glm-5.3"
+}

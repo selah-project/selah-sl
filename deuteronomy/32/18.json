@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשי",
+      "rationale": "תֶּשִׁי se v Tanahu pojavi samo tu; pomen 'prenehati spomniti \/ izpustiti iz spomina' je izpeljan iz sobesedila."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oblikoval",
+      "rationale": "חול pomeni 'vrteti, skrivati (pri porodu)'; 'oblikoval' izpusti podobo rojstnega krčenja."
+    }
+  ],
+  "translation": "Skale, ki te je rodil, si izpustila iz spomina, in pozabila si ⟨El⟩, ki te je oblikoval.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/32\/17-20.1792426378470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Skale"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "ki te je rodil"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "izpustila iz spomina"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "pozabila si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "ki te je oblikoval"
+    }
+  ],
+  "timestamp": "2026-10-19T16:12:58.470924676Z",
+  "model": "glm-5.3"
+}

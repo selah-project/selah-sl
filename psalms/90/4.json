@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tisoč let",
+      "rationale": " Primerjava časovnih mer — tisočletje proti dnevu in nočni straži."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nočna straža",
+      "rationale": "אשמורה je ena od nočnih straž (približno štiri ure); 'straža' ohranja enoto, ne natančno dolžino."
+    }
+  ],
+  "translation": "Kajti tisoč let so v tvojih očeh kakor včerajšnji dan, ko je minil, in kakor nočna straža.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/90\/1-4.1792435240612.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvojih očeh"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kakor dan"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "včerajšnji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "je minil"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "in straža"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nočna"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:40.615158033Z",
+  "model": "glm-5.3"
+}

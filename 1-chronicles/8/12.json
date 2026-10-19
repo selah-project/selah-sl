@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dvopičje in premišljaj",
+      "rationale": "Slovenska skladnica zahteva ločilo, ki ga hebrejščina nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hčere",
+      "rationale": "בנות 'hčere' pomeni tu odvisne kraje\/vasi okrog Lod, ne dobesedno hčere."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הוא",
+      "rationale": "'On' se nanaša verjetno na Šemeda (ali na Elpaala) — povzročilec je dvoumen."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodbina",
+      "rationale": "Seznam sinov Elpaalovih z omembo ustanovitve mest."
+    }
+  ],
+  "translation": "In sinovi Elpaalovi: Ever, Mišam in Šemed — on je zgradil ⟨את⟩ Ono in ⟨את⟩ Lod in njene hčere.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/9-12.1792438099577.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalovi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "in Mišam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "in Šemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "je zgradil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "in njene hčere"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:19.581581453Z",
+  "model": "glm-5.3"
+}

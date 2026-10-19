@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zatrdili so svoj zatil",
+      "rationale": "הקשה עורף — dobesedno 'narediti zatil trd', podoba trmavosti."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "predlog pri שמע אל se v slovenskem glagolu 'poslušali' absorbira."
+    }
+  ],
+  "translation": "A oni in naši očetje so postopali oholo in zatrdili so ⟨את⟩ svoj zatil ter niso poslušali tvojih zapovedi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/9\/13-16.1792437902371.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "in naši očetje"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "so postopali oholo"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "in zatrdili so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj zatil"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "svoj zatil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ter niso"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvojih zapovedi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:02.372882857Z",
+  "model": "glm-5.3"
+}

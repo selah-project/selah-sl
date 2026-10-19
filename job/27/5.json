@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי",
+      "rationale": "dobesedno 'profanacija zame', hebrejški izraz zavračanja, izrečen kot 'daleč naj bo od mene'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kot pravične⟩",
+      "rationale": "slovenščina dopolni pomen glagola צדק v forenzičnem smislu, hebrejščina ima samo 'utemeljil ⟨את⟩ vas'."
+    }
+  ],
+  "translation": "Daleč naj bo od mene, če bi ⟨את⟩ vas utemeljil ⟨kot pravične⟩; dokler ne izdihnem, ne bom odstranil svoje nedolžnosti od sebe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/5-8.1792436595582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Daleč naj bo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "utemeljil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (utemeljim za pravične)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler ne"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "izdihnem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bom odstranil"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "svoje nedolžnosti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od sebe"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:15.583262858Z",
+  "model": "glm-5.3"
+}

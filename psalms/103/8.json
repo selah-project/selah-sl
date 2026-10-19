@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima veznika; slovenščina ga zahteva pri imenovalni povedi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "Dobesedno 'dolg nosom' (dv. אפים = nosje) — idiom za 'počasen v jezi', jeza v hebrejščini diha skozi nos."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחום וחנון",
+      "rationale": "Zveneči par רַחוּם\/וְחַנּוּן — dvojica z notranjim rimom, v slovenščini izgubljena."
+    }
+  ],
+  "translation": "Usmiljen in milostljiv ⟨je⟩ Jahve, počasen do jeze in bogat v hesedu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/5-8.1792435328470.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Usmiljen"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "in milostljiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "počasen"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "do jeze"
+    },
+    {
+      "surface": "ו רב",
+      "gloss": "in bogat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "v hesedu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:08.471854645Z",
+  "model": "glm-5.3"
+}

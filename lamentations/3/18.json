@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצחי",
+      "rationale": "נצח je 'svetla točka v daljavi, cilj, trajnost' — prevodi: 'moč' (KJV), 'konec' (Wycliffe), 'upanje' (LXX), 'cilj' (tukaj)"
+    }
+  ],
+  "translation": "In rekel sem: Izginil ⟨je⟩ moj cilj in moje upanje od Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/17-20.1792437004574.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel sem"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "izginil"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "moj cilj"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "in moje upanje"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:04.575127132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 3:9",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "deset tisoč kikarjev srebra",
+      "rationale": "vsota podkupnine je natančno prešteta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kikar",
+      "rationale": "ככר je teža (talent); puščam hebrejski zvok namesto pretvorbe"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨srebro⟩",
+      "rationale": "slovenščina potrebuje predmet pri 'prinesli', hebrejščina ga pušča razumljenega"
+    }
+  ],
+  "translation": "Če je kralju dobro, naj se napiše, da jih uničijo, in deset tisoč kikarjev srebra odtehtam v roke tistim, ki opravljajo delo, da bi prinesli ⟨srebro⟩ v zakladnice kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/3\/9-12.1792437214048.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "naj se napiše"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "da jih uničijo"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "in deset"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikarjev"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "אשקול",
+      "gloss": "odtehtam"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "roke"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "tistim, ki opravljajo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "da bi prinesli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "zakladnice"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:34.049073797Z",
+  "model": "glm-5.3"
+}

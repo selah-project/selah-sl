@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Tukaj je את predlog 'z\/s', ne oznaka tožilnika; ohranjena kot ⟨את⟩ po pravilu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלב וללב",
+      "rationale": "'s srcem in srcem' — dvojno srce; dobesedno podvojenje poudari hinavščino."
+    },
+    {
+      "kind": "substitution",
+      "subject": "praznina",
+      "rationale": "šav: praznina\/ničevost, tudi prevara; 'laž' bi zožilo pomen."
+    }
+  ],
+  "translation": "Praznino govori človek ⟨את⟩ svojemu bližnjemu — ustnica gladkosti; s srcem in srcem govorijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "efcf216fd3a54cacc87ee95dd5f57608468e0cc9b5664d5985fbf6f7bbc97fd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/12\/3-4.1792438991975.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "praznino"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govori"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojemu bližnjemu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svojemu bližnjemu"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ustnica"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "gladkosti"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "s srcem"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "in srcem"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govorijo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:11.977146897Z",
+  "model": "glm-5.3"
+}

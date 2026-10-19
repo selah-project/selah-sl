@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "והיו את המלך",
+      "rationale": "drugi את je predlog 'z', ne določni označevalec — prevedeno kot 'z', ne ⟨את⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "levitom in ljudstvu",
+      "rationale": "neposreden Jehojadov ukaz poslušalcem o varovanju kralja"
+    }
+  ],
+  "translation": "In leviti bodo obdali ⟨את⟩ kralja naokoli, vsak s svojo opremo v roki; in kdor vstopi v hišo, bo usmrčen; in vi bodite ⟨את⟩ z ⟨את⟩ kraljem ob njegovem vhajanju in ob njegovem izhajanju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f7d7655baeacddefe05aca29c2d1aea656b8be5652894a7ccccf09ca12fd9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/23\/5-8.1792438736090.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "in bodo obdali"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokoli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "s svojo opremo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v roki"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "in kdor vstopi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bo usmrčen"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "in vi bodite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ob njegovem vhajanju"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "in ob njegovem izhajanju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:56.092793949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 18:1",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ognjene daritve",
+      "rationale": "אִשֵּׁי je 'ognjene (daritve) Jahveja', kar KJV razširi z 'made by fire'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dednina",
+      "rationale": "verz določa gospodarsko pravico rodu Levi: brez deleža, z Jahvejem kot dediščino"
+    }
+  ],
+  "translation": "Duhovniki Leviti — ves rod Levi — naj nimajo dela ne dednine z Jisraelom; ognjene daritve Jahveja in njegova dednino naj jedó.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "225f55467ce56ae584e868db7a5150713557675937a1b92836a07c8f338f8619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/18\/1-4.1792426057848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj imajo"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "duhovnikom"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "rod"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dela"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "ne dednine"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ognjene daritve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "in njegova dednino"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "naj jedó"
+    }
+  ],
+  "timestamp": "2026-10-19T16:07:37.848783465Z",
+  "model": "glm-5.3"
+}

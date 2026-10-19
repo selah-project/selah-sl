@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sovraštiv",
+      "rationale": "שנאת je gradativ: 'sovraštvo sovražja' — doslovno 'z nasilnim sovraštvom me sovražijo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאת\/שנאוני",
+      "rationale": "Ponovitev korena שנא: 'sovraštvo … sovražijo'."
+    }
+  ],
+  "translation": "Poglej moje sovražnike, kajti obilo jih je, in s sovraštivom nasilja me sovražijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/17-20.1792434632393.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Poglej"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "moje sovražnike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "obilo jih je"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "in s sovraštivom"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "me sovražijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:32.394929658Z",
+  "model": "glm-5.3"
+}

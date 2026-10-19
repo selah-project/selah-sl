@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik pri pasivnem deležniku; hebrejščina ima sam pasivni particip מהלל"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zahod",
+      "rationale": "מבוא je dobesedno 'vhod, prihod'; za sonce 'njegov prihod (dol)' — zahod"
+    }
+  ],
+  "translation": "Od vzhoda sonca do njegovega zahoda ⟨je⟩ hvaljeno ime Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/113\/1-4.1792435446706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "od vzhoda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sonca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "njegovega zahoda"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "hvaljeno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:06.707404873Z",
+  "model": "glm-5.3"
+}

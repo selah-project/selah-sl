@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 23:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "v enem",
+      "rationale": "באחד: 'v enem (umom\/duhu)' vs 'edini\/enoten sam s seboj' (JPS) vs 'nepremenljiv' (BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu\/življenjski sili' kot 'duši'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אותה",
+      "rationale": "tukej glagol אוה 'zaželeti', ne oznaka za tožilnik את — oblike sta enaki"
+    }
+  ],
+  "translation": "In on je v enem, in kdo ga lahko obrne? In njegova duša je zaželela, in je naredil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/23\/13-16.1792436534481.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "v enem"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "in kdo"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ga lahko obrne"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "in njegova duša"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "je zaželela"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "in je naredil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:14.482456961Z",
+  "model": "glm-5.3"
+}

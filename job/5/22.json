@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומחית הארץ",
+      "rationale": "dober: 'žival zemlje' (חית); KJV 'beasts of the earth' proti dobesednemu 'od živine zemlje'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zvermi polja",
+      "rationale": "חיות השדה v 5,23 je 'zveri polja'; tu חית הארץ — 'živali zemlje', ista pomenska polje"
+    }
+  ],
+  "translation": "Nad opustošenjem in nad gladom se boš smejal, pred zvermi polja pa se ne boš bal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/21-24.1792436235738.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "nad opustošenjem"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "in nad gladom"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "se boš smejal"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "pred zvermi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "polja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boš se bal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:15.740868006Z",
+  "model": "glm-5.3"
+}

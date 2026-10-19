@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Savlu",
+      "rationale": "Jonatanova vprašanja se neposredno obračata na očeta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "naj umre",
+      "rationale": "יומת je povzrošitelni dahol — dobesedno »naj bo umorjen«; slovenščina potrebuje modalno pomožnico."
+    }
+  ],
+  "translation": "In Jonatan je odgovoril ⟨את⟩ Savla, svojega očeta, in rekel mu je: Zakaj naj umre? Kaj storil je?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/29-32.1792427911928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in odgovoril je"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Savla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Savla"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "naj umre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "storil je"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:31.929545795Z",
+  "model": "glm-5.3"
+}

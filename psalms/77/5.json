@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩, ⟨tako⟩",
+      "rationale": "slovenščina potrebuje pomožnik in zvezo, ki ju hebrejščina nima"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שמרות",
+      "rationale": "שְׁמֻרָה 'stražarka' se v Tanahu pojavi le tukaj in v Ps 132,4; pomeni veko, ki 'straži' oko"
+    }
+  ],
+  "translation": "Zadržal si ⟨so⟩ stražarke mojih oči; pretresen sem ⟨tako⟩, da ne govorim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/5-8.1792435140245.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Zadržal si"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "stražarke"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mojih oči"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "pretresen sem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "govorim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:00.247260069Z",
+  "model": "glm-5.3"
+}

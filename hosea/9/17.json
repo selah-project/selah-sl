@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהי je 'moj Elohim' — ime Elohim, ne 'Bog'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "hebrejščina ima prihodnjiški glagol s suffiksom, slovenščina potrebuje 'jih'"
+    }
+  ],
+  "translation": "Moj Elohim jih bo zavrgel, ker niso poslušali njega, in postali bobe begalci med narodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4a0730fb137e813205e2bde3288480c08c9e7d3170a109d648bf19c5487b286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/9\/17-17.1792433850165.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "jih bo zavrgel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Moj Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njega"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "in postali bodo"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "begalci"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "med narodi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:30.166537050Z",
+  "model": "glm-5.3"
+}

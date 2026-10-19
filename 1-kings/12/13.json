@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ostrbo",
+      "rationale": "קשה je pridevnik 'trd\/oster'; v slovenščini kot prilastek glagolu potrebuje samostalniško obliko"
+    },
+    {
+      "kind": "addition",
+      "subject": "s",
+      "rationale": "slovenska sklanjatev zahteva predlog pri odgovarjanju komu"
+    }
+  ],
+  "translation": "In odgovoril je kralj ⟨את⟩ ljudstvu ⟨s⟩ ostrbo in zapustil ⟨את⟩ svet staršev, ki so mu ga svetovali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/12\/13-16.1792429083684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in odgovoril je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ostrbo"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "in zapustil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svet staršev"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "svet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "staršev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "so mu svetovali"
+    }
+  ],
+  "timestamp": "2026-10-19T16:58:03.685337260Z",
+  "model": "glm-5.3"
+}

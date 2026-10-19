@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כתמול שלשום",
+      "rationale": "Dobesedno 'kot včeraj, kot predvčerajšnjim' — hebrejski idiom za 'kot nekdaj'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ni⟩",
+      "rationale": "Slovenščina potrebuje nikalnico, hebrejščina jo izraža z איננו (negirana obstojnost)."
+    }
+  ],
+  "translation": "In Jaakov je videl ⟨את⟩ obraz Lavanov, in glej, ⟨ni⟩ bil z njim kakor včeraj in predvčerajšnjim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/31\/1-4.1792422597325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obraz Lavanov"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanov"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨ni⟩ bil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z njim"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kakor včeraj"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "in predvčerajšnjim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:09:57.325767018Z",
+  "model": "glm-5.3"
+}

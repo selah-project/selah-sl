@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tako",
+      "rationale": "hebrejščina Primerjave ne izrazi s posebno besedo; paralela višina\/moč stoji brez veznika"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גבר",
+      "rationale": "dobesedno ' prevzel je \/ je močan'; 'mogočen' ohranja sliko moči"
+    }
+  ],
+  "translation": "Kakor je višina nebes nad zemljo, tako je njegov hesed mogočen nad tistimi, ki se ga bojijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/9-12.1792435325422.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "višina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mogočen je"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "tistimi, ki se ga bojijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:05.423487355Z",
+  "model": "glm-5.3"
+}

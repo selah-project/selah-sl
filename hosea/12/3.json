@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obiskal bo",
+      "rationale": "פקד 'obiskati (v sovražnem namenu)' — 'kaznovati' je posix, vendar preveč ozek"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga izpušča"
+    }
+  ],
+  "translation": "In pravda Jahveja ⟨je⟩ z Judom, in obiskal bo Jaakova po njegovih poteh; po njegovih dejanjih mu bo povrnil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/12\/1-4.1792433916856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "in pravda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "in obiskal bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "po njegovih poteh"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "po njegovih dejanjih"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bo povrnil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:36.860865364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 1:7",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "kakor roka kralja",
+      "rationale": "כיד המלך: 'roki kralja' — velikodušnost, moč ali dostojanstvo kralja; prevodi se razhajajo od 'državnosti' do 'velikodušnosti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "različne",
+      "rationale": "שונים dobesedno 'prenejene\/spremenjene' — posoda je bila vsaka drugačna."
+    }
+  ],
+  "translation": "In dajali so piti iz posod zlata, in posode so bile posode različne, in kraljevega vina obilno, kakor ⟨je⟩ roka kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/1\/5-8.1792437192335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקות",
+      "gloss": "In dajali so piti"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "iz posod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "in posode"
+    },
+    {
+      "surface": "מכלים",
+      "gloss": "iz posod"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "različne"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "in vina"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljevega"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obilno"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "kakor roka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:12.337922395Z",
+  "model": "glm-5.3"
+}

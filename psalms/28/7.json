@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבי",
+      "rationale": "ponovitev 'moje srce' na začetku in sredi verza — vključevalni okvir, v slovenščini izgubi slogovno težo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iz kopenja",
+      "rationale": "ויעלז je dobesedno 'skakati od radosti', slovenščina popusti v običajni izraz"
+    }
+  ],
+  "translation": "Jahve je moja moč in moj ščit; vanj je zaupalo moje srce in ⟨bil⟩ sem pomoči nuden, zato iz kopenja moje srce in s svojo pesmijo ga hvalim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/28\/5-8.1792434697438.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "moja moč"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "in moj ščit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vanj"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "zaupalo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "in ⟨bil⟩ sem pomoči nuden"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "iz kopenja"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "in s svojo pesmijo"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ga hvalim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:37.441027725Z",
+  "model": "glm-5.3"
+}

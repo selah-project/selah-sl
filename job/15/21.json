@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 15:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; slovenščina zahteva ⟨je⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "plenilec",
+      "rationale": "שודד je deležnik od שדד (pustošiti) — dobesedno 'uničevalec', ne oseba 'ropar'."
+    }
+  ],
+  "translation": "Glas strahov ⟨je⟩ v njegovih ušesih; v miru mu pride plenilec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "94b187575137ce243e55ab4ac0ed5d27c0f2005ba5f00940da84c0415fafbcac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/21-24.1792436387763.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "פחדים",
+      "gloss": "strahov"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "v njegovih ušesih"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v miru"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "plenilec"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "mu pride"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:47.763899523Z",
+  "model": "glm-5.3"
+}

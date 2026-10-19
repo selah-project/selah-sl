@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "vzpetina",
+      "rationale": "נוף (hapax v Tanahu): 'vzpetina\/ležeča lepotica' — nekateri berejo 'lepota', LXX 'razgledišče'"
+    },
+    {
+      "kind": "crux",
+      "subject": "robovi severa",
+      "rationale": "ירכתי צפון: dobesedno 'kraja severa' — ali zemljepisni sever Jerušalajima, ali aluzija na goro Cafon, bivališče Baala"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ציון\/צפון",
+      "rationale": "Zvon-Cafon: asonanca med Cionom in mitološko severno goro, v slovenščini izgubljena"
+    }
+  ],
+  "translation": "Lepa vzpetina, veselje vse ⟨dežele⟩ — gora Cion, robovi severa, mesto velikega kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/48\/1-4.1792434897182.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Lepa"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "vzpetina"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "veselje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gora"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "robovi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severa"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velikega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:57.183998970Z",
+  "model": "glm-5.3"
+}

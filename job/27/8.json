@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 27:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבצע",
+      "rationale": "KJV 'ko je pridobil' (aktivno: hinavec pleni) proti YLT\/ASV 'ko je odrezan' (passivno: hinavca odrežejo) — oba pomena iz korena בצע."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je živo bitje, dih, življenjska moč — ne nesmrtna duša."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקוה",
+      "rationale": "beseda pomeni dobesedno 'vrv' (tito), preneseno 'upanje'; slika vrvi, ki jo Eloah prereže, je v slovenščini izgubljena."
+    }
+  ],
+  "translation": "Kaj je namreč upanje hinavca, kadar ⟨on⟩ pleni, kadar Eloah iztrga njegovo dušo?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/5-8.1792436595582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "namreč"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "upanje"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "hinavca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "pleni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "iztrga"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegovo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:15.583928286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obotavalo",
+      "rationale": "חזק dobesedno 'postati močan\/trd'; tu o srcu: 'otrdnilo se je'"
+    },
+    {
+      "kind": "you",
+      "subject": "Paroh",
+      "rationale": "pripoved o Paroávi oslepljenosti, ne neposreden nagovor"
+    }
+  ],
+  "translation": "In srce Paroá je obotavalo ⟨je⟩, in ni poslušal njih, kakor je govoril Jahve.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/7\/13-16.1792423143005.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "je obotavalo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T15:19:03.006052717Z",
+  "model": "glm-5.3"
+}

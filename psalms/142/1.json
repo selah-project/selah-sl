@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "rationale": "Didaktična oznaka žanra, ostaja po hebrejskem zvoku kot Maskil."
+    },
+    {
+      "kind": "measurement",
+      "subject": "naslov",
+      "rationale": "Žanrska in življenjsko-okoliščinska oznika pesmi."
+    }
+  ],
+  "translation": "Maskil Davidov, ko je bil v jami: molitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/142\/1-4.1792435722813.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ko je bil"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "v jami"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:42.813995699Z",
+  "model": "glm-5.3"
+}

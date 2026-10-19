@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "rationale": "מזמור je napisana po hebrejskem zvoku: glasbilo-pesem, ne 'psalm'."
+    }
+  ],
+  "translation": "Pesem, mizmor Asafov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/83\/1-4.1792435165094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pesem"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:25.095229125Z",
+  "model": "glm-5.3"
+}

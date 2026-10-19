@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "talent",
+      "rationale": "ככר je teža — približno talent (~34 kg) čistega zlata za menoro in vse njene posode."
+    },
+    {
+      "kind": "substitution",
+      "subject": "⟨njo⟩",
+      "rationale": "אֹתָהּ kaže na menoro iz prejšnjega stavka; slovenščina zahteva izrecen predmet."
+    }
+  ],
+  "translation": "Talent čistega zlata je naredil ⟨את⟩ ⟨nje⟩ in ⟨את⟩ vseh njenih posod.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5de330ab2801f7d4e32771dcbbfeda9d9c7708b587a91e03d35340baff3e6ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/37\/21-24.1792423827704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistega"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ njo",
+      "marks": "menora (iz prejšnjega konteksta)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vseh njenih posod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "njenih posod"
+    }
+  ],
+  "timestamp": "2026-10-19T15:30:27.706249359Z",
+  "model": "glm-5.3"
+}

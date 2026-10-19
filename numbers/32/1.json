@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v drugem stavku nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקום מקום מקנה",
+      "rationale": "ponovitev korena מקום\/mקנה (makom\/mikne) — zvenišče dvojice, v slovenščini delno izgubljeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "živina",
+      "rationale": "מקנה je pridobljena živina (od קנה, kupiti), ne splošna 'živina'"
+    }
+  ],
+  "translation": "In živine je bilo veliko sinovom Reuvna in sinovom Gada, zelo mogočne; in videli so ⟨את⟩ deželo Jazer in ⟨את⟩ deželo Gilad, in glede, kraj ⟨je⟩ kraj za živino.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bd3d958e7f938c42796977d9164c2985928098454df8cf8f17f7cbcfcecdf291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/32\/1-4.1792425511021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "in živine"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvna"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "in sinovom"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mogočne"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "in videli so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deželo Jazer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "deželo Gilad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glede"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "za živino"
+    }
+  ],
+  "timestamp": "2026-10-19T15:58:31.021897945Z",
+  "model": "glm-5.3"
+}

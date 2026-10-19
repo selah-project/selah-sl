@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 41:11",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "slišati »o« nečem — slovenski glagol zahteva predlog, hebrejščina ima הכל neposredno"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "tu je predlog »s\/pri njem« (H854), ne označevalnik ידi דirectnega predmeta, zato brez oklepaja"
+    }
+  ],
+  "translation": "In slišal je Johanan, sin Kareaha, in vsi poveljniki vojakov, ki so bili ⟨את⟩ pri njem, ⟨את⟩ vso hudo stvar, ki jo je storil Jišmael, sin Netanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88c0c5e1f141ce8db6c7e42557bf42aa0328ee61806f77fd49ed734ec7e489a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/41\/9-12.1792431797593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "In slišal je"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Johanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareaha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "poveljniki"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "vojakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pri njem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso hudo stvar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hudo stvar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:43:17.594490426Z",
+  "model": "glm-5.3"
+}

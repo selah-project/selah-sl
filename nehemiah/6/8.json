@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 6:8",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בודאם",
+      "rationale": "בדא se v Tanahu pojavi le še v Neh 6,12 — »izmišljevati«"
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje predmetni zaimek, ki ga hebrejščina pusti vmes"
+    }
+  ],
+  "translation": "In poslal sem k njemu, rekoč: Ni bilo po teh besedah, ki jih ti praviš, kajti iz svojega srca si jih izmišljaš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c8780e09bae0ee6c0db1d0ad13faa942f670dfeef8f3382fdacdb7f7c8294a49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/6\/5-8.1792437851244.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "In-poslal-sem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k-njemu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "bilo-je"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "po-teh-besedah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "teh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki-jih"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "praviš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "iz-svojega-srca"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בודאם",
+      "gloss": "izmišljaš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:11.247250099Z",
+  "model": "glm-5.3"
+}

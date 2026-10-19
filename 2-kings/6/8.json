@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "dvojna formula 'tak-in-tak, tak-in-tak' — hebrejski način izpusta imena kraja; vidna tudi v 1 S 21,3."
+    },
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "slovenščina potrebuje glagol 'biti', hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In kralj Arama je bil v vojni z Jisraelom, in posvetoval se je s svojimi služabniki, rekoč: Na kraj tak-in-tak, tak-in-tak ⟨bo⟩ moje taborišče.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/6\/5-8.1792429385229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "in kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "v vojni"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "z Jisraelom"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "in posvetoval se je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svojimi služabniki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "tak-in-tak"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "tak-in-tak"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "moje taborišče"
+    }
+  ],
+  "timestamp": "2026-10-19T17:03:05.230515399Z",
+  "model": "glm-5.3"
+}

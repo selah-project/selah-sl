@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "hesed\/emet, cedek\/šalom",
+      "rationale": "osebitev štirih lastnosti v dveh parih; personifikacija je v slovenščini ohranjena z dvojino"
+    }
+  ],
+  "translation": "Hesed in resnica se srečata, cedek in mir se poljubita.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/9-12.1792435179760.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "in resnica"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "se srečata"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "in mir"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "se poljubita"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:39.762164245Z",
+  "model": "glm-5.3"
+}

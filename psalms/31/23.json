@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגרזתי",
+      "rationale": "Koren גרז pomeni 'rezati' (kot rezanje kamna); 'odrezan' dobesedno, KJV 'cut off'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Slovenščina zahteva pomožnik 'sem', hebrejščina ga nima."
+    },
+    {
+      "kind": "hapax",
+      "subject": "גרז",
+      "rationale": "Glagol גרז se v Tanahu pojavlja samo tukaj."
+    }
+  ],
+  "translation": "In jaz sem rekel v svoji naglici: Odrezan sem odpred očmi tvojimi; vendar si slišal glas mojih prošenj, ko sem klical k tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89e7a0e5badddda768c7be0367b11a7ac348d757dd8d3c08bfcd7a369f490083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/31\/23-24.1792439039845.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "In jaz"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sem rekel"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "v svoji naglici"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "sem odrezan"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "odpred"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "očmi tvojimi"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "vendar"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si slišal"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mojih prošenj"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ko sem klical"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:59.847040746Z",
+  "model": "glm-5.3"
+}

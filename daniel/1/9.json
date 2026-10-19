@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in\/je",
+      "rationale": "hebrejščina ima wayyiqtol brez pomožnega glagola; slovenščina zahteva 'je dal'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "za hesed in za usmiljenje",
+      "rationale": "החסד ולרחמים sta dvema hebrejskima besedama, hesed ostaja po D2, רחמים je 'usmiljenje\/rodilna nežnost'"
+    }
+  ],
+  "translation": "In Elohim je dal ⟨את⟩ Daniela za hesed in za usmiljenje pred poglavarjem skopljencev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/9-12.1792437299682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniela"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniela"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "za hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "in za usmiljenje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שר",
+      "gloss": "poglavarjem"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "skopljencev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:59.684403494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "me polagaš",
+      "rationale": "תְּשִׁפְּתֵנִי — MT 'postavljaš\/položiš me' vs SP 'כארי' spremenjeno v 'kot lev' v nekaterih rokopisih; slov. prevod sledi MT."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מַלְקוֹחַ",
+      "rationale": "dual 'čeljusti' — redka oblika, dobesedno 'to, kar Grabí hrane'."
+    }
+  ],
+  "translation": "Posušila se je kakor lončenina moč moja, in jezik moj se pripenja na moje čeljusti, in v prah smrti me polagaš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/13-16.1792434642263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "posušila se je"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kakor lončenina"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "moč moja"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "in jezik moj"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "se pripenja"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "na moje čeljusti"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "in v prah"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "me polagaš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:42.264408717Z",
+  "model": "glm-5.3"
+}

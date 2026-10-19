@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יראיך \/ יראוני",
+      "rationale": "Isti koren א-ר-י v 'bojíjo' in 'videli' — zveneča podobnost, v slovenščini izgubljena."
+    },
+    {
+      "kind": "addition",
+      "subject": "bodo",
+      "rationale": "Hebrejščina izraža pretekli videk s predvidevanjem; slovenščina dodaja prihodnjiško pomožnik."
+    }
+  ],
+  "translation": "Tisti, ki se bojíjo tebe, me bodo videli in se razveselili, ker sem upal na tvojo besedo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dcf8309e24a1acc039b4034f014b1cb610880976765d0f6352e0ef7f9c854351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/74-75.1792439048123.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "tisti, ki se bojíjo tebe"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "me bodo videli"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "in se razveselili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "na tvojo besedo"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "sem upal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:08.124166396Z",
+  "model": "glm-5.3"
+}

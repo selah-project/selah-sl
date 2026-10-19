@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da bi jih",
+      "rationale": "hebrejščina ima le infinitiv לעשקם, slovenščina potrebuje veznik in zaimek"
+    },
+    {
+      "kind": "alternative",
+      "subject": "zaradi njih",
+      "rationale": "עליה׸ dobesedno 'nad njimi'; 'zaradi njih' je beri kot v njihovo korist"
+    }
+  ],
+  "translation": "Ni dopustil človeku, da bi jih zatiral, in zaradi njih je grajal kralje:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/13-16.1792435352011.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dopustil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeku"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "da bi jih zatiral"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "in grajal"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "zaradi njih"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:32.012150788Z",
+  "model": "glm-5.3"
+}

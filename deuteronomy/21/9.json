@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "odpravil",
+      "rationale": "תבער dobesedno 'izgoreti\/zžgati'; tukaj 'odpraviti, odstraniti' — slika uničenja je izgubljena."
+    },
+    {
+      "kind": "crux",
+      "subject": "תבער",
+      "rationale": "'zžgati (kri)' dobesedno vs. 'odpraviti krivdo' — prevajalci se delijo."
+    }
+  ],
+  "translation": "In ti boš odpravil kri nedolžnega iz svoje srede, kajti delal boš, kar je pravo v očeh Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8ad1da0e2ebf400578b100d2f5cf7aab2e4391626019673be8dd8334c3ea8e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/21\/9-12.1792426040569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "boš odpravil"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "nedolžnega"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iz svoje srede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "boš delal"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "kar je pravo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T16:07:20.570262049Z",
+  "model": "glm-5.3"
+}

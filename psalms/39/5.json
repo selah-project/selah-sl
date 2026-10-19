@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola; קצי vsak חדל אני je brez glagola"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minljiv",
+      "rationale": "חדel je 'prenehajoč, izpraznjen'; KJV 'frail', JPS 'short-lived'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mera mojih dni",
+      "rationale": " verz meri dolžino življenja"
+    }
+  ],
+  "translation": "Pokaži mi, Jahve, moj konec, in mero mojih dni, kaj ⟨je⟩; naj vem, kako minljiv sem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/5-8.1792434828801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "pokaži mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "moj konec"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "in mero"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mojih dni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "naj vem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "minljiv"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:48.803426533Z",
+  "model": "glm-5.3"
+}

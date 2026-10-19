@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "južna stran",
+      "rationale": "ימין dobesedno 'desna stran' — gledalci, obrnjeni proti vzhodu, desno pomeni jug; 'jug' proti dobesedni 'desni'."
+    },
+    {
+      "kind": "elision",
+      "subject": "južna stran",
+      "rationale": "אֵת (H853) ni v besedilu; edini את tukaj je אתה 'ti', zato ni označevalca."
+    }
+  ],
+  "translation": "Sever in jug si Ti ustvaril; Tavor in Hermon v Tvojem imenu vpita od radosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/13-16.1792435253826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "sever"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "in jug"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "si ustvaril"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "in Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "v Tvojem imenu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vpita od radosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:53.827940984Z",
+  "model": "glm-5.3"
+}

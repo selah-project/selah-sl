@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se \/ v",
+      "rationale": "slovenščina potrebuje povratni glagol in predlog, hebrejščina ima samo ישלם"
+    },
+    {
+      "kind": "crux",
+      "subject": "טוב",
+      "rationale": "hebrejska beseda 'dobro' je tu subjekt ali predmet: 'dobro povrne pravičnim' (YLT) proti 'pravičnim se povrne dobro' (KJV\/JPS)"
+    }
+  ],
+  "translation": "Húdo preganja grešnike, ⟨את⟩ pravične pa se povrne ⟨v⟩ dobro.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c487371a4714a3d36105e8e3d1e86f6bf38271077a412ffcd73403cb9c993ff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/21-24.1792435926547.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "grešnike"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "preganja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pravične"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravične"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "se povrne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:06.547673784Z",
+  "model": "glm-5.3"
+}

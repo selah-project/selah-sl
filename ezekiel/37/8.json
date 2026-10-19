@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 37:8",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je (v 'ruah pa ni')",
+      "rationale": "slovenščina potrebuje glagolsko obliko pri nikalnici, hebrejščina ima samo אין"
+    }
+  ],
+  "translation": "In gledal sem, in glej, na njih kite, in meso je prišlo gor, in pregrnil se je nad njimi koža zgoraj, ruah pa ni v njih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e6a313541929b181b1c3d67babc9d5f304031c945bf25cb8296c59a2368c9ab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/37\/5-8.1792433556856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "In gledal sem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na njih"
+    },
+    {
+      "surface": "גדים",
+      "gloss": "kite"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "in meso"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "je prišlo gor"
+    },
+    {
+      "surface": "ויקרם",
+      "gloss": "in pregrnil se je"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koža"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "zgoraj"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruah pa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v njih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:36.858988189Z",
+  "model": "glm-5.3"
+}

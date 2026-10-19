@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא צוה",
+      "rationale": "Vprašanje z 'ne': 'če Adonaj ni zapovedal' nasproti 'razen če Adonaj zapove' (BSB)"
+    },
+    {
+      "kind": "you",
+      "subject": "do bralca",
+      "rationale": "Retorično vprašanje nagovarja poslušalca"
+    }
+  ],
+  "translation": "Kdo ⟨je⟩ ta, ki je rekel, in ⟨se je⟩ zgodilo, če Adonaj ni zapovedal?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/37-40.1792437001030.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in ⟨se je⟩ zgodilo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovedal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:01.031845971Z",
+  "model": "glm-5.3"
+}

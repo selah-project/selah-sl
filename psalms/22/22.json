@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עניתני",
+      "rationale": "'si me odgovoril' (preteklik) vs prošnja 'odgovori mi' — mesto glagola omogoča obe branji"
+    },
+    {
+      "kind": "hapax_hint",
+      "subject": "רמים",
+      "rationale": "ראם divji bik — kjv 'unicornes' iz napačne LXX-orodije"
+    }
+  ],
+  "translation": "Reši me iz levjih žrel in iz rogov divjih bikov ⟨si me odgovoril⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/21-24.1792434632783.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Reši me"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iz žrela"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lava"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "in iz rogov"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "divjih bikov"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "si me odgovoril"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:32.784931500Z",
+  "model": "glm-5.3"
+}

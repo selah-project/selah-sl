@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "השמיעיני je povzdigovalni dovodnik 'daj mi slišati'; slovenščina potrebuje predmet 'ga' (tvoj glas)."
+    },
+    {
+      "kind": "you",
+      "subject": "do ljubljene",
+      "rationale": "Vez se neposredno obrača na tisto, ki prebiva v vrtovih."
+    },
+    {
+      "kind": "invitation",
+      "subject": "השמיעיני",
+      "rationale": "Prošnja-zagon: 'daj mi slišati' vabi odgovor."
+    }
+  ],
+  "translation": "Ti, ki prebivaš v vrtovih — prijatelji prisluhnijo tvojemu glasu, daj mi ga slišati!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/8\/13-14.1792436820556.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "ti, ki prebivaš"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "v vrtovih"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "prijatelji"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "prisluhnijo"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "tvojemu glasu"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "daj mi ga slišati"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:00.559019882Z",
+  "model": "glm-5.3"
+}

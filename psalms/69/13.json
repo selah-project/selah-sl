@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונגינות שותי שכר",
+      "rationale": "Tisti, ki pijejo močno pijačo, so pesem ob godilih (o meni) — nasproti KJV »bil sem pesem pijancev«; hebrejščina nima »jaz sem pesem«."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שער",
+      "gloss": "Jeklo שער je mestna vrata (kraj sodbe in trgovanja), ne oseba."
+    }
+  ],
+  "translation": "O meni govorijo tisti, ki sedijo v ⟨veljavnem⟩ vratarju, in popijeni močne pijače ⟨so mi⟩ pesmi ob godilih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/13-16.1792435031531.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "govorijo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "o meni"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tisti, ki sedijo v"
+    },
+    {
+      "surface": "שער",
+      "gloss": "veljavnem vratarju"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "pesmi ob godilih"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "popijeni"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "močne pijače"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:11.532983840Z",
+  "model": "glm-5.3"
+}

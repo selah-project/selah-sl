@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks copula; lastniški ל ponujen kot pridevnik"
+    }
+  ],
+  "translation": "Tvoja ⟨so⟩ nebesa, tudi zemlja je tvoja; svet in njegova polnost — ti si jih ustanovil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/9-12.1792435245337.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tvoja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je tvoja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svet"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "in njegova polnost"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "si jih ustanovil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:45.340240144Z",
+  "model": "glm-5.3"
+}

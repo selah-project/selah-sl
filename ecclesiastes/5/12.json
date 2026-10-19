@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Obstaja⟩",
+      "rationale": "יš zahteva slovenski glagol 'obstaja', ki hebrejščina ne izgovori"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה\/לרעתו",
+      "rationale": "הúda húda ... njegovi húdi: koren רע se vrne na koncu verza, oklepa stavek"
+    }
+  ],
+  "translation": "⟨Obstaja⟩ hudo bolno húdo, ki sem jo videl pod soncem: bogastvo, varovano lastniku njegovemu, ⟨za⟩ njegovo húdo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/5\/9-12.1792437078409.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨Obstaja⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bolno"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sem videl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soncem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bogastvo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "varovano"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "lastniku njegovemu"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "⟨za⟩ njegovo húdo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:18.411379248Z",
+  "model": "glm-5.3"
+}

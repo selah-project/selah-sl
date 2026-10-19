@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 38:9",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "Hebrew lacks copula in the clause 'the seed not to him'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושחחת ארצה",
+      "rationale": "v. 9: 'puščal na tla' — dobesedno 'kvaril na tla'; delovanje zadrževanja potomstva, znana tumaška razhajašča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "seme",
+      "rationale": "זרע pomeni tudi 'potomstvo'; tukaj je dvoumno — telesno seme in rod"
+    }
+  ],
+  "translation": "In vedel je Onan, da ne bo zanj ⟨bo⟩ seme; in zgodilo se je, kadar je šel h ženi svojega brata, da je puščal na tla, da ne bi dal semena svojemu bratu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "728ea4c03aec7648d7e71e56510b6ced529350819451d3582a7efaff8d84647d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/38\/9-12.1792422761976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "in vedel je"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je šel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "da je puščal"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na tla"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semena"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "svojemu bratu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:41.977515924Z",
+  "model": "glm-5.3"
+}

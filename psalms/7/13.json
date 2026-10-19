@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "דרך pomeni dobesedno 'stopiti' — lok se nategne s stopanjem nanj; prevodi se razhajajo med 'napel' in 'pripravil'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩",
+      "rationale": "Slovenščina potrebuje povratni glagol; hebrejščina ima samo ישוב."
+    }
+  ],
+  "translation": "Če se ⟨ne⟩ obrne, brusi svoj meč; svoj lok je napel in ga je pripravil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/13-16.1792434519175.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se obrne"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "svoj meč"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "brusi"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "svoj lok"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "je napel"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "in ga je pripravil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:39.176484897Z",
+  "model": "glm-5.3"
+}

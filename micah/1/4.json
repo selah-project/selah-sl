@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨njim⟩",
+      "rationale": "slovenščina potrebuje predmet; hebrejščina ima samo končnico -יו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vosek \/ voda",
+      "rationale": "dvojna podoba taljenja in razlivanja — vzporedni similovi, ki jih je treba ohraniti dobesedno"
+    }
+  ],
+  "translation": "In goram se bo raztopiti pod ⟨njim⟩, in doline se bodo razklepati, kakor vosek pred ognjem, kakor voda, odstavljena po strmini.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2c86da674d05221f186297f6ae3872d53a92febacdb3c23f3fa2fa0ea1694e23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/1\/1-4.1792434129104.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "In se bo raztopiti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "goram"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pod ⟨njim⟩"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "in doline"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "se bodo razklepale"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kakor vosek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ognjem"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kakor voda"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "odstavljena"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "po strmini"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:09.340772121Z",
+  "model": "glm-5.3"
+}

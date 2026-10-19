@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 2:55",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "hebrejščina izpušča kopulo; slovenščina jo zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחמת",
+      "rationale": "kot 'iz Hamata' (kraj) ali 'zaradi' (primarni pomen vmeska); prevodi se delijo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ספרים",
+      "rationale": "'pisarji' ali plemensko ime 'Sofriti'; večina bere poklic"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovni seznam",
+      "rationale": "zaključek Judejevega rodoslovja z rodovi pisarjev"
+    }
+  ],
+  "translation": "In rodovi pisarjev, ki so prebivali v Javezu: Tiratijci, Šimatijci, Suhatijci. Ti ⟨so⟩ Kenijci, ki so prišli iz Hamata, očeta hiše Rekavove.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea9bac74114d342872eeb0e2dcf90e220b9d4e212f7fac5ee18a9d9d87c986cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/53-55.1792438031773.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפחות",
+      "gloss": "in rodovi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "pisarjev"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ki so prebivali"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "v Javezu"
+    },
+    {
+      "surface": "תרעתים",
+      "gloss": "Tiratijci"
+    },
+    {
+      "surface": "שמעתים",
+      "gloss": "Šimatijci"
+    },
+    {
+      "surface": "שוכתים",
+      "gloss": "Suhatijci"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הקינים",
+      "gloss": "Kenijci"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ki so prišli"
+    },
+    {
+      "surface": "מחמת",
+      "gloss": "iz Hamata"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekavove"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:11.776678219Z",
+  "model": "glm-5.3"
+}

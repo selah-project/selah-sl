@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ne⟩",
+      "rationale": "slovenski dualni zanik 'ne najde dobrega' zahteva ločeno nikalnico pred glagolom"
+    },
+    {
+      "kind": "alternative",
+      "subject": "obrnjen v svojem jeziku",
+      "rationale": "ונהפך בלשונו dobesedno 'prevrnjen v svojem jeziku' — zviti, prevratni jezik"
+    }
+  ],
+  "translation": "Izkrivljenega srca ⟨ne⟩ najde dobrega, in obrnjen v svojem jeziku pade v húdo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/17\/17-20.1792436017768.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "Izkrivljenega"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrega"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "in obrnjen"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "v svojem jeziku"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "pade"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "v húdo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:37.771735739Z",
+  "model": "glm-5.3"
+}

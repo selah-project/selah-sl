@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "Ni – ne velja ta verz."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "solze\/kruh",
+      "rationale": "podoba: solze namesto hrane — metafora pustosti, dobesedno 'solze so mi bile za kruh'"
+    }
+  ],
+  "translation": "Solze so mi bile kruh podne in ponoči, ko mi rekó ves dan: Kje je tvoj Elohim?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/1-4.1792434830098.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "so bile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "solze"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "podne"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "in ponoči"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "ko rekó"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kje je"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:50.100903566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Tukaj את pomeni 'z' (blizina), ne tožilni označevalec; vendar se ⟨את⟩ ohrani po pravilu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga pri ויהי nosi v wayyiqtolu."
+    }
+  ],
+  "translation": "In Jahve je bil z ⟨את⟩ Józefom, in bil je mož, ki mu uspeva, in bil je v hiši svojega gospoda, Micrajca.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/39\/1-4.1792422777735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in bil je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Józefom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józefom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bil je"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ki mu uspeva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bil je"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svojega gospoda"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Micrajca"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:57.736611537Z",
+  "model": "glm-5.3"
+}

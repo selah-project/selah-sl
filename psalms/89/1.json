@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poučna pesem",
+      "rationale": "משכיל je naslov vrste pesmi, 'didaktična\/instructivna'; dobesedna slika je 'pametna, razumljiva'."
+    },
+    {
+      "kind": "elision",
+      "subject": "naslov",
+      "rationale": "Hebrejščina ne glasi 'naslov'; dodano ⟨pesem⟩, ker slovenščina potrebuje samostalnik."
+    }
+  ],
+  "translation": "Poučna pesem Eitana Ezrahita.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/1-4.1792435256891.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pesem"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Eitana"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrahita"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:56.891800590Z",
+  "model": "glm-5.3"
+}

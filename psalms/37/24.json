@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סומך ידו",
+      "rationale": "'Jahve podpira njegovo roko' (JPS\/YLT) proti 'Jahve ga podpira z roko' (KJV) — hebrejščina ima samo 'podpira njegovo roko'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי יפל",
+      "rationale": "כי tukaj pomeni pogojni 'če\/čeprav', ne vzročnega 'kajti'."
+    }
+  ],
+  "translation": "Če pade, ⟨ne⟩ bo vsunjen, kajti Jahve podpira njegovo roko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/21-24.1792434754222.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "bo vsunjen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "podpira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegovo roko"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:34.223679182Z",
+  "model": "glm-5.3"
+}

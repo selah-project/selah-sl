@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga pri rodovniku izpušča"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "verz je seznam imen — rodoslovno štetje Juda plemena"
+    }
+  ],
+  "translation": "In sinovi Šimona ⟨so⟩ Amnon in Rina, Ben-Hanan in Tulon; in sinovi Jišija: Zohet in Ben-Zohet.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8d215cc8c379b01f4b87293f7477f5ebbb26d2a6279b362710eb27c1b925dfbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/20-20.1792439086628.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "Šimona"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "in Rina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "in Tulon"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Jišija"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Zohet"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "in Ben-"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Zohet"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:46.629531122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 7:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨še⟩",
+      "rationale": "slovenščina za poudarek potrebuje »še«, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "את מלך אשור",
+      "rationale": "aleph-tav kaže kralja Ašurja kot pravi predmet: dneve bo pripeljal »kralj Ašur« ali »z (s pomočjo) kralja Ašurja« — prevodi se delijo"
+    }
+  ],
+  "translation": "Jahve bo pripeljal nate in na tvoje ljudstvo in na hišo tvojega očeta dneve, kakršnih ⟨še⟩ niso prišli, od dne odlomka Efrajima od Jehude — ⟨את⟩ kralja Ašurja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "079c2e14bb824b8fe56427ec2eaf70b8aba376ea67bd2e9da0c84bbfed3e2295",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/7\/17-20.1792430052652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יביא",
+      "gloss": "bo pripeljal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nate"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in na"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvoje ljudstvo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvojega očeta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dneve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kakršnih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באו",
+      "gloss": "so prišli"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "od dne"
+    },
+    {
+      "surface": "סור",
+      "gloss": "odlomka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja Ašurja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašurja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:14:12.653218579Z",
+  "model": "glm-5.3"
+}

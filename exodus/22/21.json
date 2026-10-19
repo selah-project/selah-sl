@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "snete",
+      "rationale": "slovenščina za zanikanje glagola potrebuje pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "Israelu",
+      "rationale": "večinska zapoved neposredno naslovljena na Izrael"
+    }
+  ],
+  "translation": "Vdovo in sirota ne smete zatirati.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/22\/21-24.1792423461600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdovo"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "in sirota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "boste zatirali"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:21.600946253Z",
+  "model": "glm-5.3"
+}

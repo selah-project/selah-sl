@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 7:17",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "odkupi",
+      "rationale": "aramejsko תקנא je trgovanščina, 'kupi\/dobi', ne duhovni 'odkupi' — kupi na trgü"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל קבל דנה",
+      "rationale": "aramejska pisemna fraza 'glede na vse to' = 'zato, z vsem tem'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "כספא",
+      "rationale": "odkritje nakupa živali iz določenega denarja — štetje sredstev"
+    }
+  ],
+  "translation": "Z vsem tem srebrom odkupi pridno bike, ovne in jagnjeta z njihovimi minhami in nalivi, in prinesi jih na oltar hiše vašega Eloaha, ki je v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "963eaf0fd1fa088118e579cd4978cde17196d3d2fb590b6ad73a3343c64d4f44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/17-20.1792437685446.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "z vsem"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "glede na"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "to"
+    },
+    {
+      "surface": "אספרנא",
+      "gloss": "pridno"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "odkupi"
+    },
+    {
+      "surface": "בכספא",
+      "gloss": "srebrom"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "tem"
+    },
+    {
+      "surface": "תורין",
+      "gloss": "bike"
+    },
+    {
+      "surface": "דכרין",
+      "gloss": "ovne"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "jagnjeta"
+    },
+    {
+      "surface": "ומנחתהון",
+      "gloss": "z njihovimi minhami"
+    },
+    {
+      "surface": "ונסכיהון",
+      "gloss": "in nalivi"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "in prinesi"
+    },
+    {
+      "surface": "המו",
+      "gloss": "jih"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מדבחה",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "vašega Eloaha"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:25.448354445Z",
+  "model": "glm-5.3"
+}

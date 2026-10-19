@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מהרו\/מהרסיך",
+      "rationale": "Zveneči dvojček: 'hitijo' in 'porušitelji' imata v hebrejščini isti zven מהר, v slovenščini izgubljen."
+    },
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "KJV\/JPS 'tvoji sinovi' proti LXX in BSB 'tvoji gradbeniki' (בניך kot aktivni particip od בנה)."
+    }
+  ],
+  "translation": "Tvoji sinovi hitijo ⟨k tebi⟩; tvoji porušitelji in tvoji pustošitelji gredo ven od tebe.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/49\/17-20.1792430732831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "hitijo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji sinovi"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "tvoji porušitelji"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "in tvoji pustošitelji"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "gredo ven"
+    }
+  ],
+  "timestamp": "2026-10-19T17:25:32.831791502Z",
+  "model": "glm-5.3"
+}

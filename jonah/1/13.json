@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחתרו",
+      "rationale": "koren pomeni 'prebiti se z vlomom' — Tu drsi v podobi vlomilca, tu s krovnimi udarci; slika je izgubljena v 'veslati'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך וסוער",
+      "rationale": "dobesedno 'je hodil in besnel' — morje kot živo bitje, ki hodi in nevihta; prirejeno kot stopnjevanje."
+    }
+  ],
+  "translation": "In možje so si z vesli prizadevali prebiti ⟨pot⟩ nazaj na suho, pa niso mogli, kajti morje je hujsalo in vse bolj besnelo nad njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/1\/13-16.1792434061380.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "so si z vesli prizadevali prebiti"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "možje"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "suho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa niso"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "je hujsalo"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "in vse bolj besnelo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:01.382374378Z",
+  "model": "glm-5.3"
+}

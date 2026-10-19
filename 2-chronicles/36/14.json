@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 36:14",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למעול מעל",
+      "rationale": "Infinitiv istega glagola plus samostalnik — 'pregrešili pregrešenko'; ohranjeno dvojno."
+    },
+    {
+      "kind": "elision",
+      "subject": "בירושלם brez člena",
+      "rationale": "Slovenščina brez člana; hebrejski ה se ne zapiše."
+    }
+  ],
+  "translation": "Tudi vsi knezi duhovnikov in ljudstvo so se pregrešili pregrešenko po vseh gnusobah narodov ter oskrunili ⟨את⟩ dom Jahveja, ki ga je posvetil v Jerušalajmu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8fd75fa6591a7f4e30f9e8aa317af573ad33a5c5a2f5545d17328d4b3b60cd67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/36\/13-16.1792438961308.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovnikov"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "in ljudstvo"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "so se veliko"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "pregrešili"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pregrešenko"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po vseh"
+    },
+    {
+      "surface": "תעבות",
+      "gloss": "gnusobah"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodov"
+    },
+    {
+      "surface": "ויטמאו",
+      "gloss": "ter oskrunili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahveja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "ga je posvetil"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajmu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:41.309452456Z",
+  "model": "glm-5.3"
+}

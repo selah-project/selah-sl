@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 4:6",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje povratni dodatek »jih«, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "רק",
+      "rationale": "»rak«: »le\/resnično« — vprašanje, ali je poudarek (»kakšno ljudstvo!«) ali omejevalni »samo to ljudstvo«."
+    }
+  ],
+  "translation": "In varujte ter jih izpolnjujte, kajti to je vaša modrost in vaše razumevanje v očeh ljudstev, ki bodo slišali ⟨את⟩ vse te ustanove in rekli: Le modro in razumno ljudstvo je ta veliki narod.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ca831a2fa84d6b6646d0f6ee2ff4e239f9b115521d6f68ca3a13ac3b61e8f00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/4\/5-8.1792425742371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "in varujte"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ter izpolnjujte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "חכמתכם",
+      "gloss": "vaša modrost"
+    },
+    {
+      "surface": "ובינתכם",
+      "gloss": "in vaše razumevanje"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ljudstev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "bodo slišali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse te ustanove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "te ustanove"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "in rekli"
+    },
+    {
+      "surface": "רק",
+      "gloss": "le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "modro"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "in razumno"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T16:02:22.372496331Z",
+  "model": "glm-5.3"
+}

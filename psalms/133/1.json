@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima veznika; slovenščina ga zahteva v vzkliku."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Pesem vzponov",
+      "rationale": "המעלות dobesedno 'vzponov' — lahko tudi 'stopnic' (pesem ob romarskem vzponu v Jerušalajim)."
+    }
+  ],
+  "translation": "Pesem vzponov, Davidova. Glej, kako dobro in kako prijetno ⟨je⟩ prebivanje bratov, prav skupaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/133\/1-3.1792435594458.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pesem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vzponov"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kako"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "prijetno"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "prebivanje"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bratov"
+    },
+    {
+      "surface": "גם",
+      "gloss": "prav"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:34.459469154Z",
+  "model": "glm-5.3"
+}

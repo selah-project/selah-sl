@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סוד",
+      "rationale": "'skrivnost\/svetovanje\/zaupenost' — KJV 'secret', JPS 'counsel', ASV 'friendship'"
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "skriti zbor, zaupni svet Jahveja z bogebojéznimi"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Sod Jahveja ⟨je⟩ za tiste, ki se ga bojíjo, in njegova zaveza, da jim jo dá spoznati.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/13-16.1792434631584.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "za tiste, ki se ga bojíjo"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "in njegova zaveza"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "da jim dá spoznati"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:31.586423035Z",
+  "model": "glm-5.3"
+}

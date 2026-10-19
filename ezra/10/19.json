@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dali so roko",
+      "rationale": "Hebrejski נתן יד — slovesna obljuba z dvignjeno\/prisego roko."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so bili⟩",
+      "rationale": "Slovenščina potrebuje pomožnik glagol; hebrejščina ima samo pridevnik אשמים."
+    }
+  ],
+  "translation": "In dali so roko, da bodo odgnali svoje žene, in krivi ⟨so bili⟩ — odrasel pa drobnice za svojo krivdo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/10\/17-20.1792437730970.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "In dali so"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "roko"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "da bodo odgnali"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "svoje žene"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "in krivi"
+    },
+    {
+      "surface": "איל",
+      "gloss": "odrasel"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "drobnice"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "svojo krivdo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:22:10.971739319Z",
+  "model": "glm-5.3"
+}

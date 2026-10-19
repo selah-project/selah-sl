@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Kdo je ta",
+      "rationale": "Vprašanje nagovarja poslušalca in vabi v odgovor — odmev 3,6"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנדגלות",
+      "rationale": "Dvoji הנדגלות: 'z zastavami' (množina) ali 'kot zvezde v sprevodu' — BSB bere zvezde"
+    }
+  ],
+  "translation": "Kdo je ta, ki prikukaje kakor zarja, lepa kakor luna, čista kakor sonce, strašna kakor čete pod zastavami?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/6\/9-12.1792436843696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "ki-prikukaje"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zarja"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "lepa"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "kakor-luna"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "čista"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "kakor-sonce"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "strašna"
+    },
+    {
+      "surface": "וכנדגלות",
+      "gloss": "kakor-čete-pod-zastavami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:23.697035651Z",
+  "model": "glm-5.3"
+}

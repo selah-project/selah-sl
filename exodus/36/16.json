@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמש\/שש לבד … לבד",
+      "rationale": "Zrcalna struktura dveh polovic (5+6) z ponovljenim לבד; šestna zaprta s šesto zaveso v 36,29."
+    }
+  ],
+  "translation": "In spojil je ⟨את⟩ pet zaves posebej in ⟨את⟩ šest zaves posebej.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2248c360aff49763f1c3dac75456f927d65cbfa350439653ffbf4c0a2d684849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/36\/14-16.1792433281236.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "In spojil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pet zaves"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zaves"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "posebej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "šest zaves"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zaves"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "posebej"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:01.238127231Z",
+  "model": "glm-5.3"
+}

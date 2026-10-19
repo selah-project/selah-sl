@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "norec",
+      "rationale": "naval: 'norec' (brez pameti) ali 'razuzdanec\/nicka' (moralno pokvarjen); obe plasti sta v hebrejščini."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין ... אין",
+      "rationale": "ponovljeni 'ni' (ni Elohim \/ ni kdor dela dobro) okvirja verz, odmev izgubljen v slovenščini le delno."
+    }
+  ],
+  "translation": "Zborovodju. Davidovo. Norec je rekel v svojem srcu: Ni Elohim. Pokvarjeni so, gnusno ravnavajo v dejanjih, ni kdor dela dobro.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/14\/1-4.1792434589892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodju"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "norec"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "v svojem srcu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "pokvarjeni so"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "gnusno ravnavajo"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "v dejanjih"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdor dela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:49.893950905Z",
+  "model": "glm-5.3"
+}

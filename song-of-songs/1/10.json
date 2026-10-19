@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nizi biserov",
+      "rationale": "חרוזים dobesedno 'prebodene (perle)' — koralde, nanizane kroglice; 'biseri' je bližina, ne istost."
+    },
+    {
+      "kind": "addition",
+      "subject": "okrasja",
+      "rationale": "תורים dobesedno 'vrste, nizi' brez imenovane vsebine; 'okrasje' je dodano v slovenščini."
+    }
+  ],
+  "translation": "Krasna so tvoja lica z vrstami okrasja, tvoj vrat z nizi biserov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/1\/9-12.1792436831575.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "krasna so"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "tvoja lica"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "z vrstami"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tvoj vrat"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "z nizi biserov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:11.575866157Z",
+  "model": "glm-5.3"
+}

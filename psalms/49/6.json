@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקבי",
+      "rationale": "Dvojno branje: 'mojih pet' (krivda me dohaja po petah, kot zasledovalec) ali 'mojih zalezovalcev' (עקב v pomenu 'zalesti') — JPS\/ylt bereta 'supplanters', KJV\/ASV 'heels'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "Slovenščina potrebuje veznik za odvisni stavek, hebrejščina ga postavlja le z besednim redom."
+    }
+  ],
+  "translation": "Zakaj bi se bal v dneh hudobije, ko me krivda mojih pet obdaja?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/5-8.1792434881487.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bi se bal"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v dneh"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hudobije"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivda"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mojih pet"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "me obdaja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:41.489509511Z",
+  "model": "glm-5.3"
+}

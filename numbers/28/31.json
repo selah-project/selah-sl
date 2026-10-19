@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 28:31",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje predmet pri glagolu 'pripravite'; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minhe",
+      "rationale": "מנחה je daritev moke in vina; 'minha' je po D2 pustnjena kot hebrejska beseda."
+    }
+  ],
+  "translation": "Poleg stalne žgalne daritve in njene minhe jih pripravite; brez napake naj bodo ⟨za⟩ vas in njihovi izlivi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/28\/29-31.1792425378837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "poleg"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "žgalne daritve"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "stalne"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "in njene minhe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pripravite"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "brez napake"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "naj bodo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨za⟩ vas"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "in njihovi izlivi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:56:18.838215636Z",
+  "model": "glm-5.3"
+}

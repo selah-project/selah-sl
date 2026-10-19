@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 12:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga pri 'El je moja rešitev' izpušča."
+    },
+    {
+      "kind": "crux",
+      "subject": "וזמרת",
+      "rationale": "'Pesem\/hvalnica' (iz korena zmr) proti razlagam 'zavetje\/moč' (aramejski zugr); prevodi se razhajajo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועתי \/ לישועה",
+      "rationale": "Ista beseda 'rešitev' na začetku in koncu verza — vključevanje, ki ga prevod ohranja."
+    }
+  ],
+  "translation": "Glej, El ⟨je⟩ moja rešitev; zanašal se bom in se ne bom bal, ker moja moč in moja pesem ⟨je⟩ Jah Jahve, in on mi je postal v rešitev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/12\/1-4.1792430073975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "moja rešitev"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "zanašal se bom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "se bom bal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "moja moč"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "in moja pesem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in on je postal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "v rešitev"
+    }
+  ],
+  "timestamp": "2026-10-19T17:14:33.976562313Z",
+  "model": "glm-5.3"
+}

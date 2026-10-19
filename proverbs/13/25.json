@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je življenjska sila, dih, apetit — ne 'duša' v grškem pomenu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "je do sitosti",
+      "rationale": "לשבע נפשו — dobrotnost pojedine za נפש, do-site-diha"
+    },
+    {
+      "kind": "addition",
+      "subject": "ostaja prazen",
+      "rationale": "תחסר je nedokončni glagol 'primanjkuje' — 'ostaja prazen' dopolnjuje strukturo"
+    }
+  ],
+  "translation": "Pravični je ⟨את⟩ do sitosti svoje duše, trebuh pa želja nepravičnih ostaja prazen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/25-25.1792435910541.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צַדִּ֗יק",
+      "gloss": "Pravični"
+    },
+    {
+      "surface": "אֹ֭כֵל",
+      "gloss": "je ⟨את⟩"
+    },
+    {
+      "surface": "לְשֹׂ֣בַע",
+      "gloss": "do sitosti"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "וּבֶ֖טֶן",
+      "gloss": "trebuh pa"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "želja nepravičnih"
+    },
+    {
+      "surface": "תֶּחְסָֽר",
+      "gloss": "ostaja prazen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:50.542022714Z",
+  "model": "glm-5.3"
+}

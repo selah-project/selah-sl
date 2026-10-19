@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Obreže",
+      "rationale": "יבצר pomeni 'trgatev (grozdja)' oz. 'odrezati'; KJV 'cut off' vs YLT 'gather' — izbral sem sliko trgatev\/obrezovanja duha knezov."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je veter\/dih\/duh — ena beseda, puščena po zvoku."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez kopule; slovenščina jo zahteva pri 'strašen ⟨je⟩'."
+    }
+  ],
+  "translation": "Obreže ⟨se⟩ ruah knezov, strašen ⟨je⟩ kraljem zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb78fc4a60bd8f5941b7fa786b88fc66a5436e02bd61b66edd90c1c4e0d5dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/76\/13-13.1792435092786.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "Obreže"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "knezov"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "strašen"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:12.787157921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "od",
+      "rationale": "lamed ob materiam: slovenščina potrebuje »od«, hebrejščina ima samo predlog ל"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": " seznam sinov Davidovih z zaporednimi števnikmi"
+    }
+  ],
+  "translation": "In ti so bili sinovi Davidu, ki so se mu rodili v Hevronu: prvorojenec Amnon, ⟨od⟩ Ahinoam Jizreelke; drugi Daniel, ⟨od⟩ Abigajil Karmelke.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c3795f4562fc399c747c35e08df0f25ecf74d5cc987341f4b77bad1d30c950c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/3\/1-4.1792438033770.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "so se rodili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Hevronu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorojenec"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "⟨od⟩ Ahinoam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "Jizreelka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "⟨od⟩ Abigajil"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "Karmelka"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:13.771600588Z",
+  "model": "glm-5.3"
+}

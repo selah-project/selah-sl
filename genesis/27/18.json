@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ta",
+      "rationale": "Hebrew repeats 'he said' without naming the speaker; Slovenian uses a demonstrative to avoid ambiguity"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jichaku, od Jaakova",
+      "rationale": "Isaac's blind question 'who are you, my son?' addresses Jacob directly"
+    }
+  ],
+  "translation": "In prišel je k svojemu očetu in rekel: Oče moj! In ta je rekel: Tu sem. Kdo si ti, sin moj?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/27\/17-20.1792422501006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "in prišel je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojemu očetu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Oče moj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tu sem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sin moj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:21.007765685Z",
+  "model": "glm-5.3"
+}

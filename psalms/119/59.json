@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nazaj",
+      "rationale": "ואשיבה vsebuje povratni pomen 'obrnil nazaj', ločeno v slovenščini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "premislil",
+      "rationale": "חשב dobesedno 'pretehtal, izračunal' svoje poti."
+    }
+  ],
+  "translation": "Premislil sem svoje poti in obrnil svoja stopala ⟨nazaj⟩ k tvojim pričanjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/57-60.1792435494936.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "premislil sem"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "svoje poti"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "in obrnil"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "svoja stopala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvojim pričanjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:54.937285771Z",
+  "model": "glm-5.3"
+}

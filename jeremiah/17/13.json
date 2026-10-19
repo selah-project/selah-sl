@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 17:13",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula; nominal clause 'upanje Jisraela — Jahve'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יסורי",
+      "rationale": "Konsonantna oblika יסורי ('moji odhajajoči\/odpadniki') je edinstvena; tradicionalno 'moji odpadniki'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקוה \/ מקור",
+      "rationale": "Igra med 'upanje' (מקוה) in 'vrela' (מקור) — upanje kot vodni vir."
+    }
+  ],
+  "translation": "Upanje Jisraela ⟨je⟩ Jahve: vsi, ki te zapuščajo, se bodo osramotili; odhajajoči ⟨v⟩⟨od⟩ zemlje bodo zapisani, kajti zapustili so vrela žive vode, ⟨את⟩ Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/17\/13-16.1792431399325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקוה",
+      "gloss": "upanje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "עזביך",
+      "gloss": "ki te zapuščajo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "se bodo osramotili"
+    },
+    {
+      "surface": "יסורי",
+      "gloss": "odhajajoči"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemlji"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "bodo zapisani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "zapustili so"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "vrela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:36:39.326134422Z",
+  "model": "glm-5.3"
+}

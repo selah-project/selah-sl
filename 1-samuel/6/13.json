@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew participle קצרים brez glagola 'biti'; slovenščina zahteva pomožni glagol."
+    },
+    {
+      "kind": "idiom",
+      "subject": "povzdignili so svoje oči",
+      "rationale": "hebrejska zveza נשא עינים — dobesedno 'dvigniti oči', v slovenščini razumljiva slikovna zveza."
+    }
+  ],
+  "translation": "In v Bet Šemešu so želi žetev pšenice v dolini; in povzdignili so ⟨את⟩ svoje oči in so videli ⟨את⟩ skrinjo in veselili so se ob pogledu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fa9adcabb47aa46ae65748c1e0a6e9d02cc2345ec9a1461c4de6814f204b57a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/6\/13-16.1792427569462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "In v Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Šemešu"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "so želi"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetev"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "v dolini"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "in so povzdignili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje oči"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "in so videli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrinjo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "in veselili so se"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ob pogledu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:32:49.462713711Z",
+  "model": "glm-5.3"
+}

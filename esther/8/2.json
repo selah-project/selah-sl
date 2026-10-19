@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje dodan personn {:ta}, hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In kralj je odvzel ⟨את⟩ svoj pečatni prstan, ki ga je prenesel s Hamana, in ga dal Mordejai; in Ester je postavila ⟨את⟩ Mordeja nad hišo Hamanovo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0edfa482f3bfde3e61c6d5b1db39bfe3c0a5003b70fe8b6654a0e80be976d17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/8\/1-4.1792437224063.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "in odvzel je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj pečatni prstan"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "svoj pečatni prstan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "je prenesel"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "s Hamana"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "in ga je dal"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "in postavila je"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordeja"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanovo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:44.065550078Z",
+  "model": "glm-5.3"
+}

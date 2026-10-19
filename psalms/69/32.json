@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משור",
+      "rationale": "bullock — ta beseda se pojavi le tu v Tanahu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kopiti",
+      "rationale": "מפריס dobesedno 'razcepljenkopit' (dvoje korenin), sulná preprosto 'kopiti'"
+    }
+  ],
+  "translation": "To bo Jahveju boljše kakor vol, kakor bik z rogovi in kopiti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/29-32.1792435073128.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "bo boljše"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kakor vol"
+    },
+    {
+      "surface": "פר",
+      "gloss": "kakor bik"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "z rogovi"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "in kopiti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:53.129858625Z",
+  "model": "glm-5.3"
+}

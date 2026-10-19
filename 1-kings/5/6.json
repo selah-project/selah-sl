@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "štirideset tisoč … dvanajst tisoč",
+      "rationale": "štetje Šelomove vojaške sile; števila so izrecna"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארות",
+      "rationale": "redka beseda: 'hlevi' (razporeditveni hlevi za vprežne konje) proti 'oddelki\/mere' pri nekaterih prevajalcih; 2 Krn 9,25 ima '4000'"
+    }
+  ],
+  "translation": "In bilo je Šelomu štirideset tisoč hlevov konj za njegove bojne vozove in dvanajst tisoč konjenikov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/5\/5-8.1792428815274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in bilo je"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "štirideset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "hlevov"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "konj"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "za njegove bojne vozove"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "in dvanajst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tisoč)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "konjenikov"
+    }
+  ],
+  "timestamp": "2026-10-19T16:53:35.275384172Z",
+  "model": "glm-5.3"
+}

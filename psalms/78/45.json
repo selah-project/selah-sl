@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "roj mrčesa",
+      "rationale": "ערב: mušji\/mrčesni roj (roji komarjev) proti KJV 'različne muhe', YLT 'hrošč'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "žabe",
+      "rationale": "צפרדע je v hebrejščini edninska 'skokulja iz močvirja'; slovenščina tu zahteva množino."
+    }
+  ],
+  "translation": "Poslal je mednje roj mrčesa, in ta jih je požrl, in žabe, in te so jih pokončale.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "443bf8ca71b1f028567b17303501973058ccde2ee3ae484620eee65c5da116cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/45-48.1792435126664.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "poslal je"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mednje"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "roj mrčesa"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "in požrl jih je"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "in žabe"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "in pokončale so jih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:46.665212312Z",
+  "model": "glm-5.3"
+}

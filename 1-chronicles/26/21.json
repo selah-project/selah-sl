@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 26:21",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so bili⟩",
+      "rationale": "Hebrejščina ima členek in brez glagola; slovenščina potrebuje opisno glagolsko zvezo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעדן … ללעדן … ללעדן",
+      "rationale": "trojno ponavljanje imena Laadan v enem verzu — genealoški niz, v slovenščini delno omehčan"
+    }
+  ],
+  "translation": "Sinovi Laadana, sinovi Geršonci ⟨so⟩ ⟨bili⟩ za Laadana, poglavarji očetovskih družin za Laadana Geršonca: Jehieli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/26\/21-24.1792438332596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Laadana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Geršonci"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "za Laadana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "poglavarji"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "očetovskih družin"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "za Laadana"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Geršonca"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "Jehieli"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:12.598060157Z",
+  "model": "glm-5.3"
+}

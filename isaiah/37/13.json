@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "do Hizkijahu (govor Sanheribovih poslancev)",
+      "rationale": "Ritorično vprašanje, namenjeno Judi: kje so zdaj ti kralji — njihovi bogovi niso rešili njih."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Hena in Ivah kot mesti",
+      "rationale": "Po zgledu prevodov sta samostojni mesti; morda sta tudi prilastka k Sefarvajimu."
+    }
+  ],
+  "translation": "Kje je kralj Hamata, in kje kralj Arpada, in kje kralj mesta Sefarvajim, Hena in Ivah?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "72c39aee1522fcaa61c999f183d40a5b772baffb814418864d9d3e06af17099c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/37\/13-16.1792430516771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "kje"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "in kralj"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpada"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "in kralj"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "in Ivah"
+    }
+  ],
+  "timestamp": "2026-10-19T17:21:56.772113359Z",
+  "model": "glm-5.3"
+}

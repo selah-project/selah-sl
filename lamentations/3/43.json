@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Zaimenski povratni glagol, ki ga hebrejščina ne izrazi; ali pa je objekt ‘nas’ — ‘zavil si nas z gnevom’."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "Dobesedno ‘nos\/nozdrvi’; idiom za gnev, kot bruhajočo sapo."
+    },
+    {
+      "kind": "crux",
+      "subject": "סככה באף",
+      "rationale": "‘zakril si se z gnevom’ (JPS\/BSB) ali ‘zakril si nas z gnevom’ (Geneva\/KJV brez zaimka)."
+    }
+  ],
+  "translation": "Zavil si ⟨se⟩ v gnev in nas preganjal; pobil si, nisi se usmilil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/41-44.1792436980198.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "zavil si"
+    },
+    {
+      "surface": "באף",
+      "gloss": "v gnev"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "in nas preganjal"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "pobil si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "usmilil si se"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:40.199552806Z",
+  "model": "glm-5.3"
+}

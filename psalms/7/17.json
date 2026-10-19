@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hudo delo",
+      "rationale": "עמל je naporno delo, trud, tudi skrb; 'hudo delo' ohranja težo brez moralnega poimenovanja 'poberjenost'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "glavo\/teme",
+      "rationale": "Hebrejščina stopnjuje od ראש (glava) k קדקד (teme, del, ki se najbolj sključi) — ponovitev iste sodbe na isti telesi."
+    }
+  ],
+  "translation": "Njegovo hudo delo se povrne na njegovo glavo, in na njegov teme njegovo nasilje pride dol.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/17-18.1792434506072.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "se povrne"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "njegovo hudo delo"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na njegovo glavo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in na"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "njegov teme"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "njegovo nasilje"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "pride dol"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:26.072999807Z",
+  "model": "glm-5.3"
+}

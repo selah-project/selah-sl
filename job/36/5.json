@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nikogar",
+      "rationale": "ימאס je prehodnik brez predmeta; slovenščina potrebuje objekt"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima kopule"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כביר … כביר",
+      "rationale": "ponovitev »mogočen\/mogočen« v istem verzu"
+    },
+    {
+      "kind": "crux",
+      "subject": "כח לב",
+      "rationale": "»moč srca«: različice 'moč in razum' (KJV) proti dobesedni 'moč srca' (YLT)"
+    }
+  ],
+  "translation": "Glej, El je mogočen in ne zaničuje ⟨nikogar⟩; mogočen ⟨je⟩ v moči srca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/5-8.1792436695864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mogočen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "zaničuje"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mogočen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "v moči"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:55.865571486Z",
+  "model": "glm-5.3"
+}

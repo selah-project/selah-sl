@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se trdno odločila",
+      "rationale": "מתאמצת dobesedno »se utrjuje\/krepi« — fizična ali miselna odločnost."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenski pomožni glagol, ki ga hebrejščina nima."
+    }
+  ],
+  "translation": "In videla je, da se ⟨je⟩ trdno odločila, da gre z ⟨את⟩ njo, in je prenehala govoriti k njej.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/1\/17-20.1792436952862.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "In je videla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "se trdno odločila"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "z ⟨את⟩ njo",
+      "marks": "z njo"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "in je prenehala"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k njej"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:12.863864342Z",
+  "model": "glm-5.3"
+}

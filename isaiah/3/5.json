@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "pritiskalo bo",
+      "rationale": "נגש pomeni tudi 'pobirati davek \/ izsiljevati'; alternativa: 'izsiljevalo bo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "predrznil si bo",
+      "rationale": "ירהב je dejanjski glagol 'ravnanje s predrznostjo', ne prosti 'vedenje'."
+    }
+  ],
+  "translation": "In pritiskalo bo ljudstvo, človek na človeka in človek na svojega bližnjega; predrznil si bo mladenič proti starcu in zaničevani človek proti uglednemu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/3\/5-8.1792429937220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "in pritiskalo bo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "na človeka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in človek"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "na svojega bližnjega"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "predrznil si bo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladenič"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "proti starcu"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "in zaničevani človek"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "proti uglednemu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:12:17.221609411Z",
+  "model": "glm-5.3"
+}

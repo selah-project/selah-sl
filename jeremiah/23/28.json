@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 23:28",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו",
+      "rationale": "H854 predlog 'z njim\/pri njem' ali H853 s pripono — ⟨את⟩ ohranjen po pravilu korpusa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלום\/דברי",
+      "rationale": "Vzporedni veri: sanja–sanja proti beseda–beseda; podvojenost izgubi del ritma."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לתבן את הבר",
+      "rationale": "Dvosmerno: 'kaj je slama žitu' (primerjava) ali 'kaj ima slama pri žitu' (vprašanje po sorodnosti)."
+    }
+  ],
+  "translation": "Prerok, pri katerem je ⟨את⟩ sanja, naj pripoveduje sanjo, in pri katerem je ⟨את⟩ moja beseda, naj govori mojo besedo resnico. Kaj je slama ⟨את⟩ žitu? govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b0d38816f73541ba2fe3edca95d34aee2385b7db7e6dfef41d1856503e9ce78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/23\/25-28.1792431476691.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "Prerok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pri katerem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sanja"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sanja"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "naj pripoveduje"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sanjo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in pri katerem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moja beseda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "moja beseda"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "naj govori"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mojo besedo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "resnico"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "slama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žito"
+    },
+    {
+      "surface": "הבר",
+      "gloss": "žito"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:56.692874759Z",
+  "model": "glm-5.3"
+}

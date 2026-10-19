@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je ⟨tvoj⟩ \/ ⟨tvoja⟩",
+      "rationale": "Hebrejščina pripono -ך nosi v sami obliki שמרך \/ צלך, slovenščina potrebuje samostalnik s svojilnim pridevnikom"
+    },
+    {
+      "kind": "you",
+      "subject": "romanje \/ molilec",
+      "rationale": "Psalm neposredno nagovarja potnika z 'ti'"
+    }
+  ],
+  "translation": "Jahve je ⟨tvoj⟩ varuh, Jahve je ⟨tvoja⟩ senca na tvoji desnici.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/121\/5-8.1792435554077.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "varuh tvoj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "senca tvoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roki"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoji desnici"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:54.078458790Z",
+  "model": "glm-5.3"
+}

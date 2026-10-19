@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sklenil",
+      "rationale": "hebrejščina dobesedno 'kazal' (ברית) — zaveza se 'kazuje', dobesedna podoba je izgubljena v slovenščini"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשכם",
+      "rationale": "Šekem: kraj naslica v 24,32 in mesto te zaveze; ime se ne prevaja"
+    }
+  ],
+  "translation": "Jozue je sklenil zavezo za ljudstvo ⟨na⟩ tisti dan in predpisal mu je ⟨חק⟩ odlok in pravo v Šekemu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0ea6fac4e53442ab14b92e2bd76b615d1d1ef32e85e05d23b0a442b331fef423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/25-28.1792426876383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "sklenil je"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za ljudstvo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dnevu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tistem"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "in postavil je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "חק",
+      "gloss": "odlok"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "in pravo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "v Šekemu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:21:16.384664784Z",
+  "model": "glm-5.3"
+}

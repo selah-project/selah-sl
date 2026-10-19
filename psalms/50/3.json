@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואל יחרש",
+      "rationale": "'in ne molči' (jussiv) ali 'in ne bo molčal' — večina bere kot zanikanje molka ob prihodu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "požira",
+      "rationale": "תאכל je dobesedno 'je', ogenj 'je' zemljo — glagol hranjenja prenesen na sodbo"
+    }
+  ],
+  "translation": "Pride naš Elohim in ne bo molčal: ogenj pred njim požira, in okoli njega je zelo razbesnel vihar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/1-4.1792434907257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Pride"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naš Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "bo molčal"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "požira"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "in okoli njega"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "je razbesnel vihar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:07.259484079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "slava",
+      "rationale": "כבוד je 'teža, sijaj'; prevodi se razhajajo: 'slava' (KJV), 'jezik' (Geneva), 'srce' (BSB) — torej človekovo najboljše, ne zgolj abstraktna slava."
+    },
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "Slovenščina za glagol 'zahvaljevati se' potrebuje predlog, hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמר\/דמם",
+      "rationale": "Nasprotje igranja na strunah in umikanja v tišino; verižna zveza s Psalmom 30 o joku zvečer in petjem zjutraj."
+    }
+  ],
+  "translation": "Da bi te slava peljala in ne umolknila, Jahve, Elohim moj, zahvaljeval te bom ⟨za⟩ večno vedno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/30\/13-13.1792434678916.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לְמַ֤עַן",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "יְזַמֶּרְךָ֣",
+      "gloss": "te peljala"
+    },
+    {
+      "surface": "כָ֭בוֹד",
+      "gloss": "slava"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יִדֹּ֑ם",
+      "gloss": "umolknila"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אֱ֝לֹהַ֗י",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "večno vedno"
+    },
+    {
+      "surface": "אוֹדֶֽךָּ",
+      "gloss": "zahvaljeval te bom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:18.917157422Z",
+  "model": "glm-5.3"
+}

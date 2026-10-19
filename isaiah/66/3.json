@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 66:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מברך און",
+      "rationale": "»blagoslja און«: און pomeni »ničevost, nepravičnost, malik« — različice: blagoslja malik \/ nepravičnost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je »dih, življenjska sila«, ne ločena »duša«"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זובח\/שוחט",
+      "rationale": "dvojica zakol\/jadikanje se ponavlja v štirih vzporednih polverzih, polihlost v slovenščini izgubi"
+    }
+  ],
+  "translation": "Kdor zaklje vola, kakor da ubije človeka; kdor žrtvuje jagnje, kakor da prelomi psu vrat; kdor prinaša daritev, kakor da prinaša svinjsko kri; kdor spominja kadila, kakor da blagoslja gnusobo. Tudi oni so izbrali svoje poti in v svojih gnusobah uživa njihova nefesh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f51d46dee96b96baedea82610c960768eb897b89745f4b40f81be6d5c860d800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/66\/1-4.1792431052641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוחט",
+      "gloss": "kdor zaklje"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ubija"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "זובח",
+      "gloss": "kdor žrtvuje"
+    },
+    {
+      "surface": "השה",
+      "gloss": "jagnje"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "prelomi vrat"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "psu"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "kdor prinaša"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "svinjsko"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "kdor spominja"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "kadila"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "blagoslovlja"
+    },
+    {
+      "surface": "און",
+      "gloss": "gnusobo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Tudi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "so izbrali"
+    },
+    {
+      "surface": "בדרכיהם",
+      "gloss": "svoje poti"
+    },
+    {
+      "surface": "ובשקוציהם",
+      "gloss": "v svojih gnusobah"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihova nefesh"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "uživa"
+    }
+  ],
+  "timestamp": "2026-10-19T17:30:52.642496886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 18:17",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bil⟩ \/ ⟨so bili⟩",
+      "rationale": "Hebrejščina nima glagola biti v tem stavku; slovenščina ga zahteva."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kereitijci in Peleitijci",
+      "rationale": "הכרתי והפלתי: telesni stražarji\/tekači-poslanci (kolektivno) ali imeni ljudstev; ponekod zasledena besedna igra s כרת (odsekati) in פלט (rešiti)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ob roki kralja",
+      "rationale": "ליד המלך dobesedno »pri\/k roki kralja« — idiom za službo ob vladarju."
+    }
+  ],
+  "translation": "in Benajahu, sin Jehojade, ⟨je bil⟩ nad Kereitijci in Peleitijci; in Davidovi sinovi, prvi, ⟨so bili⟩ ob roki kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e521c17634f9877c4c711908cd9b1d5b5961892825b05424f8a14564db15574f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/18\/17-17.1792438262460.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "in Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojade"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "Kereitijci"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "in Peleitijci"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ob roki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:02.463120996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 14:14",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישבו\/וישבו",
+      "rationale": "dve enaki pisavi, dva različna glagola: šavah 'odvesti v ujetništvo' in šuv 'vrniti se' — igra je v slovenščini izgubljena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "v obilju",
+      "rationale": "לרב dobesedno 'k obilnosti', slovenski prislovni izraz"
+    }
+  ],
+  "translation": "In tudi šotore živine so udarili, in odvedli so v ujetništvo drobnico v obilju in kamele, in vrnili so se v Jerušalajim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3f1afd4a54ecd5058cc6dd42e9a8d9be0245ebea3017a69f4d62f31392134224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/14\/13-14.1792438628204.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "šotore"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "živine"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "so udarili"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in odvedli so v ujetništvo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "drobnico"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "v obilju"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "in kamele"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in vrnili so se"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:08.205240143Z",
+  "model": "glm-5.3"
+}

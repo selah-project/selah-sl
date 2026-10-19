@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je živo bitje, grlo\/dih\/življenjska moč, ne ločena 'duša'"
+    },
+    {
+      "kind": "elision",
+      "subject": "תלין",
+      "gloss_note": "",
+      "rationale": "לין dobesedno 'preneti\/prespati', tu 'bivati stalno'"
+    }
+  ],
+  "translation": "Njegova duša bo prebivala v dobrem in njegovo seme bo podedovalo deželo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/13-16.1792434631584.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "njegova duša"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "v dobrem"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bo prebivala"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "in njegovo seme"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bo podedovalo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:31.585761021Z",
+  "model": "glm-5.3"
+}

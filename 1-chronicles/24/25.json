@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima glagola; seznam brez glagola, dodana ⟨je⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik levitov",
+      "rationale": "seznam imen po družinah za duhovniško razdelitev"
+    }
+  ],
+  "translation": "Brat Mihaja ⟨je⟩ Jišija; sinovom Jišije ⟨pripada⟩ Zekarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a15782b328511ddba91fb40b16770ba92dacd0ecbf9702de576347a8e31ce138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/24\/25-28.1792438337488.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "brat"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mihaja"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Jišija"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Jišije"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:17.489308793Z",
+  "model": "glm-5.3"
+}

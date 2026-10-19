@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zborovodja",
+      "rationale": "למנצח je naslov funkcije (tisti, ki je odličen\/predvaja), prevajalska izbira 'zborovodja'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "naslov",
+      "rationale": "Tekstovna kritična oznaka: mizmor + pesem, dvodelen napis."
+    }
+  ],
+  "translation": "Zborovodji, Davidovu, mizmor, pesem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/1-4.1792435009007.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovodji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:49.008539896Z",
+  "model": "glm-5.3"
+}

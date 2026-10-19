@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד ... כבד",
+      "rationale": "isti koren na začetku in v sredini: 'težak ... težja' ponavlja težo kot strukturo verza"
+    },
+    {
+      "kind": "measurement",
+      "subject": "primerjava teže",
+      "rationale": "verz tehta in primerjuje: kamen, pesek, jeza neumnega — tehtanje kot retorično sredstvo"
+    }
+  ],
+  "translation": "Težak je kamen in breme je pesek, toda jeza neumnega je težja od njiju obeh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/1-4.1792436142321.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "težak"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "in breme"
+    },
+    {
+      "surface": "החול",
+      "gloss": "je pesek"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "toda jeza"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "neumnega"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "težja"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "od njiju obeh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:42.324013760Z",
+  "model": "glm-5.3"
+}

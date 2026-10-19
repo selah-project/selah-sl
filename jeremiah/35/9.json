@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ולבלתי",
+      "rationale": "infinitival negation 'da ne bi' skrčeno v 'ne'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "slovenščina potrebuje predlog pri namenu infinitiva"
+    }
+  ],
+  "translation": "in ne graditi hiš ⟨za⟩ naše prebivanje; in vinograda, in polja, in semena nam ne bo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ecd10d38aec082fd033188a4974036e11d6bbd49af0c57591fe2abeb9bbfb3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/35\/9-12.1792431652832.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "graditi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hiš"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "za naše prebivanje"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "in vinograd"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "in polje"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "in seme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:52.833493891Z",
+  "model": "glm-5.3"
+}

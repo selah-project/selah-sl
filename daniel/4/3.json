@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 4:3",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ukaz",
+      "rationale": "טעם dobesedno 'okus, okus', preneseno 'odločitev, odlok' — kraljevi ukaz po okusu kralja."
+    },
+    {
+      "kind": "mystery",
+      "subject": "razlago sanj",
+      "rationale": "Kralj zahteva razlago, katere modreci ne poznajo — napetost skritega znanja."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil dan",
+      "rationale": "Aramejski pasiv שים potrebuje v slovenščini opisno pasivno konstrukcijo."
+    }
+  ],
+  "translation": "In od mene je bil dan ukaz, da pripeljejo predme vse modrece Babela, ki mi bodo razodeli razlago sanj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/4\/1-4.1792437430845.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "In od mene"
+    },
+    {
+      "surface": "שים",
+      "gloss": "je bil dan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ukaz"
+    },
+    {
+      "surface": "להנעלה",
+      "gloss": "da pripeljejo"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "predme"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "modrece"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "די",
+      "gloss": "da"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "razlago"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "sanj"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "mi bodo razodeli"
+    }
+  ],
+  "timestamp": "2026-10-19T19:17:10.855582129Z",
+  "model": "glm-5.3"
+}

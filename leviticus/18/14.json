@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Nominalni stavek brez glagola v hebrejščini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teta",
+      "rationale": "דודה je swo-specifično 'očetova\/snová sestra'; slovenščina nima ločene besede"
+    }
+  ],
+  "translation": "Goloto brata svojega očeta ne razgaljaj; k njegovi ženi ne prilivaj — teta ⟨je⟩ ona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8f38b99a46ac65889ec44f1beb82ea528f0c83eb5563ddef35b2faa7758fed21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/18\/13-16.1792424324804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "golota"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "razgaljaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "njegovi ženi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "prilivaj"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "teta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:44.805411209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima (nominalna stavčna zveza)."
+    },
+    {
+      "kind": "crux",
+      "subject": "določeni čas",
+      "rationale": "מועע: 'določen čas\/praznik' — drugi prevajajo 'praznik šotorov' (KJV 'solemn feast') in berejo napoved ponovnega bivanja v šotorih kot sodbo ali kot praznik."
+    },
+    {
+      "kind": "alternative",
+      "subject": "še enkrat te naselim v šotorih",
+      "rationale": "Hifil od ישב: 'naredim, da sedeš\/bivaš' — lahko tudi grožnja (vračanje v izgnanstvo v šotorih) ali obljuba (kot v dneh puščavskega bivanja)."
+    }
+  ],
+  "translation": "Jaz pa sem Jahve, tvoj Elohim, od dežele Micrajim; še enkrat te naselim v šotorih, kakor v dneh določenega časa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/12\/9-12.1792433875456.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "jaz pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "od dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še enkrat"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "te naselim"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "v šotorih"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kakor v dneh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "določenega časa"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:55.459268174Z",
+  "model": "glm-5.3"
+}

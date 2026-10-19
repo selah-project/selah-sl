@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 15:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga v drugem stavku nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקדשו",
+      "rationale": "'v svojih svetih' (sveta bitja, angeli) ali 'v svoji svetosti' — večina bere sveta bitja"
+    }
+  ],
+  "translation": "Glej, v svojih svetih ⟨ne⟩ zaupa, in nebesa ⟨so⟩ ⟨ne⟩ čista v njegovih očeh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/13-16.1792436368899.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "v svojih svetih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "zaupa"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "in nebesa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "čista"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v njegovih očeh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:28.900156688Z",
+  "model": "glm-5.3"
+}

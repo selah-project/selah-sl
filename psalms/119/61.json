@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ovile",
+      "rationale": "עודני: 'ovile\/obdajile' (ASV\/JPS) proti 'oropale' (KJV, iz aramejskega pomena); koren pomeni ponoviti\/pričati, tu 'zaviti okrog'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vrvi — חבלי",
+      "rationale": "חבל pomeni vrv in tudi bolečino\/trpljenje; dvojni pomen se v slovenščini izgubi."
+    }
+  ],
+  "translation": "Vrvi hudobnih so me ovile, Tvoje Tore nisem pozabil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/61-64.1792435504819.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "vrvi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "so me ovile"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tvoje Tore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "pozabil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:04.820386363Z",
+  "model": "glm-5.3"
+}

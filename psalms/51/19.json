@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez kopule; imenovalni stavek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah potrta",
+      "rationale": "ruah = dih\/duh; slovenščinski vrstni red pridevnika obrne hebrejsko zgradbo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nišbarah \/ nišbar",
+      "rationale": "ponovitev korena šbr — potrta ruah, potrto srce — veriženje, v slovenščini delno ohranjeno"
+    }
+  ],
+  "translation": "Žrtve ⟨za⟩ Elohim ⟨so⟩ ruah potrta, srce potrto in zlomljeno, Elohim, ne boš zaničeval.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/51\/17-20.1792434865838.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨za⟩ Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "potrta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "potrto"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "in zlomljeno"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "boš zaničeval"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:25.839754919Z",
+  "model": "glm-5.3"
+}

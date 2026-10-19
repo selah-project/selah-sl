@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכסלך",
+      "rationale": "Dobesedno 'v tvojem ledju' ( sedež moči); prevodi: 'tvoje zaupanje' (KJV) ali 'ob tvoji strani' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "da ne bo ujeta",
+      "rationale": "מלכד je samostalnik 'zanka\/snunja', ne glagol; izpričan kot 'pred zanko'."
+    }
+  ],
+  "translation": "kajti Jahve bo tvoje zaupanje ⟨v tvojem ledju⟩ in bo varoval tvojo nogo, da ne bo ujeta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/3\/25-28.1792435843093.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "zaupanje ⟨v tvojem ledju⟩"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "in bo varoval"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tvojo nogo"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "da ne bo ujeta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:43.094751401Z",
+  "model": "glm-5.3"
+}

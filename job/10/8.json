@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨in⟩",
+      "rationale": "slovenščina potrebuje veznik pred zadnjim glagolom, hebrejščina ga nosi v predponi ו"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצבוני",
+      "rationale": "glagol pomeni 'oblikovati, izdelati' pa tudi 'mučiti' — YLT 'so si pri meni prizadevale', večina 'oblikovale'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותבלעני",
+      "rationale": "dobesedno 'in me pogoltnila'; KJV 'me uničuješ' izgubi podobo požiranja"
+    }
+  ],
+  "translation": "Tvoji roki sta me oblikovali in me naredili povsod naokrog, ⟨in⟩ me pogoltnila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/10\/5-8.1792436302178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "tvoji roki"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "sta me oblikovali"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "in me naredili"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "povsod"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokrog"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "in me pogoltnila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:22.179762672Z",
+  "model": "glm-5.3"
+}

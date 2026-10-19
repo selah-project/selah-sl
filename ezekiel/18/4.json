@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bliže 'grlu, dihu, življenjski sili' — to je oseba sama, ne ločena 'duša'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי הנה",
+      "rationale": "dvojni odmev 'meni so' — okvir stiha, ki podira rek iz v. 2"
+    }
+  ],
+  "translation": "Glej, vse duše so moje; kakor duša očeta, tako tudi duša sina — moje so; duša, ki greši, ta bo umrla.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/18\/1-4.1792432284087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "duše"
+    },
+    {
+      "surface": "לי",
+      "gloss": "so moje"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨so⟩"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "kakor duša"
+    },
+    {
+      "surface": "האב",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "tako tudi duša"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moje"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨so⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ki greši"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "bo umrla"
+    }
+  ],
+  "timestamp": "2026-10-19T17:51:24.088660777Z",
+  "model": "glm-5.3"
+}

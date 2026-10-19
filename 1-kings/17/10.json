@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 17:10",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Hebrejščina izpušča glagol biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "addition",
+      "subject": "prosim",
+      "rationale": "Delček נא je mehčalec zapovedi; ⟨prosim⟩ poenostavi 'prigovarjam te'."
+    }
+  ],
+  "translation": "In vstal je in šel v Sarefto ter stopil k vhodu ⟨v⟩ mesto, in glej, tam ⟨je bila⟩ žena vdova, ki je nabirala drv; in zaklical je ⟨k⟩ njej ter rekel: Uzemi mi ⟨prosim⟩ malo vode v posodi, da popijem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/17\/9-12.1792429158934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "In vstal je"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "in šel"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "v Sarefto"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ter stopil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vhodu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "וינה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdova"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "ki je nabirala"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "drv"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "in zaklical je"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k njej"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ter rekel"
+    },
+    {
+      "surface": "קחי",
+      "gloss": "Uzemi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "v posodi"
+    },
+    {
+      "surface": "ואשתה",
+      "gloss": "da popijem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:18.935357269Z",
+  "model": "glm-5.3"
+}

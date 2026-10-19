@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zajezena",
+      "rationale": "ימוט je dobesedno 'omahniti, zaiti', o majavnem gibanju"
+    },
+    {
+      "kind": "crux",
+      "subject": "vzponov",
+      "rationale": "המעלות: 'vzponov' (romanje navzgor) ali 'stopnic' — naslov zbirke psalmov"
+    }
+  ],
+  "translation": "Pesem vzponov. Tisti, ki zaupajo v Jahveja, so kakor gora Cion: ne bo zajezena, na veke prebiva.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/125\/1-4.1792435558895.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pesem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vzponov"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ki zaupajo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveja"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kakor gora"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bo zajezena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "prebiva"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:58.896171142Z",
+  "model": "glm-5.3"
+}

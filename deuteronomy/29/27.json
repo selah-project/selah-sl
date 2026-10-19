@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 29:27",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף \/ חמה \/ קצף",
+      "rationale": "tri besede za jezo: nos (goreča jeza), vročina, odkrušek-razjarjenost; slovenščina jih razloči z eno besedo vsako."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כיום הזה",
+      "rationale": "'kot na ta dan' — idiom 'kot se zgleduje ta dan', ne primerjava dni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדמה",
+      "rationale": "'rdëna prst' — rodovitna obdelana zemlja, druga beseda kot ארץ v istem verzu."
+    }
+  ],
+  "translation": "In Jahve jih je iztrgal iz njihove zemlje v jezi in v ogorčenosti in v velikem besu, in vrgel jih je v deželo drugo, kakor ⟨je⟩ na ta dan.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/29\/25-28.1792426290292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתשם",
+      "gloss": "in iztrgal jih je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iz"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "njihove zemlje"
+    },
+    {
+      "surface": "באף",
+      "gloss": "v jezi"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "in v ogorčenosti"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "in v besu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikem"
+    },
+    {
+      "surface": "וישלכם",
+      "gloss": "in vrgel jih je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "drugo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kakor na dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T16:11:30.293166033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨da postanem⟩",
+      "rationale": "hebrejščina ima samo 'ne daj me [kot] sramoto nespametnega'; dodan glagol za slovensko slovnico"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor govorca k Bogu (prošnja)"
+    }
+  ],
+  "translation": "Iz vseh mojih uporov me iztrgaj, sramote nespametnega ne daj ⟨da postanem⟩ moja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/9-12.1792434794706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "iz vseh"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mojih uporov"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "me iztrgaj"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "sramote"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nespametnega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "me daj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:14.707017832Z",
+  "model": "glm-5.3"
+}

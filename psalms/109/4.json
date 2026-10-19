@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jaz pa molitev",
+      "rationale": "Elliptično ואני תפלה: 'jaz sem molitev' \/ 'jaz pa molim' \/ 'jaz pa sem v molitvi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "obreknili",
+      "rationale": "ישטנוני iz korena שטן — napadati z obtožbami, isti koren kot satan"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "Hebrejščina izpušča glagol biti"
+    }
+  ],
+  "translation": "Namesto moje ljubezni so me obreknili, jaz pa ⟨sem⟩ molitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/1-4.1792435461156.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Namesto"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "moje ljubezni"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "so me obreknili"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jaz pa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:21.158707686Z",
+  "model": "glm-5.3"
+}

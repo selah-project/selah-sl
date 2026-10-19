@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 16:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nekdo",
+      "rationale": "hebrejščina brez osebka — ויוכח je optativ, KJV 'O that one might plead'"
+    },
+    {
+      "kind": "crux",
+      "subject": "zagovarjal",
+      "rationale": "יוכח: 'zavzemati se pravico za človeka' (KJV) ali 'prepirati se z Bogom' (JPS) — Job 9,33 želi posrednika"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobov krik do Eloaha",
+      "rationale": "verz je molitev\/predstavitev pred Bogom, ne naslavljanje bralca"
+    }
+  ],
+  "translation": "Oh, da bi ⟨nekdo⟩ zagovarjal človeka z Eloahom, in sin človeški za svojega prijatelja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e65b250617846323796a3211c8efede72f9618b05f9969b0d17a71fb713c7937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/16\/21-22.1792436426841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוכח",
+      "gloss": "da bi zagovarjal"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahom"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "in sin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeški"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "za svojega prijatelja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:26.842431720Z",
+  "model": "glm-5.3"
+}

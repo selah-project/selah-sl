@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "moj\/svoje",
+      "rationale": "Slovenščina zahteva svojilni zaimek; hebrejščina ga v דברי in אזנק nosi samo v končnici."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the son",
+      "rationale": "Neposreden nagovor s ponavljajočim se vzorcem »sin moj« iz Preg 1–7, ki bralca pritegne k poslušanju."
+    }
+  ],
+  "translation": "Sin moj, k mojim besedam prisluhni, svoje uho nagni k mojim rečem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "615fa1faf66dfb13f10f3a5a3dc520695dbff4e5dfb478720bf3d33469782e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/4\/20-20.1792439055877.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sin moj"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "k mojim besedam"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "prisluhni"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "k mojim rečem"
+    },
+    {
+      "surface": "הט",
+      "gloss": "nagni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "svoje uho"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:16.007419119Z",
+  "model": "glm-5.3"
+}

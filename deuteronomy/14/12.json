@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפרס",
+      "rationale": "peres: 'razklani krempljeni orel' (od פרס, razparati) — prevodi se razhajajo: goshawk, ossifrage, bradati orel."
+    },
+    {
+      "kind": "crux",
+      "subject": "העזניה",
+      "rationale": "aznijja: verjetno morski orel (od עז, moč), prevodi: osprey, ribji orel."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje kopulo; hebrejščina jo izpušča."
+    }
+  ],
+  "translation": "To pa ⟨je⟩ tisto, česar ne smete jesti ⟨od njih⟩: orel, krokarjev orel ⟨ – peres⟩ in morski orel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "71a9393218d0a9762b8f9e7b9dd53a66a8e8313c88195877375dc55581bda8c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/14\/10-12.1792433315450.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "In to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smete jesti"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "orel"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "krokarjev orel – peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "morski orel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:35.452124691Z",
+  "model": "glm-5.3"
+}

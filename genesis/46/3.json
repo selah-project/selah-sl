@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "smerilni končnici -ה",
+      "rationale": "Hebrejščina doda končnico ה imenom (מצרימה) za smer »tja v«; slovenščina to izrazi s predlogom, končnice ni mogoče prenesti."
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Slovenščina zahteva »sem«; hebrejščina samo postavi anoji pred ime."
+    }
+  ],
+  "translation": "In rekel: Anoji ⟨sem⟩ El, Elohim tvojega očeta. Ne boj se iti dol v Micrajim, kajti za velik narod te bom postavil tam.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "02983721c50278084a40282e6836984b4f4e5716c3681489ef2d9de1cb374656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/46\/1-4.1792422982784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anoji"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvojega očeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "iti dol"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "v Micrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "te bom postavil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-10-19T15:16:22.785488967Z",
+  "model": "glm-5.3"
+}

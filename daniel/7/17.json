@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Aramaic lacks a copula between 'four' and 'four kings'; Slovenian requires it."
+    },
+    {
+      "kind": "measurement",
+      "subject": "four kings",
+      "rationale": "The verse counts the beasts as exactly four kings rising from the earth."
+    }
+  ],
+  "translation": "Te velike zveri, ki so štiri, ⟨so⟩ štirje kralji, ki bodo vstali iz zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "57f7ba244d0a93aba922325ef013d1568b5b79c9f932a01d7edd7c85c9cbed38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/7\/17-20.1792437540591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "Te"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "zveri"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "velike"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "so ⟨so⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štiri"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "štirje"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "bodo vstali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:00.592537109Z",
+  "model": "glm-5.3"
+}

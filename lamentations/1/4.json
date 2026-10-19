@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 1:4",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩ ⟨k⟩ ⟨ima⟩",
+      "rationale": "slovenščina zahteva glagolske in predloške opore, ki jih hebrejščina pusti izražene s samo konstrukcijo מר לה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "slovesnim zborom",
+      "rationale": "מועד je 'določeni čas\/dogovorjeno slovesnost'; množinska abstraktna oblika pomeni praznične shode"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מר",
+      "rationale": "kratka tehta beseda 'grenko' zaključi verz; morda odmeva na ime Mara (Rut 1,20), v slovenščini se črkovna igra izgubi"
+    }
+  ],
+  "translation": "Poti Ciona žalujejo, ker ne prihajajo ⟨k⟩ slovesnim zborom; vsa njena vrata ⟨so⟩ opustela, njeni duhovniki vzdihujejo, njene device so strté, ona pa ⟨ima⟩ grenkobo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/1\/1-4.1792436978091.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "poti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    },
+    {
+      "surface": "אבלות",
+      "gloss": "žalujejo"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ker ne prihajajo"
+    },
+    {
+      "surface": "באי",
+      "gloss": "prihajajoči"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "slovesnim zborom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "njenih vrat \/ njeni vrata ⟨so⟩"
+    },
+    {
+      "surface": "שוממין",
+      "gloss": "opustela"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "njeni duhovniki"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "vzdihujejo"
+    },
+    {
+      "surface": "בתולתיה",
+      "gloss": "njene device"
+    },
+    {
+      "surface": "נוגות",
+      "gloss": "so strté"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ona pa"
+    },
+    {
+      "surface": "מר",
+      "gloss": "grenkobo ⟨ima⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨njo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:38.093263552Z",
+  "model": "glm-5.3"
+}

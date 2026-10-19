@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga vrednoslovnega nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפיך … ומפי … ומפי",
+      "rationale": "trikratna ponovitev »iz ust« gradi naraščajoč rodovnik (ti → zarod → zarod zaroda), retorična stopnica"
+    },
+    {
+      "kind": "crux",
+      "subject": "אותם",
+      "rationale": "אותם tukaj pomeni »z njimi« (zaveza z njimi), ne le označevalnik predmeta"
+    }
+  ],
+  "translation": "In jaz — to je moja zaveza z ⟨את⟩njimi, govori Jahve: moja ruah, ki je nad teboj, in moje besede, ki sem jih postavil v tvoja usta, se ne bodo umaknile iz tvojih ust in iz ust tvojega zaroda in iz ust zaroda tvojega zaroda, govori Jahve, od zdaj in do vekomaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f677311097f87eedf9854bb462ec43ea9db40d95103c847f3231414cf8965d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/21-21.1792430858438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moja zaveza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njimi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "je nad teboj"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "in moje besede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "sem postavil"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "v tvoja usta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "bodo umaknjile"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "iz tvojih ust"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "in iz ust"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvojega zaroda"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "in iz ust"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zaroda"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvojega zaroda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od zdaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:38.439387122Z",
+  "model": "glm-5.3"
+}

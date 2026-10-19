@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "hebrejščina nominalen stavek brez glagola, slovenščina dodaja ⟨naj bo⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimu",
+      "rationale": "neposreden nagovor Boga — vabilo k vzvišenosti"
+    }
+  ],
+  "translation": "Vzviši se nad nebesi, Elohim, in nad vso zemljo ⟨naj bo⟩ tvoja slava.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/57\/9-12.1792434925369.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Vzviši se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tvoja slava"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:25.372389742Z",
+  "model": "glm-5.3"
+}

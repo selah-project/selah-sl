@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "jussiv: želja oz. blagoslov, hebrejščina ga izraža z obliko glagola"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tisočkrat",
+      "rationale": "množenje števila ljudstva kot blagoslov"
+    }
+  ],
+  "translation": "Jahve, Elohim vaših očetov, naj doda vam kakor vas je tisočkrat, in blagoslovi ⟨את⟩ vas, kakor vam je govoril!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/1\/9-12.1792425622859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "vaših očetov"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "naj doda"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kakor vas (je)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krat"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "in blagoslovi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:22.860452843Z",
+  "model": "glm-5.3"
+}

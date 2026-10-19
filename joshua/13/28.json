@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima kopule"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvorišča",
+      "rationale": "חצרים je obzidan prostor\/zaselok, ne vasi v sodobnem pomenu"
+    }
+  ],
+  "translation": "To je dediščina sinov Gadovih po njihovih družinah: mesta in njihova dvorišča.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "aa81e4bc1f6ed07e7f0f47dbaea13e1af424f658a7ea6cafa4a119ac84d2ba6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/13\/25-28.1792426671174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dediščina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadovih"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovih družinah"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "in njihova dvorišča"
+    }
+  ],
+  "timestamp": "2026-10-19T16:17:51.175611383Z",
+  "model": "glm-5.3"
+}

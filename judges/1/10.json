@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "slovenščina potrebuje glagol biti pri stavku o starem imenu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "udarili so",
+      "rationale": "נכה je dobesedno 'udariti'; večina prevodov piše 'ubili'"
+    }
+  ],
+  "translation": "In Jehuda je šel proti Kenaancu, ki prebiva v Hevronu — ime Hevrona je bilo prej Kirjat-Arba — in udarili so ⟨את⟩ Šešaja in ⟨את⟩ Ahimana in ⟨את⟩ Talmaja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/1\/9-12.1792426869496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in je šel"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaancu"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Hevronu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevrona"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "nekoč"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "in udarili so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šešaja"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Ahimana"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Talmaja"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaja"
+    }
+  ],
+  "timestamp": "2026-10-19T16:21:09.497590787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "pomožnik za frazo 'ko pojenjalo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stokal",
+      "rationale": "נהם je godrnjanje, renčanje kakor lev; 'jokal' (Wycliffe) je preveč mehak"
+    }
+  ],
+  "translation": "in bo stokal ob svojem koncu, ko ⟨bo⟩ pojenjalo tvoje meso in tvoje telo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/9-12.1792435812209.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "in bo stokal"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ob svojem koncu"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "ko pojenjalo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "tvoje meso"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "in tvoje telo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:12.210051808Z",
+  "model": "glm-5.3"
+}

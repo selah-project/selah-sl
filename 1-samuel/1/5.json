@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנה אחת אפים",
+      "rationale": "Doslovno 'en del dveh nosov\/obrazov' (dual אפים): 'dvojni del' (ASV\/JPS) proti 'častni del' (KJV) proti 'določen del' (YLT); obdržan dobesedni dual."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maternica",
+      "rationale": "רחם je dobesedno 'maternica', ne 'nerodovitna' (Geneva)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מנה",
+      "rationale": "Manah je odmerjena, stehtana porcija — štetje\/merjenje darila."
+    }
+  ],
+  "translation": "Chani pa je dal en del za dva obraza, kajti ⟨את⟩ Chano je ljubil, Jahve pa je zaprl njeno maternico.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/1\/5-8.1792427436531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Chani pa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "en del"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "za dva obraza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chano"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chano"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "je ljubil"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve pa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "je zaprl"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "njeno maternico"
+    }
+  ],
+  "timestamp": "2026-10-19T16:30:36.532119524Z",
+  "model": "glm-5.3"
+}

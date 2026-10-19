@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "več",
+      "rationale": "slovenščina potrebuje »več«, hebrejščina ima samo »ne dodam«"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvakrat",
+      "rationale": "דוים »dve« je brez glagola; ponovitev štetja ena–dva je retorična stopnjevanje"
+    }
+  ],
+  "translation": "Enkrat sem govoril in ne odgovorim, dvakrat in ne dodam več.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/40\/5-8.1792436763010.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Enkrat"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sem govoril"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odgovorim"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dvakrat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "dodam več"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:03.010764243Z",
+  "model": "glm-5.3"
+}

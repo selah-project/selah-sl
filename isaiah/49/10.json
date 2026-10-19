@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שָׁרָב",
+      "rationale": "mirage\/pripeka: YLT 'mirage', drugi 'heat' — svetleči zrak v puščavi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pripeka",
+      "rationale": "שרב je dobesedno 'trepeča sij' oz. fatamorgana; izbrano 'pripeka' po večini prevodov."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ינהגם \/ ינהלם",
+      "rationale": "dva glagola istega polja (voditi\/napajati), naključje נהג–נהל v zvezi z vodo."
+    }
+  ],
+  "translation": "Ne bodo lačni in ne bodo žejni, ne bo jih udarila pripeka niti sonce, kajti tisti, ki jih objema z usmiljenjem, jih vodi, in ob izvirih voda jih napaja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f9501b3a5200ef10795059e7fbd879ffb6d64164c2f7d8f5e060f6a009b298dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/49\/10-12.1792433378034.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "bodo lačni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "bodo žejni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "bo udarila"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "pripeka"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "in sonce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "ki jih objema z usmiljenjem"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "jih vodi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in ob"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "izvirih"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodа"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "jih napaja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:38.034839018Z",
+  "model": "glm-5.3"
+}

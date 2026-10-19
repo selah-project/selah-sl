@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 32:12",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "namenom",
+      "rationale": "ברעה in הרעה sta samostalnik 'zlo\/hudo', ne 'namen' — dodano za slovenski sklad"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "Dobesedno 'žar nosu\/jeze' — plamen jeze, ki gori v nosu; ponovljena slika iz v. 10–11"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרעה",
+      "rationale": "'spokaj se hudim': הרעה lahko pomeni 'zlo, ki ga nameravaš storiti' (dejanje) ali 'zlo nad ljudstvom' — hebrejščina dvoumna"
+    }
+  ],
+  "translation": "Zakaj naj Micrajci govore in rekó: Z zlim namenom ⟨את⟩ jih je izpeljal, ⟨da bi jih⟩ pobil v gorah in odstranil z obličja zemlje? Odvrni se od plamena svoje jeze in spokaj se hudim ⟨namenom⟩ nad svojim ljudstvom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/32\/9-12.1792423792716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Zakaj"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "naj govore"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in rekó"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "Z zlim"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "jih je izpeljal"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "pobil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "jih (v gorah)"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "v gorah"
+    },
+    {
+      "surface": "ולכלתם",
+      "gloss": "in odstranil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličja"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Odvrni se"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "od plamena"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "svoje jeze"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "in spokaj se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hudim"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "svojim ljudstvom"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:52.719042187Z",
+  "model": "glm-5.3"
+}

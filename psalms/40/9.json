@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula; Torah is the fronted topic"
+    },
+    {
+      "kind": "substitution",
+      "subject": "notranjosti",
+      "rationale": "מעי dobesedno 'drobovje', prostor najglobljih občutij"
+    }
+  ],
+  "translation": "Delati svojo voljo, moj Elohim, sem želel, in Tvoja Tora ⟨je⟩ v sredi mojih notranjosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/40\/9-12.1792434808639.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "delati"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "svojo voljo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "sem želel"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "in Tvoja Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "v sredi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mojih notranjosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:28.640739637Z",
+  "model": "glm-5.3"
+}

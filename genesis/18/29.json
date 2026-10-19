@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 18:29",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew wayyiqtol nosi popisni glagol, slovenščina potrebuje pomožni 'je'"
+    },
+    {
+      "kind": "elision",
+      "subject": "זאת",
+      "rationale": "Hebrejščina pušča predmet glagola אעשה implicitnega; dodano ⟨tega⟩"
+    }
+  ],
+  "translation": "In ⟨je⟩ še nadaljeval govoriti k njemu ter rekel: Morda se jih najde tam štirideset. In ⟨je⟩ rekel: Ne bom storil ⟨tega⟩ zaradi štiridesetih.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a56702be094720332b840152301de10ac427a52aa987c4a68b04d097fee8c570",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/18\/29-32.1792422258623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "In ⟨je⟩ še nadaljeval"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ter rekel"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Morda"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "se jih najde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "štirideset"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "In ⟨je⟩ rekel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": " bom storil"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "הארבעים",
+      "gloss": "štiridesetih"
+    }
+  ],
+  "timestamp": "2026-10-19T15:04:18.624191367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Hebrew lacks preposition before direct object; verb רעף means 'drip\/overflow upon'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גיל\/חגר",
+      "rationale": "hills 'gird themselves' with joy — clothing image continued into v. 14"
+    }
+  ],
+  "translation": "Kaplja ⟨na⟩ pašnike puščave, in hribovja se obpasujejo z veseljem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/65\/13-14.1792434978913.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יִ֭רְעֲפוּ",
+      "gloss": "Kaplja"
+    },
+    {
+      "surface": "נְא֣וֹת",
+      "gloss": "pašniki"
+    },
+    {
+      "surface": "מִדְבָּ֑ר",
+      "gloss": "puščave"
+    },
+    {
+      "surface": "וְ֝גִ֗יל",
+      "gloss": "z veseljem"
+    },
+    {
+      "surface": "גְּבָע֥וֹת",
+      "gloss": "hribovja"
+    },
+    {
+      "surface": "תַּחְגֹּֽרְנָה",
+      "gloss": "se obpasujejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:18.914669654Z",
+  "model": "glm-5.3"
+}

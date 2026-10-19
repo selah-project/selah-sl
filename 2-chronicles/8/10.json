@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gospodovali nad",
+      "rationale": "הרדים dobesedno 'tisti, ki poteptavajo \/ podrejajo', cirkumstancialni deležnik preveden z odvisnim stavkom"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvesto petdeset",
+      "rationale": "štetje kraljevih predstojnikov"
+    }
+  ],
+  "translation": "In to ⟨so bili⟩ poveljniki namestnikov, ki ⟨so bili⟩ kralju Šelomu, dvesto petdeset, ki so gospodovali nad ljudstvom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f512bd8dfa35b6dc126d097ac42748632e04355733317ee3ac51ebeacce6021a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/8\/9-12.1792438486161.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "in to"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "poveljniki"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "namestnikov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "petdeset"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "in dvesto"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "ki gospodujejo"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "nad ljudstvom"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:46.163263829Z",
+  "model": "glm-5.3"
+}

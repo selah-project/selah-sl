@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחוש",
+      "rationale": "חושׁ pomeni 'hiteti' ali 'veseliti se\/uživati' — jue: 'kdo uživa, če ne jaz' proti dobesedno 'kdo hiti zunanje'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חוץ ממני",
+      "rationale": "'zunaj od mene' = 'razen mene' (jaz sem edini) ali 'ločen od mene\/Njega' (BSB: 'brez Njega') — hebrejščina dopušča oboje."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨k uživanju⟩",
+      "rationale": "dodano za smisel glagola יחוש"
+    }
+  ],
+  "translation": "Kajti kdo bo jedel, in kdo bo hitel ⟨k uživanju⟩, zunaj od mene?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80fadad80666ca7cdefb2aa659c6c768f3ac030e0dba222d49698dda147f3b27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/25-26.1792437054862.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bo jedel"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "in kdo"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "bo hitel"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:54.863742521Z",
+  "model": "glm-5.3"
+}

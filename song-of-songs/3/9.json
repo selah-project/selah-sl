@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפריון",
+      "rationale": "Najdeno samo tu v Tanahu; pomen 'nosilna palica\/prestol-nosilnica' je uganka — nekateri berejo 'prestižna dvorana'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožnik 'je' pri glagolu 'naredil'."
+    }
+  ],
+  "translation": "Prestol-nosilnico si je naredil kralj Šelomo iz lesa Libanona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/3\/9-11.1792436840503.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "prestol-nosilnico"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "iz lesa"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanona"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:20.505162611Z",
+  "model": "glm-5.3"
+}

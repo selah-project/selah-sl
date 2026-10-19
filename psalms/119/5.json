@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחלי",
+      "rationale": "hebrejski vzklik želje 'ahalaj' — 'kdaj bi \/ o da bi', izgubi moč vzdiha v slovenščini"
+    },
+    {
+      "kind": "addition",
+      "subject": "moje",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "you",
+      "subject": "do Boga",
+      "rationale": "neposreden nagovor Elohima — ti je v celoti Ps 119 molitev"
+    }
+  ],
+  "translation": "Kdaj bi bile ⟨ moje ⟩ poti ⟨ trdno ⟩ ustanovljene, da varujem tvoje huqim!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/5-8.1792435496586.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Kdaj bi"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "bile ustanovljene"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "moje poti"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da varujem"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvoje huqim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:56.586608995Z",
+  "model": "glm-5.3"
+}

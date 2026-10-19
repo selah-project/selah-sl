@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפיר",
+      "rationale": "כפיר tu pomeni mladi lev, ne vas; primarni pomen 'vas', ki prevajalce zavede."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina izpušča glagol-bit; primerjalna stavka brez njega."
+    }
+  ],
+  "translation": "Bežijo in ni preganjalca — hudič; in cediki ⟨so⟩ kot mladi lev zaupljivi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/28\/1-4.1792436192813.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "Bežijo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "preganjalca"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hudič"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "in cediki"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "kot mladi lev"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "zaupljivi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:32.814023482Z",
+  "model": "glm-5.3"
+}

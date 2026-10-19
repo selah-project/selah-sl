@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Vrni húdo",
+      "rationale": "ישוב הרע: 'húdo se bo vrnila mojim nasprotnikom' (brez osebka) ali 'On bo vrnil húdo'; KJV bere 'On (Elohim) bo poplačal'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jih pokončaj",
+      "rationale": "הצמיתם lahko pomeni tudi 'izkorenini jih' — do konca iztrebi"
+    }
+  ],
+  "translation": "Vrni húdo mojim nasprotnikom, v svoji resnici jih pokončaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/54\/5-8.1792434940048.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Vrni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "mojim nasprotnikom"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "v svoji resnici"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "jih pokončaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:40.049995702Z",
+  "model": "glm-5.3"
+}

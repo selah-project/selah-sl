@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאור",
+      "rationale": "Trikratna ponovitev 'kanal\/Nil' v enem verzu — nizek udarec suše nad Nilom."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gole njive",
+      "rationale": "ערות dobesedno 'nage (ogledele) površine' — razgaljena, odveta tla."
+    }
+  ],
+  "translation": "Gole njive ob kanalu, ob ustju kanala, in vsa setev ob kanalu se bo posušila, razpihnjena bo in je ne bo več.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/19\/5-8.1792430172825.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "gole njive"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanalu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ustju"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsa"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "setev"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "ob kanalu"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "se bo posušila"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "razpihnjena"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "in je ne bo več"
+    }
+  ],
+  "timestamp": "2026-10-19T17:16:12.826338149Z",
+  "model": "glm-5.3"
+}

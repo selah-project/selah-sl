@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "ויהי כאשר zahteva slovenski veznik 'da' pred glavnim stavkom"
+    }
+  ],
+  "translation": "In zgodilo se je, ko je Rahela rodila ⟨את⟩ Jožefa, da je Jaakov rekel Labanu: Izpusti me, pojdem na svoj kraj in v svojo deželo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fdeae71563bb4d03226ec2c41e6f593a56256a7d4d751b462b9828892a026c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/30\/25-28.1792422525597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodila"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jožefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "da je rekel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanu"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "izpusti me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "pojdem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "svoj kraj"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "in v svojo deželo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:45.597964733Z",
+  "model": "glm-5.3"
+}

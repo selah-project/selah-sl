@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina pri ויבאה pušča objekt za ויבאהu iz prejšnjega verz konteksta; dodan 'je' kot pomožni glagol."
+    },
+    {
+      "kind": "crux",
+      "subject": "njegovega brata",
+      "rationale": "אחיw: Cidkijah je bil stric Jehojakinu po 2 Kr 24,17 ('njegov stric'); Kronika pravi 'njegov brat' v širšem sorodstvenem pomenu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dragocenimi posodami",
+      "rationale": "כלי חמדת dobesedno 'posode želje' — predmeti, po katerih se hrepeni."
+    }
+  ],
+  "translation": "Ob povratku leta je poslal kralj Nevuhadneccar in pripeljal ga ⟨je⟩ v Babilon skupaj z dragocenimi posodami hiše Jahvejeve; in postavil je za kralja ⟨את⟩ Cidkijahuja, njegovega brata, nad Jehudo in Jerušalajmom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "aa9d8e32d9050b13d60f2800b306ba971e3d4f2895bf26512a739b0aaf678757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/36\/9-12.1792438963880.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולתשובת",
+      "gloss": "ob povratku"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "leta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevuhadneccar"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "in pripeljal ga"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "v Babilon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "skupaj z"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posodami"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "dragocenimi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejeve"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in postavil je za kralja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijahua"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegovega brata"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudo"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "in Jerušalajmom"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:43.883135178Z",
+  "model": "glm-5.3"
+}

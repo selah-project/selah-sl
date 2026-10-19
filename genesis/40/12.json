@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Hebrejščina prelik poved brez glagola, slovenščina potrebuje »so«."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tri mladike — trije dnevi",
+      "rationale": "Štetje: razlaga preslika tri mladike na tri dnevi."
+    },
+    {
+      "kind": "mystery",
+      "subject": "פתרון",
+      "rationale": "Razlaga sanj kot odprta skrivnost: Jožef jo odpre besedno igro številk."
+    }
+  ],
+  "translation": "In rekel mu je Jožef: To je njena razlaga: tri mladike — trije dnevi ⟨so⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a8628611c0edbc6a7d9a212e4b176936238313896bd312950490f5a2071d3d39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/40\/9-12.1792422748522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "je njena razlaga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "mladike"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:28.523472822Z",
+  "model": "glm-5.3"
+}

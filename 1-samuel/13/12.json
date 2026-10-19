@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופני יהוה לא חליתי",
+      "rationale": "חלה z obličjem: 'niso podil\/uveljavljali obličja Jahve' (prositi naklonjenost, KJ 'made supplication') proti dobesednemu 'niso oslabevali obličja' — izrek je idiom izposoje iz 'ublážiti obraz'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prisilil sem se",
+      "rationale": "ואתאפק dobesedno 'zadržal sem se (se objel)' — glagol pomeni zadržati, vzdržati; 'prisilil sem se' je prevzeto vzeto po KJ 'forced myself', po pomeni nasprotje: zadrževal sem se, pa vendar sem daroval."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva pomožni glagol v nikalni pretekli obliki, hebrejščina ga nima."
+    }
+  ],
+  "translation": "in rekel sem: Zdaj bodo Peleštijci stopili k meni v Gilgalo, obličja Jahve pa niso pomirili ⟨je⟩; zato sem se prisilil in povzpel ⟨את⟩ žgalno daritev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/13\/9-12.1792427629212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel sem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bodo stopili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštijci"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "v Gilgalo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "in obličja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "nisem pomiril"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "in prisilil sem se"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "in povzpel sem"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žgalno daritev"
+    }
+  ],
+  "timestamp": "2026-10-19T16:33:49.213040401Z",
+  "model": "glm-5.3"
+}

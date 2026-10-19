@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨zdaj⟩",
+      "rationale": "členek נא (prošnja\/sedanjost) nima čistega slovenskega ustreznika"
+    },
+    {
+      "kind": "invitation",
+      "subject": "govorka",
+      "rationale": "notranji sklep 'vstala bom' govorko vleče v dejanje iskanja"
+    }
+  ],
+  "translation": "Vstala bom ⟨zdaj⟩ in obšla bom mesto, po ulicah in po trgih bom iskala ⟨את⟩ tistega, ki ga ljubi moja duša; iskala sem ga, pa ga nisem našla.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/3\/1-4.1792436860242.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "Vstala bom"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zdaj⟩"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "in obšla bom"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "po ulicah"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "in po trgih"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "bom iskala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tistega, ki ga ljubi moja duša"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ki ga ljubi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "iskala sem ga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa nisem"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ga našla"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:40.244391561Z",
+  "model": "glm-5.3"
+}

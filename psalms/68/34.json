@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Temu⟩",
+      "rationale": "slovenščina potrebuje samostalnik kraslativu ל-, hebrejščina ima samo predlog."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקולו קול עז",
+      "rationale": "ponovitev קול — »s svojim glasom glas moči«, slovenščina ohranja odmev."
+    }
+  ],
+  "translation": "⟨Temu⟩, ki jezdi po nebesih nebes prvobitnih, glej, daje s svojim glasom glas moči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/33-36.1792435008449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרוכב",
+      "gloss": "ki jezdi"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "po nebesih"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nebesih"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "prvobitnih"
+    },
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "s svojim glasom"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:48.451706431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התנשמת",
+      "rationale": "beseda pomeni dve nečisti živali (ptica tu, kuščar v v. 30); slovenska Biblija ima 'labod', znanstveno pogosto 'sovica'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרחם",
+      "rationale": "raḥam ima isti koren kot 'usmiljenje' — besedna igra, v slovenščini izgubljena"
+    }
+  ],
+  "translation": "in ⟨את⟩ tinšemet, ⟨את⟩ kaat in ⟨את⟩ raḥam",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/17-20.1792424112158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "tinšemet"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "tinšemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "kaat"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "kaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "raḥam"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "raḥam"
+    }
+  ],
+  "timestamp": "2026-10-19T15:35:12.159343098Z",
+  "model": "glm-5.3"
+}

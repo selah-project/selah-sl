@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩ deželi",
+      "rationale": "Hebrew שכן ארץ is verb + bare noun; Slovenian requires locative preposition"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורעה אמונה",
+      "rationale": "'graze on faithfulness' vs 'cultivate faithfulness' vs 'be fed faithfully' — shepherd verb kept literal"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "chain of four imperatives addressed to the hearer"
+    }
+  ],
+  "translation": "Zaupaj v Jahveja in delaj dobro; prebivaj ⟨v⟩ deželi in pasi zvestobo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/1-4.1792434766727.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Zaupaj"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveja"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "in delaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "prebivaj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "in pasi"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "zvestobo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:46.728740881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "konci",
+      "rationale": "אפסי dobesedno 'končne meje\/robovi' zemlje; idiom za najdaljne predele sveta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכנו … יברכנו",
+      "rationale": "verz 8 dobesedno ponovi zaključek verza 7 — veriga blagoslova od Elohima k vsem koncem zemlje."
+    }
+  ],
+  "translation": "Blagoslavlja nas Elohim, in bojijo se ⟨את⟩ njega vsi konci zemlje",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/67\/5-8.1792434987519.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Blagoslavlja nas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "in bojijo se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "konci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:27.520445816Z",
+  "model": "glm-5.3"
+}

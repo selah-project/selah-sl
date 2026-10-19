@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mladič",
+      "rationale": "בן ראמים dobesedno 'sin divjih bikov', splošno 'mladi divji bik'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראמים",
+      "rationale": "'divji bik' proti KJV 'samorog' iz LXX monoceros"
+    }
+  ],
+  "translation": "In plesati jih spravlja kakor tele, Libanon in Sirjon kakor mladič divjih bikov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/29\/5-8.1792434692347.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "plesati jih spravlja"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mladič"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "divjih bikov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:32.349623960Z",
+  "model": "glm-5.3"
+}

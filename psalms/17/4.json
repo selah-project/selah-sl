@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמרתי ארחות פריץ",
+      "rationale": "Dobesedno 'varoval sem poti nasilneža' — pomeni 'držal sem se stran od njih'; prevajalci dodajajo 'se pred' ali 'izogibal'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nasilnež",
+      "rationale": "פריץ je 'nasilnež, ropar, tiran' — beseda z nasiljem, ne le 'uničevalec' (KJV)."
+    }
+  ],
+  "translation": "Za dela človeška — po besedi tvojih ustnic sem se ⟨varoval pred⟩ potmi nasilneža.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/1-4.1792434614764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Za dela"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeška"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "po besedi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tvojih ustnic"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem ⟨se⟩"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "varoval"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "potmi"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "nasilneža"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:14.765598682Z",
+  "model": "glm-5.3"
+}

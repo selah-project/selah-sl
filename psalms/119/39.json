@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima — 'sodbe dobre'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יגרתי",
+      "rationale": "Glagol יגר se v Tanahu pojavi le tukaj in v 119:120 — redka oblika strahu."
+    }
+  ],
+  "translation": "Odvrni mojo sramoto, ki se je bojim, kajti tvoje sodbe so dobre.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/37-40.1792435489711.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Odvrni"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mojo sramoto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "se je bojim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvoje sodbe"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "so dobre"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:49.712131299Z",
+  "model": "glm-5.3"
+}

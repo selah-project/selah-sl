@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "אנכי brez glagola — 'jaz oče'; slovenščina dodaja 'sem bil'."
+    },
+    {
+      "kind": "crux",
+      "subject": "pravde, ki je nisem poznal",
+      "rationale": "ורב לא ידעתי אחקרהו: 'pravdo, ki je nisem poznal, sem raziskal' (KJV) proti 'tujčev pravdo' (BSV, iz drugega korena)."
+    }
+  ],
+  "translation": "Oče ⟨sem⟩ bil revežem, in pravde, ki je nisem poznal, sem jo raziskal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c7626a14b730aa91aeef49789b14c7211af5c69e7afd75a5560476bf2b324f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/13-16.1792436592958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "oče"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "revežem"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "in pravde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sem poznal"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "sem jo raziskal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:12.959577985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "do bralca",
+      "rationale": "Dva imperativa (Opazuj, glej) neposredno nagovarjata poslušalca."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית לאיש שלום",
+      "rationale": "'prihodnost [pripada] možu miru' (konstrukt brez glagola) proti 'konec popolnega človeka je mir' (KJV)."
+    }
+  ],
+  "translation": "Opazuj popolnega in glej pravega, kajti ⟨je⟩ prihodnost možu miru.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/37-40.1792434753826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Opazuj"
+    },
+    {
+      "surface": "תם",
+      "gloss": "popolnega"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pravega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "prihodnost"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mozu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "miru"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:33.827993683Z",
+  "model": "glm-5.3"
+}

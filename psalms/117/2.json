@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagolski veznik, hebrejščina ga v stavku z גבר nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "resničnost",
+      "rationale": "אמת je stabilnost, zanesljivost, zvestoba — ne le 'resnica'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Halelu-Jah",
+      "rationale": "Zaključni zunanji ukaz hvaljenja, imenski zvezek הללו יה."
+    }
+  ],
+  "translation": "Kajti njegov hesed je zavel nad nami, in resničnost Jahveja ⟨je⟩ do vekomaj. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/117\/1-2.1792435428814.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "je zavel"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nami"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "in resničnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "do vekomaj"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:48.817738490Z",
+  "model": "glm-5.3"
+}

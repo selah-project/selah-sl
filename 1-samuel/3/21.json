@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da se pokaže",
+      "rationale": "infinitiv להראה v slovenščini potrebuje veznik in glagolik"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "predlog אל je v slovenščini zlit z dativevom 'Samuelu'"
+    }
+  ],
+  "translation": "In Jahve je nadaljeval ⟨da se pokaže⟩ v Šilu, kajti Jahve se je razodel Samuelu v Šilu z besedo Jahvejevo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/3\/21-21.1792427486704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "je nadaljeval"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "da se pokaže"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "v Šilu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "se je razodel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelu"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "v Šilu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "z besedo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejevo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:31:26.704649921Z",
+  "model": "glm-5.3"
+}

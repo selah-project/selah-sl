@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Izraelu",
+      "rationale": "neposreden nagovor z dvojnim naslovnikom: domačin in tujec, ki biva med vami."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨niti⟩…⟨niti⟩",
+      "rationale": "hebrejščina postavi dva samostalnika brez veznika 'niti'; slovenščina ga doda."
+    }
+  ],
+  "translation": "Vi pa varujte ⟨את⟩ moje ustanove in ⟨את⟩ moja pravá, in ne delajte nobene od vseh teh gnusov, ⟨niti⟩ domačin ⟨niti⟩ tujec, ki biva med vami.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/18\/25-28.1792424304923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "vi pa varujte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje ustanove"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "moje ustanove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "moja pravá"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moja pravá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "delajte"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nobene od vseh"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "gnusov"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "teh"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "domačin"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "in tujec"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ki biva"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "med vami"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:24.924729662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez veznika, slovenščina ga zahteva"
+    },
+    {
+      "kind": "alternative",
+      "subject": "v srce sovražnikov kralja",
+      "rationale": "ohranjena hebrejska besedna zaporedje; puščice 'zadirajo v srce', glagol manjka"
+    }
+  ],
+  "translation": "Tvoje puščice ⟨so⟩ ostre — ljudstva pod teboj padajo — v srce sovražnikov kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/5-8.1792434838867.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "tvoje puščice"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ostre"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pod teboj"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padajo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srce"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "sovražnikov"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:58.868549843Z",
+  "model": "glm-5.3"
+}

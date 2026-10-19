@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "svetlobo",
+      "rationale": "אור pomeni svetlobo nasplošno; starejši prevodi (KJV, JPS) berejo »sonce«, a hebrejščina pravi svetloba"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ki⟩",
+      "rationale": "hebrejščina ne ponuja veznika pred יקר; dodan v slovenščini"
+    }
+  ],
+  "translation": "Če bi videl svetlobo, ker sija, in ⟨ki⟩ dragocena luna hodi;",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a7223a102a504517fc56d3f21e531cebde69f77c79a4891e7aa65b4fae46c46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/26-27.1792439075542.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "bi videl"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetlobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "sija"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "in luno"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dragocena"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:35.542866664Z",
+  "model": "glm-5.3"
+}

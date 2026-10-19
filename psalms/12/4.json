@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "velike reči",
+      "rationale": "gedolot pomeni 'velike stvari' ali 'ohonljive\/drzne'; JPS 'proud things', YLT 'great things'."
+    },
+    {
+      "kind": "crux",
+      "subject": "unikat",
+      "rationale": "יכרת je lahko preteklik ('Jahve je odrezal') ali jussiv ('naj odreže'); večina prevodov bere kot željo."
+    }
+  ],
+  "translation": "Naj Jahve odreže vse ustnice gladkosti, jezik, ki govori velike reči —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "efcf216fd3a54cacc87ee95dd5f57608468e0cc9b5664d5985fbf6f7bbc97fd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/12\/3-4.1792438991975.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "naj odreže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ustnice"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "gladkosti"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezik"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ki govori"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velike reči"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:11.977510031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפלט",
+      "rationale": "'beg' (YL T) proti 'zatočišče\/sklonišče' (ASV\/JPS\/BSB) — beg ali kraj bega."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "slovenščina potrebuje oznako, hebrejščina ima le glagol סעה 'drveti'."
+    }
+  ],
+  "translation": "Pohitim z begom ⟨zase⟩, pred ruah, ki drvi, pred viharjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/9-12.1792434937235.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "pohitim"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "z begom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zase"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "pred ruah"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ki drvi"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "pred viharjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:37.236629609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sence smrti",
+      "rationale": "צלמות je dobesedno 'sen-smrt'; sestavljena beseda, ki se v slovenščini razpade."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vezi",
+      "rationale": "מוסרות dobesedno 'ukori', preneseno 'vezi\/skode'; halter v pomenu zavor."
+    }
+  ],
+  "translation": "Izpeljal jih je iz teme in sence smrti in njihove vezi raztrgal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/13-16.1792435401525.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "izpeljal jih je"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "iz teme"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "in sence smrti"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "in njihove vezi"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "raztrgal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:21.525942195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tečejo",
+      "rationale": "יהלכון je 'hodijo' — voda 'hodi' med gorami, slovenščina hoče 'tečejo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "doline",
+      "rationale": "נחל je zimski torrent, ki teče po údolini — voda in dolina v eni besedi"
+    }
+  ],
+  "translation": "Ki pošilja izvire v doline, med gorami tečejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/9-12.1792435333970.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "ki pošilja"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "izvire"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "v doline"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gorami"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "tečejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:13.971339464Z",
+  "model": "glm-5.3"
+}

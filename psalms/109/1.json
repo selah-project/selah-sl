@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהים ostaja Elohim, ne Bog"
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "Neposreden ogovor: ne molči"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mizmor",
+      "rationale": "מזמור je besedila ob inštrumentalni glasbi; 'mizmor' po zvoku namesto 'psalm'"
+    }
+  ],
+  "translation": "Zborovodji. Davidov mizmor. Elohim moje hvalnice, ne molči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/1-4.1792435461156.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "moje hvalnice"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "molči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:21.157666892Z",
+  "model": "glm-5.3"
+}

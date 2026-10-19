@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ · ⟨s⟩ · ⟨ti⟩",
+      "rationale": "slovenščina zahteva kopulo, predlog in osebek, ki jih hebrejščina muzikalno izpušča"
+    },
+    {
+      "kind": "crux",
+      "subject": "sodba",
+      "rationale": "במשפט: 's sodbo\/pravom' proti 'razumno' (KJV 'discretion') — hebrejščina pravi sodba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Dobro je možu, ki...",
+      "rationale": "posamično branje namesto množine; hebrejščina dopušča oboje"
+    }
+  ],
+  "translation": "Dobro ⟨je⟩ ⟨s⟩ možem, ki izkazujejo naklonjenost in posojajo; ⟨ti⟩ urejajo svoje zadeve s sodbo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/5-8.1792435470002.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "izkazuje naklonjenost"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "in posoja"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ureja"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "svoje zadeve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "s sodbo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:30.002738123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואין \/ ואיננו",
+      "rationale": "ponovljeni nikalnici obdajata verz — 'in ni ga' se vrača kot odmev 'in ni več'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ozreš se",
+      "rationale": "והתבוננת je 'vpogledovati se, razločevati' — intenziven pogled"
+    }
+  ],
+  "translation": "In še malo, in ni več krivičnega; ozreš se po njegovem kraju — in ni ga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/9-12.1792434733059.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "in še"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni več"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ozreš se"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "njegovem kraju"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "in ni ga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:13.062349Z",
+  "model": "glm-5.3"
+}

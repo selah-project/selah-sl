@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "z nami",
+      "rationale": "אִתָּנוּ je tukaj predlog את (H854, 'z nami'), ne označevalnik predmeta H853; prevodi se razhajajo: 'nadar\/nas' (KJV) proti 'z nami' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "סלה je glasbena oznaka za pavzo; ostaja neprevedeno."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחננו\/ויברכנו",
+      "rationale": "Dvostična prošnja iz duhovniškega blagoslova (4 Mz 6,24–25); odmev je v slovenščini ohranjen z vzporednima glagoloma."
+    }
+  ],
+  "translation": "Elohim naj nam je usmiljen in nas blagoslovi, naj zazari ⟨את⟩ svoj obraz z nami. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7997a88ddcd05cff311ae71187722a601383f062736e0df5e7bde6551c41de08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/67\/1-2.1792439043234.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "naj nam je usmiljen"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "in nas blagoslovi"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "naj zazari"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svoj obraz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "z nami ⟨את⟩",
+      "marks": "z nami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:03.235569110Z",
+  "model": "glm-5.3"
+}

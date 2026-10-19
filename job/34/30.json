@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממלך ... ממקשי",
+      "rationale": "dva מ״ odvisna od glagola v v. 29: 'da ne vlada brezbožnik, da ne lovita pasti ljudstva' (KJV\/JPS) ali 'od vladavine brezbožnika, od pasti ljudstva' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gréšni",
+      "rationale": "חנף je 'madeževan, hinavski, brezbožen' — ena beseda, 'licemeren' bi vnesel poznejši pridih."
+    }
+  ],
+  "translation": "Da ne kraljuje gréšni človek — ⟨da ni⟩ pasti za ljudstvo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/34\/29-32.1792436738081.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "od kraljevanja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "gréšni"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "od pasti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:38.083939694Z",
+  "model": "glm-5.3"
+}

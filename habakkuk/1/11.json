@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "ruah kot 'veter' (minila je in šla naprej — Asvin\/ORAC) ali kot 'duh\/razpoloženje' Kaldejcev, ki se spremeni (KJV 'his mind change') — slovenski prevod pušča ruah odprto."
+    },
+    {
+      "kind": "crux",
+      "subject": "זו כחו לאלהו",
+      "rationale": "dvojno branje: 'to njegovo moč pripisuje svojemu Elohimu' (KJV\/JPS) ali 'ta, čigar moč ⟨je⟩ njen Elohim' — moč kot njen bog (ASV\/ORAC); izbrano drugo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je ena beseda za veter, dih in duha; prepuščeno kot ruah, ker slovenska ena beseda izbere en pomen."
+    }
+  ],
+  "translation": "Tedaj je minila ruah in je nadaljevala, in kriva je postala — ta, čigar moč ⟨je⟩ njen Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "736880ba71201863dca8c8fc751f004863fe04e5448e0cc40bae6b32c74178fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/1\/10-11.1792439023212.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "je minila"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "in je nadaljevala"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "in kriva je postala"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "moč"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:43.215626720Z",
+  "model": "glm-5.3"
+}

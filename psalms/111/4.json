@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "slovenski glagol zahteva predlog, hebrejščina ga ima v obliki ל"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנון ורחום",
+      "rationale": "stalni dvojni par »milostljiv in usmiljen« – pridevnika se v hebrejščini rimata (ḥanun ve-raḥum), slovenščina ta zvok izgubi"
+    }
+  ],
+  "translation": "Spomin je naredil ⟨na⟩ svoja čudežna dela; milostljiv in usmiljen je Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/111\/1-4.1792435440082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Spomin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "na svoja čudežna dela"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "milostljiv"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "in usmiljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:00.083228711Z",
+  "model": "glm-5.3"
+}

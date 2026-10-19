@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pravo",
+      "rationale": "הישר je dobesedno 'ravnost\/poravnost'; 'pravo' ohranja koren cedek-milieu brez moraliziranja"
+    },
+    {
+      "kind": "idiom",
+      "subject": "v očeh Jahveja",
+      "rationale": "Hebrejski idiom בעיני = 'v očeh', dobesedno prenesen"
+    }
+  ],
+  "translation": "In delal je ⟨את⟩ pravo v očeh Jahveja, po vsem, kar je delal David, njegov oče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "331fbc3ef0042364a2894aeb8a56af88967039b324b5fe1961062cd469c612af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/29\/1-4.1792438829034.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in delal je"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "po vsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je delal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegov oče"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:29.036005942Z",
+  "model": "glm-5.3"
+}

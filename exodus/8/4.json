@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "priporočajte",
+      "rationale": "עתר dobesedno »kaditi (v čaščenju)«, torej »posredujte z molitvijo kot s kadilom«"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨k⟩",
+      "rationale": "slovenščina potrebuje predlog pri glagolu »priporočati«; hebrejščina ima אל (k\/h k)"
+    }
+  ],
+  "translation": "Faraon je poklical Mošeta in Aharona in rekel: Priporočajte ⟨k⟩ Jahveju, naj odstrani žabe od mene in od mojega ljudstva, in jaz bom izpustil ⟨את⟩ ljudstvo, da bodo darovali Jahveju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f1e9202d68b1d591ac3d1dc5fe442b34cbc91c94738930af88ff747b008fc086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/8\/1-4.1792423218523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "in je poklical"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošeta"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "in Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "priporočajte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "naj odstrani"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žabe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "in od mojega ljudstva"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "in jaz bom izpustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "da bodo darovali"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T15:20:18.524240588Z",
+  "model": "glm-5.3"
+}

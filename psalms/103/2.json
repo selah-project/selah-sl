@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dobrih dejanj",
+      "rationale": "גמול je 'obravnavanje, povračilo' — dobro ali hudo; tukaj dobro"
+    }
+  ],
+  "translation": "Blagoslavljaj, moja duša, Jahveja ⟨את⟩ in ne pozabi vseh njegovih dobrih dejanj!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/1-4.1792435352544.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Blagoslavljaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "pozabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "njegovih dobrih dejanj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:32.545401407Z",
+  "model": "glm-5.3"
+}

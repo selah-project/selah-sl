@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשיבה",
+      "rationale": "dobesedno 'naperi ušesa', hebrejska slika za pozorno poslušanje"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Prošnja Davidova",
+      "rationale": "neposreden klic k Elohimu — imperative 'poslušaj', 'pripravi ušesa'"
+    }
+  ],
+  "translation": "Poslušaj, Elohim, moje vzklikanje; pripravi ušesa ⟨moji⟩ molitvi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/61\/1-4.1792434916464.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "moje vzklikanje"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pripravi ušesa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitvi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:16.466250632Z",
+  "model": "glm-5.3"
+}

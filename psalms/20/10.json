@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הושיעה המלך",
+      "rationale": "'Reši, Jahve! Kralj naj nas usliši' (KJV\/JPS) proti 'Jahve, reši kralja' (YL\/Targum): je המלך večkratnik הושיעה ali naslednji stavek?"
+    },
+    {
+      "kind": "you",
+      "subject": "molitev",
+      "rationale": "Neposreden glas k Jahveju — zaključna prošnja psalma."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kličemo",
+      "rationale": "Psalm se zaključi z vabilom k klicanju, ki ga Jahve usliši."
+    }
+  ],
+  "translation": "Jahve, reši ⟨kralja⟩! Kralj naj nas usliši na dan, ko kličemo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/20\/9-10.1792434616252.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "reši"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kralj"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "naj nas usliši"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "ko kličemo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:16.253990981Z",
+  "model": "glm-5.3"
+}

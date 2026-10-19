@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר...שמר",
+      "rationale": "ponovitev glagola 'varovati' v obeh polveršjih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'ždrelo\/življenjska sila' kakor 'duša'"
+    }
+  ],
+  "translation": "Kdor varuje svoja usta in svoj jezik, varuje svojo dušo pred stiskami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/21-24.1792436035045.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "varuje"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "svoja usta"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "in svoj jezik"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varuje"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "stiske"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svojo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:55.047583236Z",
+  "model": "glm-5.3"
+}

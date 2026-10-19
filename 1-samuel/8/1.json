@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "hebrejščina ima gol samostalnik שפטים brez predloga"
+    }
+  ],
+  "translation": "In zgodbilo se je, da je ostarel Šmuel, in postavil je ⟨את⟩ svoje sinove za sodnike nad Jisraelom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/8\/1-4.1792427528123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ostarel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "postavil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "za sodnike"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "nad Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:32:08.123496859Z",
+  "model": "glm-5.3"
+}

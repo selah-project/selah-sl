@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kako",
+      "rationale": "Slovenščina potrebuje veznik za »našel ga je, da se bojuje«; hebrejščina postavlja particip brez veznika."
+    }
+  ],
+  "translation": "In vrnil se je Ravšake in našel ⟨את⟩ kralja Ašurja, kako se bojuje proti Livni, kajti slišal je, da je odšel iz Lahiša.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/37\/5-8.1792430527852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "in vrnil se je"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "šake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "in našel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja Ašurja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašurja"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "se bojuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slišal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "je odšel"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "iz Lahiša"
+    }
+  ],
+  "timestamp": "2026-10-19T17:22:07.853443170Z",
+  "model": "glm-5.3"
+}

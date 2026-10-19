@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואכלה",
+      "rationale": "'in pojedla bo' — hebrejsko 'jedla bo', ogenj 'je' trdnjave, upodabljanje, ki ostaja v slovenščini"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארמנות",
+      "gloss-note": "arhmon — trdnjava na višini; 'palace' (KJV) izgubi podobo višine"
+    }
+  ],
+  "translation": "In poslal bom ogenj na dom Hazaela, in pojedla bo ⟨arhmone⟩ ⟨od⟩ Ben-Hadada.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d1bf0ceeacd4540fb72da40aa03581eff6b812b33f4a25ae27ef4bd2414bcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/1\/4-4.1792438975420.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "In poslal bom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na dom"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaela"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "in pojedla bo"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "arhmone"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:55.422305883Z",
+  "model": "glm-5.3"
+}

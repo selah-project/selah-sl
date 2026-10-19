@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "׳ki ga je določil׳",
+      "rationale": "Hebrejščina pravi samo אשר שמואל 'ki Šmuel'; glagol 'določiti' je dodan po vzoru KJV\/ASV, ker slovenščina brez njega ne pove povezave."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedem dni",
+      "rationale": "Določeno število dni čakanja — določil ga je Šmuel (10,8)."
+    }
+  ],
+  "translation": "In čakal je sedem dni do določenega časa, ⟨ki ga je določil⟩ Šmuel, toda Šmuel ni prišel v Gilgal, in ljudstvo se je razbežalo od njega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/13\/5-8.1792427613098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "In je čakal"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "do določenega časa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki ga je določil⟩"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "toda ni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "prišel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "v Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "in se je razbežalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-19T16:33:33.099156697Z",
+  "model": "glm-5.3"
+}

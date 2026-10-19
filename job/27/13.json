@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 27:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasilnikov",
+      "rationale": "עריצים dobesedno 'strašni, mogočni, nasilni', ne le 'tiranov'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Slovenščina potrebuje dodan zaimok, ker je 'delež' namenoma zamolčan do konca vrstice"
+    }
+  ],
+  "translation": "To je delež hudiča pri Elu, in dediščina nasilnikov — od Šadaja jo prejmejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/13-16.1792436606785.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "delež"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hudiča"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "in dediščina"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "nasilnikov"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "od Šadaja"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "prejmejo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:26.786650852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "pet stebrov, pet podstavkov",
+      "rationale": "pesem šteje stebre in podstavke vhodnega zagrinjala"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In ⟨את⟩ njegovih pet stebrov ter ⟨את⟩ njihovih kavgljev; in njihove glave in njihove palice je obložil z zlatom, njihovih pet podstavkov pa je bilo iz medenine.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/36\/37-38.1792423819518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegovih pet stebrov"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "njegovih stebrov"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihovih kavgljev"
+    },
+    {
+      "surface": "וניהם",
+      "gloss": "in njihovih kavgljev"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "in obložil je"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "njihove glave"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "in njihove palice"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "z zlatom"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "in njihovih podstavkov"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iz medenine"
+    }
+  ],
+  "timestamp": "2026-10-19T15:30:19.521483883Z",
+  "model": "glm-5.3"
+}

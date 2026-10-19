@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spravljena v shrambo",
+      "rationale": "צפונה dobesedno 'skrita', a s podtonom shranjevanja za prihodnje obračunavanje."
+    },
+    {
+      "kind": "secret",
+      "subject": "zavezana · spravljena",
+      "rationale": "Greha nista odpuščena, temveč shranjena in skrita — založena za dan sodbe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרור \/ צפונה",
+      "rationale": "Dvoje popolnoma vzporednih glagolskih pridevnikov — svezava in skrivanje — paralelizem, v slovenščini deloma ohranjen."
+    }
+  ],
+  "translation": "Zavezana ⟨je⟩ krivda Efrajima, spravljena ⟨v shrambo⟩ ⟨je⟩ njegov greh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/13\/9-12.1792433878213.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Zavezana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivda"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "spravljena v shrambo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "njegov greh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:58.216232362Z",
+  "model": "glm-5.3"
+}

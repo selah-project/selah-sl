@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 25:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "če",
+      "rationale": "slovenščina potrebuje pogojni veznik pri brezosebni konstrukciji"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר ראו עיניך",
+      "rationale": "dvojno branje: 'ki so ga videle tvoje oči' (plemenit) ali 'kar so videle tvoje oči' — primanjkljaj v rokopisih (ketiv\/qere)"
+    }
+  ],
+  "translation": "Kajti dobro je, če ti rečejo: Pojdi sem gor, kakor da te ponižajo pred plemičem, ki so ga videle tvoje oči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/5-8.1792436135345.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rečejo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pojdi gor"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מהשפילך",
+      "gloss": "te ponižajo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "plemenit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "so videle"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:35.346852585Z",
+  "model": "glm-5.3"
+}

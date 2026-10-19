@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki so bili",
+      "rationale": "Hebrejščina ima samo אשר אתו (»ki pri njem«); slovenščina potrebuje glagolski obvezen dodatek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "glavarjem",
+      "rationale": "שרים — »knezi\/glavarji«, voditelji Moaba v Balakovem spremstvu."
+    }
+  ],
+  "translation": "In Balak je zaklal govedo in drobnico ter poslal Bileámu in glavarjem, ⟨ki so bili⟩ ⟨את⟩ pri njem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e33b5ae5c28011fcc534b6301e28e7c8ae77b84b1e9bcd3a0d2c9313ab63dd02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/22\/37-40.1792425261731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "in je zaklal"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "in drobnico"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ter poslal"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileámu"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "in glavarjem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pri njem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:54:21.733130493Z",
+  "model": "glm-5.3"
+}

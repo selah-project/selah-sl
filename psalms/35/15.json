@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאספו ... נאספו",
+      "rationale": "Podvajanje istega glagola 'zbrati se' — naglo kopnenje sovražnikov."
+    },
+    {
+      "kind": "crux",
+      "subject": "niso prenehali",
+      "rationale": "דמו lahko 'prenehati' ali 'obstati v tišini \/ strahospoštovanju'; prevodi se razhajajo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "nadarjalci",
+      "rationale": "נכים dobesedno 'udarjalci', preneseno klevetniki; KJZ 'abjects' — izobčenci."
+    }
+  ],
+  "translation": "Ob mojem šepanju so se veselili in zbrali so se; zbrali so se proti meni nadarjalci, ⟨in⟩ nisem ⟨za to⟩ vedel; parali so ⟨me⟩ in niso prenehali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/13-16.1792434759700.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ob mojem šepanju"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "so se veselili"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "in zbrali so se"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "zbrali so se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti meni"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "nadarjalci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nisem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vedel"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "parali so"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "prenehali"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:39.701955415Z",
+  "model": "glm-5.3"
+}

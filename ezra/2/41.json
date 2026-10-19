@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "število",
+      "rationale": "Seznam rodov z dnviščim številom: sto osemindvajset pevcev."
+    },
+    {
+      "kind": "elision",
+      "subject": "ושמנה",
+      "rationale": "Vav pred številom se v slovenščini zlije z 'osem' v 'osemindvajset' brez ločenega 'in'."
+    }
+  ],
+  "translation": "Pevci: sinovi Asafa, sto osemindvajset.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0948a072555a7428d7eb97acdc77b42d9d4ef9a4866e60bd57107809498de122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/2\/41-44.1792437584676.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "pevci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "in osem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:44.676922941Z",
+  "model": "glm-5.3"
+}

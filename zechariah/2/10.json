@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוי הוי",
+      "rationale": "Podvojeni vzklik 'ho, ho' — ponovitev ostane, slovenščina nima enakovrednega dvojnega klica."
+    },
+    {
+      "kind": "elision",
+      "subject": "רוחות",
+      "rationale": "ruah ostaja neprevedena po D2: ena hebrejska beseda za veter\/duh\/dih."
+    },
+    {
+      "kind": "invitation",
+      "subject": "izgnanci na severu",
+      "rationale": "Vzklik in ukaz 'pobegnite' neposredno kliče naslovnike v deželi severa (Babilon)."
+    }
+  ],
+  "translation": "Ho, ho, pobegnite iz dežele severa, govori Jahve, kajti kakor štiri ruah neba sem razkropil ⟨את⟩ vas, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1473416ae3f67e32a5b0d45a2cc57959362cb6a3885c7638c348daf6aa6fdabb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/2\/9-12.1792434283450.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "pobegnite"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "kakor štiri"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "sem razkropil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:43.452125218Z",
+  "model": "glm-5.3"
+}

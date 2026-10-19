@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨boš⟩",
+      "rationale": "Slovenščina potrebuje pomožnik, hebrejščina ima samo infinitiv."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hen",
+      "rationale": "Hen pomeni milostno naklonjenost; wordplay hen\/noa (Noah, 'najde milost') v 1 Mz 6,8."
+    }
+  ],
+  "translation": "in ⟨boš⟩ našel ⟨hen⟩ naklonjenost in dobro razumevanje v očeh Elohim in človeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/3\/1-4.1792435850083.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "in ⟨boš⟩ našel"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hen — naklonjenost"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "in razumevanje"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "in človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:50.085448251Z",
+  "model": "glm-5.3"
+}

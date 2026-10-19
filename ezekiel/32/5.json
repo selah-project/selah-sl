@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רמותך",
+      "rationale": "ker pomeni kup (trupel); stari prevodi berejo 'tvojo višino' (KJV) ali 'tvoje ostanke' (BSB); hebrejščina dobesedno 'tvoj kup (mrtvih teles)'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "grape",
+      "rationale": "הגאיות je ozka soteska z visokimi stenami, ne paleta 'dolin'."
+    }
+  ],
+  "translation": "In položil bom ⟨את⟩ tvoje meso na gore in napolnil grape s tvojim kupom trupel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/32\/5-8.1792432573892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "in položil bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje meso"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "tvoje meso"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "in napolnil"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "grape"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "s tvojim kupom trupel"
+    }
+  ],
+  "timestamp": "2026-10-19T17:56:13.894483150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 55:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'grlo, dih, življenjska sila', ne nesmrtna duša."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמעו שמוע",
+      "rationale": "Infinitivni poudarek: 'poslušajte, da poslušate' — dobesedno 'slišati slišati'."
+    },
+    {
+      "kind": "you",
+      "subject": "naslovník",
+      "rationale": "Neposreden nagovor poslušalcev (izgnanci) z vprašanjem in vabilom."
+    }
+  ],
+  "translation": "Zakaj tehtate srebro ⟨za to, kar⟩ ni kruh, in svoj trud ⟨za to, kar⟩ ne nasiti? Poslušajte dobro ⟨me⟩ in jejte dobro, in vaša duša naj se razvaja v krepkosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/55\/1-4.1792430800316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Zakaj"
+    },
+    {
+      "surface": "תשקלו",
+      "gloss": "tehtate"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "ויגיעכם",
+      "gloss": "in svoj trud"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "nasiti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "in jejte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ותתענג",
+      "gloss": "in naj se razvaja"
+    },
+    {
+      "surface": "בדשן",
+      "gloss": "v krepkosti"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "vaša duša"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:40.317589531Z",
+  "model": "glm-5.3"
+}

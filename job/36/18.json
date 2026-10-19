@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 36:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בספק",
+      "rationale": "Dvopomensko: 'obsena\/kazen' ali 'obilstvo'; JPS 'sufficiency' proti KJV 'stroke'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חמה",
+      "rationale": "Katera jeza — Elohimova (KJV) ali poslušalčeva (ASV 'wrath stir thee up')? Besedilo ne pove."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Kajti ⟨je⟩ jeza — pomerjena naj te ne zapelje z obiljem, ne naj te velikost odkupnine odvrne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/17-20.1792436716619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "jeza"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pomerjena"
+    },
+    {
+      "surface": "יסיתך",
+      "gloss": "ne zapelje"
+    },
+    {
+      "surface": "בספק",
+      "gloss": "z obiljem"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ne velikost"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "odkupnine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pomerjena"
+    },
+    {
+      "surface": "יטך",
+      "gloss": "odvrne"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:16.620320305Z",
+  "model": "glm-5.3"
+}

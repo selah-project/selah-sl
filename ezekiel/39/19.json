@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 39:19",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Slovenščina potrebuje kazalnik za ločitev od prejšnjega dela povedi; hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכרון",
+      "rationale": "'Do omotice\/pijanosti' — kri kot pijača, ki opoji; namerno nasprotje običajni prepovedi pitja krvi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלב",
+      "rationale": "חלב je drobovina, maščoba, ki pripada Jahveju pri žrtvi — tu jo jedo ptice in zveri."
+    }
+  ],
+  "translation": "In jedli boste maščobo do sitega in pili kri do omotice — ⟨to⟩ iz moje žrtve, katero sem zaklal za vas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "06e1c580b4b101f6444ec7845d786cd8c6aeb973e70453ebd39bafc88145ba0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/39\/17-20.1792433567523.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "In jedli boste"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maščobo"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "do sitega"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "in pili"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "לשכרון",
+      "gloss": "do omotice"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "iz moje žrtve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "זבחתי",
+      "gloss": "sem zaklal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:47.525505454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 38:12",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דורי",
+      "rationale": "'moj rod\/moj krog dni' (KJV 'moja doba') proti ASV\/JPS 'moje prebivališče' (dur kot bivališče); tu 'rod'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מדלה",
+      "rationale": "redka beseda: KJV 'iznemoglost', JPS 's podstavka statve' (konični vozel); tu dobesedno 'z vrvice'."
+    },
+    {
+      "kind": "addition",
+      "subject": "me bo odrezal",
+      "rationale": "Subjekt (Elohim\/Jah) je v hebrejščini izpuščen; glagol je 3. oseba, naslednji glagol pa 2. oseba ('me boš dokončal')."
+    }
+  ],
+  "translation": "Moj rod je dvignjen in odstranjen od mene kakor pastirjev šotor; skrčil sem kakor tkalec svoje življenje; z vrvice me bo odrezal; od dne do noči me boš dokončal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/38\/9-12.1792430481462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דורי",
+      "gloss": "moj rod"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "je dvignjen"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "in odstranjen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "kakor šotor"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "pastirjev"
+    },
+    {
+      "surface": "קפדתי",
+      "gloss": "skrčil sem"
+    },
+    {
+      "surface": "כארג",
+      "gloss": "kakor tkalec"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "svoje življenje"
+    },
+    {
+      "surface": "מדלה",
+      "gloss": "z vrvice"
+    },
+    {
+      "surface": "יבצעני",
+      "gloss": "me bo odrezal"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noči"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "me boš dokončal"
+    }
+  ],
+  "timestamp": "2026-10-19T17:21:21.463582243Z",
+  "model": "glm-5.3"
+}

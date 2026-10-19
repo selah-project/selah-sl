@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 22:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשוא פנים",
+      "rationale": "dobesedno 'dvignjen obraz' — kdor uživa prizanesljivost, ugleden mož"
+    },
+    {
+      "kind": "crux",
+      "subject": "stavek",
+      "rationale": "sintaksa stavljena: govor o nasilniku, ki zaseda deželo, ali opis običaja — prevodi se razhajajo"
+    }
+  ],
+  "translation": "In mož-z-roko — njegova je dežela, in kdor dviga-obraz, prebiva na njej.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/5-8.1792436514897.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "In mož"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "z-roko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njegova je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "in kdor dviga"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "-obraz"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "prebiva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na njej"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:54.900227310Z",
+  "model": "glm-5.3"
+}

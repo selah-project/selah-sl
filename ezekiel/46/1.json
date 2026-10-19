@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 46:1",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "slovenščina potrebuje povratni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפתח\/יפתח",
+      "rationale": "ponovitev glagola »odpreti« na koncu verza, veriga dvojnega odpiranja"
+    }
+  ],
+  "translation": "Tako govori Adonaj Jahve: Vrata notranjega dvorišča, obrnjena proti vzhodu, bodo zaprta šest delovnih dni, na dan šabata pa se odprejo in na dan mlaja se odprejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b75574827932e13caf2467d10af6b404e410e69165d2e520e4a0c676a932b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/46\/1-4.1792433758211.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvorišča"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "notranjega"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "obrnjena"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "proti vzhodu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bodo"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "zaprta"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "delovnih"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabata"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "se odprejo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "in na dan"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mlaja"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "se odprejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:15:58.212593470Z",
+  "model": "glm-5.3"
+}

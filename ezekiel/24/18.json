@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 24:18",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Slovenščina zahteva pomožnik 'sem', ki ga hebrejščina v wayyiqtol obliki nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "zjutraj \/ zvečer",
+      "rationale": "Natančno štetje časa dneva obdaja smrt žene — zjutraj govor, zvečer smrt, zjutraj dejanje."
+    }
+  ],
+  "translation": "In govoril ⟨sem⟩ ljudstvu zjutraj, in zvečer je umrla moja žena; in zjutraj ⟨sem⟩ storil, kakor ⟨sem⟩ bil zapovedan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc6f31312c0e6752979957aedfed3c84f41dd2ca4675526e1df6112f9b15ced5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/24\/17-20.1792432450064.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "in govoril"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "in umrla"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "moja žena"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "zvečer"
+    },
+    {
+      "surface": "ואעש",
+      "gloss": "in storil"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "sem bil zapovedan"
+    }
+  ],
+  "timestamp": "2026-10-19T17:54:10.064806096Z",
+  "model": "glm-5.3"
+}

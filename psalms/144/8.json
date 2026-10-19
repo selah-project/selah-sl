@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šav",
+      "rationale": "שוא pomeni praznino\/prevare; ohranjena hebrejska beseda po D2-D3 duhu, sicer 'praznina'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימינם \/ ימין שקר",
+      "rationale": "ponovitev 'desnica — desnica' v isti polstični; vzporedje usta\/desnica, beseda\/laž"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez kopule; slovenščina zahteva ⟨je⟩"
+    }
+  ],
+  "translation": "katerega usta govorijo šav, in njihova desnica ⟨je⟩ desnica laži.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "95e0e4a2192671c2fefbc7190079d9554cf754cdcc2eb34afdcaaae15854fd06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/8-8.1792439056334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "katerega"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorijo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "šav"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "in njihova desnica"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desnica"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:16.336075537Z",
+  "model": "glm-5.3"
+}

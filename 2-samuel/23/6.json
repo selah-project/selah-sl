@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנד",
+      "rationale": "Oblika מנד se v Tanahu pojavi samo tu; koren נדד 'biti potisnjen\/odriven', prevodi: 'zavrženo', 'izruvano'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sinovi",
+      "rationale": "Hebrejščina ima samo 'Belial', 'sinovi' je dodano po vzorcu 'možje Beliala'"
+    }
+  ],
+  "translation": "In sinovi Beliala so kakor trnje odrto, vsi oni, kajti ne z roko bodo vzeti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/23\/5-8.1792433324171.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "in sinovi Beliala"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "kakor trnje"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "odrto"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "vsi oni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bodo vzeti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:44.173886662Z",
+  "model": "glm-5.3"
+}

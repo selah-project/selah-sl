@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 29:7",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dne⟩",
+      "rationale": "hebrejščina ima samo 'desetega (dan) meseca' — slovenščina potrebuje 'dne'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefeš je grlo\/dih\/življenjska sila, ne nesmrtna duša"
+    },
+    {
+      "kind": "measurement",
+      "subject": "deseti dan sedmega meseca",
+      "rationale": "natančen datum Jom kipurja"
+    }
+  ],
+  "translation": "In desetega ⟨dne⟩ tega sedmega meseca naj vam bo svet zbor, in ⟨naj⟩ ⟨boste⟩ ponižali ⟨את⟩ svoje duše; nobenega dela ne delajte.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a8fc1f5c2e055170e044020ebc4491c8e9d1bc7d93dfe1db9d58802fff78cc3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/29\/5-8.1792425397404.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעשור",
+      "gloss": "in desetega"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "meseca"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmega"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "in ponižali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje duše"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nobenega"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "delajte"
+    }
+  ],
+  "timestamp": "2026-10-19T15:56:37.405915544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zaspim smrti spanje",
+      "rationale": "hebrejščina: 'spanje smrti' — dobesedna slika, ohranjena"
+    },
+    {
+      "kind": "invitation",
+      "subject": "poglej me, odgovori mi",
+      "rationale": "cel verz je klic-prošnja, treh imperativov zapored"
+    }
+  ],
+  "translation": "Poglej me, odgovori mi, Jahve, Elohim moj! Razsvetli moje oči, da ne zaspim ⟨v⟩ smrti spanje!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/13\/1-4.1792434556576.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "poglej"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "razsvetli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oči"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "zaspim"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:16.578790322Z",
+  "model": "glm-5.3"
+}

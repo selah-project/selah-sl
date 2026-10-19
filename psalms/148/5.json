@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez pomožnika v passivu; slovenščina ga zahteva."
+    },
+    {
+      "kind": "invitation",
+      "subject": "naj hvalijo",
+      "rationale": "Jussiv — vabilo nebesom, naj hvalijo ime Jahveja."
+    }
+  ],
+  "translation": "Hvalijo ime Jahveja, ⟨את⟩ ime ⟨od⟩ Jahveja — kajti on je zapovedal in ⟨so⟩ bili ustvarjeni. Naj hvalijo ⟨את⟩ ime Jahveja, kajti on je zapovedal, in ustvarjeni so bili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/148\/5-8.1792435793644.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "naj hvalijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahveja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovedal"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "in ustvarjeni so bili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:53.644943243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prvi\/drugi\/tretji",
+      "rationale": "hebrejščina ima ženske ordinalne oblike (ha-aḥat 'ena', ha-šenit 'druga', ha-šelišit 'tretja')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "imena hčera",
+      "rationale": "Jemíma 'golobica', Kecíja 'cimetova lubja', Keren-ha-Púah 'rog črnila za oči' — pomeni izgubljeni v slovenščini"
+    }
+  ],
+  "translation": "In poklical je ime prvi Jemíma, ime drugi Kecíja in ime tretji Keren-ha-Púah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4123a94f2e834c0f1e78180901017d69c5eb5a288970270bde1dd52431863bce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/42\/13-16.1792436794703.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "in poklical je"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemíma"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Kecíja"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "tretji"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "ha-Púah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:34.705271835Z",
+  "model": "glm-5.3"
+}

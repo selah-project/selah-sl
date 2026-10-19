@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גלמי",
+      "rationale": "גולם — neoblikovana masa, zarodek — edino mesto v Tanahu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימים יצרו",
+      "rationale": "'dnevi, ki so oblikovani' brez množinske končnice v soglasju; nekateri berejo 'moji udje' namesto 'dnevi'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dnevi zapisani",
+      "rationale": "šteti in vpisani dnevi v knjigo — pridevnik štetja"
+    }
+  ],
+  "translation": "Tvoja oči so videle moj neoblikovani zarodek, in v tvojo knjigo so vsi zapisani — dnevi, ki so oblikovani, in še nobeden izmed njih ⟨ni bil⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/139\/13-16.1792435715812.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "moj neoblikovani zarodek"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "so videle"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoja oči"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in v"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "tvojo knjigo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "so zapisani"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ki so oblikovani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in še ne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nobeden"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "izmed njih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:35.814383465Z",
+  "model": "glm-5.3"
+}

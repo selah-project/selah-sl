@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola 'biti': El Jahve — dodan 'je' kot vezo."
+    },
+    {
+      "kind": "crux",
+      "subject": "אסרו חג",
+      "rationale": "Dvomljivo: 'zavežite (praznično) žrtev' (KJV, BSB) ali 'uredite praznično sprevod z vejami' (JPS); חג je 'praznik' in tudi 'žrtev ob prazniku'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "praznično žrtev",
+      "rationale": "חג dobesedno 'praznik\/lestenec'; na tem mestu prevzeto kot 'žrtev ob prazniku'."
+    }
+  ],
+  "translation": "El je Jahve in nam je dal svetlobo; zavežite praznično žrtev z vrvmi, vse do rogov oltarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/25-28.1792435490319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "in je dal svetlobo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "zavežite"
+    },
+    {
+      "surface": "חג",
+      "gloss": "praznično žrtev"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "z vrvmi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rogov"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltarja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:50.320490494Z",
+  "model": "glm-5.3"
+}

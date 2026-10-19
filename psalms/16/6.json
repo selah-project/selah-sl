@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפלו",
+      "rationale": "'so padle' (žreb je padel) ali 'so izmerile' (merilne vrve pri razdelitvi dežele); obstajata dve podobi."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpušča glagol biti."
+    }
+  ],
+  "translation": "Vrvi so mi izmerile prijetne dežele; da, dediščina, ki se sveti, ⟨je⟩ name.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/16\/5-8.1792434580179.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Vrvi (merilne)"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "so izmerile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "prijetne dežele"
+    },
+    {
+      "surface": "אף",
+      "gloss": "da"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dediščina, ki se sveti"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "(sveti)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:40.181968921Z",
+  "model": "glm-5.3"
+}

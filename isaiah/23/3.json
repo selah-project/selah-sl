@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew nominalni stavek brez kopule"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Šihor",
+      "rationale": "שיחור je Nil oz. njegov krak; ime ohranjeno, ne prevod"
+    }
+  ],
+  "translation": "In na velikih vodah ⟨je⟩ seme Šihorja, žetev reke ⟨je⟩ njen pridelek; in postala je tržnica narodov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/23\/1-4.1792430324383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "in na vodah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velikih"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Šihorja"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetev"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "reke"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "njen pridelek"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in postala je"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "tržnica"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodov"
+    }
+  ],
+  "timestamp": "2026-10-19T17:18:44.384684012Z",
+  "model": "glm-5.3"
+}

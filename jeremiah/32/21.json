@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "slovenščina zahteva pomožniški glagol, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In izpeljal si ⟨את⟩ svoje ljudstvo, ⟨את⟩ Jisrael, iz dežele Micrajim, v znamenjih in v čudežih in z močno roko in z iztegnjeno roko in z velikim strahom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac637168d4dbec7f4987c93f1b0e73fa1ea18da462c9d1a52da3148600f0e64f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/32\/21-24.1792431678411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "in izpeljal si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ljudstvo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "v znamenjih"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "in v čudežih"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "in z roko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "močno"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "in z iztegnjeno roko"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "iztegnjeno"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "in z velikim strahom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:18.411598280Z",
+  "model": "glm-5.3"
+}

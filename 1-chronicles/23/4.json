@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "razdelitev levitov",
+      "rationale": "24.000 nadzornikov in 6.000 pisarjev in sodnikov — razčlenitev števila iz v. 3"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pisarji",
+      "rationale": "שוטר je dobesedno 'pisar', uradni nadzornik, ne le 'nadzornik'"
+    }
+  ],
+  "translation": "Od teh za nadziranje dela hiše Jahveja štiriindvajset tisoč, in pisarje in sodnikov šest tisoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/23\/1-4.1792438288082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Od teh"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "za nadziranje"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "delom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "in štiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "in pisarje"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "in sodnike"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:28.084523838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "več kakor",
+      "rationale": "primerjava 'več kakor' ni eksplicitna v hebrejščini; KJV\/Ženeva jo dodajo, YLT jo izpusti — hebrejščina postavlja stvari druga ob drugi brez veznika"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošt",
+      "rationale": "תירוש je svež grozdni sok, tik iztisnjen; 'mošt' ohranja svežino, 'vino' bi zgodilo fermentacijo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבים \/ רבו",
+      "rationale": "v. 7 'mnogi (רבים) pravijo' — v. 8 'njihovo žito in mošt se je pomnožilo (רבו)': isti koren, velikost množice in obilja"
+    }
+  ],
+  "translation": "Dal si veselje v moje srce, več kakor v čas, ko se je pomnožilo njihovo žito in njihov mošt.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc17e4c4ca72386b03f7ebe52fc834376d45943155884edcefe2be13816058b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/4\/7-8.1792438996196.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Dal si"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselje"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "v moje srce"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "v čas, ko"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "njihovo žito"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "in njihov mošt"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se je pomnožilo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:16.198689604Z",
+  "model": "glm-5.3"
+}

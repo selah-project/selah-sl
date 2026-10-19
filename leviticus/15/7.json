@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "Hebrew participle without copula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשר",
+      "rationale": "בשר je 'meso\/golo telo', ne organ; 'telesa' je najbližja slovenska beseda."
+    }
+  ],
+  "translation": "In kdor se dotakne telesa zav, naj opere svoja oblačila in se umije v vodi in ⟨bo⟩ nečist do večera.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/15\/5-8.1792424329912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "in kdor se dotakne"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "telesa"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zav"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "naj opere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svoja oblačila"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "in se umije"
+    },
+    {
+      "surface": "במים",
+      "gloss": "v vodi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "in ⟨bo⟩ nečist"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:49.913726723Z",
+  "model": "glm-5.3"
+}

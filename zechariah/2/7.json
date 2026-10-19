@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poslanec",
+      "rationale": "מלאך je 'poslanec, glasnik'; 'angel' vs 'poslanec' je znana prelomnica prevajalcev"
+    }
+  ],
+  "translation": "In glej, poslanec, ki govori v meni, je izšel, in drug poslanec je izšel naproti njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/2\/5-8.1792434316303.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "In glej"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "poslanec"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ki govori"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "je izšel"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "in drug poslanec"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drug"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "je izšel"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "naproti njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:16.304804064Z",
+  "model": "glm-5.3"
+}

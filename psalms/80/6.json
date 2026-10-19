@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שליש",
+      "rationale": "'tretjina \/ trojna mera \/ velika mera' — prevodi: v veliki meri, tretjič, trikrat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמעה\/בדמעות",
+      "rationale": "ponovitev 'solz' v dveh oblikah v enem verzu"
+    }
+  ],
+  "translation": "Dal si jesti ⟨את⟩ kruh solz in poil ⟨את⟩ nas s solzami v trojici.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/80\/5-8.1792435192976.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Dal si jesti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "solz"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "in poil"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "s solzami"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "v trojici"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:52.977991804Z",
+  "model": "glm-5.3"
+}

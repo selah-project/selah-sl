@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 6:18",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovnik Hemana",
+      "rationale": "Verz je zgolj veriga 'sin X' — rodovniški seznam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המשורר",
+      "gloss": "pevec",
+      "rationale": "Dojeziko: 'pevec' namesto dobesednega 'tisti, ki poje'."
+    }
+  ],
+  "translation": "In ti so ⟨tisti, ki⟩ stojijo, in njihovi sinovi: od sinov Kehatovcev Heman pevec, sin Joela, sin Šmuela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cf498264b473fea56e91a3f498af208158f2c31d5790f1f493758e9d1c0ec15b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/6\/17-20.1792438067379.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stajoči"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "in njihovi sinovi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinov"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatovcev"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heman"
+    },
+    {
+      "surface": "המשורר",
+      "gloss": "pevec"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:47.380072391Z",
+  "model": "glm-5.3"
+}

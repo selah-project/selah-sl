@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje kopulo, hebrejščina je nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "trditev ali vprašanje",
+      "rationale": "JPS bere ironično vprašanje (Job se norčuje iz prijateljev), KJV\/ASV pa trditev."
+    }
+  ],
+  "translation": "Pri starcih ⟨je⟩ modrost in v dolgini dni razumevanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/12\/9-12.1792436355599.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "pri starcih"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "in v dolgini"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "razumevanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:15.600670694Z",
+  "model": "glm-5.3"
+}

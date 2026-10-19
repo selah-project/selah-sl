@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hodil sem ter tja",
+      "rationale": "מתהלך je intensivni refleksiv — hoditi sem in tja; dobesedno »pohajkoval«"
+    },
+    {
+      "kind": "elision",
+      "subject": "miškan",
+      "rationale": "miškan ostaja po hebrejskem zvoku, ne »šotor zborovanja«"
+    }
+  ],
+  "translation": "kajti nisem prebival v hiši od dneva, ko sem spravil gor ⟨את⟩ sinove Jisraela iz Micrajima, do tega dne, in sem hodil sem ter tja v šotoru in v miškanu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/7\/5-8.1792428319370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "prebival"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "od dneva"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ko sem spravil gor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinove Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tega dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "in sem bil"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "hodil sem ter tja"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "v šotoru"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "in v miškanu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:45:19.371612968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zavezo sklenejo",
+      "rationale": "dobesedno 'zavezo odrežejo' (כרת ברית), slovenski idiom za sklenitev zaveze"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zoper",
+      "rationale": "על 'nad\/zoper' — sovražno usmerjenost proti komu"
+    }
+  ],
+  "translation": "Ker so se posvetovali s srcem skupaj, zoper te zavezo sklenejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/83\/5-8.1792435162256.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "so se posvetovali"
+    },
+    {
+      "surface": "לב",
+      "gloss": "s srcem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "zoper te"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "sklenejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:22.257377431Z",
+  "model": "glm-5.3"
+}

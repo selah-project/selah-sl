@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 24:8",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תועפת",
+      "rationale": "beseda se v Tanahu pojavlja samo tu (in vzporedno 24,8 = ena oblika); pomen 'višine\/rogorogje' je izpeljan"
+    },
+    {
+      "kind": "crux",
+      "subject": "rogorogje divjega bika",
+      "rationale": "KJV 'moč samoroga' (LXX monokeros); ראם je divji bik, ne samorog"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zvil",
+      "rationale": "יגר׮ iz korena 'kost' — dobesedno 'obere kosti'; 'zvil kosti' je blizu sliki, ne identično"
+    }
+  ],
+  "translation": "El ga je izpeljal iz Micrajima — kakor rogovje divjega bika mu je — pojedel bo narode, svoje nasprotnike, in njihove kosti bo zvil ter jih s puščicami razbil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "91510087081c40ae0d4bbc15222ac732f10eaa01fd2212901955416c750f2fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/24\/5-8.1792425271714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוציאו",
+      "gloss": "ga je izpeljal"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "כתועפת",
+      "gloss": "kakor rogovje"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "divjega bika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu je"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "pojedel bo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "svoje nasprotnike"
+    },
+    {
+      "surface": "ועצמתיהם",
+      "gloss": "in njihove kosti"
+    },
+    {
+      "surface": "יגרם",
+      "gloss": "bo zvil"
+    },
+    {
+      "surface": "וחציו",
+      "gloss": "ter s puščicami"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "razbil"
+    }
+  ],
+  "timestamp": "2026-10-19T15:54:31.715209712Z",
+  "model": "glm-5.3"
+}

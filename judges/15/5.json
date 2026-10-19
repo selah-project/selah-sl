@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 15:5",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨in⟩",
+      "rationale": "slovenščina potrebuje veznik pred zadnjim členom naštevanja, hebrejščina ga nima"
+    },
+    {
+      "kind": "alternative",
+      "subject": "zažgal",
+      "rationale": "בער pomeni tudi 'napredovati (kot ogenj)' — 'in je ogenj razširjal' je druga možna slika"
+    }
+  ],
+  "translation": "In je zanetil ogenj v baklah in jih spustil v stoječe žito Filištejcev, in je zažgal od kupov do stoječega žita in do vinograda ⟨in⟩ oljk.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bb3412b5bc51f34a0add217c92af0804083f05f1542e3cfbcc4a246851196de1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/15\/5-8.1792427241106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבער",
+      "gloss": "in je zažgal"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "בלפידים",
+      "gloss": "v baklah"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "in jih spustil"
+    },
+    {
+      "surface": "בקמות",
+      "gloss": "v stoječe žito"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filištejcev"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "in je zažgal"
+    },
+    {
+      "surface": "מגדיש",
+      "gloss": "od kupov"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "stoječega žita"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinograda"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oljk"
+    }
+  ],
+  "timestamp": "2026-10-19T16:27:21.106947674Z",
+  "model": "glm-5.3"
+}

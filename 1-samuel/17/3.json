@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מזה … מזה",
+      "rationale": "Dvojna ponovitev 's te strani … s te strani' — vzporedni stavki, v slovenščini drugačna zaimka za berljivost."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga v tretjem stavku nima."
+    }
+  ],
+  "translation": "In Filistejci so stali ob gori na tej strani, Jisrael pa je stal ob gori na drugi strani, ⟨med njima pa je bila⟩ soteska.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/17\/1-4.1792427811051.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "In Filistejci"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "so stali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gori"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "na tej strani"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "je stal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gori"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "na drugi strani"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "in soteska"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "med njima"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:51.052806726Z",
+  "model": "glm-5.3"
+}

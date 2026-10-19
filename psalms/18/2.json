@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חזקי",
+      "rationale": "חֵזֶק se v Tanahu pojavi samo tu — 'moč, opora'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארחמך",
+      "rationale": "רחם pomeni 'nagusmiljenje-ljubiti'; prevodi: 'ljubim te' \/ 'usmiljeno te ljubim' \/ 'rad te imam'"
+    },
+    {
+      "kind": "you",
+      "subject": "David Jahveju",
+      "rationale": "neposreden nagovor Imena"
+    }
+  ],
+  "translation": "In rekel je: Usmiljeno te ljubim, Jahve, moja moč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/1-4.1792434574094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "usmiljeno te ljubim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "moja moč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:34.137234766Z",
+  "model": "glm-5.3"
+}

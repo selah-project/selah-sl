@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks a copula; the list is simply placed over the inhabitant"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "Three near-identical sounds — dread\/pit\/net — a chain of paronomasia that tightens like the trap itself; Slovenian loses the sound-chain"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prebivalec zemlje",
+      "rationale": "Direct second-person address to the inhabitant of the earth"
+    }
+  ],
+  "translation": "Groza in jama in mreža ⟨so⟩ nad teboj, prebivalec zemlje!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/24\/17-20.1792430315696.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Groza"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "in jama"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "in mreža"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad teboj"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "prebivalec"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:18:35.697316564Z",
+  "model": "glm-5.3"
+}

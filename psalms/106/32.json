@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Meriva",
+      "rationale": "Ime kraja pomeni 'prepir'; prevodi se odločajo med imenom in pomenom ('vodah spora')."
+    },
+    {
+      "kind": "elision",
+      "subject": "ga",
+      "rationale": "Predmet jeze (Elohim\/Jahve iz pesmi) ni izražen v hebrejščini, slovenščina zahteva ⟨ga⟩."
+    }
+  ],
+  "translation": "In razjarili so ⟨ga⟩ pri vodah Meriva, in slabo je šlo Mošetu zaradi njih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/29-32.1792435415536.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "In razjarili so"
+    },
+    {
+      "surface": "על",
+      "gloss": "pri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vodah"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "in slabo je šlo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošetu"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "zaradi njih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:35.537575603Z",
+  "model": "glm-5.3"
+}

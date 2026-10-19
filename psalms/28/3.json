@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina brez veznika; slovenščina potrebuje 'je'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ničevost",
+      "rationale": "און je dobesedno 'ničevost', 'praznina'; tudi 'hudobija', 'malik'"
+    }
+  ],
+  "translation": "Ne odpelji me s hudobneži in s storilci ničevosti, ki govorijo mir s svojimi bližnjimi, hudoba pa ⟨je⟩ v njihovem srcu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/28\/1-4.1792434719504.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "odpelji me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobneži"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "in s"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "storilci"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničevosti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ki govorijo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "svojimi bližnjimi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "hudoba pa"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "v njihovem srcu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:59.506471989Z",
+  "model": "glm-5.3"
+}

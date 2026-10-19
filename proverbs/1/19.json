@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוצע\/בצע",
+      "rationale": "Isti koren kot glagol ('grabi') in samostalnik ('pridobitev') — paronomazija, v slovenščini delno ohranjena."
+    },
+    {
+      "kind": "crux",
+      "subject": "kdo vzame čigavo življenje",
+      "rationale": "Dvojni dogodek: poti grabežnivega vzamejo življenje njegovih lastnikov — tj. njegovo lastno."
+    }
+  ],
+  "translation": "Takšne so poti vsakega, ki grabi pridobitev: ⟨את⟩ življenje njegovih lastnikov vzame.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/1\/17-20.1792435758888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "takšne"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "poti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakega"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "ki grabi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "pridobitev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "življenje"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "življenje"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "njegovih lastnikov"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vzame"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:18.890192916Z",
+  "model": "glm-5.3"
+}

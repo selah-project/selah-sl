@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina jo izpušča"
+    },
+    {
+      "kind": "measurement",
+      "subject": "štirideset let",
+      "rationale": "dolžina Šelomotovega kraljevanja"
+    }
+  ],
+  "translation": "In dnevi, ko je Šelomot kraljeval v Jerušalajimu nad vsem Jisraelom, ⟨so⟩ štirideset let.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/11\/41-43.1792429010896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "in dnevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomot"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "štirideset"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-10-19T16:56:50.897674537Z",
+  "model": "glm-5.3"
+}

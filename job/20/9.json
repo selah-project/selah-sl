@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oči",
+      "rationale": "עין je ednina ('oko'); slovenščina tu zahteva množino 'oči'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שזפתו\/תשורנו",
+      "rationale": "dve redki glagolski obliki gledanja v vzporednici, ponovitev 'gledala' to delno prenese"
+    },
+    {
+      "kind": "addition",
+      "subject": "je uzrla",
+      "rationale": "slovenščina potrebuje glagol 'biti' v odvisnem stavku, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Oči, ki ga je uzrla, ga ne bo več uzrla in njegov kraj ga ne bo več gledal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/9-12.1792436463387.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "oči"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "ki ga je uzrla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "bo več"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "ga bo gledala"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "njegov kraj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:03.387978942Z",
+  "model": "glm-5.3"
+}

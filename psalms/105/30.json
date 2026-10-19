@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Navršala se",
+      "rationale": "שרץ je 'roilo se\/mrgolelo' — dobesedno 'rojevala se je' njihova dežela; slovenščina potrebuje glagolsko obliko z 'se'."
+    },
+    {
+      "kind": "addition",
+      "subject": "z",
+      "rationale": "Hebrejščina postavi samostalnik naravnost; slovenščina zahteva orodnik z 'z'."
+    }
+  ],
+  "translation": "Navršala se je z žabami njihova dežela, v sobah njihovih kraljev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/29-32.1792435403162.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "Navršala se"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "njihova dežela"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "z žabami"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "v sobah"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "njihovih kraljev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:23.162839396Z",
+  "model": "glm-5.3"
+}

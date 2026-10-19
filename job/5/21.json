@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pustošenje",
+      "rationale": "שד je 'nasilje, opustošenje'; 'uničenje' bi bilo preozko"
+    },
+    {
+      "kind": "crux",
+      "subject": "bič jezika",
+      "rationale": "תחבא dobesedno 'skriti se'; ali 'skrit BODI pred bičem jezika' — zatočišče pred obrekovanjem"
+    }
+  ],
+  "translation": "Za biča jezika se boš skril in se ne boš bal pustošenja, kadar pride.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/21-24.1792436235738.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "za biča"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezika"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "se boš skril"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boš se bal"
+    },
+    {
+      "surface": "משד",
+      "gloss": "pustošenja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "pride"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:15.739998409Z",
+  "model": "glm-5.3"
+}

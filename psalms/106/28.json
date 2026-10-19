@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mrtvih",
+      "rationale": "מתים je dobesedno 'mrtvih'; nekateri prevajajo 'nrazumnih bogov' (BSB) ali 'mrtvih malikov'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויצמדו",
+      "rationale": "צמד 'zvezati, vpregati v jarem' — slika vpreganja v kulta, v slovenščini 'pripenjati' delno ohranja"
+    }
+  ],
+  "translation": "Pripeli so se h Baal-Peorju in jedli žrtve mrtvih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ebcddbc40528780234288dc2216b9f2920aec30a5bc0107c97cef619d9e666cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/28-28.1792439027343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "Pripeli so se"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "h Baal-Peorju"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorju"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "in jedli"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mrtvih"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:47.344886949Z",
+  "model": "glm-5.3"
+}

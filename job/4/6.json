@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩\/⟨tvoja⟩",
+      "rationale": "hebrejščina brez glagola — naglavna vprašalna stavka brez veznika"
+    },
+    {
+      "kind": "crux",
+      "subject": "skladenjska razmejitev",
+      "rationale": "KJV bere štiri vzporedne samostalnike; ASV\/JPS\/YLT bere »upanje = popolnost poti« (prireditev: A je B, C je D)"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "neposreden nagovor Elifaza Jobu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "javah",
+      "rationale": "יראתך je bojazen\/bogabojaznost; »javah« ohranja hebrejski zvok besede"
+    }
+  ],
+  "translation": "Ali ni tvoja javah ⟨tvoja⟩ zaupanja, tvoje upanje in popolnost tvojih poti?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/4\/5-8.1792436257721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "tvoja javah"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "⟨tvoja⟩ zaupanja"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "tvoje upanje"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "popolnost"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tvojih poti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:37.723021536Z",
+  "model": "glm-5.3"
+}

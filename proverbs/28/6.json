@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula; the comparative 'boljši' requires one in Slovenian."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nezmotljivost",
+      "rationale": "תמימות is 'completeness, wholeness, innocence'; one aspect chosen."
+    },
+    {
+      "kind": "addition",
+      "subject": "vendar",
+      "rationale": "והוא עשיר is emphatic 'though he be rich'; concession supplied in Slovenian."
+    }
+  ],
+  "translation": "Boljši ⟨je⟩ revež, hodi v svoji nezmotljivosti, kakor krivež-potem in ⟨vendar⟩ bogat.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "70ab27c8be0155fcd212a6e8a3f6308fc4e267f9894af80499f5bbb4b777a040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/28\/5-8.1792436167219.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "boljši"
+    },
+    {
+      "surface": "רש",
+      "gloss": "revež"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "v svoji nezmotljivosti"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "krivež-"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "potem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in ⟨vendar⟩ on"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogat"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:07.220463265Z",
+  "model": "glm-5.3"
+}

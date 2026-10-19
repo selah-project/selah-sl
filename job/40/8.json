@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bil",
+      "rationale": "hebrejščina ima pridevniški glagol תצדק »bodi cedek\/pravičen«; slovenščina potrebuje kopulo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/צדק",
+      "rationale": "nasprotje krivi-caedek: obsoditi-me-kot-krivega, da-bi-ti-bil-pravičen — pravna igra korena, ki ostane"
+    }
+  ],
+  "translation": "Ali res pohodiš mojo sodbo, me obsodiš kot krivega, da bi ti ⟨bil⟩ cedek?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/40\/5-8.1792436763010.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "Ali res"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "pohodiš"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mojo sodbo"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "me obsodiš kot krivega"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ti ⟨bil⟩ cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:03.011469695Z",
+  "model": "glm-5.3"
+}

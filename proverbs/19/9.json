@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שקרים\/כזבים",
+      "rationale": "dve hebrejski besedi za laž v vzporednih členih; slovenščina ju izenači, razliko med pričo in govorcem pa nosi skladenjska zgradba"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ostal⟩",
+      "rationale": "hebrejščina ima samo glagolsko obliko 'bo očiščen'; pomožni glagol je dodan"
+    }
+  ],
+  "translation": "Priča laži ne bo ⟨ostal⟩ neobsojen, kdor pa izdihuje laži, bo izginil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/9-12.1792436016841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "priča"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "laži"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bo ⟨ostal⟩ neobsojen"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "kdor pa izdihuje"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "laži"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "bo izginil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:36.842677837Z",
+  "model": "glm-5.3"
+}

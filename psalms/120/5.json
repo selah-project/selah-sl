@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tujec",
+      "rationale": "גור je dobesedno 'bivakirati kot tujec'; popolnoma doslovno bi bilo 'sprehajal sem se kot gost'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Mešeh in Qedar",
+      "rationale": "Mešeh (Jafetov sin, daleč na severu) in Qedar (Išmaelov sin, na jugu) — daleč naroda skupaj; some jih jemljejo simbolično kot 'nasilneži', ne kot zemljepisni imeni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרתי\/שכנתי",
+      "rationale": "dvojica 'tujec\/prebivam' — začasno bivanje med bojevniki"
+    }
+  ],
+  "translation": "Gorje meni, da sem tujec v Mešehu, da prebivam med šotori Qedarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/120\/5-7.1792435529025.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Gorje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "sem tujec"
+    },
+    {
+      "surface": "משך",
+      "gloss": "v Mešehu"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "prebivam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "šotori"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedarja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:29.025768348Z",
+  "model": "glm-5.3"
+}

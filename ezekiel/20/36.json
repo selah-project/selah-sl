@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 20:36",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתכם (אשפט אתכם)",
+      "rationale": "predlog את H854 'z\/vas' v sodnem pomenu ('soditi z nekimi'), ne določni označevalec"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאשר נשפטתי",
+      "rationale": "KJV\/ASV 'kakor sem se prerekal\/z vas sodil' (hiphil dejanjsko) nasproti YLT 'kakor sem bil sojen' — dejanje sodbe je Jahvejevo"
+    }
+  ],
+  "translation": "Kakor sem sodil ⟨את⟩ vaše očete v puščavi dežele Micrajim, tako bom sodil ⟨את⟩ z vami, govori Adonaj Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1e647a4e008bf21d9dcaff0656403b2a6b70eae36fe96cbbd69081d11b36008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/20\/33-36.1792432344518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kakor"
+    },
+    {
+      "surface": "נשפטתי",
+      "gloss": "sem sodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše očete"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaše očete"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "bom sodil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z vami"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:52:24.519562712Z",
+  "model": "glm-5.3"
+}

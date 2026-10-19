@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אדם ק dodatek ‘je’",
+      "rationale": "Besedni red hebrejščine postavlja ‘človek’ pred negacijo ‘ni’; slovenski red obrne."
+    }
+  ],
+  "translation": "Kajti človeka ni pravičnega na zemlji, ki bi delal dobro in ne grešil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/17-20.1792437134121.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bi delal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "grešil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:14.123307471Z",
+  "model": "glm-5.3"
+}

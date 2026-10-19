@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "knez",
+      "rationale": "אלוף je dobesedno 'tisti, ki je domačen\/rejen' — vodja rodu; 'vojvoda' ali 'knez' je vloga, ne slika."
+    },
+    {
+      "kind": "alternative",
+      "subject": "nastopili so",
+      "rationale": "ויהיו dobesedno 'in bili so' — tudi 'in bili so knezji Edoma'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seznam knezov",
+      "rationale": "Konec kraljev, začetek seznama edomskih knezov."
+    }
+  ],
+  "translation": "In umrl je Hadad. In nastopili so knezji Edoma: knez Timna, knez Alva, knez Jetet.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6a2f63e862e27750c45737995c1553310c07d4b24b30cd980e07320d73d24a82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/49-52.1792438007093.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "umrl je"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nastopili so"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "knezji"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "knez"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "knez"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "knez"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Jetet"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:47.095528027Z",
+  "model": "glm-5.3"
+}

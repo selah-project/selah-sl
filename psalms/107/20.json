@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "iz njihovih propadov",
+      "rationale": "שחיתות je dobesedno »jame \/ pasti za rušenje« (KJV »destructions«, JPS »graves«) — »jame« ohranja fizično podobo"
+    }
+  ],
+  "translation": "Pošlje svojo besedo in jih pozdravi, in jih reši iz njihovih jam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/17-20.1792435403494.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Pošlje"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "svojo besedo"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "in jih pozdravi"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "in jih reši"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "iz njihovih jam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:23.495246675Z",
+  "model": "glm-5.3"
+}

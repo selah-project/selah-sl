@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במסבו",
+      "rationale": "Dvomljiva beseda: 'na svojem krogu' (ležišče\/divan okrog mize) ali 'pri svoji mizi' (KJV\/JPS); koren pomeni 'obkrožati'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva pomožnik 'je' pri pretekliku; hebrejščina ga izraža z obliko נתן."
+    }
+  ],
+  "translation": "Medtem ko je kralj na svojem sedenju-okoli, je moja narda dala svoj vonj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/1\/9-12.1792436831575.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "medtem ko"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "je kralj"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "na svojem sedenju-okoli"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "moja narda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dala"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "svoj vonj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:11.576342511Z",
+  "model": "glm-5.3"
+}

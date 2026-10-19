@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hierarhija",
+      "rationale": "Stopnjevanje tisoč–sto–petdeset–deset: štetje poveljniške hierarhije."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pisarje",
+      "rationale": "שטרים je dobesedno 'pisarji\/uradniki', ne le 'nadzorniki'."
+    }
+  ],
+  "translation": "In vzel sem ⟨את⟩ glave vaših plemen, možé modre in poznane, in postavil sem ⟨את⟩ njih za glave nad vami: kneze tisočnikov in kneze stotnikov in kneze petdesetnikov in kneze desetnikov ter pisarje za vaša plemena.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/1\/13-16.1792425657541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "in vzel sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glave vaših plemen"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "vaših plemen"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "možé"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "modre"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "in poznane"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "in postavil sem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "glave"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vami"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kneze"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisočnikov"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "in kneze"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stotnikov"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "in kneze"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "petdesetnikov"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "in kneze"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "desetnikov"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ter pisarje"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "za vaša plemena"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:57.542240092Z",
+  "model": "glm-5.3"
+}

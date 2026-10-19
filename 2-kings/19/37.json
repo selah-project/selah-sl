@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 19:37",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jegova sinova",
+      "rationale": "Hebrejščina ne reče 'njegova sinova' o Adramaleku in Šarecerju; pomen je iz sobesedila."
+    },
+    {
+      "kind": "substitution",
+      "subject": "med molitvijo",
+      "rationale": "משתחוה je dobesedno 'pri obešanju\/prostriranju' — padanje na obraz v čaščenje."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Poudarjeni zaimek 'on' (Sanherib) je v slovenščini vključen v obliko glagola."
+    },
+    {
+      "kind": "crux",
+      "subject": "Ararat",
+      "rationale": "KJV prevaja 'Armenija'; hebrejsko אררט je dežela Ararat."
+    }
+  ],
+  "translation": "In zgodilo se je, da je ⟨on⟩ med molitvijo v templju Nisroka, svojega boga, Adramalek in Šarecer udarila z mečem, onadva pa sta pobegnila v deželo Ararat; in Esar Hadon, njegov sin, je kraljeval namesto njega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ec789943a4c1a9614545531906243b90e65409af09348ca55838442e759a642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/19\/37-37.1792429766121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "משתחוה",
+      "gloss": "pri molitvi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v templju"
+    },
+    {
+      "surface": "נסרך",
+      "gloss": "Nisroka"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svojega boga"
+    },
+    {
+      "surface": "ואדרמלך",
+      "gloss": "Adramalek"
+    },
+    {
+      "surface": "ושראצר",
+      "gloss": "in Šarecer"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "udarila"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "onadva pa"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "sta pobegnila"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "v deželo"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararat"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in kraljeval je"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Esar"
+    },
+    {
+      "surface": "חדן",
+      "gloss": "Hadon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    }
+  ],
+  "timestamp": "2026-10-19T17:09:26.122485936Z",
+  "model": "glm-5.3"
+}

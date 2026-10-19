@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "do Jahve",
+      "rationale": "Šalamova prošnja se neposredno obrača na Jahveja z drugim osebkom."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebesa",
+      "rationale": "השמים je dvojina (nebesa dvojna); slovenščina nima dvojinske oblike za to besedo."
+    }
+  ],
+  "translation": "potem boš slišal v nebesih ⟨את⟩ njihovo molitev in ⟨את⟩ njihovo prošnjo in izvršil boš njihovo pravo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/8\/45-48.1792428952178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "potem boš slišal"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "v nebesih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovo molitev"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "njihovo molitev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njihovo prošnjo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "njihovo prošnjo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "in izvršil boš"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "njihovo pravo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:55:52.178812993Z",
+  "model": "glm-5.3"
+}

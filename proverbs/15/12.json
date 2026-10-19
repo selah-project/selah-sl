@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "posmehljivec",
+      "rationale": "לץ: dobesedno 'tisti, ki zmahuje z usti', izposojena slika 'narediti usta'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... לא",
+      "rationale": "dvojna negacija v vzporednih stavkih, poudari trmoglavost posmehljivca"
+    },
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "slovenščina potrebuje veznik med vzporednima stavkoma, hebrejščina ga nima (vav ni prisoten)"
+    }
+  ],
+  "translation": "Posmehljivec ne ljubi ⟨tistega, ki ga⟩ graja, ⟨in⟩ k modrim ne hodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50d30c56e6aa1e6cb4099b18bd1a8604be289c4391f596cf633896519b5073a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/12-12.1792439060764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "posmehljivec"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "graja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "modrim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "hodi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:20.765551193Z",
+  "model": "glm-5.3"
+}

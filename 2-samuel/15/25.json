@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩",
+      "rationale": "hebrejščina postavi golega העיר brez predloga; slovenščina potrebuje 'v'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "njen dom",
+      "rationale": "נוהו je 'njegov prebival\/lovliv prostor' — njegov, Elohimovega, ne skrinje; 'tabernakelj' Wycliffa in KJV je uganka"
+    },
+    {
+      "kind": "you",
+      "subject": "Sadoku",
+      "rationale": "kralj neposredno nagovarja duhovnika Sadoka"
+    }
+  ],
+  "translation": "In kralj je rekel Sadoku: Vrni ⟨את⟩ skrinjo Elohim ⟨v⟩ mesto! Če najdem milost v očeh Jahveja, povrnil me bo in pokazal mi ⟨את⟩ jo in ⟨את⟩ njen dom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/15\/25-28.1792428479629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In-rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Sadoku"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vrni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrinjo Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "najdem"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v-očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "me-bo-povrnil"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "mi-bo-pokazal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jo (skrinjo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njen dom"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "njen-dom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:47:59.629729685Z",
+  "model": "glm-5.3"
+}

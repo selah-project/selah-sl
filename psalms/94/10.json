@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ali ne bo vedel⟩",
+      "rationale": "Hebrejščina drugi vprašalni stavek podaljša le z apodozo (eliptično); slovenščina potrebuje glagol."
+    },
+    {
+      "kind": "crux",
+      "subject": "יוכיח",
+      "rationale": "'pohujiti\/pripreti' vs 'odločiti, izreči pravdo'; YLT celo bere 'je Jehovah'."
+    }
+  ],
+  "translation": "Kdor kaznuje narode, ali ne bo pohudil? Kdor uči človeka spoznanja, ⟨ali ne bo vedel⟩?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/94\/9-12.1792435276971.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "kaznuje"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "bo pohudil"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "uči"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznanja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:41:16.972305225Z",
+  "model": "glm-5.3"
+}

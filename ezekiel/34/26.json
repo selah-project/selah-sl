@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 34:26",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "slovenščina potrebuje popolnoma noveliran predikat; hebrejščina ima samo יהיו (bodo)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גשם\/גשמי ברכה",
+      "rationale": "ponovitev »dež — deževja blagoslova« poudarja obilo; delno ohranjeno."
+    }
+  ],
+  "translation": "In dal ⟨את⟩ njih in okolico svojega hriba za blagoslov, in spustil deževje v njegovem času; deževja blagoslova bodo ⟨to⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d80b246f8f8d3c7cd3ead4db6812f73adc15a82f8dccdc990b81a228482ecfd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/34\/25-28.1792433470703.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih in okolico svojega hriba"
+    },
+    {
+      "surface": "וסביבות",
+      "gloss": "okolico"
+    },
+    {
+      "surface": "גבעתי",
+      "gloss": "svojega hriba"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "za blagoslov"
+    },
+    {
+      "surface": "והורדתי",
+      "gloss": "spustil"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "deževje"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "v njegovem času"
+    },
+    {
+      "surface": "גשמי",
+      "gloss": "deževja"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blagoslova"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bodo ⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:10.704825572Z",
+  "model": "glm-5.3"
+}

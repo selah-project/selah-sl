@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "potomstvo",
+      "rationale": "זרע je dobesedno 'seme' — kmetijska slika, v slovenščini 'potomstvo'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעל פניו \/ מפניו",
+      "rationale": "ponovitev 's svojega obličja' v vv. 18 in 20 oblikuje okvir izgnanstva"
+    }
+  ],
+  "translation": "In Jahve je zavrnil vse potomstvo Jisraela in jih ponižal ter jih izročil v roko roparjev, dokler jih ni vrgel s svojega obličja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a20b12cd2146b1bea3684db4b89dc58a4d069828fa5184c98eb6b47448512664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/17\/17-20.1792429736607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "in zavrnil je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "in ponižal jih je"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ter izročil jih je"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "roparjev"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "jih ni vrgel"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "s svojega obličja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:08:56.608503305Z",
+  "model": "glm-5.3"
+}

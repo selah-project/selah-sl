@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pesem⟩",
+      "rationale": "לדוד je naslovni navedek; slovenščina potrebuje samostalnik"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne bodi gluh",
+      "rationale": "חרש pomeni bodisi 'biti gluh' bodisi 'molčati'; prevodi se delijo med 'ne utihni' in 'ne bodi gluh'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחרש \/ תחשה",
+      "rationale": "dva korena z istim pomenom ('biti gluh\/molčati') v istem verzu — ponovitev, v slovenščini razloščena"
+    }
+  ],
+  "translation": "Davidova ⟨pesem⟩. K tebi, Jahve, kličem; skala moja, ne bodi gluh proti meni, da ne utihneš proti meni in ne bi bil prištet med tiste, ki silijo v jamo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/28\/1-4.1792434719504.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kličem"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skala moja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bodi gluh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "proti meni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "utihneš"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "proti meni"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "in ne bi bil prištet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "tiste, ki silijo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "v jamo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:59.505458782Z",
+  "model": "glm-5.3"
+}

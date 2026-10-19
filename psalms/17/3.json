@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prečistil",
+      "rationale": "צרף je kovaška beseda — taliti kovino; preslikana na človeka."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמתי בל יעבר פי",
+      "rationale": "Dvojno branje: 'moj namen ne preide čez moja usta' (namen ostane neizrečen) ali 'moja usta ne prestopijo namere' (KJV: 'usta ne pregrešijo'); slovnica dopušča obe."
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "פקדת לילה nima predmeta; 'ga' (srce) je dodano za jasnost."
+    }
+  ],
+  "translation": "Preizkusil si moje srce, obiskal si ga ponoči, prečistil si me — ničesar ne najdeš; moja namera ne bo prešla čez moja usta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/1-4.1792434614764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Preizkusil si"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "obiskal si"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ponoči"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "prečistil si me"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "najdeš"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "moja namera"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "bo prešla"
+    },
+    {
+      "surface": "פי",
+      "gloss": "čez moja usta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:14.765411072Z",
+  "model": "glm-5.3"
+}

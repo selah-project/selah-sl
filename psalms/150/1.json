@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nebeskem oboku",
+      "rationale": "רקיע je dobesedno 'razprostiranje\/obok' — trdna polica nad zemljo, ne moderne predstave o nebesih"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ves psalm",
+      "rationale": "trojni imperativ 'hvalite' — nagovor, ki kliče v hvaljenje"
+    }
+  ],
+  "translation": "Hvalite Jaha, hvalite Ela v njegovi svetosti, hvalite ga v nebeskem oboku njegove moči!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/150\/1-4.1792435782864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hvalite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "v njegovi svetosti"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "v nebeskem oboku"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "njegove moči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:42.864976951Z",
+  "model": "glm-5.3"
+}

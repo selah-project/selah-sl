@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je po D2 zapisana kot cedek – slovenski bralec vidi hebrejsko besedo, ne le pojma pravičnost"
+    }
+  ],
+  "translation": "Veličastnost in sijaj je njegovo delo, in njegova cedek stoji za vedno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/111\/1-4.1792435440082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Veličastnost"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "in sijaj"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "njegovo delo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "in njegova cedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "za vedno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:00.083078120Z",
+  "model": "glm-5.3"
+}

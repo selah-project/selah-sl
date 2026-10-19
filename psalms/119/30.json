@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zvestoba",
+      "rationale": "אמונה je dobesedno 'trdnost', moralno 'zvestoba'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שויתי",
+      "rationale": "'primerjal\/postavil predse' — dobesedno 'izravnaval', prevajalci se razhajajo med 'postavil pred se' in 'primerjal'."
+    }
+  ],
+  "translation": "Pot zvestobe sem izbral, ⟨k⟩ tvojim pravom sem ⟨prilagal⟩ ⟨življenje⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2e323be5f74b3b888726790f8170ad49ab447a522334067e327dd054144f8749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/29-32.1792435499696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "zvestobe"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "sem izbral"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvojim pravom"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "sem postavil predse"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:59.697260226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje osebni zaimek 'ga', hebrejščina ima samo glagol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרים \/ תרומה",
+      "rationale": "dvigovanje (rum) in dvignjena daritev (teruma) — isti koren, gesta dvigovanja daritve."
+    }
+  ],
+  "translation": "Vsak, ki je dvigoval daritev srebra in bakra, je prinesel ⟨את⟩ daritev Jahveja; in vsak, pri katerem se je našel ⟨את⟩ akacijevo les za vsako delo službe, ga je prinesel.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "95d5f8fb97a84904f75390e03bc4393dd7af1492fd7993859ee875751534d2ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/35\/21-24.1792423740201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ki je dvigoval"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "in bakra"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "je prinesel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daritev"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "se je našel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pri njem ⟨את⟩"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "les"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacijevo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "za vsako"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "delo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "službe"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "je prinesel"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:00.203135985Z",
+  "model": "glm-5.3"
+}

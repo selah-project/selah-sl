@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bil je",
+      "rationale": "Hebrejščina ima aktivni wayyiqtol 'in izgnal je'; slovenščina omogoča le pasivno ali preimenovan subjjekt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bil izgnan",
+      "rationale": "וַיִּגֶל je aktiv ('in odgnal je [kdo?]') z Jehudo kot predmetom; slovenska pasivna oblika izgublja to strukturo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויגל",
+      "rationale": "Koren גלה pomeni 'razodeti\/obnažiti' in 'izgnati' — dvojni pomen, v slovenščini izgubljen."
+    }
+  ],
+  "translation": "In kralj Babela jih je udaril ⟨את⟩ in jih dal usmrtiti v Ribli, v deželi Hamat; in Jehuda je bil izgnan s svoje lastne zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "595d5dcf3be76ebfbaa1bd4a9d07c31ffa8334f22d3b7f99b4256e180cd2a890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/26-28.1792433490743.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "in udaril"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "jih (ujetnike)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "in dal usmrtiti"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "v Ribli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "in bil izgnan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "svoje lastne zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:30.745065838Z",
+  "model": "glm-5.3"
+}

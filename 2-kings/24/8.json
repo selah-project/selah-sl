@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 24:8",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "star",
+      "rationale": "בן שמנה עשרה שנה — dobesedno 'sin osemnajstih let'; slovenščina 'star' namesto 'sin'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "osemnajst let, tri mesece",
+      "rationale": "Starost in dolžina vladavine kralja — kronika šteje."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "gloss_sic": null,
+      "rationale": "Slovenščina dodaja veznik 'je bil'; hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "Star osemnajst let je bil Jehojahin, ko je zavladal, in tri mesece je kraljeval v Jerušalajmu; ime njegove matere je bilo Nehušta, hči Elnatana, iz Jerušalajma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/24\/5-8.1792433423731.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "star"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "najst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojahin"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ko je zavladal"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "in tri"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesece"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajmu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "njegove matere"
+    },
+    {
+      "surface": "נחשתא",
+      "gloss": "Nehušta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatana"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iz Jerušalajma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:23.733790648Z",
+  "model": "glm-5.3"
+}

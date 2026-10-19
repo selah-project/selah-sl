@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 45:11",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האתיות",
+      "rationale": "dovoljeno berilo 'prihajajoče stvari' (iz בוא) ali 'znamenja' (kot אותות); prevodi se razhajajo"
+    },
+    {
+      "kind": "crux",
+      "subject": "vprašajte… ukazujte",
+      "rationale": "imperativ ali vprašanje 'me sprašujete… mi ukazujete?' (kot pritožba, BSB); hebrejščina dovoljuje oboje"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svojih⟩ sinovih",
+      "rationale": "hebrejščina ima samo בני 'moji sinovi' brez zaznamka, slovenščina dodaja svojilnost za tekom"
+    },
+    {
+      "kind": "you",
+      "subject": "do Izraela",
+      "rationale": "neposreden nagovor ljudstva prek 'tako govori Jahve'"
+    }
+  ],
+  "translation": "Tako govori Jahve, Sveti Izraelov, in njegov tvorec: Kar prihaja, me vprašajte; o ⟨svojih⟩ sinovih in o delu svojih rok mi ukazujte.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/45\/9-12.1792430685186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Sveti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelov"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "in njegov tvorec"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "kar prihaja"
+    },
+    {
+      "surface": "שאלוני",
+      "gloss": "me vprašajte"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovih"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in o"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "delu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svojih rok"
+    },
+    {
+      "surface": "תצוני",
+      "gloss": "mi ukazujte"
+    }
+  ],
+  "timestamp": "2026-10-19T17:24:45.187500201Z",
+  "model": "glm-5.3"
+}

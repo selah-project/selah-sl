@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "s katerimi",
+      "rationale": "slovenščina potrebuje oziralni stavek, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Vedel bi ⟨besede⟩, s katerimi mi bo odgovoril, in razumel, kaj mi bo rekel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "37d18454799073d027f6d0bb283b278de92cee86e5b53dd504795726d3f9e112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/23\/5-8.1792436542041.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "vedel bi"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "mi bo odgovoril"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "in bi razumel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bo rekel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:22.041740911Z",
+  "model": "glm-5.3"
+}

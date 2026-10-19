@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rezina",
+      "rationale": "פלח — rezina, prerez; JPS 'split open' (razpolovljena)"
+    }
+  ],
+  "translation": "Kakor rezina granatnega jabolka je tvoj tempelj za tvojim pokrivalom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/6\/5-8.1792436864958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "kakor rezina"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "granatnega jabolka"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "tvoj tempelj"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "tvojim pokrivalom"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:44.962067565Z",
+  "model": "glm-5.3"
+}

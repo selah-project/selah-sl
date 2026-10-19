@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 14:13",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez kopule; slovenščina zahteva glagol biti."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבלתי השיב",
+      "rationale": "Nekateri berejo 'da ne vrača', drugi 'kakor krivec, ker ne vrača'."
+    },
+    {
+      "kind": "you",
+      "subject": "Davidu",
+      "rationale": "Žena se neposredno obrača na kralja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידח\/נדח",
+      "rationale": "Koren נדח se v verzu ponovi (izgnanec, pregnan), v slovenščini z eno besedo 'izgnanec'."
+    }
+  ],
+  "translation": "In žena je rekla: Zakaj si si tako mislil proti ljudstvu Elohimovemu? Kajti kralj, ki govori to besedo, ⟨je⟩ kakor krivec, ker kralj ne vrača ⟨את⟩ svojega izgnanca.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/14\/13-16.1792428404339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in je rekla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "חשבתה",
+      "gloss": "si si mislil"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "tako"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimovemu"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "ki govori"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "kakor krivec"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ker ne"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "vrača"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega izgnanca"
+    },
+    {
+      "surface": "נדחו",
+      "gloss": "svojega izgnanca"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:44.339777331Z",
+  "model": "glm-5.3"
+}

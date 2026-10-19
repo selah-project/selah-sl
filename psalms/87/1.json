@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima copule; besedilo je brez glagola"
+    },
+    {
+      "kind": "crux",
+      "subject": "njegov temelj",
+      "rationale": "יסודתו brez imenovanega subjekta: Zionova temeljev ali Jahvejevih; prevod pušča svoilno obliko odprto"
+    }
+  ],
+  "translation": "Sinovom Koraha, mizmor, pesem. Njegov temelj ⟨je⟩ na svetih gorah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/87\/1-4.1792435238032.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Sinovom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "njegov temelj"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "na svetih gorah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:38.033679807Z",
+  "model": "glm-5.3"
+}

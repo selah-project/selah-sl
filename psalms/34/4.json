@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "Tu je H854 'z menoj' (predlog bližine), ne predmetni označevalec H853; kljub podobni obliki ni aleph-tav predmeta."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Poveličujte",
+      "rationale": "Vezani vabilni imperativ: 'z menoj' in 'povzdigniva' vlečeta poslušalca v skupno hvalnico."
+    }
+  ],
+  "translation": "Poveličujte ⟨את⟩ z menoj Jahveja, in povzdigniva skupaj njegovo ime!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/1-4.1792434767766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Poveličujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ z menoj",
+      "marks": "—"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "in povzdigniva"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "skupaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:47.768596966Z",
+  "model": "glm-5.3"
+}

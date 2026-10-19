@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 7:23",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Slovenščina potrebuje glagol; hebrejščina ga v teh stavkih ne izreče."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šelamim",
+      "rationale": "שלמיט je dar 'celosti\/šaloma'; pustljeno po zvoku, ne 'mirovna daritev'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "štetje živali",
+      "rationale": "Verz je popolnoma številski: dve–pet–pet–pet."
+    }
+  ],
+  "translation": "in za žrtvovanje šelamim dve govedi, pet ovnov, pet kozlov, pet jagenjkov starih eno leto; to je bil dar Netanela, sina Cuárja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9a11961e7466ceb31bcd2b02ba86c28c6afa543e93ed97bfcd4f074c0d29c8bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/7\/22-24.1792433290211.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "in za žrtvovanje"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dve"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ovnov"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kozlov"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "jagenjkov"
+    },
+    {
+      "surface": "בני",
+      "gloss": "starih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eno leto"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cuárja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:10.212943114Z",
+  "model": "glm-5.3"
+}

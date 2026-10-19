@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 2:23",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne nematerialna duša"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כה יעשה וכה יוסיף",
+      "rationale": "priseg formula: 'tako mi Elohim storil in še dodal'"
+    }
+  ],
+  "translation": "In prisegel je kralj Šelomo pri Jahveju govoreč: Tako mi storil Elohim in tako dodal, kajti s svojo dušo je govoril Adonijah ⟨את⟩ to besedo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/2\/21-24.1792428732967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "in prisegel je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pri Jahveju"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "naj stori"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "in tako"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "naj doda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "s svojo dušo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to besedo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T16:52:12.968057265Z",
+  "model": "glm-5.3"
+}

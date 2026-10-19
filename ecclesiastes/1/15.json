@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעות\/לתקן",
+      "rationale": "nasprotje popačeno\/ravno; vzporedni stavki z enako obliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "להמנות",
+      "rationale": "'prešteti' proti 'dopolniti'; dobesedno šteti\/manjkajoče."
+    }
+  ],
+  "translation": "Kar je popačeno, ni mogoče popraviti, in česar manjka, ni mogoče prešteti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/1\/13-16.1792437060363.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "kar je popačeno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ni mogoče"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "popraviti"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "in kar manjka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ni mogoče"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "prešteti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:00.365803762Z",
+  "model": "glm-5.3"
+}

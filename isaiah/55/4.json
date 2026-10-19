@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד לאומים",
+      "rationale": "'priča ljudstvom' ali 'priča ⟨med⟩ ljudstvi' — predlog ל je dvoumen; 'ga' se nanaša na Davida iz v. 3."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגיד",
+      "rationale": "נגיד je 'kdor stori spredaj', vladar ali knez — 'voditelj' izgubi dvor_node pomen 'kneza'."
+    }
+  ],
+  "translation": "Glej, za pričo ljudstvom sem ga postavil, za voditelja in zapovedovalca ljudstvom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/55\/1-4.1792430800316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "עד",
+      "gloss": "za pričo"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ljudstvom"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "sem ga postavil"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "za voditelja"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "in zapovedovalca"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ljudstvom"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:40.317887359Z",
+  "model": "glm-5.3"
+}

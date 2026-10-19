@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 2:22",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalilno milo",
+      "rationale": "ברית je rastlinska lugavina (gladik); 'milo' je približek."
+    }
+  ],
+  "translation": "Kajti čeprav se opereš s sodo in namnožiš sebi kalilnega mila, zapisana je tvoja krivda pred mano, govori Adonaj Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "440e59ee2228ace7507f4adc8a673b126201453ae0770f26d187b162345cec85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/21-24.1792430992644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "čeprav"
+    },
+    {
+      "surface": "תכבסי",
+      "gloss": "se-opereš"
+    },
+    {
+      "surface": "בנתר",
+      "gloss": "s-sodo"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "in-namnožiš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kalilnega-mila"
+    },
+    {
+      "surface": "נכתם",
+      "gloss": "zapisana"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tvoja-krivda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred-mano"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:52.645298183Z",
+  "model": "glm-5.3"
+}

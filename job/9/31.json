@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 9:31",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "moja oblačila me bodo gnusila",
+      "rationale": "obrambe: oblačila nosijo madeže, ki z Gnusijo Joba; hebrejščina ohranja pretresajočo zamenjavo subjekta."
+    },
+    {
+      "kind": "addition",
+      "subject": "tedaj",
+      "rationale": "אז ('tedaj') je vključeno v slovensko zvezo z naslednjim verzičnim stavkom."
+    }
+  ],
+  "translation": "me boš potopil v jamo, in moja oblačila me bodo gnusila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "677818c64360e2db54f6b20bba5a2a3cbb7f36ece44bf0eb28f62c7c4f3d4907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/9\/29-32.1792436334760.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "v jamo"
+    },
+    {
+      "surface": "תטבלני",
+      "gloss": "me boš potopil"
+    },
+    {
+      "surface": "ותעבוני",
+      "gloss": "in me bodo gnusila"
+    },
+    {
+      "surface": "שלמותי",
+      "gloss": "moja oblačila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:54.762564993Z",
+  "model": "glm-5.3"
+}

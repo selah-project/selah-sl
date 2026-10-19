@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "srd",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi'; beseda 'podaljša njegov nos' pomeni počasen do jeze — podoba telesa je v slovenščini izgubljena"
+    },
+    {
+      "kind": "idiom",
+      "subject": "האריך אפו",
+      "rationale": "hebrejski idiom 'podaljšati svoj nos' = biti počasen do jeze; dobesedno bi v slovenščini zavedlo"
+    }
+  ],
+  "translation": "Razumnost človeka podaljša njegov srd, njegova čast pa je preiti čez pregreho.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/9-12.1792436016841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "razumnost"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "podaljša"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "njegov srd"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "njegova čast"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "preiti"
+    },
+    {
+      "surface": "על",
+      "gloss": "čez"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pregreho"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:36.844248560Z",
+  "model": "glm-5.3"
+}

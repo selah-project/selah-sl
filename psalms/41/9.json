@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בליעל",
+      "rationale": "דבר בליעל je dobesedno 'stvar Beliala', tj. vrednobesna\/hudobna stvar; 'hudobna beseda' ohranja okostje 'stvar'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יָצֻק בּוֹ",
+      "rationale": "'se izliva nanj' (kot ulitek se prilepi) ali 'je ulit zanj', tj. dokončno odločen."
+    },
+    {
+      "kind": "literalism",
+      "subject": "לֹא יוֹסִיף לָקוּם",
+      "rationale": "hebrejščina pravi 'ne bo dodal, da vstane' — ne bo več vstal."
+    }
+  ],
+  "translation": "Hudobna beseda se izliva ⟨nad njim⟩; in ker je legel, ne bo dodal vstajanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/9-12.1792434804596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "hudobna"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "se izliva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in ker"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "je legel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bo dodal"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "vstajanja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:24.597711248Z",
+  "model": "glm-5.3"
+}

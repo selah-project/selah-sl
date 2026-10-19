@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "in rekel",
+      "rationale": "hebrejščina ne poda glagola govora pred vprašanjem onlookerjev — dodan v oglatem oklepaju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרגיז\/מרעיש",
+      "rationale": "dva korena tresenja v vzporedju — tresel zemljo, potresel kraljestva"
+    },
+    {
+      "kind": "invitation",
+      "subject": "onlookerji v šeolu",
+      "rationale": "retorično vprašanje 'Ali je to mož?' potegni bralca v posmeh padlemu"
+    }
+  ],
+  "translation": "Kdor te vidi, se bo zazrl vanje, zazrl se bo ⟨vate⟩ in premišljeval ⟨in rekel⟩: Ali je to mož, ki je tresel ⟨את⟩ zemljo, ki je potresel kraljestva?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6ba8f6c00872ae1d5ffd7b9906623de2aad0d21d350d0abbc2d653cc5c6bac6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/14\/13-16.1792430108704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Kdor te vidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nate"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "se bo zazrl"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vate"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "premišljeval"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "ki je tresel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ki je potresel"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljestva"
+    }
+  ],
+  "timestamp": "2026-10-19T17:15:08.705151112Z",
+  "model": "glm-5.3"
+}

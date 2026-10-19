@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Vrnili se bodo prebivalci njegove sence",
+      "rationale": "KJV obrne red: 'ki prebivajo v njegovi senci, se bodo vrnili'; hebrejski vrstni red dobesedno 'vrnili se bodo prebivalci njegove sence'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oživeli bodo ⟨od⟩ žita",
+      "rationale": "יחיו דגן dobesedno 'oživili bodo žito' (JPS: 'spet bodo gojili žito') — kdo oživlja koga je dvoumno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "spomin",
+      "rationale": "זכרו je 'spomin\/glas' — slovenski 'spomin' zajema commemorative pomenski obseg"
+    }
+  ],
+  "translation": "Vrnili se bodo prebivalci njegove sence; oživeli bodo ⟨od⟩ žita in razcveteli kakor vinska trta; njegov spomin ⟨bo⟩ kakor vino Libanona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/5-8.1792433895612.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "vrnili se bodo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalci"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "njegove sence"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "oživeli bodo"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "žito"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "in razcveteli"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "kakor vinska trta"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "njegov spomin"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "kakor vino"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:15.616978305Z",
+  "model": "glm-5.3"
+}

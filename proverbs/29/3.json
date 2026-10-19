@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pase vlačuge",
+      "rationale": "רֹעֶה זֹנוֹת dobesedno 'pastir vlačug'; pastirska podoba, ne le 'drži se z njimi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svojega⟩",
+      "rationale": "slovenščina potrebuje svojilni zaimek; hebrejščina ima le končnico."
+    }
+  ],
+  "translation": "Človek, ki ljubi modrost, razveseljuje ⟨svojega⟩ očeta; tisti, ki pase vlačuge, zapravi premoženje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/1-4.1792436209693.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ki ljubi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "razveseljuje"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "tisti, ki pase"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "vlačuge"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "zapravi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "premoženje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:49.695853410Z",
+  "model": "glm-5.3"
+}

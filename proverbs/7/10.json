@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola; brez njega bi bila slovenščina nelogična."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונצרת לב",
+      "rationale": "'Straži srca' — beseda נצר pomeni 'varovati'; SSW je glagolski pridevnik, ki 'hrani na价钱' zvok pomena 'iznajdljivo srca' (KJV 'subtil of heart')."
+    }
+  ],
+  "translation": "in glej, žena ⟨je⟩ mu naproti, preoblečena kot nečistnica in pripravljena ⟨v⟩ srcu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/9-12.1792435885319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "mu naproti"
+    },
+    {
+      "surface": "שית",
+      "gloss": "preoblečena"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "kot nečistnica"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "in pripravljena"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:25.320715832Z",
+  "model": "glm-5.3"
+}

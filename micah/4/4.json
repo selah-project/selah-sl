@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vsak",
+      "rationale": "איש 'človek' je distributiven — 'vsak (človek)' razkriva pomen edinkovne oblike."
+    },
+    {
+      "kind": "idiom",
+      "subject": "usta Jahveja Cebaot so govorila",
+      "rationale": "פי יהוה 'Jahvejeva usta' — metonimija za nepreklicno obljubo."
+    }
+  ],
+  "translation": "In sedel bo vsak pod svojo vinsko trto in pod svojo figovcem, in nikogar ne bo, ki bi plašil, kajti usta Jahveja Cebaot so govorila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47d9ed81c349e38b97ffa609194a20bf951047ae1d8b1b348f9f8cbf7265a50e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/4\/1-4.1792434173646.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "In sedel bo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "svojo vinsko trto"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "in pod"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "svojo figovcem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in nikogar ne bo"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ki bi plašil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "so govorila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:53.649229259Z",
+  "model": "glm-5.3"
+}

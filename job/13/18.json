@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "אצדק je glagol iz korena cedek — 'biti v pravu'; slovenščina glagola iz 'pravičnost' nima v isti obliki"
+    },
+    {
+      "kind": "crux",
+      "subject": "biti v pravu",
+      "rationale": "prevodi se delijo: 'jaz sem v pravu' (trditev) proti 'jaz bom opravičen' (prihodnje, sodna predvidenost)"
+    }
+  ],
+  "translation": "Glej, zdaj sem uredil svojo pravdo, vem, da sem cedek ⟨jaz⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/13\/17-20.1792436374228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "sem uredil"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "svojo pravdo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨jaz⟩"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "sem cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:34.229148136Z",
+  "model": "glm-5.3"
+}

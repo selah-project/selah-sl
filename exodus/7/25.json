@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se je izpolnilo",
+      "rationale": "Hebrejščina ima samo וימלא 'in se je napolnilo', slovenščina potrebuje osebek-besedni red."
+    }
+  ],
+  "translation": "In sedem dni se je izpolnilo, potem ko je Jahve udaril ⟨את⟩ reko.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/7\/25-28.1792423174819.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "se je izpolnilo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "potem ko"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "udaril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reko"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "reko"
+    }
+  ],
+  "timestamp": "2026-10-19T15:19:34.819825413Z",
+  "model": "glm-5.3"
+}

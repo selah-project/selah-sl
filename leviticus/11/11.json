@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mrhovlj",
+      "rationale": "nevelah je mrhovina, poginjeno telo — 'truplo' bi odvzelo sliko gnusa"
+    },
+    {
+      "kind": "you",
+      "subject": "vam \/ jejte",
+      "rationale": "neposreden nagovor z zapovedjo v drugi osebi množine"
+    }
+  ],
+  "translation": "In gnusoba naj vam bodo; njihovega mesa ne jejte in ⟨את⟩ njihov mrhovlj ogabljajte.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b19a48fe6bbb43f42d6e63601603db7bc56bc411b580397f0616e7eaf2a338b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/10-12.1792433292642.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "in gnusoba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "naj bodo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "njihovega mesa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jejte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihov mrhovlj"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "njihov mrhovlj"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ogabljajte"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:12.644056147Z",
+  "model": "glm-5.3"
+}

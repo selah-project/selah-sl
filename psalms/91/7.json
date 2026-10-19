@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "hebrejščina nima protivne veznika; nasprotje je iz konteksta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רבבה",
+      "rationale": "dobesedno 'množica\/mirjada', prevedeno z 'deset tisoč' po številski vrednosti."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tisoč \/ deset tisoč",
+      "rationale": "verz šteje padle v naraščajočem razmerju — tisoč proti mirjadi."
+    }
+  ],
+  "translation": "Padel ⟨bo⟩ tisoč ob tvoji strani in deset tisoč ob tvoji desnici, ⟨a⟩ do tebe se ne bo približal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a0aa55138cb60796de14c3c9f2d75bf05f2d4e2b80b6e3108e94ffd4de40cf97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/91\/6-7.1792439036933.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "Padel ⟨bo⟩"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ob tvoji strani"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "in deset tisoč"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ob tvoji desnici"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "do tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "se bo približal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:56.936029234Z",
+  "model": "glm-5.3"
+}

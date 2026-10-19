@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨boste⟩",
+      "rationale": "Slovenščina potrebuje pomožnik 'boste'; hebrejščina ima sam הָיָה."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve → Moše",
+      "rationale": "Naročilo Mošetu, kaj naj reče ljudstvu."
+    }
+  ],
+  "translation": "in vi ⟨boste⟩ mi kraljestvo duhovnikov in svet narod. To so besede, ki jih boš govoril sinovom Jisraela.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2eb98da1e9f54c1edc73e95c989f3d9bf47ee1e364314572207e33da10a30031",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/19\/5-8.1792423409487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "in vi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "⟨boste⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kraljestvo"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "duhovnikov"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "in narod"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "so besede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "jih boš govoril"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T15:23:29.488499999Z",
+  "model": "glm-5.3"
+}

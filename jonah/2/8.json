@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהתעטף",
+      "rationale": "dobesedno 'ko se je ovijala\/zastrtila' — 'omedlela' (KJV) proti 'slabela' (YLT) proti 'umirjala'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je življenjski dih, ne nesmrtna duša; obdržana po zvoku kot nefeš"
+    }
+  ],
+  "translation": "Ko je nefeš nad menoj omedlevljala, sem se spomnil ⟨את⟩ Jahveja, in prišla je k tebi moja molitev, ⟨v⟩ tvoj sveti dvorec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/2\/5-8.1792434063600.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Ko je omedlevljala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "sem se spomnil"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "in prišla je"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moja molitev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨v⟩"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sveti dvorec"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvoj sveti dvorec"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:03.602774129Z",
+  "model": "glm-5.3"
+}

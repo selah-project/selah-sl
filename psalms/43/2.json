@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "literal-shape",
+      "subject": "קדר",
+      "rationale": "קדר pomeni dobesedno 'biti temen kot pepel, v žalosti'; ohranjena slika temnega obraza."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "Neposreden nagovor Boga z vprašanjem 'zakaj'."
+    }
+  ],
+  "translation": "Kajti ti si Elohim, moja trdnjava; zakaj me bo zavrgel? Zakaj hodim htono-žalosten pod stiskanjem sovražnika?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/43\/1-4.1792434832619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "moja trdnjava"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "me bo zavrgel"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "htonо-žalosten"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "hodim"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "pod stiskanjem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnika"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:52.620984372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה · דברו דבר",
+      "rationale": "Dvojna korenska paronomazija glagol–samostalnik (svetovati\/svet, govoriti\/beseda)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמנו אל",
+      "rationale": "'El z nami' zveni kot Immanuel iz 8,8 — hebrejščina namiguje, prevod ne more ponoviti."
+    }
+  ],
+  "translation": "Svetujte svet, pa bo razbit; izgovorite besedo, pa ne bo obstala, kajti El ⟨je⟩ z nami.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/8\/9-12.1792430003348.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "svetujte"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "svet"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "pa bo razbit"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izgovorite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bo obstala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T17:13:23.348997406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "gloss": "ruah ostaja po pravilu D2 — dih\/veter\/jeza v eni besedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nosov",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi', slika jeze"
+    }
+  ],
+  "translation": "Od sopihanja Eloah ⟨so⟩ izgubljeni, in od ruah njegovih nosov ⟨so⟩ pokončani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/4\/9-12.1792436245997.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "od sopihanja"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "izgubljeni"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "in od ruah"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "njegovih nosov"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "pokončani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:25.998384597Z",
+  "model": "glm-5.3"
+}

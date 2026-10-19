@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenski pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא יספה שוב",
+      "rationale": "dobesedno 'ni dodala vrniti se' — hebrejski izraz za 'ni več ponovila dejanja'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedem dni",
+      "rationale": "tretje štetje sedmih dni — zaslonska struktura treh pošiljanj ptic"
+    }
+  ],
+  "translation": "In ⟨je⟩ čakal še drugih sedem dni ter poslal ⟨את⟩ golobico, in ta ni več dodala, da bi se vrnila k njemu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2d1ed446fcdbf126e276d14a5759e9726f696b1044ceed4b9e0b96c172b69ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/8\/9-12.1792422056040.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "in je čakal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugih"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ter poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golobico"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "golobico"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "več dodala"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrnila se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:56.042122179Z",
+  "model": "glm-5.3"
+}

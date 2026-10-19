@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je grlo, dih, življenjska sila — ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "crux",
+      "subject": "iščejo njegovo nefeš",
+      "rationale": "'iščejo' = skrbijo za njegovo življenje (JPS) ali stregó po njegovem življenju (sovražna različica)."
+    }
+  ],
+  "translation": "Možje krvi sovražijo ⟨את⟩ popolnega, a poštenjni iščejo njegovo ⟨nefeš⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/9-12.1792436185543.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "sovražijo"
+    },
+    {
+      "surface": "תם",
+      "gloss": "popolnega"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "a poštenjni"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "iščejo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegovo ⟨nefeš⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:25.544349638Z",
+  "model": "glm-5.3"
+}

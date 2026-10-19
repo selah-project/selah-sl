@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש je grlo\/življenjska sila\/tek, ne 'duša'; tukaj brana kot pohota oz. požrešnost."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעל נפש",
+      "rationale": "Dosegovno: 'mož velikega teka\/pohote' (KJV, JPS) proti 'gospodar svoje duše' (sam nad seboj — Vulgata\/Wycliffova veja)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "nož žrelu",
+      "rationale": "Slikovita modrostna pretirava: nekdo z apetitom naj se obvladuje tako, kot da bi si prerezal grlo."
+    }
+  ],
+  "translation": "In postavi nož svojemu žrelu, če si pohoten mož.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/1-4.1792436082851.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "in postavi"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "nož"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "svojemu žrelu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mož-gospodar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "pohote"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:42.852937814Z",
+  "model": "glm-5.3"
+}

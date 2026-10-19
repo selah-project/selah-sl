@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pogojni veznik, hebrejščina pa ima samo אם."
+    }
+  ],
+  "translation": "Če boste hoteli in poslušali, dobrote dežele boste jedli.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e685519ac0c74cb91c2dc0fb34c0d1389f19735189155267a5efbfca93e0c078",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/1\/17-20.1792429909803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "boste hoteli"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "in poslušali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "boste jedli"
+    }
+  ],
+  "timestamp": "2026-10-19T17:11:49.804766372Z",
+  "model": "glm-5.3"
+}

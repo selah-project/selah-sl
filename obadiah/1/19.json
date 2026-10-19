@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנגב \/ השפלה",
+      "rationale": "Deževni imeni (Negev, Šefela) sta tu osebkova — prebivalca dežel; izbrana opisni imenki 'južnjaki\/nižavci'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובנימן את הגלעד",
+      "rationale": "Glagol je izpuščen: 'in Binjamin [bo zasedel] ⟨את⟩ Gilad' — eliptičen veriga po prejšnjih ירש."
+    }
+  ],
+  "translation": "In južnjaki bodo zasedli ⟨את⟩ goro Esavovo, nižavci pa ⟨את⟩ Filištejce; in zasedli bodo ⟨את⟩ polje Efrajimovo in ⟨את⟩ polje Šomrona, in Binjamin ⟨את⟩ Gilad.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a5f4f887ba967b26c1bd44adcde380c4937493ecf94d78ffb00ecb06cc7af6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/obadiah\/1\/17-20.1792434101457.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "bodo zasedli"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "južnjaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goro Esavovo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovo"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "nižavci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filištejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filištejce"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "zasedli bodo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polje Efrajimovo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "polje Šomrona"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrona"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "in Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:41.459415835Z",
+  "model": "glm-5.3"
+}

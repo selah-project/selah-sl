@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 52:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן עשרים ואחת שנה",
+      "rationale": "dobesedno 'sin dvajsetih in enega let' — hebrejščina šteje starost kot 'sin X let'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "starost in vladavina",
+      "rationale": "štetje let starosti in dolžine vladavine"
+    }
+  ],
+  "translation": "Star enainindvajset let je bil Sidkija, ko je prišel na prestol, in enajst let je kraljeval v Jerušalajimu; ime njegove matere je bilo Hamutal, hči Jeremija iz Libne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ee63cec80bc7787ee7ba87ba6f8918cf90a2296d933781515bf74d13fbb3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/1-4.1792432049107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "star"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "in ena"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ko je prišel na prestol"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "in ena"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-najst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in ime"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "njegove matere"
+    },
+    {
+      "surface": "חמיטל",
+      "gloss": "Hamutal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremija"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "iz Libne"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:29.108448634Z",
+  "model": "glm-5.3"
+}

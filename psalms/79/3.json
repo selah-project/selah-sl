@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ni bilo",
+      "rationale": "Hebrejščina ima le ואין קובר 'in ni pokopal'; slovenščina potrebuje glagolsko zvezo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kakor vodo",
+      "rationale": "Primerjava krvi z vodo — množina, brez določnosti; dosledno dobesedno."
+    }
+  ],
+  "translation": "Izlili so njihovo kri kakor vodo naokoli Jerušalajima, ⟨in⟩ ni bilo nikogar, ki bi pokopal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/79\/1-4.1792435169077.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Izlili so"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "njihovo kri"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kakor vodo"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "naokoli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨in⟩ ni bilo"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nikogar, ki bi pokopal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:29.079860380Z",
+  "model": "glm-5.3"
+}

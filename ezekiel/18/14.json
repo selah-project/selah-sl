@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויראה",
+      "rationale": "Iz istega korena ירא: »in vidi\/razume« (vzporedno וירא prej) ali »in se boji« (večina prevodov); tok iz 2425\/7200 kaže na gledanje, a »boji se« ujema z dobesednim strahom pred grehom."
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje kazalni »jih« pri »ne stori«, hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In glej, rodil je sina, ki vidi ⟨את⟩ vse grehe svojega očeta, ki jih je storil, in se zaveda ter jih ne stori tako.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4894524e40458eae33af60e59c594f42a01d62ac8bbb0d6278a0ac2686695c9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/18\/13-16.1792432328041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse grehe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "grehe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "in se zaveda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "stori"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "tako"
+    }
+  ],
+  "timestamp": "2026-10-19T17:52:08.042246262Z",
+  "model": "glm-5.3"
+}

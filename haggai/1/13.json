@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני אתכם",
+      "rationale": "את tukaj predlog 'z' (H854), ne označevalnik predmeta: 'jaz sem z vami'; ohranjen kot ⟨את⟩ po pravilu Selah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "poslanik",
+      "rationale": "מלאך je 'poslanik' — Hágai je človek, ne nebeško bitje; 'angel' bi bila napaka."
+    },
+    {
+      "kind": "you",
+      "subject": "to the people",
+      "rationale": "Neposreden nagovor ostanka ljudstva: 'jaz sem z vami'."
+    }
+  ],
+  "translation": "In Hágai, poslanik Jahveja, je govoril v poslanstvu Jahveja ⟨ljudstvu⟩ takole: Jaz sem ⟨s⟩ ⟨את⟩ vami, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f7d2a36647e6b3028af37d92440534d8f3e1da097a9aab117d35efa9bfefbd58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/haggai\/1\/13-15.1792434291347.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je govoril"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hágai"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "poslanik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "v poslanstvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨ljudstvu⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takole"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨s⟩ vami"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:51.348438201Z",
+  "model": "glm-5.3"
+}

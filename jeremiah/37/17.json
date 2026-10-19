@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 37:17",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dan",
+      "rationale": "hebrejščina ima samo puščalnik תנתן 'boš dan' — glagolska oblika zajema osebek in pasivno 'biti dan'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Cedkija",
+      "rationale": "kralj Jeremija vpraša na skrivnem v svoji hiši"
+    }
+  ],
+  "translation": "In kralj Cedkija je poslal in vzel ⟨את⟩ njega, in kralj ga je vprašal v svoji hiši na skrivnem ter rekel: Ali je beseda od Jahveja? In Jeremija je rekel: Je. In rekel je: V roko kralja Babela boš ⟨dan⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a5afa1b7765980d84d08d67233e6a4eaa066ba1815bcbcc1c6ac04cb06575291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/37\/17-20.1792431743241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "in-poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cedkija"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "in-vzel njega"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "in-vprašal njega"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v svoji hiši"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "na skrivnem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ali je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremija"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "boš dan"
+    }
+  ],
+  "timestamp": "2026-10-19T17:42:23.242220228Z",
+  "model": "glm-5.3"
+}

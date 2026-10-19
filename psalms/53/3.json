@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je', hebrejščina ga izpušča."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pogled z neba",
+      "rationale": "Elohim preverja, šteje — ali je kdo razumen med sinovi človeškimi."
+    }
+  ],
+  "translation": "Elohim je z neba pogledal navzdol na sinove človeške, da bi videl, če je kak razumen, ki išče ⟨את⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/53\/1-4.1792434940351.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z neba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "je pogledal navzdol"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeške"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da bi videl"
+    },
+    {
+      "surface": "היש",
+      "gloss": "če je"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "razumen"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ki išče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:40.353623948Z",
+  "model": "glm-5.3"
+}

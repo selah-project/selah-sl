@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima pomožnika pri preteklih glagolih"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני\/אזני",
+      "rationale": "paronomazija oko\/uho z besednim redom VSO, ki jo slovenščina ohranja le delno"
+    }
+  ],
+  "translation": "Glej, vse ⟨je⟩ videla moja oko, slišala ⟨je⟩ moje uho, in razumelo ⟨je⟩ zanjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/13\/1-4.1792436357964.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "videla"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moja oko"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "slišala"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "moje uho"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "in razumelo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zanjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:17.965629317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "število pobitih",
+      "rationale": "verz poroča o štetju mrtvih, ki ga pripeljejo pred kralja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "trdnjava",
+      "rationale": "הבירה je 'grad\/palača', slovensko 'trdnjava' po JPS."
+    }
+  ],
+  "translation": "Na tisti dan je prišlo število pobitih v Šušanu, trdnjavi, pred kralja",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5caa1af612d20e88fca42557e7ff78938d0d743e3d7f7c3eda2fde417bc56bd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/9\/9-12.1792437300986.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišlo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "število"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "pobitih"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šušanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "trdnjavi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:00.989346927Z",
+  "model": "glm-5.3"
+}

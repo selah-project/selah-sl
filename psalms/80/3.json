@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני אפרים",
+      "rationale": "'pred Efrajimom' — bojni vrstni red: ta plemena so v sprednjih vrstah pred Kovčegom, ne le krajevno 'pred'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "imperativ 'prebudi … pridi' je neposreden nagovor Boga, z osebkomi tremi bojnimi plemeni"
+    }
+  ],
+  "translation": "Pred Efrajimom in Binjaminom in Menašem prebudi ⟨את⟩ svojo moč in pridi v rešitev ⟨k⟩ nam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/80\/1-4.1792435200464.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimom"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "in Binjaminom"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "in Menašem"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "prebudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo moč"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "svojo moč"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "in pridi"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "v rešitev"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:00.467256240Z",
+  "model": "glm-5.3"
+}

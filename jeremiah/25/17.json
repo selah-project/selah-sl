@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina brez pomožnika; slovenščina ga za preteklik zahteva"
+    },
+    {
+      "kind": "elision",
+      "subject": "אליהם",
+      "rationale": "končnica -im v 'k njim' je z 'katerim' odveč, zato skrajšano"
+    }
+  ],
+  "translation": "In vzel sem ⟨את⟩ čašo iz roke Jahveja in sem dal piti ⟨את⟩ vsem narodom, k katerim me je Jahve poslal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f3a9fcef836d75bc2d75865396c7c1eae38b7f6ec38af79349c5a189cffd016d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/25\/17-20.1792431504321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "in vzel sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "čašo"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "čašo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "in sem dal piti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vsem narodom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "k"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "me je poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k njim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:38:24.322387011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקתו je 'njegova pravičnost\/pravica'; po D2 se ohranja cedek"
+    },
+    {
+      "kind": "alternative",
+      "subject": "rog",
+      "rationale": "קרן je lahko tudi žarek svetlobe; tu 'rog' kot moč"
+    }
+  ],
+  "translation": "Razdelil je, dal revežem; njegov cedek stoji za vselej; njegov rog se bo dvignil v čast.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/9-10.1792435438328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Razdelil je"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "revežem"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "njegov cedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "za vselej"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "njegov rog"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "se bo dvignil"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "v čast"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:58.328752446Z",
+  "model": "glm-5.3"
+}

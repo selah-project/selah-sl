@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 41:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dih",
+      "rationale": "נפש je živo bitje, grlo, dih, življenska sila — ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "oblizne-z-plamenom",
+      "rationale": "לההט dobesedno 'lizati' ognja — torej 'lizati v plamen'; hrbtni pomen 'lizati' se v slovenščini izgubi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלהט \/ ולהב",
+      "rationale": "koren להט se ponovi v samostalniku להב (plamen) — lizanje in plamen sta ista zvok."
+    }
+  ],
+  "translation": "Njegov dih žare oblizne-z-plamenom, iz njegovih ust pa izide plamen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/41\/13-16.1792436792920.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "njegov dih"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "žare"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "oblizne-z-plamenom"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "in plamen"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "iz njegovih ust"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izide"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:32.921655863Z",
+  "model": "glm-5.3"
+}

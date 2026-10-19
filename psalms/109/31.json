@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "hebrejščina ne imenuje subjekta; iz sobesedila je Jahve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je 'dih\/življenjska sila', ne nesmrtna duša"
+    },
+    {
+      "kind": "crux",
+      "subject": "stoji desnici",
+      "rationale": "לימין — 'ob desnici' (v podporo) ali 'na desnici'; עמד kot sedanjik 'stoji' ali prihodnjik 'bo stal'"
+    }
+  ],
+  "translation": "Kajti ⟨on⟩ stoji desnici reven, da ga reši pred tistimi, ki sodijo ⟨את⟩ njegovo dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/29-31.1792435458435.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "desnici"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "reven"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "da ga reši"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pred tistimi, ki sodijo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegovo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:18.436657591Z",
+  "model": "glm-5.3"
+}

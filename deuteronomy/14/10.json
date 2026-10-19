@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ to",
+      "rationale": "Hebrejščina brez glagola; slovenščina zahteva kopulo in kazalnik."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סנפיר",
+      "rationale": "plavut — redka beseda, skupaj s קשקשת določa užitno ribo."
+    }
+  ],
+  "translation": "In kar nima plavuti in lusk, ne smete jesti; nečisto ⟨je⟩ ⟨to⟩ za vas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "71a9393218d0a9762b8f9e7b9dd53a66a8e8313c88195877375dc55581bda8c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/14\/10-12.1792433315450.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in kar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨za⟩ njega"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "plavuti"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "in lusk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smete jesti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:35.451502074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zagovornik",
+      "rationale": "גואל je sorodnik-odkupitelj po zakonu sorodstva; 'zagovornik' zajema pravno vlogo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יריב\/ריבם",
+      "rationale": "Isti koren ריב kot glagol in samostalnik: 'pravdi bo pravdo' — besedna igra."
+    },
+    {
+      "kind": "mystery",
+      "subject": "narava zagovornika",
+      "rationale": "Kdo je גואל sirot, ni povedano — besedilo namiguje na Elohima, a ga ne imenuje."
+    }
+  ],
+  "translation": "Kajti njihov zagovornik je močan, on bo vodil ⟨את⟩ njihov pravdi ⟨את⟩ ⟨z⟩ teboj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/9-12.1792436060112.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "njihov zagovornik"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "močan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "bo vodil pravdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihov pravdi"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "njihov pravdi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨z⟩ teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:20.114367316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 11:4",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "gloss_note": "",
+      "rationale": "רוחות = 'ruahi\/vetrovi'; puhanje vetra in duh v eni besedi, 'vetrovi neba' bi izgubilili dvojnost"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dano⟩",
+      "rationale": "slovenščina potrebuje glagol; hebrejščina ga izpušča"
+    },
+    {
+      "kind": "measurement",
+      "subject": "štirim ruahom",
+      "rationale": "štetje in delitev kraljestva na štiri dele"
+    }
+  ],
+  "translation": "In ko bo vstal, bo razbito njegovo kraljestvo in razdeljeno ⟨k⟩ štirim ruahom nebes, ne pa njegovemu potomstvu in ne po njegovi oblasti, s katero je vladal; kajti izruvano bo njegovo kraljestvo in ⟨dano⟩ drugim razen teh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "464c235b774a0d5ab521e94e3c8bd3e8aad1198f259c01b1b48401b66e76243b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/11\/1-4.1792437565760.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכעמדו",
+      "gloss": "In ko bo vstal"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "bo razbito"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "njegovo kraljestvo"
+    },
+    {
+      "surface": "ותחץ",
+      "gloss": "in razdeljeno"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "štirim"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruahom"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne pa"
+    },
+    {
+      "surface": "לאחריתו",
+      "gloss": "njegovemu potomstvu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "כמשלו",
+      "gloss": "po njegovi oblasti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s katero"
+    },
+    {
+      "surface": "משל",
+      "gloss": "je vladal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "תנתש",
+      "gloss": "izruvano bo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "njegovo kraljestvo"
+    },
+    {
+      "surface": "ולאחרים",
+      "gloss": "in drugim"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "razen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "teh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:25.763549987Z",
+  "model": "glm-5.3"
+}

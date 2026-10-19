@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stiska",
+      "rationale": "מצר je dobesedno 'ozko mesto', pregovorno stiska; ASV\/JPS bereta 'nasprotnik'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "prazna",
+      "rationale": "שוא lahko tudi 'poguba' ali 'prevara'; tu 'ničvredna, prazna'"
+    }
+  ],
+  "translation": "Daj nam pomoč iz stiske, kajti prazna je rešitev človeška.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/13-14.1792439036588.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "pomoč"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "iz stiske"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "kajti prazna"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "rešitev"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeška"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:56.589725576Z",
+  "model": "glm-5.3"
+}

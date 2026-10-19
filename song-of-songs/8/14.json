@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in bodi",
+      "rationale": "ודמה je 'in postani podoben'; slovenščina doda veznik in pomožni glagol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gazela",
+      "rationale": "צבי pomeni 'sijaj' in žival gazelo; D4 dovoljuje 'gazela'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "do ljubljenega",
+      "rationale": "Zadnji ukaz pesmi: neposreden zagon 'pobegni' ljubljenemu."
+    }
+  ],
+  "translation": "Pobegni, moj ljubljeni, in bodi kakor gazela ali mladi jelen na gorah dišav!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/8\/13-14.1792436820556.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "pobegni"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "moj ljubljeni"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "in bodi kakor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "gazela"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "mladi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "jelen"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gorah"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dišav"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:00.559651715Z",
+  "model": "glm-5.3"
+}

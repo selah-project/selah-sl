@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "v1",
+      "rationale": "Besedilo kliče in vabi naslovnika: 'pridite, kupite in jejte'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kupite",
+      "rationale": "שברו tu je ' trgati z žitom', ne splošno 'kupiti'; dobesedna slika je izgubljena."
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss": "Hebrejski 'njemu' je v slovenski zvezi 'nima srebra' združen z glagolom."
+    }
+  ],
+  "translation": "Oj, vsi, ki ste žejni, pridite k vodam, in kdor nima srebra, pridite, kupite in jejte; da, pridite, kupite brez srebra in brez cene vino in mleko!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/55\/1-4.1792430800316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ki so žejni"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pridite"
+    },
+    {
+      "surface": "למים",
+      "gloss": "k vodam"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in kdor"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nič⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pridite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupite"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "in jejte"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "da, pridite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupite"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "brez"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "in brez"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "cene"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "in mleko"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:40.317346534Z",
+  "model": "glm-5.3"
+}

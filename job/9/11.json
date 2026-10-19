@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעבר \/ ויחלף",
+      "gloss-sr": "",
+      "rationale": "dva glagola prehoda — 'prečkati' in 'zdrsniti mimo' — parataktičen dvojni popis istega gibanja."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "rationale": "slovenščina potrebuje večdovedje, hebrejščina ga ima samo s predpono vav."
+    }
+  ],
+  "translation": "Glej, gre mimo mene in ga ne vidim; in ko mine, ga ⟨ne⟩ spoznam ⟨vej⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ab3c1c69a9533ac77a7220ddb8ce5ba6470832460dad54f87b6021569a08f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/9\/10-11.1792439071101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "gre mimo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "vidim"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "in ko mine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "spoznam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:31.102002902Z",
+  "model": "glm-5.3"
+}

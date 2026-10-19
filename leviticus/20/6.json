@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 20:6",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefeš je 'dih\/life-sila\/oseba', ne 'duša' v dualističnem pomenu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האבת",
+      "rationale": "ha-ovot: 'mrmlanja' → priklicovalci mrtvih duhov; dobesedno 'vsebniki za vodo' po votlem zvoku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לזנות",
+      "rationale": "isto besedo 'zanah' kot v 20,5 — zvestoba Jahveju je podana kot zakonska zvestoba"
+    }
+  ],
+  "translation": "In ta oseba, ki se obrne k priklicovalcem duhov in k vedeževalkam, da nečistujeja za njimi — obrnil bom ⟨את⟩ svoj obraz proti tej osebi in odsekal ⟨את⟩ jo bom iz srede njenega ljudstva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/20\/5-8.1792424412077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "in ta oseba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "se obrne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "priklicovalcem duhov"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in k"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "vedeževalkam"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "da nečistuje"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "za njimi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "in obrnil bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj obraz"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "proti osebi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tej"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "in odsekal bom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iz srede"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "njenega ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:12.078465085Z",
+  "model": "glm-5.3"
+}

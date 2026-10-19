@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpušča glagol biti; Jahve stoji kot priča brez copule."
+    },
+    {
+      "kind": "crux",
+      "subject": "Jahve kot priča",
+      "rationale": "Ali Jahve dejansko bdi kot priča zaveze, ali gre za kletveno formulo — prevodi se razhajajo (»je priča« vs »blizu«)."
+    },
+    {
+      "kind": "you",
+      "subject": "Davidu",
+      "rationale": "Jonatan neposredno nagovarja Davida pri sklenitvi zaveze."
+    }
+  ],
+  "translation": "Kar pa zadeva ⟨את⟩ besedo, ki sva jo govorila jaz in ti: glej, Jahve ⟨je⟩ med menoj in med tabo do vekomaj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/21-24.1792427846099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "in beseda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "sva govorila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "med menoj"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "in med tabo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    }
+  ],
+  "timestamp": "2026-10-19T16:37:26.100558682Z",
+  "model": "glm-5.3"
+}

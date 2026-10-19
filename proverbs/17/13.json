@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמיש",
+      "rationale": "ketiv תמיש (»ne bo umaknila«) proti qeré ימיש (»ne bo umaknilo«) — spol glagola se razlikuje od rodu subjekta zlo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה … רעה",
+      "rationale": "istost besede zlo na začetku in na koncu verza — kazen je enaka dejanju, ujemanje se v slovenščini ohrani."
+    }
+  ],
+  "translation": "Kdor vrača zlo namesto dobrega, zlu se ne bo dalo umakniti ⟨iz⟩ njegove hiše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/17\/13-16.1792435989250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "kdor vrača"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "namesto"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "se bo umaknilo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "iz njegove hiše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:09.251059288Z",
+  "model": "glm-5.3"
+}

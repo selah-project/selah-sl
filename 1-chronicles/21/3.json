@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 21:3",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאה פעמים",
+      "rationale": "dobesedno 'sto-krat'; večina prevodov razume 'stokrat toliko, kot jih je'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨k⟩",
+      "rationale": "hebrejščina 'doda na svoje ljudstvo' brez primernega predloga"
+    },
+    {
+      "kind": "you",
+      "subject": "nagovor",
+      "rationale": "Joab neposredno nagovarja kralja ('moj gospod kralj') in ga poskuša odvrniti z retoričnima vprašanjema"
+    }
+  ],
+  "translation": "In Joab je rekel: Naj Jahve doda ⟨k⟩ svojemu ljudstvu, kakor so, štirjekrat toliko — ⟨mar ni tako⟩, moj gospod kralj, vsi so vsem mojemu gospodu za služabnike? Zakaj moj gospod išče to? Zakaj naj bo za krivdo Jisraelu?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/21\/1-4.1792438307993.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "naj doda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svojemu ljudstvu"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "kakor so"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "štirjekrat"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "toliko"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨mar ni tako⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mojemu gospodu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za služabnike"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "išče"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospod"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "za krivdo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:47.998201903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dva tisoč tristo večerov-juter",
+      "rationale": "Natančno številčno merjenje trajanja (večer–jutro kot enota daritvenega dneva)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונצדק קדש",
+      "rationale": "Kdor prevede 'svetišče bo opravičeno\/utemeljeno v cedek' (dosledno 'bo zmagovito', JPS) ali 'očiščeno' (KJV\/ASV); glagol je od צדק — 'pravično postaviti', ne 'očistiti'."
+    },
+    {
+      "kind": "crux",
+      "subject": "večer jutro",
+      "rationale": "Enota je 'večer-jutro' (en daritveni dan, štet od večera); KJV-'dni' dopolni, YLT pusti brez samostalnika."
+    }
+  ],
+  "translation": "In rekel je meni: Do večera, jutran, dva tisoč in tristo; tedaj bo svetišče opravičeno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f01d3cfe2e22e77903adaed5bd8d3f7b7e9931f1d9fd3f4e3a15e7bf6817d255",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/13-16.1792437534564.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dva tisoč"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "in tri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "in bo opravičeno"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetišče"
+    }
+  ],
+  "timestamp": "2026-10-19T19:18:54.567700960Z",
+  "model": "glm-5.3"
+}

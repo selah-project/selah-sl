@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל ... ולא",
+      "rationale": "Dve različni negaciji (אל deprecativna, לא absolutna) zaporedoma — retorični dvojček, izgubljen v slovenščini."
+    },
+    {
+      "kind": "you",
+      "subject": "kralj Jisraela",
+      "rationale": "Neposreden nagovor starostov in ljudstva kralju z dvema imperative."
+    }
+  ],
+  "translation": "In vsi starosti in vse ljudstvo so mu rekli: Ne poslušaj in ne privoluj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ad18bf81e856c659867c26b1555dc215594230598732fc839e89a2139ade54ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/20\/5-8.1792429231878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "in so rekli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starosti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "privoluj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:00:31.879709540Z",
+  "model": "glm-5.3"
+}

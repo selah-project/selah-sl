@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrew uses participial\/passive forms without a expressed copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zarjen sem",
+      "rationale": "שאג elsewhere means the roar of a lion; here an inner groan of a man"
+    }
+  ],
+  "translation": "Omravel sem in zlomljen sem ⟨sem⟩ zelo; zarjen sem od hrušča svojega srca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/9-12.1792434775362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "omravel sem"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "in zlomljen sem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "zarjen sem"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "od hrušča"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svojega srca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:55.363584021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משוע",
+      "rationale": "Pi'el deležnik 'kličeč\/vapeč' — dobesedno 'kričečega'; 'vabil na pomoč' zveni nenaravno, bolje 'ki je vabil'"
+    },
+    {
+      "kind": "elision",
+      "subject": "עזר לו",
+      "rationale": "dobesedno 'in ne — pomočnik — njemu'; slovenščina glagolsko prenese: 'ni imel, ki bi ⟨mu⟩ pomagal'"
+    }
+  ],
+  "translation": "Kajr rešil sem revnega, ki je vabil na pomoč, in sirota, ki ni imel, ki bi ⟨mu⟩ pomagal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/9-12.1792436576410.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajr"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "rešil sem"
+    },
+    {
+      "surface": "עני",
+      "gloss": "revnega"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "ki je vabil na pomoč"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "in sirota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni imel"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ki bi pomagal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:56.411691330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bnei adam \/ bnei iš",
+      "rationale": "vzporednica 'nizki in visoki' (KJV) proti dobesednemu 'sinovi človeka \/ sinovi mož' — iš tu verjetno pomeni osebe višjega ranga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "ponovljen 'tudi' gradni vzporednico; besedna igra verzu 2 z dvojnim 'vsi'"
+    }
+  ],
+  "translation": "Tudi sinovi človeški, tudi sinovi plemičev, skupaj bogat in reven.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/1-4.1792434905695.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tudi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeški"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "plemičev"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bogat"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in reven"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:05.696845925Z",
+  "model": "glm-5.3"
+}

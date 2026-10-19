@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "izdajalski prijatelj",
+      "rationale": "Neposreden ogovor nasprotniku — 'ampak ti' je središče verza."
+    },
+    {
+      "kind": "substitution",
+      "subject": "smrtnik",
+      "rationale": "אנוש poudarja človekovo minljivost ('smrtnik'), ne le 'človek'."
+    }
+  ],
+  "translation": "Ampak ti — smrtnik, kakor moj enak, moj tovariš in moj znani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b253a0c41a131a291ebed9375d1be76fb6f6ff443e2b826b67ddc7f0eea2f34c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/13-16.1792434951058.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ampak ti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "kakor moj enak"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "moj tovariš"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "in moj znani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:51.059657072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "izpoved",
+      "rationale": "Prvoosebna izpoved namenjena skupnosti — pripovedovalec razglasi, da bo živ in pripovedoval dela Jah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמות\/אחיה",
+      "rationale": "Hebrejščina ima tvorni glagol brez osebnega pomožnika; slovenščina dodaja 'bom', hebrejsko 'ne umrl, kajti živ bom'."
+    }
+  ],
+  "translation": "Ne bom umrl, ker bom živel, in povedal bom dela Jah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/17-20.1792435492453.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "bom umrl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "bom živel"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "in povedal bom"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:52.453800135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ne bom obrnil",
+      "rationale": "לא אשיבנו: 'ne bom obrnil (sodbe)' (KJV) proti 'ne bom preklical' (JPS) — dobesedno 'ne bom obrnil ⟨tega⟩'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tri... in štiri",
+      "rationale": "števna formula 'za tri in za štiri' je naraščajoči vzorec, ki se ponovi v vseh Amosovih besedah nad narodi"
+    },
+    {
+      "kind": "elision",
+      "subject": "פשעי",
+      "rationale": "hebrejsko pikeša je narodni upor ali pregrešek; 'upor' izbira moralno-politični pomen"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tri in štiri",
+      "rationale": "štetje pregreškov odpira celotno serijo orakljev"
+    }
+  ],
+  "translation": "Tako govori Jahve: Zaradi treh uporov Damaska in zaradi štirih ⟨tega⟩ ne bom obrnil, ker so žela Gilad z železnimi sanmi ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "54c038a7b4c1abbb204cc2ecd8b57bbf152e024cd5b00ead6ae1c9291fbac80b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/1\/2-3.1792438982824.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "treh"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "uporov"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in zaradi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "štirih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "bom obrnil ⟨tega⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ker"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "so žela"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "z železnimi sanmi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železnimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:02.825335256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨s⟩",
+      "rationale": "Slovenščina potrebuje predlog 's' pred orodnikom, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצא את כלם",
+      "rationale": "'pride skozi vse' (KJV\/ASV) proti JPS 'reši se vseh'; dobesedno 'izide z vsemi'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יצא את כלם",
+      "rationale": "Druga možna: 'pride iz vseh (preizkušnj) z življenjem' — את kot z 's\/spočetka'."
+    }
+  ],
+  "translation": "Dobro je, da se držiš tega in tudi od tega ne umakni ⟨את⟩ svoje roke; kajti kdor se boji Elohim, pride ⟨s⟩ ⟨את⟩ vseh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/17-20.1792437134121.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "se držiš"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "in tudi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "od tega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "umakni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje roke"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kdor se boji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pride"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vseh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vseh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:14.122686393Z",
+  "model": "glm-5.3"
+}

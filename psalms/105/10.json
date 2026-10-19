@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "hebrejščina ima le pripono -ה (njo) na glagolu; slovenščina dodaja ločeno besedo"
+    }
+  ],
+  "translation": "in jo je postavil Jaakovu za zakon, Jisraelu za zavezo večno,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/9-12.1792435323976.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "in jo je postavil"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "za zakon"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:03.977929779Z",
+  "model": "glm-5.3"
+}

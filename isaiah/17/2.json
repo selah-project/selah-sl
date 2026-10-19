@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערי ערער",
+      "rationale": "Isti trojni soglasnik ע-ר v 'mesta Aroer' — zvočno podvajanje, v slovenščini izgubljeno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ורבצו",
+      "rationale": "Glagol opisuje žival, ki leže s skrčenimi nogami; 'razlezle se bodo' ohranja živalsko podobo."
+    }
+  ],
+  "translation": "Zapuščene bodo mesta Aroerja, za črede bodo ⟨so⟩, in razlezle se bodo, in ničesar ne bo, kar bi preplašilo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/17\/1-4.1792430232915.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "zapuščene"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroerja"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "za črede"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bodo"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "in razlezle se bodo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ničesar ne bo"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kar bi preplašilo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:17:12.916672056Z",
+  "model": "glm-5.3"
+}

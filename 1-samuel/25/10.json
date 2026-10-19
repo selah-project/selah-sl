@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Naval",
+      "rationale": "Govor je neposreden naslov Davidovim služabnikom; retorični vprašanji zaničujeta Davida."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המתפרצים",
+      "rationale": "koren praz — 'tisti, ki se prebijajo \/ iztrgujejo ven'; 'iztrgajo se' ohranja nasilen prizor besede."
+    }
+  ],
+  "translation": "In Naval je odgovoril ⟨את⟩ Davidovim služabnikom in rekel: Kdo je David in kdo sin Jišaja? Danes se je namnožilo služabnikov, ki se iztrgajo vsak izpred svojega gospoda.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/25\/9-12.1792427950355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in odgovoril je"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidovim služabnikom"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabnikom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "je David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "in kdo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaja"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se je namnožilo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "služabnikov"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "ki se iztrgajo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "izpred"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svojega gospoda"
+    }
+  ],
+  "timestamp": "2026-10-19T16:39:10.356086331Z",
+  "model": "glm-5.3"
+}

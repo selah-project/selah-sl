@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 131,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je življenjska sila, grlo, dih — ne ločena »duša« v grškem pomenu."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "Vprašalni »Mar nisem …?« ali potrdilni »Prav tako sem« (vzklik); večina prevodov bere potrdilno."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמול עלי",
+      "rationale": "Ponovitev »kakor odstavljeno dete pri« v verzu je vzporedni dvojni stavek, ki slovenščina ga ponavlja z istim besednim redom."
+    }
+  ],
+  "translation": "Prav tako sem pomiril ⟨in⟩ utišal svojo dušo ⟨נפש⟩: kakor odstavljeno dete pri svoji materi, kakor odstavljeno dete je ⟨pri⟩ ⟨menoj⟩ moja duša.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/131\/1-3.1792435614076.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Prav tako"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "sem pomiril"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "in utišal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kakor odstavljeno dete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pri"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svoji materi"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kakor odstavljeno dete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pri menoj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:54.079063907Z",
+  "model": "glm-5.3"
+}

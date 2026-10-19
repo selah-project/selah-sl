@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva glagoliko, hebrejščina je ima ne"
+    },
+    {
+      "kind": "crux",
+      "subject": "Rifat",
+      "rationale": "1 Kron 1,6 piše דיפת (Difat), 1 Mz 10,3 ריפת (Rifat); soglasje d\/r je znana varianta"
+    }
+  ],
+  "translation": "In sinovi Gomera: Aškenaz in Rifat in Togarma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "546c94284ef12ced0d55276aac6c88de94b4219db0e22611faddcdc5cf0b7ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/5-8.1792437988574.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomera"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Aškenaz"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "in Rifat"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "in Togarma"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:28.576325038Z",
+  "model": "glm-5.3"
+}

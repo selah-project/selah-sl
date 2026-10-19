@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v tem stavitvu nima."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שארה",
+      "rationale": "Šeera, hči, ki gradi mesta — ženska graditeljica, v Tanahu brez vzporednice."
+    }
+  ],
+  "translation": "in njegova hči ⟨je bila⟩ Šeera; ta pa je zgradila ⟨את⟩ Spodnji Bet-Horon in ⟨את⟩ Zgornji ter ⟨את⟩ Uzen-Šeero.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "82afb35ec53d4be1b9fda9111ba4d787a0f2b341136477fb20c53088a94f5ac3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/7\/21-24.1792438114540.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "in njegova hči"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Šeera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "je zgradila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Spodnji Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Spodnji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zgornji"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Zgornji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzen-Šeero"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "-Šeero"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:34.543735919Z",
+  "model": "glm-5.3"
+}

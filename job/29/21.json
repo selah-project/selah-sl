@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 29:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחלו",
+      "rationale": "'čakali (namek mene)' ali '(nadaljevalno) upali'; koren jchl pomeni čakanje\/upanje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחלו ... וידמו",
+      "rationale": "verižni vezi z waw, asindetska sugestivnost, v slovenščini izgubljen ritem"
+    }
+  ],
+  "translation": "Mene so poslušali in ⟨je⟩ čakalno molčali ter utihnili zaradi moje pameti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7b002f39b6acedbde80a406aaa2141a9f5320b89b8ee8a83198e769d419fcce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/21-24.1792436594655.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "so poslušali"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "in ⟨je⟩ čakalno molčali"
+    },
+    {
+      "surface": "וידמו",
+      "gloss": "ter utihnili"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "moje pameti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:14.655957819Z",
+  "model": "glm-5.3"
+}

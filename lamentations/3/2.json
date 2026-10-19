@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gnal",
+      "rationale": "נהג pomeni gnati (kakor živino) — nasilen premik, ne blag 'vodil'."
+    }
+  ],
+  "translation": "⟨את⟩ me je gnal in peljal v temo in ne v luč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/1-4.1792436991759.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me",
+      "marks": "gnal me \/ v temo"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "gnal"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "in peljal"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "v temo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "v luč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:51.761042924Z",
+  "model": "glm-5.3"
+}

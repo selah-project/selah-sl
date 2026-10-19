@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "'device' (mlade ženske) proti poznejšemu 'device' v pomenu nedolžnosti — hebrejščina pomeni mlado žensko, ne nujno devico."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמניך \/ שמן \/ שמך",
+      "rationale": "Igra korenov שם (ime) in שמן (olje) — trikratna zvočna navezava, v slovenščini delno ohranjena z 'ime\/olje'."
+    }
+  ],
+  "translation": "Za vonj tvojih olj, ki so dobra, je tvoje ime kakor olje, izlito; zato so te ljubile device.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/1\/1-4.1792436812319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Za vonj"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "tvojih olj"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ki so dobra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olje"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "izlito"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(zato)"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "device"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "so te ljubile"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:52.324030892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagolsko vez, hebrejščina jo nima (imenska poved)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "neprilike v naravi",
+      "rationale": "verz je zgrajen iz dveh vzporednih nemožnosti (sneg poleti, dež ob žetvi) kot slika za čast neumniku"
+    }
+  ],
+  "translation": "Kakor sneg poleti in kakor dež ob žetvi, tako čast ni primerna neumniku.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/1-4.1792436099611.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "kakor sneg"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "poleti"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "in kakor dež"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ob žetvi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "primerna"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "neumniku"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "čast"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:59.611635905Z",
+  "model": "glm-5.3"
+}

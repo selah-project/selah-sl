@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina ima povprečni vid, slovenščina potrebuje prihodnjik"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערפל",
+      "rationale": "megla\/gosta tema: 'grosa tema' (KJV) vs 'megla' — arafel je temna megla, hkrati pa ena beseda"
+    }
+  ],
+  "translation": "Kaj glej, tema bo pokrila zemljo in megla ljudstvom, nad teboj pa bo vzšel Jahve in njegova slava se bo nad teboj prikazala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4062e53ad1e8aa8c74bb3e2cd509f5c1e3f859ab52698558fa3fe7b56414461a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/60\/2-4.1792433408454.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "bo pokrila"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "in megla"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ljudstvom"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "nad teboj pa"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "bo vzšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "in njegova slava"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad teboj"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se bo prikazala"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:08.454807881Z",
+  "model": "glm-5.3"
+}

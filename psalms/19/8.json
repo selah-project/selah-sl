@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נֶפֶשׁ je dih, življenjska moč, grlo — 'duša' je delno, zato je hebrejska beseda vidna v oklepaju."
+    },
+    {
+      "kind": "crux",
+      "subject": "משיבת נפש",
+      "rationale": "Dobesedno 'obrača\/vrača nefesh': 'obnavlja dušo' (KJV 'converting', YLT 'refreshing', ASR 'restoring')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "preprostemu",
+      "rationale": "פֶּתִי je odprt, neizkušen, lahkovern — ne 'neumen'."
+    }
+  ],
+  "translation": "Tora Jahveja je popolna, vrača ⟨nefesh⟩; pričevanje Jahveja je zanesljivo, pamet daje preprostemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/19\/5-8.1792434664218.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "je popolna"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "vrača"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨nefesh⟩"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "pričevanje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "je zanesljivo"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "pamet daje"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "preprostemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:04.220301781Z",
+  "model": "glm-5.3"
+}

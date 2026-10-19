@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יליד בית",
+      "rationale": "'rojjen v hiši' — suženj, rojen v gospodarjevi hiši, ali svobodnjak, rojen v lastni hiši"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sužnjev⟩",
+      "rationale": "slovenščina potrebuje dopolnitev, hebrejščina pravi samo 'rojjen v hiši'"
+    }
+  ],
+  "translation": "Je Jisrael suženj? Je rojen v hiši ⟨sužnjev⟩? Zakaj je postal plen?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5e3cdf33f73d8ec6cb4471d44b4b797c6915590511f70df71ca7a74ad8ff1a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/13-16.1792430976216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "Je suženj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "rojen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je postal"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "plen"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:36.217468835Z",
+  "model": "glm-5.3"
+}

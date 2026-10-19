@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "gloss": "v njihove roke",
+      "rationale": "hebrejski prislov 'po njihovi roki' = prek njih, v njihovi oskrbi; slovenščina 'v roke'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשב",
+      "rationale": "dobesedno 'prešteti\/izračunati' — tu 'opravljati obračun z'."
+    },
+    {
+      "kind": "elision",
+      "subject": "הם",
+      "rationale": "poudarni 'oni' vključen v slovenski glagol 'so delali'."
+    }
+  ],
+  "translation": "In niso opravljali obračuna ⟨z⟩ možmi, v katerih roke so dajali ⟨את⟩ srebro, da bi ga izročili delavcem, ki opravljajo delo, kajti z zvestobo so delali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/12\/13-16.1792429615987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "opravljali obračuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "možmi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "z možmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v katerih"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "so dajali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ידם",
+      "gloss": "roke"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da bi ga izročili"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "delavcem, ki opravljajo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "z zvestobo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "delali"
+    }
+  ],
+  "timestamp": "2026-10-19T17:06:55.988222910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "'Podpreti pod klekel' (herem — iztrebiti kakor posvečeno) ni navadno 'uničiti'; herem je tehnični izraz za obredno uničenje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הטף",
+      "rationale": "טף dobesedno 'drobnica, mladič' — Majhni otroci."
+    }
+  ],
+  "translation": "In podlegli so ⟨את⟩ njih pod kleklom, kakor smo naredili Sihonu, kralju Hešbona: vsem mestom, možem, ženam in majhnim otrokom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/3\/5-8.1792425639802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "in podlegli so kleklu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "smo naredili"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hešbona"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "klekelu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "možem"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženam"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "in majhnim otrokom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:39.803721769Z",
+  "model": "glm-5.3"
+}

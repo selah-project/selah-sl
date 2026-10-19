@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרצו",
+      "rationale": "'break out' — 'namnožiti se' (pastvo\/plodnost) ali 'razširiti se'; večina bere plodnost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "v nevestišča so hodili",
+      "rationale": "זנה je dobesedno 'kurbaštvo\/nevestišča'; slovenščina potrebuje glagolsko zvezo."
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "לשמר 'varovati' brez predmeta v hebrejščini; slovenščina dodaja ⟨ga⟩."
+    }
+  ],
+  "translation": "In jedli bodo in se ne bodo nasitili; v nevestišča so hodili in se ne bodo namnožili, kajti ⟨את⟩ Jahveja so zapustili, da bi ⟨ga⟩ varovali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/4\/9-12.1792433785030.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "in jedli bodo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se bodo nasitili"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "v nevestišča so hodili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "se bodo namnožili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "so zapustili"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da bi ⟨ga⟩ varovali"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:25.032373215Z",
+  "model": "glm-5.3"
+}

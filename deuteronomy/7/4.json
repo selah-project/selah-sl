@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וחרה אף",
+      "rationale": "דoslovno 'in zagorel bo nos' — hebrejski nos je sedež jeze; običajni prevod 'jeza se bo vnela' pušča sliko izven"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסיר",
+      "rationale": "dvorodilni singula: 'on (ta) bo odvrnil' — tretja oseba ednine, čeprav gre za 'njih' iz v. 3; nekateri berejo kot splošno opozorilo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהים אחרים",
+      "rationale": "tu 'drugi bogovi' — Elohim o tujih bogovih gre z malo, ne na mestu Imena"
+    }
+  ],
+  "translation": "kajti odvrnil bo ⟨את⟩ tvojega sina od mene, in služili bodo drugim bogovom, in zagorel bo nos Jahve nad vami in te hitro uničil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/7\/1-4.1792425796546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "odvrnil bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvojega sina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvojega sina"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od za"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "in služili bodo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "in zagorel bo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nad vami"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "in te uničil"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hitro"
+    }
+  ],
+  "timestamp": "2026-10-19T16:03:16.547443564Z",
+  "model": "glm-5.3"
+}

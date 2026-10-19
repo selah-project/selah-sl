@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "v",
+      "rationale": "slovenščina potrebuje predlog pri 'Jahveju' in 'zavezi'; hebrejščina ima samo besedni red"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באו ונלוו",
+      "rationale": "citat govorcev se začne s 'Pridite' — vprašanje poti in vabilo v enem vrsticu"
+    }
+  ],
+  "translation": "Pot do Cijona vprašujejo, tja so obrnjena njihova lica: Pridite, pridružimo se Jahveju v zavezi večni, ki je ne bo pozabljena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/50\/5-8.1792431971547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "Cijona"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "vprašujejo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tja"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njihova lica"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Pridite"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "in pridružimo se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "bo pozabljena"
+    }
+  ],
+  "timestamp": "2026-10-19T17:46:11.547886610Z",
+  "model": "glm-5.3"
+}

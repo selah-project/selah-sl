@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva kopulo, hebrejščina je izpušča."
+    },
+    {
+      "kind": "crux",
+      "subject": "שרר",
+      "rationale": "Koren pomeni popkovino\/popek; nekateri prevajalci branejo 'telo\/torso'."
+    }
+  ],
+  "translation": "Tvoj popek je kot okrogla skleda — naj ne manjka mešanega vina; tvoj trebuh je kup pšenice, obdan s šmarnicami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/7\/1-4.1792436859719.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "Tvoj popek"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "skleda"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "okrogla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naj ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "manjka"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "mešanega vina"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tvoj trebuh"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kup"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "obdan"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "s šmarnicami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:39.722541938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨si⟩",
+      "rationale": "Slovenščina potrebuje pomožni glagol pri pretekliku."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליך יעזב חלכה",
+      "rationale": "'Nesrečni zapusti (to) nate' — brez osebkovega zaimka; KJV dopolni 'povere sebe'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכה",
+      "rationale": "Upravičeni\/nesrečni — redka beseda, 'krdelo, ki hlasta'."
+    }
+  ],
+  "translation": "Videl si, kajti ti gledaš trud in zagrenjenost, da bi poplačal ⟨z⟩ svojo roko; nate zapusti nesrečni ⟨tisto⟩, sirotniku si bil ⟨si⟩ pomočnik.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/10\/13-16.1792434583632.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "videl si"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trud"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "in zagrenjenost"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "gledaš"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da bi poplačal"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨z⟩ svojo roko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nate"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "zapusti"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "nesrečni"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sirotniku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היית",
+      "gloss": "si bil"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pomočnik"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:43.635453125Z",
+  "model": "glm-5.3"
+}

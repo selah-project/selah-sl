@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "njen",
+      "rationale": "slovenščina potrebuje svoilni zaimek, hebrejščina ga ima v končnici -הּ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kdor jo ljubi",
+      "rationale": "hebrejščina ima particip množine אֹהֲבֶיהָ 'tisti, ki jo ljubijo'; ednina z 'kdor' je slovenski obrat"
+    }
+  ],
+  "translation": "Smrt in življenje sta v roki jezika, in kdor jo ljubi, bo jedel ⟨njen⟩ sad.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/18\/21-24.1792436021353.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "in življenje"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roki"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezika"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "in kdor jo ljubi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bo jedel"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "sad"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:41.354914158Z",
+  "model": "glm-5.3"
+}

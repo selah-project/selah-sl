@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Slovenščina potrebuje predlog 'o' pred pripovedovanjem o nečem; hebrejščina postavlja samostalnik neposredno."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פעל\/פעלת",
+      "rationale": "Isti koren 'delo\/delal' v zaporedju — besedna igra imenika in glagola, v slovenščini ohranjena (delo\/opravil le delno)."
+    }
+  ],
+  "translation": "Elohim, s svojimi ušmi smo slišali, naši očetje so nam pripovedovali ⟨o⟩ delu, ki si ga opravil v njihovih dneh, v dneh davno prejšnjih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/1-4.1792434839085.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "s svojimi ušmi"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo slišali"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "naši očetje"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "so pripovedovali"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "delo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ki si ga opravil"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "v njihovih dneh"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v dneh"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "davno prejšnjih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:59.086357999Z",
+  "model": "glm-5.3"
+}

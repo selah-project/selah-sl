@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ tisti",
+      "rationale": "hebrejščina brez glagola biti — imenski stavek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "reka",
+      "rationale": "יאר pomeni kanal\/reka, tu Nil; 'reka Micrajim' ohranja sliko"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כיאר … כיאר",
+      "rationale": "dvojna primerjava z istim word — vzpenjanje in potapljanje Nilove poplave"
+    }
+  ],
+  "translation": "In Adonaj Jahve Cebaot ⟨je⟩ tisti, ki se dotakne dežele, in ta zori, in vsi njeni prebivalci žalujejo; in vzplula bo vsa kakor reka, in potonila kakor reka Micrajim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/9\/5-8.1792434105129.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "In Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "ki se dotakne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "in ta zori"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "in žalujejo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "prebivalci"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njeni"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "in vzplula bo"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kakor reka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "in potonila"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kakor reka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:45.130948801Z",
+  "model": "glm-5.3"
+}

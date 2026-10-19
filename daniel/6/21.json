@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 6:21",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eloah",
+      "rationale": "aramejski אלהא je aramejska oblika Eloaha; ni nadomeščen z besedo 'Bog'."
+    },
+    {
+      "kind": "you",
+      "subject": "kralj Danielu",
+      "rationale": "kralj neposredno nagovarja Daniela z vprašanjem o rešitvi."
+    },
+    {
+      "kind": "addition",
+      "subject": "je (pri približal, zakrical)",
+      "rationale": "slovenščina zahteva pomožni glagol, aramejščina ga nima."
+    }
+  ],
+  "translation": "In ko se je približal jašku, Danielu, je zakrical z žalostnim glasom; kralj je odgovoril in rekel Danielu: Daniel, služabnik živega Eloaha, ali je tvoj Eloah, ki mu ti služiš neprestano, zmožen rešiti-te izpred levov?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b1c5fb1204debef426a6525cd8edb43eb4e66f7f84a401a8b8be395cdf389f37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/6\/21-24.1792437401269.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכמקרבה",
+      "gloss": "in ko se je približal"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "jašku"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danielu"
+    },
+    {
+      "surface": "בקל",
+      "gloss": "z glasom"
+    },
+    {
+      "surface": "עציב",
+      "gloss": "žalostnim"
+    },
+    {
+      "surface": "זעק",
+      "gloss": "je zakrical"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "je odgovoril"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danielu"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "služabnik"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloaha"
+    },
+    {
+      "surface": "חיא",
+      "gloss": "živega"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "tvoj Eloah"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "služiš"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בתדירא",
+      "gloss": "neprestano"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "je zmožen"
+    },
+    {
+      "surface": "לשיזבותך",
+      "gloss": "rešiti-te"
+    },
+    {
+      "surface": "מן",
+      "gloss": "izpred"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "levov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:16:41.270716891Z",
+  "model": "glm-5.3"
+}

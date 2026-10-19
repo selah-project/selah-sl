@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Slovenščina potrebuje osebek; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "crux",
+      "subject": "קראיה",
+      "rationale": "qal pasivni deležnik »njeni poklicani\/povabljeni« — gostje, ki jih je ona poklicala; ne »njeni gostje« nasplošno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רפאים",
+      "rationale": "refaim so sence mrtev, ne »mrtvi« niti »velikani« (kot v Wycliffu)."
+    }
+  ],
+  "translation": "In ⟨on⟩ ne ve, da so tam refaim, v globinah šeola njeni povabljeni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6fa2c59682590fb39dcd4b7409845d04b1d5edf387481cb32aebb8bbd0fe9104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/9\/17-18.1792435868861.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "v globinah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "njeni povabljeni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:08.863044883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגאון יעקב",
+      "rationale": "'Pri ponosu Jaakova': Jahve se zaklene pri lastnem ponosu (JPS: 'the Pride of Jacob' = Bog) ali pri ponosu Izraela, ki ga bo kaznoval."
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "gloss": "",
+      "rationale": "אם v prisegi je del prisegene formule ('da, če …') in se ne prevaja kot ločena beseda."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנצח … אשכח",
+      "rationale": "זכר\/נצח: 'za-n Vedno ne bom pozabil' — prisega z nikalno formulo, ki v slovenščini potrebuje povratni red besed."
+    }
+  ],
+  "translation": "Prisegel je Jahve pri ponosu Jaakova: Ne bom pozabil nikoli vsega ⟨od⟩ njihovih dejanj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5f1eace625e8ce6fc779704402dcd1258a9a87b8a6078d07b4df41b647d4a5d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/8\/5-8.1792434067376.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Prisegel je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "pri ponosu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "Ne bom pozabil"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nikoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsega"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "njihovih dejanj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:07.377859963Z",
+  "model": "glm-5.3"
+}

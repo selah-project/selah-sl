@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "umazanija",
+      "rationale": "מצאה je dobesedno 'iztrebek, umazanija'; slikovita beseda, ki jo vljudnejši prevodi mehčajo."
+    },
+    {
+      "kind": "addition",
+      "subject": "toda",
+      "rationale": "V nasprotje vstavlja slovenščina; hebrejščina postavlja stavka drug ob drugem."
+    }
+  ],
+  "translation": "Rod — čist v svojih očeh, toda iz svoje umazanije ni umit.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/9-12.1792436174122.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "rod"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čist"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v svojih očeh"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "iz svoje umazanije"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "umit"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:14.124861412Z",
+  "model": "glm-5.3"
+}

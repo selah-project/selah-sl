@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שקקה",
+      "rationale": "dobesedno 'ki rovi kot zver v gladu' — 'hrepeni' je omiljena različica"
+    }
+  ],
+  "translation": "Kajti nasitil je nefeš, ki hrepeni, in nefeš, ki lačna je, napolnil je ⟨s⟩ dobrim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/9-12.1792435381607.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "nasitil je"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ki hrepeni"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "in nefeš"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ki lačna je"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napolnil je"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:01.607847759Z",
+  "model": "glm-5.3"
+}

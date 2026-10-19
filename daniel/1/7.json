@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je dal ime",
+      "rationale": "hebrejščina drugič ponovi samo וישם 'in določil'; slovenščina potrebuje izraz za podelitev imena."
+    },
+    {
+      "kind": "measurement",
+      "subject": "imena",
+      "rationale": "verz našteva štiri izvorna in štiri nova imena — babilonsko preimenovanje kot dejanje prevzama."
+    }
+  ],
+  "translation": "In poglavar evnuhov jim je določil imena: Danielu ⟨je dal ime⟩ Beltšacar, Hananji Šadrak, Mišaelu Mešak in Azarji Abed-Nego.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2df86f112ae335f1a4105466b12477bf083395ce24b88438cf37e86878e2fd37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/5-8.1792437295101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "in določil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שר",
+      "gloss": "poglavar"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "evnuhov"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "in določil"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danielu"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltšacar"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "in Hananji"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Šadrak"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "in Mišaelu"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mešak"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "in Azarji"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:55.104270367Z",
+  "model": "glm-5.3"
+}

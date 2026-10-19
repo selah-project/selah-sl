@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina izraža היא brez glagola; slovenščina zahteva veznik"
+    },
+    {
+      "kind": "crux",
+      "subject": "nagota očeta",
+      "rationale": "ali se nanaša na mater kot 'nagoto očeta' (njegova žena) ali ločeno na očeta samega"
+    }
+  ],
+  "translation": "Nagoto svojega očeta in nagoto svoje matere ne boš razkril; svoja mati je — ne boš razkril njene nagote.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/18\/5-8.1792424293199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nagoto"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "in nagoto"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svoje matere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "boš razkril"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svoja mati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "boš razkril"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "njene nagote"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:13.200484050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti, hebrejščina ga ni ima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן",
+      "rationale": "Dobesedno 'kamen in kamen' — dveh neenakih uteži; večina prevodov idiom raztopi v 'različne uteži'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "uteži in tehtnice",
+      "rationale": "Verz je o goljufivem merjenju pri trgovanju."
+    }
+  ],
+  "translation": "Groza ⟨je⟩ za Jahveja kamen in kamen, in tehtnice prevare niso dobre.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/20\/21-24.1792436039591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Groza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "in kamen"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "in tehtnice"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobre"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:59.592946130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "באלהים…ביהוה",
+      "rationale": "Popolnoma simetričen dvojček — ista stavčna struktura z Elohim in Jahve; ponovitev je retorično sidro psalma."
+    },
+    {
+      "kind": "crux",
+      "subject": "besedo",
+      "rationale": "דבר: katera beseda — obljuba, Elohimova beseda, ali 'zadevo\/stvar'? KJV 'his word' doda svojilni zaimek, ki ga hebrejščina nima."
+    }
+  ],
+  "translation": "V Elohimu ⟨bom⟩ hvalil besedo, v Jahveju ⟨bom⟩ hvalil besedo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/56\/9-12.1792434925616.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "hvalil bom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "hvalil bom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:25.617200907Z",
+  "model": "glm-5.3"
+}

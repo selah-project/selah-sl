@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "ženski priponi -ה namigujeta na skrinjo zaveze, ki v verzu ni imenovana."
+    },
+    {
+      "kind": "crux",
+      "subject": "polja gozda",
+      "rationale": "שדי יער: dobesedno 'polja gozda' ali kot ime kraja Jaar (Kirjat-jearim)."
+    }
+  ],
+  "translation": "Glej, slišali smo ⟨jo⟩ v Efrati, našli smo ⟨jo⟩ na poljih gozda.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/5-8.1792435607875.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "slišali smo ⟨jo⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "v Efrati"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "našli smo ⟨jo⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "na poljih"
+    },
+    {
+      "surface": "יער",
+      "gloss": "gozda"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:47.876756815Z",
+  "model": "glm-5.3"
+}

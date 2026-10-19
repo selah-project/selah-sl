@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "וצדקה ostaja po hebrejskem zvoku, ne 'pravičnost'"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "predlog 'od' s korenom את, glosa nosi ⟨את⟩"
+    }
+  ],
+  "translation": "Dvignil bo blagoslov od ⟨את⟩ Jahveja in cedeko od Elohim svojega odrešenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/24\/5-8.1792434657534.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "dvignil bo"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "in cedeko"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "svojega odrešenja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:57.534719943Z",
+  "model": "glm-5.3"
+}

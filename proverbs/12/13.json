@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רע",
+      "rationale": "Samostalnik 'hudo' ali oseba 'hudi'; večina prevodov bere osebno (hudi je ujet), dobesedno je 'zanka hudega'."
+    },
+    {
+      "kind": "elision",
+      "subject": "מוקש",
+      "rationale": "Slika pasti za živali (םוקש) ostaja 'zanka'."
+    }
+  ],
+  "translation": "V prestopku ustnic je zanka hudega, iz stiske pa pride pravičen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "568088875a3e3f67ab8b6df22578811a49054c1bbbfc42cb555f6085024591fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/12\/13-16.1792435956688.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "V prestopku"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ustnic"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "zanka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hudega"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pa pride"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "iz stiske"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:36.689547887Z",
+  "model": "glm-5.3"
+}

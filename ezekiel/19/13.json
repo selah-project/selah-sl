@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "slovenščina potrebuje veznik, hebrejščina ga nosi v predponi ו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ציה\/צמא",
+      "rationale": "asu في suhost\/žejnost — asonanca dveh sibilant, v slovenščini delno ohranjena z 'suho in žejno'"
+    }
+  ],
+  "translation": "In zdaj je presajena v puščavo, v deželo suho in žejno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "760240454d3d2d7140397754ff3351606b620919c575a7e7e00182fdaf26910b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/19\/13-14.1792432302870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "je presajena"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželo"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suho"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "in žejno"
+    }
+  ],
+  "timestamp": "2026-10-19T17:51:42.871065164Z",
+  "model": "glm-5.3"
+}

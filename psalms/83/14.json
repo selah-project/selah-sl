@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלגל",
+      "rationale": "'kolo \/ vrtavka \/ vihreni prah' — KJV 'kolo', ASV 'vihreni prah', BSB 'kobrevec'."
+    },
+    {
+      "kind": "addition",
+      "subject": "naj bodo",
+      "rationale": "hebrejščina ima samo 'postavi jih kot'; slovenščina potrebuje glagol biti."
+    }
+  ],
+  "translation": "Elohim moj, daj naj bodo kakor kolo vrtavke, kakor slama pred ruah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/83\/13-16.1792435159737.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "daj naj bodo"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "kakor kolo vrtavke"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kakor slama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:19.738285814Z",
+  "model": "glm-5.3"
+}

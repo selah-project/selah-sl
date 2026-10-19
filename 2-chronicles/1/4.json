@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "prostor",
+      "rationale": "בהכין לו pomeni dobesedno »v pripravljanju zanjo«; slovenščina potrebuje samostalnik, ki ga hebrejščina izpušča."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dal privesti",
+      "rationale": "העלה je dobesedno »dvignil\/peljal gor« — v Jerušalajim se hodi navzgor; »privesti« izgubi to vertikalno podobo."
+    }
+  ],
+  "translation": "A skrinjo Elohimovo je David dal privesti iz Kirjat-Jearima, ⟨ko⟩ je David pripravil ⟨zanjo⟩ ⟨prostor⟩, kajti razpel ji je šotor v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "74a559d3fb215ed5566435f912a8be0f953b235e04da055d2384f22a2279d1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/1-4.1792438430237.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "je dal privesti"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "iz Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearima"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "⟨ko⟩ je pripravil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zanjo⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "razpel je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šotor"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:50.249956397Z",
+  "model": "glm-5.3"
+}

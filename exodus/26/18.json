@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "protiTimanu",
+      "rationale": "תימנה ponavlja smer; 'Timan' je hebrejska beseda za jug (stran desne roke), ohranjena po zvoku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvajset desk",
+      "rationale": "Navodilo natančno prešteva deske za južno stran."
+    }
+  ],
+  "translation": "In narediš ⟨את⟩ deske za miškan: dvajset desk za stran proti jugu, protiTimanu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/26\/17-20.1792423578796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "In narediš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deske"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "deske"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za miškan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "desk"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "za stran"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "proti jugu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "protiTimanu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:26:18.797565378Z",
+  "model": "glm-5.3"
+}

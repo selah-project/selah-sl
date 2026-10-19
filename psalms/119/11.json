@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨proti⟩",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ima sam lenitiv 'tebi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "grešil",
+      "rationale": "אחטא dobesedno 'zgrešil (cilj)'"
+    },
+    {
+      "kind": "secret",
+      "subject": "skril v srcu",
+      "rationale": "צפן — beseda je zaščitena, spravljena na skritem mestu"
+    }
+  ],
+  "translation": "V svojem srcu sem skril tvojo besedo, da ne bi grešil ⟨proti⟩ tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/9-12.1792435507507.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "v svojem srcem"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "sem skril"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvojo besedo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "grešil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨proti⟩ tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:07.508341378Z",
+  "model": "glm-5.3"
+}

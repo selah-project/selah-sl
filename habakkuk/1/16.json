@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהמה",
+      "rationale": "KJV 'by them' bere kot predlog ב + povratni zaimek ('z njimi'); drugi bereta samostalnik 'njihova živina je mastna'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בראה",
+      "rationale": "Korensko 'mastna, redčena' — 'obilna' (KJV) je mehkejša razlaga istega pomena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבח \/ קטר",
+      "rationale": "Satira: ribič daruje in kadi mrežam — bogastvo je postalo bog; slika kaldujske vojaške sile."
+    }
+  ],
+  "translation": "Zato žrtvuje svoji mreži in kadi svoji pleteni mreži, kajti z njimi je masten njegov delež in njegova hrana je redčena do mastnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5877c28f80af1c1d245f0186680d5c0455121daae544da18fa2e6306f1efbc38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/1\/13-16.1792434238073.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "žrtvuje"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "svoji mreži"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "in kadi"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "svoji pleteni mreži"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "masten"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "njegov delež"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "in njegova hrana"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "redčena do mastnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:58.077852440Z",
+  "model": "glm-5.3"
+}

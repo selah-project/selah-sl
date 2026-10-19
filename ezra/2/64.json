@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je štela⟩",
+      "rationale": "hebrejščina brez glagola; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "popis skupnosti",
+      "rationale": "skupni seštevek vrnjene skupnosti: 42.360"
+    }
+  ],
+  "translation": "Vsa skupnost skupaj ⟨je štela⟩ štirideset tisoč dvesto triinšestdeset.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "35609999c5088289e00332847cbada79999d4d67ee84aec5f172969e06ce57dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/2\/61-64.1792437594099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vsa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "skupnost"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štirideset"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dvesto"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "inšestdeset"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:54.100971519Z",
+  "model": "glm-5.3"
+}

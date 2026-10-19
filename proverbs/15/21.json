@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ki nima srca",
+      "rationale": "חסר לב dobesedno 'brez srca'; hebrejščina pomanjkanje, ne prestavek"
+    },
+    {
+      "kind": "addition",
+      "subject": "svojo",
+      "rationale": "zaimok dodan v slovenščini, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Neumnost je veselje tistemu, ki nima srca, človek pa z razumnostjo izravna svojo hojo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "10d741359f5567c10274222739567fd7c55a943430016e07bfc5ad6b88103e71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/21-24.1792435979811.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "neumnost"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselje"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "tistemu, ki nima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "človek pa"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "z razumnostjo"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "izravna"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "svojo hojo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:59.812072318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "Saul to David",
+      "rationale": "Šaul neposredno nagovarja Davida: 'Ali je to tvoj glas, sin moj David?'"
+    }
+  ],
+  "translation": "In ko je David končal govoriti ⟨את⟩ te besede Šaulu, je Šaul rekel: Ali je to tvoj glas, sin moj David? In Šaul je dvignil svoj glas in jokal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/24\/17-20.1792427949813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ko je končal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "te besede"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "tvoj glas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sin moj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "je dvignil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "in jokal"
+    }
+  ],
+  "timestamp": "2026-10-19T16:39:09.814462074Z",
+  "model": "glm-5.3"
+}

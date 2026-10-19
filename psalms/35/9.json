@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu\/življenjski sili'; uporabljeno zaradi berljivosti"
+    },
+    {
+      "kind": "addition",
+      "subject": "se bo",
+      "rationale": "slovenščina zahteva pomožnik glagola"
+    }
+  ],
+  "translation": "In moja duša se bo veselila v Jahveju, radostna bo v njegovi rešitvi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/9-12.1792434734176.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "in moja duša"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "se bo veselila"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "radostna bo"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "v njegovi rešitvi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:14.177027766Z",
+  "model": "glm-5.3"
+}

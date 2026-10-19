@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima pomožnika za preteklik; slovenščina ga zahteva"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ponižal",
+      "rationale": "ענה tu pomeni 'pritisnil dol, omagal' — genevska\/KJV 'omajal moč' je mogoča druga izbira"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "govor se obrača na Jahveja v drugi osebi, a ta verz o njem govori v tretji osebi — prelom znotraj molitve"
+    }
+  ],
+  "translation": "Ponižal ⟨je⟩ na poti mojo moč, skrajšal ⟨je⟩ moje dneve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/21-24.1792435325099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ponižal"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na poti"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "mojo moč"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "skrajšal"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "moje dneve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:05.100325697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "תהי je jussiv glagola היה; slovenščina potrebuje modalni 'naj' in glagolsko 'bo'"
+    }
+  ],
+  "translation": "Tvoja roka ⟨naj⟩ mi ⟨bo⟩ v pomoč, kajti tvoje zapovedi sem izbral.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/173-176.1792435558486.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoja roka"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "v pomoč mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvoje zapovedi"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "sem izbral"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:58.486939165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 33:28",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שממה \/ ומשמה \/ ושממו",
+      "rationale": "trojna koren שׁמם — pustoš, opustošenje, opustele — vse v enem verzu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ker",
+      "rationale": "מאין עובר je dobesedno 'brez tistega, ki hodi' — veznik dodan v slovenščini"
+    }
+  ],
+  "translation": "In deželo bom postavil ⟨את⟩ za pustoš in opustošenje, in prenehal bo ošabni ponos njene moči, gore Jisraela pa bodo opustele, ker ne bo nikogar, ki bi šel skozi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1dd639c70eae9bc38f827517e9b76bcfed36093e2b8ebe75eded3ecd51e14f53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/33\/25-28.1792433539314.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "bom postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deželo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "za pustoš"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "opustošenje"
+    },
+    {
+      "surface": "ונשבת",
+      "gloss": "prenehal bo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ošabni ponos"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "njene moči"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "bodo opustele"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ne bo nikogar"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ki bi šel skozi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:19.317461881Z",
+  "model": "glm-5.3"
+}

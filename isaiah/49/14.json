@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "Sióne",
+      "rationale": "govor je neposreden glas Sióna, ki toži nad zapuščenostjo"
+    }
+  ],
+  "translation": "In Sióne je rekla: Zapustil me je Jahve, in Adonaj me je pozabil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d35aacf2f06cb6ccaba18293c57f08a3521f3293487eff1ecfc4212d0a5e4a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/49\/14-16.1792433392824.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in je rekla"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sión"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "zapustil me je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "in Adonaj"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "me je pozabil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:52.825874390Z",
+  "model": "glm-5.3"
+}

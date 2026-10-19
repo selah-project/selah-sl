@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina izpušča pomožnik 'biti' v pretekliku; ואהיה ga nosi le v drugem stavku"
+    }
+  ],
+  "translation": "Bedel sem in bil sem kakor ptica sama na strehi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/5-8.1792435322853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "bedel sem"
+    },
+    {
+      "surface": "ויבש ואהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "in bil sem"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kakor ptica"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "sama"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גג",
+      "gloss": "strehi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:02.855599865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "v žalosti",
+      "rationale": "קדר dobesedno 'biti pepelnato temen' — žalovanje v raševini; slika barve je v slovenščini izgubljena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zvračena",
+      "rationale": "נעויתי iz עוה 'izkriviti' — dobesedno 'izkrivljena sem'"
+    }
+  ],
+  "translation": "Zvračena sem in pognjena do skrajnosti, ves dan hodim v žalosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/5-8.1792434768134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "zvračena sem"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "pognjena sem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "skrajnosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "v žalosti"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "hodim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:48.135684111Z",
+  "model": "glm-5.3"
+}

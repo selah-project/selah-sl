@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי ברית",
+      "rationale": "dobesedno 'zavezati\/zarezati zavezo' — glagol כרת pomeni 'rezati', ker se zaveza sklenila z razrezom živali"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨s⟩",
+      "rationale": "hebrejščina nima predloga pri 'ברית לבחירי' — dodan slovenski predlog za zveznost"
+    }
+  ],
+  "translation": "Zavezo sem izrekal ⟨s⟩ svojemu izvoljenemu, prisegel sem Davidu, svojemu sužnju:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c71932c79001f4e5854bd6f34730ea315b3bf506f3adce7e38e106377b74bea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/4-4.1792439036189.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "sem izrekal"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "svojemu izvoljenemu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisegel sem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svojemu sužnju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:56.190989364Z",
+  "model": "glm-5.3"
+}

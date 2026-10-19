@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola: פחד ואין שלום — strah in ni miru"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול חרדה \/ פחד",
+      "rationale": "kopičenje besed strahu in trepetanja gradi vzpenjajočo grotesko"
+    }
+  ],
+  "translation": "Kajti tako govori Jahve: glas trepetanja smo slišali, strah ⟨je⟩ in miru ni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ec5461b271904f7c91e3b10b413869960708e3f1848cb908368c97992272ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/30\/5-8.1792431592589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "trepetanja"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo slišali"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "strah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "miru"
+    }
+  ],
+  "timestamp": "2026-10-19T17:39:52.590115669Z",
+  "model": "glm-5.3"
+}

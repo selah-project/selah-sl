@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cedek",
+      "rationale": "צדק v tožilniku brez člena: 'čuj (mojo) pravičnost' (prošnja) ali 'čuj, o Pravični' (naslovnik) — prevajalci se delijo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעה\/הקשיבה\/האזינה",
+      "rationale": "Trije glagoli poslušanja v verzu — intenzivna ponovitev, v slovenščini deloma zabrisana."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden nagovor Jahveja z rodilniki (Čuj, prikloni uho, poudari)."
+    }
+  ],
+  "translation": "Molitev Davidova. Čuj, Jahve, cedek; prikloni uho mojemu vrisku; poudari mojo molitev — ⟨tisto⟩ brez ustnic prevare.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/1-4.1792434614764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Molitev"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Čuj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "prikloni uho"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mojemu vrisku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "poudari"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojo molitev"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "brez"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ustnic"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevare"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:14.764941487Z",
+  "model": "glm-5.3"
+}

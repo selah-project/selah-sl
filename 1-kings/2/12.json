@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se je",
+      "rationale": "Hebrejščina ima samo ותכן; slovenščina potrebuje pomožni glagol."
+    }
+  ],
+  "translation": "In Šelomo je sedel na prestolu Davida, svojega očeta, in njegovo kraljestvo se je zelo utrdilo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/2\/9-12.1792428713801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "in Šelomo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "je sedel"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prestolu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "in se je utrdilo"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "njegovo kraljestvo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:51:53.802211699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ubije",
+      "rationale": "מכה je dobesedno 'udari'; tu vzeto v smrtnem pomenu (prim. 24,17), ker sledi 'usmrčen'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kdor",
+      "rationale": "Hebrejščina ima deležnik brez osebnega zaimek; slovenščina potrebuje 'kdor'"
+    }
+  ],
+  "translation": "Kdor ubije živino, naj jo nadomesti; kdor ubije človeka, naj bo usmrčen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/24\/21-23.1792424530383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "kdor ubije"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "živino"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "naj jo nadomesti"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "kdor ubije"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "naj bo usmrčen"
+    }
+  ],
+  "timestamp": "2026-10-19T15:42:10.384388852Z",
+  "model": "glm-5.3"
+}

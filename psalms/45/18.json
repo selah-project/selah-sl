@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "Hifil cohortativ אזכירה nosi prihodnji\/voljilni pomen, slovenščina doda pomožnik"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר \/ לעלם ועד",
+      "rationale": "podvojeni par 'rodu in rodu', 'večno in večno' — hebrejsko natančno podvojeno"
+    }
+  ],
+  "translation": "Naredil ⟨bom⟩ ⟨tvoje⟩ ime spominljivo v vsakem rodu in rodu; zato te bodo ljudstva hvalila ⟨ta⟩ večno in večno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc61600924c0b790f6361e598d4df296cfe115b10f1a501c15100ee89f3d48b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/18-18.1792439028100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַזְכִּירָה",
+      "gloss": "naredil spominljivo"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "v vsakem"
+    },
+    {
+      "surface": "דֹּר",
+      "gloss": "rodu"
+    },
+    {
+      "surface": "וָדֹר",
+      "gloss": "in rodu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "zato nad ⟨tistim⟩"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "nad tem razlogom"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "יְהוֹדֻךָ",
+      "gloss": "te bodo hvalila"
+    },
+    {
+      "surface": "לְעֹלָם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "וָעֶד",
+      "gloss": "in večno"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:48.102548782Z",
+  "model": "glm-5.3"
+}

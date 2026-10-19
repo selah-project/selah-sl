@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "Dvojna ponovitev 'rod in rod' — slovenščina ohranja ponovitev, ne pa zvokovne igre."
+    },
+    {
+      "kind": "substitution",
+      "subject": "za vedno",
+      "rationale": "לעולם dobesedno 'do skritega\/točke izginjanja' — čas brez konca."
+    }
+  ],
+  "translation": "Načrt Jahveja stoji za vedno, namere njegovega srca za rod in rod.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/9-12.1792434692156.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "načrt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "namere"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "njegovega srca"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "za rod"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "in rod"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:32.158298512Z",
+  "model": "glm-5.3"
+}

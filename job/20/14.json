@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 20:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpušča glagol biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "žolč",
+      "rationale": "מְרֹרָה je grenkoba\/žolč, tudi strup; 'žolč gadov' ohranja telesno sliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "jed",
+      "rationale": "לֶחֶם je kruh oz. hrana nasploh; prevodi se odločajo med 'kruh' in 'jed'."
+    }
+  ],
+  "translation": "Njegova jed se v njegovih drobovjih spremeni, žolč gadov ⟨je⟩ v njegovi notranjosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2eeb078858b3bfce377c3c30b05a714e374dc5aba42beba5a3fadfc2968462a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/13-16.1792436472134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחמו",
+      "gloss": "njegova jed"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "v njegovih drobovjih"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se spremeni"
+    },
+    {
+      "surface": "מרורת",
+      "gloss": "žolč"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "gadov"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "v njegovi notranjosti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:12.136313699Z",
+  "model": "glm-5.3"
+}

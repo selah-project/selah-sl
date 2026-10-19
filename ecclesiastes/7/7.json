@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתנה",
+      "rationale": "מתנה je 'dar'; KJV\/ASV berejo 'podkupnina' (bribe) iz sorodnega כופר"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשק\/מתנה",
+      "rationale": "nasprotje med nasiljem in darom, ki oba pokvarita modrost"
+    }
+  ],
+  "translation": "Kaj zatiranje osuli modrega, in podarjenost uniči ⟨את⟩ srce daru.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/5-8.1792437095413.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "zatiranje"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "osuli"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "modrega"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "in uniči"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "podarjenost — dar"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:35.415543292Z",
+  "model": "glm-5.3"
+}

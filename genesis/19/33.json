@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (z očetom)",
+      "rationale": "drugi את je predlog 'z', ne oznaka za določni predmet; ohranjen dobesedno kot ⟨z⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ni vedel",
+      "rationale": "ידע 'vedeti' vključuje tudi spolno znanje; tu: ni opazil, ni bil pri zavesti"
+    }
+  ],
+  "translation": "In napojile sta ⟨את⟩ svojega očeta z vinom tisto noč, in prišla je prvorjenka ter legla ⟨את⟩ ⟨z⟩ očeta; in ni vedel ne ko je legla ne ko je vstala.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7cfec6dd6b205fc3e5aae81cf9b4c0d9e204b2d679f9eade2d98445ac4ef69de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/19\/33-36.1792422322931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "in napojile sta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega očeta"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "יין",
+      "gloss": "z vinom"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tisto noč"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tisto"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "in prišla je"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "prvorjenka"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ter legla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨z⟩",
+      "marks": "očeta"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vedel"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "ko je legla"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "ne ko je vstala"
+    }
+  ],
+  "timestamp": "2026-10-19T15:05:22.932089729Z",
+  "model": "glm-5.3"
+}

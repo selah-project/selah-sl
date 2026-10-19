@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "turban",
+      "rationale": "צניף je zavit naglavni prt; 'mitra' je cerkveno-liturgičen pomen"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik 'je' pri pretekliku"
+    }
+  ],
+  "translation": "In rekel sem: Naj mu denejo čisti turban na glavo. In denejo čisti turban na glavo, in oblekli so ga v oblačila, angel Jahveja pa je stal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "981141e3321e5c7471106dcbf81fa9936e502b3420e1962eff597cc75482c4e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/3\/5-8.1792434333668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "In rekel sem"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "naj denejo"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "turban"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavo"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "In denejo"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "turban"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "čisti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "glavo"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "in oblekli so ga"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "v oblačila"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "in angel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "je stal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:33.670449491Z",
+  "model": "glm-5.3"
+}

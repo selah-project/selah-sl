@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצלם",
+      "rationale": "צלם = podoba\/senca; KJV 'vain shew', BSB 'phantom'; prevod izbere 'senca'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vrtinec",
+      "rationale": "יהמיון iz המה = hrumeti, vrvenje; 'razburjen je' bi izgubil zvok"
+    },
+    {
+      "kind": "addition",
+      "subject": "bogastvo",
+      "rationale": "יצבר nima predmeta; dodan kot v kulturnem pomenu kopičenja"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יהמיון",
+      "rationale": "oblika nastopa samo tu v Tanahu"
+    }
+  ],
+  "translation": "Samo kakor senca hodi človek, samo hevel je vrtinec: kopiči ⟨bogastvo⟩ in ne ve, kdo ga bo zbral. —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/5-8.1792434828801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "kakor senca"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "je vrtinec"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "kopiči"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "jih bo zbral"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:48.804609538Z",
+  "model": "glm-5.3"
+}

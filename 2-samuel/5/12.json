@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "povzdignil",
+      "rationale": "נשא je dobesedno 'dvignil' — slika dviganja roke ali praporja, ne le 'poveličal'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "hebrejščina ima כוני lažji predmet z notranjim predmetom; slovenščina potrebuje 'za kralja' z 'ga'"
+    }
+  ],
+  "translation": "In David je spoznal, da ga je Jahve postavil za kralja nad Jisraelom in da je povzdignil svoje kraljestvo zaradi svojega ljudstva, Jisraela.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/5\/9-12.1792428255052.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "in-je-spoznal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "je-postavil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za-kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "in-da"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "je-povzdignil"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "svoje-kraljestvo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svojega-ljudstva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T16:44:15.053122380Z",
+  "model": "glm-5.3"
+}

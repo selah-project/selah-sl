@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "obrniti ujetništvo",
+      "rationale": "שוב שבות je idiom za 'obrniti usodo'; dobesedno 'vrnil je ujetništvo\/ujetnike'"
+    },
+    {
+      "kind": "crux",
+      "subject": "למשנה",
+      "rationale": "'na dvojno' (podvojitev imetja) ali 'za drugič\/drugič toliko'; KJV\/JPS 'dvakrat toliko'"
+    }
+  ],
+  "translation": "In Jahve je obrnil ⟨את⟩ ujetništvo Ijóva, ko je molil za svoje prijatelje; in Jahve je dodal vsemu, kar je imel Ijóv, na dvojno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/42\/9-12.1792436823114.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "je obrnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ujetništvo Ijóva"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ujetništvo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóva"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "ko je molil"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svoje prijatelje"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "in dodal je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse, kar je imel Ijóv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ijóv"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "na dvojno"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:03.117492258Z",
+  "model": "glm-5.3"
+}

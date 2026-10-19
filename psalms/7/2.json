@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahveju",
+      "rationale": "Neposreden nagovor Davida Jahveju — prošnja v prvi osebi."
+    },
+    {
+      "kind": "addition",
+      "subject": "vate sem se zatekel",
+      "rationale": "Slovenščina potrebuje povratni povdark 'vate' poleg predloga בך, hebrejščina ima samo 'v tebi'."
+    }
+  ],
+  "translation": "Jahve, moj Elohim, vate sem se zatekel; reši me pred vsemi, ki me zasledujejo, in me izruj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/1-4.1792434534994.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "vate"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sem se zatekel"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pred vsemi"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ki me zasledujejo"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "in me izruj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:54.995971879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izmišljajo",
+      "rationale": "חשב je 'pletsti, tkati' — dobesedno 'tkajo besede prevare'."
+    },
+    {
+      "kind": "crux",
+      "subject": "רגעי ארץ",
+      "rationale": "'tihim\/pomirjenim v deželi' — koren רגע 'biti miren' ali 'vznemirjen'; večina bere 'mirne prebivalce dežele'."
+    }
+  ],
+  "translation": "Kajti miru ne govorijo, ampak proti tihim dežele besede prevare izmišljajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "02a2d0a3cdd460fad39b0196f7b360fb97b7df79ae8328fd55229978a3e3133d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/17-20.1792434769664.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "miru"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "govorijo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "tihim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "prevare"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "izmišljajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:49.667178561Z",
+  "model": "glm-5.3"
+}

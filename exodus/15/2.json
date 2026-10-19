@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje kopulo, hebrejščina je nima — odvisnost brez glagola."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "'Poveličeval ga bom' proti 'naredil mu bivališče' (Targum, geneva) — koren נוה kot slaviti ali kot bivati."
+    }
+  ],
+  "translation": "Moja moč in pesem ⟨je⟩ Jah, in postal mi je v rešitev. ⟨To⟩ je moj El in poveličeval ga bom, Elohim mojega očeta in povzdignil ga bom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/15\/1-4.1792423326437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Moja moč"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "in pesem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in postal je"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "v rešitev"
+    },
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "moj El"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "in poveličeval ga bom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mego očeta"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "in povzdignil ga bom"
+    }
+  ],
+  "timestamp": "2026-10-19T15:22:06.438352706Z",
+  "model": "glm-5.3"
+}

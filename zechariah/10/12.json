@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ima samo končnico -ים 'njih'; slovenščina potrebuje osebni pridevek."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתהלכו",
+      "rationale": "hit'halek — hodili (bomo-val, intensity) 'hodili gor in dol' (KJV) ali 'živeli, obhodili' — dejanje v njegovem imenu."
+    }
+  ],
+  "translation": "In okrepil jih bom v Jahveju, in v njegovem imenu bodo hodili, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/10\/9-12.1792434360404.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "in okrepil jih bom"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "in v njegovem imenu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bodo hodili"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:00.406005614Z",
+  "model": "glm-5.3"
+}

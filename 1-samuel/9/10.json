@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v tem odvisnem stavku nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נער",
+      "gloss": "dekletu-poslužnovalcu — hebrejščina ima eno besedo 'na'ar' za fanta v službi; slovenščina potrebuje več besed."
+    }
+  ],
+  "translation": "In Šaul je rekel svojemu dekletu-poslužnovalcu: Dobro je tvoja beseda; pojdiva. In šli so v mesto, kjer je bil ⟨את⟩ Elohimov mož.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/9\/9-12.1792427609037.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "svojemu dekletu-poslužnovalcu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "je tvoja beseda"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "pojdiva"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "in so šli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    }
+  ],
+  "timestamp": "2026-10-19T16:33:29.038427971Z",
+  "model": "glm-5.3"
+}

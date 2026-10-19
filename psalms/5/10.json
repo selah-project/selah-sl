@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva kopulo, hebrejščina je nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "'trdnost\/zanesljivost' — KJV 'faithfulness', JPS 'sincerity', YLT 'stability'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחליקון",
+      "rationale": "'delajo gladke (besede)' — 'laskajo' (KJV) proti dobesednemu 'gladita' (JPS)"
+    }
+  ],
+  "translation": "Kajti v njegovih ustih ni nič trdnega, njihovo notranjost so pogube, odprt grob je njihovo grlo, s svojim jezikom gladijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/9-12.1792434522495.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "v njegovih ustih"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "nič trdnega"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "njihovo notranjost"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "pogube"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grob"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "odprt"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "njihovo grlo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "s svojim jezikom"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "gladijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:42.496754138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש as life-force, not 'soul'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדחי",
+      "rationale": "'pushing\/fall' — rendered propada; alternatives: spotovanje, padec"
+    }
+  ],
+  "translation": "Kajti iztrgal si ⟨את⟩ mojo nefesh iz smrti, ⟨את⟩ moje oči iz solz, ⟨את⟩ moje noge iz propada.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/116\/5-8.1792435446346.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "iztrgal si"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo nefesh"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "iz smrti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oči"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "solz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje noge"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje noge"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "iz propada"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:06.351979684Z",
+  "model": "glm-5.3"
+}

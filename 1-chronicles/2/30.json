@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Hebrejščina nima glagola biti v tem stavku"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא בנים",
+      "rationale": "Dobesedno 'ne sinov' — slovenščina 'brez sinov'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodoslovje",
+      "rationale": "Seznam imen z opombo o izumrtju veje"
+    }
+  ],
+  "translation": "In sinovi Nadavovi ⟨so bili⟩ Seled in Apajim; in Seled je umiral brez sinov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e7be342f221411014e5b1b89b12217c8ecf916c6415a43ddfc22a832b009af3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/29-32.1792438008699.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadavovi"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "in Apajim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "in umrl"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "brez"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:48.700653671Z",
+  "model": "glm-5.3"
+}

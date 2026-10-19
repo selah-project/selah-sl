@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žgalne daritve",
+      "rationale": "עלות dobesedno 'kar gre v višino', žgalna daritev jeustaLjen prevod"
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje predmet pri 'opravili bomo'"
+    }
+  ],
+  "translation": "In Moše je rekel: Tudi ti nam daš v roke žrtve in žgalne daritve, in opravili jih bomo za Jahve, Elohim našim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3828ba6473d71bf9ac0c8cc22ab06f62acc9441c5334459deca90b3086d79058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/10\/25-28.1792423196944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daš"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "v roke nam"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "in žgalne daritve"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "in opravili bomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:19:56.945320681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina ima deležnik z futurističnim pomenom vprašanja, slovenščina doda pomožnik"
+    },
+    {
+      "kind": "invitation",
+      "subject": "vprašanja",
+      "rationale": "dvojno vprašanje 'kdo' vabi poslušalca, da preveri svoje življenje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגור\/ישכן",
+      "rationale": "dva glagola bivanja (začasno gostovanje \/ trajno prebivanje) v vzporednici"
+    }
+  ],
+  "translation": "Pesem z godalom, Davidova. Jahve, kdo bo bival v tvojem šotoru, kdo bo prebival na tvoji sveti gori?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/15\/1-4.1792434604532.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pesem z godalom"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bo bival"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "v tvojem šotoru"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bo prebival"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvoji sveti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:04.532672919Z",
+  "model": "glm-5.3"
+}

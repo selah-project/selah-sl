@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמיד",
+      "rationale": "Beseda sicer pomeni 'zapestnica'; tukaj 'pokrov\/zaponka' — prevodi se razhajajo med 'pokrov' in 'zavezano vez'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez kopule; slovenščina jo dodaja."
+    }
+  ],
+  "translation": "In vsaka posoda, odprta, na kateri ni zaponke iz vrvi, je nečista ⟨ona⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6c273d970a43a4a03307573822814d99717b27e612af76425ca31ba947bdd81b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/19\/13-16.1792425222512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsaka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posoda"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "odprta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kateri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "zaponka"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "iz vrvi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanjo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-19T15:53:42.513128976Z",
+  "model": "glm-5.3"
+}

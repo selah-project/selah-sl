@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; Kuš stoji v stavku brez glagola"
+    },
+    {
+      "kind": "crux",
+      "subject": "njena \/ tvoja",
+      "rationale": "עצמה brez suffiksa, בעזרתך pa 'tvoja' — No-Amon v 3. osebi, Ninive v 2.; prevodi se razhajajo"
+    }
+  ],
+  "translation": "Kuš ⟨je⟩ njena moč, in Micrajim, in ni konca; Put in Lubim so bili v tvoji pomoči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/3\/9-12.1792434202965.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "moč"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "in Micrajim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "konca"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "in Lubim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bili"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "v tvoji pomoči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:22.966408871Z",
+  "model": "glm-5.3"
+}

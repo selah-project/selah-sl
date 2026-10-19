@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נער",
+      "rationale": "'najstnik\/služabnik' — v kontekstu dvorni služabnik, prevod 'služabnik' namesto dobesedno 'mladenič'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בן אדניך",
+      "rationale": "dobesedno 'sin tvojega gospoda' — BSB bere 'vnuk' (Jeri-Baal\/Mefibošet); dobesedna oblika ostaja."
+    }
+  ],
+  "translation": "In kralj je poklical Civo, služabnika Šaulovega, in mu rekel: Vse, kar je bilo Šaulu in vsemu njegovemu domu, sem dal sinu tvojega gospoda.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "92e506908e76c7329a70c7b19ebbceca20b025681e4220f305d13049803c4805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/9\/9-12.1792428257830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "je poklical"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Civi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "služabniku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bilo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "in vsemu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegovemu domu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sem dal"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvojega gospoda"
+    }
+  ],
+  "timestamp": "2026-10-19T16:44:17.831261546Z",
+  "model": "glm-5.3"
+}

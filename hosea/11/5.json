@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrew lacks copula; nominal clause 'Ašur — on, njegov kralj'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ampak",
+      "rationale": "hebrew ima samo 've-' ('in'); nasprotje je iz sklepnega 'ne… ampak'."
+    },
+    {
+      "kind": "crux",
+      "subject": "bsb 'ali' proti 'ne'",
+      "rationale": "bsb bere v5 kot retorično vprašanje ('se ne bodo vrnili?'), večina kot trditev; לא z nedoločnim glagolom dopušča obe."
+    },
+    {
+      "kind": "you",
+      "subject": "o Efrajimu",
+      "rationale": "subjekt 'se ne vrne' je Efrajim iz sobesedila, ne imenovan v verzu."
+    }
+  ],
+  "translation": "Ne vrne se v deželo Micrajim, ampak Ašur ⟨bo⟩ njegov kralj, ker so odklonili vrniti se.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "005f4fa2860f04403716e9d71d8dfb2af30144e20985f8a1d7984936c2ffed04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/11\/5-8.1792433928421.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vrne se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ampak Ašur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "njegov kralj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "so odklonili"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "vrniti se"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:48.422074040Z",
+  "model": "glm-5.3"
+}

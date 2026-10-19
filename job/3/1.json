@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "preklel",
+      "rationale": "ויקלל je dobesedno 'naredil lahek\/omalovaževal', tukaj 'preklinjati'"
+    },
+    {
+      "kind": "crux",
+      "subject": "svoj dan",
+      "rationale": "hebrejščina pravi le 'svoj dan' — ne 'dan rojstva' (kot BSB)"
+    }
+  ],
+  "translation": "Po tem je Ijov odprl ⟨את⟩ svoja usta in preklel ⟨את⟩ svoj dan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/1-4.1792436264330.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tem"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "je odprl"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja usta"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "svoja usta"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "in preklel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj dan"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "svoj dan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:44.331853927Z",
+  "model": "glm-5.3"
+}

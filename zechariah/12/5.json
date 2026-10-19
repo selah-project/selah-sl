@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 12:5",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks copula in the exclamatory clause"
+    },
+    {
+      "kind": "crux",
+      "subject": "poglavarji",
+      "rationale": "אלופי Judá: 'poglavarji\/knezovi' ali 'rodovi\/klani' (BSB 'clans') — koren pomeni 'udomačen, prijateljski'"
+    }
+  ],
+  "translation": "In rekli bodo poglavarji Jude v svojem srcu: Moč ⟨so⟩ mi prebivalci Jerušalajima v Jahveju Cebaot, v svojem Elohimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9fc7e8b277b894d38155f3df1df5fa574214d5e163035269080d4f4705c3c727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/12\/5-8.1792434474712.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "in rekli bodo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "poglavarji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "v svojem srcu"
+    },
+    {
+      "surface": "אמצה",
+      "gloss": "moč"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalci"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "v svojem Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:54.714035708Z",
+  "model": "glm-5.3"
+}

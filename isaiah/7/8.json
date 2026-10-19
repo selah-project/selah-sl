@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šestdeset in pet let",
+      "rationale": "natančno število let do Efrajimovega konca kot ljudstva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעם",
+      "rationale": "hebrejščina dobesedno 'strto, da nič ne bo ljudstvo'; ciklična formula iz 5 Mz 32"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש...ראש",
+      "rationale": "ponovitev 'glava Arama \/ glava Damaska \/ glava Efrajima (v. 9)' — veriga glav, ki povezuje v. 8 in 9"
+    }
+  ],
+  "translation": "Kajti glava Arama je Damask, in glava Damaska je Resin; in v še šestdesetih in petih letih bo Efrajim strto, da ne bo več ⟨ljudstva⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/7\/5-8.1792429981856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damask"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "in glava"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Resin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "v še"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "šestdesetih"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "in petih"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "letih"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "bo strto"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "da ne bo več ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T17:13:01.857291630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva svojilni glagol pri שקטה, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקטה",
+      "rationale": "počitek mesta kot nasprotje vstaji — glas v hebrejščini nosi mir, ki ga slovenščina izraža z 'počivalo'"
+    }
+  ],
+  "translation": "In veselil se je ves ljud dežele, mesto ⟨je⟩ počivalo, ⟨את⟩ Ataljo pa so ubili z mečem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "78a4ff86b5c7dc98624820c943fa7cd012159e44bb0c511d1be0b044dfd7b605",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/23\/21-21.1792438701547.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "in veselil se je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "počivalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataljo"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljo"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ubili"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:21.548167201Z",
+  "model": "glm-5.3"
+}

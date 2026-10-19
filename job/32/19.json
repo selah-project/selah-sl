@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 32:19",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "glej",
+      "rationale": "הנה Elihu neposredno kliče poslušalca, naj vidi podobo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "vino, ki se ne odpira",
+      "rationale": "podoba vina v novi mehovki brez odprtine za odvod plina; dobesedno 'ne bo odprto'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mehovke",
+      "rationale": "אבות so vodne mehovke iz usnja — za vino 'vinjake', izbrana dobesedna slika posode"
+    }
+  ],
+  "translation": "Glej, moj trebuh je kakor vino, ki se ne odpira, kakor nove mehovke razpoči se.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8cf0ac026d08a78f98a70a4b55691186cd8b88d31a87859d4846116b87129bed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/32\/17-20.1792436657906.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "moj trebuh"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "kakor vino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "se odpira"
+    },
+    {
+      "surface": "כאבות",
+      "gloss": "kakor mehovke"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nove"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "razpoči se"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:17.907247574Z",
+  "model": "glm-5.3"
+}

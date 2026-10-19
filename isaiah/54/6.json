@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "potrto",
+      "rationale": "עצובת dobesedno 'žalostna\/izklesana v duhu'; עצב pomeni tudi 'oblikovati, klesati'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי תמאס",
+      "rationale": "'ko si bila zavrnjena' (2. oseba) proti 'kaj naj bi bila zavrnjena?' (JPS — retorično vprašanje)"
+    }
+  ],
+  "translation": "Kajti kakor ženo zapuščeno in potrto v ruah te je poklical Jahve, in kakor ženo mladosti, ko si bila zavrnjena — govori tvoj Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/54\/5-8.1792430791071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "kakor ženo"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "zapuščeno"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "in potrto"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "v ruah"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "te je poklical"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "in kakor ženo"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "mladosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "si bila zavrnjena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:31.072671417Z",
+  "model": "glm-5.3"
+}

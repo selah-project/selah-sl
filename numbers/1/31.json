@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "med njimi",
+      "rationale": "supplied reference to the preceding enumeration"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census count",
+      "rationale": "tribal registration figure: 57,400"
+    }
+  ],
+  "translation": "Prešteti med njimi, za pleme Zevuluna: ⟨sedem⟩ in petdeset tisoč in štiristo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "dcd183f9aadd9828ff5268ea4ca299cc0beda65074aa3b1e62aec81f53e4b3ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/1\/29-32.1792424654780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "prešteti"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "za pleme"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuluna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "in petdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "in štiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    }
+  ],
+  "timestamp": "2026-10-19T15:44:14.781661294Z",
+  "model": "glm-5.3"
+}

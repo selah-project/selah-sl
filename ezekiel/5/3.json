@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "malo, po številu",
+      "rationale": "štetje ostanka — ostanek določen po številu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "krila",
+      "rationale": "כנפים je dvojina 'peruti' — krila (ptičja) ali skuti oblačila; 'v tvojih krilih' je slika v dveh pomenih."
+    }
+  ],
+  "translation": "In vzemi od tam malo, po številu, in zaveži ⟨את⟩ njih v tvoja peruta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "17548a6126bf5336a61917c90a6f6bf5bb50e611114c888e7f05261d8f7e6d3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/5\/1-4.1792432071769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "in vzemi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "od tam"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "po številu"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "in zaveži"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ njih",
+      "marks": "v tvoja peruta"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "v tvoja peruta"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:51.769991371Z",
+  "model": "glm-5.3"
+}

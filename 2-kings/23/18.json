@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "את",
+      "rationale": "ta אֵת je predlog 'z' (blizina), ne aleph-tav označba predmeta — zato brez ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨skupaj⟩",
+      "rationale": "predlog 'z' razširjen z 'skupaj', da pomen ostane jasen"
+    }
+  ],
+  "translation": "In rekel je: Pustite ga; človek naj ne premakne njegovih kosti. In njegove kosti so se rešile ⟨skupaj⟩ ⟨את⟩ z kostmi preroka, ki je prišel iz Šomrona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/23\/17-20.1792429874848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "pustite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "premakne"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "njegove kosti"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "in so se rešile"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "njegove kosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kostmi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "preroka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "prišel je"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "iz Šomrona"
+    }
+  ],
+  "timestamp": "2026-10-19T17:11:14.849532442Z",
+  "model": "glm-5.3"
+}

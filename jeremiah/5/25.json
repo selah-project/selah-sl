@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez pomožnika; slovenščina ga zahteva pri pretekliku"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלה",
+      "rationale": "'te' se nanaša na dež in žetvene tedne iz prejšnjega verza; hebrejščina pusti stvar kazalno odprto"
+    }
+  ],
+  "translation": "Vaše krivice so odvrnile ⟨את⟩ te, in vaši grehi so odvzele dobro od vas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5c84085168763cc63e9fcaf042ff828532dccfda9f3b32ce25aa89ce28bbeb85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/5\/25-28.1792431093752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "vaše krivice"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "so odvrnile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "in vaši grehi"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "so odvzele"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od vas"
+    }
+  ],
+  "timestamp": "2026-10-19T17:31:33.753462803Z",
+  "model": "glm-5.3"
+}

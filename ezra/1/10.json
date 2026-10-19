@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "inventar",
+      "rationale": "Nadaljevanje seznama posod s števili."
+    },
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "Mišnim: 'dvojne\/drugorazredne' — KJV 'of a second sort', BSB 'matching'; dobesedno 'podvojene'."
+    }
+  ],
+  "translation": "Čaš zlatih trideset, čaš srebrnih drugorazrednih štiristo in deset, posod drugih tisoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/1\/9-11.1792437601111.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Čaš"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatih"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "Čaš"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebrnih"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "drugorazrednih"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "in deset"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "posod"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugih"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:01.114328186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In je umrl Jobav, in namesto njega je kraljeval Hušam iz dežele Temanitke.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "742549d6c0bd682ab1d4fc47b97c0c2b432ca09cc421c500ccc5e811972928df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/45-48.1792437997898.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "in je umrl"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobav"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in je kraljeval"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Hušam"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Temanitke"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:37.899727566Z",
+  "model": "glm-5.3"
+}

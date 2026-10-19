@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew ashrei is an interjection without copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה rendered as cedek, not pravičnost, per discipline"
+    },
+    {
+      "kind": "alternative",
+      "subject": "singular participle",
+      "rationale": "oseh is singular against plural shomrei; rendered collectively"
+    }
+  ],
+  "translation": "Kako srečni ⟨so⟩ tisti, ki varujejo pravo, ki delajo cedek v vsakem času!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/1-4.1792435399784.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kako srečni"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "tisti, ki varujejo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki delajo"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vsakem"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:19.785185676Z",
+  "model": "glm-5.3"
+}

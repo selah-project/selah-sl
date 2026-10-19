@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje biti pri pasivu; hebrejščina je brez nje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמדם → njihova mesta",
+      "rationale": "עֹמֶד dobesedno »stoječe (mesto)« — njihova postavljena mesta\/postaje"
+    },
+    {
+      "kind": "you",
+      "subject": "pogovor z predstojniki",
+      "rationale": "Nehemija neposredno nagovarja predstojnike z vprašanjem »Zakaj…«"
+    }
+  ],
+  "translation": "In prepričeval sem ⟨את⟩ predstojnike in rekel: Zakaj je zapuščena hiša Elohim? In zbral sem jih ter postavil jih na njihova mesta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "723fe0f237fcdddc7ab02e8ecf1cfe22388723e8d555a6b91e754fab6574f329",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/13\/10-11.1792439101967.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "in prepričeval sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "predstojnike"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "predstojnike"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "je zapuščena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "in zbral sem jih"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "ter postavil jih"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "njihova mesta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:01.968596234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק je 'pravičnost\/pravo' — po D2 se ohranja kot cedek, en koren, ena beseda."
+    },
+    {
+      "kind": "addition",
+      "subject": "v pesmi",
+      "rationale": "זמר pomeni igrati na strune; 'v pesmi' razjasnjuje slovenskemu bralcu."
+    },
+    {
+      "kind": "crux",
+      "subject": "כצדקו",
+      "rationale": "'po njegovem cedeku' (po meri njegove pravičnosti) ali 'kajti njegov cedek' (hvala zaradi nje) — večina prevodov bere prvo."
+    }
+  ],
+  "translation": "Hvalil bom Jahveja po njegovem cedeku in igral bom v pesmi imenu Jahveja, Najvišjega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/17-18.1792434506072.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Hvalil bom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "po njegovem cedeku"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "in igral bom v pesmi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najvišjega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:26.073386343Z",
+  "model": "glm-5.3"
+}

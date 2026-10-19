@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ naj",
+      "rationale": "slovenski glagolski sistem doda pomožnik in namen (hebrejščina ima samo deleznik בא)"
+    },
+    {
+      "kind": "you",
+      "subject": "k bratom",
+      "rationale": "Reuben nagovarja svoje brate z retorično vprašanjem"
+    }
+  ],
+  "translation": "In se vrnil ⟨je⟩ k svojim bratom ter rekel: Otroka ni več — in kam naj grem jaz?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/37\/29-32.1792422731061.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "in se vrnil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svojim bratom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ter rekel"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "otroka"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ni več"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naj grem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:11.062280292Z",
+  "model": "glm-5.3"
+}

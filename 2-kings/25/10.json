@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poglavar krvnikov",
+      "rationale": "רב טבחים je dobesedno 'velik (poglavar) klavcev\/usmrtiteljev'; običajni naslov Nevuzaradana."
+    },
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v tem odvisniku nima."
+    }
+  ],
+  "translation": "In ⟨את⟩ zidove Jerušalajima naokoli so porušili vsi možje vojske Kaldejcev, ki ⟨so bili⟩ pri poglavarju krvnikov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/25\/9-12.1792429906414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zidove Jerušalajima"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "zidove"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokoli"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "so porušili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "možje vojske"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kaldejcev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "poglavar"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "krvnikov"
+    }
+  ],
+  "timestamp": "2026-10-19T17:11:46.415427910Z",
+  "model": "glm-5.3"
+}

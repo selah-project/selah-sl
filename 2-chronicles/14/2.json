@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bogov⟩",
+      "rationale": "הנכר je pridevnik 'tuji'; slovenščina potrebuje samostalnik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ašere",
+      "rationale": "האשרים so podobnine boginje Ašere; 'gaji' (KJV) izgubi ime"
+    }
+  ],
+  "translation": "In odstranil je ⟨את⟩ oltarje tujih ⟨bogov⟩ in ⟨את⟩ višine, in razbil je ⟨את⟩ stebre, in podrl ⟨את⟩ ašere.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/14\/1-4.1792438559671.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "in odstranil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltarje"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "oltarje"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tujih"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "in višine"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "in razbil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stebre"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stebre"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "in podrl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ašere"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašere"
+    }
+  ],
+  "timestamp": "2026-10-19T19:35:59.672083041Z",
+  "model": "glm-5.3"
+}

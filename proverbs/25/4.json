@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגו",
+      "rationale": "oblika הגו (imperativ od הגה v pomenu 'odstraniti') je v Tanahu izjemno redka."
+    },
+    {
+      "kind": "alternative",
+      "subject": "in izhodi posoda",
+      "rationale": "bere se tudi kot 'in pride pred talilca posoda' — glagol יצá s pomenom 'iziti\/ nastati'."
+    }
+  ],
+  "translation": "Odstrani žlindro iz srebra, in izhodi posoda za talilca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/1-4.1792436153181.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Odstrani"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "žlindro"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "iz srebra"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "in izhodi"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "za talilca"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posoda"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:53.184352062Z",
+  "model": "glm-5.3"
+}

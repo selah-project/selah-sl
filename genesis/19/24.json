@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ... יהוה",
+      "rationale": "Ime Jahve stoji dvakrat v enem verzu — dejanje in izvor sta ista; v slovenščini se sklanjatvena oblika Jahveja razlikuje od imenovalnika"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nebesa",
+      "rationale": "השמים je dvojina — 'nebessi'; slovenščina ima za nebesa množinsko obliko, dvojina se izgubi"
+    }
+  ],
+  "translation": "In Jahve je deževal na Sodomo in na Amoro žveplo in ogenj, od ⟨את⟩ Jahveja, iz nebes.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a31fe20f198e93a3a6c52f7a4e1ca54da812d62f46dab9f884816cec029b41b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/19\/22-24.1792433260088.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "In Jahve"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "je deževal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in na"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoro"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "žveplo"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "in ogenj"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:40.092016256Z",
+  "model": "glm-5.3"
+}

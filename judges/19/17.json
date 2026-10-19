@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "popotniku",
+      "rationale": "stari mož neposredno nagovarja popotnika z vprašanjem"
+    }
+  ],
+  "translation": "In povzdigne oči in vidi ⟨את⟩ moža, popotnika, na trgu mesta; in star mož reče: Kam hodiš in od kod prihajaš?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b30d979e8f64cdbd08828c34197a0482e033c31083977080738f5e6cec58c4e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/19\/17-20.1792427347420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "in povzdigne"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moža, popotnika"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "popotnika"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "na trgu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in reče"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "star"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "hodiš"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "in od kod"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "prihajaš"
+    }
+  ],
+  "timestamp": "2026-10-19T16:29:07.420816536Z",
+  "model": "glm-5.3"
+}

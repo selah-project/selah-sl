@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונגע בנבלתם",
+      "rationale": "Do koga se nanaša: tisti, ki se dotakne pogina, je nečist (JPS), ali stvar, ki se dotakne pogina, je nečista (KJV); hebrejščina je glagolski deležnik brez izrecnega subjekta."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ostane⟩",
+      "rationale": "Slovenščina potrebuje glagol stanja; hebrejščina ima le יהיה טהור — »bo čist«."
+    }
+  ],
+  "translation": "Samo — izvir in vodnjak, zbirališče vode, ⟨ostane⟩ čist; kdor pa se dotakne njihovega pogina, bo nečist.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/33-36.1792424096948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "izvir"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "in vodnjak"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "zbirališče"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čist"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "kdor pa se dotakne"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "njihovega pogina"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bo nečist"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:56.949399805Z",
+  "model": "glm-5.3"
+}

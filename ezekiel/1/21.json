@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 1:21",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Hebrejščina nima kopule; slovenščina zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je po D2 vedno ruah — veter\/dih\/duh v eni besedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלכתם ילכו \/ בעמדם יעמדו",
+      "rationale": "Infinitiv + glagol v parih — ponovitev giba, ki posnema sinhronost gibanja"
+    }
+  ],
+  "translation": "Ko so šle, so šle, in ko so stale, so stale; in ko so se dvignile z zemlje, so se dvignila kolesa zraven njih, kajti ruah živega bitja je bila v kolesih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/1\/21-24.1792431997505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלכתם",
+      "gloss": "ko so šle"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "so šle"
+    },
+    {
+      "surface": "ובעמדם",
+      "gloss": "in ko so stale"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "so stale"
+    },
+    {
+      "surface": "ובהנשאם",
+      "gloss": "in ko so se dvignile"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "so se dvignila"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "kolesa"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "zraven njih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živega bitja"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "v kolesih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:46:37.506721714Z",
+  "model": "glm-5.3"
+}

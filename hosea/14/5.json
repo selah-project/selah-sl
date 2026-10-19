@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moja jeza",
+      "rationale": "אפי je dobesedno 'moj nos\/nosovi'; idiom za jez, nos kot sedež jeze"
+    },
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "slovenščina zahteva prihodnjiški pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משובתם \/ שב",
+      "rationale": "ista družina שׁוב — 'odpadništvo' in 'obrniti se'; besedna igra v enem verzu"
+    }
+  ],
+  "translation": "Pozdravil bom njihovo odpadništvo, ljubil jih bom ⟨iz⟩ prostovoljnosti, kajti obrnila se je moja jeza od njega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/5-8.1792433895612.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "pozdravil bom"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "njihovo odpadništvo"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "ljubil jih bom"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "prostovoljnost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שב",
+      "gloss": "obrnila se je"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "moja jeza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:15.613845315Z",
+  "model": "glm-5.3"
+}

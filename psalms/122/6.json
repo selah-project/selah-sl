@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Sprašujte šalom Jerušalajima",
+      "rationale": "povabilo\/ukaz romniku, naslovljeno na skupnost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום pomeni celost, blaginjo, ne le odsotnost vojne; 'mir' je okrnjen"
+    }
+  ],
+  "translation": "Sprašujte ⟨za⟩ šalom Jerušalajima; naj se dobro godi tistim, ki te ljubijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/122\/5-8.1792435543188.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Sprašujte"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨za⟩ šalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "naj se dobro godi"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "tistim, ki te ljubijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:43.189382806Z",
+  "model": "glm-5.3"
+}

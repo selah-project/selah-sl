@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "žerjavica na glavo",
+      "rationale": "Hebrejska podoba: kopičenje ogljenih žerjavic na glavi pomeni sram ali zorenje do kesanja; dobesedno ohranjeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "povrnil",
+      "rationale": "ישלם iz korena שלם pomeni 'poplačati, narediti celo', ne le nagraditi"
+    }
+  ],
+  "translation": "Kajti žerjavico boš zlagal na njegovo glavo, in Jahve ti bo povrnil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7692eb697b4f720d957513373f9bc284efba48204600c2c72d10d141639bd363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/21-24.1792436126514.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "žerjavica"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "boš"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "zlagal (pobirati ogenj)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovo glavo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bo povrnil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:26.515284649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 26:2",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so bili⟩",
+      "rationale": "Slovenščina zahteva glagol; hebrejščina ga v imenskih stavkih nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sinovi po vrstnem redu",
+      "rationale": "Naštevanje sinov z ordinalske števnike."
+    }
+  ],
+  "translation": "In Mešelemji ⟨so bili⟩ sinovi: Zaharija prvorojenec, Jedijael drugi, Zebadija tretji, Jatniel četrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2c1179243e6cd9e9ef75dca40a83e25cec0f0012f0c771aad78f642a1cfa1318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/26\/1-4.1792438358853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "In Mešelemji"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zaharija"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorojenec"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Jedijael"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "זבדיהו",
+      "gloss": "Zebadija"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tretji"
+    },
+    {
+      "surface": "יתניאל",
+      "gloss": "Jatniel"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "četrti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:38.856823107Z",
+  "model": "glm-5.3"
+}

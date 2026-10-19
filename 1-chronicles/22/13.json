@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 22:13",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da jih izpolnjuješ",
+      "rationale": "infinitiv לעשות je pomaknjen za objekt; v slovenščini zastavljalcu sledi vstavljeni stavek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "daj se prestrašiti",
+      "rationale": "חת je dobesedno 'biti potrta, razbit biti'; 'prestrašiti se' je bližina, ne identiteta"
+    },
+    {
+      "kind": "you",
+      "subject": "Solomonu",
+      "rationale": "neposredni nagovor Davidovega oporočila nasledniku"
+    }
+  ],
+  "translation": "Tedaj boš uspeval, če boš varoval ⟨את⟩ odloke in ⟨את⟩ sodbe, da jih izpolnjuješ, ki jih je Jahve zavezal ⟨את⟩ Mošetu nad Jisraelom: bodi močan in srčen, ne boj se in ne daj se prestrašiti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0463030ee27d683c66f5c7182b5cd634da56f77ffa9f36fa173516758e925a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/22\/13-14.1792439143768.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "boš uspeval"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "boš varoval"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da izpolnjuješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odloke"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "odloke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "sodbe"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "sodbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zavezal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošetu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "bodi močan"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "in srčen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "daj se prestrašiti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:43.768972380Z",
+  "model": "glm-5.3"
+}

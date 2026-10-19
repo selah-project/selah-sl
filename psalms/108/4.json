@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "בל je pesniški dvojnik predloga לְ ('med, v'); prepoznan in izpuščen kot ločena beseda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "igral te bom",
+      "rationale": "זמר je dobesedno 'potegniti strune'; 'igral' ohranja glasbeno podobo, ne pa slike prstov na strunah."
+    }
+  ],
+  "translation": "Hvalil te bom med ljudstvi, Jahve, in igral te bom med narodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/1-4.1792435417622.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hvalil te bom"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "med ljudstvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "in igral te bom"
+    },
+    {
+      "surface": "בל",
+      "gloss": "med"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "narodi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:37.623161803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפטר",
+      "rationale": "koren p-t-r 'prebiti\/razvezati': 'izmaknil se je' ali dobesedno 'se je otresel'; YLT 'osvobodil se je'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בלילה הוא",
+      "rationale": "dobesedno 'v noč, ono' = 'tisto noč'; hebrejska deiktična zveza."
+    },
+    {
+      "kind": "alternative",
+      "subject": "להכות בדוד ובקיר",
+      "rationale": "dobesedno 'udariti Davida in steno' — sulica naj bi ga pribila ob steno."
+    }
+  ],
+  "translation": "In Šaul je poskušal z sulico prebosti Davida ⟨in ga pribiti⟩ ob steno, a ta se je izmaknil pred Šaulom, on pa je zabil ⟨את⟩ sulico v steno; David je pobegnil in se rešil tisto noč.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/19\/9-12.1792427883681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "poskušal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "prebosti"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "z sulico"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "in ob steno"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "izmaknil se je"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulico"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "sulico"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "v steno"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "pobegnil"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "rešil se"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tisto noč"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isto"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:03.682459635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו־ v številkah",
+      "rationale": "Vav v »osemindevet« je vezni del številke, ne ločen slovenski člen."
+    },
+    {
+      "kind": "addition",
+      "subject": "od",
+      "rationale": "Predlog לְ pred Hizkija označuje pripadnost; slovenščina potrebuje ⟨od⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "popis",
+      "rationale": "Verz je seznam števila povrtnikov po družinah."
+    }
+  ],
+  "translation": "Sinovi Aterjevi ⟨od⟩ Hizkije: osemindevet.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e43be7a4b9fe96d8f545352bcab581dbe7bbcfe06ced033d209a6ab571e9c80b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/7\/21-24.1792437803217.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Sinovi"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Aterjevi"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "⟨od⟩ Hizkije"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "osemindevet"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-19T19:23:23.218203022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "šeol ostaja po D2; KJV 'hell' je napačno."
+    }
+  ],
+  "translation": "Vrvi šeola so me obdale, pasti smrti so mi prišle naproti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/5-8.1792434556678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "vrvi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "so me obdale"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "so mi prišle naproti"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:16.679805128Z",
+  "model": "glm-5.3"
+}

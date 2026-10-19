@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩ mene",
+      "rationale": "Hebrejščina ima le לי 'meni'; slovenščina zahteva predlog 'v'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelu",
+      "rationale": "Jahve neposredno nagovarja Izraela kot svoje priče in izbranega služabnika."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני הוא",
+      "rationale": "'Jaz sem on' — brez glagola, naglašena istovetnost; izgubi se v slovenskem 'sem jaz ⟨on⟩'."
+    }
+  ],
+  "translation": "Vi ste moje priče, govori Jahve, in moj služabnik, ki sem ga izbral, da spoznate in verujete ⟨v⟩ mene ter razumete, da sem jaz ⟨on⟩; pred menoj ni bil oblikovan noben El in po meni ne bo noben.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/43\/9-12.1792430576162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Vi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "moje priče"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "in moj služabnik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "sem ga izbral"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "spoznate"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "in verujete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨v⟩ mene"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "ter razumete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem jaz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "bil oblikovan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "noben El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "in po meni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo noben"
+    }
+  ],
+  "timestamp": "2026-10-19T17:22:56.163469614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨biti⟩",
+      "rationale": "primer z 'biti' je dodan, ker slovenščina zahteva 'dal je biti kakor'; hebrejščina primer izrazi samo s predlogom kaf"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kakor kamenje \/ kakor murve",
+      "rationale": "prispodoba obilja: srebro kakor kamenje, cedre kakor murve na nižavju"
+    }
+  ],
+  "translation": "In kralj je dal ⟨את⟩ srebro ⟨את⟩ in zlato v Jerušalajimu ⟨biti⟩ kakor kamenje, ⟨את⟩ cedre pa je dal ⟨biti⟩ kakor murve, ki so na nižavju, v izobilju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/13-16.1792438406882.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srebro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "in zlato"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "kakor kamenje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cedre"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "kakor murve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki so"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "na nižavju"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "v izobilju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:26.884137404Z",
+  "model": "glm-5.3"
+}

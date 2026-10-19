@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne \\\"duša\\\" v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "rešitvi mojega obličja",
+      "rationale": "ישועות פני: množina \\\"rešitve obličja\\\" — KJV \\\"zdravje mojega obraza\\\", BSB \\\"moj rešitelj\\\"; konstrukt ostaja vezan"
+    },
+    {
+      "kind": "idiom",
+      "subject": "vršiš vame",
+      "rationale": "תהמי עלי dobesedno \\\"humi nad menoj\\\" — notranji nemir"
+    },
+    {
+      "kind": "invitation",
+      "subject": "do psalmistove duše",
+      "rationale": "Samogovor: duša je ogovorjena z vprašanjema in ukazom \\\"upaj\\\""
+    }
+  ],
+  "translation": "Zakaj si potopljena, duša moja, in zakaj vršiš vame? Upaj na Elohim, kajti še ga bom hvalil — rešitvi mojega obličja in moj Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "837f2af0f1bd6d7958787686d09c697c8516a7cf41c36480b13976ea83772543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/43\/5-5.1792434787443.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "si potopljena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duša moja"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in zakaj"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "vršiš"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vame"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "upaj"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ga bom hvalil"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rešitvi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mojega obličja"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "in moj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:07.443921033Z",
+  "model": "glm-5.3"
+}

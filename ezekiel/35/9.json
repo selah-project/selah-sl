@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 35:9",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תישבנה",
+      "rationale": "'ne bodo naseljena' (ASV\/BSB) dobesedno 'ne bodo posajene'; KJV\/JPS 'ne bodo povrnjene'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naseljena⟩",
+      "rationale": "Hebrejščina potrebuje glagol jasheb v pretvorbi; dodan je pasivni deležnik."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממות",
+      "rationale": "Koren š-m-m se v poglavju ponavlja (שממה v v. 3, 4, 7, 9, 12, 14, 15) kot refren pustošenja Edoma."
+    }
+  ],
+  "translation": "V večno pustoš te postavim, tvoja mesta ne bodo ⟨naseljena⟩, in spoznali boste, da sem jaz Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "71cdc1ffe536b38f41edaf6652145c6e0b02c46730fd3c42b7201aa980227277",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/35\/9-12.1792433473417.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שממות",
+      "gloss": "v pustoš"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "te postavim"
+    },
+    {
+      "surface": "ועריך",
+      "gloss": "tvoja mesta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תישבנה",
+      "gloss": "bodo ⟨naseljena⟩"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "in spoznali boste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:13.418554931Z",
+  "model": "glm-5.3"
+}

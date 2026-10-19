@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oznanil",
+      "rationale": "בשרתי dobesedno 'razveselil sem z novico'; glagol nosi veselje, ne le pouk"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden ogovor govorca Jahveju"
+    }
+  ],
+  "translation": "Oznanil sem cedek v veliki skupščini; glej, svojih ustnic nisem zadržal, Jahve, Ti veš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/40\/9-12.1792434808639.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "oznanil sem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "v skupščini"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "svojih ustnic"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "zadržal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "veš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:28.641354923Z",
+  "model": "glm-5.3"
+}

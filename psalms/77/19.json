@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגלגל",
+      "rationale": "'v vrtinčku \/ kolesu (viharja)' — KJV 'v nebesih' iz besedne igre z galgal\/גלגל; druge razlage: 'po krogih', 'vrtinči'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "hebrejščina brez glagola 'biti' — popolnoma nominalna fraza"
+    },
+    {
+      "kind": "substitution",
+      "subject": "razbesnela se je",
+      "rationale": "רגזה je 'trepetala (od strahu ali jeze)' — čustvena tresavica, ne le fizična"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגזה ותרעש",
+      "rationale": "paranomazija dveh korenov za tresenje — v slovenščini dve besedi, hebrejska zveneča blizina se izgubi"
+    }
+  ],
+  "translation": "Glas tvojega groma ⟨je bil⟩ v vrtinčku, bliski so razsvetlili svet, razbesnela se je ⟨in⟩ zatresla zemlja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c8755d91707fb8086dee16ad38e88a05dca60a196bed1336a3d459107b9686b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/18-19.1792439044053.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "tvojega groma"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "v vrtinčku"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "so razsvetlili"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "bliski"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svet"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "razbesnela se je"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "⟨in⟩ zatresla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:04.055722512Z",
+  "model": "glm-5.3"
+}

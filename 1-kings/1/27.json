@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 1:27",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je li",
+      "rationale": "אם kot vprašalni pogoj — slovenščina potrebuje vprašalno obliko"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidu",
+      "rationale": "Natan neposredno nagovarja kralja Davida"
+    }
+  ],
+  "translation": "Je li se ta stvar zgodila od ⟨את⟩ mojega gospoda, kralja, in nisi pokazal ⟨את⟩ svojemu sužnju, kdo sedêl bo na prestolu mojega gospoda, kralja, po njem?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e0b35e2ff16ad281eb331f8fc5edfcc6b58259e4beea55d604ccd517a359a17f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/1\/25-28.1792428738134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "je li"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mojega gospoda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "zgodila se je"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ta stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "pokazal si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojemu sužnju"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "svojemu sužnju"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedel bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prestolu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mojega gospoda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po njem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:52:18.135048166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨in⟩",
+      "rationale": "slovenščina potrebuje veznik med obema stavkoma, hebrejščina ga ima v va- pred שלמת, ki je vezan na sam samostalnik"
+    }
+  ],
+  "translation": "Le z očmi boš gledal ⟨in⟩ povračilo hudobnih boš videl.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "72280897e0f78832ec6ff959621a8c0914270467695272d7ddf27efeecd6537b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/91\/8-8.1792439026894.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "le"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "z očmi tvojimi"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "boš gledal"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "in povračilo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "boš videl"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:46.895768336Z",
+  "model": "glm-5.3"
+}

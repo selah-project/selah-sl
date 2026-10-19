@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "slovenščina potrebuje pomožni glagol pri preteritu"
+    },
+    {
+      "kind": "crux",
+      "subject": "kdo varuje",
+      "rationale": "hebrejščina ne pove subjekta pri לשמר: »da jih varujejo« (tisti iz v. 1–3) ali »da jih varujemo« (KJV dodaja 'us')"
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahveja",
+      "rationale": "neposreden nagovor Boga z zaimekom Ti"
+    }
+  ],
+  "translation": "Ti si zapovedal ⟨את⟩ svoje zapovedi, da ⟨jih⟩ varujejo zelo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/1-4.1792435503251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "si zapovedal"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "svoje zapovedi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da varujejo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:03.252404416Z",
+  "model": "glm-5.3"
+}

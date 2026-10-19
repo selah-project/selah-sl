@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ne zaupajte",
+      "rationale": "Verz je nagovor v drugi osebi — svarilo govorca poslušalcu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tisto, ki⟩",
+      "rationale": "Hebrejščina ima samo deležnik משכבת »ležeča«; slovenščina potrebuje oziralni zaimek."
+    },
+    {
+      "kind": "crux",
+      "subject": "באלוף",
+      "rationale": "b\/441: prijatelj\/vodja\/plemenit; prevodi se razhajajo med 'prijatelj', 'vodja', 'znanci'."
+    }
+  ],
+  "translation": "Ne zaupajte v prijatelja, ne zanesite se na bližnjega; pred ⟨tisto, ki⟩ počiva v ⟨tvojem⟩ naročju, varuj vrata svojih ust.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/7\/5-8.1792434119256.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "zaupajte"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "v prijatelja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "zanesite se"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "na bližnjega"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "počiva"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "v tvojem naročju"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varuj"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "svojih ust"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:59.257495595Z",
+  "model": "glm-5.3"
+}

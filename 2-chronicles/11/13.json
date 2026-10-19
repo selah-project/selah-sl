@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 11:13",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina brez kopule v relativnem stavku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "postavili se k njemu",
+      "rationale": "התיצבו עליו dobesedno 'stali so se nad njim', tj. postavili so se na njegovo stran"
+    }
+  ],
+  "translation": "In duhovniki in Leviti, ki ⟨so bili⟩ v vsem Jisraelu, so se postavili k njemu iz vseh svojih meja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b97dea88e1073a12d2c8af50f811e8bb0ad0bd8b11c7f2ff9626f34feb09699",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/11\/13-16.1792438568575.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהנים",
+      "gloss": "in duhovniki"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "in Leviti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vsem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "so se postavili"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz vseh"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "svojih meja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:08.577378218Z",
+  "model": "glm-5.3"
+}

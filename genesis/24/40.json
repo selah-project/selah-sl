@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 24:40",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלאכו",
+      "rationale": "Mal'ah je 'poslanec'; 'angel' bi vnesel kasnejšo doktrino — prvotni bralec sliši božjega poslanca."
+    },
+    {
+      "kind": "idiom",
+      "subject": "התהלכתי לפניו",
+      "rationale": "Dobesedno 'sem hodil pred njegovim obličjem' — zveza za zvesto življenje v Božji navzočnosti."
+    }
+  ],
+  "translation": "In rekel mi je: Jahve, pred katerim sem hodil, bo poslal svojega poslanca ⟨את⟩ s teboj in bo uspeh tvoji poti, in vzel boš ženo za mojega sina iz moje družine in iz hiše mojega očeta.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/24\/37-40.1792422420942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pred katerim"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "sem hodil"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bo poslal"
+    },
+    {
+      "surface": "מלאכו",
+      "gloss": "svojega poslanca"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s teboj",
+      "marks": "s teboj"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "in bo uspeh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvoji poti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "in vzel boš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "za mojega sina"
+    },
+    {
+      "surface": "ממשפחתי",
+      "gloss": "iz moje družine"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "in iz hiše"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojega očeta"
+    }
+  ],
+  "timestamp": "2026-10-19T15:07:00.943396952Z",
+  "model": "glm-5.3"
+}

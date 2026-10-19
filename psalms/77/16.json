@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "z roko",
+      "rationale": "זרוע je iztegnjena roka, prispodoba sile; dobesedno 'z iztegnjeno roko'"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "סלה je glasbenioznača za premor, ostaja neprevedena"
+    }
+  ],
+  "translation": "Z roko si odkupil svoje ljudstvo, sinove Jaakova in Jozefa. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f7da7ecde5ddcdb03e2b6c01bb97cb644f0897fbc90513ba9c6d56c46548cad5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/15-16.1792439044305.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "si odkupil"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "in Jozefa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:04.306777522Z",
+  "model": "glm-5.3"
+}

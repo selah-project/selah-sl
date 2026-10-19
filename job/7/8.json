@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina potrebuje kopulo, hebrejščina jo izpušča."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimu",
+      "rationale": "'Tvoje oči' — nagovor usmerjen neposredno v Boga."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראי \/ תשורני",
+      "rationale": "Igra korena 'videti' (ראה\/שור) v treh ponovitvah; v slovenščini se delno ohrani z 'videlo\/gledalo'."
+    }
+  ],
+  "translation": "Ne bo me več gledalo oko, ki me je videlo; tvoje oči ⟨so⟩ na meni — in me ni več.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/5-8.1792436316188.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "bo me več gledalo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ki me je videlo"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na meni"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "in me ni več"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:36.189748854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "z roko evnuhov",
+      "rationale": "ביד הסריסים — »z roko« pomeni po posredovanju, prek evnuhov."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ker",
+      "rationale": "על אשר dobesedno »ob tem, kar« — vzročna veznica v slovenščini."
+    },
+    {
+      "kind": "crux",
+      "subject": "Po datu: kaj storiti",
+      "rationale": "כדת מה — vprašanje odpre vladarjev svet; vrstni red »po zakonu, kaj« ohranja hebrejski poudarek na zakonu."
+    }
+  ],
+  "translation": "Po datu: kaj storiti s kraljico Vašti, ker ni opravila ⟨את⟩ zapovedi kralja Ahašveroša z roko evnuhov?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c3282d5573f1abe19c5e41c82d5043860c352c2245131392b5ce5664eff82358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/1\/14-15.1792439113199.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "po datu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "storiti"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "s kraljico"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "opravila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovedi"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "zapoved"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "evnuhov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:13.208650862Z",
+  "model": "glm-5.3"
+}

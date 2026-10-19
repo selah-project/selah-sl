@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 1:5",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil postavljen",
+      "rationale": "Hebrew שם lacks an explicit subject and copula; passive supplied for the altar standing there"
+    },
+    {
+      "kind": "crux",
+      "subject": "וידרשהו",
+      "rationale": "'iskal ga (oltar)' vs 'prek njega iskal (Jahveja)' — večina prevodov bere 'iskal pri njem', torej spraševal Jahveja"
+    }
+  ],
+  "translation": "In ⟨את⟩ oltar iz brisa, ki ga je naredil Betzalel, sin Urija, sin Hura, je ⟨bil postavljen⟩ pred miškanom Jahveja; in Šelomo in ⟨celotna⟩ skupščina sta ga iskala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/5-8.1792438425153.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומזבח",
+      "gloss": "in ⟨את⟩ oltar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "iz brisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hura"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨je bil postavljen⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškanom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וידרשהו",
+      "gloss": "sta ga iskala"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "in ⟨celotna⟩ skupščina"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:45.156248302Z",
+  "model": "glm-5.3"
+}

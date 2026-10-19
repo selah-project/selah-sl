@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 20:35",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתכם (נשפטתי אתכם)",
+      "rationale": "tukaj je predlog את H854 'z', ne določni označevalec — 'sodil bom z vami', kot s sodbo 'proti' komu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פנים אל פנים",
+      "rationale": "dvojno 'obraz proti obrazu' — isti izraz kot Mojzesova 'usta proti ustom' (4 Mz 12,8)"
+    }
+  ],
+  "translation": "In pripeljal vas bom ⟨את⟩ v puščavo ljudstev in tam bom sodil ⟨את⟩ z vami, obraz proti obrazu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1e647a4e008bf21d9dcaff0656403b2a6b70eae36fe96cbbd69081d11b36008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/20\/33-36.1792432344518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "In pripeljal vas bom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "puščavo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ljudstev"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "in sodil bom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vami"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "obrazu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:52:24.519419735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "Beseda ostaja ruah: Duh\/veter\/dih v enem; 'Duh' ali 'veter' bi izbral eno od treh."
+    },
+    {
+      "kind": "idiom",
+      "subject": "pred tvojim obličjem",
+      "rationale": "מפניך dobesedno 'od tvojih obličij' = pred teboj, iz tvoje navzočnosti."
+    },
+    {
+      "kind": "you",
+      "subject": "do Jahve",
+      "rationale": "Psalmist neposredno nagovarja Boga z retoričnima vprašanjema."
+    }
+  ],
+  "translation": "Kam naj grem od tvoje ruah, in kam naj zbežim pred tvojim obličjem?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/139\/5-8.1792435707360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "naj grem"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "od tvoje ruah"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "in kam"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pred tvojim obličjem"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "naj zbežim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:27.361800173Z",
+  "model": "glm-5.3"
+}

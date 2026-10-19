@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina nima kopule; imenovalni povedi zahtevata slovenski 'je'"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Tukaj je את osebni zaimek 'ti' (H859), ne aleph-tav označevalnik predmeta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "געל",
+      "rationale": "'gnusiti se' namesto mehkejšega 'zavreči'; געל je telesna gnusa"
+    }
+  ],
+  "translation": "Hči svoje matere si ti, ki se gnusi svojega moža in svojih sinov; in sestra svojih sester si ti, ki so se gnusile svojih mož in svojih sinov; vaša matere ⟨je⟩ Hetitka in vaš oče ⟨je⟩ Amorejec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/45-48.1792432253160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svoje matere"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti",
+      "marks": "ti — zaimek, ne označevalnik predmeta"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "ki se gnusi"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "svojega moža"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "in svojih sinov"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "in sestra"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "svojih sester"
+    },
+    {
+      "surface": "את",
+      "gloss": "ti",
+      "marks": "ti — zaimek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "so se gnusile"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "svojih mož"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "in svojih sinov"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "vaša matere"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hetitka"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "in vaš oče"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Amorejec"
+    }
+  ],
+  "timestamp": "2026-10-19T17:50:53.160889700Z",
+  "model": "glm-5.3"
+}

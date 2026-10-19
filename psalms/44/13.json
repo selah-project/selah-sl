@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלא הון",
+      "rationale": "'brez dobička' (KJV\/BSB 'for nought') proti JPS 'za majhen dobiček' — hebrejščina dobesedno 'ne-bogat'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "רבית",
+      "rationale": "Druga možnost: 'nisi povečal' (2. oseba) namesto 'si ne povečal' — obliki sta homografni."
+    }
+  ],
+  "translation": "Prodajaš svoje ljudstvo brez dobička in si ne povečal ⟨ bogastva ⟩ z njihovo ceno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/13-16.1792434812225.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "prodajaš"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "brez"
+    },
+    {
+      "surface": "הון",
+      "gloss": "dobička"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in si ne"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "povečal"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "z njihovo ceno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:32.226183841Z",
+  "model": "glm-5.3"
+}

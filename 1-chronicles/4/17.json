@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew genealogical formula has no copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "zanosila je",
+      "rationale": "ותהר brez izraženega subjekta: KJV 'she bare', geneva 'he begate' — kdo zanosi (Meredova žena? Ezhrahova hči?), ni jasno"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Seznam imen — rodoslovno štetje"
+    }
+  ],
+  "translation": "In sinovi Ezhrahovi ⟨so⟩ Jeter in Mered in Efer in Jalon; in zanosila je ⟨את⟩ Mirjam ter ⟨את⟩ Šamaj in ⟨את⟩ Jišbah, oče Eštemoe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf9ec42565c2bca2dc01a8495ff0520ed3cc10058d8e7b839bbb2c52757ed2a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/17-20.1792438076533.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezhrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "in Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "in Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "in Jalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "in zanosila je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mirjam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ter ⟨את⟩",
+      "marks": "Šamaj"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Šamaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Jišbah"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Jišbah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eštemoe"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:56.534268839Z",
+  "model": "glm-5.3"
+}

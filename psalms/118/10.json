@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "odrezal",
+      "rationale": "אמילם od מול: dobesedno 'jih porežem\/obrežem' (kot obrezavo); prevodi se razhajajo med 'uničim', 'odrežem', 'premagam'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a",
+      "rationale": "כי tukaj ne pomeni 'ker', temveč poudarjeno 'res\/zagotovo' — nasprotje med obdanimi in zaupanjem v Ime."
+    }
+  ],
+  "translation": "Vsi narodi so me obdali, ⟨a⟩ v imenu Jahveja jih bom odrazil ⟨odrezal⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/9-12.1792435485359.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "so me obdali"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "jih bom odrezal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:45.361292818Z",
+  "model": "glm-5.3"
+}

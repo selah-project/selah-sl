@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima veznika; brez njega slovenščina ne pove stavka"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמך נדבת",
+      "rationale": "sintaksa temna: 'tvoje ljudstvo [je] prostovoljnost\/ prostovoljni darovi' — razlage se razhajajo od 'pridoho prostovoljno' do 'tvoji darovi'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משחר",
+      "rationale": "'zarja' — edino mesto v Tanahu"
+    }
+  ],
+  "translation": "Tvoje ljudstvo ⟨je⟩ prostovoljnost v dan tvoje moči, v okrasih svetosti; iz zaroda zarje je tebi rosa tvoje mladosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/110\/1-4.1792435467013.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "tvoje ljudstvo"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "prostovoljnost"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "tvoje moči"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "v okrasih"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "iz zaroda"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "zarje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rosa"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "tvoje mladosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:27.014628271Z",
+  "model": "glm-5.3"
+}

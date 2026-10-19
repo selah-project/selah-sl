@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "osat",
+      "rationale": "דרדר: različica med »osat«, »bodike« in »greben«; vrsta bodičaste rastline ni natančno določena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ti bo vzklila",
+      "rationale": "תצמיח je ženska oblika — subjekt je zemlja iz 3,17, ne bodla in osat"
+    }
+  ],
+  "translation": "In bodla in osat ti bo vzklila, in jedel boš ⟨את⟩ zelišče polja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/3\/17-20.1792422040916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "in bodla"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "in osat"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "bo vzklila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "in jedel boš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zelišče polja"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zelišče"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:40.916896941Z",
+  "model": "glm-5.3"
+}

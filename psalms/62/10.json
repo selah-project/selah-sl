@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew nominal clause lacks copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני אדם \/ בני איש",
+      "rationale": "KJV bere 'nizji so praznost, višji so laž'; dobesedno 'sinovi Adamovi \/ sinovi mož' — vzporedni par človeštva nasploh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tehtnice",
+      "rationale": "Podoba tehtanja ljudi — lažji od praznosti"
+    }
+  ],
+  "translation": "Resnično ⟨so⟩ praznost sinovi Adamovi, laž sinovi mož; na tehtnicah, če se dvigajo — vsi skupaj lažji od praznosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/9-12.1792434998356.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Resnično"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "praznost"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamovi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "laž"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "na tehtnicah"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "če se dvigajo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "od praznosti"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vsi skupaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:38.357677093Z",
+  "model": "glm-5.3"
+}

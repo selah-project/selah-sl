@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je glede na hebrejščino bliže 'grlu, dihu, življenjski sili' kot ločeni duši."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "Tukaj ואת ni oznaka neposrednega predmeta, ampak zaimek 'a ti' — ni ⟨את⟩."
+    },
+    {
+      "kind": "invitation",
+      "subject": "doklej",
+      "rationale": "Odprt vprašalni klic Bogu — verz se konča s polnim vprašanjem brez odgovora."
+    }
+  ],
+  "translation": "In moja duša je zelo vznemirjena; a ti, Jahve, doklej?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/6\/1-4.1792434505864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "In moja duša"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "je vznemirjena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kdaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:25.867452557Z",
+  "model": "glm-5.3"
+}

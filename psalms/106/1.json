@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula; ki tov is a nominal clause"
+    },
+    {
+      "kind": "addition",
+      "subject": "traja",
+      "rationale": "Hebrew has no verb in 'ki leolam chasdo'; verb supplied for Slovene"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד rendered as hesed, not milost, per discipline"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the congregation",
+      "rationale": "plural imperatives open the psalm, summoning the community to praise"
+    }
+  ],
+  "translation": "Hvalite Jaha, zahvaljujte Jahveju, kaj ⟨je⟩ dober, kaj do veka ⟨traja⟩ njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/1-4.1792435399784.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "zahvaljujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dober"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "do veka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:19.784665175Z",
+  "model": "glm-5.3"
+}

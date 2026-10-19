@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Odprite mi",
+      "rationale": "Vezan klic vratarjem templja — imperativ, ki vabi naslovnika k dejanju."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨in⟩",
+      "rationale": "Vav na אודה je povezovalni 'in'; slovenska skladenjska zveza ga postavlja v oklepaj."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק je po D2 'cedek' — pravičnost\/pravo; 'vrata cedeka' je vezani dvojini konstrukcija 'vrata pravičnosti'."
+    }
+  ],
+  "translation": "Odprite mi vrata cedeka, vstopil bom po njih ⟨in⟩ zahvalil se bom Jah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/17-20.1792435492453.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "odprite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "vstopil bom"
+    },
+    {
+      "surface": "בם",
+      "gloss": "po njih"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "zahvalil se bom"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:52.454159918Z",
+  "model": "glm-5.3"
+}

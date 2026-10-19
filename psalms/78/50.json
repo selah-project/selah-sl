@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska moč, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "elision",
+      "subject": "ממות",
+      "rationale": "hebrejščina stavi 'od smrti' brez predloga מ — slovenščina zahteva 'smrti' brez 'od', da stavka teče"
+    }
+  ],
+  "translation": "ZRavnal je stezo svojemu nosu, ni prizanesel ⟨את⟩ njihovega življenja smrti, in njihovo življenje je izročil kugi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/49-52.1792435131035.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "zravnal je"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "stezo"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "svojemu nosu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "prizanesel"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihove nefes"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "in njihovo življenje"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kugi"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "je izročil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:51.037859169Z",
+  "model": "glm-5.3"
+}

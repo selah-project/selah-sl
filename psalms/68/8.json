@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישימון",
+      "rationale": "'pustota\/romarska divjina' — slovensko 'puščava' izgubi pozno korenilsko barvo besede."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko si",
+      "rationale": "slovenski ko-glagolski ogrodje za infinitivni konstrukt בצאתך."
+    }
+  ],
+  "translation": "Elohim, ko si šel ven pred svojim ljudstvom, ko si korakal po puščavi. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/5-8.1792435030099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ko si šel ven"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svojim ljudstvom"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ko si korakal"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "po puščavi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:10.102191536Z",
+  "model": "glm-5.3"
+}

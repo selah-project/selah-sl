@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so \/ naj",
+      "rationale": "Hebrew has no auxiliary; jussive ויחי rendered as cohortative 'naj živi'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Videli ⟨so⟩ ponižni, veselili se bodo",
+      "rationale": "Past-tense seeing with future rejoicing, as in the Hebrew imperfects; some read both as jussive"
+    }
+  ],
+  "translation": "Videli ⟨so⟩ ponižni, veselili se bodo; kdor išče Elohima, ⟨naj⟩ živi srce vaše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4a1fcc1a26e80e6d0d6aebf86c37e871c5fc58cf0cfb0cef3a7c04632bdae8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/33-36.1792435045996.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "videli"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponižni"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "veselili se bodo"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "kdor išče"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "naj živi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "srce vaše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:25.997353853Z",
+  "model": "glm-5.3"
+}

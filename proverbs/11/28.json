@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 11:28",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוא יפל",
+      "rationale": "poudarjeni zaimek הוא stoji ob glagolu 'padel' — zaupal se je bogastvu in prav on bo padel"
+    },
+    {
+      "kind": "crux",
+      "subject": "list",
+      "rationale": "עלה je list (tako JPS, ASV); KJV 'veja' mehča podobo, saj list ven in odpade"
+    }
+  ],
+  "translation": "Kdor zaupa v svoje bogastvo, sam bo padel, a pravični bodo cveteli kakor list.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/25-28.1792435952210.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "kdor zaupa"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "v svoje bogastvo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "bo padel"
+    },
+    {
+      "surface": "וכעלה",
+      "gloss": "kakor list"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravični"
+    },
+    {
+      "surface": "יפרחו",
+      "gloss": "bodo cveteli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:32.212649083Z",
+  "model": "glm-5.3"
+}

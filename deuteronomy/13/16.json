@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכה תכה",
+      "rationale": "infinitiv absolut + glagol: 'udariti udariš' — slovenščina 'zagotovo udari'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "po robu meča",
+      "rationale": "לפי חרב dobesedno 'po ustih meča'; idiom ponovljen dvakrat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izroči heremu",
+      "rationale": "חרם je tehnični izraz prepovedi\/iztrebljenja: 'iztrebi' bi izgubilo verski pomen posvetitve uničenju"
+    }
+  ],
+  "translation": "Zagotovo udari ⟨את⟩ prebivalce tistega mesta po robu meča; izroči jo heremu, ⟨את⟩ njo in ⟨את⟩ vse, kar je v njej, ter ⟨את⟩ njeno živino po robu meča.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/13\/13-16.1792425930076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "zagotovo"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prebivalce"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalce"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tistega"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "po robu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meča"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "izroči heremu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ njo",
+      "marks": "njo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je v njej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "živino"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "njeno živino"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "po robu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meča"
+    }
+  ],
+  "timestamp": "2026-10-19T16:05:30.077952289Z",
+  "model": "glm-5.3"
+}

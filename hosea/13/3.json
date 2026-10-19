@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "štirje prispodobi izginjanja",
+      "rationale": "Megla, rosa, pleva, dim — štirikratna kategorija minljivosti, ki v slovenščini oblika ostane, ritma pa ne."
+    },
+    {
+      "kind": "substitution",
+      "subject": "okno",
+      "rationale": "מארבה je dobesedno 'rešetka' (golobja luknja), prevod 'okno' je omehčanje."
+    }
+  ],
+  "translation": "Zato bodo kakor jutranja megla in kakor rosa, ki zgodaj odhaja, kakor pleva, ki jo vihar odnosa s gumna, in kakor dim iz okna.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/13\/1-4.1792433924025.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Zato"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bodo"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "kakor megla"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutranja"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "in kakor rosa"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "zgodaj"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odhaja"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kakor pleva"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "vihar odnasa"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "s gumna"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "in kakor dim"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "iz okna"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:44.028793169Z",
+  "model": "glm-5.3"
+}

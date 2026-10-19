@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 29:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kot pesek",
+      "rationale": "חול pomeni 'pesek', toda JPS bere 'kot feniks' (besedna igra s חולja) — nesmrtna ptica, ki se obnavlja."
+    },
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "hebrejščina ima deležniške oblike brez pomožnika; slovenščina potrebuje 'bom'."
+    }
+  ],
+  "translation": "In rekel sem: s svojim gnezdom bom izdihnil in kot pesek bom pomnožil dni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "67b55e43b46e5aea6489b3731ee9f09bc547a38e369050b8a5a71d68d6c0bfd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/17-20.1792436591810.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel sem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "קני",
+      "gloss": "svojim gnezdom"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "bom izdihnil"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "in kot pesek"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "bom pomnožil"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:11.811193524Z",
+  "model": "glm-5.3"
+}

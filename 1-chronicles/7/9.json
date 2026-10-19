@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 7:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez pomožnika pri pasivnem deležniku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvajset tisoč in dvesto",
+      "rationale": "štetje rodov po glavah, vojaški popis"
+    }
+  ],
+  "translation": "In vpisani ⟨so⟩ po svojih rodovnikih, po svojih rodovih, poglavarji očetnjih hiš, junaki moči, dvajset tisoč in dvesto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd9f02f896632dce40a8e82ac6afb9264757071c455df73ee8a02be6c58693d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/7\/9-12.1792438102382.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתיחשם",
+      "gloss": "vpisani po rodovnikih"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "po svojih rodovih"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "poglavarji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiš"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "očetnjih svojih"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "junaki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "moči"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "in dvesto"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:22.383146061Z",
+  "model": "glm-5.3"
+}

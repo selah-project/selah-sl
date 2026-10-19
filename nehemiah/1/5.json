@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 1:5",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje pomožnik »ki varuje«, hebrejščina ima samostalniški deležnik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ostaja hesed in ne »milost«"
+    }
+  ],
+  "translation": "In rekel sem: Prosim, Jahve, Elohim nebes, El veliki in strašni, ki varuje ⟨את⟩ zavezo in hesed tistim, ki ga ljubijo, in tistim, ki varujejo njegove zapovedi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/1\/5-8.1792437774620.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel sem"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "in strašni"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ki varuje"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "in hesed"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "tistim, ki ga ljubijo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "in tistim, ki varujejo"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "njegove zapovedi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:22:54.621010565Z",
+  "model": "glm-5.3"
+}

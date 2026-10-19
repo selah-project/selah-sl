@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨takšen⟩",
+      "rationale": "Slovenščina potrebuje samostalnik ob 'ni kakor ti'; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "you",
+      "subject": "David Jahveju",
+      "rationale": "Neposreden nagovor, hvalnica."
+    }
+  ],
+  "translation": "Jahve, ni ⟨takšen⟩ kakor ti, in ni Elohim razen tebe v vsem, kar smo slišali s svojimi ušesi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/17-20.1792438251588.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kakor ti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "razen tebe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo slišali"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "s svojimi ušesi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:51.589687738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodbina",
+      "rationale": "Seznam sinov po imenih — rodovniški seznam."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מלכם",
+      "rationale": "Tu osebno ime Malkam, ne amonski malik Milkom."
+    }
+  ],
+  "translation": "In rodil je iz Hodeša, svoje žene, ⟨את⟩ Jovava in ⟨את⟩ Civjo in ⟨את⟩ Mešo in ⟨את⟩ Malkama.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/9-12.1792438099577.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "in rodil je"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeš"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svoje žene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovava"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Civjo"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Civjo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Mešo"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mešo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Malkama"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkama"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:19.579370867Z",
+  "model": "glm-5.3"
+}

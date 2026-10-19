@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jelen",
+      "rationale": "איל je po D4 'jelen'; tu gre za ovna (bera), a tabela živali predpisuje eno besedo na mestu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן בקר \/ בן שנתו",
+      "rationale": "Dobesedno 'sin goveda' in 'sin svojega leta' — hebrejski način za 'mlad bik' in 'star eno leto'; ohranjeno dobesedno."
+    }
+  ],
+  "translation": "en bik, sin goveda, en jelen, eno jagnje, sin svojega leta, za žgalno daritev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/7\/25-28.1792424796162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "bik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "goveda"
+    },
+    {
+      "surface": "איל",
+      "gloss": "jelen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "jagnje"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eno"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "svojega leta"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za žgalno daritev"
+    }
+  ],
+  "timestamp": "2026-10-19T15:46:36.162900336Z",
+  "model": "glm-5.3"
+}

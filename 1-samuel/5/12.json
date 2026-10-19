@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "vzklik mesta se je dvignil do nebes",
+      "rationale": "שועת העיר … השמים: dobesedno 'vzklik mesta do nebes' — dokončna pregrešnost stiska (prim. 1 Mz 18,21)."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "ratingale": "",
+      "rationale": "Dvoslovesni glagolski konstrukc הוכו (bili so udarjeni) v slovenščini potrebuje pomožniški 'so'."
+    }
+  ],
+  "translation": "In možje, ki niso umrli, bili udarjeni z opuhomi; in vzklik mesta se je dvignil do nebes.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/5\/9-12.1792427557671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "so umrli"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "udarjeni"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "z opuhomi"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "in se je dvignil"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "vzklik"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "do nebes"
+    }
+  ],
+  "timestamp": "2026-10-19T16:32:37.673231328Z",
+  "model": "glm-5.3"
+}

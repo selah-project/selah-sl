@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sprinka",
+      "rationale": "kiper = pokriti, spraviti; slovensko 'sprinkati' je prevzet verski pomen, dobesedno 'pokriti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "za greh",
+      "rationale": "hataat je ena beseda — 'daritev za greh' v dveh besedah"
+    }
+  ],
+  "translation": "Aharon pa naj privede ⟨את⟩ bika za greh, ki je njegov, in naj sprinka zanj in za svojo hišo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/16\/5-8.1792424316740.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "privede"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bika"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "za greh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "je njegov"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "sprinka"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "in za"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svojo hišo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:36.741414978Z",
+  "model": "glm-5.3"
+}

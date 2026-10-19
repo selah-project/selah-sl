@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Slovenščina potrebuje prihodnjik; hebrejščina ima samo תבוא."
+    }
+  ],
+  "translation": "Pridel ⟨bo⟩ do rodu svojih očetov; na veke večne ne bodo videli svetlobe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/17-20.1792434901280.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "pride"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rodu"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "svojih očetov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "večne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bodo videli"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetlobe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:01.282907333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 3:39",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Slovenščina zahteva glagol; hebrejščina ga nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "popis levitov",
+      "rationale": "Štetje po družinah, spolni in starostni kriterij, skupna številka."
+    },
+    {
+      "kind": "crux",
+      "subject": "22.000",
+      "rationale": "Seštevek poglavja (7.500 + 8.600 + 6.200) da 22.300, ne 22.000; razlika je znana težava."
+    }
+  ],
+  "translation": "Vseh preštetih levitov, ki sta jih prešela Moše in Aharon po besedi Jahve, po njihovih družinah, vseh samcev od starosti enega meseca in navzgor, ⟨je bilo⟩ dvaindvajset tisoč.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "95884421544a2635f37b39ac870ea963a43e6fc0584a9cd237495bbd81c4fa15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/3\/37-40.1792424741209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "preštetih"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "prešela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "in Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פי",
+      "gloss": "besedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovih družinah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samcev"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od starosti"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "enega meseca"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "in navzgor"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvaindvajset — dva"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "in dvajset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T15:45:41.210454337Z",
+  "model": "glm-5.3"
+}

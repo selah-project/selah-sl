@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenski glagolski pomočnik pri pretekliku, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרשעה — krivičnost",
+      "rationale": "osebkovana oblika: 'To je Krivičnost' kot poosebitev zla, žena v efi"
+    }
+  ],
+  "translation": "In rekel je: To je krivičnost. In vrgel ⟨את⟩ jo ⟨je⟩ v sredo efe ter vrgel ⟨את⟩ kamen svine na njena usta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/5\/5-8.1792434378713.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to je"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "krivičnost"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "in vrgel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩jo",
+      "marks": "njo (ženo-krivičnost)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "sredo"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "in vrgel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamen svine"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamen"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "svine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "njena usta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:18.714504772Z",
+  "model": "glm-5.3"
+}

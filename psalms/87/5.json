@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sam",
+      "rationale": "והוא je poudarjeni zaimek — 'on sam' je vključeno v poudarek, ⟨sam⟩ izraža poudarek hebrejskega zajemalnika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש ואיש",
+      "rationale": "ponovitev 'mož za možem' — vsakega posamično, kopičenje rojenih v Cionu"
+    }
+  ],
+  "translation": "In o Cionu se bo reklo: mož za možem je bil rojen v njej, in Elijon sam jo bo utrdil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/87\/5-7.1792435222874.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "in o Cionu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se bo reklo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "za možem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "je bil rojen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on sam"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "jo bo utrdil"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:22.921888908Z",
+  "model": "glm-5.3"
+}

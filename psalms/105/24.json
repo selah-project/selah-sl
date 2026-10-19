@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasprotnikov",
+      "rationale": "מצריו je dobesedno 'njegovi stiskovalci' (koren מצר, ozko\/stiska), ne 'sovražniki'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "obrodil",
+      "rationale": "פרה je 'obroditi (s sadom)' — slikovito za množično rast ljudstva; alternativno 'pomnožil'."
+    }
+  ],
+  "translation": "In obrodil je ⟨את⟩ svoje ljudstvo zelo in ga naredil močnejšega od njegovih nasprotnikov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/21-24.1792435335653.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "In obrodil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ljudstvo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "in ga naredil močnejšega"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "od njegovih nasprotnikov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:15.654495532Z",
+  "model": "glm-5.3"
+}

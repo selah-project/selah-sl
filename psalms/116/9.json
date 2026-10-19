@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pred obličjem",
+      "rationale": "לפני je dobesedno 'obraz\/obličje', ne le predpogojni 'pred'"
+    },
+    {
+      "kind": "crux",
+      "subject": "deželah živih",
+      "rationale": "בארצות je množina: 'deželah' (YLt\/JPS) proti enini 'deželi' (KJV); množina ostaja množina"
+    }
+  ],
+  "translation": "Hodil bom pred obličjem Jahveja v deželah živih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/116\/9-12.1792435437142.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "hodil bom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "v deželah"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:57.143462252Z",
+  "model": "glm-5.3"
+}

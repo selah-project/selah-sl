@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina v zadnjem stavku nima glagola 'biti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעך \/ ורעה",
+      "rationale": "ponovitev korena רע (prijatelj \/ tovariš) v zaporedju, poudari vez"
+    }
+  ],
+  "translation": "Svojega prijatelja in prijatelja svojega očeta ne zapusti, in v hišo svojega brata ne hodi v dan svoje nesreče; boljši ⟨je⟩ bližnji sosed kakor brat daleč stran.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/9-12.1792436118866.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "svojega prijatelja"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "in prijatelja"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zapusti"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "in v hišo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "svoje nesreče"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "boljši"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sosed"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "bližnji"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kakor brat"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "daleč stran"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:18.867892802Z",
+  "model": "glm-5.3"
+}

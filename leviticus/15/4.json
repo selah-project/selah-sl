@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškan\/ležišče",
+      "rationale": "משכב je postelja\/ležišče — 'ležišče' ohranja predmet, ne slaba 'spalnica'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משכב\/ישכב",
+      "rationale": "isti koren שכב — ležišče, na katerem leži — paronomazija"
+    }
+  ],
+  "translation": "Vsako ležišče, na katerem leži ta z izlivom, se omadeži; in vsaka posoda, na kateri sedi, se omadeži.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/15\/1-4.1792424272214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vsako"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "ležišče"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katererem — na katerem"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leži"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njem"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ta z izlivom"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se omadeži"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsaka"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "posoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kateri"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njej"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se omadeži"
+    }
+  ],
+  "timestamp": "2026-10-19T15:37:52.216083849Z",
+  "model": "glm-5.3"
+}

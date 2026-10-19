@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרני\/קרנות",
+      "rationale": "ponovitev 'rogov' v obeh polverzih gradi nasprotje: odsekani proti povzdignjenim."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pravičnega",
+      "rationale": "צדיק je ednina (kolektivno); 'rogovi pravičnih' bi izravnalo število."
+    }
+  ],
+  "translation": "In vse rogove hudobnežev bom odsekal, povzdignjeni pa bodo rogovi pravičnega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/75\/9-11.1792435124134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "rogove"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnežev"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "bom odsekal"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "povzdignjeni bodo"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rogovi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:44.136436351Z",
+  "model": "glm-5.3"
+}

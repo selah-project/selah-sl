@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סבבני בכחש",
+      "rationale": "'obdaja me z lažjo' (JPS) proti 'pase veter' (KJV) — slednji premika verz kot 12,2"
+    },
+    {
+      "kind": "crux",
+      "subject": "עם קדושים",
+      "rationale": "'s svetimi' (angeli) ali 's Svetim' (Elohim) — 12,5 v zvezi z Jahvejem"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Efraim me je obdal z lažjo, in hiša Jisraela s prevaro; in Juda ⟨je⟩ še vedno taval z Elom, in s svetimi ⟨je⟩ zvest.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/12\/1-4.1792433916856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "me je obdal"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "z lažjo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "in s prevaro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "in Juda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "še vedno"
+    },
+    {
+      "surface": "רד",
+      "gloss": "taval"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elom"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "in s"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "svetimi"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "zvest"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:36.858965943Z",
+  "model": "glm-5.3"
+}

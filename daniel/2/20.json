@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "di (prvi)",
+      "rationale": "Relativni די med 'ime' in 'Eloaha' v slovenščini izgine — imenska zveza to ne potrebuje."
+    },
+    {
+      "kind": "crux",
+      "subject": "hokmetá u-gevuratá — število",
+      "rationale": "Aramejski היא je edninsko (femininsko 'njegova je'), slovenščina z dvema podmetoma zahteva dvojino 'sta njegovi'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "min alma ve-ad alma",
+      "rationale": "Časovni okvir 'od večnosti do večnosti' meri blagoslov čez celo časovnost."
+    }
+  ],
+  "translation": "Daniel je odgovoril in rekel: Blagoslovljeno bodi ime Eloaha od večnosti in do večnosti, kajti modrost in moč ⟨sta⟩ njegovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fdf5361c2cc4ba8278a3318bdcdfd413b165b8957870924a1edc50de704ecc8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/2\/17-20.1792437333819.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "je odgovoril"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ime"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloaha"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "blagoslovljeno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "די",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "in moč"
+    },
+    {
+      "surface": "די",
+      "gloss": "da"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njegovi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:33.824270896Z",
+  "model": "glm-5.3"
+}

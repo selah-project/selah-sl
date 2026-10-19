@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרחמים",
+      "rationale": "množina 'rahamim' (usmiljenje\/maternica) kot 'predmet usmiljenja' (KJV) ali 'za usmiljenje' (YLT); izbrana dobesedna smer 'v usmiljenje'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "uetniki",
+      "rationale": "šovihem - dobesedno 'tisti, ki jih vodijo v sužnost', aktivni ujetniki, ne ujeti."
+    }
+  ],
+  "translation": "In dal jih je ⟨את⟩ v usmiljenje pred vsemi njihovimi ujetniki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "046a726a44043c2cf761dfc6816ffc45424c1b3206ebb3cad9096d2be2620841",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/46-47.1792439043050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "in dal jih je"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "v usmiljenje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsemi"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "njihovimi ujetniki"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:03.050793599Z",
+  "model": "glm-5.3"
+}

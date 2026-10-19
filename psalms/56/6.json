@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez veznika; dodano kot položajno stališče."
+    },
+    {
+      "kind": "crux",
+      "subject": "יעצבו",
+      "rationale": "Koren עצב pomeni 'oblikovati\/rezati'; tukaj 'zvračati, izkrivljati' (KJV) ali 'spravljati v skrb' (Geneva)."
+    }
+  ],
+  "translation": "Ves dan zvračajo moje besede, nad menoj so vse njihove zamisli — za húdo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/56\/5-8.1792434944121.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "moje besede"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "zvračajo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "njihove zamisli"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "za húdo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:44.123599985Z",
+  "model": "glm-5.3"
+}

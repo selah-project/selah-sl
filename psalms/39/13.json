@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrew lacks copula; nominal clause גר אנכי"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale ": "neposreden nagovor Boga z zapovedjo in prošnjo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמעתי",
+      "rationale": "ednina 'solza' namesto množine — hebrejščina govori o eni solzi"
+    }
+  ],
+  "translation": "Poslušaj mojo molitev, Jahve, in mojemu kriku prisluhni, ob moji solzi se ne utihni, kaj ⟨sem⟩ jaz tujec pri tebi, naseljenec kakor vsi moji očetje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/13-14.1792434793891.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Poslušaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojo molitev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "in mojemu kriku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prisluhni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "moji solzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "se utihni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "גר",
+      "gloss": "tujec"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pri tebi"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "naseljenec"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kakor vsi"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "moji očetje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:13.892093612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 3:19",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina je nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "חברון",
+      "rationale": "isto ime kot kraj Hevron; tu oseba, sin Kehatov — ime se ne prevaja"
+    }
+  ],
+  "translation": "In sinovi Kehata po njihovih družinah ⟨so⟩ Amram in Jicar, Hevron in Uziel.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f89feb74718452824a5abb5ced7a04b5707ec384c9b809b9654b4b6051610fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/3\/17-20.1792424742129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovih družinah"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "in Jicar"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "in Uziel"
+    }
+  ],
+  "timestamp": "2026-10-19T15:45:42.129885408Z",
+  "model": "glm-5.3"
+}

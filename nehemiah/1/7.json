@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חבל חבלנו",
+      "rationale": "infinitiv absolutus pred glagolom — dobesedno »zlorabiti smo zlorabili«, poudarek je v slovenščini z »popolnoma« izgubljen"
+    },
+    {
+      "kind": "crux",
+      "subject": "zlorabiti",
+      "rationale": "חבל pomeni »zvezati, zastaviti, pokvariti«; prevodi: »ravnali zelo pokvarjeno« (KJV) proti »hudo grešili« (Geneva)"
+    }
+  ],
+  "translation": "Popolnoma smo zlorabili proti tebi in nismo varovali ⟨את⟩ zapovedi, ⟨את⟩ odlokov in ⟨את⟩ pravic, ki si jih zavezal ⟨את⟩ Mošetu, svojemu hlapcu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/1\/5-8.1792437774620.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "popolnoma"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "smo zlorabili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "proti tebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nismo"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "varovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovedi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "zapovedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "odlokov"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "odlokov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "pravic"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "pravic"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "si zavezal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošetu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošetu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojemu hlapcu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:22:54.621690665Z",
+  "model": "glm-5.3"
+}

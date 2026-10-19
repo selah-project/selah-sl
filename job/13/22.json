@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 13:22",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "slovenščina potrebuje prihodnjik, hebrejščina ima preprost imperfekt."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimu",
+      "rationale": "Job izziva Boga na sodni dialog: ti sprašuj, jaz odgovorim, ali obratno."
+    },
+    {
+      "kind": "invitation",
+      "subject": "sodni dvoboj",
+      "rationale": "verz vabi nasprotno stran k besedi — vzpostavlja sodno zaslišanje."
+    }
+  ],
+  "translation": "Potem pokliči, in jaz ⟨bom⟩ odgovoril; ali pa jaz govorim, in ti mi odgovori.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a455f1b1c4bd559dde3698b0fa191b8eb7851ba0399fd9e51d07de977f477286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/13\/21-24.1792436390167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ווקרא",
+      "gloss": "Potem pokliči"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "⟨bom⟩ odgovoril"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali pa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "והשיבני",
+      "gloss": "in ti mi odgovori"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:50.168498348Z",
+  "model": "glm-5.3"
+}

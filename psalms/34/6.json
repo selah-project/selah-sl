@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונהרו",
+      "rationale": "KJV 'so se razsvetlili' vs Geneva 'so stekli k njemu' (od נהר kot 'teči' ali 'se svetiti'); vzeto kot 'zasvetiti se'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נהר \/ נהר",
+      "rationale": "koren nosi tako 'svetlikati se' kot 'teči' — dvojni pomen je v slovenščini izgubljen"
+    }
+  ],
+  "translation": "Pogledali so k njemu in se zasvetili, in njihova lica se ne bodo postidela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/5-8.1792434735799.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "pogledali so"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "in se zasvetili"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "in njihova lica"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "bodo postidela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:15.801198155Z",
+  "model": "glm-5.3"
+}

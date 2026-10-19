@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mojo dušo",
+      "rationale": "נפש je življenjska sila, dih — 'išče moj nefes' pomeni 'išče moje življenje'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jonatan",
+      "rationale": "David nagovarja Jonatana z vrsto retoričnih vprašanj"
+    }
+  ],
+  "translation": "In David je pobegnil iz Navota v Rami, prišel pa je in rekel pred Jonatana: Kaj sem storil? Kaj je moja krivda in kaj moj greh pred tvojim očetom, da išče ⟨את⟩ mojo dušo?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/1-4.1792427901396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "je pobegnil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "iz Navota"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "v Rami"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "prišel je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sem storil"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "je moja krivda"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "moj greh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvojim očetom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "išče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo dušo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:21.397409946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "b'resah",
+      "rationale": "'z mečem' (KJV, iz רצח v pomenu kljanja) proti 's zdrobitvijo\/krikom umora' (JPS) — koren pomeni drobljenje ali umor"
+    },
+    {
+      "kind": "substitution",
+      "subject": "drobljenje",
+      "rationale": "רצח dobesedno 'zdrobitev, umor'; 'meč' je posredna slika"
+    }
+  ],
+  "translation": "Z drobljenjem v mojih kosteh me grajajo moji nasprotniki, ko mi govore ves dan: Kje je tvoj Elohim?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/9-12.1792434814757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "z drobljenjem"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "v mojih kosteh"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "me grajajo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "moji nasprotniki"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ko govore"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kje"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "je tvoj Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:34.760298874Z",
+  "model": "glm-5.3"
+}

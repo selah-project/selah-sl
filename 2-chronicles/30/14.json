@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina nima glagola biti v odvisnem stavku; dodan v oklepajih."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kadilna oltarna",
+      "rationale": "המקטרות je deležnik 'kadilnice' (kar kadi), ne samostalnik 'oltar'."
+    }
+  ],
+  "translation": "In vstali so in odstranili ⟨את⟩ oltarje, ki ⟨so bili⟩ v Jerušalajimu, in ⟨את⟩ vsa kadilna oltarna so odstranili in jih vrgli v potok Kidron.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/30\/13-16.1792438825311.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "vstali so"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "odstranili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltarje"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltarje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vsa kadilna oltarna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "kadilna oltarna"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "odstranili"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "so vrgli"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "v potok"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:25.312593840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שועלים",
+      "rationale": "šu'al je lahko 'šakal' ali 'lisica'; tu 'lisice' po tradicionalnem branju."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שועלים שועלים",
+      "rationale": "Takojšnja ponovitev 'lisice, lisice' — retorični poudarek."
+    },
+    {
+      "kind": "addition",
+      "subject": "kajti",
+      "rationale": "Hebrejščina tukaj nima veznika; ו- na וכרמינו je 'in naš vinograd', vzet kot pojasnilo."
+    }
+  ],
+  "translation": "Prijemajte nam lisice, lisice majhne, ki pokvarjajo vinograde, kajti naš vinograd je v cvetu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/2\/13-16.1792436844853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "prijemajte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "lisice"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "lisice"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "majhne"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "ki pokvarjajo"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vinograde"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "kajti naš vinograd"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "je v cvetu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:24.854960198Z",
+  "model": "glm-5.3"
+}

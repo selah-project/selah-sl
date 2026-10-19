@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבעות מטות אמר",
+      "rationale": "Slavno temno mesto: 'prisege plemen (kot) zanesljiva beseda' (KJV\/JPS) nasproti 'palice besede' (JPS rob) nasproti BSB 'poklical si puščice' (מטות kot puščice)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עריה",
+      "rationale": "Golost — beseda se v Tanahu pojavi le tukaj; podoba razodete golega loka, pripravljenega na strel."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva glagol biti, hebrejščina ga v stavku z אמר nima."
+    }
+  ],
+  "translation": "Golost se je razodela ⟨na⟩ tvoji lokosti, prisege palic ⟨so⟩ zanesljiva beseda. Sela. Z rekami razcepaš deželo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7673cd59b19b061289e226810539faed037cb851a321864aae4bac0adbcc1d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/3\/9-12.1792434224533.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "golost"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "se je razodela"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "tvoji lokosti"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "prisege"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "palic"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "z rekami"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "razcepaš"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:44.534752780Z",
+  "model": "glm-5.3"
+}

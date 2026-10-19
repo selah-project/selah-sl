@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "hebrejščina brez veznika: infinitiv ושחט brez osebka, slovenščina zahteva ⟨da⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "živo vodo",
+      "rationale": "מים חיים je 'živa voda' — tekoča voda; dobesedno ohranjeno"
+    }
+  ],
+  "translation": "In ukazal bo duhovnik ⟨da⟩ zakolje ⟨את⟩ eno ptico v posodo iz glinenine, nad živo vodo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/14\/5-8.1792424244245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ukazal"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "zakolje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eno ptico"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptico"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "eno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posodo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "iz glinenine"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:37:24.246183136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גור יגור אפס מאותי",
+      "rationale": "»zbori se, a ne po mojem ⟨את⟩« — מאותי je מ + אותי »od\/proti meni«; različice: »ne zaradi mene«, »brez mene«"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גור יגור … מי גר",
+      "rationale": "trikratni koren גור v istem verzu; slovenščina »zbori se« ponavljanja ne zadrži v eni besedi"
+    }
+  ],
+  "translation": "Glej, ⟨se⟩ zbori <href在看undefined> — pazi: Gather armed bands if anyone gathers (not by me): whoever gathers against you — against you he shall fall.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/54\/13-16.1792430773326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "גור",
+      "gloss": "⟨se⟩ zbori"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "zagotovo zbori"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "omerjalno: ne po moji volji"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kogar koli"
+    },
+    {
+      "surface": "גר",
+      "gloss": "se zbori"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tebe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "zoper tebe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padel bo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:13.327787747Z",
+  "model": "glm-5.3"
+}

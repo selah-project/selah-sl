@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 5:30",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kdor",
+      "rationale": "ונבט ima brezosebni subjekt; slovenščina potrebuje 'kdor pogleda'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עריפה",
+      "rationale": "redka beseda: oblačni vrhovi ob obzorju (KJV 'heavens', YLT 'by its abundance' — 'v njeni gmotničnosti')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/חשך",
+      "rationale": "isto-soglasje tema (samostalnik) in zmračiti (glagol) v istem verzu — ponovitev se v slovenščini delno ohrani"
+    }
+  ],
+  "translation": "In bo hrmel nad njim na tisti dan kakor hrmenje morja; in ⟨kdor⟩ pogleda na deželo, in glej: tema, stiska, in svetloba se zmrači na njenih nebesnih robovih.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2253d951983124f7fa7069c77b687b8eea17cdd51ad80d33d2eda9bb727e51cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/5\/29-30.1792429989385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינהם",
+      "gloss": "in bo hrmel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כנהמת",
+      "gloss": "kakor hrmenje"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "ונבט",
+      "gloss": "in pogleda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na deželo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tema"
+    },
+    {
+      "surface": "צר",
+      "gloss": "stiska"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "in svetloba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "se zmrači"
+    },
+    {
+      "surface": "בעריפיה",
+      "gloss": "na njenih nebesnih robovih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:13:09.386090913Z",
+  "model": "glm-5.3"
+}

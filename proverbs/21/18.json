@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "Veriga brez glagola: 'odkupnina za pravičnega — hudič'; lahko tudi 'hudič je odkupnina za pravičnega' (besedni red prost)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek-človeka",
+      "rationale": "צדיק je 'cedek-človek'; po D2 naj cedek ostane slišen."
+    }
+  ],
+  "translation": " odkupnina za cedek-človeka je hudič, in namesto ravnih stoji izdajalec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/17-20.1792436039596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "odkupnina"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "za cedek-človeka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hudič"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "in namesto"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ravnih"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "izdajalec"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:59.597586496Z",
+  "model": "glm-5.3"
+}

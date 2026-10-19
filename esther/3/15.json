@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "pitje vs. zmeda",
+      "rationale": "sharp nasprotje: kralj in Haman sedita piti, mesto Šušan je zmedeno — struktura, ki jo slovenščina ohrani."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נבוכה",
+      "rationale": "ženski delnik glagola בוךְ 'biti zmeden' — v Tanahu samo tukaj in v Esther 8:15 (nasprotna beseda)."
+    }
+  ],
+  "translation": "Tekavci so odšli, pognani z besedo kralja, in zakon je bil dan v Šušanu, trdnjavi; kralj in Haman pa sta sedela piti, mesto Šušan ⟨pa⟩ ⟨je⟩ v zmedi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "19818c12f37cf2b5c633a3cc272280892391b95e571a904200ce2d6ab5ea6cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/3\/13-15.1792437276065.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרצים",
+      "gloss": "Tekavci"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "so odšli"
+    },
+    {
+      "surface": "דחופים",
+      "gloss": "pognani"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "z besedo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "והדת",
+      "gloss": "in zakon"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "je bil dan"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šušanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "trdnjavi"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sta sedela"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "piti"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Šušan"
+    },
+    {
+      "surface": "נבוכה",
+      "gloss": "v zmedi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:36.068691186Z",
+  "model": "glm-5.3"
+}

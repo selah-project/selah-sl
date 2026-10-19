@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות לבן",
+      "rationale": "Nejasen naslov: »o smrti sina« ali »po napevu 'Al-mut laben'« ali »za dečka«; ostaja nepreveden."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "gloss_note": "",
+      "rationale": "מזמור je pesem z godalom, posneta po zvoku kot mizmor."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלמות\/עלמה",
+      "rationale": "Isti koren kot 'deklica' in 'večnost' — zvočna igra, izgubljena v prevodu."
+    }
+  ],
+  "translation": "Zborovodji, po »Al-mut laben«, mizmor Davidu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/1-4.1792434528021.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Al-mut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:48.022414340Z",
+  "model": "glm-5.3"
+}

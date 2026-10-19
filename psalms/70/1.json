@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "naslov",
+      "rationale": "Krajiški naslov, ne del pesmi same; להזכיר pomeni 'za priklicanje v spomin'."
+    }
+  ],
+  "translation": "Zborovodniku, Davidovo, za priklicanje v spomin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/70\/1-4.1792435048196.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovodniku"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "za priklicanje v spomin"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:28.196921590Z",
+  "model": "glm-5.3"
+}

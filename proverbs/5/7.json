@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mojih",
+      "rationale": "slovenščina potrebuje svojilni pridevnik; hebrejščina ima samo konstrukt 'besed mojih ust'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the sons",
+      "rationale": "neposreden poziv 'poslušajte me' — nagovor učencev"
+    }
+  ],
+  "translation": "In zdaj, sinovi, poslušajte me in ne odstopajte od besed ⟨mojih⟩ ust.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/5-8.1792435852367.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušajte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "odstopajte"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "od besed"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:52.368880803Z",
+  "model": "glm-5.3"
+}

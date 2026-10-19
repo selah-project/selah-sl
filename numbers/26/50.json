@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga ni ima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "45.400",
+      "rationale": "Popisno število rodu Naftalija."
+    }
+  ],
+  "translation": "Te ⟨so⟩ družine Naftalija po njihovih družinah, njihovih preštetih ⟨je⟩ petinštirideset tisoč in štiristo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9cf2c020d1a4250eb8602dc9da8623eb005720773385508594bbbf64a411499c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/26\/49-52.1792425348433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "družine"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalija"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovih družinah"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "njihovih preštetih"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "in štirideset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "in štiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    }
+  ],
+  "timestamp": "2026-10-19T15:55:48.434035575Z",
+  "model": "glm-5.3"
+}

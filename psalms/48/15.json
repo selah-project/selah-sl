@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על מות",
+      "rationale": "'Vodil nas čez smrt' (JPS: on nas vodi večno, al-mavet brano 'onstran smrti') proti 'do smrti' (KJV); על lahko pomeni oboje."
+    },
+    {
+      "kind": "you",
+      "subject": "verz",
+      "rationale": "Skupnostna izpoved 'naš Elohim' — govor zborovalcev v templju."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה אלהים אלהינו",
+      "rationale": "Ponovitev Imena Elohim v dveh zaporednih sklopih daje verzu sklepčno, izpovedno težo."
+    }
+  ],
+  "translation": "kajti ta Elohim je naš Elohim na veke in večno; on nas bo vodil ⟨čez⟩ smrt.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/48\/13-15.1792434861246.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naš Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in večno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "nas bo vodil"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨čez⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:21.261505327Z",
+  "model": "glm-5.3"
+}

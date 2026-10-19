@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמיר עריצים יענה",
+      "rationale": "'pesem nasilnikov bo utišana' (jps\/asv) nasproti 'veja nasilnikov bo ponižana' (kjv, iz זמר = obrezovati); glagol ענה je lahko 'odgovarjati' ali 'utihniteti'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב … חרב",
+      "rationale": "Ponavljena beseda 'žarka' oklepa stih v alliteraciji s ציון in צל; v slovenščini deloma ohranjeno."
+    }
+  ],
+  "translation": "Kakor žarka v suhi deželi ponižaš hrup tujcev; kakor žarka v senci oblaka bo utišana pesem nasilnikov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/25\/5-8.1792430331533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "kakor žarka"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "v suhi deželi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hrup"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tujcev"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "ponižaš"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "žarka"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "v senci"
+    },
+    {
+      "surface": "עב",
+      "gloss": "oblaka"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "nasilnikov"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bo utišana"
+    }
+  ],
+  "timestamp": "2026-10-19T17:18:51.533961890Z",
+  "model": "glm-5.3"
+}

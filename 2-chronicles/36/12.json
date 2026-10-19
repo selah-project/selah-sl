@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 36:12",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "govorečega",
+      "rationale": "slovenščina potrebuje deležnik, ki povezuje מפי יהוה z Jirmejem; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se ponižal",
+      "rationale": "נכנע dobesedno 'poklekniti, pokrmiti koleno' — slika upognjenega kolena."
+    }
+  ],
+  "translation": "In delal je húdo v očeh Jahveja, svojega Elohima; ni se ponižal pred obličjem preroka Jirmejahu, ⟨govorečega⟩ iz ust Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "aa9d8e32d9050b13d60f2800b306ba971e3d4f2895bf26512a739b0aaf678757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/36\/9-12.1792438963880.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in delal je"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svojega Elohima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "se ponižal"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahuja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "preroka"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iz ust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:43.883804800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to je",
+      "rationale": "Hebrew lacks a copula between חקת עולם and the preceding clause"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "preposition 'with you' rendered as bracketed ⟨s teboj⟩ rather than a DOM marker"
+    },
+    {
+      "kind": "you",
+      "subject": "to Aharon",
+      "rationale": "direct address: command to Aharon and his sons"
+    }
+  ],
+  "translation": "Vina in opojne pijače ne pij ti in tvoji sinovi ⟨s teboj⟩, ko vstopate v šotor srečanja, in ne boste umrli — ⟨to je⟩ večna naročila za vaše rodove.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7e2d65fcf001e04082906623344a463529b459d903ef2e418d137a3e6b2cbf8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/10\/9-12.1792424107419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "in opojne pijače"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "pij"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "in tvoji sinovi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "s teboj"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "ko vstopate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šotor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "srečanja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "boste umrli"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "naročila"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večna"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "za vaše rodove"
+    }
+  ],
+  "timestamp": "2026-10-19T15:35:07.419983142Z",
+  "model": "glm-5.3"
+}

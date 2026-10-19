@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "jussiv brez slovenskega pomožnika v hebrejščini"
+    }
+  ],
+  "translation": "Pošlje naj tvojo pomoč iz svetišča in iz Ciona naj te podpira.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/20\/1-4.1792434647923.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "pošlje naj"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "tvojo pomoč"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "iz svetišča"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "in iz Ciona"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "naj te podpira"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:47.923916899Z",
+  "model": "glm-5.3"
+}

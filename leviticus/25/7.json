@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיה",
+      "rationale": "tu divja žival v nasprotju z בהמה (živina); slovensko 'žival' posploši — 'divja žival' je druga možnost."
+    }
+  ],
+  "translation": "in tvoji živini in živali, ki je v tvoji deželi — ves njen pridev bo za jed.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/25\/5-8.1792424548896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "in tvoji živini"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "in živali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "je v tvoji deželi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "njen pridev"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "za jed"
+    }
+  ],
+  "timestamp": "2026-10-19T15:42:28.897156063Z",
+  "model": "glm-5.3"
+}

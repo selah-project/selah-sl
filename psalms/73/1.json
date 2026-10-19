@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; imenovalni stavek 'dobro-elohim'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "'Resnično\/zares' ali omejevalno 'samo' — odvisno od delitve stavka."
+    }
+  ],
+  "translation": "Mizmor Asafov. Resnično, dober ⟨je⟩ Elohim Jisraelu, tistim s čistim srcem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/1-4.1792435042069.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafov"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Resnično"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dober"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "tistim s čistim"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srcem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:22.070380034Z",
+  "model": "glm-5.3"
+}

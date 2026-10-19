@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 24:5",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "knjiga zadev dni",
+      "rationale": "ספר דברי הימים dobesedno 'knjiga besed\/dni'; 'kronike' bi bila zamenjava pojma."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je naredil'; hebrejščina ga nima."
+    },
+    {
+      "kind": "you",
+      "subject": "bralec",
+      "rationale": "כתובים הלא הם — retorično vprašanje, ki pričakuje pritrdilen odgovor."
+    }
+  ],
+  "translation": "Preostale zadeve Jehojakima in vse, kar je naredil, ali niso zapisane v knjigi zadev dni kraljev Jehude?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/24\/5-8.1792433423731.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "preostale"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zadeve"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ali ne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapisane"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjigi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zadev"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:23.732715911Z",
+  "model": "glm-5.3"
+}

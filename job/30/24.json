@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 30:24",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעי",
+      "rationale": "zgolj edinkrat v tej obliki: 'molitev\/prošnja' (koren b'á) ali 'gomila\/razvalina' (KJV 'grob', YLT 'heap'); izbral 'razvalina'."
+    },
+    {
+      "kind": "crux",
+      "subject": "להן ... שוע",
+      "rationale": "lah 'zato' in šúa 'klic na pomoč\/rešitev': verz različno razkljen — 'vendar je v nesreči rešitev' (YLT) proti 'kljub klicu ni pomoči' (KJV\/JPS)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בעי",
+      "rationale": "oblika se v Tanahu pojavi samo tu."
+    }
+  ],
+  "translation": "Le ne k razvalini izteguje ⟨kdo⟩ roko? Če v njegovi nesreči — vendar ⟨se sliši⟩ klic na pomoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/21-24.1792436600190.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בעי",
+      "gloss": "k razvalini"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "izteguje"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "בפידו",
+      "gloss": "v njegovi nesreči"
+    },
+    {
+      "surface": "להן",
+      "gloss": "vendar"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "klic na pomoč"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:20.193611537Z",
+  "model": "glm-5.3"
+}

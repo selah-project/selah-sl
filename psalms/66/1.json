@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima glagola; naslov je brez kopule"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vzklikajte",
+      "rationale": "הריעו dobesedno 'razpite ušesa' — glasen vzklik, roga"
+    },
+    {
+      "kind": "invitation",
+      "subject": "vsa zemlja",
+      "rationale": "povabilo k vzklikanju, imperativ"
+    }
+  ],
+  "translation": "Z voditelju ⟨je⟩ pesem, mizmor. Vzklikajte Elohimu, vsa zemlja!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/66\/1-4.1792435016257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "z voditelju"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "vzklikajte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:56.258725488Z",
+  "model": "glm-5.3"
+}

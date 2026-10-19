@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יודוך עמים … יודוך עמים",
+      "rationale": "istrofna ponovitev; 'prizadevajo si' (stvarna slika: iztegovanje rok v hvalo)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hvalijo",
+      "rationale": "יודה dobesedno 'metati\/priznavati'; ustaljeno 'hvaliti\/zahvaljevati se'."
+    }
+  ],
+  "translation": "Hvalijo te ljudstva, Elohim, hvalijo te ljudstva, vsa skupaj",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/67\/5-8.1792434987519.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "hvalijo te"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "hvalijo te"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsa skupaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:27.519938795Z",
+  "model": "glm-5.3"
+}

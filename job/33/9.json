@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "v",
+      "rationale": "Hebrew לי 'to me' without preposition of place; Slovene requires 'v meni'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני \/ אנכי",
+      "rationale": "two words for 'I' in parallel lines, both rendered 'sem'; the doubling emphasizes Job's self-assertion"
+    }
+  ],
+  "translation": "Čist sem ⟨jaz⟩, brez upora; nedolžen sem, in ni krivde ⟨v⟩ meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2211b2a83d2a217f33fe1d8fb4d01abe77114d507c1da2426f0f2ccdb04d9fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/9-12.1792436641246.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "čist"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "brez"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "upora"
+    },
+    {
+      "surface": "חף",
+      "gloss": "nedolžen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:01.247507232Z",
+  "model": "glm-5.3"
+}

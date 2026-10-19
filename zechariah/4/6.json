@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 4:6",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina je nima"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "dvojni zvezi 'ampak' ustreza hebrejskemu כי אם po negaciji"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "gloss": "ruah ostaja neprevedena — veter, dih, Duh v eni besedi"
+    }
+  ],
+  "translation": "In odgovoril je in rekel mi: To je beseda Jahveja Zerubabelu: Ne z vojsko in ne s silo, ampak s svojo ruah, govori Jahve Cebaot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ba4e2cd5c2a2ccf1ad85b88a671ba1a1e5877aa0aadc06bb095023cc00381e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/4\/5-8.1792434386462.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in odgovoril je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Zerubabelu"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabelu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "z vojsko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "s silo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברוחי",
+      "gloss": "s svojo ruah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:26.464186485Z",
+  "model": "glm-5.3"
+}

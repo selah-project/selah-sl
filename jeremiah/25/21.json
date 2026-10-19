@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "in",
+      "rationale": "hebrejski vav (ו) kot vezni »in«"
+    }
+  ],
+  "translation": "⟨את⟩ Edom in ⟨את⟩ Moab in ⟨את⟩ sinove Amona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1b51c28eab451440b34b6a85e538d00829d1f35ff1be96fadeb38ee8e462046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/25\/21-24.1792431532158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "sinove Amona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    }
+  ],
+  "timestamp": "2026-10-19T17:38:52.159456245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "naslovno navodilo, del psalmskega podnapisa, ne del pesmi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "naslov",
+      "rationale": "kolofon z navedbo avtorstva: sinovi Korahovi"
+    }
+  ],
+  "translation": "Vodji. Poučna pesem sinov Korahovih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/1-4.1792434830098.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vodji"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pesem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahovih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:50.099674322Z",
+  "model": "glm-5.3"
+}

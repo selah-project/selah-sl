@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עפאים",
+      "rationale": "עפא 'veja (kot pokrivalo drevesa)' se pojavi samo tu v Tanahu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוף \/ עפאים",
+      "rationale": "podobno zveneča para ptica\/veje v hebrejščini, v slovenščini izgubljeno"
+    }
+  ],
+  "translation": "Nad njimi ptica neba prebiva, med vejami daje glas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/9-12.1792435333970.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptica"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "prebiva"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "med"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "vejami"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "daje"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:13.971804088Z",
+  "model": "glm-5.3"
+}

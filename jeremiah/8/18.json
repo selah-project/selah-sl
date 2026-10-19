@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מבליגיתי",
+      "rationale": "edini pojav te oblike v Tanahu; pomen 'tolažba\/utešitev' je razpoznan, a negotov."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבליגיתי",
+      "rationale": "alternativne razlage: 'hotela sem se utesiliti' (dejanje) ali 'moja tolažba' (samostalnik); ena sama beseda nosi celoten stih."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva kopulo, hebrejščina je izpušča."
+    }
+  ],
+  "translation": "Utešitev moja nad žalostjo ⟨je zame⟩; moje srce ⟨je⟩ nad menoj bolno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/8\/17-20.1792431261435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "utešitev moja"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "žalostjo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "bolno"
+    }
+  ],
+  "timestamp": "2026-10-19T17:34:21.436611301Z",
+  "model": "glm-5.3"
+}

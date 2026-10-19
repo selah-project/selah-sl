@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "razširile se bodo",
+      "rationale": "ילכו dobesedno 'hodile bodo' — mladike, ki 'hodijo' naprej"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladike",
+      "rationale": "יונקת dobesedno 'doječi poganjki' — od ינק, sesati; mladi poganjki, ki 'sesajo' iz drevesa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "slovenščina potrebuje glagol biti v primerjavi 'vonj kakor Libanon'"
+    }
+  ],
+  "translation": "Razširile se bodo njegove mladike, njegova veličastnost bo kakor oljika in njegov vonj kakor Libanon.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/5-8.1792433895612.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "pošle \/ razširile se bodo"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "njegove mladike"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bo"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kakor oljika"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "njegova veličastnost"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "in vonj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njegov"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kakor Libanon"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:15.615990598Z",
+  "model": "glm-5.3"
+}

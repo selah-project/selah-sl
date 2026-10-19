@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 9:13",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩ v očeh kralja",
+      "rationale": "hebrejščina pravi dobesedno 'če na kralja dobro' — idiom 'v očih' je dodan za slovensko uho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "drevo",
+      "rationale": "העץ je dobesedno 'drevo\/les', ne 'gibet' kot v KJV"
+    },
+    {
+      "kind": "you",
+      "subject": "Ester nagovarja kralja",
+      "rationale": "neposreden nagovor kralja Ahaverja s prošnjo"
+    }
+  ],
+  "translation": "In Ester je rekla: Če je ⟨to⟩ v očeh kralja dobro, naj se tudi jutri da Judom, ki so v Šušanu, storiti po dati današnjega dne, ⟨את⟩ deset sinov Hamana pa naj obesijo na drevo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a71d7e490b0df3f5dac1be1e4aa16c42b292d43eb24b0c6dd471de159389436f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/9\/13-16.1792437345121.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in je rekla"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "על",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "naj se da"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutri"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki so"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šušanu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "storiti"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "po dati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "današnjega dne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deset sinov Hamana"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "יתלו",
+      "gloss": "naj obesijo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drevo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:45.123153016Z",
+  "model": "glm-5.3"
+}

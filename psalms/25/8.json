@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poučuje",
+      "rationale": "ירה dobesedno 'streljati (kot dež)', tu poučevanje — koren yod-resh-he je za 'Tora'"
+    }
+  ],
+  "translation": "Dober in raven je Jahve, zato grešnike poučuje na poti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/5-8.1792434658514.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dober"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "in raven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "[zato]"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "poučuje"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grešnike"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na poti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:58.516032181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 1:4",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גר",
+      "rationale": "Dosedanji prevodi 'sojourns\/biva'; גור pomeni bivati kot tujec — obliko tujca ohranja 'biva kot tujec'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנשאר \/ ינשאוהו",
+      "rationale": "Isti koren נשא: 'ki je ostal' in 'naj ga dvignejo\/podprejo' — preživeli bodo 'dvignjeni', besedna igra izgubljena v slovenščini."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tega⟩",
+      "rationale": "Hebrejski določni člen pri האלהים se v brezčlenski slovenščini izraža z nakazanim določevalnikom."
+    }
+  ],
+  "translation": "In vsak, ki je ostal, od vseh krajev, kjer ⟨on⟩ biva tam, naj ga podprejo možje njegovega kraja s srebrom in z zlatom in z imetjem in z živino, skupaj s prostovoljnim darom za hišo ⟨tega⟩ Elohim, ki je v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0d0afe178f53c17f1900fbf10b1510bab5300f96599edf87c84488a8386a832f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/1\/1-4.1792437637455.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "In vsak"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "ki je ostal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vseh"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "krajev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "biva kot tujec"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ינשאוהו",
+      "gloss": "naj ga podprejo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "njegovega kraja"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s srebrom"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "in z zlatom"
+    },
+    {
+      "surface": "וברכוש",
+      "gloss": "in z imetjem"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "in z živino"
+    },
+    {
+      "surface": "עם",
+      "gloss": "skupaj s"
+    },
+    {
+      "surface": "הנדבה",
+      "gloss": "prostovoljnim darom"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "za hišo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨tega⟩ Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "je v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:37.458893638Z",
+  "model": "glm-5.3"
+}

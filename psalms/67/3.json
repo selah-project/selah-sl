@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Hebrew infinitive לדעת lacks an explicit subject-verb form; Slovenian needs a finite passive construction"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rešitev",
+      "rationale": "ישועה je 'rešitev\/pomoč\/zmaga' — ena beseda z več pomeni"
+    }
+  ],
+  "translation": "Da se spozna po ⟨deželi⟩ tvoja pot, med vsemi narodi tvoja rešitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "998532c9c0c3e2e0d1239f76dc408449278e78be1a0eb425e53b5be0d72cde82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/67\/3-4.1792439028933.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "da se spozna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po ⟨deželi⟩"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvoja pot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med vsemi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tvoja rešitev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:48.935781150Z",
+  "model": "glm-5.3"
+}

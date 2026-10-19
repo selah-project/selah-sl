@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "imajo",
+      "rationale": "Hebrejščina izraža »njihova« samo s končnico, brez glagola."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "הebrajsko af pomeni dobesedno nos\/nozdrvi; prevod nos ohranja telesno podobo."
+    }
+  ],
+  "translation": "Ušesa imajo, pa ne slišijo; nos imajo, pa ne vohajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/115\/5-8.1792435471072.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ušesa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imajo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "slišijo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imajo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa ne"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "vohajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:31.073947788Z",
+  "model": "glm-5.3"
+}

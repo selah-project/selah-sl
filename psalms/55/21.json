@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oskrunil",
+      "rationale": "חלל je dobesedno 'prebil\/ranil' zavezo; 'oskrunil' je uveljavljena slika"
+    }
+  ],
+  "translation": "Raztegnil je svoji roki nad svojimi miroljubci, oskrunil je svojo zavezo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/21-24.1792434940404.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "raztegnil"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "svoji roki"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "nad svojimi miroljubci"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "oskrunil"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svojo zavezo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:40.405710559Z",
+  "model": "glm-5.3"
+}

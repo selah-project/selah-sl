@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nespametnik",
+      "rationale": "נבל združuje 'neumnež' in 'brezbožnež'; JPS ima 'churl' (lakomnik)."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad kraljestvom",
+      "rationale": "ימלוך pomeni samo 'kraljuje'; slovenščini je dodan predmet za naravno sintakso."
+    }
+  ],
+  "translation": "suženj, kadar postalja ⟨nad kraljestvom⟩, in nespametnik, kadar se nasiči kruha —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4841c54df7fd4f5681a1b1284dca724e8416c6bae76d1966b51c19a59c9da69d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/21-24.1792436166851.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "suženj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "postalja ⟨nad kraljestvom⟩"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "in nespametnik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se nasiči"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:06.852673569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע",
+      "rationale": "koren 'vedeti' se ponovi trikrat (ve, poznata, znajoči) — kača obljublja vedež, ki ga Elohim že ima."
+    },
+    {
+      "kind": "crux",
+      "subject": "כאלהים",
+      "rationale": "množina: 'kakor Elohim' (kot YLT\/ASV) ali 'kakor bogovi' (KJV\/Geneva); množina ostaja množina, Elohim pa je tukaj ime."
+    },
+    {
+      "kind": "addition",
+      "subject": "ko",
+      "gloss": "הבית בביום + infinitiv se dobesedno glasi 'v dnevu vašega jeda od njega'; slovenščina potrebuje 'ko'"
+    }
+  ],
+  "translation": "kajti Elohim ve, da na dan, ko boste jedli od njega, se bodo odprle vaše oči in bili bili ⟨boste⟩ kakor Elohim, ki poznata dobro in zlo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/3\/5-8.1792422029327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "ko boste jedli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "se bodo odprle"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vaše oči"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "in bili bili"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kakor Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "ki poznata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "in zlo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:29.328275862Z",
+  "model": "glm-5.3"
+}

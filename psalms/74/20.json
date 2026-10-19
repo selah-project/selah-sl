@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאות",
+      "rationale": "נאות pomeni 'pašnike, domove'; 'bivališča nasilja' dobesedno, nekateri berejo 'krajice nasilja'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor: 'poglej v zavezo' — prošnja, naj Jahve spomni svoje zaveze"
+    }
+  ],
+  "translation": "Poglej v zavezo, kajti mračna mesta dežele so polna bivališč nasilja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/17-20.1792435104404.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Poglej v"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "so polna"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "mračna mesta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "bivališča"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:24.405870857Z",
+  "model": "glm-5.3"
+}

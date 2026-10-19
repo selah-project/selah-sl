@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונשמו \/ נשמות",
+      "rationale": "glagol in pridevnik iz istega korena שׁמם: 'opustela med opustelimi' — v slovenščini ohranjeno z istim besednim deblom."
+    },
+    {
+      "kind": "addition",
+      "subject": "bodo",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga v ὑpH stavku ne izrazi."
+    }
+  ],
+  "translation": "In opustela bo sredi opustelih dežel, njena mesta pa bodo sredi porušenih mest.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/30\/5-8.1792432512833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "In opustela bo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "dežel"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "opustelih"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "njena mesta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mest"
+    },
+    {
+      "surface": "נחרבות",
+      "gloss": "porušenih"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bodo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:55:12.834005216Z",
+  "model": "glm-5.3"
+}

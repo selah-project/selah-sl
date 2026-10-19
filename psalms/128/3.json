@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrew lacks copula; pesem opisuje stanje, ne prihodnost"
+    }
+  ],
+  "translation": "Tvoja žena ⟨bo⟩ kakor rodovitna trta v notranjih kotih tvoje hiše, tvoji sinovi kakor mladike oljk okoli tvoje mize.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/128\/1-4.1792435586699.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "tvoja žena"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "kakor trta"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "rodovitna"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "v notranjih kotih"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvoje hiše"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji sinovi"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "kakor mladike"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oljk"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tvoje mize"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:26.701838484Z",
+  "model": "glm-5.3"
+}

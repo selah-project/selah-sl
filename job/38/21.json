@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 38:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule pri imenskem predikatu"
+    },
+    {
+      "kind": "crux",
+      "subject": "takrat si bil rojen",
+      "rationale": "KJV bere ironično vprašanje 'si takrat bil rojen?', YLT\/ASV kot trditev; hebrejščina dovoli oboje"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "Jahve se neposredno obrača na Joba z retoričnimi vprašanji"
+    }
+  ],
+  "translation": "Ali véš, ker takrat si bil rojen in število tvojih dni ⟨je⟩ veliko?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/38\/21-24.1792436706068.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "véš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אז",
+      "gloss": "takrat"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "si bil rojen"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "in število"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tvojih dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "veliko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:06.068813186Z",
+  "model": "glm-5.3"
+}

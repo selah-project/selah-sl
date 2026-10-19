@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד \/ יכבדו",
+      "rationale": "koren k-b-d ponovljen: 'težko breme' in 'so pretežke' — ista teža v dveh besedah, v slovenščini ohranjeno z istim korenom tež-"
+    },
+    {
+      "kind": "addition",
+      "subject": "zame",
+      "rationale": "ממנii je dobesedno 'od\/iz mene'; 'zame' dodano za naraven slovenski prim"
+    }
+  ],
+  "translation": "Kajti moje krivice so šle čez mojo glavo, kakor težko breme so pretežke ⟨zame⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/5-8.1792434768134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "moje krivice"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "so šle čez"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mojo glavo"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "kakor breme"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "težko"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "so pretežke"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nad menoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:48.135264188Z",
+  "model": "glm-5.3"
+}

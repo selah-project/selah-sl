@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima glagola biti; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Elohim ostane Elohim, ne Bog"
+    }
+  ],
+  "translation": "In Yosef je rekel Faraonu: Sanje Faraona so ⟨ena⟩ ⟨so⟩: ⟨את⟩ kar Elohim dela, ⟨to⟩ je razodel Faraonu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3c62cc1bca92a98f6bbdbee56730f533e913673a24b99e1daca77152506db55b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/25-28.1792422757711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sanje"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨so⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "razodel"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Faraonu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:37.712983776Z",
+  "model": "glm-5.3"
+}

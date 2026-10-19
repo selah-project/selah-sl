@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 1:2",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svojega boga",
+      "rationale": "אלהיו je isti glagol kot Elohim, a za boga Nevukadnecarja z malo — hebrejščina loči samo s kontekstom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית \/ בית אוצר",
+      "rationale": " trikrat ponovljen בית (hiša Jehudaje, hiša Elohim, hiša njegovega boga) gradi nasprotje med templjem v Jerušalajimu in poganskim svetiščem."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": " slovenski pomožni glagol pri preteritih, hebrejščina ga ne piše."
+    }
+  ],
+  "translation": "In Adonaj je dal v njegovo roko ⟨את⟩ Jehojakima, kralja Jehude, in del posod hiše ⟨את⟩ Elohimovih; in prinesel jih je v deželo Šinar, v hišo svojega boga, in ⟨את⟩ posode je prinesel v hišo zakladnice svojega boga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a2edc38c8fb220bf83474c8b9c2f85fdff5255baf237d5aaed9956f61002fc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/1-4.1792437371047.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "In je dal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v njegovo roko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehojakima"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "ומקצת",
+      "gloss": "in del"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "posod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovih"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "in jih je prinesel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "v deželo"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Šinar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hišo"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svojega boga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "posode"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "je prinesel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hišo"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "zakladnice"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svojega boga"
+    }
+  ],
+  "timestamp": "2026-10-19T19:16:11.049510701Z",
+  "model": "glm-5.3"
+}

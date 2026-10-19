@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "slovenščina potrebuje osebek za ‘izpeljala’; hebrejščina ga ne ponovi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ju naselila",
+      "rationale": "וישבום dobesedno ‘posadil jih je’ — hifil od ישב ‘prebivati’, vzeto kot ‘naselil’"
+    }
+  ],
+  "translation": "Ko je prišel Jaakov v Micrajim in so vaši očeti zavpili k Jahveju, je Jahve poslal ⟨את⟩ Mošeta in ⟨את⟩ Aharona; ta sta izpeljala ⟨את⟩ vaše očete iz Micrajima in ju naselila na tem mestu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/12\/5-8.1792427659671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "v Micrajim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "in so zavpili"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaši očete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "in je poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "in sta izpeljala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše očete"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vaše očete"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "in ju naselila"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na kraju"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:34:19.672657772Z",
+  "model": "glm-5.3"
+}

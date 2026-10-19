@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "slovenščina potrebuje predlog pri odvisnem odstavku, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kozli",
+      "rationale": "עתודים so dobesedno 'pripravljeni', to je odrasli kozli"
+    }
+  ],
+  "translation": "Jagnjeta za tvojo obleko, in kozli za plačilo ⟨za⟩ polje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/25-27.1792436211849.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "jagnjeta"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "za tvojo obleko"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "in plačilo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kozli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:51.851421659Z",
+  "model": "glm-5.3"
+}

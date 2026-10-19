@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 21:29",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבי (ketiv) \/ אביא (qere)",
+      "rationale": "Prvi glagol je zapisan defektivno (אבי), bere se אביא — ketiv\/qere razlika, pomen isti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכנע ... נכנע",
+      "rationale": "Ponovitev glagola 'ponižal se' v vzročnem stavku poudarja merilo — v slovenščini ohranjena z enako besedo."
+    },
+    {
+      "kind": "you",
+      "subject": "Eliju",
+      "rationale": "Jahvov neposredni nagovor Elija: 'Ali si videl...' (sledi 21,28)."
+    }
+  ],
+  "translation": "Ali si videl, da se je Ahab ponižal pred mano? Ker se je ponižal pred mano, ne bom pripeljal hudega v njegovih dneh; v dneh njegovega sina bom pripeljal hudo nad njegovo hišo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "752f46db102b8d36184aff67b737abc6f487ffd29a74407d9ae70d0ddd911251",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/21\/29-29.1792429288199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראית",
+      "gloss": "si videl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "ponižal se je"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pred mano"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ker"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "ponižal se je"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred mano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bom pripeljal"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hudega"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "v njegovih dneh"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v dneh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegovega sina"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "bom pripeljal"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hudo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegovo hišo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:01:28.200228635Z",
+  "model": "glm-5.3"
+}

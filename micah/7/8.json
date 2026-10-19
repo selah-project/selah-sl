@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to sovražniku",
+      "rationale": "Neposreden nagovor nasprotnika — retorična obračunava."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי (2x)",
+      "rationale": "Lahko vzročno 'kajti' ali koncesivno 'čeprav' (JPS) — prevodi se delijo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izjavo brez kopule",
+      "rationale": "יהוה אור לי je nominalen stavek 'Jahve svetloba meni'; slovenščina potrebuje ⟨je⟩ in ⟨zame⟩."
+    }
+  ],
+  "translation": "Ne veseli se, moj sovražnik, nad menoj, ⟨kajti⟩ padla sem, vstala sem; ⟨kajti⟩ sedim v temi, Jahve ⟨je⟩ svetloba ⟨zame⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/7\/5-8.1792434119256.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "veseli se"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "moj sovražnik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kajti⟩"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "padla sem"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "vstala sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kajti⟩"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sedim"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "v temi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetloba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨zame⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:59.259175207Z",
+  "model": "glm-5.3"
+}

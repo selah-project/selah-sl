@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jaakovov dom in vsi z njim",
+      "rationale": "Jaakov izdaja tri zapovedi svojim ljudem."
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "והטהרו je množinski glagol 'očistite'; slovenščina potrebuje povratni 'se'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tuje bogove",
+      "rationale": "אלהי הנכר — 'bogi tujosti'; 'tuj' z malo, ker gre za malike, ne za Elohim."
+    }
+  ],
+  "translation": "In Jaakov je rekel svojemu domu in vsem, ki so bili z njim: Odstranite ⟨את⟩ tuje bogove, ki so sredi vas, in očistite se ter zamenjajte svoja oblačila.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/35\/1-4.1792422710730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In-je-rekel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svojemu-domu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in-k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z-njim"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "odstranite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuje bogove"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "sredi-vas"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "in-očistite-se"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "ter-zamenjajte"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "svoja-oblačila"
+    }
+  ],
+  "timestamp": "2026-10-19T15:11:50.731568170Z",
+  "model": "glm-5.3"
+}

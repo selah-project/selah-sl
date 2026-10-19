@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨svoje⟩",
+      "rationale": "slovenščina zahteva svojilni pridevnik, hebrejščina ga izraža s pripono"
+    },
+    {
+      "kind": "alternative",
+      "subject": "premleval bom",
+      "rationale": "שכל pomeni tudi 'pametno ravnal'; izbrana notranja preudarnost"
+    }
+  ],
+  "translation": "Premleval bom popolno pot. Kdaj boš prišel k meni? Hodil bom v nedolžnosti srca svojega sredi ⟨svoje⟩ hiše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/101\/1-4.1792435361152.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "premleval bom"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "popolno"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kdaj"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "boš prišel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "hodil bom"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "v nedolžnosti"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "srca svojega"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "hiše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:41.154742079Z",
+  "model": "glm-5.3"
+}

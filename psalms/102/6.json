@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kost se prilepi na meso",
+      "rationale": "hebrejščina ima edninsko 'moja kost'; pravljična podlika: od vzdihovanja se telo skrči, kost se prilepi na kožo\/meso"
+    }
+  ],
+  "translation": "Od glasu mojega vzdihovanja se je prilepila moja kost na moje meso.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/5-8.1792435322853.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "od glasu"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mojega vzdihovanja"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "se je prilepila"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "moja kost"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "na moje meso"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:02.854897062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojih",
+      "rationale": "hebrejščina izraža svojilnost s končnico -יך, slovenščina potrebuje pridevnik"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הורתני",
+      "rationale": "koren ירה pomeni tudi usmerjati — 'si me usmerjal' je druga možna slika"
+    }
+  ],
+  "translation": "Od svojih sodb nisem odstopil, kajti ti si me poučil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/101-104.1792435529157.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "od svojih sodb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "odstopil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "si me poučil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:29.158191437Z",
+  "model": "glm-5.3"
+}

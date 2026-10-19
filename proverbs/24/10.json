@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרה\/צר",
+      "rationale": "Isti koren: stiska (tesnost) in ozko — v slovenščini se besedna igra 'ozka stiska' izgubi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tvoja⟩",
+      "rationale": "Zaimk v končnici כחכה je v slovenščini izražen ločeno."
+    }
+  ],
+  "translation": "Če si omagal v dan stiske, ozka je ⟨tvoja⟩ moč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b21460712d161e9e89f8a281b5510a3f7f667341911f77897cee5f8080547c25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/9-12.1792436110546.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "si omagal"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "stiske"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ozka"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "tvoja moč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:10.547852196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Davidova beseda",
+      "rationale": "David prikriva kraljevo poslanstvo: 'nihče naj ne ve ničesar'"
+    },
+    {
+      "kind": "crux",
+      "subject": "פלני אלמוני",
+      "rationale": "dvojica 'tak in tak' — dobesedno poimenovanje brez imena, prirejeno kot 'ta-in-oni'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "usmeril",
+      "rationale": "יודעתי dobesedno 'sem dal vedeti'; kontekst kaže 'postavil na določen kraj'"
+    }
+  ],
+  "translation": "In rekel je David duhovniku Ahimelehu: Kralj mi je naročil ⟨את⟩ besedo in mi rekel: Nihče naj ne ve ničesar ⟨את⟩ besede, katero te pošiljam, in kar sem ti naročil; ⟨את⟩ mladeniče pa sem usmeril na kraj ta-in-oni.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/21\/1-4.1792427943141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "duhovniku Ahimelehu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovniku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mi je naročil"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nihče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naj ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ničesar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besede"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "besede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "te pošiljam"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in kar"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sem ti naročil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mladeniče"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladeniče"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "sem usmeril (dal vedeti)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ta-in"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-19T16:39:03.142408610Z",
+  "model": "glm-5.3"
+}

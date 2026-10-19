@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "hebrejščina pusti dvovednost brez glagola; slovenščina potrebuje glagol biti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "ime Elohim ostaja Elohim, ne 'Bog'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "oltar",
+      "rationale": "določitev kraja hiše in oltarja — David razmejuje sveti prostor"
+    }
+  ],
+  "translation": "In David je rekel: To je ⟨to⟩ hiša Jahveja Elohim, in to oltar za žgalno daritev za Jisrael.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "180f9f809dde6603bfc8483960c2561f945190e3307a797ad80ddafa320f6270",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/22\/1-4.1792438306583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨to⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "in to"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za žgalno daritev"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "za Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:46.584731434Z",
+  "model": "glm-5.3"
+}

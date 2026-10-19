@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנהר",
+      "rationale": "'reka' brez imena; kontekst pomeni Evfrat, a hebrejščina ne imenuje — tu le 'reka'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "until",
+      "rationale": "עד dobesedno 'do\/vas'; uporabljeno za geografski obseg gospostva"
+    }
+  ],
+  "translation": "In gospodoval je vsem kraljem od reke until dežele Peleštimcev until meje Micrajima.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49b2545661bf46664ed5c415d2598f8abe802bcdd833ef3f70b674baa43c20c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/9\/25-28.1792438588319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In gospodoval je"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "gospodoval je"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "reke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "until"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštimcev"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "until"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:28.320955090Z",
+  "model": "glm-5.3"
+}

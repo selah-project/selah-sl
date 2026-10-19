@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "Isti koren: 'cvet' in 'cveti' — igra besed, v slovenščini ohranjena."
+    },
+    {
+      "kind": "crux",
+      "subject": "אנוש",
+      "rationale": "'Smrtnik' (enoš, v nasprotju z dostojnejšim adam) vs splošno 'človek'."
+    }
+  ],
+  "translation": "Človek — kakor trava so njegovi dnevi, kakor cvet polja tako cveti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/13-16.1792435335847.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kakor trava"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "njegovi dnevi"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kakor cvet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "cveti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:15.848589436Z",
+  "model": "glm-5.3"
+}

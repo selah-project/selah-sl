@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 2:2",
+  "book": "haggai",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "velikemu duhovniku",
+      "rationale": "הכהן הגדול dobesedno 'veliki duhovnik', hierarhijski naziv ne 'višji'"
+    },
+    {
+      "kind": "you",
+      "subject": "govor",
+      "rationale": "neposreden nagovor Zerubabela, Jehošue in preostanka ljudstva"
+    }
+  ],
+  "translation": "Povej ⟨zdaj⟩ Zerubabelu, sinu Šealtielovemu, namestniku Jehude, in Jehošui, sinu Jehocadakovemu, velikemu duhovniku, in preostanku ljudstva in reci:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01340037bd01252d22378c24a6a5c1c10ccdb5fe639e0a3182431e0d81b03b9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/haggai\/2\/1-4.1792434334883.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "povej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zdaj⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-u (Zerubabelu)"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabelu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "שלתיאל",
+      "gloss": "Šealtielovemu"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "namestniku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in -u (Jehošui)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehocadakovemu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovniku"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velikemu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in -u"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "preostanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in reci"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:34.884361495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאכילהו",
+      "rationale": "waw-consecutive 'in ga je hranil' (kot dejanje) proti kondicionalu 'bi hranil' (KJV\/JPS 'should have fed') — hebrejščina dovoljuje oboje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maščoba",
+      "rationale": "חלב je dobesedno 'maščoba', preneseno 'najboljši del'; 'najfinejša' (KJV) pušča sliko."
+    },
+    {
+      "kind": "you",
+      "subject": "te",
+      "rationale": "sufiks 2. osebe ednine — Jahve nagovarja posameznega poslušalca med 'njimi'."
+    }
+  ],
+  "translation": "In hranil bi ga z maščobo pšenice, z medom iz skale bi te nasitil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/17-17.1792435175585.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "in hranil bi ga"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "z maščobo"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "in iz skale"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "z medom"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "bi te nasitil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:35.586667128Z",
+  "model": "glm-5.3"
+}

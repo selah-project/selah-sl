@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "וישתחו",
+      "rationale": "hitpa'el od חוה — 'poklonil se' (dobesedno 'bil ponižan'); lahko tudi 'častil', a poklon je telesna dejanjska slika."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenski pomožnik glagol, hebrejščina ga nima."
+    }
+  ],
+  "translation": "In Job je vstal, pretrgal ⟨את⟩ svoj plašč, obril ⟨את⟩ svojo glavo, padel na tla in se poklonil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd6d8951f1538ad98551daea738b9056ecb2d7360d5930618c0ac843ec918a67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/1\/17-20.1792436274979.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "in je vstal"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Job"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "pretrgal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj plašč"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "svoj plašč"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "obril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo glavo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "svojo glavo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "padel"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na tla"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "in se poklonil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:54.983926047Z",
+  "model": "glm-5.3"
+}

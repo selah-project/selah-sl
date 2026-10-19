@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "notranjost",
+      "rationale": "רחמים je dobesedno 'maternica\/utroba' — življenjski prostor usmiljenja; 'srce' (ASV\/JPS) to izgubi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svojo⟩",
+      "rationale": "Hebrejščina ima samo 'v sobo' s prirednim ה; slovenščina potrebuje svojilni zaimek."
+    }
+  ],
+  "translation": "In Jožef se je pomenil hitro, ker so se njegova notranjost zazehala nad ⟨njegovim⟩ bratom, in iskal je, kako bi jokal; in vstopil je v ⟨svojo⟩ sobo ter jokal tam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "66f7eece2bebe14999b4b149398fc43f827d414fd47c946f6739f38edd575467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/43\/30-32.1792433287982.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "hitro se je pomenil"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "zazehala"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "njegova notranjost"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratom"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "in iskal je"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "kako bi jokal"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in vstopil je"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "v ⟨svojo⟩ sobo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "in jokal"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:07.983878059Z",
+  "model": "glm-5.3"
+}

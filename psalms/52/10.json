@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "hebrejščina nima glagola 'biti'; primer je sredina (kaf)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "hesed ostaja hesed, ne 'milost' — ena beseda, ne ločena v ljubezen\/milost"
+    }
+  ],
+  "translation": "Jaz pa ⟨sem⟩ kot bujna oljka v hiši Elohim; zaupam v hesed Elohimovega ⟨imena⟩ na veke in večno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/52\/9-11.1792434903387.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Jaz pa"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kot oljka"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "bujna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "zaupam"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "v hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in večno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:03.388912500Z",
+  "model": "glm-5.3"
+}

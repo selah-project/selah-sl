@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina je nima (imenični stavek)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "živo bitje",
+      "rationale": "נפש חיה dobesedno 'nefeš živa' — dihajoče bitje"
+    }
+  ],
+  "translation": "In Elohim je rekel: To je znamenje zaveze, ki jo jaz dajem med sabo in med vami in med vsakim živim bitjem, ki je ⟨את⟩ z vami, za rodove vekomaj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/9\/9-12.1792422041342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אות",
+      "gloss": "je znamenje"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "zaveze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dajem"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "med sabo"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "in med vami"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in med"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bitjem"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z vami"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "za rodove"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:41.343679629Z",
+  "model": "glm-5.3"
+}

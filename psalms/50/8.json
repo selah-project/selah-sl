@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "veza v. 8",
+      "rationale": "YLT\/ASV berejo drugo polovico kot trditev ('tvoje žgalne žrtve so pred menoj neprenehoma'), kar logično sledi 'ne zaradi žrtev te priobujem'; KJV pa kot del zanikanja."
+    }
+  ],
+  "translation": "Ne zaradi tvojih žrtev te priobujem; in tvoje žgalne žrtve so pred menoj neprenehoma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/5-8.1792434879286.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "tvojih žrtev"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "te priobujem"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "in tvoje žgalne žrtve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprenehoma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:39.287828322Z",
+  "model": "glm-5.3"
+}

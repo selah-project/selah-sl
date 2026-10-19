@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את מי",
+      "rationale": "Tukaj je predlog את ('s\/z'), ne oznaka tožilnika: JPS bere 's čigavo pomočjo', KJV\/ASV 'komu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dih",
+      "rationale": "נשמה je božji ali človeški dih\/duh; 'dih' ohranja telesnost besede."
+    },
+    {
+      "kind": "you",
+      "subject": "Ijov govori Bilhadu",
+      "rationale": "Vprašanji v drugi osebi — kdo je sploh govoril skozi njega."
+    }
+  ],
+  "translation": "⟨את⟩ Koga si poučeval z besedami, in čigav dih je izšel iz tebe?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/26\/1-4.1792436595322.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koga"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "si poučeval"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "z besedami"
+    },
+    {
+      "surface": "וונשמת",
+      "gloss": "in čigav dih"
+    },
+    {
+      "surface": "מי",
+      "gloss": "čigav"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "je izšel"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iz tebe"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:15.323298988Z",
+  "model": "glm-5.3"
+}

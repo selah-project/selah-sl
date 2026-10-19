@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (10. žeton)",
+      "rationale": "Ta את je predlog 'z' (pri oblačenju), ne aleph-tav označevalec določenega predmeta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "zaporedje oblačenja",
+      "rationale": "Verz natančno našteva dele velikonočne obleke po vrsti: tunika, pas, ogrnilo, efod, tkani pas."
+    }
+  ],
+  "translation": "In nadel mu je ⟨את⟩ tuniko in ga opasal s pasom, in oblekel ga je z ogrinjalom, in nadel mu je ⟨את⟩ efod, in ga opasal s tkanim pasom efoda, in mu ga z njim pritrdil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/8\/5-8.1792424091723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuniko"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tuniko"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "in je opasal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "s pasom"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "in je oblekel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ogrnilo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "in je opasal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "s tkanim pasom"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "in mu pritrdil efod"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z njim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:51.725296169Z",
+  "model": "glm-5.3"
+}

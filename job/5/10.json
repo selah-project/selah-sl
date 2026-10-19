@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ulice",
+      "rationale": "חוצות dobesedno 'zunanjost, odprti prostori zunaj'; 'ulice' je ožji mestni pomen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פני … פני",
+      "rationale": "Ponovitev 'obličje zemlje \/ obličja ulic' — zrcalna struktura, v slovenščini ohranjena."
+    }
+  ],
+  "translation": "Ki daje dežje na obličje zemlje in pošilja vode na obličja ulic.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/9-12.1792436225101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "dežje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "in pošilja"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličja"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ulic"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:05.102540670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "'elem' — 'v tišini\/muti' (KJV-rob 'O congregation' bere kot אלים 'mogočni\/vladarji'); tišina ali vladarji?"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "cedek po D2, ne 'pravičnost'"
+    }
+  ],
+  "translation": "Resnično ⟨v⟩ tišini cedek govorite? Pravo sodite, sinovi človeka?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/58\/1-4.1792434951169.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "resnično"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "tišini"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "govorite"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "sodite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:51.169669455Z",
+  "model": "glm-5.3"
+}

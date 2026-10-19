@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez veznika v odvisnem stavku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למינה",
+      "rationale": "trojno ponovitev »po vrsti« — refren stvarjenja"
+    }
+  ],
+  "translation": "In Elohim je naredil ⟨את⟩ žival zemlje po njeni vrsti, in ⟨את⟩ živino po njeni vrsti, in ⟨את⟩ vse plazilce zemlje po njihovi vrsti; in Elohim je videl, da ⟨je⟩ dobro.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/1\/25-28.1792421997193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in je naredil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žival zemlje"
+    },
+    {
+      "surface": "חית",
+      "gloss": "žival"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po njeni vrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "živina"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "živina"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "po njeni vrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "vse plazilce zemlje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "plazilce"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "po njihovi vrsti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:57.193812540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חֶסֶד ostaja hesed — 'ljubeča dobrota\/milost' ne zajame zaveznške zvestobe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvor",
+      "rationale": "הֵיכָל — palača\/tempelj; 'dvor' ohranja prostor, ne tolmači v 'tempelj'"
+    }
+  ],
+  "translation": "Jaz pa v obilju tvojega heseda pridem v tvojo hišo, priklonim se h tvojemu svetemu dvoru v tvojem strahu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/5-8.1792434539314.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jaz pa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v obilju"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvojega heseda"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "pridem"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "v tvojo hišo"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "priklonim se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "dvoru"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvojemu svetemu"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "v tvojem strahu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:59.315983254Z",
+  "model": "glm-5.3"
+}

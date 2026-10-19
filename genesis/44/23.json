@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "to je prepozicijski את ('z, skupaj z'), ne aleph-tav označevalnik; slovenščina ga izraža z predlogom ⟨z⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "videti obličje",
+      "rationale": "ראות פנים — 'videti obličje' — idiom za biti sprejet v navzočnost."
+    }
+  ],
+  "translation": "In rekel si svojim služabnikom: Če ne pride vaš mlajši brat ⟨את⟩ ⟨z⟩ vami dol, ne boste več videli mojega obličja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/44\/21-24.1792422820298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekel si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "služabnikom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "pride dol"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vaš brat"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mlajši"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨z⟩ vami",
+      "marks": "אתכם — prepozicijski את 'z', ne označevalnik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "boste več"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "videli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mojega obličja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:13:40.299180616Z",
+  "model": "glm-5.3"
+}

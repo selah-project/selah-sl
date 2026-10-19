@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se ⟨boš⟩",
+      "rationale": "zvrstni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפרצי \/ פצחי",
+      "rationale": "פרץ v 54,3 odmeva פצח iz 54,1 — preboj in izbruh iz istega korena zvoka"
+    }
+  ],
+  "translation": "Kajti na desno in na levo se boš prebila, in tvoje seme bo podedovalo narode in opustošena mesta bodo naseljena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/54\/1-4.1792430803109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "na desno"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "in na levo"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "se boš prebila"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "in tvoje seme"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bo podedovalo"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "in mesta"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "opustošena"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "bodo naseljena"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:43.110446443Z",
+  "model": "glm-5.3"
+}

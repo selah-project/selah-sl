@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je po D2 cedek; 'pravičnost' sama je zavrnjena oblika, zato sestavljena glosa"
+    }
+  ],
+  "translation": "Ko se pravični obrne od svoje cedek-pravičnosti in stori krivico, bo umrl zaradi nje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cc98f7b43999e4502979c3d2a816e8fc0e86dcf1e4e3453cae846493b8f47d51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/33\/17-20.1792432570885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ko se obrne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravični"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "od svoje pravičnosti"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "in stori"
+    },
+    {
+      "surface": "עול",
+      "gloss": "krivico"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "in umre"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "zaradi nje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:56:10.886262350Z",
+  "model": "glm-5.3"
+}

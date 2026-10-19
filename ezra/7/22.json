@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "zgornje mele",
+      "rationale": "Kraljevi odlok navaja točne vsote: sto talentov srebra, sto korov pšenice, sto batov vina in olja; sol brez omejitve"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חנטין",
+      "rationale": "Aramejska beseda za pšenico se v Tanahu pojavi le tukaj"
+    }
+  ],
+  "translation": "Do srebra sto talentov, do pšenice sto korov, do vina sto batov, do olja sto batov, in soli, za katero ni predpisa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd9f45efde6d371553d6dac0bd0fb32c0e8d4738f895bb9e69b082202274be43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/21-24.1792437686229.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebra"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "talentov"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "korov"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "vina"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "batov"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "batov"
+    },
+    {
+      "surface": "משח",
+      "gloss": "olja"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "in soli"
+    },
+    {
+      "surface": "די",
+      "gloss": "za katero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "predpisa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:26.232538309Z",
+  "model": "glm-5.3"
+}

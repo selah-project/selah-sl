@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 5:1",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sat",
+      "rationale": "יערי je dobesedno 'moj gozd\/goščavo', tu v pomenu satca z medom, kakor kaže vez z דבשי"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨moja⟩",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ima samo samostalnik v stanju določenosti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "jejte, pijte",
+      "rationale": "pluralni imperativ nagovarja prijatelje\/ljubljene k gostiji"
+    }
+  ],
+  "translation": "Prišel sem v svoj vrt, sestra ⟨moja⟩, nevesta ⟨moja⟩; nabral sem svojo miro s svojimi dišavami, pojedel sem svoj sat s svojim medom, popil sem svoje vino s svojim mlekom. Jejte, prijatelji, pijte in se napijte, ljubljeni!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/5\/1-4.1792436891114.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באתי",
+      "gloss": "Prišel sem"
+    },
+    {
+      "surface": "לגני",
+      "gloss": "v svoj vrt"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevesta"
+    },
+    {
+      "surface": "אריתי",
+      "gloss": "nabral sem"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "svojo miro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "svojimi dišavami"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "pojedel sem"
+    },
+    {
+      "surface": "יערי",
+      "gloss": "svoj sat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "דבשי",
+      "gloss": "svojim medom"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "popil sem"
+    },
+    {
+      "surface": "ייני",
+      "gloss": "svoje vino"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "svojim mlekom"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jejte"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "prijatelji"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "pijte"
+    },
+    {
+      "surface": "ושכרו",
+      "gloss": "in se napijte"
+    },
+    {
+      "surface": "דודים",
+      "gloss": "ljubljeni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:11.116607731Z",
+  "model": "glm-5.3"
+}

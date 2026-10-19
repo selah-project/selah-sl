@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "hevel je 'diham, para' — ponavljajoča se beseda Knjige pridigarjev, ohranjena po zvoku."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jaz⟩",
+      "rationale": "hebrejščina postavi אני poudarjeno; oklepaj kaže, da je slovenski red besed zahteval ločeno mesto."
+    }
+  ],
+  "translation": "In vrnil sem se ⟨jaz⟩ in videl hevel pod soncem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/4\/5-8.1792437103761.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "in vrnil sem se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨jaz⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "in videl"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soncem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:43.763254188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeka",
+      "rationale": "צדקה se po D2 prevaja kot cedek, ne kot 'pravičnost' sama"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה\/צדקתי",
+      "rationale": "ponovitev korena צדק v verzu — cedek in cedeka, asonanca"
+    },
+    {
+      "kind": "invitation",
+      "subject": "varujte\/delajte",
+      "rationale": "imperativ, nagovor ljudstva"
+    }
+  ],
+  "translation": "Tako govori Jahve: Varujte sodbo in delajte cedek, kajti blizu je moja rešitev, da pride, in moja cedeka, da se razodene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4a23418dc5036747c8e984fd2eb5ba15533d7eb3ca8d10b29b9430e138f7cd43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/56\/1-4.1792430841217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "Varujte"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "in delajte"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "blizu je"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "moja rešitev"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "da pride"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "in moja cedeka"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "da se razodene"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:21.217798083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 7:16",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ bilo je \/ so bili",
+      "rationale": "Slovenščina potrebuje kopulo, ki je hebrejščina v teh stavkih nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Imena Maahinih potomcev."
+    }
+  ],
+  "translation": "In Maaha, žena Makirjeva, je rodila sina in ime-novala ⟨je⟩ njegovo ime Pereš; ime njegovega brata ⟨bilo je⟩ Šereš; in njegovi sinovi ⟨so bili⟩ Ulam in Rekem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/7\/13-16.1792438116328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "je rodila"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaha"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makirjeva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "je ime-novala"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "Pereš"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegovega brata"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "Šereš"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "in njegovi sinovi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Ulam"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "in Rekem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:36.331477734Z",
+  "model": "glm-5.3"
+}

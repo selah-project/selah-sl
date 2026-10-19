@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bil je",
+      "rationale": "aramejščina ne izreka veznika 'biti star'; dodan v slovenščini"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvainšestdeset let",
+      "rationale": "starost Darjaveša je podana s številom"
+    }
+  ],
+  "translation": "In Darjaveš, Medijec, je prejel kraljestvo; ⟨bil je⟩ star približno dvainšestdeset let.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/6\/1-4.1792437413031.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "In Darjaveš"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "Medijec"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "je prejel"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "kraljestvo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "približno"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "let"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "šestdeset"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "in dva"
+    }
+  ],
+  "timestamp": "2026-10-19T19:16:53.032883372Z",
+  "model": "glm-5.3"
+}

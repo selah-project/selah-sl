@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mene",
+      "rationale": "hebrejščina pustiobjektimpliciten; dodano za slovensko jasnost"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "izrezal",
+      "rationale": "גוזי: 'izrezal me' (YLTo) proti 'vzel\/izvlekel' (KJV, JPS)"
+    }
+  ],
+  "translation": "Nate sem se naslonil od maternice, iz notranjosti moje matere si me izrezal ⟨mene⟩; v tebi ⟨je⟩ moja hvala neprenehoma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/5-8.1792435086645.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "nate"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "sem se naslonil"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "od maternice"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "iz notranjosti"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "moje matere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "si me izrezal"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebi"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "moja hvala"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprenehoma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:06.646543692Z",
+  "model": "glm-5.3"
+}

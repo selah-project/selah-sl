@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina izpušča slovensko potrebno 'je'."
+    },
+    {
+      "kind": "you",
+      "subject": "bralcu",
+      "rationale": "verz je izpoved sobotne liturgije — neposreden refren, ki naslavlja božjost ljudstva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebesa",
+      "rationale": "שמים je dvojina — 'nebèsvi' v dveh; slovenščina ima običajno množinsko 'nebesa'."
+    }
+  ],
+  "translation": "Naša pomoč ⟨je⟩ v Imenu Jahveja, ki dela nebesa in zemljo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/124\/5-8.1792435542867.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Naša pomoč"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v Imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki dela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "in zemljo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:42.868734453Z",
+  "model": "glm-5.3"
+}

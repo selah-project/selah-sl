@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva osebek in pomožni glagol, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In hodili so od naroda do naroda, od kraljestva do drugega ljudstva.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/13-16.1792435352011.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "in hodili so"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "od naroda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "naroda"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "od kraljestva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:32.011860433Z",
+  "model": "glm-5.3"
+}

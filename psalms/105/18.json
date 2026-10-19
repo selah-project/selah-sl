@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפשו",
+      "rationale": "'Njegova duša' dobesedno 'njegov življenjski dah'; KJV bere 'his soul was laid in iron'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne ločena 'duša'"
+    }
+  ],
+  "translation": "Mučili so v okove njegove noge, železo je prišlo v ⟨njegovo⟩ dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/17-20.1792435348908.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עִנּוּ",
+      "gloss": "mučili so"
+    },
+    {
+      "surface": "בַכֶּבֶל",
+      "gloss": "v okove"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "njegove noge"
+    },
+    {
+      "surface": "בַּרְזֶל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "בָּאָה",
+      "gloss": "je prišlo"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "v ⟨njegovo⟩ dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:28.909364228Z",
+  "model": "glm-5.3"
+}

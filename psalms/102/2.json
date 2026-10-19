@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "slovenščina potrebuje modalni glagol, hebrejščina ima govorilni imperativ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "cel verzu",
+      "rationale": "neposreden prošnji nagovor Jahveja"
+    }
+  ],
+  "translation": "Jahve, usliši mojo molitev, in moj vzklik naj pride k tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/1-4.1792435356214.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "usliši"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitev"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "in moj vzklik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "naj pride"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:36.215794936Z",
+  "model": "glm-5.3"
+}

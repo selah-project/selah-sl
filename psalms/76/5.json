@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "gorovja plena",
+      "rationale": "מהררי טרף: 'bolj mogočen od gorovij plena' (primjalno) ali 'ki prihajaš z gorovij plena' (JPS); primjalna različica izbrana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נאור",
+      "rationale": "Kausativ od אור: 'ki daješ svetlobo, sijajoč' — dobesedno 'osvetljen si'."
+    }
+  ],
+  "translation": "Sijajoč si, ti, mogočnejši od gorovij plena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/76\/5-8.1792435105972.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Sijajoč"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mogočnejši"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "od gorovij"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "plena"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:25.973537689Z",
+  "model": "glm-5.3"
+}

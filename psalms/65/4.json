@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pokril",
+      "rationale": "kafar dobesedno 'pokriti' (npr. z bitumnom), od tod 'pokriti pregreho, spraviti'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mni",
+      "rationale": "'nad mano' (ednina, JPS 'pretežka zame') proti 'nad nami' — množina se vrne še v isti vrstici"
+    }
+  ],
+  "translation": "Reči krivic so prevladale nad mano, naše upore — ti jih boš pokril.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/65\/1-4.1792434992047.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "reči"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "krivic"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "so prevladale"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nad mano"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše upore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "jih boš pokril"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:32.049995665Z",
+  "model": "glm-5.3"
+}

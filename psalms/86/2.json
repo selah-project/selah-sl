@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסיד",
+      "rationale": "'hasiden\/pobožen' (KJV 'holy', JPS 'godly') — dobesedno 'kindski\/zvest', iz korena hesed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bolj 'dih\/življenjska sila' kot immaterialna duša"
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrew lacks copula"
+    }
+  ],
+  "translation": "Varuj mojo dušo, kajti hasiden ⟨sem⟩ jaz; reši svojega služabnika, ti, moj Elohim — tistega, ki z zaupanjem hiti ⟨k tebi⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/86\/1-4.1792435181491.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Varuj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasiden"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "reši"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega služabnika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "tistega, ki z zaupanjem hiti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:41.493531402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארמית",
+      "rationale": "'aramejsko\/sirsko' — od tu do 7,28 besedilo preide v aramejščino; KJV 'in Syriack' proti JPS 'in Aramaic'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Povej sanjo",
+      "rationale": "kaldejski poziv kralju naj razkrije sanjo — vprašanje, na katerem visi celotno poglavje"
+    },
+    {
+      "kind": "you",
+      "subject": "govor Kaldejcev",
+      "rationale": "neposreden nagovor kralja z vljudnostno formulo 'na veke živi'"
+    }
+  ],
+  "translation": "In Kaldejci so govorili kralju aramejsko: Kralj, na veke živi! Povej sanjo svojim služabnikom, in razlago bomo pokazali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/2\/1-4.1792437324402.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "in so govorili"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kaldejci"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "aramejsko"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Kralj"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "živi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "povej"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "sanjo"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "svojim služabnikom"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "in razlago"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "bomo pokazali"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:24.406250930Z",
+  "model": "glm-5.3"
+}

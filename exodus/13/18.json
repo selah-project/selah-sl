@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחמשים",
+      "rationale": "Koren חמש: 'oboroženi \/ v bojni vrsti' (KJV, JPS) proti 'po petdesetih' (YLT, iz števila 5) — odločitev vpliva na podobo izhoda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "morje trstičja",
+      "rationale": "ים סוף je 'morje trstja (papirusa)'; ustaljeno 'Rdeče morje' je poznejša tradicija."
+    }
+  ],
+  "translation": "In Elohim je vodil ⟨את⟩ ljudstvo obvozno po poti puščave proti morju trstičja, in oboroženi so se povzpeli sinovi Jisraela iz dežele Micrajim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "09b0b668bc2f910a70fe159cedc0044809f8bafb4a380b685ec4f2a3c35cac43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/13\/17-20.1792423308002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "In je vodil obvozno"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "puščave"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morju"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "trstičja"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "oboroženi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "so se povzpeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:21:48.003531179Z",
+  "model": "glm-5.3"
+}

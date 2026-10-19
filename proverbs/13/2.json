@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "drugi del stavka je brez glagola; glagol 'jesti' se razteza čez oba dela le v prvem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "nefeš je bližje 'grlu\/dihu\/življenjski sili' kot metafizični duši"
+    }
+  ],
+  "translation": "Od sadja ust človek je dobro, toda duša prevarantov ⟨je⟩ nasilje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/1-4.1792435942479.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Od sadja"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "je"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "toda duša"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "prevarantov"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:22.480813602Z",
+  "model": "glm-5.3"
+}

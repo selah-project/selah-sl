@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pripada",
+      "rationale": "hebrejščina izpušča glagol 'biti pripadajoč', slovenščina ga potrebuje"
+    },
+    {
+      "kind": "crux",
+      "subject": "naš ščit",
+      "rationale": "מגננו: ščit pripada Jahveju (lastništvo) ali je Jahve ščit (KJV 'GOSPOD je naša obramba')"
+    }
+  ],
+  "translation": "Kajti Jahveju ⟨pripada⟩ naš ščit, in Svetemu Izraelovega ⟨pripada⟩ naš kralj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/17-20.1792435255666.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "naš ščit"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "in Svetemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelovega"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "naš kralj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:55.668631263Z",
+  "model": "glm-5.3"
+}

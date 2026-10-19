@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "gospoduj",
+      "rationale": "ukaz v drugi osebi, nadaljevanje Jahvejevega nagovora iz v. 1"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žezel",
+      "rationale": "מטה je dobesedno 'veja\/palica', tukaj kraljevo znamenje oblasti"
+    }
+  ],
+  "translation": "Žezel tvoje moči bo poslal Jahve s Ciona: gospoduj sredi svojih sovražnikov!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/110\/1-4.1792435467013.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "žezel"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tvoje moči"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bo poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "s Ciona"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "gospoduj"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "svojih sovražnikov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:27.014425784Z",
+  "model": "glm-5.3"
+}

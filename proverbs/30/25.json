@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks copula between 'ants' and 'a people not strong'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vendar",
+      "rationale": "ו-wayyiqtol tu ne pripoveduje zaporedja, temveč nasprotje ('kljub temu pripravijo')."
+    }
+  ],
+  "translation": "Mravlje ⟨so⟩ ljudstvo, ne močno, vendar so pripravile v poletju svojo hrano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/25-28.1792436173807.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "Mravlje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עז",
+      "gloss": "močno"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "vendar so pripravile"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "v poletju"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "svojo hrano"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:13.808144585Z",
+  "model": "glm-5.3"
+}

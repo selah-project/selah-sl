@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 29:32",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראה \/ ראובן",
+      "rationale": "Ime Reuven je povezano z ראה ('videti'): 'Jahve je videl' — besedna igra v izgovarjavi, v slovenščini izgubljena."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Tretji כי v verzu je v slovenščini zajet v 'zdaj', ločena beseda ni potrebna."
+    }
+  ],
+  "translation": "In Lea je spočela in rodila sina ter poklicala njegovo ime Reuven, kajti rekla je: Ker je Jahve videl mojo stisko, me bo zdaj ljubil moj mož.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ef7e25ea597185ca90d50ee788b6b9826ece73887f2354f10974dc15ef063eec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/29\/29-32.1792422504646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "in je spočela"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "in je rodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "in je poklicala"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "je rekla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "je videl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "mojo stisko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "יאהבני",
+      "gloss": "me bo ljubil"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "moj mož"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:24.647928033Z",
+  "model": "glm-5.3"
+}

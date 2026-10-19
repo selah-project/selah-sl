@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Hebrew has no copula; רומם is a noun 'povzdigovanje\/hvala', not a passive verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "רומם",
+      "rationale": "Ali 'bil je povzdigovan' (passiv, večina prevodov) ali samostalnik 'hvala je pod mojim jezikom' (YL T)"
+    }
+  ],
+  "translation": "Njega sem klical s svojimi usti in povzdigovanje ⟨je bilo⟩ pod mojim jezikom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/66\/17-20.1792435024988.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Njega"
+    },
+    {
+      "surface": "פי",
+      "gloss": "s svojimi usti"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sem klical"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "in povzdigovanje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mojim jezikom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:04.988878764Z",
+  "model": "glm-5.3"
+}

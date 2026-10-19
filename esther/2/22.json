@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik 'je' pri preteklih glagolih"
+    }
+  ],
+  "translation": "In zadeva je postala znana Mordehaju, in povedal je Estěr, kraljici, in Estěr je povedala kralju v imenu Mordehaja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/21-23.1792437205039.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "in je postala znana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zadeva"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordehaju"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "in povedal je"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estěr"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljici"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "in je povedala"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estěr"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehaja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:25.040886395Z",
+  "model": "glm-5.3"
+}

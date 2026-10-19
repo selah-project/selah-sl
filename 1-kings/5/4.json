@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 5:4",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "onstran reke",
+      "rationale": "עבר הנהר dobesedno 'preko reke' (Evfrat) — s stališča v deželi zahodno od nje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר \/ עבריו \/ מעבר",
+      "rationale": "Koren עבר se ponovi trikrat: dežela onstran reke, in njegove strani — besedna igra med 'prečkanjem' in 'robovi', v slovenščini razdeljena."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתפסח",
+      "rationale": "Tifsaḥ na Evfratu; nekateri berejo kot מִפְסַח 'prehod', kar pa je tu krajevno ime."
+    }
+  ],
+  "translation": "kajta on je gospodoval nad vso deželo onstran reke, od Tifsaha do Gaze, nad vsemi kralji onstran reke; in mir je imel ⟨od⟩ vseh svojih strani, naokoli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "addf71cc6fdf918c9a03b42d40209db7ab288936146c2f88375242a0304c6b06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/5\/2-4.1792433406360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "je gospodoval"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nad vso"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "deželo onstran"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "reke"
+    },
+    {
+      "surface": "מתפסח",
+      "gloss": "od Tifsaha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaze"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nad vsemi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "onstran"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "reke"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "in mir"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vseh"
+    },
+    {
+      "surface": "עבריו",
+      "gloss": "svojih strani"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "naokoli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:06.362587271Z",
+  "model": "glm-5.3"
+}

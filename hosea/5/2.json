@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושחטה שטים",
+      "rationale": "izjemno težak stavek: 'pomor' (šaḥaṭah) lahko pomeni tudi 'kolibe\/Šitim'; preglasetave različno vežejo besede (KJV 'revolters are profound to make slaughter' proti JPS)."
+    },
+    {
+      "kind": "crux",
+      "subject": "מוסר לכלם",
+      "rationale": "'jaz sem muṣar zanje' — kje 'jaz sem njihov vzgojitelj' (KJV\/ASV) ali 'jaz sem zavračan od vseh njih' (JPS) ali 'jaz sem veza za vse njih' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "slovenščina potrebuje predlog pri dajalno-tiralni zvezi, hebrejščina ga nima."
+    }
+  ],
+  "translation": "In odpadniki so se v pomor poglobili, in jaz sem discipliniranje ⟨za⟩ vse njih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/5\/1-4.1792433793360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "v pomor"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "In odpadniki"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "so se poglobili"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz sem"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "discipliniranje"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "za vse njih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:33.361387706Z",
+  "model": "glm-5.3"
+}

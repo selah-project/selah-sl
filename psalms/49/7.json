@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "premoženje",
+      "rationale": "חיל je 'moč, sila, vojska, bogastvo' — ena beseda za vire moči; slovenščina izbere 'premoženje' iz teh pomenov."
+    },
+    {
+      "kind": "addition",
+      "subject": "tisti, ki",
+      "rationale": "Hebrejščina ima samo deležnik הבטחים; slovenščina potrebuje uvodno zvezo za ločeni odvisni stavek."
+    }
+  ],
+  "translation": "Tisti, ki zaupajo v svoje premoženje in se v množici svojega bogastva hvalijo —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/5-8.1792434881487.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "tisti, ki zaupajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "svoje premoženje"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "in v množici"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "svojega bogastva"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "se hvalijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:41.489852112Z",
+  "model": "glm-5.3"
+}

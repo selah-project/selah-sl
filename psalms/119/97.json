@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola; slovenščina zahteva kopulo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיחה",
+      "rationale": " isti koren kot v 99. verzu — razmišljanje\/ premišljevanje, navezuje na cikel o Tori."
+    }
+  ],
+  "translation": "Kako ljubim tvojo Toro! Ves dan ⟨je⟩ ⟨ona⟩ moja razmišljanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/97-100.1792435533251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ljubim"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvojo Toro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "moja razmišljanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:33.252133437Z",
+  "model": "glm-5.3"
+}

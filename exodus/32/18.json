@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ענות",
+      "rationale": "tri isti stavki קול ענות — 'krik zmage', 'krik poraza', 'krik petja'; ponovitev z naraščajočo razrešitvijo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול ענות ×3",
+      "rationale": "trojna anaphore, v slovenščini ohranjena s ponovitvijo 'glas kričanja'"
+    }
+  ],
+  "translation": "In rekel je: Ni glas kričanja zmage in ni glas kričanja poraza; glas petja slišim ⟨jaz⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/32\/17-20.1792423749503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kričanja"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "zmage"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kričanja"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "poraza"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "petja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slišim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:09.504768960Z",
+  "model": "glm-5.3"
+}

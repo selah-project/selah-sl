@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩ \/ ⟨ji⟩",
+      "rationale": "slovenščina zahteva predmet pri vzela\/dala; hebrejščina ga izpusti"
+    },
+    {
+      "kind": "crux",
+      "subject": "משבעה",
+      "rationale": "'od njenega sita' (Rut je odnehala s svojega obila) proti 'ko je bila sita' — večina prevodov bere zadnje"
+    }
+  ],
+  "translation": "In vzela ⟨ga⟩ je in prišla v mesto, in videla je tašča ⟨את⟩ tisto, kar je pobrala; in vzela je ven in dala ⟨ji⟩ ⟨את⟩ tisto, kar je ostalo od njenega sita.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f6e387fdfe8bb7a2475c8421fc280134abead4062292e0df9e104497882e44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/2\/17-20.1792436940008.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "in vzela je"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "in prišla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "v mesto"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "in videla je"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "tašča"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tisto, kar je pobrala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "je pobrala"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "in vzela je ven"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "in dala"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tisto, kar je ostalo od njenega sita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "je ostalo"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "od njenega sita"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:00.009819919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "s svojo desnico pred nasprotniki",
+      "rationale": "KJV 'reši z desnico tiste, ki se zatekajo, pred nasprotniki' proti YLT 'loči čudežno svoj hesed ... z desnico od upirnikov' — skladnja חוסים ממתקוממים בימינך je dvoumna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוסים \/ חסדיך",
+      "rationale": "Koren חס׳ povezuje 'zatekajoče se' in 'hesed' — zvočna bližina, ki je v slovenščini izgubljena."
+    }
+  ],
+  "translation": "Razprostri čudežno svoj hesed, rešitelj tistih, ki se zatekajo k tebi, s svojo desnico pred nasprotniki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/5-8.1792434601140.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Razprostri čudežno"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "rešitelj"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "tistih, ki se zatekajo k tebi"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "pred nasprotniki"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "s svojo desnico"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:01.142258284Z",
+  "model": "glm-5.3"
+}

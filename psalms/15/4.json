@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להרע",
+      "rationale": "dobesedno 'škodovati se' — prisega, ki ga stane, ne glede na izid"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבזה ... נמאס",
+      "rationale": "nekateri berejo: zaničevanja vreden je vreden zaničevanja (intenziv); alternativno 'zavrnjenega ne časti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבזה\/נמאס",
+      "gloss": "dva sinonima za zaničevanje v vzporednici, ista zvočna teža"
+    }
+  ],
+  "translation": "Zaničevan je v njegovih očeh zaničevanja vreden, ⟨את⟩ tiste, ki se bojí Jahveja, časti; prisegne na svojo škodo in ne spremeni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/15\/1-4.1792434604532.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "zaničevanja vreden"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v njegovih očeh"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "zaničevan je"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiste, ki se bojí Jahveja"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "tiste, ki se bojí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "časti"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "prisegne"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "na svojo škodo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "spremeni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:04.534150403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ledvice",
+      "rationale": "כליות je notranji organ, sedeč občutkov in vesti; prevodi ga glajenijo v 'srce' ali 'vest'."
+    }
+  ],
+  "translation": "Blagoslavljam ⟨את⟩ Jahveja, ker mi je svetoval; tudi ponoči me poučujejo moje ledvice.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/16\/5-8.1792434580179.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Blagoslavljam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mi je svetoval"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ponoči"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "me poučujejo"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "moje ledvice"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:40.182729420Z",
+  "model": "glm-5.3"
+}

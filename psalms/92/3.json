@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד prepuščen po zvoku, ne kot 'milost' ali 'ljubečnost'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר \/ בלילות",
+      "rationale": "dnevno-nočna dvojica: jutro in noči kot par"
+    }
+  ],
+  "translation": "oznanjati zjutraj ⟨tvoj⟩ hesed in ⟨tvojo⟩ zvestobo v nočeh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "72776e5263ee30f7c45709b1b7a8040f27e2f4e0e08414b11839936222a3b470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/92\/2-3.1792439038650.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "oznanjati"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed tvoj"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "in zvestoba tvoja"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "v nočeh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:58.652314401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dodi",
+      "rationale": "דודים (množina) pomeni ljubezensko milovanje, ljubimca, ljubezenske užitke; prevodi se razhajajo: 'ljubezen', 'ljubljenja', 'poljubi'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Poljubi me",
+      "rationale": "Vrzeličina želja v drugi osebi — nagovor ljubljenega, ki vleče bralec v pesem."
+    },
+    {
+      "kind": "you",
+      "subject": "nagovor ljubljenemu",
+      "rationale": "Neposreden nagovor 'tvojih ust', 'tvoji dodi'."
+    }
+  ],
+  "translation": "Poljubi me s poljubi svojih ust, kajti tvoji dodi so boljši od vina.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/1\/1-4.1792436812319.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Poljubi me"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "s poljubi"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "svojih ust"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "so boljši"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "tvoji dodi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "od vina"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:52.323476170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רחם",
+      "rationale": "'Maternica' (dobesedno) ali po aramejski sorodnosti 'usmiljenje' (Targum, Geneva 'the pitiful man') — usoda pozabljenega."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתקו רמה",
+      "gloss": "",
+      "rationale": "Dobesedno 'njegova sladkost — crv': ali crv 'posladi' na njem, ali sladkost (slast) postane crv."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "rationale": "עולה je krivica\/nepostavnost; oblika se sliši kot daritev 'ola', a tu je iz ol, 'krivica'."
+    }
+  ],
+  "translation": "Pozabi ga maternica; crv posladi na njegovi sladkosti; nič več ni v spominu; in krivica je zlomljena kakor drevo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/24\/17-20.1792436508652.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "Pozabi ga"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "maternica"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "njegovi sladkosti"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "crv"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nič več"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "v spominu"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "in zlomljena"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kakor drevo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "krivica"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:48.653308843Z",
+  "model": "glm-5.3"
+}

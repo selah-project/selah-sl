@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Približajte se k meni",
+      "rationale": "Elijev ukaz ljudstvu na Karmelu — vabilo, naj se zberejo okoli njega"
+    },
+    {
+      "kind": "you",
+      "subject": "Približajte se",
+      "rationale": "neposreden nagovor Elije vsemu ljudstvu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "popravil",
+      "rationale": "וירפא dobesedno 'ozdravil' — oltar je 'zdravil', kakor bi bil ranjen"
+    }
+  ],
+  "translation": "In Elija je rekel vsemu ljudstvu: Približajte se k meni! In vse ljudstvo se je približalo k njemu. In popravil je ⟨את⟩ oltar Jahveja, porušenega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/18\/29-32.1792429220526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In … je rekel"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsemu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Približajte se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "In … se je približalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "In popravil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "porušenega"
+    }
+  ],
+  "timestamp": "2026-10-19T17:00:20.527668100Z",
+  "model": "glm-5.3"
+}

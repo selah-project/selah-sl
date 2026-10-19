@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פתוח תפתח",
+      "rationale": "infinitiv absolutni pred glagolom — 'odpiraj odpreti', poudarjena popolnost dejanja; slovenščina izgubi podvajanje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחסרו \/ יחסר",
+      "rationale": "ponovitev korena חסר — 'pomanjkljivost, ki jo pogreša'."
+    }
+  ],
+  "translation": "ampak odpri ⟨naj⟩ ⟨se⟩ — odprl boš ⟨את⟩ svojo roko njemu in posojeval ga boš z zagotovino, dovolj za njegovo pomanjkljivost, karkoli mu manjka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b9c32f2ba97b5be6cc809a15d0dc7d7deea3b8c3f58d09d40b6d11f346e937c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/15\/6-8.1792433336969.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "odpri"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "odprl boš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo roko"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "in posojeval"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ga boš posodil"
+    },
+    {
+      "surface": "די",
+      "gloss": "dovolj"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "za njegovo pomanjkljivost"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karkoli"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "manjka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:56.973178112Z",
+  "model": "glm-5.3"
+}

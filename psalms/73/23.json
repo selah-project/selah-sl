@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vedno",
+      "rationale": "תמיד 'neprenehoma, stalno' — glagol 'sem' dodan, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Vendar sem ⟨vedno⟩ s teboj; zagrabil si me za mojo desno roko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/21-24.1792435034198.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "vendar jaz"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprenehoma"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s teboj"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "si zagrabil"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "za roko"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mojo desno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:14.200388213Z",
+  "model": "glm-5.3"
+}

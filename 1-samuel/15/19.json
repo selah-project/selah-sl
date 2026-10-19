@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 15:19",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "si se zagnal na",
+      "rationale": "עט je slikovito 'se zagrabiti\/napasti kot ptica plenilka' — 'zagnati se na' ohranja gibanje, izgubi pa perut"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ubogal",
+      "rationale": "שמע je 'slišati', poslušanje = poslušnost; 'ubogati' je posledica, ne glagol sam"
+    },
+    {
+      "kind": "you",
+      "subject": "Samuel Šaulu",
+      "rationale": "neposreden očitek naslovniku"
+    }
+  ],
+  "translation": "Zakaj pa nisi ubogal glasu Jahveja, ampak si se zagnal na plen in storil húdo v očeh Jahveja?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f74eaaef674e7ba6fdfa20792bf99d1cae6c72f0c10a2bb450027475c7132c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/15\/18-20.1792433350178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Zakaj pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ubogal"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "glasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ותעט",
+      "gloss": "si se zagnal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "plen"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "in storil"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:10.179522221Z",
+  "model": "glm-5.3"
+}

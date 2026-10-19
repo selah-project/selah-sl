@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina naslova ga nima"
+    }
+  ],
+  "translation": "Zborovodji, ob igranju na strunska glasbila, poučna pesem Davida.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/1-4.1792434954108.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovodji"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ob igranju na strunska glasbila"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pesem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:54.109125749Z",
+  "model": "glm-5.3"
+}

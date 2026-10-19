@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dihalno bitje, življenjska sila, ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje kopulo, hebrejščina je nima."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relativni veznik 'ki (v čigovi roki)' se v slovenščini zlije z odvisnostjo."
+    }
+  ],
+  "translation": "V njegovi roki ⟨je⟩ duša vsakega živega in ruah vsakega mesa človeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/12\/9-12.1792436355599.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v njegovi roki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakega"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živega"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "in ruah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakega"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:15.600263560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Neposredni predmet je v hebrejščini priključen k glagolu (sufiks -הו); slovenščina potrebuje 'ga'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמלל",
+      "rationale": "Inclusio: ver se odpre in zapre z istim glagolom 'oveneti' — obroč okrog treh rodovitnih dežel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "reke",
+      "rationale": "נהרות so veliki tokovi (Nil, Evfrat); 'reke' je ožji pomen."
+    }
+  ],
+  "translation": "Grdi morje, in osuši ⟨ga⟩, in vse reke posuši; Bašan ovene in Karmel, in cvet Libanona ovene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/1\/1-4.1792434237942.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "Grdi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "in osuši ⟨ga⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "reke"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "posuši"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ovene"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "in Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "in cvet"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanona"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ovene"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:57.947642998Z",
+  "model": "glm-5.3"
+}

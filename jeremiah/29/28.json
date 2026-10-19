@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 29:28",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארכה היא",
+      "rationale": "Dobesedno 'dolga je' — kaj je dolgo? Večina prevodov doda 'izgnanstvo'; hebrejščina tega samostalnika nima."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨v njih⟩",
+      "rationale": "Slovenščina potrebuje določilo, hebrejščina ga izpusti ('zidajte hiše in prebivajte')."
+    },
+    {
+      "kind": "you",
+      "subject": "to izgnancem v Bavelu",
+      "rationale": "Jeremijeva besedila so neposreden nagovor skupnosti v izgnanstvu z zapovedjo, naj se naselijo."
+    }
+  ],
+  "translation": "Ker nam je zato poslal v Bavel, govoreč: Dolgo ⟨bo⟩; zidajte hiše in prebivajte ⟨v njih⟩, in sadite vrtove in jejte ⟨את⟩ njihov sad.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c40a7c7739b793dfc9173434f1c7de3744cfc1690de4916a55f5cef29d64ac7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/25-28.1792431607718.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "v Bavel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "Dolgo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨bo⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zidajte"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "in prebivajte"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "in sadite"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "vrtove"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "in jejte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihov sad"
+    },
+    {
+      "surface": "פריהן",
+      "gloss": "njihov sad"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:07.719736782Z",
+  "model": "glm-5.3"
+}

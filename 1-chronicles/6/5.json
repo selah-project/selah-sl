@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Verz je seznam imen — merjenje rodu po generacijah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "l- predpone",
+      "rationale": "Hebrejska predloga ל- (»za\/od«) je v pridevku »Geršomu« izražena z dajalnikom."
+    }
+  ],
+  "translation": "Geršomu: Livni, njegov sin; Jahat, njegov sin; Zima, njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5658c6265166edcaf929a5ffad7d701dd9f00b30a1817adeab50313f39113b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/6\/5-8.1792438039393.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Geršomu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jahat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zima"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:19.394506792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Njihova⟩ · ⟨njihov⟩",
+      "rationale": "slovenščina zahteva svojilni pridevnik, hebrejščina ima samo pripone -ם"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jisrael",
+      "rationale": "neposreden poziv ljudstvu, naj zaupa v Jahveja"
+    }
+  ],
+  "translation": "Jisrael, zaupaj v Jahveja! ⟨Njihova⟩ pomoč in ⟨njihov⟩ ščit je on.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/115\/9-12.1792435459090.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "zaupaj"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveja"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pomoč njihova"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "in ščit njihov"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:19.090882055Z",
+  "model": "glm-5.3"
+}

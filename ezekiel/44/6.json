@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 44:6",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol 'je', hebrejščina ima samo רב לכם 'dovolj vam'"
+    },
+    {
+      "kind": "you",
+      "subject": "to hiša Jisraela",
+      "rationale": "neposreden nagovor uporniškega ljudstva skozi preroka"
+    }
+  ],
+  "translation": "In rekel boš uporni hiši Jisraela: Tako govori Adonaj Jahve: Dovolj ⟨je⟩ vam vseh vaših gnusob, hiša Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b7232a5c3a62eea463e1719a9ef6e111fda037a9dae23d5e5b99297e3c905a21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/44\/5-8.1792433686408.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "In rekel boš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "uporni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Dovolj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "תועבותיכם",
+      "gloss": "vaših gnusob"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:14:46.410010841Z",
+  "model": "glm-5.3"
+}

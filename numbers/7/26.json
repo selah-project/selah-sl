@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "šeklov",
+      "rationale": "Hebrejščina pravi samo 'deset', brez besede šekel; dodano v oklepaju, ker je merska enota iz konteksta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כף",
+      "rationale": "Dobesedno 'dlan' — posoda v obliki dlani; prevodi 'žlica' ali 'ponjiva' izgubijo podobo telesa."
+    }
+  ],
+  "translation": "ena zlata dlan, deset ⟨šeklov⟩, polna kadila.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/7\/25-28.1792424796162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "dlan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ena"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "polna"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadila"
+    }
+  ],
+  "timestamp": "2026-10-19T15:46:36.162759246Z",
+  "model": "glm-5.3"
+}

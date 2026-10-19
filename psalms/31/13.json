@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלב",
+      "rationale": "dobesedno 'iz srca' — idiom za izgubljeno iz spomina, ne 'iz uma'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבד",
+      "rationale": "'propadla\/izgubljena posoda' — KJV 'broken' (razbita), JPS 'useless' (neuporabna)"
+    }
+  ],
+  "translation": "Pozabljen sem kakor mrtev ⟨iz⟩ srca; postal sem kakor posoda, ki je propadla.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/31\/13-16.1792434679473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "Pozabljen sem"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "kakor mrtev"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "iz srca"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "postal sem"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kakor posoda"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ki je propadla"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:19.473848825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tistim, ki",
+      "rationale": "Hebrejščina ima samo particip z dajalnikom לשמרי; slovenščina potrebuje samostalniško zvezo"
+    }
+  ],
+  "translation": "tistim, ki varujejo njegovo zavezo, in tistim, ki se spominjajo njegovih zapovedi, da jih izpolnjujejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/17-20.1792435350239.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "tistim, ki varujejo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "njegovo zavezo"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "in tistim, ki se spominjajo"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "njegovih zapovedi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "da jih izpolnjujejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:30.240519659Z",
+  "model": "glm-5.3"
+}

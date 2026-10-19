@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "Berena kot 'poželenje' (arameizem, YLT, BSB) namesto veznika 'ali' (KJV) ali 'Kje je?' (ASV, JPS dodajo vprasanje)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל ... אל",
+      "rationale": "Ponovljeni 'ne za kralje' — zveneča vzporednica, ki jo slovenščina ohranja z isto obliko."
+    }
+  ],
+  "translation": "Ne za kralje, Lemuel, ne za kralje piti vino, in ne za plemiče poželenje močne pijače.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/31\/1-4.1792436206498.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "za kralje"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "za kralje"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "piti"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "in za plemiče"
+    },
+    {
+      "surface": "או",
+      "gloss": "poželenje"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "močne pijače"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:46.501467713Z",
+  "model": "glm-5.3"
+}

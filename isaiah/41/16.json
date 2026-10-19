@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "פיפיות-beseda ורוח je 'ruah' — veter; tu dobesedno 'veter', ne 'duh'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vejatica",
+      "rationale": "verižna podoba plev-veter-vihar, trije glagoli razprševanja v nizu"
+    }
+  ],
+  "translation": "V njih boš pihal in veter jih bo odnesel, vihar jih bo raztresel — in ti se boš veselil v Jahveju, v Svetem Jisraelovem se boš hvalil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/41\/13-16.1792430602500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "V njih boš pihal"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "in veter"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "jih bo odnesel"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "vihar"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "bo raztresel"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jih (gore in hribe kot pleve)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "se boš veselil"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "v Svetem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovem"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "se boš hvalil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:22.501912453Z",
+  "model": "glm-5.3"
+}

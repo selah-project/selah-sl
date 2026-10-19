@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 38:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje predmet pri 'vidiš', hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sen-smrti",
+      "rationale": "צלמות je dobesedno 'sen smrti' — ena beseda, spojena z vezajem, da se ohrani oblika"
+    },
+    {
+      "kind": "you",
+      "subject": "Hiobu",
+      "rationale": "Jahve nagovarja Hioba z retoričnima vprašanjoma o mejah človeškega znanja"
+    },
+    {
+      "kind": "mystery",
+      "subject": "vrata smrti",
+      "rationale": "vprašanje o skritem podzemnem svetu, ki ga človek ne pozna"
+    }
+  ],
+  "translation": "Ali so se ti razodela vrata smrti, in vrata sen-smrti — ali ⟨jih⟩ vidiš?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/38\/17-20.1792436731493.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגלו",
+      "gloss": "ali so se razodela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ושערי",
+      "gloss": "in vrata"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sen-smrti"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidiš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:31.494049275Z",
+  "model": "glm-5.3"
+}

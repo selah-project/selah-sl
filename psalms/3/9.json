@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola 'biti' — nominalska stavka brez kopule."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sela — glasbeni označevalni znak, brez slovenskega ustreznika, pusti se kot zvočno ime."
+    },
+    {
+      "kind": "you",
+      "subject": "tvojem ljudstvu \/ tvoj blagoslov",
+      "rationale": "Neposreden nagovor Darovalca — 'ti' je David, ki govori z Jahvejem."
+    }
+  ],
+  "translation": "Jahveju ⟨je⟩ rešitev; na ⟨tvojem⟩ ljudstvu ⟨je⟩ tvoj blagoslov. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/3\/9-9.1792434500426.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "rešitev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvojem ljudstvu"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "tvoj blagoslov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:20.426810936Z",
+  "model": "glm-5.3"
+}

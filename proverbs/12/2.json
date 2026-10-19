@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "človek",
+      "rationale": "טוב je samostalnik ('dobro\/dobri'); 'človek' je dodan za slovensko slovnico, ne označen v besedilu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירשיע",
+      "rationale": "'on (Elohim\/Jahve) bo obsojen' vs 'bo storil krivico' — glagol lahko pomeni oboje; kontext narekuje obsojanje"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מזמות",
+      "rationale": "lahko tudi 'zvitih načrtov' — beseda pomeni načrt, po navadi zloben"
+    }
+  ],
+  "translation": "Dobri človek pridobi naklonjenost od Jahveja, človek pa zlobnih načrtov bo obsojen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/12\/1-4.1792435924841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobri"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "človek pridobi"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "naklonjenost"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahveja"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "človek pa"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "zlobnih načrtov"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "bo obsojen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:04.843558084Z",
+  "model": "glm-5.3"
+}

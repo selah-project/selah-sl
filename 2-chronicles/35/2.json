@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 35:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Osebkov zaimek je dodan, ker ga hebrejščina nosi v glagolu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "okrepil",
+      "rationale": "ויחזקם je dobesedno 'jih naredil močne'; 'spodbudil' bi bil interpretacija."
+    }
+  ],
+  "translation": "In postavil je duhovnike na njihova stražarska mesta in jih okrepil za službo hiše Jahvejeve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/35\/1-4.1792438953911.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "In postavil je"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovnike"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משמרותם",
+      "gloss": "njihova stražarska mesta"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "in jih okrepil"
+    },
+    {
+      "surface": "לעבודת",
+      "gloss": "za službo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejeve"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:33.912125266Z",
+  "model": "glm-5.3"
+}

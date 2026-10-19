@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je dih\/grlo\/življenjska sila, ne nesmrtna duša"
+    },
+    {
+      "kind": "crux",
+      "subject": "רזון",
+      "rationale": "hapax 'tankost\/sušnost': shujšanost (kazen s pctom) ali duhovna osiromašenost"
+    }
+  ],
+  "translation": "In dal jim je njihovo prošnjo, poslal pa je sušnost v njihovo dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/13-16.1792435406753.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "in dal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "njihovo prošnjo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "poslal pa je"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "sušnost"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "v njihovo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:26.754898675Z",
+  "model": "glm-5.3"
+}

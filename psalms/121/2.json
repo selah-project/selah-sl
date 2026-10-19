@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Moja pomoč je od Jahveja, delavca neba in zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/121\/1-4.1792435559779.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Moja pomoč"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "delavca"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "in zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:59.780209524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ונתתי פני בכם",
+      "rationale": "dobesedno 'postavil bom svoje obličje na\/vás' — idiom sovražnega obračanja, prevedeno 'proti vam'"
+    },
+    {
+      "kind": "addition",
+      "subject": "čeprav",
+      "rationale": "hebrejščina pravi le 'in ni', veznik 'čeprav' dodan v slovenščini za razumevanje"
+    }
+  ],
+  "translation": "In postavil bom svoje obličje proti vam, in padali boste pred svojimi sovražniki, in vladali bodo nad vami tisti, ki vas sovražijo, in bežali boste, čeprav ni nobenega, ki bi preganjal ⟨את⟩ vas.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/26\/17-20.1792424629802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "in postavil bom"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svoje obličje"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "proti vam"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "in padali boste"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "svojimi sovražniki"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "in vladali bodo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nad vami"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "tisti, ki vas sovražijo"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "in bežali boste"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "čeprav ni"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ki bi preganjal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    }
+  ],
+  "timestamp": "2026-10-19T15:43:49.803362016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 33:13",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bil \/ pravi",
+      "rationale": "slovenščina potrebuje pomožnik 'bil' in maziljenec 'pravi' za poudarčni stavek brez glagola (הוא האלהים), hebrejščina glagola nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "uslišan",
+      "rationale": "ויעתר pomeni dobesedno 'kaditi\/posredovati'; tu vzajemno 'biti uslišan'"
+    },
+    {
+      "kind": "elision",
+      "subject": "hebrejski člen הָ",
+      "rationale": "האלהים ima člen, slovenščina ga ne izrazi"
+    }
+  ],
+  "translation": "In molil je k njemu, in ⟨bil⟩ je uslišan, in uslišal je njegovo prošnjo, in vrnil ga je v Jerušalajim v njegovo kraljestvo; in Menaše je spoznal, da Jahve — on je ⟨pravi⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/33\/13-16.1792438925721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "molil je"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "uslišan je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uslišal je"
+    },
+    {
+      "surface": "תחנתו",
+      "gloss": "njegovo prošnjo"
+    },
+    {
+      "surface": "וישיבהו",
+      "gloss": "vrnil ga je"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jerušalajim"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "v njegovo kraljestvo"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "spoznal je"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:05.723900986Z",
+  "model": "glm-5.3"
+}

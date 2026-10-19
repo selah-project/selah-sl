@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 9:34",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrejska predpozicija pred 'prisluhnili' se v slovenščini stapanja z glagolom in ne nosi svoje besede."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה ostaja Tora, ne 'postava' (D2)."
+    }
+  ],
+  "translation": "In ⟨את⟩ naše kralje, naše kneze, naše duhovnike in naše očete niso opravljali tvoje Tore in niso prisluhnili tvojim zapovedim in tvojim pričevanjem, ki si jih pričeval proti njim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "312c281a512d87c77cca641c60289677f61b5d9d584a10fe5e581e18eb3ed82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/9\/33-36.1792437893452.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "naše kralje"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "naše kralje"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "naše kneze"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "naše duhovnike"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "in naše očete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "so opravljali"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvoje Tore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "so prisluhnili"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvojim zapovedim"
+    },
+    {
+      "surface": "ולעדותיך",
+      "gloss": "in tvojim pričevanjem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העידת",
+      "gloss": "si pričeval"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "proti njim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:53.453773369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je vladal",
+      "rationale": "hebrejščina ima samo infinitiv ומשל, slovenščina potrebuje glagol s predhodnim subjektom iz prejšnjega verza"
+    }
+  ],
+  "translation": "in pa gori Herman in Salhi in vsem Bašanu do meje Gešurcev in Maakahcev, in polovica Gilada, meja Sihona, kralja Hešbona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3de8f4b4d1bb35b97a7b2d649fa6b7d90f0d99a6e05619671e9e633f8bf8f958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/12\/5-8.1792426659566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "je vladal"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "v gori"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Herman"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "in v Salhi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "in v vsem"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašanu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meje"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gešurcev"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "in Maakahcev"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "in polovica"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meja"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hešbona"
+    }
+  ],
+  "timestamp": "2026-10-19T16:17:39.567415520Z",
+  "model": "glm-5.3"
+}

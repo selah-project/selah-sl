@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "להם",
+      "rationale": "hebrejski idiom »šli so ⟨sebi⟩« = odšli so; slovenščina ga ne potrebuje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tordejmat",
+      "rationale": "תרדמה glosovana po zvoku — ne običajno spanje, ampak božja globoka omamica (prim. 1 Mz 2,21)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואין × 3",
+      "rationale": "trojna negacija »ni videl · ni vedel · ni se zbudil« — retorični ritem, ohranjen"
+    }
+  ],
+  "translation": "In David je vzel ⟨את⟩ kopje in ⟨את⟩ skodelico vode od Šaulove vzglavice, in odšla sta; in ni bilo nikogar, ki bi videl, in nikogar, ki bi vedel, in nikogar, ki bi se zbudil, kajti vsi so spali, kajti tordejmat Jahve je padla nanje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/26\/9-12.1792428076485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "in je vzel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopje"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "kopje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "skodelico"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "skodelico"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "od vzglavice"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "in odšla sta"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni bilo nikogar"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ki bi videl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in nikogar"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ki bi vedel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in nikogar"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "ki bi se zbudil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "so spali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "tordejmat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "je padla"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nanje"
+    }
+  ],
+  "timestamp": "2026-10-19T16:41:16.486295328Z",
+  "model": "glm-5.3"
+}

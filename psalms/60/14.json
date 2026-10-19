@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "junaštvo",
+      "rationale": "חיל je moč, sila, vojska; 'junaštvo' po KJV tradiciji."
+    },
+    {
+      "kind": "crux",
+      "subject": "צרינו",
+      "rationale": "koren צר: 'naše stiske\/stiskovalci' (stiska) ali 'naši nasprotniki' (oseba)."
+    }
+  ],
+  "translation": "Z Elohim bomo storili junaštvo, in on bo poteptal ⟨את⟩ naše stiskovalce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/13-14.1792434913194.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Z Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bomo storili"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "junaštvo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "bo poteptal"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "⟨את⟩ naše stiskovalce"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:13.195598427Z",
+  "model": "glm-5.3"
+}

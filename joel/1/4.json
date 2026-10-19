@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "gazam \/ arbeh \/ jelek \/ hasil",
+      "rationale": "štiri imenovane vrste kobilic: prevajalci se razhajajo — four locust species vs. razvojne stopnje ene vrste vs. simbolična štiri kraljestva; zato so imena prenesena po zvoku"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גזם (gazam)",
+      "rationale": "gazam se v Tanahu pojavi samo tu in v Amošu 4,9 kot vrsta kobilice"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכל \/ יתר",
+      "rationale": "trojna veriga 'ostanek … je pojedel' — naraščajoči ritem uničenja je ohranjen"
+    }
+  ],
+  "translation": "Ostanek gazama je pojedel arbeh, in ostanek arbeha je pojedel jelek, in ostanek jelka je pojedel hasil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/1\/1-4.1792433922677.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ostanek"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazama"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "je pojedel"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "in ostanek"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeha"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "je pojedel"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "jelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "in ostanek"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "jelka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "je pojedel"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:42.681056740Z",
+  "model": "glm-5.3"
+}

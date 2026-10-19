@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "odpri",
+      "rationale": "Hebrejščina postavi glagol pred osevek; slovenščina dodaja druga osebna obliko iz vljudnostnega obračala na Adonaj"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "šfataj \/ pi",
+      "rationale": "zaporedje ustnice–usta, parné odpiranje pred oznanjanjem hvale"
+    }
+  ],
+  "translation": "Adonaj, ⟨odpri⟩ moje ustnice, in moja usta bodo oznanjala tvojo hvalo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/51\/17-20.1792434865838.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "moje ustnice"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "⟨odpri⟩"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "in moja usta"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bodo oznanjala"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvojo hvalo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:25.839326405Z",
+  "model": "glm-5.3"
+}

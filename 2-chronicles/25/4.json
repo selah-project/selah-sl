@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 25:4",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sinov⟩",
+      "rationale": "zgrešen označevalec — odpravi se; oklepaja v prevodu ne sme biti, את je vezan na njihovih sinov na začetku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zaradi",
+      "rationale": "hebrejski על pomeni dobesedno 'nad\/zaradi'; slovenščina 'zaradi' izraža razlog namesto bremena."
+    },
+    {
+      "kind": "crux",
+      "subject": "5 Mz 24,16",
+      "rationale": "citati iz Mošejeve knjige prepovedujejo kolektivno kazen; Amacjáhu ravna po njej — usklajenost z dvojno zvestobo."
+    }
+  ],
+  "translation": "A ⟨את⟩ njihovih sinov ni usmrtil, kajti kot je zapisano v Tori, v Mošejevi knjigi, ki jo je Jahve zapovedal, ko je rekel: Ne bodo umrli očetje zaradi sinov in sinovi ne bodo umrli zaradi očetov, kajti vsak človek bo umrl zaradi lastnega greha ⟨sinov⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/25\/1-4.1792438760887.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njihovih sinov"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "njihovih sinov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "המית",
+      "gloss": "usmrtil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kot je zapisano"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "v Tori"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v knjigi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošejevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovedal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko je rekel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bodo umrli"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "očetje"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bodo umrli"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "očetov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak človek"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "zaradi lastnega greha"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bo umrl"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:20.889803399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula between כי טוב and Jahve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "hesed as loanword instead of 'milost'; one word covers zvestoba, dobrota, milost"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Hvalite Jahveja",
+      "rationale": "imperative opening summons the community to thanksgiving"
+    }
+  ],
+  "translation": "Hvalite Jahveja, ker ⟨je⟩ dober, ker za vedno traja njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/1-4.1792435404958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dober"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:24.959512157Z",
+  "model": "glm-5.3"
+}

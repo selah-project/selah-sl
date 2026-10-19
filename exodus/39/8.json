@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hosen",
+      "rationale": "חושן je naprsnik; oblika besede je opačna (morda 'vrečka' za Urim in Tumim)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשב\/חשן",
+      "rationale": "חשב (načrtovati, prediti) in חשן (naprsnik) — zvočna bližina dveh korenov v istem verzu."
+    }
+  ],
+  "translation": "In naredil je ⟨את⟩ hosen, delo načrtovalca, kakor delo efoda: zlato, tehelet in argaman in škrlat (tola šani) in predeno-belo platno.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b25c1d9e1fcdce3a80ba059085dd3e5825b3e8a64a118f34b32572c6f82113a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/39\/5-8.1792423884223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in naredil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "načrtovalca"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kakor delo"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tehelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "in argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "in tolа"
+    },
+    {
+      "surface": "שני",
+      "gloss": "škrlat"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "in belo platno"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "predeno"
+    }
+  ],
+  "timestamp": "2026-10-19T15:31:24.224536422Z",
+  "model": "glm-5.3"
+}

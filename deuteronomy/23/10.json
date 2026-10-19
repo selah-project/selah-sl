@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ki je huda",
+      "rationale": "Hebrew adjective follows the noun; relative pronoun ki supplied by Slovene"
+    },
+    {
+      "kind": "you",
+      "subject": "do tabora Izraela",
+      "rationale": "second-person address, camp purity laws"
+    }
+  ],
+  "translation": "Ko tabor izide proti tvojim sovražnikom, se varuj pred vsako rečjo, ki je huda.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9b55af029a8a253a45966d52a914dde1d2e9d31bc2d656afd3a1ae48022c18de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/23\/9-12.1792426136878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izide"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvojim sovražnikom"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "se varuj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pred vsako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rečjo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ki je huda"
+    }
+  ],
+  "timestamp": "2026-10-19T16:08:56.879664546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "in jaz vam ne bom ⟨tisti, ki je⟩",
+      "rationale": "עֶהְיֶה לָכֶם brez Imena: 'ne bom vam' (JPS\/YLT) vs 'ne bom vaš Elohim' (KJV dodaja Bog); hebrejščina tukaj namreč izpušči ime — bralcem Hoseovega časa je odmevalo 'ani lo ehyeh lahem' kot odpor na 'jaz sem' besede."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לֹא עַמִי",
+      "rationale": "Lo-Amí = 'ne-moje-ljudstvo'; enaka beseda kot v sodbi v 1. osebi — ime je izrek, ne le ime."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tisti, ki je⟩",
+      "rationale": "slovenščina za glagol brez predikata potrebuje dopolnilo; hebrejščina pušča אֶהְיֶה brez imenovalnika."
+    }
+  ],
+  "translation": "In rekel je: Pokliči njegovo ime Lo-Amí, kajti vi niste moje ljudstvo, in jaz vam ne bom ⟨tisti, ki je⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0b80b7aeffca42215d533f24984fc8f564c28384dc661b562b9e97a36af51b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/1\/9-9.1792433766433.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Pokliči"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Amí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moje ljudstvo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bom"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:06.434678241Z",
+  "model": "glm-5.3"
+}

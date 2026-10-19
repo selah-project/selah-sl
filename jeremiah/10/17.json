@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה (pakovanje, tovor) se v Tanahu pojavi samo tu."
+    },
+    {
+      "kind": "crux",
+      "subject": "במצור",
+      "rationale": "„v obleganju« ali „v utrjenem mestu« (geneva) — מצור pomeni oba pomena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pod obleganjem",
+      "rationale": "hebrejščina stavi samostalnik brez predloga, slovenščina doda odnos."
+    }
+  ],
+  "translation": "Poberi iz dežele svoje pakovanje, ki prebivaš pod obleganjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/10\/17-20.1792431205966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "Poberi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "svoje pakovanje"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ki prebivaš"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "pod obleganjem"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:25.967496914Z",
+  "model": "glm-5.3"
+}

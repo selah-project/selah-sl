@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina nimа future kopule; slovenščina jo potrebuje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "človeka",
+      "rationale": "האדם je »človek« kot vrsta — stisk zadene vse človeštvo, ne posameznika"
+    }
+  ],
+  "translation": "In stisnil bom ⟨את⟩ človeka, in hodili bodo kakor slepci, ker so grešili proti Jahveju, in njihova kri bo izlita kakor prah, njihovo meso kakor gnoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a9de43d14f3b5d3b640c983198563c7e76fa6c75cad4b22e3bdaa795f9eccf35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zephaniah\/1\/17-18.1792434270758.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "in stisnil bom"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "in hodili bodo"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "kakor slepci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "proti Jahveju"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "so grešili"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "in izlita bo"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "njihova kri"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kakor prah"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "njihovo meso"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "kakor gnoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:30.758728189Z",
+  "model": "glm-5.3"
+}

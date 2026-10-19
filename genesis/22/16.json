@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בי",
+      "gloss": "בי: 'pri meni' (Jahve) ali pomožni 'prosila bih'; KJV 'by myself'."
+    },
+    {
+      "kind": "elision",
+      "subject": "יען אשר",
+      "rationale": "Dvojni povzročni veznik ('zato ker ki') v slovenščini zahtema en sam 'ker'."
+    }
+  ],
+  "translation": "in rekel: Prisegel sem pri sebi, govori Jahve: ker si storil ⟨את⟩ to stvar in nisi prizanesel ⟨את⟩ svojega sina, ⟨את⟩ svojega edinca —",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/22\/13-16.1792422370180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rekel"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pri sebi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisegel sem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יען",
+      "gloss": "zato ker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to stvar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nisi"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "prizanesel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega sina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega edinca"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "edinca"
+    }
+  ],
+  "timestamp": "2026-10-19T15:06:10.182024322Z",
+  "model": "glm-5.3"
+}

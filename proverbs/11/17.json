@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v novozavezniškem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אכזרי",
+      "rationale": "pridevnik 'krut' v pripovedi: kdor vznemirja svoje meso, je krut — ali pa 'kakor krutost' (sopomenski instrumental)"
+    }
+  ],
+  "translation": "Mož, ki stori dobro svoji nefes, ⟨je⟩ hesed; kdor pa vznemirja svoje meso, ⟨je⟩ krutost sama.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e7f1dabe9583a0dd9bff57175df541ac91dc0defd0875cd49ed04434823b423a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/17-20.1792435923233.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "ki stori dobro"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoji nefes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "kdor pa vznemirja"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "svoje meso"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "krutost sama"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:03.234165056Z",
+  "model": "glm-5.3"
+}

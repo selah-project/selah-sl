@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Tasti⟩",
+      "rationale": "אשר relativni veznik, slovenščina potrebuje oziralni zaimek"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mičica",
+      "rationale": "זרוע dobesedno 'iztegnjena roka', lahko tudi 'naglbek'"
+    }
+  ],
+  "translation": "⟨Tisti,⟩ s katerim bo postavljena moja roka, in moja mičica ga bo okrepila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/21-24.1792435238803.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨Tisti,⟩ s katerim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moja roka"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "bo postavljena"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s katerim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "in"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "moja mičica"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ga bo okrepila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:38.804728715Z",
+  "model": "glm-5.3"
+}

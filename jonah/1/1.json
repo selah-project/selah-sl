@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik glagol, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In prišlo je besedo Jahveja k Joni, sinu Amitaje, in ⟨je⟩ rekel:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a98d519c2fa335203127eaaf28ec894ecebff3f3a5cd68fc4aa20334c5f721d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/1\/1-4.1792434080302.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In prišlo je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Joni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitaje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ⟨je⟩ rekel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:20.302996185Z",
+  "model": "glm-5.3"
+}

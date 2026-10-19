@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo tisti \/ ga",
+      "rationale": "Slovenščina potrebuje nakazani osebek in veznik v odvisnem stavku"
+    },
+    {
+      "kind": "crux",
+      "subject": "השדודה",
+      "rationale": "Particij pasiven: 'opustošena \/ tista, ki bo uničena' — naslavljanje Babilona kot obsojenega na propad"
+    },
+    {
+      "kind": "you",
+      "subject": "hči Babela",
+      "rationale": "Neposreden ogovor Babilona, metaforično 'hči' mesta"
+    }
+  ],
+  "translation": "Hči Babela, opustošena, srečen ⟨bo⟩ tisti, ki ti povrni ⟨את⟩ tvoje povračilo, ki si ga storila nam!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/137\/5-8.1792435744197.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Hči"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "opustošena"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "srečen"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ki povrni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje povračilo"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "tvoje povračilo"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "si storila"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:04.198867021Z",
+  "model": "glm-5.3"
+}

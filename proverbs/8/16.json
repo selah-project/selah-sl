@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "brez glagola",
+      "rationale": "second half of the verse has no verb; the 'nobles and judges' simply stand in apposition governed by the opening verb"
+    }
+  ],
+  "translation": "Po meni poglavarji gospodarjujejo in plemiči, vsi sodniki cedeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/13-16.1792435889433.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "po meni"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "poglavarji"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "gospodarjujejo"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "in plemiči"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "sodniki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:29.434677451Z",
+  "model": "glm-5.3"
+}

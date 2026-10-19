@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pašniki",
+      "rationale": "בנאות properly 'homes', figuratively pastures — the flock's settled grazing grounds."
+    },
+    {
+      "kind": "substitution",
+      "subject": "položi ležat",
+      "rationale": "ירביצני is the verb of a recumbent animal crouching with legs folded; causative 'makes me stretch out lying down'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "vodah počitka",
+      "rationale": "מי מנחות 'waters of rest\/repose'; rendered as construct in genitive."
+    }
+  ],
+  "translation": "V pašnikih mlade trave me položi ležat, ob vodah počitka me vodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/23\/1-4.1792434648957.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "V pašnikih"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "mlade trave"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "me položi ležat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vodah"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "počitka"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "me vodi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:48.958751787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 31:27",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "delitev plena",
+      "rationale": "plen se na ukaz deli na dve natanko določeni polovici"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תפשי המלחמה",
+      "rationale": "dobesedno 'tisti, ki držijo\/zajamejo vojno' — dejavni udeleženci boja, ne le 'vojaški možje'"
+    }
+  ],
+  "translation": "In razdeliš ⟨את⟩ plen na polovico med tiste, ki so zajeli vojno, ki so šli v vojsko, in med vso občino.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d429b15ad0f108977781ae15b43b91547ef781aa2deca7dc10fa78e2818b21c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/31\/25-28.1792425487057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחצית",
+      "gloss": "in razdeliš na polovico"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plen"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "plen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "tiste, ki so zajeli"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "vojno"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ki so šli"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "v vojsko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in med"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "občino"
+    }
+  ],
+  "timestamp": "2026-10-19T15:58:07.058031441Z",
+  "model": "glm-5.3"
+}

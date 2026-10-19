@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨da⟩",
+      "rationale": "slovenščina potrebuje veznik pred namenom, ki ga hebrejščina izraža s infinitivom לבנות"
+    }
+  ],
+  "translation": "In rekovali smo: Naredimo si zdaj oltar, ⟨da⟩ zgradimo ⟨את⟩ oltar, ne za žgalno daritev in ne za zakol.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3d758ebc8cab4bdb07db3ce945d89197dfdeaaa363b0eb4ebe45210754f97bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/22\/25-28.1792426853418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "In rekovali smo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "Naredimo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "si"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "zgraditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "za žgalno daritev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "za zakol"
+    }
+  ],
+  "timestamp": "2026-10-19T16:20:53.419962744Z",
+  "model": "glm-5.3"
+}

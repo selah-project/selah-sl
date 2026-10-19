@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hvalili",
+      "rationale": "הלל tu pomeni 'hvaliti\/se hvaliti', ne 'boast' v oholiščnem pomenu"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "glasbeni označbi za pavzo ni slovenskega ustreznika, ostaja kot 'Sela'"
+    }
+  ],
+  "translation": "V Elohimu smo se hvalili ves dan in tvoje ime bomo zahvaljevali za vedno. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/9-12.1792434793160.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "V Elohimu"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "smo se hvalili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "in tvoje ime"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "bomo zahvaljevali"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:13.161450864Z",
+  "model": "glm-5.3"
+}

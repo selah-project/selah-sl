@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaj se dogaja",
+      "rationale": "לֹא יָדַעְתִּי 'nisem vedel' stoji brez predmeta; dodano za berljivost"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "Najhujša težava Pesmi: 'vozovi mojega plemenitega ljudstva', osebno ime 'Ami-Nadiv', ali 'vozovi Amínadiba' (KJV\/LXX)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נֶפֶשׁ je 'dih\/življenjska sila', ne nesmrtna duša"
+    }
+  ],
+  "translation": "Nisem vedel ⟨kaj se dogaja⟩ — moja duša me je postavila na bojne vozove svojega plemenitega ljudstva.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/6\/9-12.1792436843696.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sem-vedel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja-duša"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "me-je-postavila"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "bojne-vozove"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svojega-ljudstva"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "plemenitega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:23.697449772Z",
+  "model": "glm-5.3"
+}

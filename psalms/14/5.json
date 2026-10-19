@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד",
+      "rationale": "Glagol in samostalnik istega korena — »prestrašili so se strahu«, notranja igra besed."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje kopulo, hebrejščina je nima."
+    }
+  ],
+  "translation": "Tam so se prestrašili ⟨strahu⟩, ker je Elohim v rodovi pravičnih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/14\/5-7.1792434556682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "so se prestrašili"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "⟨strahu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "v rodovi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:16.683943593Z",
+  "model": "glm-5.3"
+}

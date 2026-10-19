@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 3:2",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina ima particip brez pomožnega glagola; slovenščina zahteva biti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "priklanjati se",
+      "rationale": "השתחוה je popolna prostacija na tla, ne le priklon."
+    }
+  ],
+  "translation": "In vsi kraljeve služabnike, ki so bili v kraljevih vratih, so pokleknili in se priklanjali Hamanu, kajti tako je kralj zapovedal ⟨zanj⟩; Mordej pa ni klekal in se ni priklanjal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "09d1d5c48ccfff2e2b0f0808e62dc576cde0300eeddb576f305cc864bd5b4a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/3\/1-4.1792437232794.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabniki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v vratih"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevih"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "so pokleknili"
+    },
+    {
+      "surface": "ומשתחוים",
+      "gloss": "in se priklanjali"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovedal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "Mordej pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "klekal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in se ni"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "priklanjal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:52.797523273Z",
+  "model": "glm-5.3"
+}

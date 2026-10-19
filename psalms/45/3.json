@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hen",
+      "rationale": "חן je 'milostljivost, ljubkost, naklonjenost' — puščeno po zvoku, ker ena beseda nosi lepoto in naklonjenost hkrati."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenski glagolski pomočnik, ki ga hebrejščina ne izraža."
+    },
+    {
+      "kind": "you",
+      "subject": "kralju",
+      "rationale": "Neposreden nagovor kralja, ki se začne s tem ver­zom."
+    }
+  ],
+  "translation": "Najlepši si od sinov človeških; vlivan je hen na tvoje ustnice; zato te je Elohim blagoslovil na veke.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/1-4.1792434833167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "najlepši si"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "od sinov"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeških"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "vlivan je"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hen"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "na tvoje ustnice"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato (ob)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ob tem"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "te blagoslovil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:53.169288937Z",
+  "model": "glm-5.3"
+}

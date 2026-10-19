@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נערו",
+      "rationale": "נער je deček\/mladenič, ne služabnik — izogibam 'služabniku'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina potrebuje pomožni glagol, hebrejščina ga izpušča"
+    }
+  ],
+  "translation": "In Šmuel je vzel ⟨את⟩ Šaula in ⟨את⟩ njegovega dekleta ⟨dečka⟩ ter ju pripeljal v dvorano in jim dal mesto na čelu povabljenih; bili ⟨so⟩ kakor trideset mož.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "88561222bcb605aca7e0f93cd2e633a631bca7efc5704c639632b6b6296854e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/9\/21-24.1792427629074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "in vzel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegovega dekleta"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "njegovega dekleta"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "in pripeljal ju"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "v dvorano"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njima"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na čelu"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "povabljenih"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "in oni"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "kakor trideset"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    }
+  ],
+  "timestamp": "2026-10-19T16:33:49.075415075Z",
+  "model": "glm-5.3"
+}

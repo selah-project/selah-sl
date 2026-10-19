@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jih",
+      "rationale": "אותם (z aleph-tav): koga se spomni — ponižne (KJV, YLT) ali prelito kri (JPS 'avengeh blood hath remembered them')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kri",
+      "rationale": "דמים je množina 'krvi' (dami-mi), 'zasledovati krvi' = maščevanje prelite krvi"
+    }
+  ],
+  "translation": "Kajti kdor zasleduje ⟨את⟩ kri, jih je pomnil ⟨se⟩; ni pozabil vpija ponižnih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/13-16.1792434525866.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "zasleduje"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kri"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "je pomnil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "pozabil"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "vpij"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ponižnih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:45.866843411Z",
+  "model": "glm-5.3"
+}

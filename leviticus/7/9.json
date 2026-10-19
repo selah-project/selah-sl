@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה ostaja kot »minha« — dar moke, ne splošnega 'daritve'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרחשת \/ מחבת",
+      "rationale": "dve vrsti posode: kuhana ponvi (מרחשת) in peka plošči (מחבת); razmejitev med prevodi niha"
+    }
+  ],
+  "translation": "In vsaka ⟨minha⟩, ki je pečena v peči, in vsaka, narejena v ponvi ali na plošči, pripada duhovniku, ki jo prinaša ⟨את⟩ — njemu bodi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/9-12.1792423997349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsaka"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "⟨minha⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "je pečena"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "v peči"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsaka"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "narejena"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "v ponvi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ali na"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "plošči"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "duhovniku"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ki prinaša"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bodi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:33:17.349909918Z",
+  "model": "glm-5.3"
+}

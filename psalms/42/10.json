@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "potemnjen",
+      "rationale": "קדר dobesedno 'biti pepelnato temen', žalovati v raševini — 'žalosten' izgubi barvo"
+    },
+    {
+      "kind": "you",
+      "subject": "h k'Elu sel'i — Elu, skali svoji",
+      "rationale": "neposreden nagovor k Elu"
+    }
+  ],
+  "translation": "Rekël bom Elu, skali svoji: Zakaj si me pozabil? Zakaj hodim potemnjen v stiski sovražnika?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/9-12.1792434814757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "rekël"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "skali svoji"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "si me pozabil"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "potemnjen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "hodim"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "v stiski"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnika"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:34.759912059Z",
+  "model": "glm-5.3"
+}

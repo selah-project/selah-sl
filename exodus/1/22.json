@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Slovenščina potrebuje povratni glagol 'se rodi'; hebrejščina ima samo pridevnik 'rojen'."
+    },
+    {
+      "kind": "linguistic-divergence",
+      "subject": "היארה",
+      "rationale": "Določni člen ה plus smerilna končnica ה: 'v (tisto) reko' — Nil poimensko, slovenski instrumental 'v reko' izgubi določnost."
+    }
+  ],
+  "translation": "In Paroh je zapovedal vsemu svojemu ljudstvu rekoč: Vsakega sina, ki se rodi, vrzite v reko, vsako hčer pa pustite živeti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b258e81d015566a98919645efbce63515e3d2b133255fb7d249abb3ba91bf831",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/1\/21-22.1792423009411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "In je zapovedal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsemu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svojemu ljudstvu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakega"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ki se rodi"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "v reko"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "vrzite ga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "vsako"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "hčer"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "pustite živeti"
+    }
+  ],
+  "timestamp": "2026-10-19T15:16:49.412418098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 13:31",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez copule: כי חזק הוא ממנו 'kajti močno je od nas'; הוא poudarja, slovenščina doda glagol."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממנו",
+      "rationale": "Dvojni spol: 'močnejši od nas' (ljudstvo) ali 'močnejša od nje' (dežela); kontekst nakazuje ljudstvo."
+    }
+  ],
+  "translation": "A možje, ki so šli gor z njim, so rekli: Ne moremo iti gor proti temu ljudstvu, kajti močnejše ⟨je⟩ od nas.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/13\/29-32.1792425074772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "A možje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "so šli gor"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z njim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "so rekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "moremo"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "iti gor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "močnejše"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    }
+  ],
+  "timestamp": "2026-10-19T15:51:14.773579662Z",
+  "model": "glm-5.3"
+}

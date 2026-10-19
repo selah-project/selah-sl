@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 10:1",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בוקק",
+      "rationale": "'izpraznjena' (KJV) proti 'bujna, razširjena' (ASV\/JPS) — isti soglasji dovoljujeta oba pomena"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Bujna trta je Jisrael, sad sebi je dal; kakor se je pomnožilo njegovo sadje, je pomnožil oltarje; kakor je dobra njegova dežela, so polepšali macebe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/10\/1-4.1792433934651.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "trta"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "bujna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sad"
+    },
+    {
+      "surface": "ישוה",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "kakor se je pomnožilo"
+    },
+    {
+      "surface": "לפריו",
+      "gloss": "njegovo sadje"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "je pomnožil"
+    },
+    {
+      "surface": "למזבחות",
+      "gloss": "oltarje"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "kakor je dobra"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "njegova dežela"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "so polepšali"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "macebe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:54.653385968Z",
+  "model": "glm-5.3"
+}

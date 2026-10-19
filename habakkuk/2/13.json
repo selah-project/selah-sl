@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga v vprašanju nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדי אש",
+      "rationale": "'za ogenj' (trud za ogenj, ki požre delo) proti 'v ognju'; ASV\/KJV razhajanje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בדי…בדי",
+      "rationale": "Ponavljena zveza בדי gradi vzporednico ogenj\/praznina."
+    }
+  ],
+  "translation": "Ali glej, ⟨je⟩ to od ⟨את⟩ Jahveja Cebaot: ljudstva se bodo trudila za ogenj, in narodi se bodo izčrpavala za praznino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "218762e25dcd6fd7df4556953228a5a330ff61ec62eea356885682f179ecedd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/2\/13-16.1792434253069.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "se bodo trudila"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "in narodi"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "za"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "praznino"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "se bodo izčrpavala"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:13.071220929Z",
+  "model": "glm-5.3"
+}

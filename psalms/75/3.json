@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mo'ed",
+      "rationale": "KJV 'prejemem zbor' (mo'ed kot shod) proti 'najdem določeni čas' (JPS\/BSB); mo'ed je določen čas ali shod."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ani ... ašpot",
+      "rationale": "Poudarjeni 'jaz, jaz' (ani) v hebrejščini dajawk; oklepaji ⟨jaz⟩ kažejo dodani poudarek v slovenščini."
+    }
+  ],
+  "translation": "Ko ⟨jaz⟩ vzamem določeni čas, ⟨jaz⟩ po ravnosti sodim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/75\/1-4.1792435124192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "vzamem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "določeni čas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨jaz⟩"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "po ravnosti"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "sodim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:44.193605010Z",
+  "model": "glm-5.3"
+}

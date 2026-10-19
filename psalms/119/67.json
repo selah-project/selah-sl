@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אענה",
+      "rationale": "ענה II 'biti ponižan\/trpljen' (KJV 'afflicted') je tu prevzet po tradicionalni razlagi; glagol sicer pomeni 'odgovarjati' (ענה I), a tu vlada različica o trpljenju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpolnjeval",
+      "rationale": "שמר je dobesedno 'varoval, obdajal s stražo'; 'izpolnjevati' je vloga, ne podoba"
+    }
+  ],
+  "translation": "Prej, preden sem bil ponižan, sem taval; zdaj pa tvojo besedo sem izpolnjeval.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/65-68.1792435495843.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "prej, preden"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "sem bil ponižan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "taval"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zdaj pa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvojo besedo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "sem izpolnjeval"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:55.843958159Z",
+  "model": "glm-5.3"
+}

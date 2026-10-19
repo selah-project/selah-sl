@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאת",
+      "rationale": "naša'ita dobesedno 'dvignil\/nesel'; lahko 'odvzel' (odpuščanje) ali 'nosil' (Jahve nosi krivdo) — izbrano 'dvignil'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krivdo",
+      "rationale": "עון in חטאת sem izenačil; hebrejščina loči 'perversnost' in 'pregreho', slovenska ponovitev je kompromis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Selá",
+      "rationale": "glazbeni oznaki za premor ni slovenskega ekvivalenta; pustil sem jo kot zvočno obliko"
+    }
+  ],
+  "translation": "Dvignil si krivdo svojega ljudstva, pokril si vso njihovo krivdo. Selá.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/1-4.1792435169583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "dvignil si"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivdo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svojega ljudstva"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "pokril si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "njihovo krivdo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:29.584984120Z",
+  "model": "glm-5.3"
+}

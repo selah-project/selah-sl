@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 4:17",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש שלחו המים",
+      "rationale": "JPS bere »vsak, ki je šel k vodi, je nosil orožje«; dobesedno pa »vsak — svojo sulico — voda«, torej sulica ob vodi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פשטים בגדינו",
+      "rationale": "פשט pomeni razprostri\/razoroži, tu »sleči« — nihče ni vzel oblačil s sebe, slovenščina potrebuje glagol »slekli«."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואין",
+      "rationale": "Dvojna negacija ואין … אין (»in ni … ne«) se v slovenščini stisne v eno nikalno konstrukcijo."
+    }
+  ],
+  "translation": "In jaz, moji bratje, moji mladeniči in možje straže, ki so ⟨bili⟩ za mano — vsi smo slekli svojih oblačil; vsak je imel svoje sulico ⟨pri⟩ vodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f9519dbd50501233146a8189dabccccc38a30f3ad296efe85560628bcb5b4a73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/4\/17-17.1792437792032.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "in nihče"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "in moji bratje"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "moji mladeniči"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "המשמר",
+      "gloss": "straže"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za mano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פשטים",
+      "gloss": "slekli"
+    },
+    {
+      "surface": "בגדינו",
+      "gloss": "svojih oblačil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "svoje sulice"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    }
+  ],
+  "timestamp": "2026-10-19T19:23:12.033391830Z",
+  "model": "glm-5.3"
+}

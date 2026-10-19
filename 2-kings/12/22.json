@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יוזבד\/יהוזבד",
+      "rationale": "Dva atakovana ubojica z istim imenom (Jozabad \/ Jehozabad) — ponovitev imena se v slovenščini izgubi."
+    },
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Dvojina: hebrejščina ločuje dvojino, slovenščina jo izraža z glagolsko obliko 'sta'."
+    }
+  ],
+  "translation": "Jozabad, sin Šimat, in Jehozabad, sin Šomer, njegova služabnika, sta ga udarila ⟨את⟩ in umrl je; in pokopali so ga z njegovimi očeti v mestu Davidovem, in Amacja, njegov sin, je kraljeval namesto njega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/12\/21-22.1792429585385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Jozabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Šimat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "in Jehozabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Šomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "njegova služabnika"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "sta ga udarila"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "in umrl je"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "in pokopali so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga (Joaša)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "njegovimi očeti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovem"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in kraljeval je"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amacja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    }
+  ],
+  "timestamp": "2026-10-19T17:06:25.386450177Z",
+  "model": "glm-5.3"
+}

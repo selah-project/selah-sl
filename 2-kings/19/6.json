@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 19:6",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jim⟩",
+      "rationale": "slovenščina za poudarek veznika z ḥulam potrebuje poudarjeni dajalnik, hebrejščina ima samo končnico"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladenči",
+      "rationale": "נערי je dobesedno 'fantje, mladeni' — angleške različice 'servants\/servants' vpišejo vlogo"
+    },
+    {
+      "kind": "you",
+      "subject": "Hizkija",
+      "rationale": "preroška beseda prek hlapcev neposredno nagovarja kralja: 'ne boj se'"
+    }
+  ],
+  "translation": "In Ješaj je rekel ⟨jim⟩: Tako boste rekli svojemu gospodu: Tako govori Jahve: Ne boj se besed, ki si jih slišal, s katerimi so zmerjali ⟨את⟩ mene mladenči kralja Ašurja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "44ffc4f3c25a5f289a3a32de156a38380a29d8bb588ad69fb5bc5518f71c5fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/19\/5-8.1792429735184.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨jim⟩"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješaj"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "boste rekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojemu"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "gospodu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "besedami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si jih slišal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s katerimi"
+    },
+    {
+      "surface": "גדפו",
+      "gloss": "so zmerjali"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mladenči"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašurja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mene"
+    }
+  ],
+  "timestamp": "2026-10-19T17:08:55.185499251Z",
+  "model": "glm-5.3"
+}

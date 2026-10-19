@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sijaj",
+      "rationale": "הוד je veličastnost, impozantna oblika; JPS 'vigour', KJV 'honour' — izbrana dobesedna slika"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאחרים",
+      "rationale": "dvojina množice 'drugim\/tujim' — okrnjeno v 'tujcem'"
+    }
+  ],
+  "translation": "da ne bi dal svojega sijaja tujcem in svojih let krutemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/9-12.1792435812209.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "tujcem"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "svojega sijaja"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "in svojih let"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "krutemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:12.209697054Z",
+  "model": "glm-5.3"
+}

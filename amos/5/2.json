@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 5:2",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik glagol, hebrejščina ga nima."
+    },
+    {
+      "kind": "idiom",
+      "subject": "devica Jisraela",
+      "rationale": "בתולת ישראל je metafora ljudstva kot nedotaknjene device; padec device je dvojni pokon."
+    }
+  ],
+  "translation": "Padla je, ne bo več vstala, devica Jisraela; zavržena je na svojo zemljo, ni ⟨je⟩ nobene, ki bi ⟨jo⟩ dvignila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/1-4.1792433996200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "Padla je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "več"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vstala"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "devica"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "נטשה",
+      "gloss": "zavržena je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתה",
+      "gloss": "svojo zemljo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מקימה",
+      "gloss": "ki bi dvignila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:56.201678801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti v drugem stavku; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מים … נחל … מקור",
+      "rationale": "Verz teče na eni vodni sliki: globoka voda — hudournik — izvir; vzporednica ust\/človek ↔ izvir\/modrost."
+    }
+  ],
+  "translation": "Globoke vode so besede človekovih ust, potok, ki izvira, ⟨je⟩ vir modrosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/18\/1-4.1792435986817.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "globoke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ust"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "ki izvira"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "vir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:06.820063801Z",
+  "model": "glm-5.3"
+}

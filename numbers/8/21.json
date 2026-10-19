@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 8:21",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויתחטאו",
+      "rationale": "hitpael 'skesali so se' — čistilni obred, ne čustveno kesanje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויכפר",
+      "rationale": "kafar dobesedno 'pokriti'; slovensko 'pokril' ohranja sliko, običajno 'naredil pokoro'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכפר\/לטהרם",
+      "rationale": "koper\/taher — dvojica pokriti\/očistiti zapeta verz"
+    }
+  ],
+  "translation": "Leviti so se očistili greha in oprali svoja oblačila, in Aharon jih je zamašal ⟨את⟩ kot daritev zibanja pred Jahvejem, in Ahron je nad njimi pokril ⟨je⟩, da jih očisti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0f389608df61852a39987c60aaeb26ec326bf6c0b3578181dc73fcd9af3bfb90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/8\/21-24.1792424912826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחטאו",
+      "gloss": "so se očistili greha"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviti"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "in oprali"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "svoja oblačila"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "in zamašal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kot daritev zibanja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "ויכפר",
+      "gloss": "in pokril"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לטהרם",
+      "gloss": "da jih očisti"
+    }
+  ],
+  "timestamp": "2026-10-19T15:48:32.827297643Z",
+  "model": "glm-5.3"
+}

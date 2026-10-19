@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je postalo",
+      "rationale": "slovenščina potrebuje glagolsko vez, hebrejščina ima samo pridevnik חם"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חם ... תבער אש",
+      "rationale": "veriga vročina–ogenj gradi vzporedje z molkom iz vv. 2–3; ogenj govora prekine tišino"
+    }
+  ],
+  "translation": "Vroče je postalo moje srce v moji notranjosti; med mojim razmišljanjem je zagorel ogenj — govoril sem s svojim jezikom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/39\/1-4.1792434825014.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Vroče je postalo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mogne srce"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "v moji notranjosti"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "med mojim razmišljanjem"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "je zagorel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "govoril sem"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "s svojim jezikom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:45.016446802Z",
+  "model": "glm-5.3"
+}

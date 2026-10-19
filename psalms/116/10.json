@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kajti govorim",
+      "rationale": "כי אדבר: 'zato sem govoril' (KJV), 'kajti govorim' (YLT) ali 'ko govorim' (JPS 'tudi ko sem govoril')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prizadet",
+      "rationale": "עניתי iz ענה 'biti prizadet\/ponižan', dobesedno 'bil sem potrjen' — ⟨bil⟩ je dodan, ker hebrejščina nima sedanjika 'biti'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jaz",
+      "rationale": "אני je v hebrejščini poudarjeni 'jaz, prav jaz'; ⟨jaz⟩ stoji za njim"
+    }
+  ],
+  "translation": "Verjel sem, kajti govorim ⟨jaz⟩; ⟨bil⟩ sem zelo prizadet.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/116\/9-12.1792435437142.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Verjel sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨jaz⟩"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "prizadet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:57.143760290Z",
+  "model": "glm-5.3"
+}

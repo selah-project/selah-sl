@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oven",
+      "rationale": "איל je v žrtvenem sobesedilu oven (samec drobnice), ne jelen, čeprubar isti leksem pomeni tudi jelena."
+    },
+    {
+      "kind": "elision",
+      "subject": "krivda \/ daritev za krivdo",
+      "rationale": "אָשָׁם pomeni hkrati krivdo in daritev zanjo; slovenščina potrebuje dve besedi."
+    }
+  ],
+  "translation": "In prinesel bo ⟨את⟩ svojo krivdo Jahveju, k vhodu šotora srečanja, ovna za krivdo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d5c3c03c5064853e2b978b3920e40615abbba0f2e52103a27c58f8a642cd3002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/19\/21-24.1792424402807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "in prinesel bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo krivdo"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svojo krivdo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vhodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šotora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "srečanja"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "za krivdo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:02.807987095Z",
+  "model": "glm-5.3"
+}

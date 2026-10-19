@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 29:28",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "הנסתרת",
+      "rationale": "klasični verz o skritem, ki pripada Jahveju, proti razodetemu, ki pripada ljudstvu."
+    },
+    {
+      "kind": "mystery",
+      "subject": "skrito\/razodeto",
+      "rationale": "verz črta mejo med zakrito pri Elohimu in odprto besedo za ljudstvo."
+    },
+    {
+      "kind": "you",
+      "subject": "nam in našim sinovom",
+      "rationale": "prvoosebni množinski naslov — govor vključuje poslušalce in njihove potomce."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol 'biti'; hebrejščina ima samo deležnika."
+    }
+  ],
+  "translation": "Skrito ⟨je⟩ Jahveju, Elohimu našemu; razodeto ⟨je⟩ pa nam in našim sinovom do večnosti, da bi delali ⟨את⟩ vse besede te Tore.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/29\/25-28.1792426290292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנסתרת",
+      "gloss": "skrito"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu našemu"
+    },
+    {
+      "surface": "והנגלת",
+      "gloss": "razodeto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ולבנינו",
+      "gloss": "in našim sinovom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da bi delali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse besede te Tore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-10-19T16:11:30.293351128Z",
+  "model": "glm-5.3"
+}

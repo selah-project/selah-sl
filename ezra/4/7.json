@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 4:7",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pismo⟩",
+      "rationale": "Hebrejščina glagol 'pisali' veže na osebe; predmet pisma je v slovenščini dodan."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je bilo⟩",
+      "rationale": "Slovenščina zahteva komplement 'biti', ki ga hebrejščina izpušča."
+    },
+    {
+      "kind": "crux",
+      "subject": "aramejsko in razloženo aramejsko",
+      "rationale": "Ponovitev ארמית: pisano v aramejski pisavi in razloženo v aramejskem jeziku (JPS) ali enostavno podvojitev."
+    }
+  ],
+  "translation": "In v dneh Artahšaste so napisali Bišlam, Mitredat, Tavel in preostali njegovi tovariši ⟨pismo⟩ zoper Artahšasto, kralja Parasa; pismo ⟨je bilo⟩ napisano aramejsko in razloženo aramejsko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/4\/5-8.1792437660779.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "in v dneh"
+    },
+    {
+      "surface": "ארתחששתא",
+      "gloss": "Artahšaste"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "so napisali"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Bišlam"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "Mitredat"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tavel"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "in preostali"
+    },
+    {
+      "surface": "כנותו",
+      "gloss": "njegovi tovariši"
+    },
+    {
+      "surface": "על",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "ארתחששתא",
+      "gloss": "Artahšasto"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parasa"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "in pismo"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "pismo ⟨je bilo⟩"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "napisano"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "aramejsko"
+    },
+    {
+      "surface": "ומתרגם",
+      "gloss": "in razloženo"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "aramejsko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:00.783150212Z",
+  "model": "glm-5.3"
+}

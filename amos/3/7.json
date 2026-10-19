@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "sod — tajni svet\/delo sveta, razkrito prerokom; temeljni verz o skritem in razodetem"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "'kajti če' v negacijski strukturi pomeni 'razen če \/ ampak da'"
+    },
+    {
+      "kind": "addition",
+      "subject": "סודו z את",
+      "rationale": "hebrejščina tu nima ločenega את; ⟨את⟩ označuje dobesedno zvestobo odnosu do neposrednega predmeta"
+    }
+  ],
+  "translation": "Kajti Adonaj Jahve ne stori besede, razen če razkrije ⟨את⟩ svojo skrivnost svojim služabnikom prerokom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/3\/5-8.1792433982801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "stori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "razen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "razkrije"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "⟨את⟩ svojo skrivnost"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "služabnikom"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "prerokom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:42.803258467Z",
+  "model": "glm-5.3"
+}

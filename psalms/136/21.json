@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד iz Tipsaws discipline: hesed, ne milost"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti v refrainu"
+    }
+  ],
+  "translation": "in je dal njihovo deželo v dediščino, kaj do vekomaj je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "84291bdc12c4bc9b8d48626687e4bf38fb00762379d8cdb3e254505699c1a9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/21-24.1792435576626.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "njihovo deželo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "v dediščino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "do vekomaj"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "je njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:16.626615784Z",
+  "model": "glm-5.3"
+}

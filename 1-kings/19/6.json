@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רצפים",
+      "rationale": "רֶצֶף (razpaline) se v Tanahu pojavi le še v Jes 30,14."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oglata poga",
+      "rationale": "עֻגָּה je okrogla poga, spečena v pepelu ali na razpalini."
+    }
+  ],
+  "translation": "In pogledal je, in glej, pri njegovi vzglavici oglata poga, na razpalini spečena, in čaša vode; in jedel je in pil ter se vrnil in legel.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/19\/5-8.1792429190239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "in pogledal je"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "pri njegovi vzglavici"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "oglata poga"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "na razpalini spečena"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "in čaša"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "in jedel je"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "in pil"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in se vrnil"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "in legel"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:50.239971477Z",
+  "model": "glm-5.3"
+}

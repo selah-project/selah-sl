@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga v vprašanju nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקחה \/ יקחנה",
+      "rationale": "Isti glagol לקח na začetku in koncu verza — 'je ni vzel … drug jo bo vzel' — zanka, ki v slovenščini ostane."
+    }
+  ],
+  "translation": "In kateri ⟨je⟩ človek, ki se je zaročil z ženo in je ni vzel? Naj gre in se vrne v svojo hišo, da ne bi umrl v bitki in drug človek ⟨ne⟩ vzel njo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "44fbbefaf2624ca7be5dc582a9a8b67eaa6360ef8a855ab76ba9397e08642d94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/20\/6-8.1792433338103.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "In kateri"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "se je zaročil"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "z ženo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "je vzel njo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "naj gre"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in se vrne"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "v svojo hišo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umrl"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v bitki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in človek"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drug"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "vzel njo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:58.104622826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hasidi",
+      "rationale": "חסידיך — 'tvoji zvesti\/pobožni'; 'svetniki' (KJV) vpelje poznejši pojem."
+    },
+    {
+      "kind": "crux",
+      "subject": "יודוך",
+      "rationale": "juda 'priznavati\/hvaliti' — YLT 'confess', KJV 'praise'; večina: hvaliti."
+    }
+  ],
+  "translation": "Hvalili te bodo, Jahve, vsa tvoja dela, in tvoji hasidi te blagoslavljajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/9-12.1792435702891.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "hvalili te bodo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvoja dela"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "in tvoji hasidi"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "te blagoslavljajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:22.893515190Z",
+  "model": "glm-5.3"
+}

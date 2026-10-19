@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "izlij",
+      "rationale": "שפך je dobesedno 'razliti' (kri, tekočino); slikovit prenos na jezo."
+    },
+    {
+      "kind": "elision",
+      "subject": "בשמך",
+      "rationale": "Hebrejščina ima 'v tvojem imenu' (prislovno ב); slovenščina potrebuje rodilnik 'tvojega imena'."
+    }
+  ],
+  "translation": "Izlij svojo jezo nad narode, ki te ne poznajo, in nad kraljestva, ki tvojega imena ne kličejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/79\/5-8.1792435175123.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "izlij"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "svojo jezo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "te poznajo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kraljestva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "tvojega imena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kličejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:35.124545766Z",
+  "model": "glm-5.3"
+}

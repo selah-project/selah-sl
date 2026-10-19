@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo škripal z zobmi",
+      "rationale": "hebrejščina ima samo 'zobje bo zaškripal'; dodan glagolski okvir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "raztopil",
+      "rationale": "ונמס dobesedno 'se bo utekočinil\/z raztopljen'"
+    }
+  ],
+  "translation": "Rešev bo videl in se razjevil; z zobmi bo škripal in se raztopil; poželenje rešev bo poginilo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/9-10.1792435438328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Rešev"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bo videl"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "in se razjevil"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "z zobmi"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "bo škripal"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "in se raztopil"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "poželenje"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rešev"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bo poginilo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:58.329041334Z",
+  "model": "glm-5.3"
+}

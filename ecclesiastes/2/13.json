@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יתרון … כיתרון",
+      "rationale": "ponovitev besede 'prednost' v istem verzu — vzporedje modrost\/svetloba, v slovenščini ohranjeno"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jaz⟩",
+      "rationale ": "",
+      "rationale": "hebrejščina postavlja אני poudarjeno; slovenščina potrebuje okvir za poudarek"
+    }
+  ],
+  "translation": "In videl sem ⟨jaz⟩, da je prednost modrosti pred neumnostjo, kakor prednost svetlobe pred temo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80412e64eaa0814d410647e55b2f727041e35597ab6af455a2f3d881d43b22c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/13-16.1792437106589.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "in videl sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "da je"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "prednost"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "modrosti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "neumnostjo"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "kakor prednost"
+    },
+    {
+      "surface": "האור",
+      "gloss": "svetlobe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pred"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "temo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:46.590375464Z",
+  "model": "glm-5.3"
+}

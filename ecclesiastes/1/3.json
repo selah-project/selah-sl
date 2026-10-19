@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "retorično vprašanje",
+      "rationale": "Verz odpre s vprašanjem bralcu, temeljno vprašanje knjige."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמלו\/יעמol",
+      "rationale": "Igra עמל\/יעמל — 'trud\/se trdi', ponovitev korena v istem verzu."
+    }
+  ],
+  "translation": "Kakšen dobiček ima človek iz vsega svojega truda, s katerim se trdi pod soncem?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/1\/1-4.1792437018995.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kakšen"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "dobiček"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iz vsega"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "svojega truda"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "se trdi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "soncem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:18.998485484Z",
+  "model": "glm-5.3"
+}

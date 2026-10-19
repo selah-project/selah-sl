@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תנין",
+      "rationale": "oblika תנין se tukaj bere kot 'šakal' (תנה), ne morska pošast"
+    },
+    {
+      "kind": "crux",
+      "subject": "noji",
+      "rationale": "ענים: noji ali 'puščavske sove'; noj v ljudski predi zapušča mladiče"
+    },
+    {
+      "kind": "substitution",
+      "subject": "puščava",
+      "rationale": "מדבר je pašnik\/pusto odprto polje, ne nujno peščena puščava"
+    }
+  ],
+  "translation": "Tudi šakali ponudijo prsi, dojijo svoje mladiče; hčer mojega ljudstva je postala kruta kakor noji v puščavi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/4\/1-4.1792437030447.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "šakali"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "ponudijo"
+    },
+    {
+      "surface": "שד",
+      "gloss": "prsi"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "dojijo"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "svoje mladiče"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčer"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mojega ljudstva"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "kruta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "noji"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:30.449621730Z",
+  "model": "glm-5.3"
+}

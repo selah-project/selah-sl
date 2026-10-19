@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje kazalni zaimek za dvojni predmet"
+    }
+  ],
+  "translation": "In Moše je vzel ⟨את⟩ vozove in ⟨את⟩ govedo ter ⟨את⟩ jih dal Levitom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d7da3be138c3af033b73c116a7417277507c6269f9674865e3a04040723a0d22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/7\/6-8.1792433283223.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "in vzel je"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vozove"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vozove"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "govedo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "govedo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in dal je"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:03.225026675Z",
+  "model": "glm-5.3"
+}

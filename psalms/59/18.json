@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזי ... אזמרה",
+      "rationale": "oza (moč) in azmera (prepeval) si ugibata v izvirniku — zvočna vezi je v slovenščini izgubljena"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v nominalnem stavku nima"
+    }
+  ],
+  "translation": "Moč moja, tebi bom prepeval, kajti Elohim je višina-zavetišče moje, Elohim heseda mojega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/17-18.1792434921296.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Moč moja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bom prepeval"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "višina-zavetišče moje"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "heseda mojega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:21.300154009Z",
+  "model": "glm-5.3"
+}

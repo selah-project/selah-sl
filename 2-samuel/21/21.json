@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחי דוד",
+      "rationale": "'brata Davidovega' (Šimi je Davidov brat) ali 'Davidov brat' (Jehonatan) — veki stari prevodi se razhajajo; hebrejščina pravi, da je Šimi brat Davidu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zasmavljal",
+      "rationale": "חרף dobesedno 'razgaliti\/osliti', tukaj v pomenu zasmehovanja; koren je soroden imenu Harafa (v. 22)."
+    }
+  ],
+  "translation": "In zasmavljal je ⟨את⟩ Jisrael, pa ga je udaril Jehonatan, sin Šimija, brata Davidovega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/21\/21-22.1792428527508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "zasmavljal je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "pa ga je udaril"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimija"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovega"
+    }
+  ],
+  "timestamp": "2026-10-19T16:48:47.508893597Z",
+  "model": "glm-5.3"
+}

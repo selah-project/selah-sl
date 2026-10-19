@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrew lacks future copula; se glagol doda v slovenščini."
+    },
+    {
+      "kind": "measurement",
+      "subject": "polna bo zemlja",
+      "rationale": "slikovito merjenje polnosti — zemlja napolnjena do roba, kakor morje z vodo."
+    }
+  ],
+  "translation": "Ne bodo škodili in ne bodo uničevali na vsej gori moje svetosti, kajti polna bo zemlja spoznanja ⟨את⟩ Jahveja, kakor vode pokrivajo morje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "40ad29122bc801ab7c835e82fd8e3a800f1174ce92c6bcc5b7ddf1f553f906dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/11\/9-12.1792430109553.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "bodo škodili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "bodo uničevali"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na vsej"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gori"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "moje svetosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "polna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "spoznanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kakor vode"
+    },
+    {
+      "surface": "לים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "pokrivajo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:15:09.553983185Z",
+  "model": "glm-5.3"
+}

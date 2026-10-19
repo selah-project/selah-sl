@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šelamim",
+      "rationale": "זבחי שלמים — 'žrtve celostnosti\/mira'; hebrejski zvok ohranjen, 'mirovne žrtve' bi izgubilo polje pomena"
+    },
+    {
+      "kind": "addition",
+      "subject": "žrtve \/ naj",
+      "rationale": "slovenščina dodaja samostalnik k 'šelamim' in vodilnik 'naj' za infinitivni namen לעבוד"
+    },
+    {
+      "kind": "you",
+      "subject": "Judovi",
+      "rationale": "kraljev ukaz Judi: naslavljanje ljudstva z velevanjem 'služite Jahveju'"
+    }
+  ],
+  "translation": "In obnovil je ⟨את⟩ oltar Jahvejev in daroval je na njem ⟨žrtve⟩ šelamim in zahvalne ⟨žrtve⟩, in rekel je Judi, nej služijo ⟨את⟩ Jahveju, Elohimu Jisraelovemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/33\/13-16.1792438925721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "obnovil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltar Jahvejev"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejev"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "daroval je"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na njem"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "שלמim",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "zahvalne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "rekel je"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judi"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "naj služijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovemu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:05.730065535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "v mesecu",
+      "rationale": "slovenščina potrebuje predlog, hebrejščina ima gol samostalnik חדש"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedem dni",
+      "rationale": "štetje dni praznika"
+    },
+    {
+      "kind": "invitation",
+      "subject": "boš varoval",
+      "rationale": "zapoved naslovniku, Izraelu"
+    }
+  ],
+  "translation": "⟨את⟩ praznik macot boš varoval; sedem dni boš jedel mace, kakor sem ti zapovedal, ob določenem času, v mesecu avivu, kajti v mesecu avivu si izšel iz Micrajima.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b9cadb946a500c1f3cdbc0eb6d795b0fae08bcdf24406bb8b093ca3445a26e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/34\/17-20.1792423761048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praznik macot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "praznik"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "macot"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "boš varoval"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "boš jedel"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "sem ti zapovedal"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ob določenem času"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "avivu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "avivu"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "si izšel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:21.048955025Z",
+  "model": "glm-5.3"
+}

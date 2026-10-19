@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Takrat⟩",
+      "rationale": "Hebrejščina začne z glagolom brez veznika; koherenco s prejšnjim verzom da slovenščina z dodanim časovnim kazalcem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבה \/ ישובו",
+      "rationale": "v. 14 השיבה (vrni mi) in v. 15 ישובו (vrnili se bodo) — isti koren שוב: Bog vrne veselje, grešniki se vrnejo k Bogu."
+    }
+  ],
+  "translation": "⟨Takrat⟩ bom učil prestopnike tvojih poti in grešniki se bodo k tebi vrnili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/51\/13-16.1792434869216.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "bom učil"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "prestopnike"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tvojih poti"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "in grešniki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "se bodo vrnili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:29.218439886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Glasbena oznaka, prepuščena kot Sela."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפני קשט",
+      "rationale": "„zaradi resnice\" ali „pred lokom\" (aramejsko קושטב), kot bere BSB."
+    },
+    {
+      "kind": "alternative",
+      "subject": "להתנוסס",
+      "rationale": "Hitfatel od נוס — bežati; tukaj vzeto kot „vihati se\" (kolektivni beg k zastavi)."
+    }
+  ],
+  "translation": "Dal si tistim, ki se te bojijo, zastavo, naj se vihe ⟨zaradi⟩ resnice. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/5-8.1792434961072.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "dal si"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "tistim, ki se te bojijo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "zastavo"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "naj se vihe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨zaradi⟩"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "resnice"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:01.074358698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקר",
+      "rationale": "Hiphil от יקר: 'сделать редким\/драгоценным' — KJV\/ASV\/JPS читают 'реже', YLT буквально не передаёт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבעך ושנאך",
+      "rationale": "Связка с 25,16 (мёд — насыщение — извержение): пресыщение ведёт к ненависти; ושנאך рифмуется с концом предыдущего стиха."
+    }
+  ],
+  "translation": "Сделай редкой ⟨свою⟩ ногу из дома друга твоего, чтобы он не пресытился тобою и не возненавидел тебя.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/17-20.1792436134281.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "сделай редкой"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу твою"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "друга твоего"
+    },
+    {
+      "surface": "פן",
+      "gloss": "чтобы не"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "пресытился тобою"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "и возненавидел тебя"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:34.281808126Z",
+  "model": "glm-5.3"
+}

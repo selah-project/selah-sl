@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כצאן",
+      "rationale": "Hebrejsko ima le 'kakor drobnica' — tvoje ljudstvo je hkrati v עמך, zato ⟨את⟩ označuje predmet."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחית\/צאן",
+      "rationale": "Vodil\/kakor drobnica — slika pastirja, ki se v slovenščini ohrani, a dvojina pastir–čreda je vidna le v primerjavi."
+    }
+  ],
+  "translation": "Vodil si ⟨את⟩ svoje ljudstvo kakor drobnico, z roko Mošeja in Aharona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "06e6ab777cc305adfc8b902300dadc3c02ed983aea52653db7aae92601ec0898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/21-21.1792435092232.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Vodil si"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kakor drobnico"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svoje ljudstvo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeja"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "in Aharona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:12.233316133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tohu",
+      "rationale": "תהו je 'pustinja, praznina, zmoto' (1 Mz 1,2) — pustavljeno po zvoku, ker ena slovenska beseda ne nosi vseh pomenov"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aven",
+      "gloss-note": "",
+      "rationale": "און je 'ničevnost, tegoba, hudobija' — pustavljeno po zvoku zaradi širine pomenov"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמל\/און",
+      "rationale": "paronomazija: trud (עמל) rodi aven (און) — zvočna bližina izgubi v prevodu, pustavitev deloma ohranja"
+    }
+  ],
+  "translation": "Ni kdor kliče v cedek, in ni kdor se pravda v zvestobi; zanašajo se na tohu in govorijo praznino; zanosili so trud in rodili aven.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/1-4.1792430908044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kdor kliče"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "v cedek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "kdor se pravda"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "v zvestobi"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "zanašajo se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "in govorijo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "praznino"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "zanosili so"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trud"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "in rodili"
+    },
+    {
+      "surface": "און",
+      "gloss": "aven"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:28.045086177Z",
+  "model": "glm-5.3"
+}

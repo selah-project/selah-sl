@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dar",
+      "rationale": "מנחה je tu dar iz Smirne (43,11), ne daritev — zato dar in ne 'minha'"
+    }
+  ],
+  "translation": "In pripravili so ⟨את⟩ dar do prihoda Jožefa ob poldnevu, kajti slišali so, da bodo tam jedli kruh.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/43\/25-28.1792422869299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "pripravili so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "prihoda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožefa"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ob poldnevu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slišali so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bodo jedli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    }
+  ],
+  "timestamp": "2026-10-19T15:14:29.299986600Z",
+  "model": "glm-5.3"
+}

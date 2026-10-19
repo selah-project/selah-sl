@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ravnal",
+      "rationale": "עשיתי אתם je dobesedno 'naredil jim', v slovenščini sem izbral 'ravnal z njimi'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "skril svoj obraz",
+      "rationale": "hebrejski idiom הסתיר פנים pomeni umakniti naklonjenost; dobesedno podano, ker je podoba živa"
+    }
+  ],
+  "translation": "Po njihovi nečistosti in po njihovih prestopkih sem ravnal z ⟨את⟩ njimi in skril svoj obraz pred njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9a4ee133d75b550b941cd36c7a2b35627d2a0cf44dea300226a0177079898201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/39\/24-24.1792438985673.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "po njihovi nečistosti"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "in po njihovih prestopkih"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sem ravnal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njimi"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "in skril"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svoj obraz"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "pred njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:05.674495145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pernata ptica",
+      "rationale": "צפור כנף je dobesedno 'ptica peruti' — כנף (perut) v status constructus."
+    }
+  ],
+  "translation": "Živali in vsa živina, plazilci in pernata ptica,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/148\/9-12.1792435775626.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "živali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "živina"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "plazilci"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "in ptica"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "pernata"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:35.627543624Z",
+  "model": "glm-5.3"
+}

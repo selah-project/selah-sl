@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dihajoče bitje, živo bitje', ne duša v ontološkem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Hebrejski status constructus תורת הבהמה je tesna zveza; slovenščina potrebuje predlog 'o' (ali 'za')."
+    }
+  ],
+  "translation": "To je Tora ⟨o⟩ živini in ptici in vsaki živi duši, ki plava v vodah, in vsaki duši, ki se roji po deželi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/11\/45-47.1792424087519.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "živina"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "in-ptica"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in-vsaka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živa"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ki-plava"
+    },
+    {
+      "surface": "במים",
+      "gloss": "v-vodah"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "in-vsaki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "ki-se-roji"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:47.520020050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "hebrejščina izpušča glagol biti v nominalnem stavku"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחריהם",
+      "rationale": "'za njimi' — YLT dobesedno 'za njihov zadnji del'; komu se nanaša 'njim' (črni konji ali dežela severa), je stara razhajanja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pisani",
+      "rationale": "הברדים dobesedno 'točasti' — pegasti kot od toče; 'pisani' je bližina, ne enačba"
+    }
+  ],
+  "translation": "V ⟨njej⟩ ⟨so⟩ konji črni, ki gredo v deželo severa, in beli so šli za njimi, in pisani so šli v deželo juga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/6\/5-8.1792434403814.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "v kateri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "konji"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "črni"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ki gredo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severa"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "in beli"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "so šli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "njimi"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "in pisani"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "so šli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "juga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:43.816215171Z",
+  "model": "glm-5.3"
+}

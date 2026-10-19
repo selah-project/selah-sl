@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "glagol pri kraljih",
+      "rationale": "hebrejščina glagola pri drugem predmetu ne ponovi — 'in vsi kralji zemlje (se bodo bali) tvojo slavo'"
+    }
+  ],
+  "translation": "In narodi se bodo bali ⟨את⟩ ime Jahveja in vsi kralji zemlje ⟨את⟩ tvojo slavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/13-16.1792435348707.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "in se bodo bali"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime Jahveja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvojo slavo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tvojo slavo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:28.709116719Z",
+  "model": "glm-5.3"
+}

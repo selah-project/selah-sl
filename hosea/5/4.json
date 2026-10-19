@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah videnj",
+      "rationale": "ruah ostaja ruah; 'duh nečistovanja' je preglaš figurativnega pomena za odpadništvo."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא יתנו מעלליהם לשוב",
+      "rationale": "dobesedno 'ne dajo svojih dejanj, da se obrnejo' — 'njihova dejanja jim ne dovoljujejo vrnitve' (ASV) ali 'ne mislijo vrniti se' (Geneva)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svojemu⟩",
+      "rationale": "svojilni zaimek dodan v slovenščini, hebrejščina ga ima v priponi."
+    }
+  ],
+  "translation": "Ne pustijo svojih dejanj, da se obrnejo h ⟨svojemu⟩ Elohimu, kajti ruah videnj je v njihovi sredini, in ⟨את⟩ Jahveja ne poznajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/5\/1-4.1792433793360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "pustijo"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "svojih dejanj"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "da se obrnejo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "⟨svojemu⟩ Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "videnj"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "v njihovi sredini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:33.361993838Z",
+  "model": "glm-5.3"
+}

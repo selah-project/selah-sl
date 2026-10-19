@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vsi (pred 'ki ljubijo')",
+      "rationale": "ponovljen glavnik iz prve polstice, hebrejščina ga izpušča — označeno z ⟨⟩ logiko brez oklepaja, ker je naravna slovenščina"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zatekajo",
+      "rationale": "חוסה dobesedno 'bežati pod zaščito'; 'zaupati' (KJV) izgubi podobo zatočišča"
+    }
+  ],
+  "translation": "In veselili se bodo vsi, ki se zatekajo k tebi, na veke bodo rajali, in ti jih boš zakril, in vzklikali bodo v tebi vsi, ki ljubijo tvoje ime.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/9-12.1792434522495.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "in veselili se bodo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "ki se zatekajo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bodo rajali"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "in ti jih boš zakril"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "nje"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "in vzklikali bodo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebi"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ki ljubijo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:42.497219742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "hebrejščina da objekt v akuzativ brez predloga; slovenščina potrebuje predlog o\/z"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "šod \/ amal",
+      "rationale": "paralelizem nasilje–tegoba v dvojni sliki srce–ustnine"
+    }
+  ],
+  "translation": "kajti njihovo srce razmiavlja ⟨o⟩ nasilju in njihove ustnine govorijo ⟨o⟩ tegobi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/1-4.1792436121253.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שד",
+      "gloss": "nasilje"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "razmiavlja"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "njihovo srce"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "in tegoba"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "njihove ustnine"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "govorijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:21.254873851Z",
+  "model": "glm-5.3"
+}

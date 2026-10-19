@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסגר",
+      "rationale": "'zapri (pot)' nasproti zasledovalcem (KJV\/ASV) proti 'zapri\/obkroži z orožjem' (JPS 'battle-axe' iz aramejske razlage)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש ni 'duša' v poznejšem pomenu, temveč dih\/življenje\/oseba — 'moji nefesi' ohranja hebrejsko besedo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פסוק 35,3",
+      "rationale": "Imenovalec 'Jaz sem tvoja rešitev' je v hebrejščini poudarjen z besednim redom (ישעתך pred אני); v slovenščini teža pade na 'Jaz'."
+    }
+  ],
+  "translation": "In izvleči kopje ter zapri pot ⟨tistim, ki⟩ me zasledujejo; reci moji nefesi: »Jaz sem tvoja rešitev.«",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c3b94966567152e6c9d4c6a5e483c3a71b7951925f67ae4fd0811823769d108c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/2-3.1792439050722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "In izvleči"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "kopje"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ter zapri"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pot nasproti"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mojim zasledovalcem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "moji nefesi"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "tvoja rešitev"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:10.724283874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 38:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בני אלהים",
+      "rationale": "množina »sinovi Elohim« — nebeški dvor; množina ostaja množina"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנן \/ ריע",
+      "rationale": "dva glagola petja in vzklikanja postavljena vzporedno, paronomazija je v slovenščini delno izgubljena"
+    }
+  ],
+  "translation": "ko so skupaj pele zvezde zarje in vsi sinovi Elohim vzklikali od veselja?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/38\/5-8.1792436695036.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברן",
+      "gloss": "ko so pele"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "zvezde"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "zarje"
+    },
+    {
+      "surface": "ויריעו",
+      "gloss": "in vzklikali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:55.038870183Z",
+  "model": "glm-5.3"
+}

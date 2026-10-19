@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צוית להושיעני",
+      "rationale": "'zapovedal si, da me rešiš' (JPS: 'imenoval si me za rešitev') vs 'daj zapoved, da me rešiš' (KJV\/BSB: prošnja v sedanjiku) — hebrejščina dopušča obe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצודתי",
+      "rationale": "מצדה pomeni 'mreža\/ujetje' ali 'trdnjava'; izbrana trdnjava kot KJV\/JPS"
+    }
+  ],
+  "translation": "Bodi mi ⟨za⟩ skalo ⟨in⟩ bivališče, kamor vedno prihajam; zapovedal si, da me rešiš, kajti moja skala in moja trdnjava si ti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/1-4.1792435071074.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Bodi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "⟨za⟩ skalo"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "⟨in⟩ bivališče"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kamor prihajam"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vedno"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "zapovedal si"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "da me rešiš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "moja skala"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "in moja trdnjava"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:51.076420340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima glagola biti; עפלה je samostalniški\/passivni deležnik brez veznika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu, dihu, življenjski sili' kot 'duši' v poznejšem pomenu."
+    },
+    {
+      "kind": "crux",
+      "subject": "באמונתו",
+      "rationale": "אמונה pomeni 'trdnost, zvestoba' — 'iz svoje zvestobe' in ne abstraktna 'vera'; verižno mesto poznejših prevodov je znano, a hebrejska beseda je zvestoba."
+    },
+    {
+      "kind": "alternative",
+      "subject": "napihnjena",
+      "rationale": "עפל: 'napihnjena, otekla, prevzetna' — subjekt je neimenovan (kralj? Kaldej?) in se nadaljuje v verz 5."
+    }
+  ],
+  "translation": "Glej, napihnjena ⟨je⟩, ni prava njegova duša v njem; pravični pa bo živel iz svoje zvestobe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/2\/1-4.1792434251055.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "napihnjena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "prava"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegova duša"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "in pravični"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "iz svoje zvestobe"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "bo živel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:11.058605525Z",
+  "model": "glm-5.3"
+}

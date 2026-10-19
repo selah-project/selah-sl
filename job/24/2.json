@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישיגו",
+      "rationale": "נשג dobesedno 'dosežejo' (YLT 'reach'), večina pa bere 'premaknejo mejne kamne' — meja, ki jo dosežejo, je odmaknjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mejne kamne",
+      "rationale": "גבלות so mejne črte\/meje dežel; 'mejni kamni' so slovenski podobek za isto stvar."
+    }
+  ],
+  "translation": "Meje dosežejo ⟨jih pomikajo⟩, čredo iztrgajo in jo pasejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/24\/1-4.1792436503528.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "meje"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "dosežejo"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "čredo"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "iztrgajo"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "in pasejo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:43.529545346Z",
+  "model": "glm-5.3"
+}

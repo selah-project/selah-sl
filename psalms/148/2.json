@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poslanci",
+      "rationale": "מלאכים je dobesedno 'poslanci'; 'angeli' bi vneslo poznejšo terminologijo."
+    },
+    {
+      "kind": "crux",
+      "subject": "צבאו",
+      "rationale": "'vojska' proti 'nebeška vojska' — hebrejščina pravi samo 'vsá njegova vojska'."
+    }
+  ],
+  "translation": "Hvalite ga, vsi njegovi poslanci, hvalite ga, vsa njegova vojska!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/148\/1-4.1792435792157.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsí — vsi"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "njegovi poslanci"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "njegova vojska"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:52.158716449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גמל על",
+      "rationale": "Hebrejski idiom 'ravnaj z (kakor si zaslužil)' — tu v dobrem pomenu: povrni dobrodejetvo, ne dobesedno 'obravnaj'."
+    },
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Slovenščina potrebuje veznik 'da' za namen odvisnika, hebrejščina ga nima."
+    }
+  ],
+  "translation": "Povrni dobrodejetvo svojemu sužnju, da bom živel, in varoval bom tvojo besedo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/17-20.1792435517205.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Povrni dobrodejetvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "svojemu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sužnju"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "da bom živel"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "in varoval bom"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvojo besedo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:17.205987609Z",
+  "model": "glm-5.3"
+}

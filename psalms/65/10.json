@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "potok Elohim",
+      "rationale": "פלג אלהים: 'Elohimov namakalni kanal' (deževje) ali dobesedno reka; 'potok Elohim' ohranja obojenost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "obiščeš",
+      "rationale": "פקד 'obiskati\/najaviti' — tu prijateljski obisk v obliki dežja"
+    }
+  ],
+  "translation": "Obiščeš ⟨את⟩ deželo in jo nasičiš, bogato jo obogatiš; potok Elohim je poln vode; pripravljaš njihovo žito, kajti tako jo pripravljaš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/65\/9-12.1792435005679.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "obiščeš"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "in jo nasičiš"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "bogato"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "obogatiš"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "potok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "poln"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "pripravljaš"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "njihovo žito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "jo pripravljaš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:45.681662001Z",
+  "model": "glm-5.3"
+}

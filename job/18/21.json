@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so \/ je",
+      "rationale": "hebrejščina brez kopule; dodano v oklepajih"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ידע אל",
+      "rationale": "večina: 'tisti, ki ne pozna El' (človek je osebek); YLT obrne: 'kraj, ki ga El ni spoznal'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עול",
+      "rationale": "beseda pomeni 'krivični\/nakrivljeni', ne splošno 'hudobni'"
+    }
+  ],
+  "translation": "Le-takšna ⟨so⟩ prebivališča krivičnega, in to je ⟨kraj tistega, ki⟩ ne pozna ⟨את⟩ El.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "924f3a2efc525b5d3e5b0f6af4a75bb198b929e33c229cacdd6e36ae489b88f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/21-21.1792436421641.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "takšna"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "prebivališča"
+    },
+    {
+      "surface": "עול",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "in to"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:21.643065425Z",
+  "model": "glm-5.3"
+}

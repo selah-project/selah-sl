@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se pravi",
+      "rationale": "Niphal נשפט: 'pravi se \/ sodi se z neumnim' (KJV, JPS) ali 'modrec je sojen z neumnim' (YLT) — kdo koga postavi pred sod."
+    },
+    {
+      "kind": "alternative",
+      "subject": "in ta se jezi",
+      "rationale": "Glagolja ורגז ושחק sta brez osebka; lahko sta dejanji neumnega (BSB) ali odziva modrega — slovenščina doda osebek ⟨ta⟩."
+    }
+  ],
+  "translation": "Moder mož se pravi z ⟨את⟩ neumnim možem — in ta se jezi in smeji, in ni počitka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/9-12.1792436185543.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "se pravi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neumen mož"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "neumen"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "se jezi"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "smeji se"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "počitka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:25.544029040Z",
+  "model": "glm-5.3"
+}

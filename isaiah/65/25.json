@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "skupaj",
+      "rationale": "כאחד dobesedno 'kakor ena' — 'skupaj' kot ena beseda namesto dobesedne slike"
+    },
+    {
+      "kind": "substitution",
+      "subject": "škodovali",
+      "rationale": "ירעו tu iz רעע 'delati húdo', ne iz רעה 'pasti' kot v 1 Mz — ista oblika, drug koren"
+    },
+    {
+      "kind": "you",
+      "subject": "govori Jahve",
+      "rationale": "spremenljivka zaključuje Jahvov govor z neposredno izjavo"
+    }
+  ],
+  "translation": "Volk in jagnje bosta pasla skupaj, in lev bo kakor govedo jedel slamo, in kači bo prah ⟨njena⟩ hrana; ne bodo škodovali in ne bodo uničevali na vsej svoji sveti gori, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4b68e5d2d387c1e658f393d49074e4d9791ee34d9c62dd3bdae151c520332e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/65\/25-25.1792430960419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "volk"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "in jagnje"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "bosta pasla"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "in lev"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kakor govedo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bo jedel"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "slamo"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "in kači"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "njena hrana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "bodo škodovali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "bodo uničevali"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na vsej"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gori"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svoji sveti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:20.419791701Z",
+  "model": "glm-5.3"
+}

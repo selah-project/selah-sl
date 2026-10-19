@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 32:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח pomeni dih\/veter\/duh hkrati — 'duh' bi izgubil slike telesa, zato ruah"
+    },
+    {
+      "kind": "addition",
+      "subject": "me",
+      "rationale": "hebrejščina ima samo končnico -תני ('mene'), slovenščina doda povedek"
+    }
+  ],
+  "translation": "Kajti poln sem besed, ruah mojega trebuha me stiska.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8cf0ac026d08a78f98a70a4b55691186cd8b88d31a87859d4846116b87129bed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/32\/17-20.1792436657906.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "poln sem"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "besed"
+    },
+    {
+      "surface": "הציקתני",
+      "gloss": "me stiska"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mojega trebuha"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:17.906979921Z",
+  "model": "glm-5.3"
+}

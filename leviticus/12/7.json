@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "Slovenščina potrebuje predmet pri 'daroval'; hebrejščina ga tipa את ne ima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "spravil",
+      "rationale": "כפר dobesedno 'pokril' — sprava kot pokritje; slika pokritja v slovenščini izgubi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מקר",
+      "rationale": "'Vir' (kaj izvira) — redka beseda, tukaj za tok krvi"
+    }
+  ],
+  "translation": "In daroval ⟨ga⟩ bo pred Jahvejem in spravil bo zanjo, in očiščena bo od vira svoje krvi. To je Tora tiste, ki rodi, za moškega ali za žensko.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/12\/5-8.1792424243684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "in daroval bo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "in spravil bo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "zanjo"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "in očiščena bo"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "od vira"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "svoje krvi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "To"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "je Tora"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "te, ki rodi"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "za moškega"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "za žensko"
+    }
+  ],
+  "timestamp": "2026-10-19T15:37:23.685554128Z",
+  "model": "glm-5.3"
+}

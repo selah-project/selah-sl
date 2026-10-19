@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "malachi 1:13",
+  "book": "malachi",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pihli ste nanj",
+      "rationale": "והפחתם je dobesedno 'pripihnili ste', tu idiom za zaničevanje z nosom"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתלאה",
+      "rationale": "matla' — edino pojavljanje v Tanahu: 'kakšna nadloga'"
+    },
+    {
+      "kind": "you",
+      "subject": "duhovniki",
+      "rationale": "neposreden ogovor darovalcev z vprašanjem 'ali naj jo sprejmem iz vaše roke?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ugrabljeno",
+      "rationale": "גזול: 'ugrabljeno\/raztrgano' — KJV 'torn', drugi 'stolen'"
+    }
+  ],
+  "translation": "In rekli ste: Glej, kakšna nadloga! In pihli ste ⟨nanj⟩, govori Jahve Cebaot. In prinesli ste ugrabljeno, in ⟨את⟩ hromega in ⟨את⟩ bolnega, in prinesli ste ⟨את⟩ ⟨minho⟩ — ali naj jo sprejmem iz vaše roke? govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a3ff92766e2b007350c074f72d1a1a564ea0c10ac14009d08c33f9ff922ae41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/1\/13-14.1792434428694.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "in rekli ste"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "מתלאה",
+      "gloss": "kakšna nadloga"
+    },
+    {
+      "surface": "והפחתם",
+      "gloss": "in pihli ste"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨nanj⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "in prinesli ste"
+    },
+    {
+      "surface": "גזול",
+      "gloss": "ugrabljeno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hromega"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "hromega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bolnega"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "bolnega"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "in prinesli ste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minho"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "הארצה",
+      "gloss": "ali naj sprejmem"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "jo"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "iz vaše roke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:08.695690429Z",
+  "model": "glm-5.3"
+}

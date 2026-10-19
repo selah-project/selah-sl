@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 19:12",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח pomeni veter\/dih\/Duh — slovensko puščeno kot ruah, tukaj vzhodni veter peklenske vročine."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Slovenščina zahteva pomožni glagol pri pasivu, ki ga hebrejščina izraža z obliko samo."
+    }
+  ],
+  "translation": "In v besu je bila iztrgana, na tla vržena, in vzhodni ruah je posušil njen sadež; odlomile so se in posušile palice njene moči — ogenj ga je pogoltnil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/19\/9-12.1792432318829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתש",
+      "gloss": "in iztrgana je bila"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "v besu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na tla"
+    },
+    {
+      "surface": "השלכה",
+      "gloss": "vržena"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "in ruah"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "vzhodni"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "je posušil"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "njen sadež"
+    },
+    {
+      "surface": "התפרקו",
+      "gloss": "odlomile so se"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "in posušile"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "palice"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "njene moči"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "ga je pogoltnil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:51:58.830973201Z",
+  "model": "glm-5.3"
+}

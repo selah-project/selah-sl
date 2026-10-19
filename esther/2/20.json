@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Estera",
+      "rationale": "Verz temelji na skriti identiteti — rod in ljudstvo sta zamolčana"
+    },
+    {
+      "kind": "crux",
+      "subject": "באמנה אתו",
+      "rationale": "'pod njegovo varstvom\/z njim' — KJV 'brought up with him'; אתו je predlog 'z', ne aleph-tav označevalnik"
+    }
+  ],
+  "translation": "Ester ni razkrila svojega rodu in ⟨את⟩ svojega ljudstva, kakor ji je zapovedal Mordej; in ⟨את⟩ zapoved Mordeja je Ester izpolnjevala, kakor je bila ⟨z njim⟩ pod skrbjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/17-20.1792437227636.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "razkrila"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "svojega rodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svojega ljudstva"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "svojega ljudstva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "je zapovedal"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "njej"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zapoved Mordeja"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "zapoved"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeja"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "izpolnjevala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "pod skrbjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z njim",
+      "marks": "z njim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:47.640250542Z",
+  "model": "glm-5.3"
+}

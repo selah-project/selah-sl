@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 38:29",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "hebrejščina nima glagola; vzklik 'preboj nad teboj' je samostalnik brez copule"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרצת\/פרץ\/פרץ",
+      "rationale": "tričlena igra istega korena — dejanje, samostalnik in ime Perec; v slovenščini ohranjena z istim korenom prebiti\/preboj\/Perec"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה פרצת עליך פרץ",
+      "rationale": "vzklik: KJV 'this breach be upon thee' vs JPS 'wherefore hast thou made a breach for thyself' — vprašanje ali stavek"
+    }
+  ],
+  "translation": "In zgodbilo se je, ko je umaknil svojo roko, da je glej prišel ven njegov brat; ona pa je rekla: Kako si prebil? Preboj ⟨naj bo⟩ nad teboj! In njegovo ime je imenoval Perec.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bb2ebc3c959a2611fe1ba35778edbc2d89a6d61356c989cb55ed55ef78baa227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/38\/29-30.1792422729535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se je"
+    },
+    {
+      "surface": "כמשיב",
+      "gloss": "ko je umaknil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "prišel ven"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegov brat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ona pa je rekla"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "si prebil"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad teboj"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "preboj"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "in njegovo ime je imenoval"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perec"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:09.536147059Z",
+  "model": "glm-5.3"
+}

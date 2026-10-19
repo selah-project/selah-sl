@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "halelu",
+      "rationale": "הלל pomeni 'biti jasen, sijati'; 'hvaliti' je izpeljani pomen — oblika halelu-Jah se ohrani kot zvočna enota (haleluja)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "služabniki Jahvejevi",
+      "rationale": "trojni imperativ halelu nagovarja addresata, služabnike Jahveja"
+    },
+    {
+      "kind": "you",
+      "subject": "do služabnikov Jahveja",
+      "rationale": "neposreden nagovor z vozliščem v drugi osebi množine imperativa"
+    }
+  ],
+  "translation": "Halelu-Jah! Halelu, služabniki Jahvejevi, halelu ⟨את⟩ ime Jahveja!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/113\/1-4.1792435446706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halelu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabniki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halelu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:06.707004648Z",
+  "model": "glm-5.3"
+}

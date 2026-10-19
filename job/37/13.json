@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Hebrejščina ne izreka osebka; glagolska oblika je tretja oseba množine\/ednine brez samostalnika"
+    },
+    {
+      "kind": "crux",
+      "subject": "šiba \/ dežela \/ hesed",
+      "rationale": "Trije nameni nevihte: šiba (kazen), njegova dežela (blagoslov), hesed — ali je hesed četrti namen ali povzetek vseh treh, je razdeljeno med prevodi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "מילת חסד je puščena po zvoku: 'milost' sama bi izgubila širino pomena"
+    }
+  ],
+  "translation": "Če za šibo, če za njegovo deželo, če za hesed — ⟨on⟩ dopušča, da pride.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/37\/13-16.1792436716160.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "za šibo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "za njegovo deželo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "za hesed"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "dopušča, da pride"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:16.160719397Z",
+  "model": "glm-5.3"
+}

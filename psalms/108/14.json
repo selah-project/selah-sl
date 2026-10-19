@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "junštvo",
+      "rationale": "חיל je 'moč, čet, blago'; tu 'storiti moč\/junštvo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stiskovalci",
+      "rationale": "צר iz istega korena kot 'stiska' v prejšnjem verzu — sovražnik kot 'ozki prostor'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצר\/צרינו",
+      "rationale": "koren צר povezuje stisko (v. 13) in stiskovalce (v. 14), v prevodu ohranjeno z istim deblom"
+    }
+  ],
+  "translation": "Z Elohim bomo storili junštvo, in on bo poteptal ⟨naše⟩ stiskovalce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/13-14.1792439036588.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Z Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bomo storili"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "junštvo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "bo poteptal"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "⟨naše⟩ stiskovalce"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:56.590145775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina nima glagola 'biti'; slovenščina ga zahteva: 'tristo dvaindevetdeset ⟨je⟩ bilo' — izpust interpunkcije."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tristo dvaindevetdeset",
+      "rationale": "Seštevek netinim in služabnikov Šeloma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "netinim",
+      "rationale": "הנתינים preneseno po zvoku; ne 'templji služabniki' kot prevod."
+    }
+  ],
+  "translation": "Vsi netinim in sinovi služabnikov Šeloma: tristo dvaindevetdeset.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "542942b7eb072d1015f21c62fa3aa1f1de2fa8a8d7386b71f932b72a9e29086a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/7\/57-60.1792437860800.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "netinim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabnikov"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tristo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tristo"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "dvaindevetdeset"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dvaindevetdeset"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:20.801247994Z",
+  "model": "glm-5.3"
+}

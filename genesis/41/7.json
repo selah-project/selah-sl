@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to je bil⟩",
+      "rationale": "Hebrejščina pravi samo 'in glej, sanje' — brez veznika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלע",
+      "rationale": "Isti glagol 'pogoltniti' kot pri kravah v v. 4 — vzporedje dveh sanj, ki ga prevod ohranja"
+    }
+  ],
+  "translation": "In suhnati klasi so pogoltnili ⟨את⟩ sedem debelih in polnih klasov. In Paroh se je zbudil — in glej, ⟨to je bil⟩ sanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/5-8.1792433291835.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "so pogoltnili"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "klasi"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "suhnati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedem debelih in polnih klasov"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "klasov"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "debelih"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "in polnih"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "se je zbudil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:11.837262563Z",
+  "model": "glm-5.3"
+}

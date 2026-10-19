@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "štirideset komolcev",
+      "rationale": "Meritev glavne dvorane templja."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨njim⟩",
+      "rationale": "Hebrejščina לפני naklanja brez samostalnika; slovenščina potrebuje zaimek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvorana",
+      "rationale": "היכל je velika javna stavba, palača ali tempelj; tu glavni prostor pred devirjem."
+    }
+  ],
+  "translation": "In štirideset komolcev je bila hiša — to je dvorana pred ⟨njim⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/6\/17-20.1792428813242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "in štirideset"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "dvorana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred ⟨njim⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T16:53:33.243193494Z",
+  "model": "glm-5.3"
+}

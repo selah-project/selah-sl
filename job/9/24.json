@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 9:24",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם לא אפוא מי הוא",
+      "rationale": "'če ne on — kdo je tedaj?' (JPS) proti 'kje je?' (KJV, bere איפה); Job izziva: če ni Elohim kriv, kdo drug"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע ... שפטיה",
+      "rationale": "krivičnivlada, sodniki so zaslepljeni — ironična zamenjava vlog, v slovenščini delno ohranjena"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kdo je tedaj",
+      "rationale": "kit slovenskega besedila postavlja odprto, neprogljeno vprašanje o izvoru krivice"
+    }
+  ],
+  "translation": "Zemlja je dana v roko krivega; obraze njenih sodnikov ⟨on⟩ zastira. Če ne ⟨on⟩ — kdo je tedaj?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/9\/21-24.1792436323686.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Zemlja"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "je dana"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivega"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obraze"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "njenih sodnikov"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "zastira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:43.695756038Z",
+  "model": "glm-5.3"
+}

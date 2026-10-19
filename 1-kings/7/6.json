@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "petdeset komolcev, trideset komolcev",
+      "rationale": "dimenzije portika stebrov v komolcih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עב",
+      "rationale": "redka beseda: architrav, debela preklada, ki senči stebre — 'debel tram' v drugih prevodih"
+    }
+  ],
+  "translation": "In ⟨את⟩ portik stebrov je naredil: petdeset komolcev ⟨je bila⟩ njegova dolžina in trideset komolcev njegova širina; in portik ⟨stoji⟩ pred njimi, in stebri ter architrav-nadpražje pred njimi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/7\/5-8.1792428845108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "portik stebrov"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "portik"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stebrov"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "petdeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njegova dolžina"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "in trideset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "njegova širina"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "in portik"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njimi"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "in stebri"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ter architrav-nadpražje"
+    },
+    {
+      "surface": "על",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:54:05.109383433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Halelu-Jah",
+      "rationale": "הללו יה je imperativ 'hvalite Jaha', ohranjen kot zvočna oblika hvalospeva"
+    },
+    {
+      "kind": "you",
+      "subject": "to molivci",
+      "rationale": "imperativ הללו se neposredno obrača na skupnost z ukazom hvaljenja"
+    }
+  ],
+  "translation": "Blagoslovljen Jahve s Ciona, ki prebiva v Jerušalajimu. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/135\/21-21.1792435570876.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "s Ciona"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:10.876755284Z",
+  "model": "glm-5.3"
+}

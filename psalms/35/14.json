@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "zame",
+      "rationale": "לי (‘zame’) v slovenščini zahteva predlog, ki ga hebrejščina nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "v temni žalosti",
+      "rationale": "קדר dobesedno 'biti pepelnato temen' — barva žalovanja, ne abstraktna žalost."
+    }
+  ],
+  "translation": "Kakor pri prijatelju, kakor pri bratu ⟨zame⟩, tako sem hodil; kakor žalujoč za materjo, v temni žalosti sem se ponižal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/13-16.1792434759700.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kakor pri prijatelju"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kakor pri bratu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zame"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "tako sem hodil"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kakor žalujoč"
+    },
+    {
+      "surface": "אם",
+      "gloss": "za materjo"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "v temni žalosti"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "sem se ponižal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:39.701749575Z",
+  "model": "glm-5.3"
+}

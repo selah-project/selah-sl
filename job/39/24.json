@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ne vzdrži",
+      "rationale": "יאמין običajno 'verjeti\/zdržati'; KJV 'ne veruje, da je zvok trobente' vs YLT 'ne obstane mirno' — podvomen pomen אמן v zvezi s konjem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברעש ורגז",
+      "rationale": "Parataksi dveh besed za turbulenco — tresenje in vznemirjenje — ki v slovenščini ostajata dve ločeni besedi, hebrejščina jih ritmično združuje."
+    }
+  ],
+  "translation": "V tresenju in vznemirjenju vpije zemljo in ne vzdrži ⟨mirno⟩, kajti ⟨zveni⟩ zvok šofarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e795df4c01c40cf2040d147a68b6b5249969709ced8fa9a1cc0923d82e08344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/39\/21-24.1792436771009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "v tresenju"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "in vznemirjenju"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "vpije"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "vzdrži"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvok"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofarja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:11.010754240Z",
+  "model": "glm-5.3"
+}

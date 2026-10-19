@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפקד — bom obiskal",
+      "rationale": "פקד pomeni 'obiskati' (naklonjeno ali sovražno); prevodi segajo od 'obiskal' do 'kaznoval'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sodbo⟩",
+      "rationale": "Iz konteksta dodana razjasnitev sovražnega namena פקד"
+    }
+  ],
+  "translation": "Samo vas sem poznal izmed vseh družin zemlje; zato bom obiskal ⟨sodbo⟩ zoper vas ⟨את⟩ vsa vaša hudobija.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/3\/1-4.1792433991428.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Samo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sem poznal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "izmed vseh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "družin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "bom obiskal"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "zoper vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vsa vaša hudobija"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "vaša hudobija"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:51.430137857Z",
+  "model": "glm-5.3"
+}

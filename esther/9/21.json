@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Hebrew infinitive להיות potrebuje slovenski veznik"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datumi",
+      "rationale": "štetje dni: štirinajsti in petnajsti dan meseca adarja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנה ושנה",
+      "rationale": "ponovitev 'leto in leto' poudarja večnost običaja"
+    }
+  ],
+  "translation": "da bi jim uveljavil ⟨da⟩ bodo obhajali ⟨את⟩ dan štirinajsti meseca adarja in ⟨את⟩ dan petnajsti v njem, vsako leto in leto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "afb35f8b97601cd5d31cf30a07ffa2c173831fda55d7190397f6c413de80bd54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/9\/21-24.1792437294583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "da bi uveljavil"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nadh njimi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da bodo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "obhajali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "štirinajsti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–najsti"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "meseca"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "adarja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "dan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "petnajsti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–najsti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsako"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "leto"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "in leto"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:54.584869584Z",
+  "model": "glm-5.3"
+}

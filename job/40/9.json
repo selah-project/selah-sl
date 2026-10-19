@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Hebrejščina ne ponudi samostalnika; 'kakor ⟨on⟩' dopolnjuje namig"
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovu",
+      "rationale": "Vprašanje neposredno nagovarja Ijova iz viharja"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאל",
+      "rationale": "kakor El \/ kakor Bog — El kot Ime ostaja El"
+    }
+  ],
+  "translation": "Ali imaš roko kakor El, ali z glasom kakor ⟨on⟩ grmiš?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/40\/9-12.1792436764013.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ali"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "roko"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "kakor El"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imaš"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ali z glasom"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kakor ⟨on⟩"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "grmiš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:04.013764151Z",
+  "model": "glm-5.3"
+}

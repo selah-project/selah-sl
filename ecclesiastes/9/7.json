@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Pojdi, jej … pij",
+      "rationale": "povabilo v radost — imperativi se neposredno obračajo na bralca"
+    },
+    {
+      "kind": "you",
+      "subject": "naslovnik",
+      "rationale": "drugoosebni naslov, modrec nagovarja poslušalca"
+    },
+    {
+      "kind": "addition",
+      "subject": "s",
+      "rationale": "slovenščina potrebuje orodnik pred 'svoja dela'; hebrejščina ima samo את"
+    }
+  ],
+  "translation": "Pojdi, s presrečanjem jej svoj kruh in z dobrim srcem pij svoje vino, kajti Elohim je že zadovoljen s ⟨את⟩ svojimi deli ⟨tvoje⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "55d197a98b905d603bc63dff21d41f637316b4d58248f802c40917be27c68002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/9\/5-8.1792437163254.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jej"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s presrečanjem"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "in pij"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "s srcem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrim"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "svoje vino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "že"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "je zadovoljen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje dele (מעשיך)"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "svoja dela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:43.256087351Z",
+  "model": "glm-5.3"
+}

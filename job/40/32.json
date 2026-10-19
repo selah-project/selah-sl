@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תוסף",
+      "rationale": "dobesedno 'ne dodaj več': 'ne ponovi več (boja)' ali 'ne boš več (poskušal)' — glagol 'dodajati' je tu brez dopolnila"
+    },
+    {
+      "kind": "you",
+      "subject": "Hiob",
+      "rationale": "Elohim se neposredno obrača na Hioba s poveljem in opozorilom"
+    }
+  ],
+  "translation": "Položi nanj svojo dlan — spomni se boja — ne boš več ⟨poskušal⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "26f5f4d136ad7fce20d7e1a277e0e6ac80ad39bc2a91ee078ed41cb8ad21ae26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/40\/29-32.1792436799320.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "Položi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "svojo dlan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "spomni se"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "boja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "več"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:39.324957753Z",
+  "model": "glm-5.3"
+}

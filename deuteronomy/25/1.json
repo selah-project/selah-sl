@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצדיקו\/הצדיק · הרשיעו\/הרשע",
+      "rationale": "Istokorenna dvojica: 'opravičiti pravičnega, obsoditi krivičnega' — koren se ponavlja v glagolu in samostalniku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sodba",
+      "rationale": "Verz določa sodni postopek: izrečena sodba mora zadeti pravo osebo."
+    }
+  ],
+  "translation": "Kadar je spor med možmi in pristopijo k pravdi, ⟨in⟩ jih presodijo, morajo opravičiti ⟨את⟩ pravičnega in obsoditi ⟨את⟩ krivičnega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/25\/1-4.1792426143868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kadar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "je"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "spor"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "možmi"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "in pristopijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pravdi"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "in presodijo"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "morajo opravičiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pravičnega"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "in obsoditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krivičnega"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "krivičnega"
+    }
+  ],
+  "timestamp": "2026-10-19T16:09:03.868982915Z",
+  "model": "glm-5.3"
+}

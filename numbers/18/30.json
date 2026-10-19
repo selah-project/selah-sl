@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "donos",
+      "rationale": "תבואה je dobesedno 'prihod\/pridelek'; 'donos gumna in stiskalnice' ohranja kmetisko podobo."
+    },
+    {
+      "kind": "you",
+      "subject": "Levitom",
+      "rationale": "Naslovljeni so Leviti prek Aharonovega govora."
+    }
+  ],
+  "translation": "In rekel boš njim: Ko dvignete ⟨את⟩ njegovo maščobo iz njega, bo šteto Levijem kakor donos gumna in kakor donos stiskalnice.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cf564fbff3a1cd1ae4458c8717dfb905cc8c8bde246427e33ff68902b733b240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/18\/29-32.1792425172289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "in rekel boš"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "ko dvignete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo maščobo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "njegovo maščobo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iz njega"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "bo šteto"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Levijem"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "kakor donos"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gumna"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "in kakor donos"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "stiskalnice"
+    }
+  ],
+  "timestamp": "2026-10-19T15:52:52.290040448Z",
+  "model": "glm-5.3"
+}

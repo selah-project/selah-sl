@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 52:16",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "zemlje",
+      "gloss": "",
+      "rationale": "ליגבים je deležnik 'koprati\/orati'; slovenščina potrebuje samostalnik"
+    },
+    {
+      "kind": "alternative",
+      "subject": "reveže",
+      "rationale": "מדלות bi lahko pomenilo tudi 'najrevnejše od (revnih)'; izbrana 'reveže'"
+    }
+  ],
+  "translation": "In reveže dežele je pustil Nevuzaradan, poveljnik morilcev, za vinogradnike in za obdelovalce zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/13-16.1792432028725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "in reveže"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "je pustil"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "poveljnik"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "morilcev"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "za vinogradnike"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "in za obdelovalce zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:08.727014895Z",
+  "model": "glm-5.3"
+}

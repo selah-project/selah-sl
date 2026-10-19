@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 33:10",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "vprašanje izraela",
+      "rationale": "retorično vprašanje ljudstva ('kako bomo živeli?') vleči bralca v besedilo"
+    },
+    {
+      "kind": "crux",
+      "subject": "כן",
+      "rationale": "'tako' (prosto) proti YLT 'prav ste rekli' — dvom o tem, ali Jahve potrjuje ali samo citira"
+    }
+  ],
+  "translation": "In ti, človekov sin, reci hiši Jisraela: Tako ste govorili: Naše upore in naši grehi so nad nami, v njih venimo — kako torej bomo živeli?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f49f1015348bd111c0937e45081377b928f615b36e8a8015f196e231b5c777db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/33\/9-12.1792433502147.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "In ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človekov"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hiši"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ste govorili"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "Naše upore"
+    },
+    {
+      "surface": "וחטאתינו",
+      "gloss": "in naši grehi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "so nad nami"
+    },
+    {
+      "surface": "ובם",
+      "gloss": "v njih"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נמקים",
+      "gloss": "venimo"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kako torej"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "bomo živeli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:42.150039361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "'pozna' dobesedno; JPS 'vardi'\/skrbi za, BSB 'varuje' — poznati kot izbrati si"
+    },
+    {
+      "kind": "addition",
+      "subject": "pa",
+      "gloss": "",
+      "rationale": "slovenski nasprotnež namesto hebrejskega ו pred drugo polstihom"
+    }
+  ],
+  "translation": "Ker Jahve pozna pot pravičnih, pot hudobnih pa bo propadla.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/1\/5-6.1792434507576.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravičnih"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bo propadla"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:27.577875591Z",
+  "model": "glm-5.3"
+}

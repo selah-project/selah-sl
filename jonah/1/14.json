@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jonah 1:14",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je 'dih\/življenjska sila', ne 'duša' v poznejšem pomenu; mornarji prosijo, da ne bodo umrli zaradi tega človekovega življenja."
+    },
+    {
+      "kind": "you",
+      "subject": "mornarji → Jahve",
+      "rationale": "neposredna molitev poganskih mornarjev, ki se obračajo na Izraelovega Boga z imenom."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אנה יהוה",
+      "rationale": "אנה je vzklik 'ah, zdaj!' — nekateri prevodi ga razširjajo v 'prosimo te, o Jahve'."
+    }
+  ],
+  "translation": "In zaklicali so k Jahveju in rekli: Ah, Jahve, pusti, da ne izgubimo ⟨duše⟩ tega človeka, in ne daj nase nedolžne krvi, kajti ti, Jahve, kakor si hotel, si naredil!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/1\/13-16.1792434061380.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "In zaklicali so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pusti, da ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "נאבדה",
+      "gloss": "izgubimo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "za dušo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nase"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "נקיא",
+      "gloss": "nedolžne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "si hotel"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si naredil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:01.383343506Z",
+  "model": "glm-5.3"
+}

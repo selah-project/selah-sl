@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "požrt",
+      "rationale": "אכל je 'jesti'; grm 'ni pojeden' — dobesedna slika ognja, ki žre."
+    },
+    {
+      "kind": "mystery",
+      "subject": "grm, ki gori in ni požrt",
+      "rationale": "Prvi prikaz na Horebu: neoškodovani goreči grm je namerno nenavaden prizor."
+    }
+  ],
+  "translation": "In prikazal se mu je poslanik Jahveja v plamenu ognja sredi grma; in pogledal je, in glej, grm gori v ognju, grm pa ni požrt.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/3\/1-4.1792423068516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "in prikazal se je"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "poslanik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "v plamenu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "grma"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in pogledal je"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "grm"
+    },
+    {
+      "surface": "בער",
+      "gloss": "gori"
+    },
+    {
+      "surface": "באש",
+      "gloss": "v ognju"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "grm pa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "požrt"
+    }
+  ],
+  "timestamp": "2026-10-19T15:17:48.517241075Z",
+  "model": "glm-5.3"
+}

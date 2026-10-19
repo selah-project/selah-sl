@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina v drugem stavku (ובני יקשן) nima glagola; slovenščina ga doda"
+    },
+    {
+      "kind": "crux",
+      "subject": "פילגש",
+      "rationale": "priležnica za פילגש; 1 Mz 25,1 Keturah imenuje 'žena', tu 'priležnica' — prevajalci se razhajajo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovni seznam",
+      "rationale": "rodoslovni seznam sinov Keture in Jokšana"
+    }
+  ],
+  "translation": "In sinovi Keture, priležnice Avrahama: rodila je ⟨את⟩ Zimrana in Jokšana in Medana in Midjana in Jišbaka in Šuaha. In sinovi Jokšana: Šeba in Dedan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4ef063860bd0ae2c89f9246b26ecddb61eb79fca4786ed9d54676e5916d804d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/29-32.1792437991143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keture"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "priležnica"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "rodila je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimrana"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimrana"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "in Jokšana"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "in Medana"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "in Midjana"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "in Jišbaka"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "in Šuaha"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokšana"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "in Dedan"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:31.147049660Z",
+  "model": "glm-5.3"
+}

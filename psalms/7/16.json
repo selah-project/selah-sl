@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שחת",
+      "rationale": "שחת je jama-kot past, pregovorno tudi propad; tu ohranjena slika globeli."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרה\/יחפר",
+      "rationale": "dva glagola za kopanje (כרה in חפר) zaporedoma — podvajanje slike, v slovenščini z izkopal\/izdolbel."
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "slovenščina potrebuje predmetni zaimek za pripono -הוּ v ויחפרהו."
+    }
+  ],
+  "translation": "Jamo je izkopal in jo izdolbel, in padel je v globel, ki jo je napravil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "890087def3f957dd0b07cd0bf73e8d4115eb3b60018e5e7e4a59f674076bc7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/16-16.1792438987856.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "jamo"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "je izkopal"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "in jo je izdolbel"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "in padel je"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "v globel"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ki jo je napravil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:07.857127970Z",
+  "model": "glm-5.3"
+}

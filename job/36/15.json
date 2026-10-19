@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 36:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "odpira",
+      "rationale": "יגל dobesedno 'razkriva' — dobesedno bi bilo 'in razkrije njihovo uho'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "v njegovi stiski",
+      "rationale": "בעניו lahko 'z njegovo stisko' (sredstvo rešitve) ali 'iz njegove stiske' (JPS 'by His affliction')"
+    }
+  ],
+  "translation": "Rešuje ubogega v njegovi stiski in v stiski odpira njihovo uho.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/13-16.1792436708121.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחלץ",
+      "gloss": "rešuje"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubogega"
+    },
+    {
+      "surface": "בעניו",
+      "gloss": "v njegovi stiski"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "in odpira"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "v stiski"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "njihovo uho"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:08.122757612Z",
+  "model": "glm-5.3"
+}

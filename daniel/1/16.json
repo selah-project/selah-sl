@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זרענים",
+      "rationale": "edino mesto v Tanahu; dobesedno 'posejane stvari', zelenjava."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zelenjavo",
+      "rationale": "זרענים dobesedno 'kar je posejano'; slovenščina 'zelenjava' izgubi sliko sejanja."
+    }
+  ],
+  "translation": "In oskrbnik je odnašal ⟨את⟩ njihovo poslastico in vino njihovega pitja ter jim dajal zelenjavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/13-16.1792437341956.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "oskrbnik"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "odnašal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihovo poslastico"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "njihovo poslastico"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "in vino"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "njihovega pitja"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ter dajal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "zelenjavo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:41.960040770Z",
+  "model": "glm-5.3"
+}

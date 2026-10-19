@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sedlo",
+      "rationale": "מרכב je tu vozní sedež\/sedlo (ne bojni voz); nekateri prevajajo 'voz'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zav",
+      "rationale": "הזב je deležnik 'isti z izlivom'; prevzeto kot ena beseda 'zav' po hebrejskem zvoku."
+    }
+  ],
+  "translation": "In vsako sedlo, na katero se povzpne zav, bo nečisto.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1b032c8b2665d8b2c803af56ecacea2021f6394ee66d857415edd0d80f8eecfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/15\/9-12.1792424346560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsako"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "sedlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "se povzpne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na katero"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zav"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bo nečisto"
+    }
+  ],
+  "timestamp": "2026-10-19T15:39:06.561408779Z",
+  "model": "glm-5.3"
+}

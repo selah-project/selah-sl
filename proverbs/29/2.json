@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צַדִּיקִים je pridevnik 'pravični', iz korena cedek; množina ostaja množina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העם \/ עם",
+      "rationale": "ponovitev 'ljudstvo' na koncu obeh polveršev, pri čemer drugič brez člena."
+    }
+  ],
+  "translation": "Ko se cedek pomnoži, ⟨se⟩ ljudstvo veseli; a ko vlada tisti, ki je rša, ljudstvo ište.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/1-4.1792436209693.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "ko se pomnoži"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "veseli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "a ko vlada"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tisti, ki je rša"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "ište"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:49.695353165Z",
+  "model": "glm-5.3"
+}

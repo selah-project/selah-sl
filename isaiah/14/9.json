@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 14:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לקראת",
+      "rationale": "predlog 'naproti' v hebrejščini stoji sam, brez glagola gibanja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kozle zemlje",
+      "rationale": "עתודי dobesedno 'kozli', preneseno voditelji; večina prevodov da samo 'voditelji'"
+    },
+    {
+      "kind": "secret",
+      "subject": "šeol",
+      "rationale": "verz govori o podzemnem svetu mrtvih, gledan od znotraj"
+    }
+  ],
+  "translation": "Šeol spodaj se je zgrozil zaradi tebe, da bi ti šel naproti ob tvojem prihodu; zbudil ti je refaime, vse kozle zemlje, dvignil je s njihovih prestolov vse kralje narodov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "798d95729ea1c9153983d32b12bb8057b5fd741d19c6c5f49a1dfcd022e3af6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/14\/9-12.1792430065532.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Šeol"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "spodaj"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "je zgrozil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zaradi tebe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tvojem prihodu"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "zbudil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "עתודי",
+      "gloss": "kozle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "dvignil je"
+    },
+    {
+      "surface": "מכסאותם",
+      "gloss": "s njihovih prestolov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralje"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodov"
+    }
+  ],
+  "timestamp": "2026-10-19T17:14:25.533378863Z",
+  "model": "glm-5.3"
+}

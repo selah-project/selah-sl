@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje dodan predmet pri 'postavil'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ko",
+      "rationale": "כי kot 'ko\/ko gledam' (KJV 'when I consider') proti vzročnemu 'kajti' (YLT 'for I see')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nebesa",
+      "rationale": "שמים je dvojina — 'nebesa' dvojninsko ohranja obliko"
+    }
+  ],
+  "translation": "Ko gledam tvoja nebesa, dela tvojih prstov, luno in zvezde, ki si jih postavil —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/8\/1-4.1792434538483.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "gledam"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "tvoja nebesa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dela"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "tvojih prstov"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "luno"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "in zvezde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "si jih postavil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:58.486282391Z",
+  "model": "glm-5.3"
+}

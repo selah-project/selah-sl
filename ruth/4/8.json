@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kdo snuje sandalo",
+      "rationale": "Slovnica dovoljuje goela (kot v 4,7) ali Boaza (KJV 'he' = Boaz); kontinuacija 4,7 kaže na goela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קנה \/ קניתי",
+      "rationale": "Isti glagol קנה kot v 4,5 — kupiti; goel vrača besedo Boazu kot ukaz."
+    }
+  ],
+  "translation": "In goel je rekel Boazu: Kupi ⟨zase⟩! In snel je svojo sandalo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/5-8.1792436919290.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boazu"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Kupi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨zase⟩"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "In snel je"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "svojo sandalo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:39.292136652Z",
+  "model": "glm-5.3"
+}

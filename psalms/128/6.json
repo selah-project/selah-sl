@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Shalom",
+      "rationale": "שלום pomeni celost, blagostanje, ne le odsotnost vojne; beseda je ohranjena po zvoku"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sine svojih sinov",
+      "rationale": "hebrejska zveza בנים לבניך — dobesedno 'sini sinov tvojih' — pomeni vnuke"
+    }
+  ],
+  "translation": "in glej sine svojih sinov. Shalom nad Jisraelom!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/128\/5-6.1792435573476.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sine"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "svojih sinov"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:13.477599400Z",
+  "model": "glm-5.3"
+}

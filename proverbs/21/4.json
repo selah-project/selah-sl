@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "oranjevina",
+      "rationale": "ניר je tu ediničen: 'oranje' (KJV\/JPS 'plowing') proti 'lampa' (možna zamenjava z נר) — ASV 'lamp'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ניר",
+      "rationale": "Beseda v tem pomenu (sveže preorana zemlja) se pojavi samo tu v Tanahu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רום … ורחב לב",
+      "rationale": "Paralelizem: oči gor, srce na široko — telesna slika oholosti"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Nominalni stavek brez kopule v hebrejščini"
+    }
+  ],
+  "translation": "Vzdignjenost oči in razumno srce — oranjevina hudobnih ⟨je⟩ greh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/1-4.1792436050502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "vzdignjenost"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "in razumno"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "נר",
+      "gloss": "oranjevina"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnih"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "greh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:10.504742115Z",
+  "model": "glm-5.3"
+}

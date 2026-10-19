@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 21:33",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se vleče",
+      "rationale": "ימשוך: 'vleče se za njim (v grob)' vs preneseno 'sledi mu' — KJVA 'shall draw after him'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "grude",
+      "rationale": "רגבי so grude gline doline — slika groba, ne abstraktna 'zemlja'."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Grude doline so ⟨mu⟩ sladki, in za njim vsak človek se vleče, pred njim pa ni števila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7785c4d2a7ee641a0d38ece0f1796f8f15f10fe093a2c1e81d5e50be63f587fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/21\/33-34.1792436494031.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתקו",
+      "gloss": "so sladki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "רגבי",
+      "gloss": "grude"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "doline"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "in za njim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "ימשוך",
+      "gloss": "se vleče"
+    },
+    {
+      "surface": "ולפניו",
+      "gloss": "in pred njim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "števila"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:34.031806852Z",
+  "model": "glm-5.3"
+}

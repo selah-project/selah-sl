@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 24:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צלמות",
+      "rationale": "Beseda tsalmavet ('senca smrti') se v verzu ponovi dvakrat in drži verze skupaj."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי יחדו בקר למו",
+      "rationale": "Različice: 'jutro je zanje kakor smrtna senca' (KJV) proti 'smrtna senca je zanje kakor jutro' (JPS) — kaj je podrednik, kaj glavnik, je sporno."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kdor jih vidi⟩",
+      "rationale": "Hebrejščina ima יכיר brez imenovanega subjekta; dodan splošni subjekt."
+    }
+  ],
+  "translation": "Kaj je jutro zanje skupaj smrtna senca; kaj spozna ⟨kdor jih vidi⟩ grozo smrtne sence.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/24\/17-20.1792436508652.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutro"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zanje"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "smrtna senca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "spozna"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "grozo"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "smrtne sence"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:48.652744624Z",
+  "model": "glm-5.3"
+}

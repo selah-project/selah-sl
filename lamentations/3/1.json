@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez veznika; Slovenia zahteva 'sem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "עברה je izbruh strasti\/jeze, ne stalna lastnost."
+    }
+  ],
+  "translation": "Jaz ⟨sem⟩ ⟨ta⟩ mož, ki je videl bedo v žezlu njegove jeze.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/1-4.1792436991759.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨ta⟩ mož"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "je videl"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bedo"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "v žezlu"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "njegove jeze"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:51.760393279Z",
+  "model": "glm-5.3"
+}

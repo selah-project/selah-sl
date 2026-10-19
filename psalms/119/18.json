@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גל עיני",
+      "rationale": "Dobesedno 'odkrij (kakor pokrivalo) moje oči' — idiom za 'odpri mi oči'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה se po pravilih prevaja kot Tora, ne 'postava' ali 'zakon'."
+    }
+  ],
+  "translation": "Razkrij moje oči, da bom uzrl čudeže iz tvoje Tore.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/17-20.1792435517205.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Razkrij"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oči"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "da bom uzrl"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "čudeže"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "iz tvoje Tore"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:17.206261270Z",
+  "model": "glm-5.3"
+}

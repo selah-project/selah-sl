@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 29:13",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hebrew word order puts the participle before אנחנו; Slovenian fronting of subject pronoun"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidova molitev",
+      "rationale": "neposreden nagovor Elohima"
+    }
+  ],
+  "translation": "In zdaj, Elohim naš, zahvaljujemo se tebi in hvalimo ime tvoje veličastnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a716c603d3ac571d617a15ee305caf673a17d121ebe3e742742680c9b4d4e99a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/29\/13-16.1792438409998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "מודים",
+      "gloss": "zahvaljujemo se"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ומהללים",
+      "gloss": "in hvalimo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "tvoje veličastnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:29.999676498Z",
+  "model": "glm-5.3"
+}

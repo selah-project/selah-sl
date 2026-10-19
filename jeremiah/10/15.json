@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina izpušča glagol biti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "obisk",
+      "rationale": "פקודה = obisk\/vizitacija, v slovenščini 'obisk' nosi sodni pridih izročitve"
+    }
+  ],
+  "translation": "Ničevost ⟨so⟩ ti, del blodnje; ob času svojega obiska bodo izginili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/10\/13-16.1792431227459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ničevost"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "del"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "blodnje"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ob času"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "svojega obiska"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bodo izginili"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:47.459993674Z",
+  "model": "glm-5.3"
+}

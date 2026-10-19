@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Slovenščina zahteva pomožni glagol pri pretekliku, hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "uprli",
+      "rationale": "מרה dobesedno ‘ogorčiti, postati grenko’; upor uporablja grenkobo kot sliko."
+    }
+  ],
+  "translation": "Mi — prestopili smo in se uprli; ti pa nisi odpustil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/41-44.1792436980198.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "prestopili smo"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "in se uprli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "odpustil si"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:40.199421075Z",
+  "model": "glm-5.3"
+}

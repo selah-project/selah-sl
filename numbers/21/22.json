@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 21:22",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דרך המלך",
+      "rationale": "'kraljeva pot' — uradna javna pot skozi deželo, ne cesta v lasti kralja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אעברה \/ נעבר",
+      "rationale": "isti glagol עבר na začetku in koncu verza — prošnja se zaključi z istim prehodom, okvir prošnje."
+    },
+    {
+      "kind": "you",
+      "subject": "Sihonu, kralju Emorcejv",
+      "rationale": "neposreden nagovor prek poslancev Sihonu."
+    }
+  ],
+  "translation": "Prehodili bi skozi tvojo deželo; ne bomo zavili v polje niti v vinograd, ne bomo pili vode iz vodnjaka; po kraljevi poti hodimo, dokler ne prečemo tvoje meje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "225b637c012cddfacc1441069fbadfa0d71ab6c66615699115f19d69ba991032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/21\/22-22.1792433247644.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "prehodili bi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "skozi tvojo deželo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "bomo zavili"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "v polje"
+    },
+    {
+      "surface": "ובכרם",
+      "gloss": "niti v vinograd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "bomo pili"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vode"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iz vodnjaka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljevi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "prečemo"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "tvojo mejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:27.646198374Z",
+  "model": "glm-5.3"
+}

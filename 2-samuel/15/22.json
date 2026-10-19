@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 15:22",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "David Itaiju",
+      "rationale": "Kraljev ukaz neposredno naslovljen Itaiju."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Slovenščina potrebuje veznik za pridevniški stavek 'ki je bila pri njem'."
+    }
+  ],
+  "translation": "In David je rekel Itaiju: Pojdi in pojdi čez. In Itai Gatčan je prečkal, in vsi njegovi možje in vsa otročad, ki je bila ⟨את⟩ pri njem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/15\/21-24.1792428516970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in-je-rekel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itaiju"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "in-pojdi-čez"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "in-je-prečkal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gatčan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in-vsak"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "njegov-možje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in-vsa"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "otročad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pri njem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:48:36.971787824Z",
+  "model": "glm-5.3"
+}

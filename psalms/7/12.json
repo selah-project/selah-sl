@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "זעם בכל יום",
+      "rationale": "KJV bere z mislimi na hudiča ('jezen vsak dan'); YLT 'ni jezen vsak čas' — vprašanje, ali je gnev staljen ali vsak dan nov"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדיק tukaj pridevnik k sodniku — 'sodnik-pravičen', ne abstraktna pravičnost"
+    },
+    {
+      "kind": "elision",
+      "subject": "זעם",
+      "rationale": "dovoljeno tudi branje s povpraševalnim pomenom 'jezen?' (kot Wycliffe); izbrana trditvena stran"
+    }
+  ],
+  "translation": "Elohim je sodnik-pravičen, ⟨je⟩ El, ki se joka-gnevi vsak dan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6481eb93da892db4ece52e67f58e3ebe1e6f77fb3f9c620d5be423f496fbd4da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/12-12.1792438984478.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sodnik"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "se gnevi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:04.478709491Z",
+  "model": "glm-5.3"
+}

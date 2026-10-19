@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje pomožnik pri pretekliku, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In Filištinci so se bojevali proti Jisraelu, in možje Jisraelovi so zbežali pred Filištinci, in padli ⟨so⟩ pobiti na gori Gilboa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5af08338117be119e983160416ce7a695d5be80c90fbcc42497ccfa5951866f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/10\/1-4.1792438196280.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "In Filištinci"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "so se bojevali"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "proti Jisraelu"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "in so zbežali"
+    },
+    {
+      "surface": "איש",
+      "gloss": "možje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filištinci"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "in padli"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "pobiti"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:56.280998597Z",
+  "model": "glm-5.3"
+}

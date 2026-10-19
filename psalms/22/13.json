@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mogočni-biki",
+      "rationale": "אַבִּירֵי je 'mogočni\/vodilni', prevodne različice so 'biki' — popolnoma ali delno."
+    }
+  ],
+  "translation": "Obdali so me biki številni, mogočni-biki Bašana so me obkolili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/13-16.1792434642263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "obdali so me"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "biki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "številni"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "mogočni-biki"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašana"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "so me obkolili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:42.263720510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "glasbeni uboj",
+      "rationale": "תקע je glagol 'trobiti\/udariti' kot samostalnik — blizu 'udarec trobente'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seznam inštrumentov",
+      "rationale": "v.3–5 naštevajo inštrumente po vrsti — katalog hvaljenja"
+    }
+  ],
+  "translation": "Hvalite ga z glasbenim ubojem šofarja, hvalite ga z nevelom in kinorjem!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/150\/1-4.1792435782864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "z glasbenim ubojem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofarja"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "z nevelom"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "in kinorjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:42.865374800Z",
+  "model": "glm-5.3"
+}

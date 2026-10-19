@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ערער",
+      "rationale": "Redka beseda, edinstven pomen 'osamljeni\/zapuščeni'; nekateri razlagajo tudi kot rastlina 'glog'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ערער",
+      "rationale": "'zapuščeni revež' proti dobesedni rastlini (Arar); primanjkuje čist slovenski bližnjji ustreznik."
+    }
+  ],
+  "translation": "Obrača se k molitvi zapuščenega in ne zaničuje ⟨את⟩ njihove molitve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/17-20.1792435336343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Obrača se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "molitvi"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "zapuščenega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "zaničuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove molitve"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "njihove molitve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:16.344574417Z",
+  "model": "glm-5.3"
+}

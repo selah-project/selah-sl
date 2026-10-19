@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jeza",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi'; jeza v hebrejščini gori v nosu — v slovenščini 'jeza', slika nosu je izgubljena"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moše",
+      "rationale": "Jahve neposredno nagovarja Mošeta — 'pusti me' je nagovor, ki kliče Molitvovo posredovanje"
+    }
+  ],
+  "translation": "In zdaj pusti me, naj vzplameni moja jeza-nad-njimi in jih pokončam; in naredil bom ⟨את⟩ te za velik narod.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/32\/9-12.1792423792716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "In zdaj"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "pusti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "naj vzplameni"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "moja jeza (nos)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "in jih pokončam"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "in naredil bom"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te (za velik narod)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "za narod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    }
+  ],
+  "timestamp": "2026-10-19T15:29:52.718129147Z",
+  "model": "glm-5.3"
+}

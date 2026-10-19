@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את pred והבית",
+      "rationale": "drugi את je zlival s predlogom ה v והבית, hebrejščina ga ne zapiše ločeno."
+    }
+  ],
+  "translation": "In videla je kraljica Sabska ⟨את⟩ modrost Šelomohovo in ⟨את⟩ hišo, ki jo je zidal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b6658eb8b144776200fa24f9b6f3cc3b46e9e81b80fe172c543c4e3f4385aa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/9\/1-4.1792438602485.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "in videla je"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kraljica"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sabska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modrost Šelomohovo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomohovo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "in ⟨את⟩ hišo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jo je zidal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:42.488831400Z",
+  "model": "glm-5.3"
+}

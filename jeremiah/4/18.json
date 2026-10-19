@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 4:18",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje glagol; hebrejščina ima עשו v množini za dvojino podometov."
+    },
+    {
+      "kind": "you",
+      "subject": "tvoja pot",
+      "rationale": "neposreden ogovor Jerušalajim \/ hčere Siona."
+    },
+    {
+      "kind": "crux",
+      "subject": "נגע עד לבך",
+      "rationale": "'dotaknil se do srca': doseglа ali udaril — KJV 'reacheth' proti YLT 'struck'."
+    }
+  ],
+  "translation": "Tvoja pot in tvoja dejanja so ti povzročila ⟨את⟩ to; to je tvoja hudobija, ker je grenka, ker seže do tvojega srca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/4\/17-20.1792431136884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכך",
+      "gloss": "tvoja pot"
+    },
+    {
+      "surface": "ומעלליך",
+      "gloss": "in tvoja dejanja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sta povzročila"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "tvoja hudobija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "מר",
+      "gloss": "grenka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "seže"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvojega srca"
+    }
+  ],
+  "timestamp": "2026-10-19T17:32:16.885222684Z",
+  "model": "glm-5.3"
+}

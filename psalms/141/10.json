@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "hebrejščina ima gol jazteljivnik יפלו — slovenski želelni 'naj' je dodan"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עד אעבור",
+      "rationale": "lahko tudi 's tem, ko jaz preidem' — ylt 'till I pass over' proti kjv 'whilst I withal escape'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פח \/ מוקשות \/ מכמור",
+      "rationale": "verz 9 in 10 gradita verigo treh različnih besed za past; v slovenščini trije izrazi: past, zanka, lovska mreža"
+    }
+  ],
+  "translation": "Naj padejo v svoje lovske mreže hudobneži, skupaj — jaz pa ⟨naj⟩ preidem, dokler ⟨ne mine nevarnost⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/141\/9-10.1792435702705.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Naj padejo"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "v svoje lovske mreže"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobneži"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "preidem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:22.706988438Z",
+  "model": "glm-5.3"
+}

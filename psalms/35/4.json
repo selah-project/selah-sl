@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v grškem pomenu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרu",
+      "rationale": "dvojni glagol sramu — zardeti in osramočeno biti — parna struktura iztrebljanja, v slovenščini delno izgubljena"
+    }
+  ],
+  "translation": "Sram naj jih bo in naj bodo osramočeni, ki iščejo mojo dušo; naj se umaknejo nazaj in naj ponično rdečijo, ki snujejo mojo nesrečo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91d7baf587f2bb29c4464ae972342150028ff5afed3a94eb5539d8767ed58876",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/4-4.1792439033526.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "sram naj jih bo"
+    },
+    {
+      "surface": "וליכלמו",
+      "gloss": "in naj bodo osramočeni"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ki iščejo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "naj se umaknejo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "in naj ponično rdečijo"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ki snujejo"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mojo nesrečo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:53.529273424Z",
+  "model": "glm-5.3"
+}

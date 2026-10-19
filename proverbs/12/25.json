@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Hebrejščina izraža predmet s končnico -נה (jo\/ga) na glagolu; slovenščina potrebuje samostalniški zaimek."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישחנה \/ ישמחנה",
+      "rationale": "Priklopi se ista končnica -נה na dva korena: שוח (pognati dol) in שמח (razveseliti) — dvojni stavk z zrcalno obliko."
+    }
+  ],
+  "translation": "Skrb v srcu človeka ga pripogne, dobra beseda pa ga razveseli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/12\/25-28.1792435941706.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "Skrb"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srcu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "ga pripogne"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "ga razveseli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:21.707723954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨še⟩",
+      "rationale": "slovenski podaljševalni prislov, hebrejščina ga izraža z עוד"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ייבש",
+      "rationale": "koren pomeni 'osušiti se' in 'postiditi se' — dvojni pomen izgubljen v slovenščini"
+    }
+  ],
+  "translation": "Dokar je ⟨še⟩ v svoji zelenosti, se ne obere, in pred vso travo oveni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "beda7c3bb7c108b4aa7fdd86ab6bfa2626227bdffa1ec19deae0163fd119070c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/9-12.1792436317207.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "dokar je še"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "v svoji zelenosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "se obere"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "travo"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "oveni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:37.208552529Z",
+  "model": "glm-5.3"
+}

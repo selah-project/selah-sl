@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק se ohrani po zvoku; 'pravičnost' sama bi izbrisala eno besedo enega korena"
+    }
+  ],
+  "translation": "Sodi me po svojem cedeku, Jahve, Elohim moj, najpa se ne veselijo nad menoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/21-24.1792434744191.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "sodi me"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "po svojem cedeku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "naj se veselijo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nad menoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:24.193739293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cvetoč",
+      "rationale": "ורענן dobesedno 'zelen', preneseno 'uspevan, cvetoč' — podoba bujnosti rastlinja."
+    },
+    {
+      "kind": "addition",
+      "subject": "sem bil",
+      "rationale": "Aramejščina izraža s samo הוית; slovenščina potrebuje pomožni glagol."
+    },
+    {
+      "kind": "you",
+      "subject": "do bralca",
+      "rationale": "Kralj govori v prvi osebi o sebi — pismo, naslovljeno na vse ljudstva (okvir pisma)."
+    }
+  ],
+  "translation": "Jaz, Nevukadnevar, sem bil miren v svoji hiši in cvetoč v svojem dvoru.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/4\/1-4.1792437430845.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnevar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "miren"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "sem bil"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "v svoji hiši"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "in cvetoč"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "v svojem dvoru"
+    }
+  ],
+  "timestamp": "2026-10-19T19:17:10.854562714Z",
+  "model": "glm-5.3"
+}

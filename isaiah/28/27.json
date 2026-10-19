@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 28:27",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "črni kumin",
+      "rationale": "קצח: večina 'črni kumin \/ nagarnovek', KJV 'fitches'; domnevno isto seme kot v 28,25"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פאופן עגלה",
+      "rationale": "dobesedno 'in kolo voza'; konstrukt je vezan, 'kolo voza' ohranja vez"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה\/שבט",
+      "rationale": "paralelizem palica–šiba v verzu; בשבט je ista beseda kot Jacobova 'šiba' (1 Mz 49,10), odmev izgubljen v slovenščini"
+    }
+  ],
+  "translation": "Kajti črnega kumína ne mlatijo z mlatilnimi sanmi, in kolo voza se ne vrti po kuminu; kajti s palico se udriha po črnem kuminu in kumin se bije s šibo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7326f4f7a557220ac5d122042c1a5a21e3c43f79efe0b3499479111301ece267",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/28\/26-28.1792433430382.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחרוץ",
+      "gloss": "z mlatilnimi sanmi"
+    },
+    {
+      "surface": "יודש",
+      "gloss": "mlatijo"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "črni kumin"
+    },
+    {
+      "surface": "ואופן",
+      "gloss": "in kolo"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "voza"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "כמן",
+      "gloss": "kuminu"
+    },
+    {
+      "surface": "יוסב",
+      "gloss": "se vrti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "s palico"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "se udriha"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "črni kumin"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "in kumin"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "s šibo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:30.384210941Z",
+  "model": "glm-5.3"
+}

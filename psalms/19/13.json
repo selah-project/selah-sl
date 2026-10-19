@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "me",
+      "rationale": "hebrejščina ima zaimka v končnici נקני; slovenščina ga izraža z besedo"
+    },
+    {
+      "kind": "mystery",
+      "subject": "skrite napake",
+      "rationale": "verz govori o napakah, ki jih nihče ne more razumeti — zavestno prikrito"
+    }
+  ],
+  "translation": "Napake — kdo jih bo razumel? Od skritih ⟨me⟩ očisti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab223a6635e9dbb49aa4a0363b93f0cc301ce685932b0143bda6c6fac7b8865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/19\/13-15.1792434629339.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שְׁגִיאוֹת",
+      "gloss": "Napake"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יָבִין",
+      "gloss": "bo razumel"
+    },
+    {
+      "surface": "מִנִּסְתָּרוֹת",
+      "gloss": "od skritih"
+    },
+    {
+      "surface": "נַקֵּנִי",
+      "gloss": "očisti ⟨me⟩",
+      "marks": "me"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:29.340433962Z",
+  "model": "glm-5.3"
+}

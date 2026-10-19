@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez kopule: צדק je samo 'cedek'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תען",
+      "rationale": "'odgovarja\/poje' — LXX 'poje', druge razlage 'govori o'; koren ana ima oboje"
+    }
+  ],
+  "translation": "Naj moj jezik odgovarja tvojo besedo, kajti vse tvoje zapovedi so cedek.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4bde22fbd19dac0a7ab8e8cf603b0923a5a602e1046e230f27de7ea05fe86548",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/169-172.1792435527709.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "naj odgovarja"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "moj jezik"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvojo besedo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvoje zapovedi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "so ⟨so⟩ cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:27.712168831Z",
+  "model": "glm-5.3"
+}

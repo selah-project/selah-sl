@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zavzetost",
+      "rationale": "קנאה je 'gorljivost\/ljubosumje' — beseda izstopa, ker je ena beseda za gorečo zvestobo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "gloss": "koren חרף ponovljen: 'sramotenja tistih, ki sramotijo' — besedna igra ostaja delno vidna"
+    }
+  ],
+  "translation": "Kajr zavzetost za tvojo hišo me je pojedla, in sramotenja tistih, ki te sramotijo, so padla name.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/9-12.1792435056265.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajr"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "zavzetost"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "za tvojo hišo"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "me je pojedla"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "in sramotenja"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "tistih, ki te sramotijo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "so padla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:36.267655167Z",
+  "model": "glm-5.3"
+}

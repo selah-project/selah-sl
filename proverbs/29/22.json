@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi', tu semitska slika jeze; 'jeznika' izgubi telesno podobo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פשע",
+      "gloss-note": "",
+      "rationale": "פשע je 'odpad\/upor' ( nacionalen, moralen, verski), ne le 'prekršek'."
+    }
+  ],
+  "translation": "Mož jeznika zaneti prepir, in gospodar-jeze obiluje upor.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/21-24.1792436204187.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jeznika"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "zaneti"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "prepir"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "in gospodar"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "jeze"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obiluje"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "upor"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:44.188671908Z",
+  "model": "glm-5.3"
+}

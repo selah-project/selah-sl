@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je ena beseda za duh\/veter\/dih — puščena kot ruah."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התעו \/ כהתעות",
+      "rationale": "istí koren תעה v 13 in 14 — veriženje zavedenja, v slovenščini deloma izgubljeno."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עועים",
+      "rationale": "razen tukaj se עַוְעֶה v Tanahu ne pojavi več."
+    }
+  ],
+  "translation": "Jahve je vmešal sredi nje ruah izkrivljenosti, in ti so zavedli ⟨את⟩ Micrajim v vsem njegovem delu, kakor tavá pijanec v svojem bljuvatu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/19\/13-16.1792430200790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "je vmešal"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sredi nje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "izkrivljenosti"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "in ti so zavedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vsem"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "njegovem delu"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "kakor tavá"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "pijanec"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "v svojem bljuvatu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:16:40.791741709Z",
+  "model": "glm-5.3"
+}

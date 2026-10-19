@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 14:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "אף je dobesedno 'nos\/nozdrvi', idiom za jezo"
+    },
+    {
+      "kind": "crux",
+      "subject": "חק",
+      "rationale": "'določen čas\/meja' (KJV 'set time') proti 'odlok\/sojenje' — nejasno"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "dostrong idiom 'kdo bi dal' = češtica, ne vprašanje"
+    }
+  ],
+  "translation": "Kdo bi dal, da me v šeolu skriješ, da me pokriješ, dokler se ne povrne tvoja jeza, da mi določiš ⟨rok⟩ in me spomniš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3087ca0decee4a556cb3ce3aed10884c8f681cccec4703ecfed155bbec7f3a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/14\/13-16.1792436373415.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bi dal"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "v šeolu"
+    },
+    {
+      "surface": "תצפנני",
+      "gloss": "me skriješ"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "me pokriješ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "se ne povrne"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvoja jeza"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "določiš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חק",
+      "gloss": "⟨rok⟩"
+    },
+    {
+      "surface": "ותזכרני",
+      "gloss": "in me spomniš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:33.416911519Z",
+  "model": "glm-5.3"
+}

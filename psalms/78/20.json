@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meso",
+      "rationale": "שאר je dobesedno 'meso, telesna hrana'; 'živilo' bi izgubilo telesno podobo."
+    },
+    {
+      "kind": "elision",
+      "subject": "הגם",
+      "rationale": "Molk 'tudi, marres' je v prevodu stisnjen v ⟨tudi⟩ pred 'kruh'."
+    }
+  ],
+  "translation": "Glej, udaril je skalo in voda je pritekla, potoki so se razlili — ali more ⟨tudi⟩ kruh dati? Pripravil ⟨bo⟩ meso za svoje ljudstvo?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/17-20.1792435131597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "udaril je"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skalo"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "je pritekla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "potoki"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "so se razlili"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "⟨tudi⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ali more"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "pripravil ⟨bo⟩"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "za svoje ljudstvo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:51.599907514Z",
+  "model": "glm-5.3"
+}

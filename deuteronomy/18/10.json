@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעונן",
+      "rationale": "koren ענן = oblak; 'opazovalec oblakov' ( vedeževanje iz oblakov) vs. tradicionalno 'opazovale časov'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קסם קסמים",
+      "rationale": "ednina + množina: dobesedno 'vedeževalec vedeževanj'; slovenščina potrebuje glagol"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelu",
+      "rationale": "neposreden nagovor Izraela"
+    }
+  ],
+  "translation": " Naj se pri tebi ne najde nihče, ki pelje svojega sina ali svojo hčer skozi ogenj, nihče, ki vedežuje, nihče, ki opazuje oblake, nihče, ki prerokuje iz znakov, nihče, ki čara.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/18\/9-12.1792426027951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "naj se ne najde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pri tebi"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "ki pelje skozi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svojega sina"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ali svojo hčer"
+    },
+    {
+      "surface": "באש",
+      "gloss": "skozi ogenj"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ki vedežuje"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "vedežuje"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "ki opazuje oblake"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ki prerokuje iz znakov"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ki čara"
+    }
+  ],
+  "timestamp": "2026-10-19T16:07:07.951810645Z",
+  "model": "glm-5.3"
+}

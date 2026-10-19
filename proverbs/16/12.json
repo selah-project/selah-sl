@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina brez pomožnika; dodano in označeno"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכון \/ כון",
+      "rationale": "isti koren כון kot v v. 9 (Jahve utrdi korak) — kralj utrdi svoj korak s cedekom"
+    }
+  ],
+  "translation": " Gnus je kraljem početi krivico, kajti s cedekom ⟨bo⟩ utrjen prestol.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/9-12.1792436011290.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "gnus"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "početi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivico"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "s cedekom"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨bo⟩ utrjen"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prestol"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:31.292396951Z",
+  "model": "glm-5.3"
+}

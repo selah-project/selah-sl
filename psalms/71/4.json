@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וחומץ",
+      "rationale": "חמץ dobesedno 'kislo\/grenko', preneseno 'nasilen, krut'; 'zatiralec' je izbor, alternativa 'krut'"
+    },
+    {
+      "kind": "you",
+      "subject": "Moj Elohim",
+      "rationale": "neposreden nagovor Boga"
+    }
+  ],
+  "translation": "Moj Elohim, iztrgaj me iz roke krivičnega, iz dlani nasilnika in zatiralca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/1-4.1792435071074.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Moj Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "iztrgaj me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "iz dlani"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "nasilnika"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "in zatiralca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:51.076974997Z",
+  "model": "glm-5.3"
+}

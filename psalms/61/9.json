@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום יום",
+      "rationale": "Podvajanje 'dan dan' pomeni 'dan za dnem' vsak dan."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לשלמי",
+      "rationale": "Kohezivni infinitiv 'pri izpolnjevanju' namesto namernega 'da izpolnjujem'."
+    },
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "Slovenščina potrebuje veznik za namerni odvisnik; hebrejščina ima samo infinitiv z -ל."
+    }
+  ],
+  "translation": "Tedaj bom pel slavo tvojemu imenu na veke, da izpolnjujem svoje zaobljube dan za dnem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "02ec82c7c94079cb9742911222ae5523a095df9f8855160e0b9c6d1c3f77b71d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/61\/9-9.1792434971847.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bom pel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvojemu imenu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "da izpolnjujem"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "svoje zaobljube"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "za dnem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:11.847952581Z",
+  "model": "glm-5.3"
+}

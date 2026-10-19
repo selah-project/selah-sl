@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עונם \/ חטאותם",
+      "rationale": "par עון\/חטאת — krivda in greh; 'obiskal' (פקד) lahko pomeni obisk z sovražnim namenom, torej 'kaznoval'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העמיקו שחתו",
+      "rationale": "dvojni glagol — 'poglobili so, pokvarili so' — ritem sodbe, v slovenščini zložen v enega"
+    },
+    {
+      "kind": "elision",
+      "subject": "מי הגבעה",
+      "rationale": "namig na zločin iz Sod 19 v Gibeji, ki hebrejščina ne razloži — bralec ga pozna"
+    }
+  ],
+  "translation": "Globoko so se pokvarili kakor v dnevih Gibeje: pomnil bo njihovo krivdo, obiskal bo njihove grehe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/9\/9-12.1792433870119.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "globoko so se"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "pokvarili"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kakor v dnevih"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibeje"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "pomnil bo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "njihovo krivdo"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "obiskal bo"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "njihove grehe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:50.119931431Z",
+  "model": "glm-5.3"
+}

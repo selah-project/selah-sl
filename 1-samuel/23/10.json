@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע שמע",
+      "rationale": "infinitiv absolut pred glagolom — 'slišal je resnično slišal'; slovenščina to izrazi z 'zagotovo slišal'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "David se neposredno obrača na Jahveja, Elohima Jisraela"
+    }
+  ],
+  "translation": "In David je rekel: Jahve, Elohim Jisraela, tvoj služabnik je zagotovo slišal, da Šaul išče priti v Keilo, da uniči mesto zaradi mene.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/23\/9-12.1792427928589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In-je-rekel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zagotovo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slišal"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvoj-slžabnik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "išče"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "priti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilo"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "da-uniči"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "zaradi-mene"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:48.590315505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 9:13",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bodo",
+      "rationale": "slovenščina zahteva pomožni glagol za prihodnjiški pomen, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "במשך הזרע",
+      "rationale": "dobesedno 'v tistega, ki vleče\/seje seme' — sejalec; nekateri berijo 'tlačilec grozdja v sejalca semena' (kdo dohaja koga) glede na vrstni red"
+    },
+    {
+      "kind": "substitution",
+      "subject": "raztopili",
+      "rationale": "תתמוגגנה je 'tali se, razteka se' — slika preobilja, ki teče"
+    }
+  ],
+  "translation": "Glej, dnevi prihajajo, govori Jahve, in predrli bo voračevalec žetev in tlačilec grozdja sejalcu semena, in gore bodo kapljale mošt, in vsi hribi se bodo raztopili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "362b49c061b2a51ec834214c28e8912e0e106a2870fda8803f35e644eb0616bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/9\/13-15.1792434037400.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "prihajajo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "in predrli bo"
+    },
+    {
+      "surface": "חורש",
+      "gloss": "voračevalec"
+    },
+    {
+      "surface": "בקצר",
+      "gloss": "žetev"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "in tlačilec"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "grozdja"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "sejalcu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "semena"
+    },
+    {
+      "surface": "והטיפו",
+      "gloss": "in bodo kapljale"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": " gore"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "mošt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsi"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "hribi"
+    },
+    {
+      "surface": "תתמוגגנה",
+      "gloss": "se bodo raztopili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:20:37.401689323Z",
+  "model": "glm-5.3"
+}

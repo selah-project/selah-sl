@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 35:28",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mora",
+      "rationale": "Hebrejščina ima gol jussiv 'yasev'; slovenščina potrebuje modalnost obveznosti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות הכהן הגדל",
+      "rationale": "Dvojna ponovitev 'smrt velikega duhovnika' oklepa stavek v chiasm podobni strukturi."
+    }
+  ],
+  "translation": "saj v mestu svojega zatočišča mora prebivati do smrti velikega duhovnika; po smrti pa velikega duhovnika se bo ubijalec vrnil v deželo svoje posesti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "28d5752f8a604d947087b4aeb51b92eef169a7b258a488831c2fd0949ecc9854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/35\/25-28.1792425606112.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "svojega zatočišča"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mora prebivati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "velikega"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "velikega"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se bo vrnil"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ubijalec"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "svoje posesti"
+    }
+  ],
+  "timestamp": "2026-10-19T16:00:06.113269169Z",
+  "model": "glm-5.3"
+}

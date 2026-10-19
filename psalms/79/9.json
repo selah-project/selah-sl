@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Neposreden nagovor Boga s prošnjo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pokrij naše grehe",
+      "rationale": "כפר dobesedno 'pokriti' (kot s smolo); slovenska biblijska tradicija pravi 'odpusti'."
+    },
+    {
+      "kind": "elision",
+      "subject": "דבר",
+      "rationale": "על דבר je fraza 'na podlagi (besede)'; דבר glosiran kot del frazema."
+    }
+  ],
+  "translation": "Pomagaj nam, Elohim naše rešitve, glede ⟨А⟩ slave svojega imena, in reši nas in pokrij naše grehe, zaradi svojega imena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/79\/9-12.1792435190363.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Pomagaj nam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "naše rešitve"
+    },
+    {
+      "surface": "על",
+      "gloss": "glede"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨А⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "svojega imena"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "in reši nas"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "in pokrij"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "našimi grehi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "svojega imena"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:50.364602874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "k večnim ruševinam",
+      "rationale": "למשאות נצח: 'k večnim ruševinam' ali 'da za vedno porušiš' — glagolska ali imenovalniška razlaga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "v svetem",
+      "rationale": "בקדש je sveti kraj\/svetišče; 'sveto' ohranja koren קדש"
+    }
+  ],
+  "translation": "Vzdigni svoje korake k večnim ruševinam — vsemu, kar je hudega storil sovražnik v svetem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/1-4.1792435086362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Vzdigni"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "svoje korake"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "k ruševinam"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "večnim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsemu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kar je hudega"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnik"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "v svetem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:06.364439077Z",
+  "model": "glm-5.3"
+}

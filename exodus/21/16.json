@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונמצא בידו",
+      "rationale": "'najden v njegovi roki' — v roki ugrabitelja (JPS) ali kupca; hebrejščina dopušča oboje."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומת",
+      "rationale": "infinitiv absolutni: 's smrtjo bo usmrčen' — intenzivna potrditev."
+    }
+  ],
+  "translation": "In kdor ukrade ⟨את⟩ človeka in ga proda, ali pa je najden v njegovi roki, gotovo naj bo usmrčen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/21\/13-16.1792423482800.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "in kdor ukrade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "in ga proda"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ali pa je najden"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v njegovi roki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gotovo ⟨usmrčen⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "naj bo usmrčen"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:42.801746440Z",
+  "model": "glm-5.3"
+}

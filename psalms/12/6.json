@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיח לו",
+      "rationale": "KJV 'sopiha nad njim' (piha zaničevalno) proti ASV 'sopiha zanj' (hrepeni po rešitvi); izbrana druga preberba"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "hebrejščina ne izreka predmeta v אשית; dodan namestilnik"
+    }
+  ],
+  "translation": "Zaradi nasilja ubogih, zaradi vzklika revnih — zdaj vstanem, govori Jahve, postavim ⟨ga⟩ v rešitev, ⟨tistemu, ki zanj sopiha⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/12\/5-8.1792434607669.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "zaradi nasilja"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ubogih"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "zaradi vzklika"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "revnih"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "vstanem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postavim"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "v rešitev"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "sopiha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zanj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:07.671283084Z",
+  "model": "glm-5.3"
+}

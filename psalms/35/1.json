@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה\/יריבי, לחם\/לחמי",
+      "rationale": "Koren-dvojni par: 'pretendi\/nasprotniki' in 'bojuj\/borci' — iste repe v istem verzu, v slovenščini izgubljeno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש kasneje; tukaj ריב",
+      "rationale": "ריב je pravno pretendeniranje; 'preganjati se' poskuša ohraniti sodni prizor."
+    }
+  ],
+  "translation": "Davidova. Preganjaj se, Jahve, s ⟨את⟩ mojimi nasprotniki, bojuj se s ⟨את⟩ tistimi, ki se borijo z menoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/1-4.1792434772067.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Preganjaj se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojimi nasprotniki"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "mojimi nasprotniki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bojuj se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tistimi, ki se borijo z menoj"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "tistimi, ki se borijo z menoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:52.069011325Z",
+  "model": "glm-5.3"
+}

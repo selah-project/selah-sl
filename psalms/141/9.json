@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מידי פח",
+      "rationale": "dobesedno 'iz rok pasti' — past kot roka, ki zagrabi; slovensko 'pred rokami pasti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "און je 'ničevost, praznina, naklep zla' — 'ničavost' drži prvi pomen, ne samo 'hudobija'"
+    }
+  ],
+  "translation": "Varuj me pred rokami pasti, ki so jo nastavili zame, in pred zankami delavcev ničavosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/141\/9-10.1792435702705.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Varuj me"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "pred rokami"
+    },
+    {
+      "surface": "פח",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "ki so jo nastavili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zame"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "in pred zankami"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "delavcev"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničavosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:22.706608259Z",
+  "model": "glm-5.3"
+}

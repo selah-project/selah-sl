@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 9:2",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Slovenščina potrebuje glagol 'biti', hebrejščina ga pri opisu višine nima."
+    },
+    {
+      "kind": "measurement",
+      "subject": "višina",
+      "rationale": "Verz meri Šaula proti vsemu ljudstvu — od ramen navzgor višji od vsakogar."
+    }
+  ],
+  "translation": "In imel je sina, njegovo ime pa je bilo Šaul, izbran in lep; in ni bilo moža med sinovi Jisraela, lepšega od njega; od ramen navzgor je bil višji od vsega ljudstva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/9\/1-4.1792427610918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "In njemu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "izbran mladenič"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "in lep"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni bilo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "med sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepšega"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "משכמו",
+      "gloss": "od njegovih ramen"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "in navzgor"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "višji"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vsega"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T16:33:30.919341731Z",
+  "model": "glm-5.3"
+}

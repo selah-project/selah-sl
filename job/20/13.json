@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 20:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo \/ ampak",
+      "rationale": "Slovenščina potrebuje dodan predmet in protivni veznik, ki ga hebrejščina ne izreka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebo ust",
+      "rationale": "חֵךְ je oziček oz. samo usta; 'nebo ust' je slovenska telesna slika istega organa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vrd 20,12–14",
+      "rationale": "Verz nadaljuje sliko sladkega zla pod jezikom; hebrejščina drži celoten motiv v ustih, slovenščina ga ohranja z istim telesnim prostorom."
+    }
+  ],
+  "translation": "Pozali ⟨jo⟩ in je ne zapusti, ⟨ampak⟩ jo zadržuje v sredini svojega neba ust.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2eeb078858b3bfce377c3c30b05a714e374dc5aba42beba5a3fadfc2968462a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/13-16.1792436472134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחמל",
+      "gloss": "pozali"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨jo⟩ nad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יעזבנה",
+      "gloss": "zapusti"
+    },
+    {
+      "surface": "וימנענה",
+      "gloss": "zadržuje"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "v sredini"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "svojega neba ust"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:12.135619844Z",
+  "model": "glm-5.3"
+}

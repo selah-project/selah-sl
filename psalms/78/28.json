@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחנהו \/ למשכנתיו",
+      "rationale": "pripona 3. osebe ednine: 'njegov tabor' (Božji, YLT) ali 'njihov tabor' (KJV\/JPS, misel na ljudstvo); dobesedno je 'njegov'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pustil ga je pasti",
+      "rationale": "ויפל je povzročiteljsko ('dal pasti') brez imenovanega predmeta — 'ga' se nanaša na meso in ptice iz vv. 24–27."
+    }
+  ],
+  "translation": "In pustil ga je pasti sredi njegovega tabora, okoli njegovih bivališč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/25-28.1792435143695.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "in pustil ga je pasti"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "njegovega tabora"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "njegovih bivališč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:03.697986814Z",
+  "model": "glm-5.3"
+}

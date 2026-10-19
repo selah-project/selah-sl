@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "dvojni veznik 'saj ampak' — slovensko enojno 'ampak (ker)'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכרתי \/ עכר",
+      "rationale": "Elija obrne Ahavovo besedo iz v. 17 nazaj nanj"
+    }
+  ],
+  "translation": "In rekel je: Jaz nisem vznemiril ⟨את⟩ Jisraela, ampak ti in hiša tvojega očeta, ker ste zapustili ⟨את⟩ zapovedi Jahveja in šli za Baali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/18\/17-20.1792429198492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "nisem vznemiril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak (ker)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "in hiša"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvojega očeta"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "ker ste zapustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zapovedi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "in šli ste"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baali"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:58.493163425Z",
+  "model": "glm-5.3"
+}

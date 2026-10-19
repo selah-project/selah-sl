@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew nominal clause lacks a copula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kdor pa se druži z",
+      "rationale": "רֹעֶה is literally 'shepherd, one who feeds\/grazes' — participial picture of accompanying, rendered as association."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sramoti",
+      "rationale": "יכלים literally 'wounds (with words), taunts'; rendered with shame for Slovenian idiom."
+    }
+  ],
+  "translation": "Varuh Tore ⟨je⟩ razumen sin, kdor pa se druži z razuzdanci, sramoti svojega očeta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "70ab27c8be0155fcd212a6e8a3f6308fc4e267f9894af80499f5bbb4b777a040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/28\/5-8.1792436167219.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "varuh"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tore"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "razumen"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kdor pa se druži z"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "razuzdanci"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "sramoti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:07.220773666Z",
+  "model": "glm-5.3"
+}

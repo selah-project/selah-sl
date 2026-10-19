@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 20:15",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bilo⟩",
+      "rationale": "hebrejščina nima kopule v odvisnem stavku"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותעמד בחל",
+      "rationale": "kaj je stalo v jarku\/na nasipu: mesto, nasip ali vojaki — prevodi se razhajajo (KJV 'stalo v jarku', Geneva 'ljudstvo na nasipu')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "tukaj את ni označevalec predmeta (H853), ampak predlog 'z' (H854): 'kateri je bil z Joabom'"
+    }
+  ],
+  "translation": "In so prišli ter ga oblegali v Abelu Bet-Maáhi, in so nasuli oblegovalni nasip proti mestu, in je stal v jarku; in vse ljudstvo, ki ⟨je bilo⟩ z ⟨את⟩ Joabom, je rušilo, da bi podrlo obzidje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7120b89be40f9f73844613ffaeb44ec0a7f73a1b0699fa68aeacec9792354e9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/20\/13-16.1792428571976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "in so prišli"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "ter oblegali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "באבלה",
+      "gloss": "v Abelu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "המעכה",
+      "gloss": "Maáhi"
+    },
+    {
+      "surface": "וישפכu",
+      "gloss": "in so nasuli"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "oblegovalni nasip"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mestu"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "in je stal"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "v jarku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Joabom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabom"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "je rušilo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "da bi podrlo"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "obzidje"
+    }
+  ],
+  "timestamp": "2026-10-19T16:49:31.977416866Z",
+  "model": "glm-5.3"
+}

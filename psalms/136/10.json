@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Temu, ki",
+      "rationale": "Hebrew infinitive construct למכה continues the participle chain of the psalm; relative phrase supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prvenci",
+      "rationale": "בכורים 'first-born' rendered as 'prvenci', chiefs of the households."
+    }
+  ],
+  "translation": "Temu, ki je udaril ⟨את⟩ Micrajim v njihove prvence, saj na veke je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/9-12.1792435578816.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Temu, ki je udaril"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "v njihove prvence"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "je njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:18.817080954Z",
+  "model": "glm-5.3"
+}

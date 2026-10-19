@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המקנה ההוא",
+      "rationale": "'tista živina' — komu pripada ta čreda (Davidova od rešenega, ali plen pred njo)? Prevodi se razhajajo: KJV 'those other cattle', YLT 'these cattle'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jih⟩",
+      "rationale": "Slovenščina potrebuje predmet pri 'gnali', hebrejščina ga izpušča."
+    }
+  ],
+  "translation": "In David je vzel ⟨את⟩ vso drobnico in govedo; gnali so ⟨jih⟩ pred tisto živino in rekli: To je Davidov plen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/30\/17-20.1792428066510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "in vzel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso drobnico in govedo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "drobnico"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "in govedo"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "gnali so"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "živino"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisto"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidov"
+    }
+  ],
+  "timestamp": "2026-10-19T16:41:06.511940426Z",
+  "model": "glm-5.3"
+}

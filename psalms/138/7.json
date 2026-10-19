@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jez",
+      "rationale": "אף je dobesedno 'nos, nosnica' — beseda za jezo kot hropenje skozi nos."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svojo⟩",
+      "rationale": "Slovenščina potrebuje svojilni zaimek, hebrejščina ima samo 'roko tvojo'."
+    }
+  ],
+  "translation": "Če hodim sredi stiske, oživiš me; proti jezi sovražnikov iztegneš ⟨svojo⟩ roko, in tvoja desnica me rešuje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/138\/5-8.1792435739100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "hodim"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "stiske"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "oživiš me"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jezi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "sovražnikov"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "iztegneš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "roko"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "in rešuješ me"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoja desnica"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:59.102068335Z",
+  "model": "glm-5.3"
+}

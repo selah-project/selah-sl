@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 1:2",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בכו תבכה",
+      "rationale": "infinitivus absolutus — 'jokajoč joče'; podvajanje korena poudarja obup, v slovenščeni samo podvojena glagolska oblika"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neverno ravnali",
+      "rationale": "בגד je 'prekrila plašč', torej ravnati prikrito\/izdajalsko; dobesedna slika je v slovenščini izgubljena"
+    }
+  ],
+  "translation": "Joka joče v noči in njene solze ⟨so⟩ na njenih licih; ni ⟨je⟩ tolažnika izmed vseh njenih ljubimcev; vsi njeni prijatelji so ji neverno ravnali, postali so ji sovražniki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/1\/1-4.1792436978091.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכו",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "joče"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noči"
+    },
+    {
+      "surface": "ודמעתה",
+      "gloss": "in njene solze"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "njenih licih"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "tolažnika"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "izmed vseh"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "njenih ljubimcev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "רעיה",
+      "gloss": "njeni prijatelji"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "so neverno ravnali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so postali"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "לאיבים",
+      "gloss": "sovražniki"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:38.092515633Z",
+  "model": "glm-5.3"
+}

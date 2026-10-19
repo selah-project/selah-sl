@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נטוי",
+      "rationale": "'nagnjena\/upoganjajoča' (KJV 'declineth') proti 'raztegnjena' (JPS 'lengthening') — senca ob koncu dneva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איבש",
+      "rationale": "יובש v pesmih pogosto tudi 'postidim se'; tu dobesedno 'usahnejo' kakor trava."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva kopulo, hebrejščina je nima."
+    }
+  ],
+  "translation": "Moji dnevi ⟨so⟩ kakor senca razprorta ⟨in⟩ jaz kakor travo ovenem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/9-12.1792435325085.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Moji dnevi"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kakor senca"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "razprorta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kakor travo"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ovenem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:05.086642556Z",
+  "model": "glm-5.3"
+}

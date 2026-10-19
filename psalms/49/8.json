@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא פדה יפדה",
+      "rationale": "Infinitiv absolut pred glagolom: 'ne odkupiti odkupi' — popolna, kategorična negacija; prevedeno 'nikakor ne odkupi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפרו",
+      "rationale": "Dvojno branje: odkupnina za njegovo (bratovo) življenje ali odkupnina za njegovo (dušo) — KJV dodaja 'for him', ylt 'his atonement'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨zanj⟩",
+      "rationale": "Slovenščina potrebuje predlog z namenom; hebrejščina ima samo besedo 'odkupnina' s pripono -ו."
+    }
+  ],
+  "translation": "Brata nikakor ne odkupi človek, ne da Elohimu odkupnine ⟨zanj⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/5-8.1792434881487.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "brata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikakor"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "nikakor"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "odkupi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "odkupnine"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:41.490193526Z",
+  "model": "glm-5.3"
+}

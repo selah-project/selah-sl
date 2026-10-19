@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 5:3",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨svojo čredo⟩",
+      "rationale": "Hebrejščina ima samo ורעה »pasel«; predmet je podaimplificiran."
+    },
+    {
+      "kind": "crux",
+      "subject": "והקמנו → וישבו",
+      "rationale": "Tu ישב = »prebivati\/ostati«; JPS »they shall abide« proti prevedbam »vrnili se bodo«."
+    }
+  ],
+  "translation": "In stal bo in pasel ⟨svojo čredo⟩ v moči Jahveja, v veličastju imena Jahveja, svojega Elohima; in prebivali bodo, kajti tedaj bo velik do koncev zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63bbc9ef49b6e85976d4a1c8dce9ed848479e1311b9560c6e9af0e2e42e46f86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/5\/1-4.1792434145045.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "In stal bo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "in pasel"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "v moči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "v veličastju"
+    },
+    {
+      "surface": "שם",
+      "gloss": "imena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svojega Elohima"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in prebivali bodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tedaj"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "bo velik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "koncev"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:25.050006083Z",
+  "model": "glm-5.3"
+}

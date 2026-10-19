@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uničenje",
+      "rationale": "שואה je vihar\/pustošenje — nevihta kot podoba propada"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה … בשואה",
+      "rationale": "ponovitev besede vihar\/uničenje na začetku in koncu verza — vključek (inclusio)"
+    }
+  ],
+  "translation": "Primore ga uničenje — ⟨naj⟩ ne ve; in njegova mreža, ki jo je skril, naj ga ujame; v uničenje naj pade vanjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/5-8.1792434755783.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "primore ga"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "uničenje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "in njegova mreža"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "je skril"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "naj ga ujame"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "v uničenje"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "naj pade"
+    },
+    {
+      "surface": "בה",
+      "gloss": "vanjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:35.785637305Z",
+  "model": "glm-5.3"
+}

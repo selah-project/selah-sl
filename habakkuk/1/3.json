@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 1:3",
+  "book": "habakkuk",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga v tem stavku nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב \/ מדון",
+      "rationale": "Dvojica dveh besed za prepir — ponovitev poudarja razdor."
+    }
+  ],
+  "translation": "Zakaj mi kazuješ krivico in trpljenje gledaš? Rop in nasilje ⟨je⟩ pred menoj, in nastal je prepir, prepir se dviga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7822c4d3ab655b3d070bdb30726a49fe4cf9de1ab1ff2eff429da8de8c3b7047",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/habakkuk\/1\/1-4.1792434248676.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Zakaj"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "mi kazuješ"
+    },
+    {
+      "surface": "און",
+      "gloss": "krivico"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "in trpljenje"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "gledaš"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "Rop"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "in nasilje"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in nastal je"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "prepir"
+    },
+    {
+      "surface": "ומדון",
+      "gloss": "prepir se dviga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "se dviga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:08.678442943Z",
+  "model": "glm-5.3"
+}

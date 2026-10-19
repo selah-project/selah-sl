@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ so",
+      "rationale": "hebrejščina brez veznika; slovenščina ga zahteva"
+    },
+    {
+      "kind": "hapax",
+      "subject": "טרד",
+      "rationale": "redka beseda — 'goniti\/nenehno pritiskati'; prevodi se razhajajo: 'nenehen' (KJV) ali 'streha, ki kaplja'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nenehno kapljanje",
+      "rationale": "besedni red dovoljuje tudi: 'in strešno kapljanje izžene (טרד) prere ženske'"
+    }
+  ],
+  "translation": "Propast svojemu očetu ⟨je⟩ neumni sin, in nenehno kapljanje ⟨so⟩ prere ženske.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/13-16.1792436030468.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "propast"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "svojemu očetu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "neumni"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "in nenehno kapljanje"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "nenehno"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "prere"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženske"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:50.469504408Z",
+  "model": "glm-5.3"
+}

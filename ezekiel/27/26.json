@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 27:26",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "Tu je predlog 's teboj' (אֵת + končnica), ne označevalnik dovodka ⟨את⟩; KJV\/ASV ga stiska v 'have brought thee'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah pomeni veter\/dih\/Duh istočasno; 'veter' bi izbrisal eno plat besede."
+    }
+  ],
+  "translation": "V vodah velikih so te privedli tvoji veslači ⟨s teboj⟩; ruah vzhodna te je razbila v srcu morij.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "acf9f92b1b59575e8050dd0b1863f855f17b12ce101e31419276513b29bb8fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/27\/25-28.1792432502536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במים",
+      "gloss": "v vodah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velikih"
+    },
+    {
+      "surface": "הביאוך",
+      "gloss": "so te privedli"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "tvoji veslači"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "vzhodna"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "te je razbila"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srcu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "morij"
+    }
+  ],
+  "timestamp": "2026-10-19T17:55:02.536780678Z",
+  "model": "glm-5.3"
+}

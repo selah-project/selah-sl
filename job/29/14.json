@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 29:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "in on je oblekel mene",
+      "rationale": "וילבשני: 'in (cedek) me je oblekel' (KJV) proti 'in se je oblekel z mano' (JPS) — glagol je dvosmeren."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je bila⟩",
+      "rationale": "Slovenščina potrebuje glagol; hebrejščina ga v drugem stavku izpušča."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק je po pravilih D2 'cedek' — pravičnost kot konkretno oblačilo, ne abstrakt."
+    }
+  ],
+  "translation": "Cedek sem oblekel, in on je oblekel mene; kot plašč in turban ⟨je bila⟩ moja sodba.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c7626a14b730aa91aeef49789b14c7211af5c69e7afd75a5560476bf2b324f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/13-16.1792436592958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "לבשתי",
+      "gloss": "sem oblekel"
+    },
+    {
+      "surface": "וילבשני",
+      "gloss": "in on je oblekel mene"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "kot plašč"
+    },
+    {
+      "surface": "וצניף",
+      "gloss": "in turban"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "moja sodba"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:12.959229730Z",
+  "model": "glm-5.3"
+}

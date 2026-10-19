@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "Hebrew lacks a copula; Slovenian requires it"
+    },
+    {
+      "kind": "alternative",
+      "subject": "svetilka",
+      "rationale": "ניר here (Ps 18 has נר); both mean lamp\/light"
+    }
+  ],
+  "translation": "Kajti ti ⟨si⟩ moja svetilka, Jahve, in Jahve razsvetli mojo temo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "87a9674051abd518cb98ca0be1bdfbe27fc02f30f2c63bbcae0b5f157dfad21c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/22\/29-32.1792428634964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "moja svetilka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "razsvetli"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "mojo temo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:50:34.965265348Z",
+  "model": "glm-5.3"
+}

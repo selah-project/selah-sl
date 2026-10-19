@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "moč",
+      "rationale": "עז kot 'moč' (KJV) proti LXX 'hvalo' (ἀῖνος), ki ga citira MT 21,16"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prsi doječih",
+      "rationale": "וינקים — doječi\/dojeni pri prsi; beseda je 'sesalci', ne 'otroci'"
+    }
+  ],
+  "translation": "Iz ust dojenčkov in prsi doječih si utrdil moč zaradi svojih nasprotnikov, da utišaš sovražnika in maščevalca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/8\/1-4.1792434538483.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "iz ust"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "dojenčkov"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "in prsi doječih"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "si utrdil"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moč"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "svojih nasprotnikov"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "da utišaš"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnika"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "in maščevalca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:58.485891385Z",
+  "model": "glm-5.3"
+}

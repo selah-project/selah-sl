@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez kopule; besedni red izvir–usta zahteva premično strukturo"
+    },
+    {
+      "kind": "crux",
+      "subject": "zakrivajo nasilje",
+      "rationale": "dvomeno: usta hudobnežev prikrivajo nasilje (JPS) ali jih nasilje prekriva (KJV — spregled subjekta)"
+    }
+  ],
+  "translation": "Izvir življenja so ⟨so⟩ usta pravičnega, usta hudobnežev pa zakrivajo nasilje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/10\/9-12.1792435896168.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "izvir"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "življenja"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "usta pa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnežev"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "zakrivajo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:36.169514088Z",
+  "model": "glm-5.3"
+}

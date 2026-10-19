@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨smo⟩",
+      "rationale": "Hebrew verbless clause; Slovenian requires the copula 'smo'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moab",
+      "rationale": "Rhetorical question addressed to Moab's self-assured warriors"
+    }
+  ],
+  "translation": "Kako pravite: Junaki ⟨smo⟩, in možje moči za vojno?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/48\/13-16.1792431862879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "pravite"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "Junaki"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨smo⟩"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "moči"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za vojno"
+    }
+  ],
+  "timestamp": "2026-10-19T17:44:22.879707837Z",
+  "model": "glm-5.3"
+}

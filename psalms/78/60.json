@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga je",
+      "rationale": "sorodniški zaimek dodan v slovenščini; hebrejščina ima samo glagolski koren שכן"
+    }
+  ],
+  "translation": "In zapustil je miškan Šilo, šotor, ki ga je naselil med ljudmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/57-60.1792435122673.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "in zapustil je"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Šilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šotor"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "naselil"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "med ljudmi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:42.675827735Z",
+  "model": "glm-5.3"
+}

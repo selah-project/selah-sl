@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלקלקות",
+      "rationale": "רעיה חלקלקה — ponavljanje korena חלק (gladiti), zven onomatopejski, v slovenščini izgubljen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gladkost",
+      "rationale": "beseda pomeni »zelo gladko, zdrsujoče, izdajalsko mesto« — likovna slika, ne abstraktna »zdrsklost«"
+    }
+  ],
+  "translation": "Bodi ⟨njihova⟩ pot tema in gladkost, in poslanec Jahveja naj jih preganja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/5-8.1792434755783.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "pot"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tema"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "in gladkost"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "in poslanec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "naj jih preganja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:35.784910753Z",
+  "model": "glm-5.3"
+}

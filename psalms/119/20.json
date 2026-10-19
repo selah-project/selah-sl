@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גרסה",
+      "rationale": "Glagol גרס 'drobiti (se)' se v Tanahu pojavlja samo tu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila\/živé bitje, ne 'nesmrtna duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik 'je' pri deležniku; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Razdrobljena ⟨je⟩ moja duša od hrepenenja po tvojih sodbah vsak čas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/17-20.1792435517205.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Razdrobljena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "od hrepenenja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "po"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvojih sodbah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:17.206722960Z",
+  "model": "glm-5.3"
+}

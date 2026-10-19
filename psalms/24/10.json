@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kabod",
+      "rationale": "הכבוד pomeni dobesedno 'teža' — slava, sijaj; puščeno po zvoku, ker je teološko obteženo."
+    },
+    {
+      "kind": "you",
+      "subject": "vprašanje in odgovor",
+      "rationale": "liturgični dialog: vprašanje skupnosti in odgovor 'Jahve Cebaot' — nagovor čaščencev."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbeni označevalc (premor), puščeno kot 'Sela'."
+    }
+  ],
+  "translation": "Kdo je on, ta kralj kaboda? Jahve Cebaot, on je kralj kaboda. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/24\/9-10.1792434617506.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kaboda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kaboda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:17.507990011Z",
+  "model": "glm-5.3"
+}

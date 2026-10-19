@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje osebni zaimek za predmet pri 'ustvaril'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "priklonili",
+      "rationale": "וישתחוו je preprostiti se v poklon, dobesedno 'padli na obraz'."
+    },
+    {
+      "kind": "you",
+      "subject": "Adonaj",
+      "rationale": "Neposreden ogovor molitve, imenovalnik kot vokativ."
+    }
+  ],
+  "translation": "Vsi narodi, ki si jih ustvaril, bodo prišli in se priklonili pred tvojim obličjem, Adonaj, in bodo počastili tvoje ime.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a8d55b0bff19daab32d0140ef27a4b8b5dcba43105abd7ab7cf05938910c57b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/86\/9-12.1792435224764.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vsi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si ustvaril"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "bodo prišli"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "in se priklonili"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tvojim obličjem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "in bodo počastili"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "tvoje ime"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:24.765201202Z",
+  "model": "glm-5.3"
+}

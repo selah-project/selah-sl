@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina doda pomožni 'je' pri pretekliku."
+    }
+  ],
+  "translation": "Iztrošil je moje meso in mojo kožo, stresel je moje kosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/1-4.1792436991759.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "iztrošil"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje meso"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "in mojo kožo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "stresel"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "moje kosti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:51.761848467Z",
+  "model": "glm-5.3"
+}

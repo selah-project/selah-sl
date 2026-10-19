@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Nareditelj",
+      "rationale": "עשה je deležnik glagola 'delati\/narediti', ne samostalnik; sostavljeno kot 'delavec vseh njiju'"
+    }
+  ],
+  "translation": "Bogataš in reven sta se srečala; ⟨Nareditelj⟩ vseh njiju je Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/22\/1-4.1792436078924.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "bogataš"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "in reven"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "sta se srečala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Nareditelj"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vseh njiju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:38.925835535Z",
+  "model": "glm-5.3"
+}

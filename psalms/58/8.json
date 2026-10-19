@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨lok⟩",
+      "rationale": "Hebrejščina ima samo glagol דרך ('stopiti, napeti') — lok je podosan iz sobesedila."
+    },
+    {
+      "kind": "crux",
+      "subject": "ידרך חצו",
+      "rationale": "'napeti svoj lok' (KJV 'bendeth his bow') proti 'nastopiti s svojo puščico' — snov: Bog strelja ali so zli sami tarča."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתמללו",
+      "rationale": "Koren מול pomeni 'obrezati, odrezati' — nasilnikovi naj bodo 'obrezani', namerno groba podoba."
+    }
+  ],
+  "translation": "Naj se razblinijo kakor voda, naj odtekajo proč; ko napne ⟨lok⟩ in požene svojo puščico, naj bodo kakor odrezani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/58\/5-8.1792434945249.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "naj se razblinijo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "naj odtekajo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "proč"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ko napne ⟨lok⟩"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "svojo puščico"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "naj bodo odrezani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:45.251529370Z",
+  "model": "glm-5.3"
+}

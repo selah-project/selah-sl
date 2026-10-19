@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש is throat\/breath\/life-force, not an immaterial 'soul'; 'vrača življenje vame' would be the picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mi vrača",
+      "rationale": "ישובב is intensive of שוב 'turn back\/return' — restores, brings back."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "cedek",
+      "rationale": "צדק kept by sound per discipline; means rightness\/equity, not abstract 'pravičnost' alone."
+    }
+  ],
+  "translation": "Mojo dušo mi vrača, vodi me po stezah cedeka, zaradi svojega imena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/23\/1-4.1792434648957.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mojo dušo"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "mi vrača"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "vodi me"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "po stezah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "svojega imena"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:48.958919560Z",
+  "model": "glm-5.3"
+}

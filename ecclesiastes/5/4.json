@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagolsko kopulo, hebrejščina jo izpušča."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדר\/שתדור",
+      "rationale": "Infinitiv מ + ש ponavlja koren נדר v istem verzu — ponovitev ostaja, a brez hebrejske oblike."
+    }
+  ],
+  "translation": "Bolje je, da ne zaobljubiš, kakor da zaobljubiš in ne izpolniš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/5\/1-4.1792437110183.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bolje je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "zaobljubiš"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kakor da zaobljubiš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "izpolniš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:50.185739480Z",
+  "model": "glm-5.3"
+}

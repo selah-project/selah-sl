@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Hebrew nominal clause without copula"
+    },
+    {
+      "kind": "elision",
+      "subject": "אבי גבעא",
+      "rationale": "hebrejščina ne pove, kdo je oče Gibe — predmet je izpuščen, veje se nadaljujejo"
+    }
+  ],
+  "translation": "In rodila je Šaafa, očeta Madmane, ⟨את⟩ Ševo, očeta Makbene, in očeta Gibe; hči Kaleba pa ⟨je bila⟩ Aksa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "aef7991da73ef566f7174d8fe41457b8092978111924c3a3f6cc1862f9b61042",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/49-52.1792438006429.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "in rodila je"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Šaafa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ševo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Ševo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makbene"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "in očeta"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Gibe"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:46.431313991Z",
+  "model": "glm-5.3"
+}

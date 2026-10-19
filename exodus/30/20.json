@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se bodo",
+      "rationale": "hebrejščina ne izreka zaimka; slovenski povratni glagol »umivati se« ga zahteva"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשה",
+      "rationale": "»ognjena daritev« (iššeh) je širša od »žgalna daritev« — vsak ognjen prispevek, ne le olá"
+    }
+  ],
+  "translation": "Ko bodo vstopali v šotor srečanja, umivali se bodo z vodo, da ne bodo umrli; ali ko bodo pristopali k oltarju, da služijo, da kadijo ognjeno daritev Jahveju —",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c2a1a6f17bc6b39a011243e57844f42c9a959608cdec24de1bdf7f64c7fbbd8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/30\/17-20.1792423631196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "ko bodo vstopali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "šotor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "srečanja"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "umivali se bodo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "z vodo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bodo umrli"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "ko bodo pristopali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltarju"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "da služijo"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "da kadijo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ognjeno daritev"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T15:27:11.197690681Z",
+  "model": "glm-5.3"
+}

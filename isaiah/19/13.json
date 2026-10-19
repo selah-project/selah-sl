@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנת שבטיה",
+      "rationale": "'vogal\/temelj njenih plemen' (knezi kot vogel) proti 'glavari plemen' — KJV 'stay of the tribes', JPS 'corner-stone'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Hebrew lacks copula v appoziciji."
+    }
+  ],
+  "translation": "Noreli so knezi Coana, prevareni so knezi Nofa; ti so zavedli ⟨את⟩ Micrajim, ⟨so⟩ vogal njenih plemen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/19\/13-16.1792430200790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "noreli so"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezi"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Coana"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "prevareni so"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezi"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nofa"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "zavedli so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "vogal"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "njenih plemen"
+    }
+  ],
+  "timestamp": "2026-10-19T17:16:40.791522109Z",
+  "model": "glm-5.3"
+}

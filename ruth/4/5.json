@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 4:5",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניתי",
+      "rationale": "Ketiv 'kupil sem' se bere (qre) kot 'kupiš\/ti kupuješ'; prevodi se razhajajo — izjava ali vprašanje (JPS)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Moabka⟩",
+      "rationale": "Slovenščina potrebuje sklanjatev pridevnika, hebrejščina ima samostalnik המואביה."
+    },
+    {
+      "kind": "you",
+      "subject": "goelu (bližnjemu sorodniku)",
+      "rationale": "Boaz neposredno nagovarja goela pri mestnih vratarjih."
+    }
+  ],
+  "translation": "In Boaz je rekel: V dnev, ko kupuješ polje iz roke Naomi, tedaj tudi od Rut ⟨Moabke⟩, žene mrtvega, si ga kupil, da vzdigneš ime mrtvega nad njegovo dediščino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/5-8.1792436919290.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dnev"
+    },
+    {
+      "surface": "קנותך",
+      "gloss": "ko kupuješ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "Rut"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "Moabka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvega"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "si kupil"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "da vzdigneš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvega"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "njegovo dediščino"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:39.291546098Z",
+  "model": "glm-5.3"
+}

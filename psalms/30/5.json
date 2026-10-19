@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hasidi",
+      "rationale": "חסיד je 'zvesti, pobožni'; 'svetniki' bi bila vloga, ne oblika besede."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Pojte … zahvaljujte se",
+      "rationale": "Vezava nagovarja haside z imperative."
+    },
+    {
+      "kind": "you",
+      "subject": "hasidi",
+      "rationale": "Neposreden nagovor Jahvejevih zvestih."
+    }
+  ],
+  "translation": "Pojte Jahveju, njegovi hasidi, in zahvaljujte se ob spominu njegove svetosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/30\/5-8.1792434708742.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pojte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "njegovi hasidi"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "in zahvaljujte se"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ob spominu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegove svetosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:48.742984829Z",
+  "model": "glm-5.3"
+}

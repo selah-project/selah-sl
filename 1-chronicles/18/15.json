@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrejščina brez glagola 'biti'; vojaški\/osrednji seznam uradov brez glagla."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזכיר",
+      "rationale": "'kdor spominja\/zapisuje spomine' — dvorjni pisar-urad; dobesedno 'spominjevalc', običajno 'dvorni zgodovinar'."
+    }
+  ],
+  "translation": "In Joab, sin Ceruje, ⟨je bil⟩ nad vojsko, in Jehošafat, sin Ahiluda, ⟨je bil⟩ spomnikopisec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/18\/13-16.1792438270310.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "in Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Ceruje"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "in Jehošafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahiluda"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "spomnikopisec"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:10.313791170Z",
+  "model": "glm-5.3"
+}

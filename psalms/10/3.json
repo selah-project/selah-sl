@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובצע ברך נאץ יהוה",
+      "rationale": "Kdo blagoslavlja in kdo zasramuje: 'kradljivec blagoslavlja sebe, čeprav zasramuje Jahveja' (JPS) proti 'denarne blagoslovi, ki jih Jahve zasramuje' (KJV); izbral sem približek YLT."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "gloss": "נפש je življenjska sila, ne 'duša' v poznejšem smislu."
+    }
+  ],
+  "translation": "Kajti hujšeni hvali poželenje svoje duše, in kdor grabi, blagoslavlja, posmehuje se Jahveju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/10\/1-4.1792434547079.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "hvali"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hujšeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "poželenje"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoje duše"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "kdor grabi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslavlja"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "posmehuje se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:07.080613155Z",
+  "model": "glm-5.3"
+}

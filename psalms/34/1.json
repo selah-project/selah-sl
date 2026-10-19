@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obnašanje",
+      "rationale": "טעם je dobesedno 'okus', preneseno 'razsodnost\/vedenje'; dobesedna slika okusa v slovenščini zbledi."
+    },
+    {
+      "kind": "crux",
+      "subject": "Abimeleh",
+      "rationale": "Naslov se sklicuje na 1 Sam 21, kjer je kralj imenovan Akíš, ne Abimeleh; naslovnik je videl Abimeleha kot splošno filistejsko kraljevsko ime."
+    }
+  ],
+  "translation": "Davidov, ko je spreminjal ⟨את⟩ svoje obnašanje pred Abimelehom, in ta ga je pregnal in je odšel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/1-4.1792434767766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ko je spreminjal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje obnašanje"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "svoje obnašanje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelehom"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ga je pregnal"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "in je odšel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:47.767376732Z",
+  "model": "glm-5.3"
+}

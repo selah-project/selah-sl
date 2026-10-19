@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje kopulo; hebrejščina ima samo samostalnik שקר."
+    },
+    {
+      "kind": "idiom",
+      "subject": "tako in tako",
+      "rationale": "כזאת וכזזאת — dobesedno 'tako in tako', hebrejski način povzemanja."
+    }
+  ],
+  "translation": "In rekli so: Laž ⟨je⟩; povej ⟨nam⟩ zdaj! In rekel je: Tako in tako mi je rekel ⟨tako⟩: Tako govori Jahve: Mazilil sem te za kralja nad Jisraelom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/9\/9-12.1792429490714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli so"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "povej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨nam⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "tako"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "in tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨tako⟩"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "mazilil sem te"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    }
+  ],
+  "timestamp": "2026-10-19T17:04:50.715592777Z",
+  "model": "glm-5.3"
+}

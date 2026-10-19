@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 39:9",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prebežnike",
+      "rationale": "הנפלים dobesedno 'padli' — tu 'tisti, ki so prešli (padli) k njemu', torej prebežniki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poglavar klavcev",
+      "rationale": "רב טבבחים dobesedno 'velik klavcev'; klavci = kraljevi rabelj\/dvorjanska straža"
+    }
+  ],
+  "translation": "In ⟨את⟩ ostanek ljudstva, ki je ostal v mestu, in ⟨את⟩ prebežnike, ki so prebežali k njemu, in ⟨את⟩ ostanek ljudstva, ki je ostal, je izgnal Nebuzaradan, poglavar klavcev, v Babilon.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "083197b59cda21939c3dbd1a8e28f21bda154a274e4b5450599dfaec92a646dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/39\/9-12.1792431768465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ostanek ljudstva"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostanek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ki je ostal"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prebežnike"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "prebežnike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "so prebežali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ostanek ljudstva"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ostanek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ki je ostal"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "je izgnal"
+    },
+    {
+      "surface": "נבוזר",
+      "gloss": "Nebuzar"
+    },
+    {
+      "surface": "אדן",
+      "gloss": "adan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "poglavar"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "klavcev"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "v Babilon"
+    }
+  ],
+  "timestamp": "2026-10-19T17:42:48.465876152Z",
+  "model": "glm-5.3"
+}

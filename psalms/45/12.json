@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pokloni se",
+      "rationale": "imperativ je v hebrejščini izražen z infinitivom והשתחוי — 'in pokloniti se' kot ukaz."
+    },
+    {
+      "kind": "you",
+      "subject": "nevsti",
+      "rationale": "nadaljnji nagovor neveste: ukaz poklonitve njenemu možu-gospodu."
+    }
+  ],
+  "translation": "In kralj bo zaželel tvojo lepoto, kajti on je tvoj gospod — in pokloni se njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/9-12.1792434813795.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "in bo zaželel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "tvojo lepoto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvoj gospod"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "in pokloni se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:33.797489582Z",
+  "model": "glm-5.3"
+}

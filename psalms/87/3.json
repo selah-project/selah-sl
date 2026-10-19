@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva pomožni glagol pri pasivu, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד",
+      "rationale": "glagol 'biti težak' pomeni tudi 'biti slaven' — teža\/slava v eni besedi"
+    }
+  ],
+  "translation": "Slavne stvari ⟨so⟩ izrečene o tebi, mesto Elohim. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/87\/1-4.1792435238032.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Slavne stvari"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "izrečeno"
+    },
+    {
+      "surface": "בך",
+      "gloss": "o tebi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:38.034321214Z",
+  "model": "glm-5.3"
+}

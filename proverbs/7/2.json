@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zenica",
+      "rationale": "אישון je dobesedno 'mali mož' — odsev človeka v očesu; slovenščina pozna 'zenico', slika odseva pa se izgubi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kot⟩",
+      "rationale": "Slovenska primerjalna skladenjska zveza potrebuje 'kot', hebrejščina ima samo כ-."
+    }
+  ],
+  "translation": "Varuj moje zapovedi in živi, mojo Toro ⟨kot⟩ zenico svojega očesa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/1-4.1792435833709.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Varuj"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "moje zapovedi"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "in živi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "moja Tora"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kot-mali-mož (zenica)"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "svojega očesa"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:33.711145915Z",
+  "model": "glm-5.3"
+}

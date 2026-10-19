@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "hebrejščina ima zaimek samo v končnici glagola לפעמו; slovenščina ga potrebuje posebej"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "Dosedanji prevodi razhajajo: 'move\/stir' (KJV, BSB) proti 'strengthen' (Geneva) — bukovno 'udarjati, pulzirati'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah ostaja po zvoku: veter\/dih\/Duh v eni besedi, slovenski 'Duh' bi izbrisal obliko"
+    }
+  ],
+  "translation": "In ruah Jahve je začela ⟨ga⟩ poganjati v taboru Dana, med Coro in med Eštaolom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/13\/25-25.1792427170976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "in začela je"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "poganjati ⟨ga⟩"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v taboru"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Cora"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in med"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Eštaolom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:26:10.976876810Z",
+  "model": "glm-5.3"
+}

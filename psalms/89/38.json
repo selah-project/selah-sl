@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "hebrejščina nima svojilnega zaimeka; javni spol ni izražen"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחק",
+      "rationale": "סלח ne — שחק pomeni 'razbit prah, tenka parica, obok\/nebo': 'nebo' ali dobesedno 'prašni svod'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbeni znak, ostaja nepreveden"
+    }
+  ],
+  "translation": "Kakor luna ⟨bo⟩ utrjen vekomaj, in priča v oblačilu neba zanesljiva. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/37-40.1792435241052.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "Kakor luna"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨bo⟩ utrjen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in priča"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "v oblačilu neba"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "zanesljiva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:41.054901089Z",
+  "model": "glm-5.3"
+}

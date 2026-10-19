@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "se zberejo",
+      "rationale": "יאספון je dobesedno 'zbrani se' — 'umaknejo se' (JPS) je interpretacija iz konteksta."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירבצון",
+      "rationale": "'crouch\/legli' — 'skerjijo se' (kot ležeče živali) proti 'legli so'."
+    }
+  ],
+  "translation": "Ko vzide sonce, se zberejo in v svojih brlogih se skerjijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/21-24.1792435325620.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "vzide"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sonce"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "se zberejo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in v"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "svojih brlogih"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "se skerjijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:05.621495014Z",
+  "model": "glm-5.3"
+}

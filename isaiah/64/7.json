@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "smo",
+      "rationale": "hebrejščina brez glagola biti — imenovalnik 'mi glina'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "neposreden nagovor Jahveja kot očeta in oblikovalca"
+    }
+  ],
+  "translation": "In zdaj, Jahve, oče naš si ti; mi ⟨smo⟩ glina, in ti si naš oblikovalec, in delo tvoje roke smo vsi mi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/64\/5-8.1792430923199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "oče naš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "⟨smo⟩ glina"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "in ti si"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "naš oblikovalec"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "in delo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoje roke"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "smo vsi mi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:43.199985287Z",
+  "model": "glm-5.3"
+}

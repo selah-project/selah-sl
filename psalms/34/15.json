@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mir",
+      "rationale": "שלום je 'celost, blagostanje', ne le odsotnost spora; 'mir' je okrnjen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרע\/רע",
+      "rationale": "ponovitev korena רע v vv. 14–15 povezuje govor in dejanje"
+    }
+  ],
+  "translation": "Obrni se od hujega in delaj dobro, išči mir in lovi ga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/13-16.1792434748070.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "obrni se od"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "hujega"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "in delaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "išči"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "in lovi ga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:28.072053761Z",
+  "model": "glm-5.3"
+}

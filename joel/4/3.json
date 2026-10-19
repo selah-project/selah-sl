@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ידו",
+      "rationale": "Oblika יַדּוּ (od ידד, 'metati žreb') stoji le tu v Tanahu."
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Predmet וישתו ('vino') je v hebrejščini nakazan, zaimka ni."
+    }
+  ],
+  "translation": "in za moje ljudstvo so metali žreb, dečka dali za vlačugo, deklico prodali za vino in popili ⟨ga⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b6cf6963f1864771f3262726935207976b11e55b038b4f936c806bdb5674f15e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/4\/1-4.1792433952942.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "in za"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moje ljudstvo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "so metali"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "žreb"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dali"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dečka"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "za vlačugo"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "deklico"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "prodali"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "za vino"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "in popili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:12.944228269Z",
+  "model": "glm-5.3"
+}

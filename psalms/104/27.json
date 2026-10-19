@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ti⟩",
+      "rationale": "Slovenski besedni red potrebuje osebek, ki ga hebrejščina izraža s končnico"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישברון — upajo",
+      "rationale": "שבר tukaj 'gledati s pričakovanjem, čakati'; dobesedneje 'ozirajo se nate'"
+    }
+  ],
+  "translation": "Vsi ⟨ti⟩ upajo nate, da dáš jim hrano v njenem času.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/25-28.1792435342839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nate"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "upajo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "da dáš"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "jim hrano"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "v njenem času"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:22.840594856Z",
+  "model": "glm-5.3"
+}

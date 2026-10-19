@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שפתים",
+      "rationale": "'usten' vloženo v besedo 'govor'; hebrejščina pravi 'sladkost ustnic'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je\/in",
+      "rationale": "Slovenščina potrebuje glagol, ki ga hebrejščina izpušča."
+    }
+  ],
+  "translation": "Modrecu ⟨je⟩ srce ⟨in⟩ razumevanje, sladek govor pa povečuje pouk.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/21-24.1792435976661.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "modrecu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "⟨se imenuje⟩"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "razumevanje"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "sladek govor"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "usten"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "povečuje"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pouk"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:56.662771109Z",
+  "model": "glm-5.3"
+}

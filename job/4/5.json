@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תבוא אליך",
+      "rationale": "dobesedno »pride k tebi« — to je, pride nate; neosebni subjekt je v hebrejščini izpuščen"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "Elifaz neposredno nagovarja Joba v drugi osebi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "si v zmedi",
+      "rationale": "ותבהל dobesedno »in hitiš \/ drhtiš«; »v zmedi« kot notranje trepetanje"
+    }
+  ],
+  "translation": "Kaj zdaj, ko je prišlo nate ⟨to⟩, se utrujaš; te zadene, in si v zmedi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/4\/5-8.1792436257721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "je prišlo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nate"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "se utrujaš"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "te zadene"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "te"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "si v zmedi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:37.722441743Z",
+  "model": "glm-5.3"
+}

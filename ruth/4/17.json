@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 4:17",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sosedje",
+      "rationale": "השכנות je ženski množinski particip ('sosednje ženske'); slovenščina razlikuje spol."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "verz zaključi pripoved z rodoslovnim podatkom do Davida."
+    }
+  ],
+  "translation": "In sosedje ⟨so⟩ mu dale ime, rekoč: Rojen je sin Noemi. In imele so ga imenovale Obed; on je oče Jischaja, oče Davidov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0485f68bb8bde4fd6a559b3fda2b3b05d59b3c903ac507f2bd036d9913ed98b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/17-20.1792436918227.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקראנה",
+      "gloss": "so dale ime"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השכנות",
+      "gloss": "sosedje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rojen je"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "לנעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "imenovale"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ime njegovo"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischaj"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:38.227738671Z",
+  "model": "glm-5.3"
+}

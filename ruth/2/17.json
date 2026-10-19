@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨približno⟩",
+      "rationale": "כאיפה dobesedno 'kakor efa'; dodan približek, ker hebrejščina primerjave ne izraža z 'približno'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa ječmena",
+      "rationale": "izmera požetega žita — količina, ki nosi pripoved"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "povezovalni 'in bilo je' — hebrejski pripovedni veznik brez polne teže"
+    }
+  ],
+  "translation": "In pobirala je na polju do večera in izmolžila ⟨את⟩ tisto, kar je pobrala, in bilo je ⟨približno⟩ kakor efa ječmena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f6e387fdfe8bb7a2475c8421fc280134abead4062292e0df9e104497882e44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/2\/17-20.1792436940008.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "in pobirala je"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polju"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "in izmolžila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tisto, kar je pobrala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "je pobrala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bilo je"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "kakor efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječmena"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:00.009542627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so \/ je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga ni ima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב … סביב",
+      "rationale": "ponovitev 'okoli' v vzporedju gore\/Jahve — okvir varnosti"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalajim",
+      "rationale": "mesto je neposredno ogovorjeno na začetku verza"
+    }
+  ],
+  "translation": "Jerušalajim — gore ⟨so⟩ okoli njega, in Jahve ⟨je⟩ okoli svojega ljudstva, od zdaj in do vekomaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/125\/1-4.1792435558895.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svojega ljudstva"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od zdaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:58.896538468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva osebni glagol, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדיק kot 'pravičen' po D2 ohranja koren צדק nespremenjen"
+    }
+  ],
+  "translation": "In prenehali so ti trije možje odgovarjati ⟨את⟩ Jioba, ker je cedek v svojih očeh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/32\/1-4.1792436668657.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "In prenehali so"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ti trije"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "može"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "odgovarjati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jioba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jioba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "je cedek"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v svojih očeh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:28.659168191Z",
+  "model": "glm-5.3"
+}

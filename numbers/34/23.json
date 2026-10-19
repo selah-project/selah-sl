@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 34:23",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seznam knezov",
+      "rationale": "verz našteva imena poglavarjev po rodovih za razdelitev dežele"
+    }
+  ],
+  "translation": "Za sinove Jozefa, za rod sinov Menašeta, ⟨je⟩ knez Hananiel, sin Efodov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6bbc995108f5272ef31147c242292c434388511bb4d8450fdea2ccc1f5340f65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/34\/21-24.1792425543156.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "za sinove"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "za rod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašeta"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "knez"
+    },
+    {
+      "surface": "חניאל",
+      "gloss": "Hananiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "Efodov"
+    }
+  ],
+  "timestamp": "2026-10-19T15:59:03.157734946Z",
+  "model": "glm-5.3"
+}

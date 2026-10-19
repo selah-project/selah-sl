@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 1:2",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨svojega⟩",
+      "rationale": "slovenščina zahteva svojilni zaimek; hebrejščina ima samo končnico -ו"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכם לעד",
+      "rationale": "Adonaj Jahve je 'v vas \/ nad vami za pričo' — priča ZOPER vas, prevladujoča razlaga"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Poslušajte, ljudstva",
+      "rationale": "vehementni nagovor vsem ljudstvom in zemlji — vabilo za pričo"
+    },
+    {
+      "kind": "you",
+      "subject": "ljudstva in zemlja",
+      "rationale": "neposreden nagovor vseh ljudstev in dežele"
+    }
+  ],
+  "translation": "Poslušajte, ljudstva, vsa; prikloní uho, zemlja in polnost nje; in Adonaj Jahve naj bo pri vas priča, Adonaj iz ⟨svojega⟩ svetega templja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2c86da674d05221f186297f6ae3872d53a92febacdb3c23f3fa2fa0ea1694e23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/1\/1-4.1792434129104.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "prikloní uho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "in polnost nje"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in naj bo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pri vas"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "priča"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "iz templja"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetega ⟨svojega⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:09.182168897Z",
+  "model": "glm-5.3"
+}

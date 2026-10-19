@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina jo izpušča"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovni seznam",
+      "rationale": "naštevanje imen po družinah"
+    }
+  ],
+  "translation": "In ta ⟨so⟩ imena sinov Geršona po njihovih družinah: Livni in Šimi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f89feb74718452824a5abb5ced7a04b5707ec384c9b809b9654b4b6051610fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/3\/17-20.1792424742129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "In ta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "imena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršona"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "po njihovih družinah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "in Šimi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:45:42.129709883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tretji mesec, petnajsto leto",
+      "rationale": "natančno datiranje zbora po mesecu in letu Asajevega kraljevanja."
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "slovenščina potrebuje povratni dodatek pri zbiranju; hebrejščina ga nima."
+    }
+  ],
+  "translation": "In zbrali so se v Jerušalajimu v tretjem mesecu, v petnajstem letu kraljevanja Asa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "02d953779c8b6f5ea806e3a1ca1c6326b1d6530c85dc50e92fbdd35e2d222111",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/15\/9-12.1792438631472.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "in zbrali so se"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tretjem"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "v letu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "petnajst"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(deset)"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "kraljevanja"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:11.473029109Z",
+  "model": "glm-5.3"
+}

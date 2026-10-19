@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 38:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מר\/מרר",
+      "rationale": "dvojni koren 'grenkost je mi grenko' — ponovitev grenkobe, v slovenščini deloma ohranjena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bolj 'grlo, dih, življenjska moč' kot 'duša'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חשקת",
+      "rationale": "'vzljubil si (mojo dušo)' vs. 'pritril si (mojo dušo iz jame)' — koren pomeni okleniti se, ljubiti, pa tudi pritriti\/dobesedno izruvati"
+    },
+    {
+      "kind": "substitution",
+      "subject": "za svoj hrbet",
+      "rationale": "מאחרי גוך: dobesedno 'za tvojim hrbtom', idiom za popolno odstranitev"
+    }
+  ],
+  "translation": "Glej, grenkobo mi je bilo grenko ⟨namesto⟩ miru, in ti si vzljubil mojo dušo, ⟨da ne⟩ propade ⟨v⟩ jami pokvarjenosti, kajti vrgel si za svoj hrbet vse moje grehe.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/38\/17-20.1792430501162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za mir"
+    },
+    {
+      "surface": "מר",
+      "gloss": "grenkobo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מר",
+      "gloss": "je grenko"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "חשקת",
+      "gloss": "si vzljubil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "jama"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pokvarjenosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "si vrgel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "svoj hrbet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "moje grehe"
+    }
+  ],
+  "timestamp": "2026-10-19T17:21:41.163318119Z",
+  "model": "glm-5.3"
+}

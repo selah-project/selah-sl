@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק je po pravilu 'cedek' (pravičnost\/pravo), ne le 'pravičnost'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina reče 'Elohim sodnik on' brez glagola; slovenščina potrebuje ⟨je⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "סלה je glasbeni označevalec premora, ostaja nepreveden."
+    }
+  ],
+  "translation": "In nebesa razglašajo njegov cedek, kajti Elohim ⟨je⟩ sodnik. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/5-8.1792434879286.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "In razglašajo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "njegov cedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sodnik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:39.287457572Z",
+  "model": "glm-5.3"
+}

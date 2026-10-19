@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je po D2 vedno ruah — dih, veter, duh v eni besedi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "osupnilo",
+      "rationale": "ישתומם dobesedno 'je omamel\/prestrašil se'; 'osupo' ali 'postalo je pusto' sta možni."
+    }
+  ],
+  "translation": "In moja ruah se nad mano ovije v grozo, v moji notranjosti je osupnilo moje srce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/1-4.1792435741009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "se ovije v grozo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad mano"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "v moji notranjosti"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "je osupnilo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:01.012476272Z",
+  "model": "glm-5.3"
+}

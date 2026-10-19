@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "v srce morij",
+      "rationale": "בלב ימים dobesedno 'v srcu morij' = središče, globina; množina ימים ostane množina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על כן … לא נירא",
+      "rationale": "Zveza 'zato ne boj' se sklicuje na v. 2; verižna logika psalma."
+    }
+  ],
+  "translation": "Zato se ne bomo bali, če se spremeni ⟨article>zemlja in če se porušijo gore v srce morij.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/46\/1-4.1792434887772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "bomo se bali"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "če se spremeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "in če se porušijo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srce"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "morij"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:47.774521638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nesek \/ tarbit",
+      "rationale": "נשך ('ugriz') je obrest, תרבית ('pomnožitev') pribitek; dve ločeni hebrejski besedi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "odvrača svojo roko",
+      "rationale": "Hebrejščina dobesedno 'vrne svojo roko' od zla — kretnja, ne abstraktna zadržanost"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨med⟩",
+      "rationale": "hebrejščina ponovi בין…ל pred vsakim samostalnikom; slovenščina drugi 'med' doda"
+    }
+  ],
+  "translation": "na obresti ne daje in pribitka ne vzame, od krivičnosti odvrača svojo roko, sodbo resnice dela med možem in ⟨med⟩ možem —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a6bcda7248a0df85054c31e9b51858e608885f60c523058391ed70190c8642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/18\/5-8.1792432244104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "na obresti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "in pribitka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vzame"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "od krivičnosti"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "odvrača"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "resnice"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "איש",
+      "gloss": "možem"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "in ⟨med⟩ možem"
+    }
+  ],
+  "timestamp": "2026-10-19T17:50:44.106130259Z",
+  "model": "glm-5.3"
+}

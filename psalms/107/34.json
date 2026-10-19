@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slanišče",
+      "rationale": "מלחה dobesedno 'zasoljena' dežela; KJV 'nerodovitnost' izgubi podobo soli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Plodno",
+      "rationale": "ארץ פרי dobesedno 'dežela sadja'; pridevnik je izpeljan."
+    }
+  ],
+  "translation": "Plodno deželo v slanišče, zaradi hudobije njenih prebivalcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/33-36.1792435398100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "Plodno"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "v slanišče"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "zaradi hudobije"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalcev"
+    },
+    {
+      "surface": "בה",
+      "gloss": "njenih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:18.101378587Z",
+  "model": "glm-5.3"
+}

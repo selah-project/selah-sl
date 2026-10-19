@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "njegovi",
+      "rationale": "Hebrejščina ima samo deležnike brez izrečenega lastnika (Elohim\/Jahve iz konteksta)."
+    }
+  ],
+  "translation": "Kajti njegovi blagoslovljenci bodo podedovali ⟨את⟩ deželo, njegovi prekleti pa bodo odrezani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/21-24.1792434754222.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "njegovi blagoslovljenci"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bodo podedovali"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "njegovi prekleti pa"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bodo odrezani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:34.223081009Z",
+  "model": "glm-5.3"
+}

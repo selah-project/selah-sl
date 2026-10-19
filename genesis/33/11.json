@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברכתי",
+      "rationale": "Jaakov, ki je Esavu ukradel blagoslov (27), mu zdaj »blagoslov« vrača kot dar — ista beseda v novi vlogi"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti v »imam vse«, hebrejščina יש לי tega ne izrazi"
+    }
+  ],
+  "translation": "Vzemi, prosim, ⟨את⟩ moj blagoslov, ki ti je bil prinešen; kajti Elohim mi je bil milostiv in ker imam vse. In vztrajal je pri njem, in vzel je.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/33\/9-12.1792422626146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "vzemi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moj blagoslov"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "moj blagoslov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "je bil prinešen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mi je bil milostiv"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "in ker"
+    },
+    {
+      "surface": "יש",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(zame)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "in vztrajal je"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pri njem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "in vzel je"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:26.147625973Z",
+  "model": "glm-5.3"
+}

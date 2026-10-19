@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 19:1",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Slovenščina zahteva dvojino; hebrejščina jo ima v שני (dva)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "poslanca",
+      "rationale": "המלאכים je 'poslanci'; 'angeli' bi vnesel poznejšo doktrino, pred 19,1 sta to potujoča moža."
+    }
+  ],
+  "translation": "In prišla sta dva poslanca zvečer v Sodomo, Lot pa je sedel v vratih Sodome. In Lot ju je videl, vstopal je naproti njima in se priklonil z obrazom do zemlje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6efa65cf530f30f04d8a650cc289a70ae07a6438603545afed93701059c55750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/19\/1-4.1792422235438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "in sta prišla"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "poslanca"
+    },
+    {
+      "surface": "סדמה",
+      "gloss": "v Sodomo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "zvečer"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "in Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "je sedel"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v vratih"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodome"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "in je vstal"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "naproti njima"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "in se priklonil"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "z obrazom"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T15:03:55.439667393Z",
+  "model": "glm-5.3"
+}

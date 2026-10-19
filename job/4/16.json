@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje pomožnik pri deležniku 'stalo'; hebrejščina ima samo יעמד."
+    },
+    {
+      "kind": "crux",
+      "subject": "דממה וקול",
+      "rationale": "'Tišina in glas slišim' — nasprotje: tišina, nato šepet; KJV 'there was silence', YLT klic 'Silence!'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ves verz",
+      "rationale": "Nevidna prikazen, ki je ni mogoče spoznati — namerna zadržanost pred skrivnostnim glasu."
+    }
+  ],
+  "translation": "Stalo ⟨je⟩, njegove podobe pa nisem spoznal — prikazen pred mojimi očmi; tišina — in glas slišim:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7ce8288c94b9253748ad4af1aecb85a19e0af4243e25cbd5eee3cb9b338ddb3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/4\/13-16.1792436259335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Stalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa nisem"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "spoznal"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "njegove podobe"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "prikazen"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mojimi očmi"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "tišina"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "in glas"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "slišim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:39.337982950Z",
+  "model": "glm-5.3"
+}

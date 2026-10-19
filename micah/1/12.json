@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלה לטוב",
+      "rationale": "od חול 'trzati, rojevati se': 'trza po dobrem' (JPS 'waiteth anxiously') proti KJV 'boluje zaradi dobrega'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרות",
+      "rationale": "ime Marot zveni kot 'grenkosti' (merorim) — trzanje grenkega kraja"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עמדתו",
+      "rationale": "(v v. 11) beseda עֶמְדָּה se v Tanahu pojavi samo tu"
+    }
+  ],
+  "translation": "Kaj trza po dobrem prebivalka Marota, kaj stopilo je zlo ⟨od⟩ Jahve do vrat Jerušalajma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/1\/9-12.1792434141434.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "trza"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "po dobrem"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "prebivalka"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "je stopilo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "do vrat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:21.436968144Z",
+  "model": "glm-5.3"
+}

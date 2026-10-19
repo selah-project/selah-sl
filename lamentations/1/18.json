@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 1:18",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula; הוא is expressed only as emphasis"
+    },
+    {
+      "kind": "crux",
+      "subject": "njegova usta sem izzval",
+      "rationale": "מריתי פיהו dobesedno 'njegova usta sem grenil'; stari prevodi: 'povzdignil sem se proti njegovim ustom' ali 'njegovemu ukazu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Slišite, prosim, vsa ljudstva",
+      "rationale": "neposreden poziv narodom, naj gledajo in vidijo"
+    }
+  ],
+  "translation": "Pravični je Jahve, kajti njegova usta sem izzval. Slišite, prosim, vsa ljudstva, in poglejte mojo bolečino: moje device in moji mladeniči so odšli v ujetništvo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a5e4e3081cf51e2f04184a997b59c89386f70742ddc11347a82a23ada278196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/1\/18-19.1792439116513.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Pravični"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "njegova usta"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "sem izzval"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Slišite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsã"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "in poglejte"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "mojo bolečino"
+    },
+    {
+      "surface": "בתולתי",
+      "gloss": "moje device"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "in moji mladeniči"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "so odšli"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "v ujetništvo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:16.736888590Z",
+  "model": "glm-5.3"
+}

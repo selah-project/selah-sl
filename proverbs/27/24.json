@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola: 'ne za vedno bogastvo' — brezsežni stavek"
+    },
+    {
+      "kind": "crux",
+      "subject": "נזר",
+      "rationale": "נזר je posvečeni diadem\/krona (duhovniška ali kraljeva) — splošno 'krona'; KJV sprašuje, ali krona zdrži vse rodove, YLT\/BSB jo izničuje"
+    },
+    {
+      "kind": "alternative",
+      "subject": "in če krona — od roda do roda",
+      "rationale": "beri kot vprašanje: 'in ali krona ⟨traja⟩ od roda do roda?' (KJV\/JPS) — ואם dovoljuje oba čtiva"
+    }
+  ],
+  "translation": "Kajti ne za večno ⟨je⟩ bogastvo, in če ⟨gre za⟩ krono — od roda do roda.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/21-24.1792436135506.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za večno"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "bogastvo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "krono"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "od roda"
+    },
+    {
+      "surface": "דור",
+      "gloss": "do roda"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:35.507582976Z",
+  "model": "glm-5.3"
+}

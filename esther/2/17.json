@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 2:17",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula and auxiliary; past-tense forms supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naredil je, da je kraljevala",
+      "rationale": "הiplikalni vzglagol וימליכה je povzročiteljski: 'povzdignil joj je na prestol'"
+    }
+  ],
+  "translation": "In kralj je ljubil ⟨את⟩ Ester bolj kot vse ženske, in našla je han in hesed pred njim bolj kot vse device; postavil je krono kraljestva na njeno glavo in naredil je, da je kraljevala namesto Vašti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/17-20.1792437227636.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "In ljubil je"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bolj kot vse"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženske"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "in našla je"
+    },
+    {
+      "surface": "חן",
+      "gloss": "han"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "in hesed"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bolj kot vse"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "device"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "postavil je"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "krono"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljestva"
+    },
+    {
+      "surface": "בראשה",
+      "gloss": "na njeno glavo"
+    },
+    {
+      "surface": "וימליכה",
+      "gloss": "naredil je, da je kraljevala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "namesto"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:47.638397435Z",
+  "model": "glm-5.3"
+}

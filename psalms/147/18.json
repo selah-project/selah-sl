@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spusti (pihne)",
+      "rationale": "Hebrejščina ישב dobesedno 'pihne'; povzročilni pomen 'spravi v gibanje' je olajšanje."
+    },
+    {
+      "kind": "elision",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje predmet pri 'raztopi'; hebrejščina ga izpušča — namig na sneg in led iz prejšnjih verzov."
+    }
+  ],
+  "translation": "Pošlje svojo besedo in jih raztopi; spusti svoj ruah, tečejo vode.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/147\/17-20.1792435781151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "pošlje"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "svojo besedo"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "in jih raztopi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "spusti (pihne)"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "svoj ruah"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "tečejo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:41.152322647Z",
+  "model": "glm-5.3"
+}

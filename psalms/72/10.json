@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "davek",
+      "rationale": "מנחה tu pomeni poklon\/davek, ne daritve; pravilo D2 dovoljuje 'davek' kot poklon."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבא\/סבא",
+      "rationale": "Ševa in Sveba se rimata — besedna igra dveh južnih dežel, v slovenščini delno ohranjena."
+    }
+  ],
+  "translation": "Kralji Taršiša in otoki bodo davek prinašali, kralji Ševa in Sveba bodo dar prinašali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/72\/9-12.1792435063858.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiša"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "in otoki"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "davek"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bodo prinašali"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "in Sveba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "dar"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bodo prinašali"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:43.860513166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר ... שמר",
+      "rationale": "ponovitev istega glagola — 'varuje zapoved, varuje dušo'; vzporednost je v slovenščini ohranjena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je 'dih, življenjska moč', ne nesnovna duša"
+    },
+    {
+      "kind": "crux",
+      "subject": "svoje poti",
+      "rationale": "דרכיו — 'svoje (človekove) poti' ali 'Njegove (Božje) poti'; samostalnik brez člena dopušča oboje"
+    }
+  ],
+  "translation": "Kdor varuje zapoved, varuje svojo dušo; kdor prezira svoje poti, ⟨ta⟩ bo umrl.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/13-16.1792436030468.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kdor varuje"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapoved"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varuje"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "kdor prezira"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svoje poti"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bo umrl"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:50.470921956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום je celostno blagostanje, ne le 'mir'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית ותקוה",
+      "rationale": "'prihodnost in upanje' (JPS) proti KJV 'pričakovani konec'; תקוה je dobesedno vrv\/pričakovanje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבות\/חשב",
+      "rationale": "ponovitev korena חשב — načrti, ki jah snuje — zveni tudi v v. 11 drugič"
+    }
+  ],
+  "translation": "Kajti jaz poznam ⟨את⟩ načrte, ki jih jaz snujem nad vami — govori Jahve — načrte šaloma in ne hudega, da vam dam prihodnost in upanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "70c4a9a201890c3269109a2e9ea1c11cfe26ca9cbf69b90fda2072ffa419c458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/9-12.1792431592661.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "načrte"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "načrte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "snujem"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vami"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "načrti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šaloma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "hudega"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dati"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "prihodnost"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "in upanje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:39:52.662174755Z",
+  "model": "glm-5.3"
+}

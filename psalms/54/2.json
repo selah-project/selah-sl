@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maré",
+      "rationale": "הלא je uvodni vprašalni delec 'maré\/ali' — 'ali ni David skrit pri nas?'."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina ima particip, slovenščina potrebuje pomožni glagol."
+    }
+  ],
+  "translation": "Ko so prišli Zífijci in rekli Šáulu: Maré David skrit pri nas?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/54\/1-4.1792434929334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ko so prišli"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "Zífijci"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šáulu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "maré"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "skrit"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pri nas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:29.335831132Z",
+  "model": "glm-5.3"
+}

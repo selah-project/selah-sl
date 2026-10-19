@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrejščina nima kopule; אני stoji samo z ime‌nom"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "verjetno podlesna vijolica (meadow-saffron); tradicija pravi 'roža' ali 'vrtnica', identiteta cvetja negotova"
+    }
+  ],
+  "translation": "Jaz ⟨sem⟩ cvet Šarona, lilija dolin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/2\/1-4.1792436850079.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "cvet"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Šarona"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "lilija"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "dolin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:30.080356173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "srda",
+      "rationale": "אף je dobesedno nos\/nosnica, idiomatsko 'jeza' — 'nos svojega srda' bi v slovenščini zavajalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "Adonaj na desnici",
+      "rationale": "סמוך לעל: Adonaj, ki je na tvoji desnici (kralj iz v. 1 ima Adonaja ob sebi), ali 'tvoja desnica' kot Božja moč"
+    }
+  ],
+  "translation": "Adonaj je na tvoji desnici, v dnevu svojega srda razbija kralje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/110\/5-7.1792435443209.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoji desnici"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "razbija"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dnevu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "svojega srda"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kralje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:03.209934285Z",
+  "model": "glm-5.3"
+}

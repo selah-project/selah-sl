@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨zase⟩",
+      "rationale": "לבד pomeni 'posebej, ločeno'; ločeno sešitev je izražena z ločevalnim prislovom."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pet … šest … šesta",
+      "rationale": "Verz šteje zavese in določa, katera se podvoji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zavese",
+      "rationale": "היריעות je 'viseče' (od trepetanja); 'zavese' nosijo visečo obliko, a trepet ni več slišan."
+    }
+  ],
+  "translation": "In sešil ⟨את⟩ pet zaves ⟨zase⟩ in ⟨את⟩ šest zaves ⟨zase⟩, in podvojiš ⟨את⟩ zaveso šesto proti čelu šotora.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/26\/9-12.1792423574581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "in sešil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pet zaves"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zaves"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "⟨zase⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "šest zaves"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "zaves"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "⟨zase⟩"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "in podvojiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaveso šesto"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "zaveso"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "šesto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "čelu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sprednji strani"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "šotora"
+    }
+  ],
+  "timestamp": "2026-10-19T15:26:14.582712320Z",
+  "model": "glm-5.3"
+}

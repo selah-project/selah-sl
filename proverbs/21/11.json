@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פתי",
+      "rationale": "'preprosti' — dobesedno 'zavedljiv, odprt za prepričevanje', ne 'neumen'."
+    },
+    {
+      "kind": "addition",
+      "subject": "kadar poučujejo",
+      "rationale": "hebrejščina ima samo infinitiv בהשכיל 'ob razumnem poučevanju'; vrivnik je dodan."
+    }
+  ],
+  "translation": "Ob kazni norčevalca postane preprosti moder; in kadar poučujejo modrega, sprejme znanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/9-12.1792436056665.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "ob kazni"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "norčevalca"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "postane moder"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "preprosti"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "in kadar poučujejo"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "modrega"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sprejme"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:16.666468398Z",
+  "model": "glm-5.3"
+}

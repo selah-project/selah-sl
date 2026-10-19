@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula before יכאב"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תוגה",
+      "rationale": "ta beseda za »globoko žalost« je redka v Tanahu"
+    }
+  ],
+  "translation": "Tudi v smehu ⟨je⟩ bolečina srca, in konec te veselosti je žalost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8158c7d01516cf44466be72d34aaf532368b0a26f47ac6ce35256dbb89718bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/13-16.1792435958422.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "v smehu"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "bolečina"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "in konec te"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselosti"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "žalost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:38.422964085Z",
+  "model": "glm-5.3"
+}

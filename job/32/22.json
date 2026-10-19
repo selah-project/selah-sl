@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 32:22",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמעט ישאני",
+      "rationale": "'v malem me vzame' — večina bere 'sicer bi me Ustvarjalec kmalu odnesel', Wycliff pa 'ne vem, kako dolgo bom živel'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "kot pogojni 'sicer\/da' med obema polveršoma; dodan ⟨saj⟩ kot navezovalni šiv"
+    }
+  ],
+  "translation": "kajti laskavih naslovov dati ne znam — ⟨saj⟩ v malem me vzame ⟨k sebi⟩ moj Ustvarjalec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/32\/21-22.1792436634909.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znam"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "dajati laskavih naslovov"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "v malem"
+    },
+    {
+      "surface": "ישאני",
+      "gloss": "me vzame"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "moj Ustvarjalec"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:54.910093825Z",
+  "model": "glm-5.3"
+}

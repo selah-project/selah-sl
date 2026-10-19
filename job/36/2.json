@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 36:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כתר לי זעיר",
+      "rationale": "'Ogradi\/okronaj me malo' — prevodi se razhajajo: 'suffer me a little' (KJV) proti 'honour me a little' (YLT); koren pomeni obkrožiti, oblegati, okronati."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina potrebuje glagol biti pri מלים."
+    },
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "Elihu neposredno nagovarja Joba."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Počakaj me",
+      "rationale": "Vabilo poslušalcu, naj potrpi."
+    }
+  ],
+  "translation": "Počakaj me ⟨malο⟩ in pokazal ti bom, kajti še vedno so besede za Eloah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "24e5b87c4aed1074e52d143d36c2a5464aab640f76850493d0b42587f76621a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/1-4.1792436713333.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתר",
+      "gloss": "Počakaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "malο"
+    },
+    {
+      "surface": "ואחוך",
+      "gloss": "in pokazal ti bom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še vedno"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "za Eloah"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "so besede"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:13.333854150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדם",
+      "rationale": "'Adam' kot ime ali 'Človek' kot vrsta — obe beritvi sta mogoči; tu druga, ker gre za oba, moškega in žensko."
+    },
+    {
+      "kind": "addition",
+      "subject": "sta bila",
+      "rationale": "hebrejščina ima nedoločnik v הבראם; slovenščina zahteva osebkov glagol."
+    }
+  ],
+  "translation": "Moškega in žensko ju je ustvaril, in ju je blagoslovil, ter poimenoval ⟨את⟩ njuno ime Človek, na dan, ko sta bila ustvarjena.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/5\/1-4.1792422040025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Moškega"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "in žensko"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "ju je ustvaril"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "in ju je blagoslovil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ju"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ter poimenoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njuno ime"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "njuno ime"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Človek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan, ko"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "sta bila ustvarjena"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:40.026740959Z",
+  "model": "glm-5.3"
+}

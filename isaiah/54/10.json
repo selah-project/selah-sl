@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימושו \/ תמוטנה \/ ימוש \/ תמוט",
+      "rationale": "koren ימוש in מוט se izmenjujeta štirikrat — 'odmakniti' proti 'omahniti' — vzporednica, ki jo slovenščina ohrani z dvema glagoloma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד je 'zvesta ljubezen\/ dobrotovost', ne splošna 'milost'"
+    }
+  ],
+  "translation": "Kajti gore se lahko odmaknejo in hribi omahnejo, toda moj hesed ⟨את⟩ od tebe ne bo odšel in zaveza mojega miru se ne bo omahnila, govori Jahve, kdor se te usmili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b119c6431051b02e1ac2863b70b1d9a0e8f4dddb0bdfe5efd40691395e95d655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/54\/9-12.1792430791789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "se-bodo-odmaknile"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "in-hribi"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "omahnejo"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "toda-moj-hesed"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ od-tebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "bo-odšel"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "in-zaveza"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mojega-mira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se-bo-omahnila"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "kdor-se-te-usmili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:31.790715190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישובו \/ וישבו",
+      "rationale": "Isti koren שׁוב dvakrat: 'obrnili so se' in 'povrhnili' — preobrat popisan z besedo, ki sama pomeni preobrat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sužnje (za השפחות)",
+      "rationale": "Hebrejščina razlikuje moškega (עבדים) in ženskega sužnja (שפחות); slovenščina ima eno besedo, razliko nosi kontekst."
+    }
+  ],
+  "translation": "A pozneje so se obrnili in povrhnili ⟨את⟩ sužnje in ⟨את⟩ sužnje, ki so jih bili poslali proste, in jih podjarmili za sužnje in za sužnje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/34\/9-12.1792431647425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "A obrnili so se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tem"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in povrhnili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sužnje"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "sužnje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "sužnje (ženske)"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sužnje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "so poslali"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "proste"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "in podjarmili so jih"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za sužnje"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "in za sužnje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:47.426584081Z",
+  "model": "glm-5.3"
+}

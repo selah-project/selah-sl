@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojega",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ga v חייך ne izraža ločeno"
+    }
+  ],
+  "translation": "Blagoslovi te Jahve iz Ciona, in glej ⟨dobro⟩ Jerušalajima vse dneve svojega življenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/128\/5-6.1792435573476.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "blagoslovi te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "iz Ciona"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨dobro⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dneve"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "svojega življenja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:13.477290885Z",
+  "model": "glm-5.3"
+}

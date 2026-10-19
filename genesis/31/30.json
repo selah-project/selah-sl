@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך הלכת \/ נכסף נכספתה",
+      "rationale": "podvojeni nedovršni glagoli (infinitiv absolut + preterit) poudarjajo dejanje: 'zares si odšel, zares si hrepenel'; v slovenščini podvajanje izgine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hrehenel",
+      "rationale": "נכסף dobesedno 'oblednel' — od hrepenenja; predana je pomenovina, ne podoba"
+    }
+  ],
+  "translation": "In zdaj, odšel si, ker si hrepenel po hiši svojega očeta — zakaj si ukradel ⟨את⟩ moje elohime?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/31\/29-32.1792422621400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "(šel)"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "si odšel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "(hrepenel)"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "si hrepenel"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "po hiši"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si ukradel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje elohime"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moje elohime"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:21.401769612Z",
+  "model": "glm-5.3"
+}

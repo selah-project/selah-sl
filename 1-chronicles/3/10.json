@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "slovenščina potrebuje glagol 'biti', hebrejščina ga v tem rodovniku nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "veriga kraljev od Šeloma naprej"
+    }
+  ],
+  "translation": "Sin Šeloma ⟨je bil⟩ Rehavam, Avija njegov sin, Asa njegov sin, Jehošafat njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fc760a66c815270a4df65b8d239245bd6757a5ac1394cd2ce43f291b3dae2310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/3\/9-12.1792438003642.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "in Sin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avija"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:43.643946594Z",
+  "model": "glm-5.3"
+}

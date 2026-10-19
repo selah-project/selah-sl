@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je\/so",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "you",
+      "subject": "pastirji pri vodnjaku",
+      "rationale": "Jaakov neposredno sprašuje zbranje pastirjev"
+    }
+  ],
+  "translation": "In je rekel jim: Poznate ⟨את⟩ Labana, sina Nahorjevega? In so rekli: Poznamo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5385cacbc941ff9b72cf2129105792d5893af0c1a8a7907c6078128dccefaa06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/29\/5-8.1792422481802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Poznate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorjevega"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "In so rekli"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Poznamo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:01.803416181Z",
+  "model": "glm-5.3"
+}

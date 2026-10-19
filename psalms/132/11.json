@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "hebrejščina ima gol glagol 'postaviti prestol' brez predloga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע ... לא ישוב",
+      "rationale": "šib'а (prisega) in šuv (obrniti) — aliteracija שׁב\/שׁוב"
+    },
+    {
+      "kind": "secret",
+      "subject": "prisega Davidu",
+      "rationale": "zaobljuba o večnem prestolu, vezana na Ziom iz v. 13"
+    }
+  ],
+  "translation": "Jahve je prisegel Davidu v resnici in od nje se ne bo obrnil: iz sadu tvojega telesa bom postavil ⟨na⟩ prestol ⟨zate⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/9-12.1792435591931.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "je prisegel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "v resnici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se bo obrnil"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od nje"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "iz sadu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tvojega telesa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "bom postavil"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨na⟩ prestol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨zate⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:31.933215418Z",
+  "model": "glm-5.3"
+}

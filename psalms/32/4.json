@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשדי",
+      "rationale": "לשד = 'sok\/svežina\/maščoba' (tudi sladek kolač); prevodi nihajo od 'vlaga' (KJV) do 'moč' (BSB); 'svežina' ohranja telesno podobo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "v poletno žgo",
+      "rationale": "בחרבני קיץ dobesedno 'v sušo poletja' – žgo\/reduced 'suša' je druga možnost."
+    }
+  ],
+  "translation": "Ker se je podnevi in ponoči težila tvoja roka name, se je moja svežina spremenila v poletno žgo. Selah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/32\/1-4.1792434711096.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "podnevi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "in ponoči"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "težila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoja roka"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se je spremenil"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "moja svežina"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "v žgo"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "poletno"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:51.099530377Z",
+  "model": "glm-5.3"
+}

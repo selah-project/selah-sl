@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasejo",
+      "rationale": "רעה je pastirška beseda — passti čredo; slika učenja kot paše, v slovenščini ostaja živalska"
+    },
+    {
+      "kind": "substitution",
+      "subject": "srca",
+      "rationale": "חסר לב dobesedno 'brez srca' — pomanjkanje razumevanja, ne čustva"
+    }
+  ],
+  "translation": "Ustne pravičnega pasejo ⟨את⟩ mnoge, neumni pa v pomanjkanju srca umrejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/10\/21-24.1792435921999.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ustne"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnega"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "pasejo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnoge"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "neumni pa"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "v pomanjkanju"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "umrejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:01.999820152Z",
+  "model": "glm-5.3"
+}

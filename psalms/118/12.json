@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ogenj iz trnja",
+      "rationale": "Trnje gori bliskovito in hitro ugasne — slika naglega propada sovražnikov."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refren",
+      "rationale": "Besedna zveza 'v imenu Jahveja jih bom odrezal' se ponovi v vv. 10–12 kot pripev."
+    }
+  ],
+  "translation": "Obdali so me kot čebele, ugasnile so kakor ogenj iz trnja, ⟨a⟩ v imenu Jahveja jih bom odrezal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/9-12.1792435485359.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "obdali so me"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "kot čebele"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "ugasnile so"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kakor ogenj"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "iz trnja"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "jih bom odrezal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:45.361982978Z",
+  "model": "glm-5.3"
+}

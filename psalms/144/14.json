@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez glagola biti."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלופינו",
+      "rationale": "אַלּוּף pomeni 'prijazen, udomačen; bik' — 'naši udomačeni voli' proti 'naši poglavarji'; srednji vokal מְסֻבָּלִים 'nosoče' nakazuje živino."
+    },
+    {
+      "kind": "crux",
+      "subject": "יוצאת",
+      "rationale": "'izhod': beg v izgnanstvo, izpad iz obzidja ali odhod na vojno — prevodi se razhajajo."
+    }
+  ],
+  "translation": "Naši voli ⟨so⟩ obteženi, ni preloma in ni izhoda in ni vpitja v naših trgih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/13-15.1792435710258.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "naši voli"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "obteženi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "preloma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "izhoda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "vpitja"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "v naših trgih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:30.259589898Z",
+  "model": "glm-5.3"
+}

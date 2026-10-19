@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 11:6",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "postal",
+      "rationale": "hebrejščina ima le 'bo za glavo' (לראש); slovenščina potrebuje glagol 'biti\/postati'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשונה\/ראש",
+      "rationale": "igranje besed: 'prvi' (barišona) in 'glava' (roš) — kdor je prvi, postane glava"
+    }
+  ],
+  "translation": "In David je rekel: Kdor udari Jevusejca prvi, bo ⟨postal⟩ glava in poveljnik. In prvi je odšel navzgor Joab, sin Tseruje, in postal je glava.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/5-8.1792438153138.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kdor (vsak)"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "udari"
+    },
+    {
+      "surface": "יבוסי",
+      "gloss": "Jevusejca"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo ⟨postal⟩"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "ולשר",
+      "gloss": "in poveljnik"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "in je odšel navzgor"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruje"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in je postal"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "glava"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:13.139673870Z",
+  "model": "glm-5.3"
+}

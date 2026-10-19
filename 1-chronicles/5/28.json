@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "colon",
+      "rationale": "Hebrew genealogical list has no explicit copula or punctuation; Slovenian requires a colon after 'sinovi Kehata'."
+    },
+    {
+      "kind": "crux",
+      "subject": "Hevron",
+      "rationale": "חברון je tu osebno ime (potomec Kehata), ne kraja Hevron; po kontekstu rodovnika ostaja ime Hevron."
+    }
+  ],
+  "translation": "In sinovi Kehata: Amram, Jicar, Hevron in Uziel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9c4611435a32a84cbe065593ba54c040d30b2d42134e7081e374ff99404bad9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/28-28.1792439091488.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehata"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Jicar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "in Uziel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:51.488971329Z",
+  "model": "glm-5.3"
+}

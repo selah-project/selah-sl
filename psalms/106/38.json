@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "hebrejščina ima le velev (vatčanaf) brez pomožnika 'biti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דם ... דם ... בדמים",
+      "rationale": "trikratna ponovitev 'kri' v enem verzu; poudarek je izgubljen v eni slovenski besedi na mestu"
+    }
+  ],
+  "translation": "In izlivali so nedolžno kri, kri svojih sinov in svojih hčer, ki so jih žrtvovali podobam Kenaana, in dežela je bila oskrunjena s krvjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/37-40.1792435399549.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "In izlivali so"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nedolžno"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "svojih sinov"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "in svojih hčer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "so žrtvovali"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "podobam"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "in je bila oskrunjena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "s krvjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:19.550697271Z",
+  "model": "glm-5.3"
+}

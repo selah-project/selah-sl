@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 31:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je\/bo",
+      "rationale": "Slovenščina zahteva glagol biti, hebrejščina ga izpušča (nominalni stavki)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוזר\/עזר",
+      "rationale": "Deležnik in pasiv istega korena עזר — pomagač in pomagani padata skupaj; paronomazija delno ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ostane 'ruah' — veter\/dih\/duh v eni besedi; 'duh' bi zožil pomen."
+    }
+  ],
+  "translation": "Micrajim pa je človek in ne El, njihovi konji pa meso in ne ruah; Jahve pa bo iztegnil svojo roko in omagal bo pomagač in padel bo pomagani, in vsi skupaj se bodo pokončali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/31\/1-4.1792430421780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Micrajim pa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "je človek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וסוסיהם",
+      "gloss": "njihovi konji"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "pa meso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve pa"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "bo iztegnil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "in omagal bo"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pomagač"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "in padel bo"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomagani"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "in skupaj"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "יכליון",
+      "gloss": "se bodo pokončali"
+    }
+  ],
+  "timestamp": "2026-10-19T17:20:21.781493693Z",
+  "model": "glm-5.3"
+}

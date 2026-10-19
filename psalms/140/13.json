@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "slovenščina potrebuje veznik, hebrejščina ga pri כי v tej zvezi nosi samo po pomenu"
+    }
+  ],
+  "translation": "Vem, da bo Jahve izvršil ⟨את⟩ sodbo ponižnega, pravico ubogih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2bb7e88c908a41c5097c75466d3c69ebd4ffa939f3d55a8d16e88372e1f8393e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/140\/13-14.1792435694595.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Vem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bo izvršil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ponižnega"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pravico"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "ubogih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:14.595697481Z",
+  "model": "glm-5.3"
+}

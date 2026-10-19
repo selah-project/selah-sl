@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 12:2",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje kopulo pri 'ki je na robu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפת",
+      "rationale": "dobesedno 'ustnica', tu 'rob' struge — slika meje kot ustnice"
+    },
+    {
+      "kind": "measurement",
+      "subject": "meje ozemlja",
+      "rationale": "natančno določanje meja kraljestva"
+    }
+  ],
+  "translation": "Sihon, kralj Emoritov, ki je prebival v Hešbonu, vladajoč od Aroerja, ki je na robu struge Arnon, in srede struge, in polovice Gilada, do struge Jabok, meje sinov Amona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a6b079b3e1feee7c7d89e55f443b1b6061c22b408191308adc00d98d0ba2ad4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/12\/1-4.1792426648775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoritov"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ki je prebival"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "v Hešbonu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vladajoč"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "od Aroerja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "robu"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "struge"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "ותוך",
+      "gloss": "in sreda"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "struge"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "in polovica"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jabok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "struge"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    }
+  ],
+  "timestamp": "2026-10-19T16:17:28.776268748Z",
+  "model": "glm-5.3"
+}

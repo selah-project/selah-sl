@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "striženih",
+      "rationale": "הקצובות je brez samostalnika — 'strižene' ali 'obrezane'; ovce so dodane iz konteksta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתאימות\/שכלה",
+      "rationale": "vse 'parne\/dvojčice' proti 'osiroteli' — besedna igra na rojstvo dvojčkov"
+    },
+    {
+      "kind": "you",
+      "subject": "tisti, ki govori",
+      "rationale": "nadaljnji nagovor ljubljene — njeni zobje"
+    }
+  ],
+  "translation": "Tvoji zobje kakor čreda striženih, ki se vzpenjajo iz kopališča; vse ⟨so⟩ dvojčice, in osirotele ni med njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/4\/1-4.1792436870641.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "Tvoji zobje"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kakor čreda"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "striženih"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "ki se vzpenjajo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "kopališča"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "dvojčice"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "in osirotele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "med njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:50.642950433Z",
+  "model": "glm-5.3"
+}

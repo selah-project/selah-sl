@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשחרך",
+      "rationale": "šahar = zarja; 'zgodaj te iščem' (KJV) ali 'ob zarji' — koren nosi podobo jutra"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez glagola 'biti' v stavku 'žeja moja nefes'"
+    }
+  ],
+  "translation": "Elohim, El moj si ti, iščem ⟨te⟩ ob zarji; žeja po tebi ⟨je⟩ moja nefes, hrepeni po tebi moje meso, v deželi suhi in izčrpani, brez vode.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/63\/1-4.1792434979052.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El moj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ti"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "iščem ⟨te⟩ ob zarji"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "žeja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "po tebi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hrepeni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "po tebi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje meso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suhi"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "in izčrpani"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "brez"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:19.054545657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "אותם je osebni zaimek (ne aleph-tav označevalec); slovenščina ga izraža kot 'jih'."
+    }
+  ],
+  "translation": "In Moše je privedel ⟨את⟩ Aharona in ⟨את⟩ njegove sinove ter ⟨את⟩ jih umil z vodo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/8\/5-8.1792424091723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "in je privedel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "in je umil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih"
+    },
+    {
+      "surface": "במים",
+      "gloss": "z vodo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:51.725021531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "utrdil",
+      "rationale": "העמיד dobesedno »postaviti, da stoji«; »utrdil« je blizu, a ne dobesedno."
+    },
+    {
+      "kind": "alternative",
+      "subject": "za njim",
+      "rationale": "אחריו lahko pomeni tudi »za njim (kot naslednik)« ali »zanj«."
+    }
+  ],
+  "translation": "Vendar zaradi Davida mu je Jahve, njegov Elohim, dal svetilko v Jerušalajimu, da bi postavil ⟨את⟩ njegovega sina za njim in utrdil ⟨את⟩ Jerušalajim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/15\/1-4.1792429159679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vendar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "njegov Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "svetilko"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "da bi postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovega sina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegovega sina"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za njim"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "in utrdil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:19.680883074Z",
+  "model": "glm-5.3"
+}

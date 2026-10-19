@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina brez copule; ime izvajalca (Becalel) se ne omenja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "efod",
+      "rationale": "hebrejsko האפod je obredno oblačilo; oblika 'efod' ohranja zvok."
+    }
+  ],
+  "translation": "In naredil je ⟨את⟩ efod: zlato, modra vijolična, škrlatna in rdeča škrlatna, in predeno laneno platno.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/39\/1-4.1792423880563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in naredil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modra vijolična"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "in škrlatna"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "in črvena"
+    },
+    {
+      "surface": "שני",
+      "gloss": "škrlatna"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "in laneno platno"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "predeno"
+    }
+  ],
+  "timestamp": "2026-10-19T15:31:20.564499964Z",
+  "model": "glm-5.3"
+}

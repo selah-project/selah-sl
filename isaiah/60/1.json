@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Jeruzalem",
+      "rationale": "Dvojni ženski imperativ ('Vstani, zasij') nagovarja Sion kot žensko osebo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kavod",
+      "rationale": "כבוד je dobesedno 'teža', preneseno 'sij, veličastje'; 'kavod' ohranja deblo."
+    }
+  ],
+  "translation": "Vstani, zasij, kajti prišla je tvoja luč, in kavod Jahve je nad teboj vzšel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/60\/1-4.1792430915570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Vstani"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "zasij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišla"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "tvoja luč"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "in kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad teboj"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "je vzšel"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:35.571365452Z",
+  "model": "glm-5.3"
+}

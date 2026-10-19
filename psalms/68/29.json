@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עוזה",
+      "rationale": "Imperativ עזז: 'bodi močan' (JPS\/YLT) proti 'utrdi to, kar si delal' (KJV\/ASV, z זו kot predmetom)."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožnik 'je' za preteklik; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Zapovedal je tvoj Elohim tvojo moč; okrepi, Elohim, to, kar si ⟨za⟩ nas storil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/29-32.1792435024475.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Zapovedal je"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tvojo moč"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "okrepi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "to"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨za⟩ nas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:04.476445095Z",
+  "model": "glm-5.3"
+}

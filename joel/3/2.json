@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sužnje in sužnje",
+      "rationale": "Hebrejščina loči עבדים (moški sužnji) in שפחות (ženske sužnje); slovenščina ima eno besedo, rod se izgubi."
+    }
+  ],
+  "translation": "In tudi nad sužnje in nad sužnje bom v tistih dneh izlil ⟨את⟩ svojo ruah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ddca5f210e9b183415c9563878292a6ef19bb5043533e29a4c388e56be191b07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/3\/1-4.1792433953845.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "In tudi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "sužnje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "sužnje"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v dneh"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "tistih"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "izlil bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo ruah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "svojo ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:13.846343466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ki⟩",
+      "rationale": "Slovenščina potrebuje oziralni veznik; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladenke",
+      "rationale": "עלמות so 'mladenke, dekleta' — ne nujno device."
+    }
+  ],
+  "translation": "Pevci so korakali spredaj, godci za njimi, sredi mladenk, ⟨ki⟩ bijo boben.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "878aa51ab572d46cceb596ce03d50db2dcd9b38baaf888bc7f3c13a3af19e050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/25-28.1792434987566.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "so korakali spredaj"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "pevci"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "godci"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "mladenk"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "bijo boben"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:27.568219555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje dodan glagol 'je' kot vezo; hebrejščina ga izpušča."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedem let in šest mesecev",
+      "rationale": "natančno štetje Davidovega vladanja v Hevronu."
+    }
+  ],
+  "translation": "In število dni, ki jih je bil David kralj v Hevronu nad hišo Jehudo, je sedem let in šest mesecev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0ee6f91da8c11f6284c71095e8cd8f8c1d2c1df106a0b431eb45ed6dae18ff07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/2\/9-12.1792428148341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "število"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki jih"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Hevronu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "in šest"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesecev"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:28.343049001Z",
+  "model": "glm-5.3"
+}

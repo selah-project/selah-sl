@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 8:3",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שירות היכל",
+      "rationale": "'pesmi templja' (KJV) ali 'pevke palače' (YL T) — širot je lahko množina šir ali 'pevke'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הס",
+      "rationale": "'Hush!' — ukaz tišine ob metanju trupel, ne 'tišino bodo vrgli' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "govori",
+      "rationale": "נאם je orakeljski 'izreka' — 'govori Jahve' po D3"
+    }
+  ],
+  "translation": "In spevi ⟨templja⟩ se bodo tisti dan sprevrgli v hlipanje, govori Adonaj Jahve; številne trupla — povsod jih bodo zmetali ven. Utišaj!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/8\/1-4.1792434049225.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והילילו",
+      "gloss": "in hlipali bodo"
+    },
+    {
+      "surface": "שירות",
+      "gloss": "spevi"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨templja⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רב",
+      "gloss": "številne"
+    },
+    {
+      "surface": "הפגר",
+      "gloss": "trupla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "povsod"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na vsakem kraju"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "jih bodo zmetali ven"
+    },
+    {
+      "surface": "הס",
+      "gloss": "utišaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:20:49.226896781Z",
+  "model": "glm-5.3"
+}

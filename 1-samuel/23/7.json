@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכר אתו אלהים",
+      "rationale": "'Elohim ga je razodel\/izročil v mojo roko' — nekateri berejo 'Elohim ga je izročil', drugi 'Elohim mi ga je nakazal'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dvermi",
+      "rationale": "דלתים je dvojina: dobesedno 'dveri-dve', slovenščina dvojine ne pokaže."
+    }
+  ],
+  "translation": "In poveste je bilo Šaulu, da je David prišel v Keilo; in Šaul je rekel: Izročil ⟨את⟩ ga je Elohim v mojo roko, kajti zaprt je, ker je prišel v mesto z dvermi in z zaporo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/23\/5-8.1792427930432.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "in poveste je bilo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "v Keilo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "izročil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ga ⟨את⟩",
+      "marks": "Elohim — predmet v njegovi roki je 'on' (Davida)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "v mojo roko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "zaprt je"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ker je prišel"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mesto"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "z dvermi"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "in z zaporo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:50.433738846Z",
+  "model": "glm-5.3"
+}

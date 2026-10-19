@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrew passive participle needs Slovenian copula"
+    }
+  ],
+  "translation": "In Amasa je šel poklicati ⟨את⟩ Judo; zamujal pa je čez določeni čas, ki mu je bil določen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "37c375390d490137a261c74d7a2bf97bf67799cf8be37d213a59617bfbef0b3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/20\/5-8.1792428612850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in je šel"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "poklicati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judo"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "zamujal pa je"
+    },
+    {
+      "surface": "מן",
+      "gloss": "čez"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "določeni čas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "mu je bil določen"
+    }
+  ],
+  "timestamp": "2026-10-19T16:50:12.851704271Z",
+  "model": "glm-5.3"
+}

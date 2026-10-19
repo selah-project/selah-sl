@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rakia",
+      "rationale": "הרקיע je raven razprostrt prostor (expanse) – izposojena oblika z hebrejskim zvokom."
+    },
+    {
+      "kind": "elision",
+      "subject": "dvojina שמים",
+      "rationale": "Hebrejska dvojina nebes se v slovenščini izgubi."
+    }
+  ],
+  "translation": "⟨_ATTRIBUTES-PRESENT__NEBESA__POVEDUJEJO ČAST EL, IN DELO NJEGOVIH ROK OZNAČUJE RAKIA.__NEBESA__CA nima dvojine – hebrejska dvojina se izgubi._0 attributes:_IL_ }",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/19\/1-4.1792434643625.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "pripovedujejo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "čast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "in delo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "njegovih rok"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "oznanja"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:43.626068225Z",
+  "model": "glm-5.3"
+}

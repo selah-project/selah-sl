@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 10:16",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרש דרש",
+      "rationale": "infinitivni absolut pred glagolom — dobesedno 'iskal je iskal'; izgubljeno v eni slovenski besedi, zato skrbno-iskal"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ · ⟨sta⟩",
+      "rationale": "slovenščina doda pomožni glagol"
+    }
+  ],
+  "translation": "In ⟨את⟩ kozla za greh je skrbno-iskal iskal Može, in glej, zažgan je bil; in razgnevil se je nad Elazarjem in nad Itamarjem, sinovoma Aharonovima, ki ⟨sta⟩ ostala, rekoč:",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/10\/13-16.1792424180552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kozla za greh"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kozla"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "za greh"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "skrbno-"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "iskal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Može"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "zažgan"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "in razgnevil se je"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarjem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamarjem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovoma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovima"
+    },
+    {
+      "surface": "הנותרם",
+      "gloss": "ki sta ostala"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    }
+  ],
+  "timestamp": "2026-10-19T15:36:20.554204111Z",
+  "model": "glm-5.3"
+}

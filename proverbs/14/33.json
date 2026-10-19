@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 14:33",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kaj se spozna med neumniki",
+      "rationale": "KJV bere 'kar je v sredi neumnikov, se razodene' (brez predmeta); JPS\/BSB: modrost sama se dá spoznati tudi med neumniki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תנוח",
+      "rationale": "Hofal od נוח: 'dobi počitek \/ je spravljena k miru', ne le 'počiva'."
+    }
+  ],
+  "translation": "V srcu razumnika počiva modrost, toda v sredi neumnikov ⟨se⟩ dá spoznati.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6823f1b0db6ec278cbcb264693c993b9f0a7c680c19c729f3768d2279459081f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/33-35.1792435954139.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "v srcu"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "razumnika"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "počiva"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "ובקרב",
+      "gloss": "toda v sredi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "neumnikov"
+    },
+    {
+      "surface": "תודע",
+      "gloss": "dá spoznati"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:34.140514692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול se ne prevaja s 'pekel' — ni kraj kazni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגליה\/צעדיה",
+      "rationale": "paralelizem nog\/korakov, ki se spuščata in držita smrti in šeola"
+    }
+  ],
+  "translation": "Njeni nogi hodita v smrt, v šeol se zaneseta njeni koraka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/5-8.1792435852367.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "neni nogi"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "hodita v smrt (spuščata se)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "njeni koraka"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "se zaneseta (držita se)"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:52.368140074Z",
+  "model": "glm-5.3"
+}

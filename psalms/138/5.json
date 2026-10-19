@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sij",
+      "rationale": "כבוד je dobesedno 'teža'; 'sij' hrani sliko teže v pomenu 'veličastje'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ... יהוה",
+      "rationale": "Ime Jahve stoji na začetku in koncu verza — vključ (inkluzija), ki obdaja pot in sij."
+    }
+  ],
+  "translation": "In peljali bodo o poteh Jahvejevih, kajti velik je sij Jahvejev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/138\/5-8.1792435739100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "In peljali bodo"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "o poteh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejevih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sij"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:59.101262508Z",
+  "model": "glm-5.3"
+}

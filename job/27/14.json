@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 27:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "meč",
+      "rationale": "חרב pomeni 'meč' ali 'suša'; KJV\/JPS 'meč', nekateri bralci 'suša (nimajo kruha)' — meč je uveljavljeno"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "pleonastični predlog 'za-njih', glosiran kot 'zanje'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez glagola: 'njegovi sinovi — zanje meč'"
+    }
+  ],
+  "translation": "Če se njegovi sinovi namnožijo — ⟨je⟩ zanje meč, in njegovi potomci ne bodo siti ⟨s⟩ kruha.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/13-16.1792436606785.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "se namnožijo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zanje"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "וצאצאיו",
+      "gloss": "in njegovi potomci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bodo siti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:26.787569264Z",
+  "model": "glm-5.3"
+}

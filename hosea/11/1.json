@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je … bil",
+      "rationale": "Hebrew lacks copula in the nominal clause"
+    },
+    {
+      "kind": "crux",
+      "subject": "ko",
+      "rationale": "כי lahko 'ko\/ker' ali vzročno 'ker'; izbrana časovna veznica"
+    }
+  ],
+  "translation": "Ko ⟨je⟩ Jisrael ⟨bil⟩ deček, sem ga ljubil, in iz Micrajim sem poklical svojega sina.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/11\/1-4.1792433890978.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "נער",
+      "gloss": "deček"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "sem ga ljubil"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "in iz Micrajim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sem poklical"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "svojega sina"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:10.979896296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "hebrejščina postavi samostalnik 'blagoslov' brez glagola; slovenščina zahteva copulo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכת \/ ברכנו",
+      "rationale": "ponovitev korena ברך — 'blagoslov … blagoslavljamo' — oklepaja pozdrava"
+    }
+  ],
+  "translation": "In mimoidoči ne rečejo: Blagoslov Jahveja ⟨naj bo⟩ nad vami, blagoslavljamo ⟨את⟩ vas v imenu Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/129\/5-8.1792435595911.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rečejo"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "mimoidoči"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "nad vami"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "blagoslavljamo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:35.913364582Z",
+  "model": "glm-5.3"
+}

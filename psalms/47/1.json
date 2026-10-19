@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "rationale": "מזמור je besedilo z inštrumentalno glasbo; pustljena po hebrejskem zvoku, ne 'psalm'"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "naslovno 'zborovodji' brez glagola — hebrejščina ne pove 'za' ali 'od'"
+    }
+  ],
+  "translation": "Zborovodji, ⟨za⟩ sinove Koraha, mizmor.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/47\/1-4.1792434890722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨za⟩ sinove"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:50.723849026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "hebrejščina je samostalniška fraza brez glagola; slovenščina zahteva copulo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בו → v njej",
+      "rationale": "hebrejski zaimek je moškega spola (se nanaša na 'polje' ali skupno), slovenščina ga veže na 'jamo'."
+    }
+  ],
+  "translation": "Nakup ⟨את⟩ polja in jame, ki je v njej, ⟨je bil⟩ od sinov Heta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "06adca7b964c085535ea4fe9753fa12fed7e6a4ddaf38a7bf15ac3db49b7bf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/49\/30-32.1792433276888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "nakup"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "in jame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:56.892466093Z",
+  "model": "glm-5.3"
+}

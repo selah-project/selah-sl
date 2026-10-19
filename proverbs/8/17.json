@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אהביה ... אהב",
+      "rationale": "koren אהב se ponovi v stanju povratnosti — 'moji ljubimci ljubim' — igra ljubezni iz obeh strani, v slovenščini zglajena."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשחרי",
+      "rationale": "dobesedno 'ki zarja-menijo', torej 'ki vstajajo zgodaj\/zori k meni': KJV 'seek me early' proti 'iskati prizadevno'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "modrost govori",
+      "rationale": "modrost obljublja vzajemno ljubezen iskalcem — nagovarja poslušalca, naj jo išče."
+    }
+  ],
+  "translation": "Jaz ljubim tiste, ki me ljubijo, in tisti, ki me zgodaj iščejo, me bodo našli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/17-20.1792435903681.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "tiste, ki me ljubijo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubim"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "in tisti, ki me zgodaj iščejo"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "me bodo našli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:43.682770048Z",
+  "model": "glm-5.3"
+}

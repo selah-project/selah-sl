@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlu, dihu, življenjski sili' kot 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "telo",
+      "rationale": "בטן je dobesedno 'trebuh, naročje'; 'telo' posploši telesno podobo ponižanja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחה\/דבקה",
+      "rationale": "Dvojna slika popolne ponizenosti — potopiti se v prah, prilepiti se na zemljo; vzporednost deluje tudi v slovenščini."
+    }
+  ],
+  "translation": "kajti v prah je potonila naša duša, ob zemljo se je prilepilo naše telo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "17217f569acff8ee961a15015fd62000bc868b72aab02af2f64f532683fe88a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/25-27.1792434801974.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "je potonila"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "v prah"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naša duša"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "se je prilepilo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ob zemljo"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "naše telo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:21.975404032Z",
+  "model": "glm-5.3"
+}

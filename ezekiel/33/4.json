@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kdor sliši",
+      "rationale": "hebrejščina ima dvojno obliko שמע השמע (»sliši, slišalec«), ki je v slovenščini drugačna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמע \/ נזהר",
+      "rationale": "več kot ושמע…ונזהר zveni kot isto-opozorilna igra, delno izgubljena v slovenščini"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kri na glavi",
+      "rationale": "hebrejski pravni idiom za osebno odgovornost, dobesedno ohranjen"
+    }
+  ],
+  "translation": "in kdor sliši glas šofarja in se ne opozori, pride meč in vzame ⟨את⟩ njega — njegova kri bo na njegovi glavi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f1ca80d3354f7a00fa53d280ef366c2b80d30a1a1b53a3f36a03c07b561cf34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/33\/1-4.1792432595123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "in sliši"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "kdor sliši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "šofarja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "se opozori"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "in pride"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "vzame njega"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "njegova kri"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na njegovi glavi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:56:35.124961383Z",
+  "model": "glm-5.3"
+}

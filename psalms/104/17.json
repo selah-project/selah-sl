@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez kopule; ciprese so kar »njen dom«"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "»tam« zlito s »kjer«, ker bi ločeno motilo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושׁ",
+      "rationale": "cipresa ali jelka — drevo ni z gotovostjo določeno"
+    }
+  ],
+  "translation": "kjer ptice gnezdijo; štorklja — ciprese ⟨so⟩ njen dom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/17-20.1792435337305.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ptice"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "gnezdijo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "štorklja"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ciprese"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "njen dom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:17.306770740Z",
+  "model": "glm-5.3"
+}

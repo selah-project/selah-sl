@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "sinovi Jisraela",
+      "rationale": "neposreden ukaz izrečen Jisraelu v drugi osebi množine"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje predmet za 'nejte', hebrejščina ga izpušča"
+    }
+  ],
+  "translation": "Povi sinovom Jisraela in reci: Vsako maščobo vola, jagnjeta in koze — ⟨je⟩ ne jejte.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6997f06ebb6ef0ec98bec4151f42879a9c7b1c0a22eae5e2b34766e261f3d47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/21-24.1792424000565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Povi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in reci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Vsako"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maščobo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "in jagnjeta"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "in koze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jejte"
+    }
+  ],
+  "timestamp": "2026-10-19T15:33:20.566739789Z",
+  "model": "glm-5.3"
+}

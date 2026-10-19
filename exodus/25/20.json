@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 25:20",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איש אל אחיו",
+      "rationale": "Dobesedno 'mož k svojemu bratu': idiom za 'drug k drugemu, drug proti drugemu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bodo obrnjena⟩",
+      "rationale": "Hebrejščina ima samo 'in njihova lica vsak k bratu'; slovenščini je treba dodati glagol."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרשי",
+      "rationale": "Particip פֹּרְשֵׂי (razpenjati peruti) se v tej obliki pojavi le tu v Tanahu."
+    }
+  ],
+  "translation": "In kerubi bodo razproirali peruti navzgor, pokrivajoč s svojimi perutmi kaporet, in njihova lica ⟨bodo obrnjena⟩ vsak k svojemu bratu; proti kaporetu bodo lica kerubov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/25\/17-20.1792423584627.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "In bodo"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "פרשי",
+      "gloss": "razproirali"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "peruti"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "navzgor"
+    },
+    {
+      "surface": "סככים",
+      "gloss": "pokrivajoč"
+    },
+    {
+      "surface": "בכנפיהם",
+      "gloss": "s svojimi perutmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetom"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "in njihova lica"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svojemu bratu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bodo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lica"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubov"
+    }
+  ],
+  "timestamp": "2026-10-19T15:26:24.628388961Z",
+  "model": "glm-5.3"
+}

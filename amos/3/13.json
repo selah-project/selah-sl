@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 3:13",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pričajte v hiši Jaakova",
+      "rationale": "כנגד 'proti hiši Jaakova' (ASV\/JPS) ali 'v hiši' (KJV) — hebrejščina ima samo ב, brez 'proti'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Poslušite",
+      "rationale": "imperativ, nagovor poslušalcev v hiši Jaakova."
+    },
+    {
+      "kind": "you",
+      "subject": "k Novemu Izraelu",
+      "rationale": "neposreden nagovor ljudstva skozi preroka."
+    }
+  ],
+  "translation": "Poslušite in pričajte v hiši Jaakova, govori Adonaj Jahve, Elohim Cebaot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ed21941dff667967c348f60471a59a030eb60f87c9bd76e8e2b04e1793724f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/3\/13-15.1792433963133.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušite"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "in pričajte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:23.134923703Z",
+  "model": "glm-5.3"
+}

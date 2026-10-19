@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "toda",
+      "rationale": "vav v וישימהו tu nosi protivni pomen, ne pa preprosto 'in'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הראש \/ לראש",
+      "rationale": "ponovitev 'glava' na začetku in koncu stavka — obroč, ki se v prevodu ohranja"
+    }
+  ],
+  "translation": "In Hosi, iz sinov Merarijevih, sinovi: Šimri ⟨je bil⟩ glava — kajti ni bil prvorojenec, toda njegov oče ga je postavil za glavo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a516b2e8f326db5408bf23218b7f6178301d0055a18587f63cb867a6dbd136cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/26\/9-12.1792438345246.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "In Hosi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarijevih"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Šimri"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bil"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorojenec"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "ga je postavil"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "njegov oče"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "za glavo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:25.249287688Z",
+  "model": "glm-5.3"
+}

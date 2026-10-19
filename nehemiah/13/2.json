@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ampak \/ toda",
+      "rationale": "hebrejščinaimplicitivno nasprotje med stavki, slovenščina potrebuje veznik"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "namenja se na Jisraela, čeprav je slovnično edninski"
+    }
+  ],
+  "translation": "ker niso prišli naproti ⟨את⟩ sinovom Jisraela s kruhom in z vodo, ampak je najel zoper njih ⟨את⟩ Bileáma, da ga preklinja; toda Elohim naš je prevesil prekletstvo v blagoslov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/13\/1-4.1792437978907.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "niso prišli naproti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinovom Jisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "s kruhom"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "in z vodo"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ampak je najel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zoper njih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileáma"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileáma"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "da ga preklinja"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ampak je prevesil"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "prekletstvo"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "v blagoslov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:18.910141280Z",
+  "model": "glm-5.3"
+}

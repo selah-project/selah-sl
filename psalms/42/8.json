@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהום אל תהום קורא",
+      "rationale": "večnostna zanka: globina kliče globini, odmev brez konca, v slovenščini delno ohranjeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "slapovi",
+      "rationale": "צנוריך je 'vodometi\/prelivi' — 'slapovi' (ASV 'waterfalls', JPS 'cataracts') je najbližja podoba"
+    }
+  ],
+  "translation": "Globina kliče globini ⟨ob⟩ glasu tvojih slapov; vsi tvoji biči in valovi tvoji so šli nad menoj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/5-8.1792434837888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "globina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "globini"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "kliče"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨ob⟩ glasu"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "tvojih slapov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "tvoji biči"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "in valovi tvoji"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada menoj"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "so šli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:57.891466201Z",
+  "model": "glm-5.3"
+}

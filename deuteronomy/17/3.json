@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "drugim bogovom",
+      "rationale": "אלהים אחרים ima tu male črke — bogovi narodov, ne Elohim Izraela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבא השמים",
+      "rationale": "'vojska neba' — isti koren kot v Jahve Cebaot; zvezde kot urejena vojska."
+    }
+  ],
+  "translation": "in odide ter služi drugim bogovom in se priklanja njim ter soncu ali luni ali vsej vojski neba, kar nisem zapovedal —",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/17\/1-4.1792426109053.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in odide"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ter služi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "in se priklanja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "ter soncu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "luni"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ali vsej"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojski"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "neba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "zapovedal sem"
+    }
+  ],
+  "timestamp": "2026-10-19T16:08:29.055130618Z",
+  "model": "glm-5.3"
+}

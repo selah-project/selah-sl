@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "primerjalni veznik",
+      "rationale": "Hebrejščina postavi slike (lev, medved) brez 'kot'; prevodi ga dodajo, tu je izpuščen dobesedno."
+    }
+  ],
+  "translation": "Lev, ki renči, in medved, ki divja, — vladar, ki je zloben, nad ljudstvom, ki je ubogo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3002978ecd6e910ccfe75da8f0c6fd1b46b9c502ad660470b28e43e3f2733d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/28\/13-16.1792436180717.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "lev"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ki renči"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "in medved"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ki divja"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vladar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ki je zloben"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvom"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ki je ubogo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:20.718621719Z",
+  "model": "glm-5.3"
+}

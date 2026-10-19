@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 23:5",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je rekel David",
+      "rationale": "Hebrew has no speech formula here; first-person עשיתי forces the supplied attribution to David, following the ancient versions."
+    },
+    {
+      "kind": "measurement",
+      "subject": "štiri tisoče + štiri tisoče",
+      "rationale": "Verse counts the Levitical divisions by thousands."
+    }
+  ],
+  "translation": "in štiri tisoče vratarjev, in štiri tisoče hvalilcev Jahveja z inštrumenti, ki sem jih izdelal za hvaljenje, je rekel David.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/23\/5-8.1792438273964.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "in štiri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisoče"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vratarjev"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "in štiri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisoče"
+    },
+    {
+      "surface": "מהללים",
+      "gloss": "hvalilcev"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בכלים",
+      "gloss": "z inštrumenti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sem jih izdelal"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "za hvaljenje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:13.965015119Z",
+  "model": "glm-5.3"
+}

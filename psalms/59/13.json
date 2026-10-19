@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula in nominal opening"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומכחש",
+      "rationale": "kippaḥš: laž\/izmišljotina ali odpoved; tukaj 'laž'"
+    },
+    {
+      "kind": "crux",
+      "subject": "פימו שפתימו",
+      "rationale": "nepodaljšane končnice -mo (arhaično) namesto -hem"
+    }
+  ],
+  "translation": "Greh ⟨je⟩ njihovih ust, beseda njihovih ustnic — ujeti naj bodo v svoji ošabnosti, in preklinjanje in laž pripovedujejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/13-16.1792434951789.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "greh"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "njihovih ust"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "njihovih ustnic"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ujeti naj bodo"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "v svoji ošabnosti"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "in preklinjanje"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "in laž"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "pripovedujejo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:51.789581338Z",
+  "model": "glm-5.3"
+}

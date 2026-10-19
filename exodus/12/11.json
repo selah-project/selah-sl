@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "copula supplied: Hebrew is nominal phrase 'pesah it is for Jahve'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesah",
+      "rationale": "kept as Hebrew name; root 'to pass over\/spare', not translated."
+    }
+  ],
+  "translation": "In tako jejte ⟨את⟩ njega: vaša ledja pasana, vaši sandali na vaših nogah in vaša palica v vaši roki; in jejte ⟨את⟩ njega v naglici — pesah ⟨je⟩ za Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/12\/9-12.1792423176347.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "in tako"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jejte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "vaša ledja"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "pasana"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "vaši sandali"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "na vaših nogah"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "in vaša palica"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "v vaši roki"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "in jejte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "v naglici"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:19:36.348929384Z",
+  "model": "glm-5.3"
+}

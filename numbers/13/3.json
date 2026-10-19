@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי יהוה",
+      "rationale": "dobesedno 'po ustih Jahveja' — po ukazu; ohranjena dobesedna slika"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina zahteva glagol biti v preostanku stavka"
+    }
+  ],
+  "translation": "In Moše jih je poslal iz puščave Paran, po ustih Jahveja; vsi oni možje, glave sinov Jisraela, ⟨so⟩ oni.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "44f1fc52c670c5a5fed90f68e16a770199effe0c7b0efa8cf99b95f8c074e1e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/13\/1-4.1792425019262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "in poslal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "iz puščave"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ustih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "može"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glave"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-19T15:50:19.263878214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Kdor",
+      "rationale": "Heberščina uporablja particip, slovenščina zahteva osebno zgradbo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ne bo uslišan",
+      "rationale": "יענה je lahko tudi 'ne bo odgovorjen' — koren ענה pomeni odgovoriti"
+    }
+  ],
+  "translation": "Kdor zamaši svoje uho pred vpitjem reveža, tudi sam bo vpil in ne bo uslišan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/13-16.1792436036977.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "zamaši"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "svoje uho"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "pred vpitjem"
+    },
+    {
+      "surface": "דל",
+      "gloss": "reveža"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sam"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bo vpil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bo uslišan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:56.978700617Z",
+  "model": "glm-5.3"
+}

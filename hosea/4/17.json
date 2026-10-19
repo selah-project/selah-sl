@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula in the participle clause"
+    },
+    {
+      "kind": "you",
+      "subject": "to the listener \/ about Efrajm",
+      "rationale": "Imperative 'pusti ga' addresses an unnamed hearer, likely the prophet or Judah"
+    }
+  ],
+  "translation": "Združen z maliki ⟨je⟩ Efrajm — pusti ga ⟨naj mu je⟩!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/4\/17-19.1792433777116.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "združen"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "z maliki"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "pusti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga ⟨naj mu je⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:17.117274071Z",
+  "model": "glm-5.3"
+}

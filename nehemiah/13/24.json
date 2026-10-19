@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 13:24",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עם ועם",
+      "rationale": "ponovitev 'ljudstvo in ljudstvo' — vsako po svojem jeziku; dobesedna ritemika ohranjena"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אשדודית",
+      "rationale": "beseda 'ašdodsko (narečje)' se v Tanahu pojavi samo tukaj"
+    },
+    {
+      "kind": "substitution",
+      "subject": "znajo",
+      "rationale": "מכירים dobesedno 'ne prepoznajo \/ niso vešči' — ne znajo je olajšano"
+    }
+  ],
+  "translation": "In njihovi sinovi — polovica govori ašdodsko, in ne znajo govoriti judejščine, ampak po jeziku ljudstva in ljudstva.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd18fcc176b4eeeb5e4ab34152ffb3c20abc02e6e0a01008732d9b6abd9587db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/13\/21-24.1792437980067.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "In njihovi sinovi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovica"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אשדודית",
+      "gloss": "ašdodsko"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "מכירים",
+      "gloss": "znajo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "govoriti"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "judejščine"
+    },
+    {
+      "surface": "וכלשון",
+      "gloss": "ampak po jeziku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "in ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:20.071318710Z",
+  "model": "glm-5.3"
+}

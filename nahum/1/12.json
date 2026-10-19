@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלמים",
+      "rationale": "Različice: »popolni\/v polni moči« (JPS, ASV), »mirni\/umirjeni« (Geneva) ali »zavezniki« (BSB, iz sorodnega pomena »v miru z«)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענתך \/ אענך",
+      "rationale": "Isti koren ענה v zrcalni strukturi: »sem te zatiral — ne bom te zatiral«, glede na osebo druga oblika, pridelek v slovenščini."
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah",
+      "rationale": "Druga polovica verza se iz nave ĉrta — nagovorjena je zatirana stran (Judah), ne več Asirija."
+    }
+  ],
+  "translation": "Tako govori Jahve: Čeprav ⟨so⟩ popolni in tako številni, tako ⟨bodo⟩ odrezani ⟨in on⟩ prešel; in če ⟨sem⟩ te zatiral, ne bom te več zatiral.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/1\/9-12.1792434216785.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Čeprav"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "popolni"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "in-tako"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "številni"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "in-tako"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "odrezani"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "in-prešel"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "in-zatiral-sem-te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "bom-zatiral-te"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:36.787287749Z",
+  "model": "glm-5.3"
+}

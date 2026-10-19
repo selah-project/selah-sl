@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "elided object of הכעסת",
+      "rationale": "hebrejščina ne imenuje objekta jeze ('Me'); 'Me' je dodano v oklepajih po zgledu drugih prevodov — tu izpuščeno, ker ga hebrejščina nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "house of Jeroboam\/Baasha",
+      "rationale": "namig na iztrebitvene prerokbe 1 Kg 14 in 16 — bralec v tem verzu jih še ne pozna"
+    }
+  ],
+  "translation": "In postavil bom tvojo hišo ⟨את⟩ kakor hiša Jarobáma, sina Neváta, in kakor hiša Baše, sina Ahíje, zaradi jeze, s katero si razjezil in spravil v greh ⟨את⟩ Jisrael.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/21\/21-24.1792429208102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "in postavil bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvojo hišo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvojo hišo"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kakor hiša"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobáma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Neváta"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "in kakor hiša"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahíje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "jeze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s katero"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "si razjezil"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "in spravil v greh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T17:00:08.103598398Z",
+  "model": "glm-5.3"
+}

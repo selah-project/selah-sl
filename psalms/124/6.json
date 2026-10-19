@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨njihovim⟩",
+      "rationale": "Slovenščina zahteva pridevnik lastnosti pri 'zobem'."
+    }
+  ],
+  "translation": "Blagoslovljen Jahve, ker nas ni dal za plen zobem ⟨njihovim⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/124\/5-8.1792435542867.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ker ne"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "nas je dal"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "za plen"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "zobem njihovim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:42.868432574Z",
+  "model": "glm-5.3"
+}

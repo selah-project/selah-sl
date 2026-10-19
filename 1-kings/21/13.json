@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 21:13",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "blagoslovil",
+      "rationale": "ברך pomeni dobesedno 'blagoslovil', a je tu evfemistični antonim za 'preklinjal' (prim. 2 Mz 22,27) — stari prevodi se delijo na 'blagoslovil' (KJV) in 'preklinjal' (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Belial",
+      "rationale": "בליעל je dobesedno 'brez vrednosti, ničvrednež', ne lastno ime; Wycliffov 'sinova hudiča' ga poznje demonizira."
+    },
+    {
+      "kind": "addition",
+      "subject": "zoper",
+      "rationale": "Hebrejščina izraža pričevanje zoper z את + נגד, slovenščina potrebuje predlog 'zoper'."
+    }
+  ],
+  "translation": "In prišla sta dva moža, sinova Beliala, in sedela nasproti njega; in možje Beliala sta pričevala ⟨zoper⟩ ⟨את⟩ Navota pred ljudstvom, govoreč: Navot je blagoslovil Elohima in kralja. In izvedli so ga zunaj iz mesta in kamnali so ga s kamni in umrl je.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4b295cc58904c013fa74a7e7866dbe4e076558ea9194638bfd22c73a981b6adf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/21\/13-16.1792429228855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "in prišla sta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "moža"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in sedela"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "nasproti njega"
+    },
+    {
+      "surface": "ויעדהו",
+      "gloss": "in pričevala"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navota"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blagoslovil"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "in kralja"
+    },
+    {
+      "surface": "ויצאהו",
+      "gloss": "in izvedli so ga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "iz mesta"
+    },
+    {
+      "surface": "ויסקלהו",
+      "gloss": "in kamnali so ga"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "s kamni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "in umrl je"
+    }
+  ],
+  "timestamp": "2026-10-19T17:00:28.855727592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 28:22",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "glas o njej",
+      "rationale": "שמעה pomeni 'slis, ozveščena novica', ne samo 'glas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨le⟩",
+      "rationale": "slovenščina potrebuje poudarek, ki ga hebrejščina izraža z besednim vrstnim redom"
+    }
+  ],
+  "translation": "Abadon in smrt rečeta: S svojimi ušesi smo slišali ⟨le⟩ glas o njej.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/28\/21-24.1792436578625.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבדון",
+      "gloss": "Abadon"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "in smrt"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rečeta"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "s svojimi ušesi"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo slišali"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "glas o njej"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:58.625884610Z",
+  "model": "glm-5.3"
+}

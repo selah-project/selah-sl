@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bi",
+      "rationale": "slovenščina potrebuje pogojnik za vprašanje namena, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקל \/ הכביד",
+      "rationale": "»narediti lahkim« proti »narediti težkim« (v. 10) — antiteza, ki si sledi iz verza v verz"
+    }
+  ],
+  "translation": "In rekel jim je: Kaj svetujete, da ⟨bi⟩ odgovoril ⟨את⟩ temu ljudstvu, ki mi je govorilo rekoč: Olajšaj jarmo, ki ga je nadel tvoj oče nad nami?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/10\/9-12.1792438586781.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "svetujete"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "in odgovorimo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temu ljudstvu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "temu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "je govorilo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "olajšaj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "העל",
+      "gloss": "jarmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je nadel"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvoj oče"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:26.783350440Z",
+  "model": "glm-5.3"
+}

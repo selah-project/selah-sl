@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 3:7",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "hebrejščina brez glagola; nominalni stavek"
+    },
+    {
+      "kind": "crux",
+      "subject": "באת אל",
+      "rationale": "‘iti k priležnici’ = vzeti jo; sum, da Avner stremi po prestolu"
+    },
+    {
+      "kind": "you",
+      "subject": "Iš-Bošet govori Avnerju",
+      "rationale": "neposreden očitek"
+    }
+  ],
+  "translation": "In Šaulu ⟨je bila⟩ priležnica, po imenu Rica, hčer Aje; in Iš-Bošet je rekel Avnerju: Zakaj si šel k priležnici svojega očeta?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/3\/5-8.1792428175052.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשאול",
+      "gloss": "In Šaulu"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "priležnica"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "po imenu"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Rica"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčer"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerju"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "באתה",
+      "gloss": "si šel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "priležnici"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "svojega očeta"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:55.053211493Z",
+  "model": "glm-5.3"
+}

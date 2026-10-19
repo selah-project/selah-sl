@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Micrajimu",
+      "rationale": "Pesem neposredno ogovarja Egipt (bete — 'sredi tebe')."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Hebrejski ב je dobesedno 'v\/ob', tu v kontekstu sodb 'nad' Faraonom."
+    }
+  ],
+  "translation": "Poslal je znamenja in čudeže sredi tebe, Micrajim, nad Faraonom in nad vsemi njegovimi sužnji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/135\/9-12.1792435594572.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁלַח",
+      "gloss": "poslal je"
+    },
+    {
+      "surface": "אֹתֹת",
+      "gloss": "znamenja"
+    },
+    {
+      "surface": "וּמֹפְתִים",
+      "gloss": "in čudeži"
+    },
+    {
+      "surface": "בְּתוֹכֵכִי",
+      "gloss": "sredi tebe"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בְּפַרְעֹה",
+      "gloss": "nad Faraonom"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "in nad vsemi"
+    },
+    {
+      "surface": "עֲבָדָיו",
+      "gloss": "njegovimi sužnji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:34.573338581Z",
+  "model": "glm-5.3"
+}

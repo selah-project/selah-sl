@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so ⟨me⟩",
+      "rationale": "hebrejščina nima pomožnika glagola 'biti'; končnica -וני na ויכוננוני že nosi predmet 'mene'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "himeni",
+      "rationale": "psalmist neposredno prosi Boga za razumevanje — nagovor Jahveju"
+    }
+  ],
+  "translation": "Tvoje roke so me naredile in oblikovale ⟨me⟩; daj mi razumevanje, da se naučim tvojih zapovedi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/73-76.1792435484039.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "tvoje roke"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "so me naredile"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "in oblikovale ⟨me⟩"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "daj mi razumevanje"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "da se naučim"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvojih zapovedi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:44.041206497Z",
+  "model": "glm-5.3"
+}

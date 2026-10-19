@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "jussiv",
+      "rationale": "Oblika je jussiv (kot ASV\/JPS 'naj se radujeta') ali indikativ ('radujeta se', KJV); izbral sem vzklik."
+    },
+    {
+      "kind": "you",
+      "subject": "do sina",
+      "rationale": "Verset se neposredno obrača na sina, ki naj bi razveselil starše."
+    }
+  ],
+  "translation": "Raduj se, oče svoj in mati svoja, in naj se veseli tista, ki te je rodila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/25-28.1792436123223.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "naj se raduje"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "oče svoj"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "in mati svoja"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "in naj se veseli"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "tista, ki te je rodila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:23.224211716Z",
+  "model": "glm-5.3"
+}

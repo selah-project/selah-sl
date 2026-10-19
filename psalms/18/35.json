@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחתה קשת נחושה זרועתי",
+      "rationale": "KJW 'lok je bil prelomljen z mojimi rokami' nasproti JPS 'moje roke upogibajo lok'; glagol נחת pomeni 'spustiti\/pritisniti dol' — pritrjen lok ali položeno orožje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "baker",
+      "rationale": "נחושה je baker; KJV 'jeklo' je zgodovinsko napačno."
+    }
+  ],
+  "translation": "Uči moje roke za boj, in baker lok je bil uklonjen ⟨z⟩ mojimi rokama.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0c6f52b1643deb31ea4f32fb386e9b4bb7cdf6d29e43f81f4e24840cc80a4e2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/33-36.1792434568854.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Uči"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje roke"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za boj"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "je bil uklonjen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lok"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "baker"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mojimi rokama"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:28.944212932Z",
+  "model": "glm-5.3"
+}

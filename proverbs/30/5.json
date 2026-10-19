@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prečiščena",
+      "rationale": "צרופה je kovaška podoba — kovina, preplužena v peči; 'brezhibna' (BSB) izgubi podobo taljenja"
+    },
+    {
+      "kind": "crux",
+      "subject": "Eloah",
+      "rationale": "Edinkinska oblika imena v Preg 30; večina prevodov da 'Boga', Ime pa se tu sliši v svoji redki obliki"
+    }
+  ],
+  "translation": "Vsaka beseda ⟨je⟩ Eloah prečiščena; ščit ⟨je⟩ on tistim, ki se zatekajo k njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/5-8.1792436186470.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsaka"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "prečiščena"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ščit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "tistim, ki se zatekajo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:26.471106903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בער",
+      "rationale": "בער je beseda za živino — 'brutalen, neumen kot živina'; 'neumen' izgubi živalsko podobo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב ... אהב",
+      "rationale": "ponovitev 'ljeli ... ljeli' govori v hebrejščini v vzporedju"
+    }
+  ],
+  "translation": "Kdor ljeli vzgojo, ljeli znanje, kdor pa sovraži opomin, ⟨je⟩ neumen-kot-živina.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/12\/1-4.1792435924841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "kdor ljeli"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "vzgojo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljeli"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znanje"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kdor pa sovraži"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "opomin"
+    },
+    {
+      "surface": "בער",
+      "gloss": "neumen-kot-živina"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:04.843229313Z",
+  "model": "glm-5.3"
+}

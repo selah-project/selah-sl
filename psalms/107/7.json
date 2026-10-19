@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "hebrejščina ima golo infinitivno namensko konstrukcijo ללכת, brez veznika"
+    }
+  ],
+  "translation": "In jih je vodil po poti ravni, da gredo v mesto bivanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/5-8.1792435392127.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "in jih je vodil"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ravni"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da gredo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "bivanja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:12.128760135Z",
+  "model": "glm-5.3"
+}

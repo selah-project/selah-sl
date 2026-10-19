@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tolkalo",
+      "rationale": "תף je boben\/tamburin, brez natančnega slovenskega dvojnika"
+    },
+    {
+      "kind": "crux",
+      "subject": "עוגב",
+      "rationale": "verjetno piščal\/orglice; LXX 'organon' je dalo 'orgle' (KJV), a izvirnik je preprosta aerofona piščal"
+    }
+  ],
+  "translation": "Hvalite ga s tolkalom in plesom, hvalite ga z strunami in piščaljo!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/150\/1-4.1792435782864.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hvalite ga"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "s tolkalom"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "in plesom"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "z strunami"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "in piščaljo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:42.865526578Z",
+  "model": "glm-5.3"
+}

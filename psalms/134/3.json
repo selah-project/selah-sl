@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "Slovenščina potrebuje želelni 'naj', hebrejščina ima samo imperfekt."
+    }
+  ],
+  "translation": "Jahve naj te blagoslavlja s Ciona, Tvorcu nebes in zemlje!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/134\/1-3.1792435596262.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "naj te blagoslavlja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "s Ciona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Tvorcu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "in zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:36.263426748Z",
+  "model": "glm-5.3"
+}

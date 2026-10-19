@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kruh",
+      "rationale": "מצות pomeni 'neskvašene (stvari)' — kruh je dodan za slovensko razumljivost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "na ognju",
+      "rationale": "צלי אש je dobesedno 'pečeno ognja' — ogenj je orodje"
+    }
+  ],
+  "translation": "In jedli ⟨bodo⟩ ⟨את⟩ meso v tej noči, pečeno na ognju, in neskvašan kruh — z grenkimi zelišči naj ga jedo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/12\/5-8.1792423242911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "in jedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noči"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tej"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "pečeno"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na ognju"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "in neskvašan kruh"
+    },
+    {
+      "surface": "על",
+      "gloss": "z"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "grenkimi zelišči"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "naj ga jedo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:20:42.912355273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ujen",
+      "rationale": "כשך je dobesedno 'prestati se (kot past)' — podoba zanke, ki se sprosti; 'ujejen\/upoštevan'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נגזר עליה",
+      "rationale": "'odločeno nad njo' — dobesedno 'odrezano zanjo'"
+    },
+    {
+      "kind": "you",
+      "subject": "kralj Ahašveroš",
+      "rationale": "pripoved o kraljevem notranjem spominjanju; naslovnik ni neposreden"
+    }
+  ],
+  "translation": "Za temi dejanji, ko je ujen bes kralja Ahašveroša, se je spomnil ⟨את⟩ Vašti in ⟨את⟩ tisto, kar je storila, in ⟨את⟩ tisto, kar je bilo odločeno nad njo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bdd3d203ce627ff1a40a7847651526a09c59a571ec214639253a16270c51805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/1-4.1792437243818.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "za temi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dejanji"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "temi"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ko je ujen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bes"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "se je spomnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vašti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "tisto, kar je storila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "je storila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "tisto, kar je bilo odločeno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "je bilo odločeno"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nad njo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:03.819900809Z",
+  "model": "glm-5.3"
+}

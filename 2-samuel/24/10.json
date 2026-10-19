@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויך לב דוד",
+      "rationale": "Dobesedno 'srce Davida ga je udarilo' — hebrejski izraz za zbudo savest; slovenščina dobesedno ohranja."
+    },
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "David se neposredno obrača na Jahveja s priznanjem greha."
+    },
+    {
+      "kind": "crux",
+      "subject": "נא",
+      "gloss_navodilo": "",
+      "rationale": "Delčik נא ('prosim') izraža prošnjo v zapovedni obliki; v prevodih pogosto izpuščen ali omehčan."
+    }
+  ],
+  "translation": "In srce Davida ⟨את⟩ ga je udarilo, potem ko je prešel ⟨את⟩ ljudstvo; in David je rekel Jahveju: Grešil sem zelo v tem, kar sem storil; in zdaj, Jahve, odvzemi ⟨את⟩ krivdo svojega služabnika, kajti zelo neumno sem ravnal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/24\/9-12.1792428671785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "je udarilo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ga ⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "potem ko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "je prešel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Grešil sem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v tem, kar"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sem storil"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "odvzemi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krivdo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "krivdo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega služabnika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "neumno sem ravnal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:51:11.786511738Z",
+  "model": "glm-5.3"
+}

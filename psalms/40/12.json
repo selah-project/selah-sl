@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ne zadrži",
+      "rationale": "oblika je lahko nikalni zahtevek ('ne zadrži!') ali izjavna pričujoča ('ne zadržuješ')"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden ogovor molitve Jahveju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תצרוני\/רחמיך",
+      "rationale": "koren נצר 'varovati' odmeva z רחמים 'usmiljenje' — varovanje kot odziv na milost"
+    }
+  ],
+  "translation": "Ti, Jahve, ne zadrži svojega usmiljenja ⟨od⟩ mene; Tvoj hesed in Tvoja resnica naj me vedno varujeta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/40\/9-12.1792434808639.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "zadrži"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svojega usmiljenja"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨od⟩ mene"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Tvoj hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "in Tvoja resnica"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vedno"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "naj me varujeta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:28.642138750Z",
+  "model": "glm-5.3"
+}

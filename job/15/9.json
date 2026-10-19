@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩",
+      "rationale": "slovenščina zahteva osebek, hebrejščina ga vprašalno pusti izpuščenega"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jobu",
+      "rationale": "Elifaz se neposredno obrača na Joba z retoričnima vprašanjema"
+    }
+  ],
+  "translation": "Kaj veš, da ne vemo ⟨mi⟩? Kaj razumeš, kar ni z nami ⟨to⟩?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/9-12.1792436387889.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "veš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "vemo"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "razumeš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:47.890248450Z",
+  "model": "glm-5.3"
+}

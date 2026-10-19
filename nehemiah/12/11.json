@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הוליד",
+      "rationale": "drugi glagol 'rodil' je v hebrejščini izpuščen; slovenščina ga dopolni iz vzorca"
+    }
+  ],
+  "translation": "in Jojada je rodil ⟨את⟩ Jonatana, in Jonathan ⟨את⟩ Jaduo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/9-12.1792437941930.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "in Jojada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatana"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "in Jonathan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaduo"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaduo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:41.931427006Z",
+  "model": "glm-5.3"
+}

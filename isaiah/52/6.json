@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo vedelo⟩",
+      "rationale": "Glagol je v hebrejščini izpuščen (zeugma) — drugi לכן nadaljuje isti glagol."
+    },
+    {
+      "kind": "you",
+      "subject": "moje ljudstvo",
+      "rationale": "Neposreden nagovor izraelskega ljudstva po prejšnjih naslavljanjih (dečki hodi)."
+    }
+  ],
+  "translation": "Zato bo moje ljudstvo vedelo moje ime; zato ⟨bo vedelo⟩ tisti dan, da jaz sem ⟨tisti⟩, ki govori — glej, tu sem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/52\/5-8.1792430822369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bo vedelo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moje ljudstvo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje ime"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sem ⟨on⟩"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ki govori"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "glej, tu sem"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:02.370410299Z",
+  "model": "glm-5.3"
+}

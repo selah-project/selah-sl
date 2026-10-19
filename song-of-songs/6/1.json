@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 6:1",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ da",
+      "rationale": "slovenščina potrebuje pomožnik in veznik, ki ju hebrejščina ne izrazi"
+    },
+    {
+      "kind": "you",
+      "subject": "k njej",
+      "rationale": "hčerine Jerušalajima neposredno nagovarjajo nevesto, 'lepa med ženskami'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "vprašanje",
+      "rationale": "dvojno vprašanje 'kam' vabi in odpira iskanje"
+    }
+  ],
+  "translation": "Kam je odšel tvoj ljubljena, o lepa med ženskami? Kam se je obrnil tvoj ljubljena, da ga iščemo s teboj?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/6\/1-4.1792436883718.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je odšel"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "tvoj ljubljena"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "lepa"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "med ženskami"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "se je obrnil"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "tvoj ljubljena"
+    },
+    {
+      "surface": "ונבקשנו",
+      "gloss": "da ga iščemo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:03.719249885Z",
+  "model": "glm-5.3"
+}

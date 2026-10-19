@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 9:17",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili \/ je bil",
+      "rationale": "hebrejščina nima glagola biti v prezentiku; domača vez dodana v oklepajih"
+    },
+    {
+      "kind": "crux",
+      "subject": "in njihovi bratje",
+      "rationale": "JPS bere »njihov brat Šallum« — veže אחיהם neposredno na Šalluma; večina bere ločeno"
+    }
+  ],
+  "translation": "In vratarji ⟨so bili⟩ Šallum in Akub in Talmon in Ahiman in njihovi bratje; Šallum ⟨je bil⟩ glavar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28bf7ba2a3a6ddfa8c29ba678c63cdd11e1d92bf64b421f5e8f516d5beb44179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/9\/17-20.1792438127668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "in vratarji"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šallum"
+    },
+    {
+      "surface": "ועקוב",
+      "gloss": "in Akub"
+    },
+    {
+      "surface": "וטלמון",
+      "gloss": "in Talmon"
+    },
+    {
+      "surface": "ואחימן",
+      "gloss": "in Ahiman"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "in njihovi bratje"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šallum"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glavar"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:47.669739587Z",
+  "model": "glm-5.3"
+}

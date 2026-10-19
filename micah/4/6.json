@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 4:6",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "kohortativni imperfekt zahteva prihodnjiški pomožnik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hudo storil",
+      "rationale": "הרעתי dobesedno 'sem spridil\/obsodil na húdo', povzetje v slovenski glagol"
+    }
+  ],
+  "translation": "Onega dne govori Jahve: zbrala bom hromo, pregnano bom poklicala k sebi, in tisto, ki sem ji húdo storil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f87565b349dc80012fa70b7aebb8aa033c465e0096602a9ea374f1e4a352b08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/4\/5-8.1792434157418.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Onega dne"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tega"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "zbrala bom"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "hromo"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "pregnano"
+    },
+    {
+      "surface": "אקבצה",
+      "gloss": "poklicala bom k sebi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "in tisto, ki"
+    },
+    {
+      "surface": "הרעתי",
+      "gloss": "sem ji húdo storil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:37.433220507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "presoče",
+      "rationale": "טעם je dobesedno 'okus', preneseno 'razsojanje'; okusna podoba v slovenščini izgine"
+    },
+    {
+      "kind": "crux",
+      "subject": "במצותיך",
+      "rationale": "hebrejščina ima predlog ב ('v\/ob tvojih zapovedih'), brez osebnega zaimeka 'tvojih' — končnica nosi svojilnost"
+    }
+  ],
+  "translation": "Dobro presoče in znanja me nauči, kajti v tvoje zapovedi sem verjel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/65-68.1792435495843.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "presoče"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "in znanja"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "me nauči"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "v tvoje zapovedi"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "sem verjel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:55.843764891Z",
+  "model": "glm-5.3"
+}

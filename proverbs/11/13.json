@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Sod — skrivni svet, zapečateno zaupanje; protipostavka razgaljanju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je po D2 vedno ruah — tu 'duh\/značaj', dobesedno dih."
+    },
+    {
+      "kind": "crux",
+      "subject": "רכיל",
+      "rationale": "Hodilec-óglaševalec: kdor hodi od hiše do hiše s obrekovanjem; 'talebearer' izgubi podobo hoje."
+    }
+  ],
+  "translation": "Kdor hodi kot ogláševalec razgalja ⟨את⟩ svet, zanesljiv v ruah pa pokriva ⟨את⟩ zadevo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/13-16.1792435914235.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "kdor hodi"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "kot ogláševalec"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "razgalja"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "svet"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "zanesljiv"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "v ruah"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pokriva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zadevo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:54.235875693Z",
+  "model": "glm-5.3"
+}

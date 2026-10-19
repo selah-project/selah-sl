@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "poslušajte me",
+      "rationale": "zaimnik 'poslušajte' (שמעו) kliče poslušalca"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "neposreden nagovor hiše Jaakove in ostanka Jisraela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העמסים\/הנשאים",
+      "rationale": "ista korena עמס in נשא kot v 1 in 4 — ljudstvo je tovor, ki ga Elohim nosi, obrat bogov, ki so tovor ljudstva"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨na meni⟩",
+      "rationale": "passivni deležnik ne pove nosilca; iz konteksta v. 4 je Jahve"
+    }
+  ],
+  "translation": "Poslušajte me, hiša Jaakova, in ves ostanek hiše Jisraela, ki ste naloženi ⟨na meni⟩ od trebuha, ki ste nošeni od maternice!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/46\/1-4.1792430672752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "poslušajte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in ves"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ostanek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "naloženi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "trebuha"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "nošeni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "maternice"
+    }
+  ],
+  "timestamp": "2026-10-19T17:24:32.753591342Z",
+  "model": "glm-5.3"
+}

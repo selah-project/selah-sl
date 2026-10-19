@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "'drugi\/namestnik\/dvojnik' — KJV 'the next', JPS 'second'; tu 'drugi' v hierarhiji nadzora."
+    },
+    {
+      "kind": "substitution",
+      "subject": "posvečene stvari",
+      "rationale": "הקדשיׅ so 'svete stvari\/darovane predmeti'; doslovno 'svetinje'."
+    }
+  ],
+  "translation": "In zvesto so prinesli ⟨את⟩ darove, ⟨את⟩ desetine in ⟨את⟩ posvečene stvari; nadzornik nad njimi je bil levit Konanja, Šimi, njegov brat, je bil drugi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "19c10fc203eb2c45e754c7f1d0acbca0acf69662533c44c21aa4f45bb1d798ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/31\/9-12.1792438894461.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "in so prinesli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darove"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "darove"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "desetine"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "posvečene stvari"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "zvesto"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "nadzornik"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konanja"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levit"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "in Šimi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "njegov brat"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "drugi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:34.464211475Z",
+  "model": "glm-5.3"
+}

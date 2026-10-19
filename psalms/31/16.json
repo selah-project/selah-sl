@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje glagol 'biti', hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בידך\/מיד",
+      "rationale": "ponovitev 'roke' — tvoja roka nasproti roki sovražnikov"
+    }
+  ],
+  "translation": "V tvoji roki ⟨so⟩ moji časi; reši me iz roke mojih sovražnikov in mojih zasledovalcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/31\/13-16.1792434679473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "V tvoji roki"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "moji časi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mojih sovražnikov"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "in mojih zasledovalcev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:19.474425136Z",
+  "model": "glm-5.3"
+}

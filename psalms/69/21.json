@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנוד",
+      "rationale": "redka oblika: 'kimalnik' (tisti, ki kima z glavo v sočutju) — KJV 'some to take pity', YLT 'a bemoaner'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "obupan",
+      "rationale": "ואנושה je dobesedno 'in zbolel sem', bolna stiska, ne le otožnost."
+    }
+  ],
+  "translation": "Sramota mi je razbila srce in ⟨sem⟩ obupan; čakal sem na tistega, ki bi zatrese ⟨ni jih⟩, pa jih ni bilo, in na tolažnike, pa jih nisem našel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "042893099a01a6b6a9c9910293ba544ac57c0c197c7f3d958a3237b7a22c801c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/21-24.1792435072722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "je razbila"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srce moje"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "in sem bolan"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "in čakam"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "na tistega, ki bi zatrese"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pa ni"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "in na tolažnike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa ne"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "sem našel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:52.722666532Z",
+  "model": "glm-5.3"
+}

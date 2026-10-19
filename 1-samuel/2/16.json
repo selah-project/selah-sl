@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קטר \/ יקטירון",
+      "rationale": "Isti koren קטר ponovljen v nepopolnem in povzročilnem glagolu — poudarek 'zadimi, naj zadimijo' se v slovenščini izgubi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bolj 'življenjska sila, poželenje' kot nesmrtna duša."
+    },
+    {
+      "kind": "crux",
+      "subject": "לקחתי",
+      "rationale": "Dovolnik 'sem vzel' namesto 'bom vzel' — hebrejščina izraža gotovost dejanja s preteklikom."
+    }
+  ],
+  "translation": "In mož mu je rekel: Naj najprej zadimijo maščobo, kakor ⟨tudi⟩ danes, potem pa vzemi sebi, kjer koli si zaželi tvoja duša. On pa mu je rekel: Ne, ampak zdaj daj; in če ne, vzamem s silo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/2\/13-16.1792427497589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "zadimi"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "naj zadimijo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kot danes"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "maščobo"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "in vzemi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "zaželi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvoja duša"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "daj"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "sem vzel"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "s silo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:31:37.590407017Z",
+  "model": "glm-5.3"
+}

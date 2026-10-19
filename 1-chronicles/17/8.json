@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "Hebrejščina ועשיתי je dokončni czas ‘in naredil sem’, a sodobni prevodi (tudi SP) berejo kot obljubo ‘naredil ti bom’."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואכרית",
+      "gloss": "DOSEG ‘odrezal’ — iztrebil; podoba odrezovanja je v slovenščini izgubljena."
+    },
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "Neposreden ogovor Davidu v drugi osebi ednine (s teboj, tvoje sovražnike)."
+    }
+  ],
+  "translation": "in bil sem s teboj povsod, koder si hodil, in sem iztrebil ⟨את⟩ vse tvoje sovražnike pred teboj, in naredil ti bom ime, kakor je ime velikih, ki so na zemlji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/5-8.1792438262023.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "in bil sem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s teboj"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "povsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koder"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "si hodil"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "in sem iztrebil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse tvoje sovražnike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tvoje sovražnike"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pred teboj"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "in naredil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti bom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "kakor je ime"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "velikih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:02.028071172Z",
+  "model": "glm-5.3"
+}

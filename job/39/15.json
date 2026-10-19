@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Slovenščina potrebuje predmetni zaimek; hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזורה \/ תדושה",
+      "rationale": "Zveza dveh glagolov 'stisniti\/tresti' in 'mlatiti' — podoba mlatitve, ki jo žito doživi kot jajca; asonanca v hebrejščini."
+    }
+  ],
+  "translation": "In pozabi, da jih lahko noga stisne, da jih žival polja prešampa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0d9575c97f6212d68123822bbbb901a38e1d1fd5f981c12c6b16ecfe6257aeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/39\/13-16.1792436784190.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "in pozabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "noga"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "lahko stisne"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "in žival"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polja"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "lahko prešampa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:24.191201545Z",
+  "model": "glm-5.3"
+}

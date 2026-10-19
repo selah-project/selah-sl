@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rogatev",
+      "rationale": "קרן je dobesedno 'rog' — moč in čast; ne duhovniški pomen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רמה קרני",
+      "rationale": "dvig rogu = dvignjena moč\/čast, slika izgubljena v slovenščini"
+    },
+    {
+      "kind": "you",
+      "subject": "Hana govori Jahveju",
+      "rationale": "neposreden nagovor Boga v molitvi"
+    }
+  ],
+  "translation": "In molila je Hana in rekla: Vzklikalo je moje srce v Jahveju, dvignjena je moja rogatev v Jahveju, razširil se je moja usta nad sovražniki mojo, kajti veselila sem se v tvoji rešitvi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/2\/1-4.1792427454312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "in molila je"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekla"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "vzklikalo je"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "dvignjena je"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "moja rogatev"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "razširil se je"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "sovražniki mojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "veselila sem se"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "v tvoji rešitvi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:30:54.313126684Z",
+  "model": "glm-5.3"
+}

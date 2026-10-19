@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina v drugem stavku nima glagola; slovenščina zahteva ⟨so⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "האחשתרי",
+      "rationale": "ime ali poklic (tekač\/kurir); prevodi se razhajajo: Haahashtari (ime) vs 'aštartit' (pripadnik kulta Aštarte)"
+    }
+  ],
+  "translation": "In Naara mu je rodila ⟨את⟩ Ahuzama in ⟨את⟩ Heferja in ⟨את⟩ Temenija in ⟨את⟩ Ahaštarita. To so sinovi Naare.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7678e41596076479fe7e3fbae83b05648f80451685e48af60b370706998969bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/5-8.1792438034083.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "in je rodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzama"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Heferja"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Heferja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Temenija"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temenija"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahaštarita"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahaštarita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "To"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naare"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:14.085289600Z",
+  "model": "glm-5.3"
+}

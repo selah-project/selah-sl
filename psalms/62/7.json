@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skalni breg",
+      "rationale": "צור je strma skala\/klif, ne abstraktna 'moč'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina je nominalna"
+    }
+  ],
+  "translation": "Samo on ⟨je⟩ moj skalni breg in moja rešitev, moja višina ⟨varnosti⟩, ne bom omagal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/5-8.1792435000378.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "moj skalni breg"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "in moja rešitev"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "moja višina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bom omagal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:40.381374808Z",
+  "model": "glm-5.3"
+}

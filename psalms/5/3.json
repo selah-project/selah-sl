@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשיבה",
+      "rationale": "Dosljedno 'naperi uho' (korena qašab = bodreti ušesa); slovenščina potrebuje obhodno besedilo."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden nagovor: 'moj kralj in moj Elohim'."
+    }
+  ],
+  "translation": "Povabi uho ⟨k⟩ glasu mojega vpitja, moj kralj in moj Elohim, kajti k tebi se bom molil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3e39ade9600d4388a3cc353c2f73cfd4e904612ceb9003ca67fa8913cd679690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/1-4.1792434542670.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "povabi uho"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨k⟩ glasu"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "mojega vpitja"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "moj kralj"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "in moj Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "se bom molil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:02.671328552Z",
+  "model": "glm-5.3"
+}

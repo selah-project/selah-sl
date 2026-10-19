@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naje⟩",
+      "rationale": "עליכם dobesedno 'nad vas\/vam'; dodan predlog za slovensko zvezo 'govoril naje'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Poslušajte",
+      "rationale": "začetni imperativ, nagovor hiši Jisraela"
+    },
+    {
+      "kind": "you",
+      "subject": "hiša Jisraela",
+      "rationale": "neposreden nagovor ljudstva"
+    }
+  ],
+  "translation": "Poslušajte ⟨את⟩ besedo, katero je govoril Jahve ⟨naje⟩, hiša Jisraela!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/10\/1-4.1792431243091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besedo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨naje⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T17:34:03.092176311Z",
+  "model": "glm-5.3"
+}

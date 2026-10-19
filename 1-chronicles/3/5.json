@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so se",
+      "rationale": "hebrejščina nima pomožnika za pasivno rojstvo v množini"
+    },
+    {
+      "kind": "measurement",
+      "subject": "štirje",
+      "rationale": " naštevanje sinov s številom, kot hebrejščina"
+    },
+    {
+      "kind": "crux",
+      "subject": "Bat-Šua",
+      "rationale": "1 Kron 3,5 ima Bat-Šua hčer Amielovo, 2 Sam 11,3 Bat-Ševa hčer Eliamova — isto ženo, druga pisava imen"
+    }
+  ],
+  "translation": "In ti ⟨so se⟩ mu rodili v Jerušalajimu: Šima, Šovav, Natan in Šelomo — štirje ⟨sinovi⟩ Bat-Šue, hčere Amielove.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8f603a07f24bf175669bd034fa9a7fda45112e410b60769ef68e86fe2bb69a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/3\/5-8.1792438023597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "so se rodili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Šima"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "in Šovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "in Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "in Šelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "štirje"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "Bat-Šui"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Šui"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčere"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielove"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:03.599548139Z",
+  "model": "glm-5.3"
+}

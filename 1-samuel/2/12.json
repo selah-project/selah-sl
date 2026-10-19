@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga v teh stavkih nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "'sinovi Beliala' (ime, KJV) vs 'sinovi nevrednosti\/hudobni možje' — beseda pomeni 'brez vrednosti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "niso poznali",
+      "rationale": "ידעו 'poznati' je osebno-zvezo-znanje, ne le teoretično vedeti — njuno nehotenje je zavračanje"
+    }
+  ],
+  "translation": "Sinovi Elijevi pa so bili sinovi Beliala; niso poznali ⟨את⟩ Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/2\/9-12.1792427416444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijevi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "so poznali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T16:30:16.445118435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "כ k ו את tu bereta kot 'z\/pri' (blizina), ⟨z⟩ je dodan predlog"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola v drugem delu: 's skromnimi — modrost'"
+    }
+  ],
+  "translation": "Prispe domišljavost, pride sramota, in ⟨z⟩ ⟨את⟩ skromnimi ⟨je⟩ modrost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/1-4.1792435878034.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "prispe"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "domišljavost"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in pride"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skromnimi"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "skromnimi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:18.036054946Z",
+  "model": "glm-5.3"
+}

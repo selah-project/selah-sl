@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poželenje",
+      "rationale": "בנפש dobesedno »v nefo« (grlo, dah, duša — poželenje, roke); angleški »will« in slovensko »poželenje« sta interpretaciji"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאשר",
+      "rationale": "dvojni zobnik: »udari ga« (מוסר) ali »blagovoljen bo« (אשר, srečen) — izbrano drugo"
+    }
+  ],
+  "translation": "Jahve ga bo varoval in pri življenju ohranil; blagovoljen bo na zemlji, ⟨svojega⟩ sovražnika ⟨v roke⟩ mu ne predaj — ne izroči ga v poželenje njegovih sovražnikov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/1-4.1792434824825.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ga bo varoval"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "pri življenju ohranil"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "blagovoljen bo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne izroči"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ga predaj"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "v poželenje"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "njegovih sovražnikov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:44.827387103Z",
+  "model": "glm-5.3"
+}

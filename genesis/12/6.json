@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלון מורה",
+      "rationale": "'hrast\/s teremint More' vs 'ravnica More' (LXX); elon je drevo, ne ravnica"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "hebrejščina brez glagola 'biti' v preteklik"
+    }
+  ],
+  "translation": "In Avram je prešel po deželi do kraja Šekem, do hrasta More. In Kenaanec je bil takrat v deželi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ccd62b972ee0a47e7a255490c1215609582bbbc4b970323e1d96fbedcf074ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/12\/5-8.1792422192840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "in je prešel"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po deželi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "hrasta"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "More"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "in Kenaanec"
+    },
+    {
+      "surface": "אז",
+      "gloss": "takrat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:03:12.841364185Z",
+  "model": "glm-5.3"
+}

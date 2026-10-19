@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלוך את",
+      "rationale": "Hoditi + את: nedoločnik ('kdor hodi z modrimi') ali velelnik ('Hodi z modrimi!')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ורעה\/ירוע",
+      "rationale": "koren רעע trepi v istem verzu: 'kdor pase\/kroji' in 'bo razbit'; v slovenščini izgubljeno"
+    }
+  ],
+  "translation": "Hoditi ⟨את⟩ modrimi — in postal bo moder; kdor pa se druži z neumnimi, bo húdo pretrpel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/17-20.1792435945035.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Hoditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modre"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "z modrimi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "bo postal moder"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kdor se druži"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "z neumnimi"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bo húdo pretrpel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:25.037752819Z",
+  "model": "glm-5.3"
+}

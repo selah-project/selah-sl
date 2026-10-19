@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina nima kopule; slovenščina jo zahteva"
+    }
+  ],
+  "translation": "Jaz ⟨sem⟩ Jahve, vaš Sveti, Stvarnik Jisraela, vaš kralj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/43\/13-16.1792430593285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "vaš Sveti"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Stvarnik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "vaš kralj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:13.286469599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "retorično vprašanje",
+      "rationale": "Neposreden retorični vprašalni nagovor — pesem zavrne petje v izgnanstvu"
+    },
+    {
+      "kind": "addition",
+      "subject": "bi",
+      "rationale": "Slovenščina potrebuje pogojnik 'bi'; hebrejščina ima gol naklon"
+    }
+  ],
+  "translation": "Kako bi peli ⟨את⟩ pesem Jahvejevo na tuji zemlji?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/137\/1-4.1792435615151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "kako"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "bi peli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesem Jahvejevo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejevo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "zemlji"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tuji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:55.154498669Z",
+  "model": "glm-5.3"
+}

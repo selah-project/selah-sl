@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "ruah je 'duh\/veter\/dih' v eni besedi; ohranjeno po D2."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Ela",
+      "rationale": "Konstruktna oblika Ela namesto El — skladen z oznako Imena po hebrejskem zvoku."
+    }
+  ],
+  "translation": "Ruah Ela me je naredila, in dih Šadaja me oživlja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/1-4.1792436644378.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "me je naredila"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "in dih"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaja"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "me oživlja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:04.379639115Z",
+  "model": "glm-5.3"
+}

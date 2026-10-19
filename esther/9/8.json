@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seznam Hamanovih sinov",
+      "rationale": "Nadaljevanje seznama imen."
+    },
+    {
+      "kind": "elision",
+      "subject": "glagol",
+      "rationale": "Glagol iz v. 6 manjka tudi tu."
+    }
+  ],
+  "translation": "in ⟨את⟩ Porato in ⟨את⟩ Adaljo in ⟨את⟩ Aridato",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1436c781cc6b90c6e2122f1d24c2af583224b647f09093b1fa8f346f02c180d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/9\/5-8.1792437285967.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Porato"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Porato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adaljo"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adaljo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aridato"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridato"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:45.969445401Z",
+  "model": "glm-5.3"
+}

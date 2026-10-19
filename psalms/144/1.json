@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skala",
+      "rationale": "צור je dobesedno 'skala\/pečina'; ne 'trdnjava' ali 'moč'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקרב \/ למלחמה",
+      "rationale": "dvoje besed za boj v vzporednih stilih, slovenščina 'boj\/vojno' ohranja par"
+    }
+  ],
+  "translation": "Davidova. Blagoslovljen bodi Jahve, moja skala, ki uči moje roke za boj, moje prste za vojno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/1-4.1792435741447.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen bodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "moja skala"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ki uči"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje roke"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "za boj"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "moje prste"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za vojno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:01.447792443Z",
+  "model": "glm-5.3"
+}

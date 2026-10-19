@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "boš",
+      "rationale": "slovenščina potrebuje osebni glagol, hebrejščina ima samo וידעת"
+    },
+    {
+      "kind": "substitution",
+      "subject": "באמונה",
+      "rationale": "אמונה je 'trdnost, zanesljivost' — 'zvestoba' ohranja del, 'vera' bi bila preozko"
+    }
+  ],
+  "translation": "In zaročil ⟨se⟩ bom ⟨tebi⟩ sebi v zvestobi, in spoznala ⟨boš⟩ ⟨את⟩ Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/21-24.1792433797304.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "in zaročil ⟨se⟩ bom ⟨tebi⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "v zvestobi"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "in spoznala ⟨boš⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:37.305751333Z",
+  "model": "glm-5.3"
+}

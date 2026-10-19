@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grešna žrtev",
+      "rationale": "חטאת je isto besedo kot 'greh' — dobesedno 'za-greh'; ena beseda, ena stvar"
+    }
+  ],
+  "translation": "S tem naj pride Aharon v svetišče: z bikom, sinom govedi, za grešno žrtev in z ovnom za žgalno žrtev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e09f2501975e233fe541d6cffc035133522fcb252ea6750f4b9ae54699c0b02a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/16\/1-4.1792424309354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "s-tem"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "naj-pride"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svetišče"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "z-bikom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinom"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "govedi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za-grešno-žrtev"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "in-z-ovnom"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za-žgalno-žrtev"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:29.355237985Z",
+  "model": "glm-5.3"
+}

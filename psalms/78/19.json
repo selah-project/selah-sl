@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zoper",
+      "rationale": "Hebrejščina ima דבר ב 'govoriti v\/z' — slovenščina 'govoriti zoper' izraža negativni ton, ki ga nosi kontekst."
+    },
+    {
+      "kind": "you",
+      "subject": "do Israela",
+      "rationale": "Vprašanje 'Ali more El …' je uporniški nagovor izraelske množice v puščavi."
+    }
+  ],
+  "translation": "In govorili ⟨so⟩ zoper Elohim, rekli ⟨so⟩: Ali more El razprostri mizo v puščavi?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/17-20.1792435131597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "govorili ⟨so⟩"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "⟨zoper⟩ Elohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rekli ⟨so⟩"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "Ali more"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "razprostri"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mizo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:51.599466569Z",
+  "model": "glm-5.3"
+}

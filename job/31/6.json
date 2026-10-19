@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 31:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "hebrejščina ima govorilni zaželeni glagol brez oznake naklona; slovenščina potrebuje 'naj'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "D2: צדק ostane cedek in ne 'pravičnost'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tehtnice",
+      "rationale": "slikovito tehtanje na tehtnicah — Job 31,6"
+    }
+  ],
+  "translation": "naj me weigha v tehtnicah cedeka in naj Eloah spozna mojo neomadeževanost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "261fe6b7d806e813c43cc06aa5e06211f41b606622cf4a28a0bfb71044cf1664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/5-8.1792436636801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקלני",
+      "gloss": "naj me stehta"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "v tehtnicah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "in naj spozna"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "mojo neomadeževanost"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:56.802599488Z",
+  "model": "glm-5.3"
+}

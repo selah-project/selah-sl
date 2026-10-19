@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "Dvojno 'amen, amen' — dvakratna potrditev, po slovenski navadi dosledno ponovljena."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨z⟩",
+      "rationale": "Slovenščina potrebuje orodnik z predlogom pri 'napolniti z veličastjem'."
+    }
+  ],
+  "translation": "In blagoslovljeno bodi ime njegovega veličastva vekomaj, in naj se napolni ⟨z⟩ njegovo veličastje ⟨את⟩ vso zemljo. Amen in amen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/72\/17-20.1792435075593.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "in blagoslovljeno bodi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "njegovega veličastva"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "in naj se napolni"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "njegovo veličastje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso zemljo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "in amen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:55.594018644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא עזבה",
+      "rationale": "Dvojno branje: »kako ni zapuščena« (vzklik, da mesto še stoji) proti »kako je zapuščena« (negacija kot retorično vprašanje, KJV\/ASV)."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje pomožnik, hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר \/ קרית",
+      "rationale": "Dve besedi za »mesto« v vzporednih členih — paralelizem, v slovenščini izgubljen z istim prevodom."
+    }
+  ],
+  "translation": "Kako ⟨je⟩ mesto hval ne bilo zapuščeno, mesto moje radosti!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6281c313f4ff23660c255ae67696744a4d6b1086ed8aca45248ed25d4eea163f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/49\/25-28.1792431945433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "bilo zapuščeno"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "hval"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "moje radosti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:45:45.434417969Z",
+  "model": "glm-5.3"
+}

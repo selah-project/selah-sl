@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨böe⟩",
+      "rationale": "hebrejščina brez glagola 'biti' — imenovalnik z deležniškim pomenom 'ti [bǒliš]'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חליים\/מחלה\/החלי",
+      "rationale": "tri predelave korena חלה v enem verzu — slovenščina ponavlja 'bolezen', a trop ni mogoč"
+    }
+  ],
+  "translation": "in ti ⟨böe⟩ z boleznimi mnogimi, z boleznijo svojih drobov, dokler ne gredo ven iz tvojih drobov od bolezni, dnevi na dni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/21\/13-16.1792438715925.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "z boleznimi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogimi"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "z boleznijo"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "svojih drobov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler ne"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "gredo ven"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "iz tvojih drobov"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "bolezni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dneve"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:35.926776058Z",
+  "model": "glm-5.3"
+}

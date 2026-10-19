@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 8:5",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨imajo⟩",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ga v idiomu 'kot vsi narodi' nima"
+    },
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "starešine neposredno nagovarjajo Samuela"
+    }
+  ],
+  "translation": "In so mu rekli: Glej, ti si postaral, tvoji sinovi pa ne hodijo po tvojih poteh. Postavi nam zdaj kralja, da nas sodi, kakor ⟨imajo⟩ vsi narodi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/8\/5-8.1792427544277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "in so rekli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "si postaral"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "tvoji sinovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hodijo"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "po tvojih poteh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "postavi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "לשפטנו",
+      "gloss": "da nas sodi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kakor vsi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:32:24.278238770Z",
+  "model": "glm-5.3"
+}

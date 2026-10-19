@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר\/יסרני",
+      "rationale": "Infinitivni absolut pred glagolom — dobesedno 'vzgojiti me je vzgojil' — poudari jakost; v slovenščini ponovitev ohrani, a delno izgubi slovnično silo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izročil",
+      "rationale": "נתנני je dobesedno 'dal me'; 'izročil' je rahlo olepšanje običajnega 'dati'."
+    }
+  ],
+  "translation": "Vzgojil me je vzgojil Jah, a v smrt me ni izročil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/17-20.1792435492453.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "vzgojil"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "me je vzgojil"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "a v smrt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "me izročil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:52.453990050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožni glagol, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In Lot je šel k njim ⟨na⟩ vhod in vrata je zaprl za seboj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4d5966a59c0ee2a681308d53bf33eb234f5f296a019bb8e96b412d38a719326d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/19\/5-8.1792422294169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "in šel je"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k njim"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "na vhod"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "in vrata"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "je zaprl"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za seboj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:04:54.170621836Z",
+  "model": "glm-5.3"
+}

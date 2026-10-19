@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש על ארץ רבה",
+      "rationale": "'glavo nad široko zemljo' (ednina — velikanski glavi?) ali 'glave po široki deželi' (množina, kot bereta starejše prevode)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jih⟩",
+      "rationale": "slovenščina potrebuje dajalnik\/namestitev pred 'trupli'"
+    }
+  ],
+  "translation": "Sodi med narodi, napolni ⟨jih⟩ trupli, razbija glavo nad zemljo široko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/110\/5-7.1792435443209.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Sodi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "med narodi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napolni"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "trupli"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "razbija"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "široko"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:03.210392483Z",
+  "model": "glm-5.3"
+}

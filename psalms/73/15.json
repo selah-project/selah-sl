@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rodu tvojih sinov",
+      "rationale": "בניך lahko 'tvojih sinov' ali 'tvojih otrok'; naslovnik je Elohim, mišljeni so zvesti v rodu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בגדתי",
+      "rationale": "בגד 'zakriti, ravnati skrivaj' — tudi 'izdal bi rod tvojih sinov'"
+    }
+  ],
+  "translation": "Če bi rekel: Pripovedoval bom tako — glej, rodu tvojih sinov bi bil nezvest.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/13-16.1792435060861.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "bi rekel"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "pripovedoval bom"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rodu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvojih sinov"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "bi bil nezvest"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:40.862785331Z",
+  "model": "glm-5.3"
+}

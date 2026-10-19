@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spremenim",
+      "rationale": "אשים je 'postavim'; slovenščina potrebuje 'spremenim', ker tema ne more biti 'postavljena v svetlobo'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sem jim storil",
+      "rationale": "Hebrejski עשיתם je 2. oseba množine ('storil sem vam') ali s končnim mem 3. osebe ('storil sem jim'); JPS bere 'ne bom pustil neizvršenih'."
+    }
+  ],
+  "translation": "In slepe popeljem po poti, ki je ne poznajo, po stezicah, ki jih ne poznajo, jih popeljem; temo pred njimi spremenim v svetlobo in ovinkaste poti v ravnino. Te stvari sem jim storil in jih nisem zapustil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/42\/13-16.1792430633316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "In popeljem"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slepe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznajo"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "po stezicah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznajo"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "jih popeljem"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "spremenim"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "temo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pred njimi"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "v svetlobo"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "in ovinkaste poti"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "v ravnino"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "sem jim storil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nisem"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "jih zapustil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:53.317123913Z",
+  "model": "glm-5.3"
+}

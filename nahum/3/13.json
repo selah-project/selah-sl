@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 3:13",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew lacks a copula between 'tvoje ljudstvo' and 'ženske'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Nineveh",
+      "rationale": "Druga oseba ženskega spola — Niniva je ogovorjena kot ženska."
+    },
+    {
+      "kind": "crux",
+      "subject": "ženske",
+      "rationale": "נשים dobesedno 'ženske' (vojaška sramota); nekateri prevajalci mečijo v vlogo ('nemožni') in izgubijo podobo."
+    }
+  ],
+  "translation": "Glej, tvoje ljudstvo ⟨so⟩ ženske sredi tebe; tvojim sovražnikom so dobro odprta vrata tvoje dežele; ogenj je požrl tvoje zapore.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5a191a72f704716bdb189713adb9aa604a0b49d20aa4275c1d05271dd9bd2289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/3\/13-16.1792434231790.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvoje-ljudstvo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ženske"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sredi-tebe"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "tvojim-sovražnikom"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "odprta(-na-široko)"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "so-se-odprla"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vrata"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tvoje-dežele"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "je-požrla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "בריחיך",
+      "gloss": "tvoje-zapore"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:51.791211343Z",
+  "model": "glm-5.3"
+}

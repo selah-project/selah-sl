@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strašnih del",
+      "rationale": "נוראות je ' strah vzbujajoče stvari'; 'strašna dela' je okrnjena podoba."
+    }
+  ],
+  "translation": "In moč tvojih strašnih del bodo govorili, tvojo velikost bom pripovedoval.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/5-8.1792435698380.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "in moč"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "tvojih strašnih del"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bodo govorili"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "tvojo velikost"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "bom pripovedoval"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:18.381206836Z",
+  "model": "glm-5.3"
+}

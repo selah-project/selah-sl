@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nasprotniki",
+      "rationale": "צרי je dobesedno 'stiskovalci' (od צר, ozek), tu prevedeno kot nasprotniki."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav pred היכל označuje tožilni predmet; hebrejščina ga tu nima v navedenih žetonih, toda palača ostaja tožilnik."
+    }
+  ],
+  "translation": "In slišali so nasprotniki Jehude in Binjamina, da sinovi izgnanstva gradijo ⟨את⟩ palačo za Jahve, Elohim Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/4\/1-4.1792437678595.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "in slišali so"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "nasprotniki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "in Binjamina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "izgnanstva"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "gradijo"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palačo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:18.597174697Z",
+  "model": "glm-5.3"
+}

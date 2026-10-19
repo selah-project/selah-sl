@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "Beseda se pojavi samo tu v Tanahu; pomen 'drobci\/koščki' je izpeljan iz aramejskega sorodnika."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קרתו",
+      "rationale": "Samostalnik 'mrazava' (od קרה) se pojavi samo tu v Tanahu."
+    },
+    {
+      "kind": "crux",
+      "subject": "מי יעמד",
+      "rationale": "'Kdo bo obstal' — vprašanje retorično: pred mrazom nihče ne more stati; dobesedno 'kdo bo stal'."
+    }
+  ],
+  "translation": "Meče svoj led kakor drobci; pred njegovo mrazavo kdo bo obstal?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/147\/17-20.1792435781151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "meče"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "svoj led"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "kakor drobci"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "njegovo mrazavo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bo obstal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:41.152080277Z",
+  "model": "glm-5.3"
+}

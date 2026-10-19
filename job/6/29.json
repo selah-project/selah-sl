@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 6:29",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks a copula in the final clause."
+    },
+    {
+      "kind": "pronoun",
+      "subject": "njej",
+      "rationale": "Supplied pronoun to render the feminine suffix of בה, referring back to the matter at hand."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושבי",
+      "rationale": "Pointed as infinitive 'my returning' or read as imperative 'return again'; KJV\/YLT take it as imperative."
+    },
+    {
+      "kind": "you",
+      "subject": "Job to his three friends",
+      "rationale": "Direct imperative address to Job's companions."
+    }
+  ],
+  "translation": "Vrnite se, prosim, naj ne bo krivice, in se vrnite znova — moj cedek ⟨je⟩ v ⟨njej⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c85faf882637b583841736e2c5253523f37b9f5a1978e737583eec37f2d056d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/6\/29-30.1792436291218.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שֻֽׁבוּ",
+      "gloss": "Vrnite se"
+    },
+    {
+      "surface": "נָ֭א",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "naj ne"
+    },
+    {
+      "surface": "תְּהִ֣י",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "krivica"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "in se vrnite"
+    },
+    {
+      "surface": "ע֝וֹד",
+      "gloss": "znova"
+    },
+    {
+      "surface": "צִדְקִי",
+      "gloss": "moj cedek"
+    },
+    {
+      "surface": "בָֽהּ",
+      "gloss": "v ⟨njej⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:11.219213950Z",
+  "model": "glm-5.3"
+}

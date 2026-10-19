@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעלות עמים תחתם",
+      "rationale": "Dvomljivo: 'ko so ljudstva odvzeta s svojega mesta' (KJV\/JPS) proti dobesednemu 'vzhod ljudstev namesto njih' (YLT)."
+    },
+    {
+      "kind": "you",
+      "subject": "do Joba",
+      "rationale": "Elihu nagovarja Joba z odločnim prepovednim imperativom."
+    }
+  ],
+  "translation": "Ne hlepi po noči, da bi ljudstva šla vzhod ⟨namesto njih⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/17-20.1792436716619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "hlepi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "po noči"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "da bi šla vzhod"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "namesto njih"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:16.620644044Z",
+  "model": "glm-5.3"
+}

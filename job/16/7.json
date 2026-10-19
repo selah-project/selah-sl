@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Elohim",
+      "rationale": "Hebrejščina ne imenuje subjekta; glagolska oblika kaže na 'on' (Boga)."
+    },
+    {
+      "kind": "crux",
+      "subject": "השמות",
+      "rationale": "Oblika je dvoumna: 'on je opustošil' ali 'ti si opustošil' — prevodi se razhajajo (geneva 'O God, thou')."
+    }
+  ],
+  "translation": "Sámo zdaj me je ⟨Elohim⟩ utrudil, opustošil je vso mojo skupščino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/16\/5-8.1792436448668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sámo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "me je utrudil"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "opustošil je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "mojo skupščino"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:48.669639462Z",
+  "model": "glm-5.3"
+}

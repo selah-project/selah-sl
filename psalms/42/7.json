@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצער \/ מעט",
+      "rationale": "ime gore Micar zveni kot 'majhno' — nasprotje velikemu Hermonu, v slovenščini izgubljeno"
+    },
+    {
+      "kind": "crux",
+      "subject": "על כן",
+      "rationale": "'zato' (zaradi potopljenosti se spominjam) ali ločilno 'ampak vendar' (KJV 'therefore', drugi 'nevertheless')"
+    }
+  ],
+  "translation": "Elohim moi, nada meni je moja duša potonjena; zato se te spominjam iz dežele Jarden in s Hermonov, z gore Micar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/5-8.1792434837888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nada menoj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "je potonjena"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato (zaradi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(t)ako"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "se te spominjam"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iz dežele"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "in s Hermonov"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "z gore"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Micar"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:57.891057874Z",
+  "model": "glm-5.3"
+}

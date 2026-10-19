@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 1:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenski pomožnik glagol, hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה ... וזה",
+      "rationale": "ponavljanje »ta ... in ta« gradi naraščajoči ritem štirih glasnika."
+    }
+  ],
+  "translation": "Medtem ko je ta še govoril, je ta prišel in rekel: Tvoji sinovi in tvoje hčere so jedli in pili vino v hiši svojega brata, prvorojenca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd6d8951f1538ad98551daea738b9056ecb2d7360d5930618c0ac843ec918a67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/1\/17-20.1792436274979.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "medtem ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "govoril"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "in ta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji sinovi"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "in tvoje hčere"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "so jedli"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "in pili"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorojenca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:54.982578086Z",
+  "model": "glm-5.3"
+}

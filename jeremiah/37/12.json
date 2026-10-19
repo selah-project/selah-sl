@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 37:12",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחלק משם",
+      "rationale": "'razdeliti (delež) tam' (KJV 'ločiti se', YLT\/JPS 'prejeti delež') — verjetno prevzem deleža posesti sredi ljudstva"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svoj⟩",
+      "rationale": "hebrejščina ne izreka svojilnega zaimka; dodan za jasnost"
+    }
+  ],
+  "translation": "je šel Jeremija iz Jerušalajma, da bi šel v deželo Benjaminovo, da bi tam razdelil ⟨svoj⟩ delež sredi ljudstva.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "34abc6e22be67936765d00e0ad9beab40db8b5b7ee9f56e32ed52d65c98f30e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/37\/9-12.1792431714844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "je šel"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremija"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iz Jerušalajma"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "da bi šel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "v deželo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminovo"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "da bi razdelil"
+    },
+    {
+      "surface": "משם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:54.845728067Z",
+  "model": "glm-5.3"
+}

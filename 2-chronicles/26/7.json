@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעונים",
+      "rationale": "'Meunijci' (prebivalci Maona) proti KJV 'Mehunimi' \/ LXX bere 'Amoniti' — soglasniki dovoljujejo oboje."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ה⟩",
+      "rationale": "slovenščina nima člena; hebrejski člen se ne zapiše — ⟨⟩ tu le po dogovoru"
+    }
+  ],
+  "translation": "In pomagal mu je ⟨ה⟩ Elohim proti Peleštijcem in proti Arabcem, ki prebivajo v Gur-Baalu, in Meunijcem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50a683df0e5585681c2c5294b6b8ee1de9309486b130b38594e3694a3e2f94eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/26\/5-8.1792438800525.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "In pomagal mu je"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštijcem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in proti"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "Arabcem"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ki prebivajo"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "v Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baalu"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "in Meunijcem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:00.526810468Z",
+  "model": "glm-5.3"
+}

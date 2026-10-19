@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "v središču",
+      "rationale": "לב je dobesedno 'srce'; 'v srcu morja' pomeni 'v sredini морja' — hebrejska idiomatika."
+    },
+    {
+      "kind": "crux",
+      "subject": "jambor",
+      "rationale": "חבל tukaj 'drog\/jambor'; isti koren pomeni tudi 'vrv,uničenje' — preneseni pomen izgubljen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשכב...וכשכב",
+      "rationale": "ponovitev 'kakor tisti, ki leži' gradi vzporednost morska viharjavost \/ višina jambora."
+    }
+  ],
+  "translation": "in boš kakor tisti, ki leži v središču morja, in kakor tisti, ki leži na vrhu jambora.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca89d38e01548c82e402d06778a8664af82f69bb61ed60b920ff491b1a61a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/34-35.1792439081195.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "in boš"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "kakor tisti, ki leži"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v središču"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "in kakor tisti, ki leži"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na vrhu"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "jambora"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:41.196893276Z",
+  "model": "glm-5.3"
+}

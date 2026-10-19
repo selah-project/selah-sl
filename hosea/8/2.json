@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידענוך",
+      "rationale": "'Spoznali smo te' — iskrena izpoved ali Jahvejev očitajoč odgovor (JPS: 'Ali bodo vpili k meni …?')."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨te⟩",
+      "rationale": "Slovenščina potrebuje predmet za 'spoznali', hebrejščina ga nosi v končnici."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישראל",
+      "rationale": "Jisrael lahko pripada nasledku ('Jisrael je spoznal te') ali je vzklik klicajočih."
+    }
+  ],
+  "translation": "K meni bodo vpijali: ⟨Elohim⟩ moj, spoznali smo ⟨te⟩, Jisrael!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1dc34c4e8588095f7eceaa6453d3de89190cacbdc09d2fbd0d8befb8b78801c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/8\/1-2.1792439014681.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "K meni"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "bodo vpijali"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim moj"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "spoznali smo ⟨te⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:34.682663062Z",
+  "model": "glm-5.3"
+}

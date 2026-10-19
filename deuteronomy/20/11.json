@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 20:11",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "davščina",
+      "rationale": "מס je prisilno delo \/ davek v delu, 'tributari' po vzorcih"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tvoje⟩",
+      "rationale": "יהיו לך dobesedno 'bo ti' — slovenščina potrebuje lastnostni pridevek"
+    }
+  ],
+  "translation": "In zgodbilo se bo: če ti bo odgovorilo ⟨s⟩ mirom in ti bo odprlo, potem bo vse ljudstvo, ki se najde v njem, ⟨tvoje⟩ za davščino in ti bo delalo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b2dae9be1df1f72980f92d3961b3be13c96949c81f33f8a1141754d2cb63961a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/20\/9-12.1792426024476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in zgodbilo se bo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mirom"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ti bo odgovorilo"
+    },
+    {
+      "surface": "ופתחה",
+      "gloss": "in ti bo odprlo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "potem bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ki se najde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tvoje⟩"
+    },
+    {
+      "surface": "למס",
+      "gloss": "za davščino"
+    },
+    {
+      "surface": "ועבדוך",
+      "gloss": "in ti bo delalo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:07:04.477603638Z",
+  "model": "glm-5.3"
+}

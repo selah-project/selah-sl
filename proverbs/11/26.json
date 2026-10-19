@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "brez glagola bi stavek okrnjen; hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ki žito prodaja",
+      "rationale": "משביר je trgovec z žitom, poklic in ne le dejanje"
+    },
+    {
+      "kind": "idiom",
+      "subject": "na glavi",
+      "rationale": "blagoslov 'na glavi' je hebrejska zveza za javno priznanje"
+    }
+  ],
+  "translation": "Kdor zadržuje žito, preklinjala ga bo ljudstvo, a blagoslov ⟨bo⟩ na glavi tistega, ki žito prodaja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/25-28.1792435952210.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "kdor zadržuje"
+    },
+    {
+      "surface": "בר",
+      "gloss": "žito"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "preklinjala ga bo"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "a blagoslov"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "na glavi"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "tistega, ki žito prodaja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:32.211905490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק po hebrejskem zvoku, ne »pravičnost« sama."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעוות … יעוות",
+      "rationale": "Ponovitev glagola v vzporednih členih — paradigma, ki jo slovenščina ohrani z istim glagolom."
+    }
+  ],
+  "translation": "Ali El krivi sodbo, ali Šadaj krivi cedek?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fafd15e4a70a24007137c865d5725f65764c8a9d7f7cdb57b19058387b9c1a59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/1-4.1792436340330.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ali El"
+    },
+    {
+      "surface": "יעוות",
+      "gloss": "krivi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaj"
+    },
+    {
+      "surface": "יעוות",
+      "gloss": "krivi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:00.353706443Z",
+  "model": "glm-5.3"
+}

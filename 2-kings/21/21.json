@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 21:21",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hlume",
+      "rationale": "הגללים dobesedno 'okrogli hlodi', pejorativno za malike; 'hlume' ohranja primitivno podobo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "častil",
+      "rationale": "עבד 'služiti' je tu službo malikom; slovensko 'častil' nosi pomen, dobesedno 'služil je'."
+    }
+  ],
+  "translation": "In hodil je po vsej poti, po kateri je hodil njegov oče, in častil je ⟨את⟩ hlume, ki jih je častil njegov oče, in priklonil se je pred njimi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "24d7565cf64b5d2e2109029b9d60ef795493d6ecb3391cff7668484714e89971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/21\/21-24.1792429781911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in hodil je"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po vsej"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "poti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "po kateri"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je hodil"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegov oče"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "in častil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlume"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "hlume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "je častil"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegov oče"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "in priklonil se je"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pred njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:09:41.912222739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina brez kopule, slovenščina zahteva 'Jaz sem Jožef'"
+    },
+    {
+      "kind": "you",
+      "subject": "bratom",
+      "rationale": "neposreden ogovor bratov z vprašanjem 'Ali moj oče še živi?'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו (H854)",
+      "rationale": "predlog את z osebnim pripornikom ('mu'), gloss nosi ⟨את⟩"
+    }
+  ],
+  "translation": "In Jožef je rekel svojim bratom: Jaz sem Jožef. Ali moj oče še živi? In njegovi bratje ⟨את⟩ mu niso mogli odgovoriti, kajti zgroženi so bili pred njegovim obrazom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/45\/1-4.1792422961230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jožef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ali še"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "moj oče"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegovi bratje"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "odgovoriti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu",
+      "marks": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zgroženi so bili"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pred njegovim obrazom"
+    }
+  ],
+  "timestamp": "2026-10-19T15:16:01.231976605Z",
+  "model": "glm-5.3"
+}

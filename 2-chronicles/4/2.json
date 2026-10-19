@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Morje",
+      "rationale": "הים je 'morje' — ulito kovinsko korito, imenovano Morje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Morje",
+      "rationale": "premer 10, višina 5, obseg 30 komolcev"
+    },
+    {
+      "kind": "crux",
+      "subject": "trideset komolcev",
+      "rationale": "obseg 30 pri premeru 10 (π≈3) — znana številčna težava"
+    }
+  ],
+  "translation": "In naredil je ⟨את⟩ Morje, ulito, deset komolcev od roba do roba, okroglo vso okrog, in pet komolcev njegova višina, vrv trideset komolcev ⟨את⟩ ga obdaja okrog.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/4\/1-4.1792438484682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In naredil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Morje"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Morje"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ulito"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "od njegovega roba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "njegovega roba"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "okroglo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "vso okrog"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "in pet"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "njegova višina"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "in vrv"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trideset"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "obdaja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "Morje"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okrog"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:44.683674982Z",
+  "model": "glm-5.3"
+}

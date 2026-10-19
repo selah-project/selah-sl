@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dih, življenjska sila, grlo', ne nesmrtna duša."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיה\/אחסה",
+      "rationale": "isti glagol חסה dvakrat: zatekanje v preteklosti in prihodnosti — ponovitev je v slovenščini delno ohranjena."
+    }
+  ],
+  "translation": "Usmili se me, Elohim, usmili se me, kajti vate se zateka moja duša ⟨nefeš⟩, v senci tvojih peruti se bom zatekel, dokler ne minejo nesreče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/57\/1-4.1792434967538.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Usmili se me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "usmili se me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "vate"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "se zateka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša ⟨nefeš⟩"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "v senci"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tvojih peruti"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "se bom zatekel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ne minejo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "nesreče"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:07.539945259Z",
+  "model": "glm-5.3"
+}

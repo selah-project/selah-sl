@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule; slovenščina jo zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחקקי",
+      "rationale": "'zakonodajalec' (KJV) proti 'žezlo\/vladar' (ASV\/JPS) — dobesedno 'moj izkljevalavec (odlokov)'"
+    }
+  ],
+  "translation": "Moj je Gilad, moj je Menaše; Efrajim ⟨je⟩ trdnjava moje glave, Jehuda ⟨je⟩ moj zakonodajalec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/60\/9-12.1792434933146.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "moj je"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "in moj je"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "in Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "trdnjava"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moje glave"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "moj zakonodajalec"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:33.147299690Z",
+  "model": "glm-5.3"
+}

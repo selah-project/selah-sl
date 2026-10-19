@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Pohvalite se v imenu",
+      "rationale": "Hebrejski hitpael התהלל ב = ' hvaliti se z, slaviti'; dobesedno 'slavite v imenu njegove svetosti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svetosti",
+      "rationale": "קדשו je samostalnik 'njegova svetost', ne pridevnik ' sveto ime'."
+    }
+  ],
+  "translation": "Pohvalite se v imenu njegove svetosti; naj se veseli srce tistih, ki iščejo Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/1-4.1792435361099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Pohvalite se"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegove svetosti"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "naj se veseli"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tistih, ki iščejo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:41.100415472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "roku spodbude",
+      "rationale": "imperativ 'rumah' — molitvena prošnja, da se Elohim povzdigne"
+    },
+    {
+      "kind": "elision",
+      "subject": "vezovalnik",
+      "rationale": "druga polovica verza brez glagola — slovenščina besedni red 'in nad vso zemljo tvoja slava' ohranja ellipso"
+    }
+  ],
+  "translation": "Bodi povzdignjen nad nebesi, Elohim, in nad vso zemljo tvoja slava.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/5-8.1792435417820.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "bodi povzdignjen"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tvoja slava"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:37.820825564Z",
+  "model": "glm-5.3"
+}

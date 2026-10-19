@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩",
+      "rationale": "Vprašalni glagolnik, ki ga slovenščina potrebuje; hebrejščina ima samo glagolsko obliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלט",
+      "rationale": "KJV bere kot vprašanje ('ali bodo ušli?'), YLT kot trditev ('z krivičnostjo uidejo')."
+    }
+  ],
+  "translation": "Zaradi ničevosti ⟨naj⟩ uidejo? V jezi potisni dol ljudstva, o Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/56\/5-8.1792434944121.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničevost"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "uidejo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njim"
+    },
+    {
+      "surface": "באף",
+      "gloss": "v jezi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "potisni dol"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:44.124333033Z",
+  "model": "glm-5.3"
+}

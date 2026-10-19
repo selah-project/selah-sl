@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oblečena",
+      "rationale": "Hebrejščina nakazuje oblačenje z 'l-' ('za vezene obleke'); slovenščina potrebuje glagol."
+    },
+    {
+      "kind": "crux",
+      "subject": "לרקמות",
+      "rationale": "'pestro vezene obleke' (JPS 'richly woven stuff', KJV 'raiment of needlework') — ל- lahko pomeni tudi namen ('za vezene obleke')."
+    }
+  ],
+  "translation": "V pestro vezene obleke oblečena bo pripeljana kralju; device, njene prijateljice, za njo bodo pripeljane k tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/13-16.1792434815851.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "v pestro vezene obleke"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "bo pripeljana"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "device"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "za njo"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "njene prijateljice"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "bodo pripeljane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:35.852896442Z",
+  "model": "glm-5.3"
+}

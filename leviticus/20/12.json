@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תבל",
+      "rationale": "beseda se v Tanahu pojavlja le tukaj in v 3 Mz 18,29; pomen 'zmešanost, naravnost pregrešna mešanica'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבל עשו",
+      "rationale": "prevodi se razhajajo: KJV 'confusion', JPS 'corruption', dobesedno 'mešanico sta storili'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומתו",
+      "rationale": "infinitiv-absolutni poudarek: 'smrt bosta umorjena'"
+    }
+  ],
+  "translation": "In človek, ki leže z ⟨את⟩ svojo snaho, oba naj sta umorjena — mešanico sta storila; njuna kri ⟨je⟩ nad njima.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/20\/9-12.1792424425376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "in človek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leže z"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo snaho"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "svojo snaho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "naj sta umorjena"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mešanico"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sta storila"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "njuna kri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nad njima"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:25.378216727Z",
+  "model": "glm-5.3"
+}

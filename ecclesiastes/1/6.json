@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סובב סובב … סביבתיו",
+      "rationale": "infinitiv absolutus סובב סובב — trojna ponovitev korena 'okoli'; slogovna podvajanje, ki slovenščina posnema z 'vrti se, vrti se'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "הרוח je 'veter' ali 'dih\/duh' — po D2 ostaja ruah, ker ena hebrejska beseda nosi oboje."
+    }
+  ],
+  "translation": "Hodi proti jugu in se vrti proti severu; vrti se, vrti se hodeč ruah, in po svojih krogih se ruah vrača.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/1\/5-8.1792437093732.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "jugu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "in se vrti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severu"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "vrti se"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "vrti se"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "hodeč"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "po"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "svojih krogih"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrača"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:33.733991117Z",
+  "model": "glm-5.3"
+}

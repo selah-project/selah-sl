@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlo\/dih\/življenjska sila' kot 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסך אדדם",
+      "rationale": "'s množico korakal počasi' (JPS\/ASV) proti 'vodil sem jih' (KJV, iz korena דדה)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בסך",
+      "rationale": "sod ni običajna 'množica' ampak 'grmič ljudi', gostota, ki se preriva"
+    }
+  ],
+  "translation": "To spominjam in izlival nase svojo dušo, kajti prehajal sem s množico, korakal počasi z njimi do hiše Elohim, s glasom vzklikanja in zahvale, ⟨skupaj z⟩ množico, ki praznuje ⟨praznik⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/5-8.1792434837888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "spominjam"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "in izlival"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nase"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "prehajal sem"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "s množico"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "korakal počasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "s glasom"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "vzklikanja"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "in zahvale"
+    },
+    {
+      "surface": "המון",
+      "gloss": "množico"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ki praznuje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:57.890041315Z",
+  "model": "glm-5.3"
+}

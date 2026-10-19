@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כקדח...תבעה",
+      "rationale": "Večina prevodov ta dva verza prestavi pred 63,19 ('Da bi razodel nebesa'); hebrejsko besedilo tu začne s podobo ognja in vrela vode."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המסים",
+      "rationale": "redka beseda za suhe veje\/grmičevje; 'grmičevje' ohranja sliko, ne 'kolki'."
+    }
+  ],
+  "translation": "Kakor ogenj zažge grmičevje, ⟨in⟩ voda zavre — ogenj: da bi seznanil tvoje ime tvojim zatiralcem, pred tvojim obličjem narodi trepetajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/64\/1-4.1792430891661.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "kakor-zažge"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "grmičevje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "zavre"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "da-bi-seznanil"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje-ime"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "tvojim-zatiralcem"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pred-tvojim-obličjem"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodi"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "trepetajo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:11.662174600Z",
+  "model": "glm-5.3"
+}

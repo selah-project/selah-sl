@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי כאשר",
+      "rationale": "hebrejski uvod 'in zgodbilo se je, ko'; dobesedno bi bila odveč."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המכים \/ ויהרג",
+      "rationale": "udarili (הכה) proti pobil (הרג) — stopnjevanje nasilja v isti gi."
+    }
+  ],
+  "translation": "In zgodbilo se je, ko se je kraljestvo zanj okrepilo, da je pobil ⟨את⟩ svoje služabnike, tiste, ki so udarili ⟨את⟩ kralja, njegovega očeta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/25\/1-4.1792438760887.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "se je okrepilo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kraljestvo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "da je pobil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje služabnike"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svoje služabnike"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "tiste, ki so udarili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegovega očeta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:20.889358404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika za preteklik"
+    },
+    {
+      "kind": "crux",
+      "subject": "טוב",
+      "rationale": "'dobro' kot abstrakt (stvar, ki je dobra) ali 'Dobrega' (= Elohim); prevodi se delijo"
+    }
+  ],
+  "translation": "Zavrgel ⟨je⟩ Jisrael ⟨את⟩ dobro; sovražnik ga bo zasledoval.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47339194059d2533bf6202dc2d198947040d4827217026f87b88775edf859e20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/8\/3-4.1792438999502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Zavrgel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnik"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ga bo zasledoval"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:19.503541776Z",
+  "model": "glm-5.3"
+}

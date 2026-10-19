@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuje načrt",
+      "rationale": "זמם je 'načrtovati' (v slabem pomenu); 'kovati' je slovenska idiomatska slika"
+    }
+  ],
+  "translation": "Krivični kuje načrt zoper pravičnega in škljoca zobe nad njim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/9-12.1792434733059.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "kuje načrt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Krivični"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "zoper pravičnega"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "in škljoca"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zobe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:13.063222302Z",
+  "model": "glm-5.3"
+}

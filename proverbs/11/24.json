@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "komur \/ mu",
+      "rationale": "יש je brez osebka; slovenščina potrebuje nosilca dejanja, dodano v oklepajih"
+    },
+    {
+      "kind": "crux",
+      "subject": "מישר",
+      "rationale": "dobesedno »od pravice\/pravosti«; KJV dodaja »več, kot je prav« (t.j. pretirano varčuje), YLT bere »zadržuje od tega, kar je prav« (pravljično prireja)"
+    }
+  ],
+  "translation": "⟨Komur⟩ je — razsipuje, pa se ⟨mu⟩ še pridoblja; in kdor zadržuje, kar je prav, samo v pomanjkanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "86db5d8841c3950e884e37542d0fa7a6d6729bc687c58eaf2c6ef7ba70ac3094",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/21-24.1792435940894.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨komur⟩ je"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "razsipuje"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "pa se pridobiva"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "in kdor zadržuje"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "kar je prav"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "v pomanjkanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:20.898375803Z",
+  "model": "glm-5.3"
+}

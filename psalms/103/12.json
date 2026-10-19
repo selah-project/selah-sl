@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרחק\/הרחיק",
+      "rationale": "iste tri črke רחק v prispodobi in glagolu — 'daleč\/oddalil'; dvojnost je v slovenščini delno ohranjena (daleč\/oddaljiti)"
+    }
+  ],
+  "translation": "Kakor je daleč vzhod od zahoda, tako je oddalil ⟨את⟩ naše upore od nas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/103\/9-12.1792435325422.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "kakor je daleč"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "vzhod"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "od zahoda"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "oddalil je"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše upore"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše upore"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:05.423749911Z",
+  "model": "glm-5.3"
+}

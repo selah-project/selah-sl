@@ -1,0 +1,155 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 21:1",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika glagola; slovenščina ga za preteklik zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "obličje Jahveja",
+      "rationale": "בקש את פני יהוה: dobesedno 'iskati obličje Jahveja', idiom za spraševati Jahveja po nasvetu"
+    },
+    {
+      "kind": "crux",
+      "subject": "hiša krvava",
+      "rationale": "בית הדמים: 'hiša krvi\/krvavega' — KJV 'bloody house' vs JPS\/BSB 'krvavitev, ki jo je prelil Šaul in njegova družina'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואל שאול",
+      "rationale": "Jahvejev odgovor je neposreden brez glagola 'rekel do' — slovenščina doda 'za'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tri leta, leto za letom",
+      "rationale": "štetje let lakote, ponovljeno števno strukturo שנה אחרי שנה"
+    }
+  ],
+  "translation": "In bila ⟨je⟩ lakota v dneh Davidovih tri leta, leto za letom; in David je iskal ⟨את⟩ obličje Jahveja. In Jahve je rekel: Za Šaula in za hišo-kvane je, ker je usmrtil ⟨את⟩ Gibeonce.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/21\/1-4.1792428616847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In bila"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "lakota"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v dneh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovih"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "leta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "leto"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "letom"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "in je iskal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obličje Jahveja"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨do njega⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in za"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "krvavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "המית",
+      "gloss": "je usmrtil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeonce"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gibeonce"
+    }
+  ],
+  "timestamp": "2026-10-19T16:50:16.848650604Z",
+  "model": "glm-5.3"
+}

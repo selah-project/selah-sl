@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושה",
+      "rationale": "Upnik\/izsiljevalec: dobesedno 'posojilnik', KJV 'extortioner', JPS 'creditor'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ינקש",
+      "rationale": "Dobesedno 'zanko postavi'; 'past postavi' ohranja sliko zanke."
+    }
+  ],
+  "translation": "Past postavi upnik ⟨nad⟩ vse, kar ima, in tujci naj ropejo ⟨sad⟩ njegovega truda.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/9-12.1792435436099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "past postavi"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "upnik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ima"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "in naj ropejo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tujci"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "njegovega truda"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:56.100768969Z",
+  "model": "glm-5.3"
+}

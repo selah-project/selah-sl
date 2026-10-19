@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bedel nad mestom",
+      "rationale": "בשמור אל העיר je 'varovati\/ovostriti mesto' — vojaško obleganje, ne le opazovanje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנשי החיל",
+      "rationale": "'možje-jaštva': isti izraz označuje Davidove junake; tu stojijo na nasprotni strani — Urija je postavljen med elite"
+    }
+  ],
+  "translation": "In zgodilo se je, ko je Joáb bedel nad mestom, da je postavil ⟨את⟩ Urijo na kraj, katerega je poznal ⟨kot kraj⟩, kjer so bili možje-junaški.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4c71a5eb2f7834d7952f882dec82f1fe2ba7fdd49a5fae37ef9b8fcc9d3b3670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/11\/13-16.1792428373863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "ko je bedel"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mestom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "da je postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katerega"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "je poznal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "-junaški"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:13.864577385Z",
+  "model": "glm-5.3"
+}

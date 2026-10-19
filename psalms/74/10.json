@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Vokativ: עד מתי אלהים se bere kot ogovor Elohima, slovenščina dodaja 'o'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Neposreden ogovor Elohima z vprašanjem 'doklej'"
+    }
+  ],
+  "translation": "Doklej, o Elohim, bo grajal nasprotnik? Ali bo sovražnik zaničeval tvoje ime na veke?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/9-12.1792435070629.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "(doklej)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "bo grajal"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nasprotnik"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "bo zaničeval"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na veke"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:50.631069628Z",
+  "model": "glm-5.3"
+}

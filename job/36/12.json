@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "'z darto\/sulico preidejo' — KJV 'propadejo od meča' proti YLT 'z darto preidejo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izdihnejo",
+      "rationale": "גוע dobesedno 'izdihniti' — dih kot življenje, ne 'umreti' nasplošno"
+    }
+  ],
+  "translation": "In če ne poslušajo, z darto preidejo in izdihnejo brez spoznanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/36\/9-12.1792436701975.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "poslušajo"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "z darto"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "preidejo"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "in izdihnejo"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "brez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznanja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:01.976613059Z",
+  "model": "glm-5.3"
+}

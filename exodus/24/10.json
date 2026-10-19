@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Hebrejščina nima glagola biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבנת הספיר",
+      "rationale": "'Plošča iz sapira' (KJV 'paved work of sapphire') — lahko tudi 'mlečno bela s sapirjevo prosojnostjo', ker לבנה pomeni belino."
+    },
+    {
+      "kind": "mystery",
+      "subject": "videli so Elohim",
+      "rationale": "Videnje Boga, a ne njegovega obraza — opisan je le plošnik pod njegovimi nogami."
+    }
+  ],
+  "translation": "In videli so ⟨את⟩ Elohim Jisraela, in pod njegovimi nogami ⟨je bilo⟩ kakor delo iz sapirove plošče in kakor samo nebo v jasnosti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "76aab1f6f0da20091688ce2fda593455a4a3835a058e8c058584ccfbf9f6a1d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/24\/9-12.1792423510805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "in videli so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Jisraela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "in pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "njegovimi nogami"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kakor delo"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "iz sapirove plošče"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapirove"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "in kakor samo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "v jasnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T15:25:10.806143549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima glagola biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "snuje",
+      "rationale": "חרש je dobesedno 'rezati\/orati', tu pregibno 'načrtovati'."
+    }
+  ],
+  "translation": "Popačenost ⟨je⟩ v njegovem srcu, snuje hudo vsemu času, prepire pošilja ven.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "338fb5966275f100afab75125c5f7f6a09d557dced00fefb7507f391693bf6cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/6\/13-16.1792435825861.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "popačenost"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "v njegovem srcu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "snuje"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hudo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vsemu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "prepire"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pošilja ven"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:25.863346930Z",
+  "model": "glm-5.3"
+}

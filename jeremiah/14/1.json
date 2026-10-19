@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suša",
+      "rationale": "הבצרות je dobesedno 'zadržki (dežja)' — pridevnik v množini, 'zadržane deževje', tj. suša."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "zaimek אשר je vlito v slovenski veznik 'ki', brez lastnega mesta."
+    }
+  ],
+  "translation": "Beseda Jahveja, ki je bila Jeremiju o stvareh suše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8be7a473886fbc27771ac13151b7ed451b651bdc64e96b2e306d864874078014",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/14\/1-4.1792431330508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiju"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stvareh"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "suše"
+    }
+  ],
+  "timestamp": "2026-10-19T17:35:30.508836201Z",
+  "model": "glm-5.3"
+}

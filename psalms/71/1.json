@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בך…חסיתי",
+      "rationale": "zaimek 'vate' je v slovenščini dvakrat, ker slovenski glagol zatekanja zahteva predlog z osebnim rodilnikom"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor Boga, prošnja psalmista"
+    }
+  ],
+  "translation": "Vate sem se zatekel, Jahve; naj se nikdar ne osramotim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/1-4.1792435071074.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Vate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sem se zatekel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naj ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "osramotim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nikdar"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:51.075168048Z",
+  "model": "glm-5.3"
+}

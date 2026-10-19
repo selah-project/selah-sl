@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol 'biti'; hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vnela",
+      "rationale": "חמה dobesedno 'vročina'; slika razjarjenosti"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבר",
+      "rationale": "'mož\/možak' (prevzeli mož) vs 'mož' kot prevzeli mož preljubniške žene; splošen 'človek' ali konkreten 'mož'"
+    }
+  ],
+  "translation": "Kajti grenkoba maščevalnosti je vnela je prevzel moža, on pa ne bo prizanesel na dan maščevanja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/6\/33-35.1792435811183.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "prevzel"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "vnela"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moža"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "bo prizanesel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "maščevanja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:11.184123209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 20:30",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sin izkrivljene uporne ženske",
+      "rationale": "בן נעות המרדות: JPS bere »sin izkrivljene upornosti« (brez »ženske«), KJV\/ASV dodajo »ženske« iz glagolske oblike; žaljivka je namenjena materi, ne Jonatanu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נעות",
+      "rationale": "Oblika נעות (iz עוה, izkrivljati) se v Tanahu pojavlja samo tu — prevod drži dobesedno podobo izkrivljenosti."
+    },
+    {
+      "kind": "you",
+      "subject": "Jonatanu",
+      "rationale": "Savlova žaljivka se neposredno obrača na Jonatana."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבן ישי \/ לבשתך",
+      "rationale": "Zvokovna bližina לבן (za sina) in לבשת (v sramoto) v hebrejščini povezuje izbiro Davida s sramoto — v slovenščini izgubljeno."
+    }
+  ],
+  "translation": "In vnela se je jeza Savlova nad Jonatanom, in rekel mu je: Sin izkrivljene uporne ženske! Mar ne vem, da si si izvolil sina Jišajevega v svojo sramoto in v sramoto golote svoje matere?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/29-32.1792427911928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "in vnela se je"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jeza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Savlova"
+    },
+    {
+      "surface": "ביהונתן",
+      "gloss": "nad Jonatanom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "izkrivljene"
+    },
+    {
+      "surface": "המרדות",
+      "gloss": "uporne ženske"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mar ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "si si izvolil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišajevega"
+    },
+    {
+      "surface": "לבשתך",
+      "gloss": "v svojo sramoto"
+    },
+    {
+      "surface": "ולבשת",
+      "gloss": "in v sramoto"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "golote"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svoje matere"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:31.929181263Z",
+  "model": "glm-5.3"
+}

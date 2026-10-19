@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "dobesedno »rezati zavezo« (rezanje živali pri sklepanju); slovenščina »skleniti zavezo«"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogovi",
+      "rationale": "אלהיהם z malo — bogovi narodov, ne Elohim"
+    }
+  ],
+  "translation": "Ne skleni zaveze z njimi in z njihovimi bogovi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/23\/29-32.1792423514127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skleni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "in z njihovimi bogovi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zaveze"
+    }
+  ],
+  "timestamp": "2026-10-19T15:25:14.128368895Z",
+  "model": "glm-5.3"
+}

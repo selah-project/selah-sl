@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "preudarnimi",
+      "rationale": "תחבלות je samo množinski samostalnik (krmilne vrvi, premislek); pridevnik dodan v slovenščini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vodi",
+      "rationale": "עשה מלחמה dobesedno 'naredi vojno'; slovenščina reče 'vodi vojsko'"
+    }
+  ],
+  "translation": "Načrti se utrdijo s svetovanjem, in s preudarnimi načrti vodi vojsko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/20\/17-20.1792436056559.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "načrti"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "s svetovanjem"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "se utrdijo"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "s preudarnimi načrti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "vodi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vojsko"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:16.560746270Z",
+  "model": "glm-5.3"
+}

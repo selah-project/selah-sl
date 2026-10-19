@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol pri ukazu z indirektnim objektom"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרתי",
+      "rationale": "gematria גרתי = 613, midraška beseda; dobesedno 'tujil sem'"
+    }
+  ],
+  "translation": "In ukazal jim ⟨je⟩: Tako recite mojemu gospodu, Esavu: Tako pravi tvoj služabnik Jaakov: Pri Lavanu sem tujil in zadržal sem se do zdaj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c4c0a5b0579f53871177b59df2a4ada8565328883faace975237e3321f6fbe2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/32\/5-8.1792422625886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "in ukazal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "recite"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mojemu gospodu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvoj služabnik"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pri"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanu"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "sem tujil"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "in zadržal sem se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:25.887177902Z",
+  "model": "glm-5.3"
+}

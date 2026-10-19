@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק je 'pravičnost\/pravo' — žrtve, dane po pravu ali v pravičnosti; ohranjeno po zvoku besede."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבחו זבחי",
+      "rationale": "Glagol in samostalnik iz istega korena — 'zakoljite zakol' — ponovitev je v slovenščini omehčana."
+    }
+  ],
+  "translation": "Žrtvujte žrtve cedeka in zaupajte v Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01c366a48ce127755a76179e548187cb378346fe85cb210ac52bc0f90659ee8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/4\/5-6.1792438991366.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Žrtvujte"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "in zaupajte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:11.367997605Z",
+  "model": "glm-5.3"
+}

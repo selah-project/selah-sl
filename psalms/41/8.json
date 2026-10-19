@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלי … עלי",
+      "rationale": "Trojna ponovitev 'zoper mene \/ meni' — nabaš, ki v slovenščini delno ostane."
+    },
+    {
+      "kind": "substitution",
+      "subject": "smetijo",
+      "rationale": "חשב je dobesedno 'tkati\/narezati'; 'smetiti' ohranja naklepano spletkarjenje."
+    }
+  ],
+  "translation": "Skupaj zoper mene šeptajo vsi, ki me sovražijo; zoper mene smetijo zlo meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/5-8.1792434818928.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Skupaj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zoper mene"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "šeptajo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ki me sovražijo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zoper mene"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "smetijo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:38.930580937Z",
+  "model": "glm-5.3"
+}

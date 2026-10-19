@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצילני\/תשגבני",
+      "rationale": "dva glagola rešitve v vzporedju — »spravi me« in »dvigni me v nedosegljivo«."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "neposreden klic Davidove molitve."
+    }
+  ],
+  "translation": "Reši me mojih sovražnikov, moj Elohim; postavi me na višavo pred tistimi, ki vstajajo proti meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/1-4.1792434959338.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "mojih sovražnikov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "pred tistimi, ki vstajajo proti meni"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "postavi me na višavo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:59.340572566Z",
+  "model": "glm-5.3"
+}

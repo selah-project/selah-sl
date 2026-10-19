@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mno⟩",
+      "rationale": "עמי 'z menoj' — govor piše v 1. osebi, slovenščina potrebuje osebek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ostaja hesed, ne 'ljubeča dobrota'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "šir lo muli",
+      "rationale": "'njegova pesem' (his song) je prav tako mogoče — pesem, ki jo dá Jahve"
+    }
+  ],
+  "translation": "Podnevi bo Jahve zapovedoval svoj hesed, in ponoči pesem z ⟨mno⟩, molitev ⟨k⟩ Elu, življenja mojega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/9-12.1792434814757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "podnevi"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bo zapovedoval"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svoj hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "in ponoči"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "z ⟨mno⟩"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "molitev"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨k⟩ Elu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "življenja mojega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:34.759425502Z",
+  "model": "glm-5.3"
+}

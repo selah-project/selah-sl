@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slava",
+      "rationale": "כבוד je dobesedno 'teža' — slava kot teža, sij; slovenščina 'teža' ne nosi tega pomena."
+    }
+  ],
+  "translation": "In zamenjali so ⟨את⟩ svojo težo — slavo — za podobo vola, ki je travo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/17-20.1792435398592.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "In zamenjali so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo slavo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "svojo slavo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "za podobo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "travo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:18.594201028Z",
+  "model": "glm-5.3"
+}

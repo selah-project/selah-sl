@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bomo",
+      "rationale": "Glagol היינו z אם zahteva slovenski pogojni glagol."
+    }
+  ],
+  "translation": "Če pa razglasíš ⟨את⟩ to našo zadevo, ⟨bomo⟩ prosti te svoje prisege, ki si nam jo prisegla.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3bf79038383a1b8df82cf196a9b51832a16726ee9dc5cd6270c3e47eca5edc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/2\/17-20.1792426487426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "razglasiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to našo zadevo"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "našo zadevo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "bomo"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "prosti"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "te svoje prisege"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "si nam prisegla"
+    }
+  ],
+  "timestamp": "2026-10-19T16:14:47.428230305Z",
+  "model": "glm-5.3"
+}

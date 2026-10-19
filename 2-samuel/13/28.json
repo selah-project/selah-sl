@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 13:28",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Avšalom svojim mladeničem",
+      "rationale": "neposreden naslov ubijalcem z zapovedmi v drugi osebi množine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "veselo od vina",
+      "rationale": "טוב לב dobesedno 'dobro srce' — idiom za vinom razveseljeno srce"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני חיל",
+      "rationale": "dobesedno 'sinovi moči\/hrabrosti' — hebrejska zveza, ki v slovenščini potrebuje tri besede"
+    }
+  ],
+  "translation": "In Avšalom je zapovedal svojim mladeničem ⟨את⟩, rekoč: Poglejte, prosim, ko bo srce Amnonovo veselo od vina, in rekel vam bom: Udrite ⟨את⟩ Amnona, potem pa ga ubijte ⟨את⟩; ne bojte se! Mar nisem jaz zapovedal vam ⟨את⟩? Bodite močni in postanite sinovi hrabrosti!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/13\/25-28.1792428395488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "In-je-zapovedal"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje mladeniče"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "svoje-mladeniče"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Poglejte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "ko-bo-veselo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonovo"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "od-vina"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "in-rekel-bom"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "Udrite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnona"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "והמתם",
+      "gloss": "potem-pa-ubijte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte-se"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Mar-ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "zapovedal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "Bodite-močni"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "in-postanite"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hrabrosti"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:35.500956428Z",
+  "model": "glm-5.3"
+}

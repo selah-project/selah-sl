@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 21:7",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefeš je grlo\/dih\/življenjska moč, ne »življenje« v abstraktnem smislu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "dobesedno »z usti meča« — ostrina meča."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחוס \/ יחמל \/ ירחם",
+      "rationale": "trojna koreninska stopnjevanka usmiljenja, vsakokrat z ločenim ne — v slovenščini trije glagoli."
+    }
+  ],
+  "translation": "In potem, govori Jahve, bom izročil ⟨את⟩ Sidkijahu, kralja Judovega, in ⟨את⟩ njegove služabnike in ⟨את⟩ ljudstvo in ⟨את⟩ tiste, ki ostanejo v tem mestu, pred kugo, pred mečem in pred lakoto, v roko Nevukadnecarja, kralja Bavela, in v roko njihovih sovražnikov in v roko tistih, ki hlepo ⟨za⟩ njihovo dušo; in udaril jih bo z ostrino meča, ne bo se usmilil nad njimi, ne bo prizanesel in ne bo zasmilil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/21\/5-8.1792431447160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "in potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "potem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bom izročil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidkijahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkijahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegove služabnike"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "njegove služabnike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiste, ki ostanejo v tem mestu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "tiste, ki ostanejo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pred"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kugo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pred"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "lakoto"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadnecarja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavela"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "in v roko"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "njihovih sovražnikov"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "in v roko"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tistih, ki hlepo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihovo dušo"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "in udaril jih bo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "z ostrino"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meča"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחוס",
+      "gloss": "bo se usmilil"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "bo prizanesel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "bo zasmilil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:27.161526545Z",
+  "model": "glm-5.3"
+}

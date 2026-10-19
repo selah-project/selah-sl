@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 51:26",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "puščava",
+      "rationale": "שממות je množinska oblika »opustošenja« — večna razvalina, ne le prazna pokrajina."
+    },
+    {
+      "kind": "addition",
+      "subject": "boš",
+      "rationale": "Slovenščina zahteva osebni glagol; hebrejščina ima samostalnik s היה."
+    }
+  ],
+  "translation": "In ne vzeli bodo od tebe kamna za vogal in ne kamna za temelje, kajti večna puščava boš, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "08913e2d1eb2d7896af730910a6631c8a0ff66bf6458f2ef745083045ae3c4d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/51\/25-28.1792432026563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "vzeli bodo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamna"
+    },
+    {
+      "surface": "לפנה",
+      "gloss": "za vogal"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "in ne kamna"
+    },
+    {
+      "surface": "למוסדות",
+      "gloss": "za temelje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "puščava"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boš"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:06.564868353Z",
+  "model": "glm-5.3"
+}

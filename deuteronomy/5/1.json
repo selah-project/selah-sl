@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Sliši, Jisrael",
+      "rationale": "Imperativ nagovarja ves ljudstvo — vabilo k poslušanju."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jim⟩",
+      "rationale": "Slovenščina potrebuje določitev naslovnika, hebrejščina jo ima v zvezi אלהם."
+    },
+    {
+      "kind": "substitution",
+      "subject": "huqim \/ mispatim",
+      "rationale": "Hebrejski חק je »določilo\/odlok« in משפט »sodba\/pravo«; glossa drži hebrejski zvok po zgledu hesed\/cedek."
+    }
+  ],
+  "translation": "In poklical je Moše vsega Jisraela ter rekel ⟨jim⟩: Sliši, Jisrael, ⟨את⟩ huqim in ⟨את⟩ mispatim, ki jih jaz govorim v tvoja ušesa danes; in naučili se jih boste in jih boste varovali, da bi jih izpolnjevali.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/5\/1-4.1792425736070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "in poklical je"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sliši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huqim"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "huqim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "mispatim"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mispatim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "v tvoja ušesa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "in naučili se boste"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "huqim in mispatim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "in varovali jih boste"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "da bi jih izpolnjevali"
+    }
+  ],
+  "timestamp": "2026-10-19T16:02:16.071551898Z",
+  "model": "glm-5.3"
+}

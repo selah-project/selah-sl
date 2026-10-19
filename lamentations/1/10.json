@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 1:10",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨narode⟩ ⟨so⟩",
+      "rationale": "Heberščina ima samo ראתה גוים באו brez vezalnega 'da'; slovenščina dodaja odvisnik."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחמדיה",
+      "rationale": "'drage reči \/ zakladi \/ željene stvari' — JPS 'treasures', KJV 'pleasant things'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בקהל לך",
+      "rationale": "'v tvojem zboru' ali 'v zbor zate'; aluzija na 5 Mz 23,4—nosilci besedila jo slišijo."
+    }
+  ],
+  "translation": "Svojo roko je razprostriel stiskovalec nad vse njene drage reči, kajti videla je ⟨narode⟩ ⟨so⟩ vstopili v njeno svetišče — katerim si zapovedal, da ne vstopajo v tvoj zbor.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/1\/9-12.1792436958678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "je razprostriel"
+    },
+    {
+      "surface": "צר",
+      "gloss": "stiskovalec"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "njene drage reči"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "videla je"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narode"
+    },
+    {
+      "surface": "באו",
+      "gloss": "so vstopili"
+    },
+    {
+      "surface": "מקדשה",
+      "gloss": "v njeno svetišče"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katerim"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "si zapovedal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vstopajo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "v zbor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:18.679012661Z",
+  "model": "glm-5.3"
+}

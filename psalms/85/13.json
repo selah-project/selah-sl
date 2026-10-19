@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "slovenščina potrebuje prihodnjiški pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתן\/תתן",
+      "rationale": "ponovitev istega glagola dati v obeh polverših — paralelizem"
+    }
+  ],
+  "translation": "Tudi Jahve bo dal ⟨את⟩ dobro, in naša dežela bo dala svoj pridelek.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/13-14.1792435153942.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bo dal"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨את⟩ dobro"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "in naša dežela"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bo dala"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "svoj pridelek"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:13.942948689Z",
+  "model": "glm-5.3"
+}

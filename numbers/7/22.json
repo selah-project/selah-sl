@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dar za greh",
+      "rationale": "חטאת je hkrati greh in dar za greh; sopomenčnost se v slovenščini razdeli."
+    }
+  ],
+  "translation": "en kozel iz koz za dar za greh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9a11961e7466ceb31bcd2b02ba86c28c6afa543e93ed97bfcd4f074c0d29c8bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/7\/22-24.1792433290211.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "kozel"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "iz koz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za dar za greh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:10.212325386Z",
+  "model": "glm-5.3"
+}

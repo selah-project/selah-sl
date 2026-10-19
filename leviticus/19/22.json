@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zadoščeval",
+      "rationale": "כפר je dobesedno 'pokrit'; 'zadoščevati' je prevzeta slovenska bogoslužna beseda."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתו אשר חטא",
+      "rationale": "Trikratna besedna igra korena חטא (greh–zagrešil–greh–zagrešil) v zaključku verza; slovenščina jo delno ohranja s ponovom."
+    }
+  ],
+  "translation": "In duhovnik bo zanj zadoščeval z ovnom krivdnega daritve pred Jahvejem zaradi njegovega greha, ki ga je zagrešil, in odpuščeno mu bo za njegov greh, ki ga je zagrešil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d5c3c03c5064853e2b978b3920e40615abbba0f2e52103a27c58f8a642cd3002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/19\/21-24.1792424402807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "in zadoščeval bo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "z ovnom"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "krivdnega daritve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "njegovega greha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ga je zagrešil"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "in odpuščeno bo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "za njegov greh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ga je zagrešil"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:02.808206554Z",
+  "model": "glm-5.3"
+}

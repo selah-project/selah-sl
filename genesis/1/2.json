@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "tohu va-vohu",
+      "rationale": "Rimana תהו\/בהו; tohu se ponovi v תהום — zvočna veriga, v slovenščini ohranjena s prenosom zvoka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je veter\/dih\/Duh hkrati; prenešeno kot ruah, ne odločeno med pomeni."
+    },
+    {
+      "kind": "crux",
+      "subject": "je bila",
+      "rationale": "היתה: »je bila« (stanje ob stvarjenju) ali »je postala« (predhodno stanje); Rashi bere »je bila«."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lebdela",
+      "rationale": "מרחפת je deležnik — »plapola\/valovi kot ptica nad gnezdom«; slovenščina zahteva glagolsko obliko."
+    }
+  ],
+  "translation": "Zemlja pa je bila tohu in bohu, in tema nad obličjem tehoma, in ruah Elohim je lebdela nad obličjem voda.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/1\/1-4.1792422001520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Zemlja pa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "in bohu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "in tema"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličjem"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehoma"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "in ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "je lebdela"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličjem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:01.521369481Z",
+  "model": "glm-5.3"
+}

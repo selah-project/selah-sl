@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "rationale": "מזמור je besedila po hebrejskem zvoku, ne 'psalm'"
+    },
+    {
+      "kind": "elision",
+      "subject": "z",
+      "rationale": "slovenščina brez člena; hebrejski ה se ne zapiše, dodan le predlog"
+    }
+  ],
+  "translation": "Vodji ⟨z⟩ godal. Mizmor Asafovu, pesem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/76\/1-4.1792435105303.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Vodji"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ob godalah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:25.304313548Z",
+  "model": "glm-5.3"
+}

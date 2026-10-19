@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina ima sam glagol נשקפתי (»segel sem se, ozrl«), slovenščina potrebuje osebek"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אשנב",
+      "rationale": "rešetkasto okno — redka beseda, v Pr 8,2 v isti sliki"
+    }
+  ],
+  "translation": "Kajti pri oknu svoje hiše, skozi svojo rešetko ⟨sem⟩ se ozrl ⟨ven⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "780bd59711030f9ce5584ffd6b233f4c5414303b3e1308b81cd49f1782db05a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/5-8.1792435904308.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "pri oknu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svoje hiše"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "skozi"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "svojo rešetko"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "sem se ozrl"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:44.309423388Z",
+  "model": "glm-5.3"
+}

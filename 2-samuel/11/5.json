@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jaz",
+      "rationale": "אנכי poudarja 'jaz' — noseča sem prav jaz; oklepaj ker slovenščina ne rabi poudarka"
+    },
+    {
+      "kind": "you",
+      "subject": "poročilo Davidu",
+      "rationale": "posredno nagovor: žena sporoča neposredno Davidu"
+    }
+  ],
+  "translation": "In žena je zanosila, in poslala je ter sporočila Davidu ter rekla: noseča sem ⟨jaz⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/11\/5-8.1792428366970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "in je zanosila"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "in je poslala"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "in sporočila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekla"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "noseča"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sem jaz"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:06.970652806Z",
+  "model": "glm-5.3"
+}

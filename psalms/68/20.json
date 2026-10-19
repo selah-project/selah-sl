@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעמס לנו",
+      "rationale": "'nalaga na nas' — YLT\/ASV\/JPS 'nosi naše breme', KJV\/Geneva 'obloži nas z blagoslovi'; עמס pomeni 'naložiti breme'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naše breme⟩",
+      "rationale": "hebrejščina ima samo glagol 'nalaga' in zaimek; predmeta ni — dodano za berljivost"
+    }
+  ],
+  "translation": "Blagoslovljen je Adonaj — dan za dnem nalaga ⟨nase⟩ ⟨naše breme⟩: El, naša rešitev. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/17-20.1792435018057.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "za dnem"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "nalaga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nase ⟨za nas⟩"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "naša rešitev"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:58.060073270Z",
+  "model": "glm-5.3"
+}

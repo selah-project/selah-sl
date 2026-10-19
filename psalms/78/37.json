@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je\/bili",
+      "rationale": "slovenščina zahteva glagolsko vezo, hebrejščina je nima"
+    }
+  ],
+  "translation": "in njihovo srce ni bilo trdno z njim in niso stali trdno v njegovi zavezi",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/37-40.1792435105516.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "in njihovo srce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bilo trdno"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "z njim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "stali trdno"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "v njegovi zavezi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:25.516932265Z",
+  "model": "glm-5.3"
+}

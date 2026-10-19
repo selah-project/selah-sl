@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez glagola biti; primerjava izražena s samim טוב."
+    },
+    {
+      "kind": "substitution",
+      "subject": "revén",
+      "rationale": "רש je deležnik 'obupno reven', ne sam pridevnik 'siromak'."
+    }
+  ],
+  "translation": "Boljši ⟨je⟩ reven, ki hodi v svoji nedolžnosti, kakor izkrivljenec z usti, ⟨ki⟩ je norec.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/1-4.1792436028019.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "boljši"
+    },
+    {
+      "surface": "רש",
+      "gloss": "reven"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ki hodi"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "v nedolžnosti"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "izkrivljenec"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "z usti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in ⟨on⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "norec"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:48.020080857Z",
+  "model": "glm-5.3"
+}

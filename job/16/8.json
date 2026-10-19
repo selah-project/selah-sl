@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 16:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותקמטני",
+      "rationale": "Dvoumno: 'zgrčil\/nagubal si me' (KJV 'filled with wrinkles') ali 'zagnjal si me v krč' — asv 'laid fast hold on me'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "shujšanost",
+      "rationale": "כחש je dobesedno odpoved mesa, izčrpanost; preneseno tudi 'izdajstvo'."
+    },
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "Hebrejščina ima brezosebno 'je postal priča'; slovenščina potrebuje subjekt ⟨to⟩."
+    }
+  ],
+  "translation": "In ⟨ti⟩ si me skrčil, ⟨to⟩ je postalo priča; in vstaja proti meni moja shujšanost, v mojem obrazu priča.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/16\/5-8.1792436448668.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקמטני",
+      "gloss": "in si me skrčil"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "priča"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je postal"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "in vstaja"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proti meni"
+    },
+    {
+      "surface": "כחשי",
+      "gloss": "moja shujšanost"
+    },
+    {
+      "surface": "בפני",
+      "gloss": "v mojem obrazu"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "priča"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:48.669809328Z",
+  "model": "glm-5.3"
+}

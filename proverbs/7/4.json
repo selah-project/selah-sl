@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ti",
+      "rationale": "אַתְ je osebni zaimek 'ti', hkrati pa so v njem črki alef-tav — glasu, ki ga Selah spremlja."
+    },
+    {
+      "kind": "crux",
+      "subject": "מודע",
+      "rationale": "'znanka\/krvna sorodnica' (geneva: kinswoman) proti 'prijateljica' — odločeno za 'sorodnica', ker je sorodstvena vez proti tuinki iz vrsta 5."
+    },
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "Neposreden naslov poslušalcu: velelnika 'Reci ... reci'."
+    }
+  ],
+  "translation": "Reci modrosti: »Sestra si mi ⟨ti⟩«, in razumevanju reci sorodnica.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/1-4.1792435833709.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Reci"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "modrosti"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ti⟩ si"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "sorodnica"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "razumevanju"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "reci"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:33.711637360Z",
+  "model": "glm-5.3"
+}

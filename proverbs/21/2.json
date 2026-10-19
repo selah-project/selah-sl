@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez kopule: 'prav v njegovih očeh' je nominalna stavčna struktura"
+    },
+    {
+      "kind": "idiom",
+      "subject": "v njegovih očeh",
+      "rationale": "בעיניו dobesedno 'v njegovih očeh' = po njegovi presoji"
+    }
+  ],
+  "translation": "Vsaka pot človeka je prav v njegovih očeh, a Jahve tehta srca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/1-4.1792436050502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsaka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prav"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v njegovih očeh"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "a tehta"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "srca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:10.504272742Z",
+  "model": "glm-5.3"
+}

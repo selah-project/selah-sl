@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 5:13",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨preostanek⟩",
+      "rationale": "hebrejščina ne omenja ostanka; smisel dopolnjuje iz 5,12"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sprava",
+      "rationale": "כפר dobesedno 'pokriti'; 'opraviti spravo' je uveljavljeni slovenski ustrezek"
+    }
+  ],
+  "translation": "In duhovnik bo opravil spravo zanj za njegov greh, ki ga je zagrešil pri eni od teh, in odpuščeno mu bo; in ⟨preostanek⟩ bo duhovnikov kakor minha.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "da4d7036be3b177abe28848a36548d1b2b08e0d65a3bdd2d518e81b041f30cc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/5\/13-16.1792424065873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "bo opravil spravo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zanj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "njegov greh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zagrešil"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "pri eni"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "od teh"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "in odpuščeno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "in bo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "duhovnikov"
+    },
+    {
+      "surface": "כמנחה",
+      "gloss": "kakor minha"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:25.873977768Z",
+  "model": "glm-5.3"
+}

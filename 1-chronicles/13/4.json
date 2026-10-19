@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "slovenščina potrebuje določnost, hebrejščina ima člen הַ, ki se ne zapiše, a pridevnika brez njega ni."
+    }
+  ],
+  "translation": "In ves zbor je rekel, da storijo tako, kajti prava je bila ⟨ta⟩ stvar v očeh vsega ljudstva.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/13\/1-4.1792438205228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "in-je-rekel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da-storijo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "prava-je-bila"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v-očeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsega"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:05.234064453Z",
+  "model": "glm-5.3"
+}

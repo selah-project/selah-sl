@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ali⟩",
+      "rationale": "hebrejščina sprašuje brez vprašalnega členka; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "you",
+      "subject": "stražarjem",
+      "rationale": "govorka neposredno nagovarja stražarje z vprašanjem"
+    }
+  ],
+  "translation": "Našli so me stražarji, ki obhajajo mesto: ⟨Ali⟩ videli ⟨ste⟩ tistega, ⟨את⟩ ki ga ljubi moja duša?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/3\/1-4.1792436860242.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "Našli so me"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "stražarji"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "ki obhajajo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tistega, ki ga ljubi moja duša"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ki ga ljubi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "videli ⟨ste⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:40.245393791Z",
+  "model": "glm-5.3"
+}

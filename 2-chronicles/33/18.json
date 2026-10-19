@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 33:18",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "besede",
+      "rationale": "דברי pomeni 'besede\/zadeve'; 'dejanja kraljev' je vsebinski odmik"
+    },
+    {
+      "kind": "addition",
+      "subject": "so zapisani",
+      "rationale": "hebrejščina glagola izpusti; הנם על pomeni 'glej, (so) na\/mi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "החזים",
+      "rationale": "'vizionarji' (hozim, those-who-see) nasproti 'preroki'; ločeno od נביא"
+    }
+  ],
+  "translation": "Preostanek ⟨besed⟩ dejanj Menašega, njegova prošnja k svojemu Elohimu in besede vizionarjev, ki so govorili z njim v imenu Jahveja, Elohima Jisraelovega — glej, ⟨so zapisani⟩ med dejanji kraljev Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/33\/17-20.1792438906852.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Preostanek"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dejanj ⟨besed⟩"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "in njegova prošnja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svojemu Elohimu"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "in besede"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "vizionarjev"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "ki so govorili"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "z njim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelovega"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "glej"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dejanji"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:46.854773511Z",
+  "model": "glm-5.3"
+}

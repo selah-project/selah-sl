@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחסד לאמים חטאת",
+      "rationale": "Trije zagati: (1) 'greh ⟨je⟩ sramota ljudstvom' (KJV, zamenjan vrstni red); (2) 'hesed ljudstev ⟨je⟩ greh' — dobroto narodov brez Tore šteje za greh; (3) YLT: 'hed ljudstev ⟨je⟩ žrtev za greh' (חטאת kot daritev)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez glagola; slovenščina zahteva kopulo."
+    }
+  ],
+  "translation": "Cedek povzdigne narod, toda hesed ljudstev ⟨je⟩ greh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6823f1b0db6ec278cbcb264693c993b9f0a7c680c19c729f3768d2279459081f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/33-35.1792435954139.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "povzdigne"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narod"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "toda hesed"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ljudstev"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "greh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:34.140846256Z",
+  "model": "glm-5.3"
+}

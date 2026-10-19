@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 8:8",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "H854 je predlog 'pri\/z', ne predmetni označevalec; ⟨את⟩ je zato le zvočni zapis priimka."
+    },
+    {
+      "kind": "crux",
+      "subject": "עט שקר ספרים",
+      "rationale": "'Pero laži — pisarjev' ali 'lažno pero pisarjev': kdo laže, pero ali pisarji; deli so sporni."
+    },
+    {
+      "kind": "you",
+      "subject": "Judu",
+      "rationale": "Retorično vprašanje nagovarja Judove modrece in pisarje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקר\/שקר",
+      "rationale": "Dvojna laž (lašeqer ... šeqer) v eni vrsti — ponovitev poudari."
+    }
+  ],
+  "translation": "Kako pravite: Mi smo modri, in Tora Jahvejeva je ⟨את⟩ pri nas? Resnično, glej, za laž je delalo pero, laž pisarjev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1896ed67c21d0c4907c7e0d2fc525f1470799e778eba5f32a85a3a1527766dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/8\/5-8.1792431235797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "pravite"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "modri"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "in Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejeva"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ pri nas"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Resnično"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "za laž"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je delalo"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pero"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "pisarjev"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:55.798193577Z",
+  "model": "glm-5.3"
+}

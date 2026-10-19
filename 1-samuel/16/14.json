@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duh",
+      "rationale": "רוח tu je duh, ne veter — a glosa po pravilih ostaja iz enega korena; ruah je v 16,13"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת יהוה",
+      "rationale": "'od Jahveja' (izvor) ali 'poslana od Jahveja' — zli duh prihaja od Jahveja, kar prevodi raje omilijo"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaul",
+      "rationale": "nepravi ogovor — rodilniška zveza govori o Šaulu"
+    }
+  ],
+  "translation": "In ruah Jahvejeva se je odvrnila od Šaula, in nadšel ga je ⟨את⟩ duh zli, od Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d09a6ba2d51d6c2f2dca20b4de87dbb9e2bce136a5480532478c4df89a4add23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/16\/13-16.1792427773517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "in ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejeva"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "se je odvrnila"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "in ga je prestrašila"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zli"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:13.518672074Z",
+  "model": "glm-5.3"
+}

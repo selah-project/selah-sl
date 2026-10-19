@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so \/ je",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "potrjeni",
+      "rationale": "עני 'potrjen, ponižan' — prevodi se razhajajo med 'revnim' in 'stiskanim'"
+    }
+  ],
+  "translation": "Vsi dnevi potrjenega ⟨so⟩ hudi, dobremu srcu pa ⟨je⟩ neprenehno gostija.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/13-16.1792435964982.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "potrjenega"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hudi"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dobremu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srcu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gostija"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neprenehno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:44.983862439Z",
+  "model": "glm-5.3"
+}

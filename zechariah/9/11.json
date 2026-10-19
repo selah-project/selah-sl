@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "v njej",
+      "rationale": "Hebrejščina ima 'v njem' (בו) za בור, ki je moškega spola; slovenščina 'jama' zahteva 'v njej'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדם בריתך",
+      "rationale": "'Po krvi tvoje zaveze' — čigava je zaveza in čigava kri: Mojzesova zaveza (2 Mz 24,8) ali kraljeva iz vr. 9?"
+    }
+  ],
+  "translation": "Tudi tebe — po krvi tvoje zaveze sem poslal tvoje jetnike iz jame, v kateri ni vode.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/9\/9-12.1792434360956.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨tebe⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "po krvi"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "tvoje zaveze"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "sem poslal"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "tvoje jetnike"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "iz jame"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njej"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:00.957775782Z",
+  "model": "glm-5.3"
+}

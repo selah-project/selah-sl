@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 18:25",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje predmet glagola pripraviti; hebrejščina ga ne izrazi"
+    },
+    {
+      "kind": "elision",
+      "subject": "v:3569",
+      "rationale": "hebrejski predlog pod (ognja ne dajte pod) v prevodu izpuščen"
+    }
+  ],
+  "translation": "Elija pa je rekel prerokom Baala: Izberite si ⟨את⟩ ⟨enega⟩ bika in pripravite ⟨ga⟩ prvi, ker vi ste številni, in kličite v imenu svojih bogov, ognja pa ne dajte.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e6682e760f10a58bca14e17203317927fd8fade6e22f517e67ddb7d7621bfceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/18\/25-28.1792429278778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "prerokom"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "izberite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨enega⟩ bika"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "in pripravite"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "ste številni"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "in kličite"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v imenu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svojih bogov"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ognja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "dajte"
+    }
+  ],
+  "timestamp": "2026-10-19T17:01:18.779234843Z",
+  "model": "glm-5.3"
+}

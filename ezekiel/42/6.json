@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 42:6",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאצל",
+      "rationale": "izpeljanka iz אצל: 'je bil prirezan\/odvzet' — prevodi različno: 'pritisknjeno', 'odvzeto', 'postavljeno nazaj'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "trojne",
+      "rationale": "משלשות — 'v trikrat': trikratne, v treh nadstropjih ali vrstah"
+    },
+    {
+      "kind": "addition",
+      "subject": "prostora",
+      "rationale": "slovenščina potrebuje predmet, ki ga hebrejščina pušča implicitnega"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tri nadstropja",
+      "rationale": "strukturiran opis stavbe po številu nadstropij"
+    }
+  ],
+  "translation": "Kajti te ⟨so⟩ trojne in ni za nje stebrov, kakor so stebri dvorišč; zato je bilo ⟨prostora⟩ manj pri spodnjih in pri srednjih, od tal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/42\/5-8.1792433677278.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "משלשות",
+      "gloss": "trojne"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "להן",
+      "gloss": "za nje"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "stebrov"
+    },
+    {
+      "surface": "כעמודי",
+      "gloss": "kakor stebri"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "dvorišč"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "נאצל",
+      "gloss": "je bilo odvzeto"
+    },
+    {
+      "surface": "מהתחתונות",
+      "gloss": "pri spodnjih"
+    },
+    {
+      "surface": "ומהתיכנות",
+      "gloss": "in pri srednjih"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "od tal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:14:37.280974794Z",
+  "model": "glm-5.3"
+}

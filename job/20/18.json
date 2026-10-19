@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 20:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחיל",
+      "rationale": "'četa\/vojska' (množina od חיל) ali 'obzidje\/trdnjava' (kot חומה); KJV 'substance', YLT 'bulwark'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje predmet za 'pogoltnil', hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "געיגע",
+      "rationale": "יגע je dobesedno 'utrujenost, pridihano delo', ne le 'trud'"
+    }
+  ],
+  "translation": "Vrača ⟨svoj⟩ trud in ⟨ga⟩ ne bo pogoltnil; kakor čet ⟨bo⟩ njegova zamenjava in ⟨se⟩ ne bo veselil ⟨z ⟨njo⟩⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ef7b4c9907781c4ab63d798a9d8684c5fee8e078794e313c084374e5e96d3587",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/17-20.1792436467801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "vrača"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "trud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "pogoltnil"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "kakor čet"
+    },
+    {
+      "surface": "תמורתו",
+      "gloss": "njegova zamenjava"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יעלס",
+      "gloss": "veselil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:07.803964270Z",
+  "model": "glm-5.3"
+}

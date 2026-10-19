@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jih",
+      "rationale": "אֹתָם je tu osebni zaimek 'njih', ne označevalnik את z DERIVACIJO — slovenski 'jih'."
+    },
+    {
+      "kind": "crux",
+      "subject": "האלה",
+      "rationale": "KJV 'oak' (hrast) proti JPS 'terebint'; ohranjen terebint po dolžini (različne vrste dreves)."
+    }
+  ],
+  "translation": "In dali so Jaakovu ⟨את⟩ vse tuje bogove, ki so bili v njihovi roki, in ⟨את⟩ obročke, ki so v njihovih ušesih; in Jaakov ⟨את⟩ jih je skril pod terebint, ki je pri Šechemu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/35\/1-4.1792422710730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "In-so-dali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse tuje bogove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "v-njihovi-roki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in-⟨את⟩",
+      "marks": "obročke"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "obročke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "v-njihovih-ušesih"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "in-je-skril"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "tujе bogove in obročke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "terebintom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pri"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šechemu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:11:50.732075539Z",
+  "model": "glm-5.3"
+}

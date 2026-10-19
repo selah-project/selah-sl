@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ne ponovi predmeta pri אחיה; dodan nezavedni zaimku."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחיה",
+      "rationale": "1. oseba ednine kohortativa: 'jaz bom ohranil pri življenju' (Elohim govori) — ne 'naj živijo' kot čistiukaz."
+    }
+  ],
+  "translation": "Pusti svoje sirote — jaz jih bom obdržal pri življenju — in tvoje vdove name naj zaupajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0300278fb040b790c5ae0e3d3a6232a7f7179eb3e875e9634d854d197dce0cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/49\/9-12.1792431927389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "pusti"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "svoje sirote"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "bom obdržal pri življenju"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "in tvoje vdove"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "naj zaupajo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:45:27.390522354Z",
+  "model": "glm-5.3"
+}

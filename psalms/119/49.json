@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨svojemu⟩",
+      "rationale": "slovenščina potrebuje dajalnik z vezo, hebrejščina ima samo pripono -ך"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dal upanje",
+      "rationale": "יחלתני je dobesedno 'naredil, da čakam\/trdim' — povzročiteljski glagol upanja"
+    }
+  ],
+  "translation": "Spomni se besede ⟨svojemu⟩ služabniku, na katero si mi dal upanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/49-52.1792435515402.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Spomni se"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besede"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "⟨svojemu⟩ služabniku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "si mi dal upanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:15.403673235Z",
+  "model": "glm-5.3"
+}

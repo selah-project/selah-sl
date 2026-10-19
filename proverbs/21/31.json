@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima glagola 'biti' v sedanjiku; slovenščina ga zahteva."
+    },
+    {
+      "kind": "crux",
+      "subject": "התשועה",
+      "rationale": "'rešitev\/zmaga': prevodi se delijo med victory (KJV safety, ASV victory) in deliverance; hebrejsko je 'rešitev, iztrženje'."
+    }
+  ],
+  "translation": "Konj ⟨je⟩ pripravljen za dan boja, a pri Jahveju ⟨je⟩ rešitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "243034cdca2f0efe63be48014d3d8c29e9982e3f1e7a05bbc98fffff9eb9e825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/29-31.1792436043787.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "Konj"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "pripravljen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "boja"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "a pri Jahveju"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "rešitev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:03.787979058Z",
+  "model": "glm-5.3"
+}

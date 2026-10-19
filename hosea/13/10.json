@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "'Kje?' (večina) proti 'Jaz sem [tvoj kralj]' (Geneva, KJV robna) — vprašanje ali trditev."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol biti v vprašanju, hebrejščina ga izpušča."
+    },
+    {
+      "kind": "invitation",
+      "subject": "retorični vprašanji",
+      "rationale": "Dvoje vprašanj izzivata Izraela, da pogleda svojega kralja in sodnike."
+    }
+  ],
+  "translation": "Kje ⟨je⟩ zdaj tvoj kralj, da bi te rešil v vseh tvojih mestih, in tvoji sodniki, o katerih si rekel: Daj mi kralja in kneze?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/13\/9-12.1792433878213.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Kje"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "tvoj kralj"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "da bi te rešil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vseh"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tvojih mestih"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "in tvoji sodniki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o katerih"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "si rekel"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Daj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "in kneze"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:58.215133668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez veznika — slovenščina ga zahteva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמים\/שלמתי",
+      "rationale": "Igra besed: shelamim (daritve sprave) in šilti (izpolnila) iz istega korena š-l-m."
+    }
+  ],
+  "translation": "Žrtve shelamim ⟨so⟩ pri meni; danes sem izpolnila svoje zaobljube.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "923b0451f9b7c1218cfc070d4fa8bd0d2ebd13a24ce53b0c22dd2767c56714eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/7\/13-16.1792435879175.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pri meni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "izpolnila sem"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "zaobljube svoje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:19.175836884Z",
+  "model": "glm-5.3"
+}

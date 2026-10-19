@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogove",
+      "rationale": "אלהי הנכר so 'bogovi tujk' z malo — ne Elohim, ampak maliki narodov"
+    },
+    {
+      "kind": "crux",
+      "subject": "הסמל",
+      "rationale": "'podoba' (posamični kultni predmet, morda Ašera) — prevodi se razhajajo: idol \/ podoba \/ lik"
+    }
+  ],
+  "translation": "In odstranil je ⟨את⟩ tuje bogove in ⟨את⟩ podobo iz hiše Jahvejeve, in vse oltarje, ki jih je zidal na hribu hiše Jahvejeve in v Jerušalajim, in vrgel jih je ven iz mesta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/33\/13-16.1792438925721.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "odstranil je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuje bogove"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bogove"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tuje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "podobo"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "podobo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejeve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltarje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "je zidal"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hribu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejeve"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "in v Jerušalajim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "vrgel je"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ven"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "iz mesta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:05.728963560Z",
+  "model": "glm-5.3"
+}

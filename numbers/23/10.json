@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "prešteje prah \/ četrtino",
+      "rationale": "verz je štetje: prah Jaakova in četrtina Jisraela sta neštevnost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je grižljaj, dih, življenjska moč — ne »duša« v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "»četrtina« (eno od štirih plemen v taboru) ali »mnoštvo« (jps »stock«)"
+    }
+  ],
+  "translation": "Kdo prešteje prah Jaakova, ali šteje ⟨את⟩ četrtino Jisraela? Umri naj moja duša smrt pravičnih, in moj konec naj bo kakor njegov!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/23\/9-12.1792425292139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "prešteje"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ali šteje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "četrtino"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "četrtino"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "umri naj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pravičnih"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in naj bo"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "moj konec"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kakor njegov"
+    }
+  ],
+  "timestamp": "2026-10-19T15:54:52.139851215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "padle",
+      "rationale": "החללים dobesedno 'prebodeni'; נפלים 'padli' — ponovitev korena נפל kot pri Šaulovem padcu na meč."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפל",
+      "rationale": "פל גם הוא על החרב (v. 5) in נפלים בהר גלבע — isti koren 'past' veže celoto pripovedi."
+    }
+  ],
+  "translation": "In zgodilo se je naslednji dan, da so prišli Filistejci, da bi oropali ⟨את⟩ padle, in so našli ⟨את⟩ Šaula in ⟨את⟩ njegove sinove, padle na gori Gilboa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/10\/5-8.1792438192013.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "naslednji dan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "da so prišli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "da bi oropali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padle"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "padle"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "in so našli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegove sinove"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "padle"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:52.024064555Z",
+  "model": "glm-5.3"
+}

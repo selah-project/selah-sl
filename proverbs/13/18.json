@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "prizadeta",
+      "rationale": "Hebrew postavlja samostalnika preprosto ob deležnik; slovenščina potrebuje glagol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פורע",
+      "rationale": "dobesedno 'kdor popušča\/zapušča' (lasje razpuščeni); 'zavrača' je merjena zamenjava"
+    }
+  ],
+  "translation": "Revščina in sramota ⟨prizadeta⟩ tistega, ki zavrača poduk; kdor pa pazí na opomin, ⟨je⟩ spoštovan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/17-20.1792435945035.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "revščina"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "sramota"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "ki zavrača"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "poduk"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "kdor pazí"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "opomin"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "spoštovan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:25.036843689Z",
+  "model": "glm-5.3"
+}

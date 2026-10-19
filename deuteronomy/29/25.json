@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלק",
+      "rationale": "'dodeliti\/izžrebati' (JPS, YLT) proti preprostemu 'dati' (KJV); koren pomeni razdelitev po žrebu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהים",
+      "rationale": "tu 'bogovi' z malo — tuji bogovi, ne Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "hebrejščina ne imenuje subjekta za חלק; dodan oziralni zaimek."
+    }
+  ],
+  "translation": "In odšli so, služili drugim bogovom in se priklanjali njim — bogovom, ki jih niso poznali in ki jim jih ⟨ta⟩ ni dodelil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/29\/25-28.1792426290292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "in odšli so"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "služili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "in se priklanjali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "so jih poznali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "je dodelil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:11:30.292690304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "el",
+      "rationale": "אל 'k, proti, nad' — 'nad Jisraelom' ali 'k Jisraelu'; 'nad' ustreza bremenu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Malahija",
+      "gloss": "",
+      "rationale": "מלאכי pomeni 'moj poslanik' — ime ostaja ime."
+    }
+  ],
+  "translation": "Breme besede Jahvejeve nad Jisraelom ⟨skozi⟩ roko Malahija.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/1\/1-4.1792434464705.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Breme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨skozi⟩ roko"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malahija"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:44.706990906Z",
+  "model": "glm-5.3"
+}

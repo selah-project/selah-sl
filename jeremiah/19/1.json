@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 19:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vzemi⟩",
+      "rationale": "hebrejščina pri starešinah nima glagola; v318 prevodi dodajo 'take'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקבק",
+      "rationale": "onomatopoja — žuborenje praznjenja vrčka; v slovenščini zvok izgubljen"
+    }
+  ],
+  "translation": "Tako govori Jahve: Pojdi in kupi si vrček lončarjeve glinenine, in ⟨vzemi⟩ od starešin ljudstva in od starešin duhovnikov,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0bd1d2dd261149eddb6b17ccb915a36653cd9c456d447239f40227fc5e5cf90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/19\/1-4.1792431407637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Pojdi"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "in kupi si"
+    },
+    {
+      "surface": "בקבם",
+      "gloss": "vrček"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "lončarjeve"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "glinenine"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "in od starešin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "in od starešin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "duhovnikov"
+    }
+  ],
+  "timestamp": "2026-10-19T17:36:47.638517105Z",
+  "model": "glm-5.3"
+}

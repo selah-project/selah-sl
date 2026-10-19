@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ga",
+      "rationale": "hebrejščina ima samo pripadkovno končnico -נו na glagolu, slovenščina potrebuje dodan zaim"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "modrost žensk",
+      "rationale": "חכמות נשים: 'modrost žensk' (množina abstraktna) ali 'vsaka modra žena' kot v KJV"
+    }
+  ],
+  "translation": "Modrost žensk je zgradila ⟨את⟩ njen dom, in neumnost z njenimi rokami ga podira.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/1-4.1792435945055.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žensk"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "je zgradila"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "njen dom"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "in neumnost"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "z njenimi rokami"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ga podira"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:25.056014291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "med Elohim",
+      "rationale": "באלהים: 'med bogovi' (množina, kot v 2 Mz 15,11) ali 'med bogovi' kot zanikanje drugih; Elohim ostaja ime"
+    }
+  ],
+  "translation": "Ni takega kakor ti med Elohim, Adonaj, in ni del, kakršna so tvoja dela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/86\/5-8.1792435220876.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "takega kakor ti"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "med Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "del, kakršna so tvoja dela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:20.877968270Z",
+  "model": "glm-5.3"
+}

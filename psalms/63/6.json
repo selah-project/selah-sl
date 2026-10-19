@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "elision",
+      "subject": "פי",
+      "rationale": "hebrejščina postavlja 'usta' po 'ustnicah'; slovenščina potrebuje objekt hvaljenja — dodan ⟨Tvoje⟩ in glagol v 3. os. dv."
+    }
+  ],
+  "translation": "Kot z maščobo inoveliko se nasiti moja nefesh, in ustnice radosti hvalijo ⟨Tvoje⟩ ⟨neprenehoma⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/63\/5-8.1792434986060.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kot"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "z maščobo"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "in zoveliko"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se nasiti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesh"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "in ustnice"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "hvalijo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:26.062366620Z",
+  "model": "glm-5.3"
+}

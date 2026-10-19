@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "'prijatelj\/znanec' proti 'voditelj' (Geneva: prince); koren pomeni domačega, prisrčnega"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכסה\/מפריד",
+      "rationale": "prekrivanje proti ločevanju — nasprotje dveh pilov"
+    }
+  ],
+  "translation": "Kdor prekriva pregrešek, išče ljubezen, kdor pa ponavlja ⟨stvar⟩, ločuje prijatelja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/17\/9-12.1792435975919.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "prekriva"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pregrešek"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "išče"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ljubezen"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ponavlja"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "⟨stvar⟩"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "ločuje"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "prijatelja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:55.921212932Z",
+  "model": "glm-5.3"
+}

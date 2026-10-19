@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je stal",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mali",
+      "rationale": "ט׷ף je zbirno 'drog, majhni otroci', ne posamična beseda"
+    }
+  ],
+  "translation": "In ves Juda je stal pred Jahvejem, tudi njihovi mali, njihove žene in njihovi sinovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "589f661cfe68e88c2fcfaefea7a740517f587a3f8fab02248c4ba7baf5b9da1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/20\/13-16.1792438693185.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in ves"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stoja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "njihovi mali"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "njihove žene"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "in njihovi sinovi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:13.185997542Z",
+  "model": "glm-5.3"
+}

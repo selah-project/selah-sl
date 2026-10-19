@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "antimon",
+      "rationale": "פוך je svinec\/antimon za barvanje oči; 'pudrirala' bi bilo preveč moderno."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Hebrejščina ne ponovi predmeta glagola שמעה; slovenščina zahteva dopolnilo."
+    }
+  ],
+  "translation": "In prišel je Jehu v Jizreel; Izabela pa je slišala ⟨to⟩, si je z antimonom pobarvala oči, uredila je ⟨את⟩ svojo glavo in pogledala skozi okno.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/9\/29-32.1792429492947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "in prišel je"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "v Jizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "Izabela pa"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "je slišala"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "si je dala"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "antimon"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "na oči"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "in uredila je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo glavo"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "svojo glavo"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "in pogledala je"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "skozi"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "okno"
+    }
+  ],
+  "timestamp": "2026-10-19T17:04:52.947880526Z",
+  "model": "glm-5.3"
+}

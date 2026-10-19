@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 31:8",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "zaželeni oz. poklicalni naklon, ki hebrejščina izraža z obliko glagola"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצאצאי ישרשו",
+      "rationale": "'naj se izkoreninijo' ali 'naj se ukoreninijo' — שרש pomeni oboje; večina prevodov bere uničujoče (kletva), dobesedno pa je dvoumno"
+    }
+  ],
+  "translation": "naj sejem, in naj drugi je, in naj se moji potomci izkoreninijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "261fe6b7d806e813c43cc06aa5e06211f41b606622cf4a28a0bfb71044cf1664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/5-8.1792436636801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזרעה",
+      "gloss": "naj sejem"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "in drugi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "naj je"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "in moji potomci"
+    },
+    {
+      "surface": "ישרשו",
+      "gloss": "naj se izkoreninijo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:56.802973097Z",
+  "model": "glm-5.3"
+}

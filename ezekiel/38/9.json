@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 38:9",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותך",
+      "rationale": "aleph-tav z obstavljeno končnico (2. os.); v slovenščini postane predlog 's teboj'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשאה\/כענן",
+      "rationale": "dvojna podoba vihar-oblak, ki pokriva deželo"
+    }
+  ],
+  "translation": "In povzpel se boš, kakor vihar boš prišel, kakor oblak, da pokriješ deželo, ti in vsi tvoji četi in mnogi ljudstva s teboj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0637c87906e12778afb735afd14a3302adefe39b955bbd63f4062343ec700a68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/38\/9-12.1792433541449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלית",
+      "gloss": "In povzpel se boš"
+    },
+    {
+      "surface": "כשאה",
+      "gloss": "kakor vihar"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "boš prišel"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "kakor oblak"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "da pokriješ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsi"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "tvoji četi"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "in ljudstva"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "s teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:21.450565219Z",
+  "model": "glm-5.3"
+}

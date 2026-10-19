@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 18:8",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר",
+      "rationale": "dobesedno 'zažarilo je' — hebrejščina izraža jezo z gorenjem; 'zagrenil se je' ohranja koren."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועוד לו אך המלוכה",
+      "rationale": "dobesedno 'in še mu le kraljestvo' — 'še mu manjka samo kraljestvo' vs. 'kaj ima še razen kraljestva'."
+    }
+  ],
+  "translation": "In Šaul se je zelo zagrenil in ta beseda je bila huda v njegovih očeh, in rekel je: Dali so Davidu desettisoče, meni pa so dali tisoče — in še mu manjka samo kraljestvo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "820840fba9991ffd6206252921cb7c2d49af3ef3b8b7cdff731f01dd6072a652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/18\/5-8.1792427846371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "in se je zagrenil"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "in je bila huda"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v njegovih očeh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ta beseda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dali so"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "desettisoče"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "meni pa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "so dali"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tisoče"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "in še"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kraljestvo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:37:26.372533909Z",
+  "model": "glm-5.3"
+}

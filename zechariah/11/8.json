@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "trije pastirji",
+      "rationale": "Najbolj znana uganka Zaharije: kdo so trije pastirji (kralji, preroki, duhovniki, tuje sile)? Besedilo ne povede."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je grlo\/dih\/življenjska moč, ne immateriálna duša; 'navelaala se' za קצר 'postala kratka' — idiom potrpežljivosti."
+    }
+  ],
+  "translation": "In zatrl sem ⟨את⟩ tri pastirje v enem mesecu; moja duša se je navelaala njih, njihova duša pa se tudi gnusila mene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/11\/5-8.1792434434669.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "in zatrl sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tri pastirje"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastirje"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enem"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "se je navelaala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "njih"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihova duša"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "se gnusila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mene"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:14.674277696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "את",
+      "rationale": "tu je את predlog 'z', ne oznaka tožnika — zato brez oklepaja ⟨את⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "se je razširil",
+      "rationale": "hebrejščina pravi samo 'in bil je njegov slov po vsej deželi' — brez glagola gibanja"
+    }
+  ],
+  "translation": "In Jahve je bil ⟨את⟩ z Jehošuo, in glas o njem se je razširil po vsej deželi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "953882159b595cd7eb4aa20035f261a77f1e0130c071f4315cf700017f5d343b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/6\/26-27.1792433312866.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in je bil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ z"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in je bil"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "glas o njem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po vsej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:32.868245968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר יהוה היה אלי",
+      "rationale": "Dobesedno 'beseda Jahveja je bila k meni' — ustaljen formula za prejem razodetja."
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "gloss": "uvedbeni infinitiv 'rekoč' se v slovenščini podvoji z 'z besedo', zato gladek kot oznaka navedka"
+    }
+  ],
+  "translation": "In rekel sem jim: Beseda Jahveja je bila ⟨narejena⟩ ⟨k⟩ meni z besedo:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc6f31312c0e6752979957aedfed3c84f41dd2ca4675526e1df6112f9b15ced5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/24\/17-20.1792432450064.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "do mene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "z besedo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:54:10.065081643Z",
+  "model": "glm-5.3"
+}

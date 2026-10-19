@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tako naj stori Jahve meni in tako naj doda",
+      "rationale": "Zaobljubna formula s pogojem, ki ni izrečen (»če ne…«); dobesedno »tako stori… in tako doda«."
+    },
+    {
+      "kind": "you",
+      "subject": "Rut",
+      "rationale": "Neposreden nagovor Noemi — Rutina zaobljuba."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨le⟩",
+      "rationale": "Slovenščina potrebuje omejitveni člen, ki hebrejščina izpušča (»razen smrti«)."
+    }
+  ],
+  "translation": "Kjer boš umrla, bom umrla, in tam bom pokopana; tako naj stori Jahve meni in tako naj doda, kajti ⟨le⟩ smrt bo ločila med mano in med teboj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/1\/17-20.1792436952862.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Kjer"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "boš umrla"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "bom umrla"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "in tam"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "bom pokopana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "naj stori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "in tako"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "naj doda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "bo ločila"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "med mano"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "in med teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:12.863609541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 5:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "smrtnik",
+      "rationale": "אנוש je 'smrtnik', ne navadni 'človek' (adam\/iš)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vzgoja",
+      "rationale": "מוסר pomeni disciplino, opomin, vzgojo — ne kazni same"
+    },
+    {
+      "kind": "you",
+      "subject": "do bralca\/slušalca",
+      "rationale": "אל תמאס je negativni imperativ, neposreden nagovor"
+    }
+  ],
+  "translation": "Glej, kako srečen je smrtnik, ki ga Eloah pokara, in vzgojo Šadaja ne zaničuj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/17-20.1792436229033.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kako srečen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnik"
+    },
+    {
+      "surface": "יוכחנו",
+      "gloss": "pokara ga"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "in vzgojo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "zaničuj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:09.034499643Z",
+  "model": "glm-5.3"
+}

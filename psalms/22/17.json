@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kakor lev",
+      "rationale": "כארי masoretsko beremo 'kot lev' (JPS), LXX in večina prevodov pa kot כארו 'prebodli so' (KJV) — brez soglasja"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so pri⟩",
+      "rationale": "hebrejščina v tem stavku nima glagola; dodan za slovensko slovnico"
+    }
+  ],
+  "translation": "Ker obdali so me psi, zbor hudobnežev me je obkolil, kakor lev ⟨so pri⟩ mojih rokah in mojih nogah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/17-20.1792434644822.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "obdali so me"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zbor"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "hudobnežev"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "me je obkolil"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kakor lev"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mojih rokah"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "in mojih nogah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:44.822748512Z",
+  "model": "glm-5.3"
+}

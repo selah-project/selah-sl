@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obličje",
+      "rationale": "פנים pomeni 'obličje\/lice'; 'pred njegovim obličjem' je hebrejska zveza za 'v njegovi navzočnosti'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩ · ⟨njegovim⟩",
+      "rationale": "Slovenščina potrebuje povratni zaimek in pojasnilni pridevnik, hebrejščina ju nima."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "Vezanje navidezno zapovedno klicanje; vrstica je citat iz 4 Mz 10,35."
+    }
+  ],
+  "translation": "Vzdigni se, Elohim, razsuj ⟨se⟩ njegove sovražnike, in naj pobegnejo tisti, ki ga sovražijo, pred ⟨njegovim⟩ obličjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/1-4.1792435009007.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "vzdigni se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "razsuj"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "njegove sovražnike"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "in naj pobegnejo"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "tisti, ki ga sovražijo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pred ⟨njegovim⟩ obličjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:49.008987338Z",
+  "model": "glm-5.3"
+}

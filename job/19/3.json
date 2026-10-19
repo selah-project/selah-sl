@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 19:3",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "desetkrat",
+      "rationale": "Štetje 'desetkrat' velja za pregovorno 'znova in znova', a hebrejščina pove številko."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תהכרו",
+      "rationale": "Oblika תַּהְכְּרוּ (pulal הכר) se v Tanahu pojavi samo tu; pomen 'delati se tujega\/surovo ravnati' je izpeljan."
+    }
+  ],
+  "translation": "To desetkrat me posramujete, ni vam sram, da se mi delate tuje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "772b40919c30e9bed244a051291c604f7267bd8bf9a13ac44c6bc8834ba540d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/19\/1-4.1792436463435.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krat"
+    },
+    {
+      "surface": "תכלימוני",
+      "gloss": "me posramujete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "vam sram"
+    },
+    {
+      "surface": "תהכרו",
+      "gloss": "da se mi delate tuje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:03.437675155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "praznovali so",
+      "rationale": "ויעשו dobesedno 'naredili so' — praznik se 'naredi'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "po številu",
+      "rationale": "במספר — daritve določene po številu za vsak dan praznika (4 Mz 29)"
+    }
+  ],
+  "translation": "In praznovali so ⟨את⟩ praznik Sukot, kakor je zapisano, in žgalno daritev dneva na dan, po številu, po pravilu, vsak dan v svojem dnevu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/3\/1-4.1792437629250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "in praznovali so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praznik Sukot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "praznik"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kakor je zapisano"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "in žgalno daritev"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "po številu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "po pravilu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "v svojem dnevu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:29.254491863Z",
+  "model": "glm-5.3"
+}

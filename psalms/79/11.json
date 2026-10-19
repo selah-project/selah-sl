@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Neposreden nagovor Boga — prošnja za jetnike."
+    },
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "rationale": "Hofal od יתר: KJV 'ohrani' (iz 'presežek moči') vs YLT 'pusti\/odpusti'; dobesedno 'naj bodo odvežani\/prepuščeni'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vzdih",
+      "rationale": "אנקה je krik, stok; 'vzdih' je milejše."
+    }
+  ],
+  "translation": "Pridi predate vzdih jetnika; po velikosti svoje roke odveži sinove smrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/79\/9-12.1792435190363.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Pridi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "predate"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "vzdih"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "jetnika"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "po velikosti"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "odveži"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:50.365646252Z",
+  "model": "glm-5.3"
+}

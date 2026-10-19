@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨si⟩",
+      "rationale": "Hebrejščina ima li-('zame') z glagolom 'pričati'; slovenščina potrebuje poudarjen povratni dovzetnik."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dve imenovani priči",
+      "rationale": "Pravno-overjen seznam dveh poimenskih prič — štetje prič je dejanje zapečatenja napisa."
+    }
+  ],
+  "translation": "In presenetim ⟨si⟩ zanesljive priče: ⟨את⟩ Urijo, duhovnika, in ⟨את⟩ Zekarjaha, sina Jeverekjahujevega.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/8\/1-4.1792430030902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "In presenetim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "priče"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "zanesljive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijo, duhovnika"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "Zekarjaha, sina Jeverekjahujevega"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeverekjahujevega"
+    }
+  ],
+  "timestamp": "2026-10-19T17:13:50.903291886Z",
+  "model": "glm-5.3"
+}

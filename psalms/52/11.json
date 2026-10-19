@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩ · ⟨bom⟩ · ⟨je⟩",
+      "rationale": "slovenščina zahteva predmet in pomožni glagol, hebrejščina jih izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zvesti",
+      "rationale": "חסיד iz korena חסד — 'tvoji hesed-ljudje', 'zvesti' je najbližje eni besedi"
+    }
+  ],
+  "translation": "Hvalil te bom na veke, kajti ti si ⟨to⟩ storil; in čakal ⟨bom⟩ na tvoje ime, kajti ⟨je⟩ dobro pred tvojimi zvestimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/52\/9-11.1792434903387.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hvalil te bom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "in čakal"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "na tvoje ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "tvojimi zvestimi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:03.389355471Z",
+  "model": "glm-5.3"
+}

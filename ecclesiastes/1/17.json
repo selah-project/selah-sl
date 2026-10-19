@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעיון רוח",
+      "rationale": "dobesedno 'teženje\/streglovanje vetra'; prevod 'teženje za vetrom' ohranja sliko"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעיון",
+      "rationale": "izpeljanka od רעה (pasti); 'nagiba, teženje' proti 'mučenje' (KJV 'vexation')"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez glagola pri הוא, slovenščina zahteva kopulo"
+    }
+  ],
+  "translation": "In posvetil sem svoje srce, da spoznam modrost, in spoznam norežavost in nespamet; spoznal sem, da je tudi to ⟨ra’jon⟩ ruah — teženje za vetrom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/1\/17-18.1792437050291.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "in posvetil sem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svoje srce"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da spoznam"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "in spoznam"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "norežavost"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "in nespamet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "spoznal sem"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "da tudi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "teženje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:50.292265267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 3:33",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so · ⟨traja⟩",
+      "rationale": "Aramejščina izpušča glagol biti in glagol trajanja; slovenščina ga potrebuje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "znamenja in čudeži",
+      "rationale": "אתווהי in תמהוהí sta aramejski besedi za 'znamenje\/čudež'; obdržani kot dve besedi, kakor sta v izvirniku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רברבין \/ תקיפין",
+      "rationale": "Paralelizem dveh aramejskih pridevkov za velikost in moč v simetričnih stavkih."
+    }
+  ],
+  "translation": "Njegova znamenja — kako velika so, in njegova čudeži — kako močni so! Njegovo kraljestvo je kraljestvo večno in njegova oblast ⟨traja⟩ od roda do roda.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f77d8a591a7fe70843da7d2b6adb1b5bbaacf5038a22fa1d7be9ad7a799029dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/3\/33-33.1792437378371.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתוהי",
+      "gloss": "znamenja"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kako velika"
+    },
+    {
+      "surface": "רברבין",
+      "gloss": "so"
+    },
+    {
+      "surface": "ותמהוהי",
+      "gloss": "in njegova čudeži"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kako močni"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "so"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "njegovo kraljestvo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kraljestvo"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "in njegova oblast"
+    },
+    {
+      "surface": "עם",
+      "gloss": "od"
+    },
+    {
+      "surface": "דר",
+      "gloss": "roda"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "do roda"
+    }
+  ],
+  "timestamp": "2026-10-19T19:16:18.372794947Z",
+  "model": "glm-5.3"
+}

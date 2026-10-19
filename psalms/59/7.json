@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lajajo",
+      "rationale": "יהמו je hrumeti\/brneti; 'lajajo kot pes' je zaokrožena slika."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב\/עיר",
+      "rationale": "bliznost ערב 'mrak' in עיר 'mesto' – zvočna vez večerne scene."
+    }
+  ],
+  "translation": "Vračajo se ob mraku, lajajo kakor pes in krogijo mesto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/5-8.1792434966822.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Vračajo se"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ob mraku"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "lajajo"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "kakor pes"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "in krogijo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:06.824070485Z",
+  "model": "glm-5.3"
+}

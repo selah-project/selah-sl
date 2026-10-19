@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moči",
+      "rationale": "איל je 'moč', a tudi 'oven'; KJV 'strength', JPS 'help' — prenesena raba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר\/אין איל",
+      "rationale": "mož vitez nasproti brez moči; גבר in איל sta oba lahko 'jak mož\/oven', protislovje je v hebrejščini ostrejše"
+    }
+  ],
+  "translation": "Štet sem med tiste, ki silijo v jamo, postal sem kakor mož, ki nima moči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4986458f8f31a4cb2e7082312e24ed0960421b2a4032994f54e840e23fe000d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/88\/5-8.1792435228396.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "štet sem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ki silijo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "v jamo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "postal sem"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "kakor mož"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "איל",
+      "gloss": "moči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:28.397718456Z",
+  "model": "glm-5.3"
+}

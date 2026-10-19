@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 6:17",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "štetje žrtv",
+      "rationale": "Verz našteva žrtve s števili; dvanajst kozlov po številu dvanajstih rodov Jisraela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rodov",
+      "rationale": "Aramejsko שבטי pomeni 'plemen\/rodov'; izbrano 'rodov' v tanahski meri."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨te⟩",
+      "gloss_missing": false,
+      "rationale": "Aramejska kazalnica דנה ('ta') je v slovenščini izražena s prislovnim zaimkom, ki ga besedni red zahteva."
+    }
+  ],
+  "translation": "In darovali so ob posvetitvi ⟨te⟩ hiše Elohim: sto volov, dvesto ovnov, štiristo jagnjet, in dvanajst kozlov za grešno daritev za vsega Jisraela, po številu rodov Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/6\/17-20.1792437665978.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבו",
+      "gloss": "In darovali so"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "ob posvetitvi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "תורין",
+      "gloss": "volov"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "דכרין",
+      "gloss": "ovnov"
+    },
+    {
+      "surface": "מאתין",
+      "gloss": "dvesto"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "jagnjet"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "štiristo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "(po)sto"
+    },
+    {
+      "surface": "וצפירי",
+      "gloss": "in kozlov"
+    },
+    {
+      "surface": "עזין",
+      "gloss": "(kozlji)"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "za grešno daritev"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "dvanajst (dve)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(in) deset"
+    },
+    {
+      "surface": "למנין",
+      "gloss": "po številu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "rodov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:05.980611392Z",
+  "model": "glm-5.3"
+}

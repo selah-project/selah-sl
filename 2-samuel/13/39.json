@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותכל",
+      "rationale": "kraljice se delijo: »nehalo je hrepeneti« (KJV\/JPS longed\/failed) nasproti »končalo z hrepenenjem« — glagol כלה pomeni prenehati\/izčrpati se, torej Davidova želja po odhodu k Avšalomu se je ustavila."
+    },
+    {
+      "kind": "substitution",
+      "subject": "srce",
+      "rationale": "hebrejščina ne omenja duše ne srca — ותכל דוד je dobesedno »in Davidu je prenehalo\/izčrpalo se je«, brez subjekta."
+    },
+    {
+      "kind": "addition",
+      "subject": "bil",
+      "rationale": "הmretnik מת je deležniško »mrtev«; slovenščina potrebuje »je bil mrtev«."
+    }
+  ],
+  "translation": "In kralj Davidu je nehalo ⟨srce⟩ iti k Avšalomu, ker se je potolažil glede Amnona, ker je ⟨bil⟩ mrtev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7dd3ae543bb73036c7238b50354f8a8565df4db1fe51614c2d09091155da0dfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/13\/37-39.1792428325979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "je nehalo \/ se je izčrpalo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "se je potolažil"
+    },
+    {
+      "surface": "על",
+      "gloss": "glede"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtev"
+    }
+  ],
+  "timestamp": "2026-10-19T16:45:25.980943528Z",
+  "model": "glm-5.3"
+}

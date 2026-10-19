@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pravični",
+      "rationale": "Hebrejščina doda predmet (pravični) izz konteksta prejšnjega verza."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צעקו\/שמע",
+      "rationale": "Zaporedje zakrika in uslišanja tvori akrostišno vez."
+    }
+  ],
+  "translation": "Zaklicali so in Jahve je uslišal, iz vseh njihovih stisk jih je rešil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/17-20.1792434733275.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "zaklicali so"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "je uslišal"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "iz vseh"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "njihovih stisk"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "jih je rešil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:13.276940070Z",
+  "model": "glm-5.3"
+}

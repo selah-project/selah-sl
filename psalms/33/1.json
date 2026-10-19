@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina brez veznika, slovenščina ga zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedekovi",
+      "rationale": "צדיקים dobesedno 'pravični'; cedek ohranja koren besede po D2"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kličite",
+      "rationale": "vers začne z vzkliknim imperativom, ogovarja skupino pravičnih"
+    }
+  ],
+  "translation": "Kličite od radosti, cedekovi, v Jahveju; ravnim ⟨je⟩ primerna hvala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/1-4.1792434715029.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "kličite od radosti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedekovi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ravnim"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "primerna"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "hvala"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:55.030891783Z",
+  "model": "glm-5.3"
+}

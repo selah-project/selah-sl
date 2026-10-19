@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "je pastil",
+      "rationale": "שמר pomeni 'varovati, pasti' — 'pastil' ovc; YLT dobesedno 'je varoval'"
+    },
+    {
+      "kind": "crux",
+      "subject": "polje Arama",
+      "rationale": "שדה ארם: 'polje Arama' (ASV\/JPS) proti tradicionalni 'deželi Sirije' (KJV)"
+    }
+  ],
+  "translation": "In Jaakov je pobegnil na polje Arama, Jisrael pa je služil za ženo, in za ženo je pastil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/12\/13-15.1792433861420.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "in pobegnil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "polje"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "in služil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "za ženo"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "in za ženo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "je pastil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:41.421712170Z",
+  "model": "glm-5.3"
+}

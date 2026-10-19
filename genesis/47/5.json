@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitivni »govoreč« v slovenščini podvaja glagol rekanja"
+    }
+  ],
+  "translation": "In Paroh je rekel Jôsefu: Tvoj oče in tvoji bratje so prišli k tebi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "de91aa49e0887abd0345def5187086bef1cf4696be0404be5e348d1a1f070434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/47\/5-8.1792422972924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jôsefu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvoj oče"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "in tvoji bratje"
+    },
+    {
+      "surface": "באו",
+      "gloss": "so prišli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:16:12.924994413Z",
+  "model": "glm-5.3"
+}

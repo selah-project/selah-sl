@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 37:2",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "po roki",
+      "rationale": "hebrejski דבר ביד 'govoriti po roki' pomeni govoriti po posredniku; dobesedna slika roke je ohranjena"
+    },
+    {
+      "kind": "addition",
+      "subject": "ne ... ne ... ne",
+      "rationale": "hebrejščina ima en sam לא, slovenščina ponovi nikalnik pri vsakem členu"
+    }
+  ],
+  "translation": "In ni poslušal ne on ne njegovi služabniki ne ljudstvo dežele besed Jahve, ki jih je govoril po roki preroka Jeremija.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "90cd1fd9f263e60f20249b8fa04b94d8874537a741556ceab9eaa12ef9720f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/37\/1-4.1792431727852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ne njegovi služabniki"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ne ljudstvo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jih je govoril"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "po roki"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremija"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "preroka"
+    }
+  ],
+  "timestamp": "2026-10-19T17:42:07.853223915Z",
+  "model": "glm-5.3"
+}

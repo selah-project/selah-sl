@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "postane",
+      "rationale": "ויהי je poudarjen glagol »in bilo je«, ne sama kopula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרמש",
+      "rationale": "רמש pomeni plaziti se; živali gozda so tu »kar plazi« — skupaj s חיתו gozdna zver"
+    }
+  ],
+  "translation": "Dáš temo in ⟨postane⟩ noč; v njej plazi se vsak gozdni plazilec-zver.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/17-20.1792435337305.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Dáš"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "temo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in ⟨postane⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noč"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "plazi se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zver"
+    },
+    {
+      "surface": "יער",
+      "gloss": "gozdni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:17.307777658Z",
+  "model": "glm-5.3"
+}

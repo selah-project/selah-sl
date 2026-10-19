@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "upali",
+      "rationale": "בטח je 'zaveti se, zaupati' — 'upali' je ožji pomen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "ponovljeni 'kajer' gradi vzporedje vzroka in učinka"
+    }
+  ],
+  "translation": "Kajer v njem se veseli naše srce, kajer v ime njegove svetosti smo upali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/21-22.1792434728264.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se veseli"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "naše srce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v ime"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegove svetosti"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "smo upali"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:08.265322118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 48:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrew preposition before נבו with no clean Slovenian equivalent; rendered by the vocative 'Nevu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "המשגב",
+      "rationale": "'Mišgab' may be a proper name (KJV, JPS) or common noun 'the stronghold\/height' (BSB); kept as name with supplied 'trdnjava'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבישה … הבישה",
+      "rationale": "Triple repetition of 'put to shame' plus feminine passive endings (שדדה, נלכדה) — drumbeat of catastrophe, partially lost in Slovenian."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moab",
+      "rationale": "Prophetic address against Moab opened by the oracle formula."
+    }
+  ],
+  "translation": "O Moabu tako govori Jahve Cebaot, Elohim Jisraela: Gorje Nevu, kajti opustošena je, zavedena je, zavzeta je Kirjatajim; zavedena je ⟨trdnjava⟩ Mišgab in porušena.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5f9c341a5ad998c4d6871377d8673034605bffac4db1b2a234eb124f4478a53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/48\/1-4.1792431862699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למואב",
+      "gloss": "O Moabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "gorje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "opustošena je"
+    },
+    {
+      "surface": "הבישה",
+      "gloss": "zavedena je"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "zavzeta je"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjatajim"
+    },
+    {
+      "surface": "הבישה",
+      "gloss": "zavedena je"
+    },
+    {
+      "surface": "המשגב",
+      "gloss": "Mišgab"
+    },
+    {
+      "surface": "וחתה",
+      "gloss": "in porušena"
+    }
+  ],
+  "timestamp": "2026-10-19T17:44:22.700462619Z",
+  "model": "glm-5.3"
+}

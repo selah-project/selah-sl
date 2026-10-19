@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותמלא ... ותמלא",
+      "rationale": "Ponovitev 'napolnjena je bila njegova dežela' — vzporedni stih srebro\/konji gradi podvajanje."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "Hebrejščina ima samo glagolsko besedilo brez pomožnega glagola; slovenščina zahteva 'je bila'."
+    }
+  ],
+  "translation": "In napolnjena je bila njegova dežela s srebrom in zlatom, in ni konca njegovim zakladom; in napolnjena je bila njegova dežela s konji, in ni konca njegovim vozovom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "85fde5a37a8d74778913c099a1e4084c38d03e287e781189f57011cdddf45c56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/2\/5-8.1792429890283.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "in napolnjena je bila"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "njegova dežela"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "s srebrom"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "in z zlatom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "konca"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "njegovim zakladom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "in napolnjena je bila"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "njegova dežela"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "s konji"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "konca"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "njegovim vozovom"
+    }
+  ],
+  "timestamp": "2026-10-19T17:11:30.284060219Z",
+  "model": "glm-5.3"
+}

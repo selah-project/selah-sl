@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 28:27",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "je zaspal s svojimi očetovi",
+      "rationale": "וישכב עם אבתיux — evfemizem za smrt; dobesedno 'lezl je s svojimi očetovi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'kajer\/ker' (vzrok) proti 'ampak' (KJV: but); kontekst dopušča oboje."
+    }
+  ],
+  "translation": "In Ahaz je zaspal s svojimi očetovi in pokopali so ga v mestu, v Jerušalajimu, kajer ga niso prinesli v grobove kraljev Jisraela; in vladal je Jehizkijahu, njegov sin, namesto njega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/28\/25-27.1792438792998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "in je zaspal"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svojimi očetovi"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "in pokopali so ga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הביאהו",
+      "gloss": "so ga prinesli"
+    },
+    {
+      "surface": "לקברי",
+      "gloss": "v grobove"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in vladal je"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jehizkijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:52.999939777Z",
+  "model": "glm-5.3"
+}

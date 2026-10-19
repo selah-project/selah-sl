@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Halelu-Jah",
+      "rationale": "הללו יה je imperativ 'hvalite Jaha!', ohranjen kot zvočna oblika."
+    },
+    {
+      "kind": "you",
+      "subject": "Sionu",
+      "rationale": "Verz se neposredno obrača na Sion kot ogovor."
+    }
+  ],
+  "translation": "Jahve kraljuje na veke, ⟨tvoj⟩ Elohim, Sion, od rodu do rodu. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/146\/9-10.1792435769927.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "kraljuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "od rodu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "do rodu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:29.928884990Z",
+  "model": "glm-5.3"
+}

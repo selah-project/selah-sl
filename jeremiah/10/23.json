@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v lasti⟩ · ⟨da sam⟩",
+      "rationale": "hebrejščina ima samo ḵī lo — 'da ne' — slovenščina potrebuje glagolsko dopolnitev."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Jeremija se neposredno obrača na Jahveja — začetek osebne prošnje (v. 24)."
+    }
+  ],
+  "translation": "Znam, Jahve, da ni človeku ⟨v lasti⟩ njegova pot; ni v moči možu, ki hodi, ⟨da sam⟩ usmeri ⟨את⟩ svoj korak.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/10\/21-24.1792431199182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Znam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "človeku"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njegova pot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "v moči možu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ki hodi"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "usmeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj korak"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "svoj korak"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:19.182991452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrejščina brez pomožnika pri pretekliku"
+    },
+    {
+      "kind": "alternative",
+      "subject": "njihovo poznejšo usodo",
+      "rationale": "לאחריתם dobesedno 'njihov konec\/konec-stvari'; 'usoda' je mehkejša izbira"
+    }
+  ],
+  "translation": "Dokler nisem prišel v svetišča El, ⟨sem⟩ doumel njihovo poznejšo usodo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/17-20.1792435035227.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nisem prišel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svetišča"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "⟨sem⟩ doumel"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "njihovo poznejšo usodo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:15.228736697Z",
+  "model": "glm-5.3"
+}

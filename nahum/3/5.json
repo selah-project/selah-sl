@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 3:5",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "Hebrejščina izpušča glagol biti; הנני je 'glej, jaz'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מערך",
+      "rationale": "dobesedno 'sramotni predel\/golo mesto' — para הֶמְיָן z קלונך 'sramota'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ninive (harlotka iz v. 4)",
+      "rationale": "neposreden naslov sopostavljenega mesta"
+    }
+  ],
+  "translation": "Glej, jaz ⟨sem⟩ zoper tebe, govori Jahve Cebaot, in razgrnil bom tvoje krila nad tvojim obrazom, in pokazal bom narodom tvojo goloto in kraljestvom tvojo sramoto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6176f93705001e8f1b3bb52693a290632d059bea6e2fbfd0bf3dafa0b2f1cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/3\/5-8.1792434232769.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "glej, jaz"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zoper tebe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "in razgrnil bom"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "tvoja krila"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvojim obrazom"
+    },
+    {
+      "surface": "והראיתי",
+      "gloss": "in pokazal bom"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "מערך",
+      "gloss": "tvojo goloto"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "in kraljestvom"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "tvojo sramoto"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:52.770784785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי ... אשרי",
+      "rationale": "dvojni uklic 'srečno ljudstvo' oklepa pesem in povzame blagostanje iz vrstic 12–14."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva veznik, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "שככה",
+      "rationale": "'tako kot to' — namiguje nazaj na sliko blagostanja v 12–14 ali naprej na Jahveja kot Elohima ljudstva."
+    }
+  ],
+  "translation": "Srečno ⟨je⟩ ljudstvo, da je tako ⟨z njim⟩; srečno ⟨je⟩ ljudstvo, čigar Elohim ⟨je⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/13-15.1792435710258.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "srečno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "da je tako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨z njim⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "srečno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "njegov Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:30.259818857Z",
+  "model": "glm-5.3"
+}

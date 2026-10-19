@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "slovenščina potrebuje pomožnik ›bo‹ za prihodnjik; hebrejščina ga nima."
+    }
+  ],
+  "translation": "In Jahve bo oddaljil ⟨את⟩ človeka in veliko bo opuščenega sredi dežele.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "48720a390975b23cffd8fc849c04868a2640718ab1736938bb0448d91022a378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/6\/10-12.1792433408665.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "In bo oddaljil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "človeka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "in veliko"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "opuščenega"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:08.671165838Z",
+  "model": "glm-5.3"
+}

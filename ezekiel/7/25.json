@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "groza",
+      "rationale": "קפדה je 'skrčenost', torej strah\/groza; JPS 'horror', KJV 'destruction'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קפדה",
+      "rationale": "Beseda se v Tanahu pojavi samo tukaj."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובקשו ... ואין",
+      "rationale": "Iskanje šaloma se izprazni v 'in ni ga' — predelni prizvok slovenščine nosi del učinka."
+    }
+  ],
+  "translation": "Groza prihaja, in iskali bodo šalom, pa ga ni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b70c1e96c66ef85364a2dab8a9a965d5d32225143d0a0838eaa387fb0aa2fa8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/7\/25-27.1792432066254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "groza"
+    },
+    {
+      "surface": "בא",
+      "gloss": "prihaja"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "in iskali bodo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pa ga ni"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:46.255058964Z",
+  "model": "glm-5.3"
+}

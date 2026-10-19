@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תערג\/תערג",
+      "rationale": "ponovitev glagola 'hrepeneti' v primeri — vzporedje jelen\/nefes"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimu",
+      "rationale": "neposreden ogovor Boga na koncu verza"
+    }
+  ],
+  "translation": "Kakor jelen zaživi hrepeneti po potočkih vode, tako moja nefes hrepeni k tebi, Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/42\/1-4.1792434830098.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "kakor jelen"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "hrepeneti"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "potočkih"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "hrepeni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:50.100125955Z",
+  "model": "glm-5.3"
+}

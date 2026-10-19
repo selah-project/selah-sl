@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pripada⟩",
+      "rationale": "Hebrejščina ima samo 'Tebi roka z močjo' — slovenščina potrebuje glagol biti oz. pripadati."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרוע\/גבורה\/עז\/יד\/ימין",
+      "rationale": "Niz telesnih podob moči — roka, moč, desnica — zgradi podobo kralja-bojevnika."
+    }
+  ],
+  "translation": "Tebi ⟨pripada⟩ roka z močjo, močna je Tvoja roka, povzdignjena je Tvoja desnica.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/13-16.1792435253826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "roka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "močjo"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "močna ⟨je⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Tvoja roka"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "povzdignjena"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Tvoja desnica"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:53.828493126Z",
+  "model": "glm-5.3"
+}

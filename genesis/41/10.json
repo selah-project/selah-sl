@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הטבחים",
+      "rationale": "dobesedno 'klavci\/mesarji'; različice: 'telesna straža' (KJV\/JPS) proti dobesednemu 'krvniki'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתי ... אתי",
+      "rationale": "ponovitev poudarja 'mene' — poudarek, ki ga ponovitev v slovenščini delno nosi"
+    }
+  ],
+  "translation": "Paroh se je razjezil nad svojimi sužnji in me dal v pripor, v hišo poglavarja krvnikov, ⟨את⟩ mene in ⟨את⟩ poglavarja pekov.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/9-12.1792422758838.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "se je razjezil"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svojimi sužnji"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "v pripor"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "v pripor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "poglavarja"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "krvnikov"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mene",
+      "marks": "poglavarja pekov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "poglavarja pekov"
+    },
+    {
+      "surface": "שר",
+      "gloss": "poglavarja"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pekov"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:38.839062509Z",
+  "model": "glm-5.3"
+}

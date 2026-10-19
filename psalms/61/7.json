@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dni in leta",
+      "rationale": "verz šteje podaljšanje kraljevega življenja v dnevih, letih in rodovih"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימים על ימי",
+      "rationale": "ponovitev 'dni na dneve' poudarja naraščanje, v slovenščini z 'k'"
+    }
+  ],
+  "translation": "Dni k dnevom kralja dodaš, njegovih let kakor rod in rod.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/61\/5-8.1792434920552.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Dni"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnevom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "dodaš"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "njegovih let"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "דר",
+      "gloss": "rod"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "in rod"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:20.554769764Z",
+  "model": "glm-5.3"
+}

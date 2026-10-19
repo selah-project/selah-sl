@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina v tem stavku nima glagola biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pred",
+      "rationale": "לפני dobesedno »pred obličjem« — hebrejska zveza za »pred\/pred obrazom«."
+    }
+  ],
+  "translation": "In to ⟨je⟩ Tora, katero je Moše postavil pred obličjem sinov Jisraela.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "251c7d077da2b156b9eb09ca4dda43304b15c3959a298c1cc28569016d02b358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/4\/41-44.1792425732338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "in to"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "שם",
+      "gloss": "je postavil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T16:02:12.339879781Z",
+  "model": "glm-5.3"
+}

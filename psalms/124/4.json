@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dihanje, življenjska moč', ne nesnovna duša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "pogoltnili\/preplavile",
+      "rationale": "slika požiranja (v. 3) se nadaljuje v sliko poplave — ena metafora sovražnikov kot požrešnega voda"
+    }
+  ],
+  "translation": "takrat bi nas vode preplavile, hudournik bi šel čez našo dušo,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/124\/1-4.1792435545167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "takrat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "bi nas preplavile"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "hudournik"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bi šel čez"
+    },
+    {
+      "surface": "על",
+      "gloss": "čez"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "našo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:45.169553200Z",
+  "model": "glm-5.3"
+}

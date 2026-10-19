@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 35:22",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "z",
+      "rationale": "Slovenščina potrebuje predlog 'z'; hebrejščina ima samo glagol 'ležal'."
+    },
+    {
+      "kind": "elision",
+      "subject": "וישמע ישראל",
+      "rationale": "Hebrejščina ne pove, kaj je Jisrael slišal niti kaj je storil; besedilo molči — prevod ne dodaja."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvanajst sinov",
+      "rationale": "Seštevanje Jakobovih sinov — število pove, kar pove hebrejščina."
+    }
+  ],
+  "translation": "In zgodilo se je, ko je Jisrael prebival v tej deželi, da je šel Ruben in ležal je z ⟨את⟩ Bilho, priležnico svojega očeta; in Jisrael je slišal. In sinovi Jaakova so bili ⟨dvanajst⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1db5d6684b46e938303ab2c44582b53177b615d453aaa31f2c14a2fe11b121de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/35\/21-24.1792422652095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "בשכן",
+      "gloss": "ko je prebival"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tej"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "da je šel"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "in ležal je z"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilho"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "priležnico"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "in slišal je"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "in so bili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvanajst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanajst"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:52.096790949Z",
+  "model": "glm-5.3"
+}

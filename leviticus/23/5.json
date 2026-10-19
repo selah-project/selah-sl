@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew is verbless nominal clause; Slovene copula supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "med večeri",
+      "rationale": "בין הערבים: 'between the evenings' — dusk vs afternoon (rabbinic\/Persian dispute)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "Fixes the Passover by month, day and time"
+    }
+  ],
+  "translation": "V prvem mesecu, štirinajstega dne v mesecu, med večeri ⟨je⟩ pasha za Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/23\/5-8.1792424461679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvem"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "štirinajstega"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-najst"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večeri"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pasha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:41:01.680620655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meja",
+      "rationale": "גבול je dobesedno vrv (zvita), od tod meja — slika izgubljena v slovenščini"
+    },
+    {
+      "kind": "elision",
+      "subject": "בל … בל",
+      "rationale": "dvojni 'ne' (arameizem בל) v slovenščini združen v 'da ne … da se ne'"
+    }
+  ],
+  "translation": "Mejo si postavil, da ⟨je⟩ ne preidejo, da se ne vrnejo pokriti ⟨את⟩ zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/9-12.1792435333970.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "mejo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "si postavil"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "preidejo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "da se ne"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "vrnejo"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "pokriti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:13.970993162Z",
+  "model": "glm-5.3"
+}

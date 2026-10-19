@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "hebrejščina ima pripadnik -ה brez izrečenega samostalnika; mesto je namig iz konteksta"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbeni oznaki za pavzo ni slovenskega ekvivalenta; ostaja kot Sela"
+    }
+  ],
+  "translation": "Kakor smo slišali, tako smo videli v mestu Jahveja Cebaot, v mestu našega Elohima — Elohim ⟨jo⟩ bo utrdil do vekomaj. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7520bed6636c57f2bb25c0bab25bf7f36d6f75cd794f2c7a01afa28da7b3a100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/48\/9-12.1792434858510.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "smo slišali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "smo videli"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našega Elohima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "bo utrdil ⟨jo⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:18.511056176Z",
+  "model": "glm-5.3"
+}

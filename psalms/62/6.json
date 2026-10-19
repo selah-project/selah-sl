@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hosta",
+      "rationale": "תקוה dobesedno 'vrv', figurativno 'pričakovanje'; hosta je slovenska pomurska beseda za upanje\/pričakovanje"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩ ⟨je⟩",
+      "rationale": "hebrejščina brez glagola — slovenščina zahteva strukturo"
+    },
+    {
+      "kind": "crux",
+      "subject": "דומי",
+      "rationale": "'molčati\/brez besed' (KJV: wait upon) ali 'biti tiho\/mirno počivati' (JPS: wait in stillness)"
+    }
+  ],
+  "translation": "Samo v Elohim ⟨naj⟩ ⟨je⟩ tišina moje duše ⟨nefeš⟩, kajti od njega ⟨je⟩ moja hosta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/5-8.1792435000378.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "tišina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moje duše ⟨nefeš⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "moja hosta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:40.380929392Z",
+  "model": "glm-5.3"
+}

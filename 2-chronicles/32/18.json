@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 32:18",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "slovenščina potrebuje glagol pri odvisnem stavku, hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "judovski jezik",
+      "rationale": "יהודית je pregovorno 'v judovščini' — jezik Juda, pozneje imenovan hebrejščina."
+    }
+  ],
+  "translation": "In klicali so z velikim glasom v judovskem jeziku na ljudstvo Jerušalajima, ki je bilo na obzidju, da bi jih prestrašili in vznemirili, da bi zavzeli ⟨את⟩ mesto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3049310cac680738e17ecd2f20f8c13c35958f4b8e342debfa32e3f8aaa621cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/32\/17-20.1792438915601.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "in klicali so"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "z glasom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikim"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "v judovskem jeziku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "je bilo na"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "obzidju"
+    },
+    {
+      "surface": "ליראם",
+      "gloss": "da bi jih prestrašili"
+    },
+    {
+      "surface": "ולבהלם",
+      "gloss": "in vznemirili"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "zavzeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:55.603835422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 2:8",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והצב גלתה העלתה",
+      "rationale": "KJV 'Huzab (kraljica) odpeljana' bere גולתה kot ime; ASV\/JPS 'odločeno je: razgaljena je' — ena beseda, dve povsem različni sliki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "po svojih srcih",
+      "rationale": "לבבהט dobesedno 'srcih', ne 'prsih'; bobnanje po srcih je slikovito, ne anatomsko"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "hebrejščina pušča predmet מנהגות implicitnega; slovenščina ga potrebuje"
+    }
+  ],
+  "translation": "In odločeno ⟨je⟩: razgaljena ⟨je⟩, odvedena ⟨je⟩, in njena dekla vodijo ⟨jo⟩ kakor glas golobic, bobnjajo po svojih srcih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/2\/5-8.1792434209081.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצב",
+      "gloss": "in odločeno"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "razgaljena"
+    },
+    {
+      "surface": "העלתה",
+      "gloss": "odvedena"
+    },
+    {
+      "surface": "ואמהתיה",
+      "gloss": "in njena dekla"
+    },
+    {
+      "surface": "מנהגות",
+      "gloss": "vodijo"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kakor glas"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "golobic"
+    },
+    {
+      "surface": "מתפפת",
+      "gloss": "bobnjajo"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "לבבהן",
+      "gloss": "svojih srcih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:29.083472571Z",
+  "model": "glm-5.3"
+}

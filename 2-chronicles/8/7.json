@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bili⟩",
+      "rationale": "Hebrejščina ne ima glagola 'biti' — poudarjeno המה ('oni') zapre stavek."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנותר",
+      "rationale": "Istemu glagolu 'ostati' se vrne v 8,6 (נותרו) — niz 'ostankov' ljudstev."
+    }
+  ],
+  "translation": "Vse ljudstvo, ki je ostalo od Hetitov in Emorjcev in Perizijcev in Hivijcev in Jebusijcev, ki niso ⟨bili⟩ iz Jisraela, ⟨to so oni⟩ —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/8\/5-8.1792438504559.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "ki je ostalo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetitov"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "in Emorjcev"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "in Perizijcev"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "in Hivijcev"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "in Jebusijcev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iz Jisraela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:35:04.563617875Z",
+  "model": "glm-5.3"
+}

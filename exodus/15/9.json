@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "addition",
+      "subject": "z njimi \/ jih",
+      "rationale": "hebrejščina ima povratno končnico -מו, slovenščina potrebuje samostojni zaimek"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "verzu 9",
+      "rationale": "verižni infinitivi sovražnikovega govora — sedem zgostitvenih glagolov v enem vznesenem dihu"
+    }
+  ],
+  "translation": "Rekel je sovražnik: Pognal bom, dohitel bom, razdelil bom plen; napolnjena ⟨bo⟩ moja nefesh z njimi, izvlekel bom svoj meč, uničila jih ⟨bo⟩ moja roka.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/15\/9-12.1792423265709.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Rekel je"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnik"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "Pognal bom"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "dohitel bom"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "razdelil bom"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plen"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "napolnjena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefesh"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "izvlekel bom"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "svoj meč"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "uničila"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moja roka"
+    }
+  ],
+  "timestamp": "2026-10-19T15:21:05.710449172Z",
+  "model": "glm-5.3"
+}

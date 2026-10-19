@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבדד",
+      "rationale": "Večina bere »sam« (samo ti), JPS pa »dwell alone« (daješ mi prebivati samotno); לבטח se veže k varnosti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום je celostno blagostanje, ne le odsotnost vojne."
+    },
+    {
+      "kind": "addition",
+      "subject": "me",
+      "rationale": "Slovenščina potrebuje predmet pri naseljuješ; ה suffix תושיבני ga nosi, zato ni oklepaja — oklepaj nosi le dodano besedo v slovenščini."
+    }
+  ],
+  "translation": "V šalomu bom ⟨skupaj⟩ legel in spal, kajti ti, Jahve, sam ⟨me⟩ naseljuješ v varnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1814adc919befac7216545885acbe320f7d614af3de7993ff831b253c13f3c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/4\/9-9.1792434499321.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "V šalomu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨skupaj⟩"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "bom legel"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "in spal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "sam"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v varnosti"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "⟨me⟩ naseljuješ"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:19.321504988Z",
+  "model": "glm-5.3"
+}

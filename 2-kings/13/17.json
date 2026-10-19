@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ga je⟩ · ⟨ne⟩",
+      "rationale": "slovenščina potrebuje predmet in nikalnico, ki ju hebrejščina ne izrazi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חץ תשועה ליהוה",
+      "rationale": "puščica rešitve 'za Jahveja \/ od Jahveja \/ Jahvejeva' — konstrukt z ל je dvoumen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויאמר",
+      "rationale": "verb 'in rekel je' se v verzu ponovi štirikrat — tempni ritem pripovedi v slovenščini izgubi ostrost"
+    }
+  ],
+  "translation": "In rekel je: Odpri okno proti vzhodu, in odprl ⟨ga je⟩. In Elišá je rekel: Streljaj! In je ustrelil. In rekel je: Puščica rešitve za Jahveja, in puščica rešitve nad Aramom; in udaril boš ⟨את⟩ Aram v Afeku, dokler ga ⟨ne⟩ uničiš.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7b971ddd2d815b805b4e861976855288ac1bb7d4307c42daf7688b8b65960f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/13\/17-20.1792429671126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "odpri"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "proti vzhodu"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "in odprl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišá"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "streljaj"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "in je ustrelil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "puščica"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "rešitve"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "in puščica"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "rešitve"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "nad Aramom"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "in udaril boš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "v Afeku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "uničiš"
+    }
+  ],
+  "timestamp": "2026-10-19T17:07:51.126690572Z",
+  "model": "glm-5.3"
+}

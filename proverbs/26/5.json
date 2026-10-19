@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "26,4–26,5",
+      "rationale": "Ta verz stoji v neposrednem nasprotju s prejšnjim — »ne odgovarjaj« proti »odgovori« — namerna paradoksna dvojica, ne nasprotje."
+    },
+    {
+      "kind": "idiom",
+      "subject": "v svojih očeh",
+      "rationale": "Hebrejski izraz בעיניו dobesedno 'v njegovih očeh' pomeni 'po njegovem mnenju'."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga pri koristnem deležniku ne izrazi."
+    }
+  ],
+  "translation": "Odgovori nespametnemu po njegovi neumnosti, da ne bo ⟨bil⟩ moder v svojih očeh!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b41c4112a61e481e38551498996c51a148619aa327c6371901346ae85c5eefc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/5-6.1792439080328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Odgovori"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nesepametnemu"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "po njegovi neumnosti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo ⟨bil⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v svojih očeh"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:40.329326145Z",
+  "model": "glm-5.3"
+}

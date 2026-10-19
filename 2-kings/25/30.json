@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ ⟨mu⟩ bil",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וארחתו ארחת",
+      "rationale": "Ponavljajoča dvojica 'obrok — obrok' poudarja stalnost obroka; slovenščina jo ohranja z ločenim pomišljajem."
+    },
+    {
+      "kind": "measurement",
+      "subject": "delež dneva na njegov dan",
+      "rationale": "Dnevni obrok, odmerjen po dnevu — zadnji stavek knjige šteje do konca življenja."
+    }
+  ],
+  "translation": "In njegov obrok — obrok stalan — ⟨je⟩ ⟨mu⟩ bil dajan od ⟨את⟩ kralja, delež dneva na njegov dan, vse dni njegovega življenja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/25\/29-30.1792429874857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "in njegov obrok"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "obrok"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalan"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "bil dajan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "kralja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "delež"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "na njegov dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dni"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "njegovega življenja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:11:14.858116012Z",
+  "model": "glm-5.3"
+}

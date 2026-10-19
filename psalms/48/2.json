@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima glagola biti; slovenščina ga zahteva"
+    },
+    {
+      "kind": "elision",
+      "subject": "קדשו",
+      "rationale": "Status constructus 'gora-svetosti-njegove' v slovenščini zahteva sesedanje v svojinski stavek"
+    }
+  ],
+  "translation": "Velik ⟨je⟩ Jahve in zelo vzhvaljen v mestu našega Elohim, gora svetosti njegove.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/48\/1-4.1792434897182.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Velik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "in vzhvaljen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našega Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gora"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetosti njegove"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:57.183662864Z",
+  "model": "glm-5.3"
+}

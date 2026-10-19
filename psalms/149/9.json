@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "hebrejščina brez glagola — הוא poudarja: to je"
+    },
+    {
+      "kind": "substitution",
+      "subject": "čast",
+      "rationale": "הדר je sijaj, veličastje; čast je ožji odnos"
+    },
+    {
+      "kind": "crux",
+      "subject": "čast njegovim hesedom",
+      "rationale": "JPS bere: On je veličastje vseh njegovih hesedov (הדר kot opis Elohima), KJV\/BSB pa: čast pripada hesedom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesedom",
+      "rationale": "חסידim so zvesti, pobožni; hesed-koren tu pomeni 'zvesti' — 'njegovi zvesti'"
+    }
+  ],
+  "translation": "Da izvršijo nad njimi ⟨את⟩ sodbo zapisano; ⟨to⟩ je čast vsem njegovim hesedom. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "160c2a340697673a20fbb6ffed151693873661293a24c2ec985b104fe9f2e0c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/149\/9-9.1792435765888.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "da izvršijo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "zapisano"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "čast"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨to⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "njegovim hesedom"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:25.889666887Z",
+  "model": "glm-5.3"
+}

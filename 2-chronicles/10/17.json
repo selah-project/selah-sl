@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 10:17",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik za preteklik, hebrejščina ima samo wayyiqtol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jehuda",
+      "rationale": "דוד reference: uporabljen hebrejski zvok imena Jehuda namesto Jud"
+    }
+  ],
+  "translation": "In sinovi Jisraela, ki so prebivali v mestih Jehude — nad njimi je kraljeval Rehavjam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ca8c44a0bf348bb73412359cc1b44a4e6628c59ce4b7ace02eec05f438e7c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/10\/17-19.1792438543887.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ki so prebivali"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "v mestih"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavjam"
+    }
+  ],
+  "timestamp": "2026-10-19T19:35:43.888145374Z",
+  "model": "glm-5.3"
+}

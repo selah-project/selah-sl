@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "Hebrew nominal clause lacks a future copula; Slovenian requires it."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קוינו לו \/ יושיענו \/ ישועתו",
+      "rationale": "Triple repetition of 'waited for him' frames the root ישע (save\/salvation); the echo is kept in rešil\/rešitvi."
+    }
+  ],
+  "translation": "In rečeno ⟨bo⟩ na ta dan: Glej, to je naš Elohim, nanj smo čakali, on nas bo rešil; to je Jahve, nanj smo čakali; vriskali bomo in veselili se bomo v njegovi rešitvi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "61954c91746a6d090d42579eafc2a9cd0bbc5359b221e5ee1ca03f41cd888df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/25\/9-12.1792430277929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "In rečeno ⟨bo⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "naš Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "smo čakali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "on nas bo rešil"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "smo čakali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "vriskali bomo"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "in veselili se bomo"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "v njegovi rešitvi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:17:57.929599638Z",
+  "model": "glm-5.3"
+}

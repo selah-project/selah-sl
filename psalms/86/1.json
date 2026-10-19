@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrew lacks copula in 'for poor and needy am I'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "David neposredno prosi Jahveja"
+    }
+  ],
+  "translation": "Molitev Davidova. Prikloni, Jahve, svoje uho, odgovori mi, kajti reven in ubog ⟨sem⟩ jaz.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/86\/1-4.1792435181491.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Molitev"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Prikloni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "svoje uho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "reven"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "in ubog"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:41.493041074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bližje 'grlo \/ dih \/ življenjska moč' kot 'duša'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "se prilepi tesno za tebe",
+      "rationale": "דבקה dobesedno 'prilepila se je' — tesno držanje brez ločitve."
+    }
+  ],
+  "translation": "Moja duša se prilepi tesno za tebe, kajti tvoja desnica me podpira.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/63\/9-12.1792434985088.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "se prilepi tesno"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tebe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "podpira"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoja desnica"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:25.089535276Z",
+  "model": "glm-5.3"
+}

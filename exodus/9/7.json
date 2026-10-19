@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨poslance⟩",
+      "rationale": "hebrejščina ne povedi, koga je Faraon poslal"
+    },
+    {
+      "kind": "idiom",
+      "subject": "srce je postalo težko",
+      "rationale": "ויכבד לב — dobesedno 'težko', po navadi zmehčano v 'trdo\/otriplo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izpustil",
+      "rationale": "שלח — 'poslal', idiomatsko 'pustiti iti, izpustiti'"
+    }
+  ],
+  "translation": "In poslal je Faraon ⟨poslance⟩, in glej, ni poginila niti ena od živine Jisraela; in srce Faraona je postalo težko, in ni izpustil ⟨את⟩ ljudstva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/9\/5-8.1792423237757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "In poslal je"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מת",
+      "gloss": "poginila"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "od živine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "niti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "in postalo je težko"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "izpustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    }
+  ],
+  "timestamp": "2026-10-19T15:20:37.758636585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to so⟩",
+      "rationale": "hebrejščina ima samo המה 'oni'; slovenščina potrebuje vezo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היכל יהוה ×3",
+      "rationale": "trikratna vzklika liturgična formula; trojna ponovitev nosi retorično težo in ostaja trikrat"
+    }
+  ],
+  "translation": "Ne zanašajte se na besede laži, ki pravijo: Hram Jahvejev, hram Jahvejev, hram Jahvejev — ⟨to so⟩ oni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/7\/1-4.1792431163264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "zanašajte se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "laži"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ki pravijo"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Hram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejev"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejev"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejev"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-10-19T17:32:43.265952652Z",
+  "model": "glm-5.3"
+}

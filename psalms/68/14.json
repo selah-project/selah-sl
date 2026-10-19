@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפתים",
+      "rationale": "Dual 'dve stališči (za živino)': KJV 'med lonci', JPS 'med ovčjimi stališči'; oblika je dvojina in ostaja dvojina."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "Dobesedno 'zarezano\/protiskano': tu 'zlato' (protiskano zlato); redka beseda, prevodi se razhajajo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zelenkato-rumenem",
+      "rationale": "ירקרק je rdečkastorumen odtenek (prim. 3 Mz 13); barva se v slovenščini slika z dvema besedama."
+    }
+  ],
+  "translation": "Če ležite med dvojnimi stališči, ⟨so⟩ peruti golobice pokrite s srebrom in njeno perje v zelenkato-rumenem zlatu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/13-16.1792435014613.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "ležite"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dvojnimi stališči"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "peruti"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "golobice"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "pokrite"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s srebrom"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "in njeno perje"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "v zelenkato-rumenem"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "zlatu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:54.614854423Z",
+  "model": "glm-5.3"
+}

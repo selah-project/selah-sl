@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את פניך",
+      "rationale": "preposition את 'with' + face: 'z veseljem pred obličjem' vs 'z veseljem tvojega obličja' (tvoja radost, ne človekova)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "obličje",
+      "rationale": "פנים 'face' kept literal: presence of the face, not abstract 'prisotnost'"
+    }
+  ],
+  "translation": "Kajti blagoslove mu daješ za vedno, z radostjo ⟨ga⟩ veseliš ⟨skupaj z⟩ ⟨את⟩ svojim obličjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/21\/5-8.1792434642817.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "mu daješ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "blagoslove"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "veseliš ga"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "z radostjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojim obličjem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svojim obličjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:42.818773189Z",
+  "model": "glm-5.3"
+}

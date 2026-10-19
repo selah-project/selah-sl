@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודי לכלמה",
+      "rationale": "'moja čast v sramoto' — dejanje (sramotite mojo čast, KJV) ali stanje (je v sramoti, YLT)"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbena oznaka za premor; pisana po zvoku 'Sela', pomen neznan"
+    },
+    {
+      "kind": "you",
+      "subject": "do sinov človeka",
+      "rationale": "neposreden nagovor nasprotnikov z vprašanjem 'doklej'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד־מה",
+      "rationale": "vzklik 'doklej!' — retorično vprašanje, ki odpira cel psalm"
+    }
+  ],
+  "translation": "Sinovi človeka, doklej ⟨bo⟩ moja čast v sramoto? Ljubite praznino, iščete laž. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/4\/1-4.1792434526362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Sinovi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨doklej⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moja čast"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "v sramoto"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Ljubite"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "praznino"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "iščete"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "laž"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:46.363783165Z",
+  "model": "glm-5.3"
+}

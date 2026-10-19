@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ד",
+      "rationale": "hebrejščina ima smerni delec h, ki ga slovenščina izrazi z glagolom 'udarjajte'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנור נעים",
+      "rationale": "dvojni 'n' zvok, v slovenščini delno ohranjen s 'kitor … sladko'"
+    }
+  ],
+  "translation": "Vzdignite pesem, udarjajte boben, sladko kitor z nevelom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/1-4.1792435194672.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "vzdignite"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "udarjajte"
+    },
+    {
+      "surface": "תף",
+      "gloss": "boben"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kitor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sladko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevelom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:54.674577125Z",
+  "model": "glm-5.3"
+}

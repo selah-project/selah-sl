@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 1:35",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "knez",
+      "rationale": "נגיד je 'vodja, poveljnik, tisti spredaj' — ne 'kralj' (meleh); 'knez' ali 'vodja' ohranjata razliko."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩",
+      "rationale": "slovenščina potrebuje veznik za namen ('da pride'), dodan v oklepaju."
+    }
+  ],
+  "translation": "in stopili boste za njim, in ⟨naj⟩ pride in sede na moj prestol, in on bo kraljeval namesto mene; ⟨את⟩ njega sem zapovedal biti knez nad Jisraelom in nad Judom.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/1\/33-36.1792428716222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועליתם",
+      "gloss": "in stopili boste"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za njim"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "in pride"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "in sede"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "moj prestol"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bo kraljeval"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "namesto mene"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "njega"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "sem zapovedal"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "biti"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "knez"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judom"
+    }
+  ],
+  "timestamp": "2026-10-19T16:51:56.223146569Z",
+  "model": "glm-5.3"
+}

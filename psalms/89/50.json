@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "do Adonaja",
+      "rationale": "tožba neposredno nagovarja Gospoda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zvestoba",
+      "rationale": "אמונה je trdnost, zanesljivost — 'vernost' kot vera bi pomenilo preveč"
+    }
+  ],
+  "translation": "Kje so tvoji hesedi prvotni, Adonaj, ki si jih prisegel Davidu v svoji zvestobi?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/49-52.1792435244478.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "kje so"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tvoji hesedi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prvotni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "si prisegel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "v svoji zvestobi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:44.479863757Z",
+  "model": "glm-5.3"
+}

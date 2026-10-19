@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "עוד אשר »še [to], da« — slovenščina potrebuje glagol, dodan v oglatem oklepaju."
+    },
+    {
+      "kind": "crux",
+      "subject": "עוד אשר",
+      "rationale": "KJV dodaja »it shall yet come to pass«; hebrejščina ima le »še, da« — gosto eliptično zvezo."
+    }
+  ],
+  "translation": "Tako govori Jahve Cebaot: Še ⟨bo⟩, da bodo prihajala ljudstva in prebivalci mest mnogih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/8\/17-20.1792434408882.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "še"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bodo prihajala"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "in prebivalci"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mest"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnogih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:48.887935177Z",
+  "model": "glm-5.3"
+}

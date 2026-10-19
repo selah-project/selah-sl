@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד נטויה \/ זרוע חזקה",
+      "rationale": "iztegnjena roka in močna roka — hebrejska formula božje moči, izhodnjška podoba."
+    },
+    {
+      "kind": "elision",
+      "subject": "גדול",
+      "rationale": "pridevnik »velik« stoji pri zadnjem samostalniku (קצף), a po hebrejski slovnici sega čez cel trojni niz jeza–gnev–bes."
+    }
+  ],
+  "translation": "In jaz sam bom se boril ⟨את⟩ ⟨proti⟩ vam ⟨z⟩ iztegnjeno roko in z močno roko, v jezi in v velikem gnevu in v silnem besu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/21\/5-8.1792431447160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "in bom se boril"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨proti⟩ vam",
+      "marks": "אתכם — priimek z ⟨את⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "z roko"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "iztegnjeno"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "in z roko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "močno"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "v jezi"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "v gnevu"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "v silnem besu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    }
+  ],
+  "timestamp": "2026-10-19T17:37:27.161034961Z",
+  "model": "glm-5.3"
+}

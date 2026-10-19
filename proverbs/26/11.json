@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "je",
+      "rationale": "Hebrejščina manjka veznik 'tako je'; primera sta položena drug ob drugem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bljuvek",
+      "rationale": "קֵא je redka beseda za bljuvek, samo tu in v Pregovorih 25,23(?) — dobesedno ohranjeno."
+    }
+  ],
+  "translation": "Kakor pes, ki se vrača k svojemu bljuvku, neumni, ki ponavlja svojo neumnost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/9-12.1792436097180.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "kakor pes"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrača"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "svojemu bljuvku"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "neumni"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "ponavlja"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "svojo neumnost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:57.182919826Z",
+  "model": "glm-5.3"
+}

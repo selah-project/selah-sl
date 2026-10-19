@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žerjavica",
+      "rationale": "נר je namenjala\/ožarnica; 'žerjavica' za gorečo luč, oblika besede je 'luč\/žarnik'"
+    },
+    {
+      "kind": "crux",
+      "subject": "rog",
+      "rationale": "קרן 'rog' kot simbol moči; nekateri prevajajo 'moč', a oblika (rog) ostaja"
+    },
+    {
+      "kind": "alternative",
+      "subject": "svojemu maziljencu",
+      "rationale": "למשיחי 'mojemu mašiahu' — kralju iz Davidove vrste, ne poznejšemu 'Mesiju'"
+    }
+  ],
+  "translation": "Tam bom poganil rog Davidu, pripravil sem žerjavico svojemu maziljencu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/17-18.1792435581678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "bom poganil"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "rog"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "pripravil sem"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "žerjavica"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "svojemu maziljencu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:21.679281632Z",
+  "model": "glm-5.3"
+}

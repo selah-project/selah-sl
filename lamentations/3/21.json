@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga nima."
+    },
+    {
+      "kind": "alternative",
+      "subject": "To povzemam v svojem srcu",
+      "rationale": "אשיב (šuv) dobesedno 'vračam\/obračam nazaj'; 'povzemam' je bolj tekoča izbira."
+    }
+  ],
+  "translation": "To ⟨je⟩ tisto, kar obračam h k svojemu srcu, zato upam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/21-24.1792436981250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "obračam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svojemu srcu"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato-čez"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "upam"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:41.250971773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne 'duša' v grškem pomenu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jeza",
+      "rationale": "אף dobesedno 'nos\/nozdrvi', pregovorno jeza."
+    },
+    {
+      "kind": "crux",
+      "subject": "טרף נפשו",
+      "rationale": "'trga svojo dušo' (se samega) — KJV 'teareth himself'; dobesedna slika raztrganja."
+    }
+  ],
+  "translation": "Kdor v svoji jezi trga svojo dušo — ali bo zaradi tebe zapuščena ⟨את⟩ zemlja in se bo skala premaknila s svojega mesta?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db8e85e6a43743958d010dc4adfe357c206712898dfcd8c5c9e93238a2000701",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/1-4.1792436428551.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "trga"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "v svoji jezi"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "zaradi tebe"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bo zapuščena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "in se bo premaknila"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skala"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "s svojega mesta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:28.553192279Z",
+  "model": "glm-5.3"
+}

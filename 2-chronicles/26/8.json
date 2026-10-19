@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 26:8",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד למעלה",
+      "rationale": "dobesedno 'do zgoraj' kot hebrejska superlativna zveza — 'nadvse'; dobesedni prevod bi zavedel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דdavek",
+      "rationale": "מנחה tu ni daritev 'minha' ampak politični davek, zato slovenska beseda in ne.transliteracija (glej D2)."
+    },
+    {
+      "kind": "you",
+      "subject": "Uzi",
+      "rationale": "poročilo o kraljevi moči — naslovljenec je bralec kronike"
+    }
+  ],
+  "translation": "In Amoniti so dali davek Uziju, in njegovo ime je segalo do vhoda v Micrajim, kajti nadvse se je okrepil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50a683df0e5585681c2c5294b6b8ee1de9309486b130b38594e3694a3e2f94eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/26\/5-8.1792438800525.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "In so dali"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "Amoniti"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "davek"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "Uziju"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "in je segalo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vhoda v"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "se je okrepil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nadvse"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "do zgoraj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:00.527015398Z",
+  "model": "glm-5.3"
+}

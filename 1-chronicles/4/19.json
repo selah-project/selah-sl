@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 4:19",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "skladnja",
+      "rationale": "Dvomljiva povezava: kdo je 'oče Keile' (Naham ali sinovi) in ali הגרמי spada k Keili; prevodi razhajajo (KJV proti YLT\/ASV)."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina v rodovniku izpušča glagol biti; slovenščina ga zahteva."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Nadaljevanje genealoškega seznama z imeni in kraji."
+    }
+  ],
+  "translation": "In sinovi žene Hodije, sestre Nahama, ⟨so⟩ oče Keile Garmičan in Eštemoa Maačičan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ff295f5ed3ab2f493ae9934944c35515caae9a445ffb98af1a6451fbcc7ef23f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/18-19.1792439115140.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "In sinovi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žene"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "Hodije"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestre"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "Nahama"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keile"
+    },
+    {
+      "surface": "הגרמי",
+      "gloss": "Garmičan"
+    },
+    {
+      "surface": "ואשתמע",
+      "gloss": "in Eštemoa"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Maačičan"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:15.265712269Z",
+  "model": "glm-5.3"
+}

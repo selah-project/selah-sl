@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "hebrejščina postavlja nasprotje brez veznika; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צעיר\/ונבזה",
+      "rationale": "dvojna odprtina verza — majhnost in zaničevost sta postavljeni vzporedno"
+    }
+  ],
+  "translation": "Majhen sem in zaničevan, ⟨a⟩ tvojih odlokov nisem pozabil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c2157d7ff2e5881feaa9c174cea9b86260ba53b51d8368de75113181b382ee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/141-144.1792435528620.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Majhen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "in zaničevan"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvojih odlokov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "pozabil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:28.620735566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga je",
+      "rationale": "אתו je aleph-tav z pripono osebka; slovenščina potrebuje prosti zaimek 'ga'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "noben človek",
+      "rationale": "איש z negacijo — dobesedno 'in ne ve človek'; negacija je prestavljena na samostalnik."
+    },
+    {
+      "kind": "mystery",
+      "subject": "krajava Možetovega groba",
+      "rationale": "Verz namenoma zadrži: nihče ne ve, kjer je pokopan, 'vse do tega dneva'."
+    }
+  ],
+  "translation": "In pokopal ⟨ga je⟩ v dolini, v deželi Moaba, nasproti Bet-Peorju; in noben človek ne ve za ⟨את⟩ njegov grob vse do tega dneva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/34\/5-8.1792426398242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "in pokopal je"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Može (njega)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "v dolini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nasproti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "noben človek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegov grob"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "njegov grob"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tega"
+    }
+  ],
+  "timestamp": "2026-10-19T16:13:18.243321636Z",
+  "model": "glm-5.3"
+}

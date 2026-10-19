@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 40:16",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina doda glagol biti."
+    },
+    {
+      "kind": "crux",
+      "subject": "אטמות",
+      "rationale": "'Zaprta ozka okna' (z zoženimi podboji) — prevodi se razhajajo: 'narrow' (KJV) proti 'closed' (ASV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב (dvakrat)",
+      "rationale": "Podvojitev 'okoli okoli' v istem verzu poudarja vsestranskost okenskega niza."
+    },
+    {
+      "kind": "substitution",
+      "subject": "palmove stebriče",
+      "rationale": "תמרים so arhitektonski palmetni pilastri, ne prave palme."
+    }
+  ],
+  "translation": "In zaprta okna ⟨so⟩ do sel in do njihovih stebrov, znotraj vrat okoli okoli; tako tudi do predverij, in okna okoli okoli znotraj, in na stebrih palmove stebriče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89e3fc0252fd31095496d0812a4e811cadc5731b37ebde2f49473ce710cc32fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/40\/13-16.1792433604375.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלנות",
+      "gloss": "in okna"
+    },
+    {
+      "surface": "אטמות",
+      "gloss": "zaprta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "התאים",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in do"
+    },
+    {
+      "surface": "אליהמה",
+      "gloss": "njihovih stebrov"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "znotraj"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "tako tudi"
+    },
+    {
+      "surface": "לאלמות",
+      "gloss": "do predverij"
+    },
+    {
+      "surface": "וחלונות",
+      "gloss": "in okna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "znotraj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in na"
+    },
+    {
+      "surface": "איל",
+      "gloss": "stebrih"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmove stebriče"
+    }
+  ],
+  "timestamp": "2026-10-19T18:13:24.376960214Z",
+  "model": "glm-5.3"
+}

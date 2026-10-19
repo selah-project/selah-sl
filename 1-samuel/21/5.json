@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tam⟩",
+      "rationale": "hebrejščina pri יש ne izraža kraja, slovenščina ga potrebuje"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "veznik »samo\/ampak« — prevodi se razhajajo: »ampak« (JPS) proti pogojni konstrukciji"
+    }
+  ],
+  "translation": "In duhovnik je odgovoril ⟨את⟩ Davida in rekel: Ni navadnega kruha pod mojo roko, kajti svet kruh je ⟨tam⟩ — če so se mladeniči vzdržali vsaj od ženske.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/21\/5-8.1792427985063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in je odgovoril"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "חל",
+      "gloss": "navadnega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mojo roko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "so se vzdržali"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladeniči"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vsaj"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "od ženske"
+    }
+  ],
+  "timestamp": "2026-10-19T16:39:45.064530659Z",
+  "model": "glm-5.3"
+}

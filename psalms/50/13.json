@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naj⟩ \/ vprašalni ton",
+      "rationale": "hebrejščina izraža retorično vprašanje s hairedbo ה– brez pomožnega glagola"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "dobesedno 'močni\/biki' — prevodi se gibljejo od 'bikov' do 'mogočnih živali'"
+    }
+  ],
+  "translation": "Ali ⟨naj⟩ jem ⟨את⟩ meso bikov in kri kozlov pijem?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/13-16.1792434874095.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Ali ⟨naj⟩ jem"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "⟨את⟩ meso"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "bikov"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "in kri"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kozlov"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "pijem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:34.096483001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ti",
+      "rationale": "Hebrejščina nima glagola; v slovenščini je treba dodati kot pomožni glagol."
+    }
+  ],
+  "translation": "Pohiti k ⟨את⟩ moji pomoči, Adonaj, ⟨ti⟩ si moje odrešenje!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/38\/21-23.1792434788903.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "pohiti"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "k moji pomoči"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "moje odrešenje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:08.906961497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "prisego",
+      "rationale": "וְלָקַח בְּעָלָיו brez predmeta; slovenščina potrebuje predmet, dodan v oklepaju"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "›da ni‹ (vsebina prisege) proti vprašalnemu ›ali ni‹ — JPS\/KJV obravnavajo kot vsebino prisege"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imetje",
+      "rationale": "מְלֶאכֶת dobesedno ›delo‹; tu ›premoženje\/živino‹ bližnjega"
+    }
+  ],
+  "translation": "prisega Jahve bo med njiju ⟨dvema⟩, da ni stegnil svoje roke v imetje svojega bližnjega; in njen lastnik jo prevzame ⟨prisego⟩, in ⟨ta⟩ ne bo povračal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/22\/9-12.1792423468768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "prisega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "njiju ⟨dvema⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stegnil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "v imetje"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "in prevzame"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "njen lastnik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bo povračal"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:28.769391876Z",
+  "model": "glm-5.3"
+}

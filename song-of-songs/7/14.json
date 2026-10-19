@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga v stavku z כל מגדים nima."
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Osebni zaimek dodan k צפנתי; hebrejščina predmeta izpušča."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מגדים",
+      "rationale": "מגד se v Tanahu pojavi le še v 5 Mz 33,13–14; 'distinguished thing' — izbrano 'dobrote'."
+    }
+  ],
+  "translation": "Mandragore dajejo vonj, ob naših vratih ⟨so⟩ vse dobrote, nove in stare; moj ljubi, zate sem jih shranila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/7\/13-14.1792436824772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "mandragore"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dajejo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "vonj"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "naših vratih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "dobrote"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nove"
+    },
+    {
+      "surface": "גם",
+      "gloss": "in"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "stare"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "moj ljubi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "sem shranila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zate"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:04.774878984Z",
+  "model": "glm-5.3"
+}

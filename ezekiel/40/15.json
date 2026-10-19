@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina doda glagol biti; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "predverje",
+      "rationale": "אולם je vezan vhodni prostor, 'predverje' ohranja arhitekturno podobo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "merjenje",
+      "rationale": "Petdeset komolcev od vhoda do notranjega predverja."
+    }
+  ],
+  "translation": "In pred obraz vrat vhoda ⟨je⟩ do prednjega dela predverja notranjih vrat petdeset komolcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89e3fc0252fd31095496d0812a4e811cadc5731b37ebde2f49473ce710cc32fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/40\/13-16.1792433604375.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "in pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "vhoda"
+    },
+    {
+      "surface": "על",
+      "gloss": "do prednjega dela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "predverja"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "predverje"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "notranjih"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "petdeset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "komolcev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:13:24.376760941Z",
+  "model": "glm-5.3"
+}

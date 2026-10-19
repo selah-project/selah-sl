@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קשב ... רב קשב",
+      "rationale": "Trojna ponovitev korena קשב: prisluhni-pazljivost-velika-pazljivost; poudarek izgubljen v slovenščini."
+    },
+    {
+      "kind": "alternative",
+      "subject": "voz oslov, voz kamel",
+      "rationale": "Dovoljeno tudi 'kolona oslov, kolena kamel' (ASV\/JPS 'troop') — רכב kot jahalne kolone, ne bojnih vozov."
+    }
+  ],
+  "translation": "In ko vidi voz, par konjenikov, voz oslov, voz kamel, naj prisluhne s pazljivostjo, z veliko pazljivostjo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/21\/5-8.1792430212542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "in ko vidi"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "voz"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "par"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "konjenikov"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "voz"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "oslov"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "voz"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "kamel"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "naj prisluhne"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "s pazljivostjo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "z veliko"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "pazljivostjo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:16:52.543700240Z",
+  "model": "glm-5.3"
+}

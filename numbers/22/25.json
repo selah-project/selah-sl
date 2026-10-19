@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "hebrejščina ima samo ויסף להכתה, 'je dodal udarjati ⟨jo⟩' — zaimlek je dodan v slovenščini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kobila",
+      "rationale": "האתון je samica osla — 'oslica'; 'kobila' je kobila konja, alternativna rešitev je 'oslica'"
+    }
+  ],
+  "translation": "In kobila je videla ⟨את⟩ poslanca Jahveja in se pritisnila k zidu, pritisnila pa je ⟨את⟩ nogo Bileáma ob zid, in je še naprej udarjal ⟨jo⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "558663cd7693b6686c14432c34887e9718a2fb687071192da164404b38bca57f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/22\/25-28.1792425300779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "in je videla"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "kobila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poslanca Jahveja"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "poslanca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "in se pritisnila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "zidu"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "pritisnila pa je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nogo Bileáma"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nogo"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileáma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ob"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "zid"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "in je še naprej"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "udarjal ⟨jo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T15:55:00.780454604Z",
+  "model": "glm-5.3"
+}

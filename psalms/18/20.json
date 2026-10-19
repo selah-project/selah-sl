@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rešil me je",
+      "rationale": "חלץ je dobesedno 'potegniti ven, izpuliti' — rešitev kot iztrganje iz stiske."
+    },
+    {
+      "kind": "verse-number",
+      "subject": "Ps 18,20",
+      "rationale": "V hebrejskem številu ta verz ustreza Ps 18,19 v grško-angleški tradiciji; vsebina je ista."
+    }
+  ],
+  "translation": "Izpeljal me je v prostranost, rešil me je, ker je imel veselje v meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd347e7e89513e64e4f62c15f83c9c098dc386d1720f661543dfd2cf15742ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/20-20.1792438975728.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Izpeljal me je"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "v prostranost"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "rešil me je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "je imel veselje"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:55.728998422Z",
+  "model": "glm-5.3"
+}

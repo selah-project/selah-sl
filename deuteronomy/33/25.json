@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנעליך",
+      "rationale": "'tvoji zapori' (zапahi vrat) proti tradicionalnemu 'tvoji obutvi' (KJV 'shoes'); zapahi na goratih mestih so arheološko potrjene."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דבאך",
+      "rationale": "דֹּבֶא se pojavi samo v tem verzu; pomen 'mir\/moč' je izposojen iz arameščine."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moč",
+      "rationale": "דֹּבֶא je bližje 'miru, obilju'; angleška tradicija 'strength' je ena od ugank."
+    }
+  ],
+  "translation": "Železo in baker ⟨naj bosta⟩ tvoji zapori, in kakor so tvoji dnevi, ⟨tako naj bo⟩ tvoja moč.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/33\/25-28.1792426358759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "in baker"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "tvoji zapori"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "in kakor so tvoji dnevi"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "tvoja moč"
+    }
+  ],
+  "timestamp": "2026-10-19T16:12:38.759547338Z",
+  "model": "glm-5.3"
+}

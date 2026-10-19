@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje kopulo, hebrejščina je nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרוב",
+      "rationale": "'od blizu' (kratek čas) proti 'od nekdaj' — prevajalci se delijo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hinavca",
+      "rationale": "חנף je 'onesnažen z grehom, brezbožen', ne nujno 'hinavec'"
+    }
+  ],
+  "translation": "kaj vzklikovanje hudobnežev ⟨je⟩ od blizu in veselje hinavca do utripa ⟨očesa⟩?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/5-8.1792436468901.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "vzklikovanje"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hudobnežev"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "od blizu"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "in veselje"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "hinavca"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "do"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "utripa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:08.902617432Z",
+  "model": "glm-5.3"
+}

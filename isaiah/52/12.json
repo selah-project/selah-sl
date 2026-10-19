@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima veznika; slovenščina ga zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומאספכם",
+      "rationale": "izpeljanka iz אסף — 'tisti, ki vas zbira (za zadnjo stražo)'; angleški prevodi dajejo 'rereward\/zadnja straža', dobesedno pa je 'vaš zbiralec'"
+    }
+  ],
+  "translation": "Kajti ne v naglici boste šli ven in ne v begu boste hodili, kajti pred vami hodi Jahve in vaš zbiratelj ⟨je⟩ Elohim Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/52\/9-12.1792430778661.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "v naglici"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "boste šli ven"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "in v begu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "boste hodili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hodi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pred vami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "in vaš zbiratelj"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:18.662145039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "je peljal",
+      "rationale": "העלה je dobesedno 'dvignil, peljal gor' — iz Micrajima gor v deželo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ נשמר",
+      "rationale": "isti koren 'varovati' kot v prejšnjem verzu (za ženo je pastil \/ s prerokom je bil varovan) — besedna večvárnost, v slovenščini delno ohranjena"
+    }
+  ],
+  "translation": "In s prerokom je Jahve peljal ⟨את⟩ Jisrael iz Micrajima, in s prerokom je bil varovan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/12\/13-15.1792433861420.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "in s prerokom"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "je peljal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "in s prerokom"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "je bil varovan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:41.422134674Z",
+  "model": "glm-5.3"
+}

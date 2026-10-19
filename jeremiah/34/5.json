@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 34:5",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sežiganja (משרפות)",
+      "rationale": "Sežiganje ob kraljevem pogrebu: dišav ob kralju (Geneva\/KJV\/BSB) ali dobesedno sežiganje trupla (Wycliffe); hebrejščina pravi le 'sežiganja, kakor za tvoje očete'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gospod",
+      "rationale": "אדון je tu človek (kralj Cedikija), zato 'gospod' in ne 'Adonaj'."
+    },
+    {
+      "kind": "addition",
+      "subject": "jaz",
+      "rationale": "אני stoji poudarjeno pred glagolom: 'besedo sem govoril JAZ' — besedni red poudarja Jahvejevo zagotovo."
+    }
+  ],
+  "translation": "V miru boš umrl, in kakor sežiganja tvojih očetov, prvih kraljev, ki so bili pred teboj, tako se bodo sežgali tebi in žalovali tebi: oj, gospod! kajti besedo sem govoril jaz — govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6a8bd8a6e8524e744cf586d8ea6bdf42ac4c7c19f885d9f74d0632bf6f6dd0a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/34\/5-8.1792431676603.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "v miru"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "boš umrl"
+    },
+    {
+      "surface": "וכמשרפות",
+      "gloss": "in kakor sežiganja"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "tvojih očetov"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "prvih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bili"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred teboj"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "bodo sežgali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "oj"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "gospod"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "bodo žalovali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sem govoril"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:16.604446142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga v tem stavku nima (bracket ⟨je⟩)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר\/אשר",
+      "rationale": "Ista črkovna oblika pomeni veznik 'ki' in deželo 'Asirija' — dva različna leksema v enem verzu."
+    }
+  ],
+  "translation": "Beerah njegov sin, ki ga je v pregnanstvo odvedel Tiglat-Pilneser, kralj Asirije; on ⟨je⟩ bil poglavar Rubenitov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8a811349c470df94a1630eafe915d275481776e998ed103960b95a3956879415",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/5\/5-8.1792438039324.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "Beerah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "je v pregnanstvo odvedel"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Tiglat-"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "-Pilneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asirije"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "poglavar"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Rubenitov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:19.325310745Z",
+  "model": "glm-5.3"
+}

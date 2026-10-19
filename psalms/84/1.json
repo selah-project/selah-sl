@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "gittith",
+      "rationale": "הגתית — ime inštrumenta (gitska harfa), ostaja po zvoku; izvirni pomen negotov"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "rationale": "מזמור = pesem z inštrumentalno spremljavo, ostaja po hebrejskem zvoku"
+    }
+  ],
+  "translation": "Zborovodju, na gitskiti; sinovom Koraha, mizmor.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/84\/1-4.1792435168192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovodju"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitskiti"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:28.193506068Z",
+  "model": "glm-5.3"
+}

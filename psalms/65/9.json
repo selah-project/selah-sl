@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vesel krik",
+      "rationale": "תרנין je glagol 'ropotati\/oddajati ostr zvok', preneseno vzklikati od radosti; dobesedno bi bilo 'oddajajo krik'"
+    },
+    {
+      "kind": "crux",
+      "subject": "izhodi jutra in večera",
+      "rationale": "מוצאי בקר וערב: vzhod in zahod (kraj) ali jutranji in večerni čas; izbrana dobesedna 'izhodi'"
+    }
+  ],
+  "translation": "Prebivalci skrajnih koncov se bojijo tvojih znamenj, izhode jutra in večera napolnjuješ z veselim krikom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/65\/9-12.1792435005679.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "se bojijo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "prebivalci"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "skrajnih koncov"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "tvojih znamenj"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "izhode"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    },
+    {
+      "surface": "ווערב",
+      "gloss": "in večera"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "napolnjuješ z veselim krikom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:45.681013678Z",
+  "model": "glm-5.3"
+}

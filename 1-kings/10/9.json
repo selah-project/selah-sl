@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 10:9",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je po D2 'cedek', ne 'pravičnost'"
+    },
+    {
+      "kind": "you",
+      "subject": "kralju Šelomotu",
+      "rationale": "kraljica Ševe govori neposredno kralju"
+    }
+  ],
+  "translation": "Blagoslovljen bodi Jahve, tvoj Elohim, ki se je veselil tebe, da te postavi na prestol Jisraela, ker Jahve ljubi ⟨את⟩ Jisraela na veke, in postavil te je za kralja, da delaš sodbo in cedek.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9c899bbb411a0508bcf2e4f5f0c73c13e1985d326227a5f564dadd84415b0b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/10\/9-12.1792428965080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blagoslovljen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "je veselil se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tebe"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "da te postavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "prestol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "ker ljubi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "וישימך",
+      "gloss": "in postavil te je"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da delaš"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "in cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T16:56:05.081483173Z",
+  "model": "glm-5.3"
+}

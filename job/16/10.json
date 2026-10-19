@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 16:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨svoja⟩",
+      "rationale": "Slovenščina potrebuje svojilni pridevek, hebrejščina ga izpušča."
+    },
+    {
+      "kind": "crux",
+      "subject": "se zbirajo",
+      "rationale": "יתמלאון je dobesedno 'polnijo se'; preneseno 'zgrinjajo se name' — KJV 'gathered themselves together'."
+    }
+  ],
+  "translation": "Odprli so ⟨svoja⟩ usta name mene, s sramoto so udarili mojo lice; skupaj se zbirajo name mene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/16\/9-12.1792436442002.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פערו",
+      "gloss": "odprli so"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "usta"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "s sramoto"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "so udarili"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "mojo lice"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "יתמלאון",
+      "gloss": "se zbirajo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:42.003332582Z",
+  "model": "glm-5.3"
+}

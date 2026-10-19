@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 29:25",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina nima pomožnika za preteklik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tolaži",
+      "rationale": "נחם je tu 'vzdihovati\/tolažiti' – povratni pomen 'spokesedovati' tu ne pride v poštev"
+    },
+    {
+      "kind": "crux",
+      "subject": "kakor tisti, ki tolaži",
+      "rationale": "YLT bere subjekt 'on' (Bog) namesto Joba; večina bere 'kot tisti, ki tolaži' – nedoločen subjekt"
+    }
+  ],
+  "translation": "Izbral sem njihovo pot in ⟨sem⟩ sedel kot glava ter bival kot kralj v četi, kakor ⟨tisti, ki⟩ tolaži žalujoče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "228e0541f8f1f0a02df662d41fa46af3a3ba36f0012bd0d2cbfbb7abc2f1b041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/25-25.1792436565219.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבחר",
+      "gloss": "Izbral sem"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njihovo pot"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "in sem sedel"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kot glava"
+    },
+    {
+      "surface": "ואשכון",
+      "gloss": "ter sem bival"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "kot kralj"
+    },
+    {
+      "surface": "בגדוד",
+      "gloss": "v četi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "žalujoče"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "tolaži"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:45.219840124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ašera",
+      "rationale": "האשרה: bognja\/kultni steber Ašere — KJV 'the grove' je zgrešil; puščam hebrejsko obliko"
+    },
+    {
+      "kind": "crux",
+      "subject": "מושיע v 13,5 in אשרה tu",
+      "rationale": "zaporedje namiguje, da je rešitelj deloval kljub nedotaknjeni ašeri — besedilo ne razloži napetosti"
+    }
+  ],
+  "translation": "Samo niso odstopili od grehov hiše Jarobama, s katerimi je spravil ⟨את⟩ Jisrael v greh; v njih so hodili; tudi ašera je stala v Šomronu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/13\/5-8.1792429640324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "so odstopili"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "od grehov"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s katerimi"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "je spravil v greh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njih"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "so hodili"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ašera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "je stala"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Šomronu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:07:20.325355781Z",
+  "model": "glm-5.3"
+}

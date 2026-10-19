@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 12:31",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zahvalna skupina",
+      "rationale": "תודה je dobesedno iztegovanje roke, izpoved, zahvala — ne 'pevski zbor'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Dnovna vrata",
+      "rationale": "שער האשפת je dobesedno vrata smeti; ena beseda po vzorcu drugih imen vrat."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dve",
+      "rationale": "Dvojica procesij, desna in leva, struktura praznovanja."
+    }
+  ],
+  "translation": "In povedel sem ⟨את⟩ knezove Jude na zid navzgor, in postavil sem dve veliki zahvalni skupini in sprevode, na desno po zidu navzgor, h Dnovnemu vratom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/29-32.1792437958823.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעלה",
+      "gloss": "in povedel sem navzgor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knezove Jude"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knezove"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "po … navzgor"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "zidu"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "in postavil sem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dve"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "zahvalni skupini"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "in sprevode"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "na desno"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "po … navzgor"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "zidu"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "h … vratom"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "Dnovnim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:58.825635250Z",
+  "model": "glm-5.3"
+}

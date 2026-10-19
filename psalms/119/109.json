@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je dih\/življenjska moč, ne 'duša' v poznejšem pomenu; uporabljena hebrejska beseda."
+    },
+    {
+      "kind": "idiom",
+      "subject": "v moji dlani",
+      "rationale": "Hebrejski idiom: življenje je v lastni roki — v nevarnosti po lastni odločitvi."
+    },
+    {
+      "kind": "addition",
+      "subject": "toda",
+      "rationale": "Hebrejščina ima le vav, kontrast je podan z ločilom."
+    }
+  ],
+  "translation": "Moja nefes je vedno v moji dlani, toda tvoje Tore nisem pozabil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/109-112.1792435565934.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "v moji dlani"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vedno"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "toda tvoje Tore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "pozabil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:05.935000412Z",
+  "model": "glm-5.3"
+}

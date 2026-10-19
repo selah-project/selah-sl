@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "slovenščina potrebuje modalni glagol, hebrejščina ga ima v יהיה"
+    },
+    {
+      "kind": "measurement",
+      "subject": "oltar",
+      "rationale": "izmera oltarja: 5×5×3 komolcev"
+    }
+  ],
+  "translation": "In naredil boš ⟨את⟩ oltar iz lesa šitim: pet komolcev dolžine in pet komolcev širine; pravokoten naj bo oltar, in tri komolce ⟨naj⟩ bo njegova višina.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "af94911547d91b63b616ff6bfa23579f4a1346476cae516f31c164523953c483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/27\/1-4.1792423606128.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "In naredil boš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iz lesa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dolžine"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "in pet"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "širine"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pravokoten"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "in tri"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "njegova višina"
+    }
+  ],
+  "timestamp": "2026-10-19T15:26:46.128851684Z",
+  "model": "glm-5.3"
+}

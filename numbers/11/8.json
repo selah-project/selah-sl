@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 11:8",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לשד",
+      "rationale": "lešad se v Tanahu pojavi samo tukaj; pomen 'mastna\/sladka pogača' je izpeljan"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשד השמן",
+      "rationale": "'okusa lešada olja': 'kot okus oljne pogače' (JPS) proti 'kot okus svežega olja' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עגות",
+      "rationale": "ugah so okrogle pogače, pečene v pepelu, ne navadne pogače"
+    }
+  ],
+  "translation": "Ljudstvo je hodilo naokoli in ⟨jo⟩ pobiralo, ⟨jo⟩ meljalo v mlinih ali tolklo v terčniku, kuhalo v ponvi in iz nje delalo ⟨את⟩ pogače; in njen okus je bil kakor okus oljnega testa.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/11\/5-8.1792424972469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שטו",
+      "gloss": "je hodilo naokoli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "in ⟨jo⟩ pobiralo"
+    },
+    {
+      "surface": "וטחנו",
+      "gloss": "in ⟨jo⟩ meljalo"
+    },
+    {
+      "surface": "ברחים",
+      "gloss": "v mlinih"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "דכו",
+      "gloss": "tolklo"
+    },
+    {
+      "surface": "במדכה",
+      "gloss": "v terčniku"
+    },
+    {
+      "surface": "ובשלו",
+      "gloss": "in kuhalo"
+    },
+    {
+      "surface": "בפרור",
+      "gloss": "v ponvi"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "in delalo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pogače"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "pogače"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "in bil je"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "njen okus"
+    },
+    {
+      "surface": "כטעם",
+      "gloss": "kakor okus"
+    },
+    {
+      "surface": "לשד",
+      "gloss": "oljnega testa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "z oljem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:49:32.470226733Z",
+  "model": "glm-5.3"
+}

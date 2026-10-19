@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממים רבים",
+      "rationale": "'voda mnogih' proti 'velikih voda'; KJV 'great waters', JPS 'many waters' — hebrejščina pravi 'mnoge'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Razširi",
+      "rationale": "שלח dobesedno 'pošlji (ven)'; 'razširi roke' je idiomatska slovenščina za iztegnjeno roko."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimu (iz v. 1–2)",
+      "rationale": "Vezani imperativi so neposreden nagovor naslovnika iz uvoda psalma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פצני \/ מיד",
+      "rationale": "Paranomazija פצני (reši me) in בני (sinovi) v sosednjih zlogih."
+    }
+  ],
+  "translation": "Razširi svoje roke z višave, reši me in me iztrgaj iz voda mnogih, iz roke sinov tujcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e16963f424e8261bb5d71ce7e0cfdc702fb783752583f68ef2ca1669c69444e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/6-7.1792439061147.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Razširi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z višave"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "in me iztrgaj"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "iz voda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tujcev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:21.148067837Z",
+  "model": "glm-5.3"
+}

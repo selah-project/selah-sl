@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 12:11",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bodo⟩",
+      "rationale": "Slovenščina zahteva pomožni glagol pri prihodnjiku; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "znamenje",
+      "rationale": "מופת je čudež\/znamenje\/omen — Ezechiel sam je simbolni dejanji."
+    }
+  ],
+  "translation": "Reci: Jaz sem vaš znamenje; kakor sem jaz storil, tako bo njim storjeno — v izgnanstvo, v ujetništvo pojdi ⟨bodo⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a875efaf8815459ff2378d6db2361dd8dafd85698f0e7801817bae6010309c87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/12\/9-12.1792432145022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "reci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "מופתכם",
+      "gloss": "vaš znamenje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sem storil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bo storjeno"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "v izgnanstvo"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "v ujetništvo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "pojdi ⟨bodo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T17:49:05.023812458Z",
+  "model": "glm-5.3"
+}

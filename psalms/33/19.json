@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefeš je grlo, dih, življenjska sila — 'duša' je približek"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jih⟩ ⟨da⟩",
+      "rationale": "slovenščina potrebuje namenilni veznik in predmet; hebrejščina jih nima"
+    }
+  ],
+  "translation": "da ⟨jih⟩ reši od smrti, ⟨da⟩ obvaruje njihovo dušo v lakoti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/17-20.1792434779236.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "da reši"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "njihovo dušo"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "in da obvaruje ⟨jih⟩"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "v lakoti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:59.239519259Z",
+  "model": "glm-5.3"
+}

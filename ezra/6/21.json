@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 6:21",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "haggulah",
+      "rationale": "הגולה z dogovorjenim členom: 'iz pregnanstva' — člen se v slovenščini ne zapiše."
+    },
+    {
+      "kind": "crux",
+      "subject": "ha-nivdal",
+      "rationale": "'vsak, ki se je ločil': bodisi Judje, bodisi prozeliti iz okolice, ki so se pridružili vrnjenim — meja med 'ločil se od' in 'ločil se k' je odprta."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨da se je pridružil njim⟩",
+      "rationale": "עליהם 'k njim' stoji brez glagola; slovenščina potrebuje dopolnilo."
+    }
+  ],
+  "translation": "In jedli so sinovi Jisraela, tisti, ki so se vrnili iz pregnanstva, in vsak, ki se je ločil od nečistosti narodov dežele, ⟨da se je pridružil njim⟩, da bi iskal Jahveja, Elohim Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "33cb85166db28eef2ae1bfbc2c2005bc44bb2a5bbb16baa2412f4c7409040926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/6\/21-22.1792437651949.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "in jedli so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "השבים",
+      "gloss": "tisti, ki so se vrnili"
+    },
+    {
+      "surface": "מהגולה",
+      "gloss": "iz pregnanstva"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsak"
+    },
+    {
+      "surface": "הנבדל",
+      "gloss": "ki se je ločil"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "od nečistosti"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "narodov"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k njim"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "da bi iskal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:51.951060462Z",
+  "model": "glm-5.3"
+}

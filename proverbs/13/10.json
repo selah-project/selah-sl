@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת נועצים",
+      "rationale": "את tu kot 'z\/pri': 'z dobro posvetovanimi je modrost' (KJV) proti branju z DOM ⟨את⟩ (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prihaja",
+      "rationale": "יתן dobesedno 'daje': ošabnost 'daje' prepir."
+    }
+  ],
+  "translation": "Samo iz ošabnosti prihaja prepir, modrost ⟨je⟩ pa pri tistih, ki se posvetujejo ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac9f940229486522cf378e10e3e527be06efb7506be619db6b1d76bd3f0008f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/9-12.1792435930881.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "samo"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "iz ošabnosti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "prihaja"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "prepir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tisti, ki se posvetujejo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ki se posvetujejo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:10.882783623Z",
+  "model": "glm-5.3"
+}

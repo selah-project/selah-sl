@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לו דבר",
+      "rationale": "Lo-debar pomeni 'brez paše\/brez besede' — ime kraja, razdeljeno na dva tokena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר",
+      "rationale": "Krajina Ló-debar ('nič ni') stoji v nasprotju z Davidovo gesed v naslednjih verzih."
+    }
+  ],
+  "translation": "In kralj David je poslal ⟨את⟩ njega in vzel ⟨את⟩ njega iz hiše Mahírja, sina Ammiélа, iz Ló-debarja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/9\/5-8.1792428296429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "in vzel ⟨את⟩ njega"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz hiše"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Mahírja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammielá"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "iz Ló-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "debarja"
+    }
+  ],
+  "timestamp": "2026-10-19T16:44:56.429736645Z",
+  "model": "glm-5.3"
+}

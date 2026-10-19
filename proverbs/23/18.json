@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרית",
+      "rationale": "'konec\/prihodnost\/plačilo\/posteriornost' — prevajalci se razhajajo: ASV 'nagrada', JPS 'prihodnost', YLT 'potomstvo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "upanje",
+      "rationale": "תקוה je dobesedno 'vrv, vez', preneseno 'pričakovanje' — slika vrvi je izgubljena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תכרת",
+      "rationale": "'odrezati' se ujema s sliko vrvi (תקוה): upanje-kot-vrv se ne odreže"
+    }
+  ],
+  "translation": "Saj ⟨je⟩ prihodnost in tvoje upanje ne bo odrezano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/17-20.1792436070445.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zagotovo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "prihodnost"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "in tvoje upanje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "bo odrezano"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:30.446797826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בני אשפתו",
+      "rationale": "'sinovi tuleca' — puščice so 'sinovi' nedvomno; dobesedna slika je ohranjena, angleške različice jo izgubijo kot 'arrows'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ledvice",
+      "rationale": "כליות so dobesedno ledvice, notranjost; kot sedeč čustev in misli."
+    }
+  ],
+  "translation": "Vtogil je sinove svojega tuleca v moje ledvice.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/13-16.1792436992038.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Vtogil je"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "v moje ledvice"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "svojega tuleca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:52.038983224Z",
+  "model": "glm-5.3"
+}

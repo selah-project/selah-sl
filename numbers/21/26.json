@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 21:26",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima veznika; brez njega slovenščina ne pove"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראשון",
+      "rationale": "'prvi kralj Moaba' ali 'prejšnjega kralja Moaba' — ali je bil prvi vladar ali predhodnik"
+    }
+  ],
+  "translation": "Kajti Hešbon ⟨je⟩ mesto Sihona, kralja Emorca, on pa se je bojeval s prvim kraljem Moaba in vzel ⟨את⟩ vso njegovo deželo iz njegove roke do Arnona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6e0f7b63a9168f9f21ae87713da43ab7f60b547a00cb3a08bcf4c0000d55ed3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/21\/25-28.1792425175600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hešbon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on pa"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "se je bojeval"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "s kraljem"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "in vzel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso njegovo deželo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "njegovo deželo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iz njegove roke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnona"
+    }
+  ],
+  "timestamp": "2026-10-19T15:52:55.601566635Z",
+  "model": "glm-5.3"
+}

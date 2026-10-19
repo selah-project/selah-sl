@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hasidim",
+      "rationale": "חסידים so 'pobožni\/zvesti', puščeno po hebrejskem zvoku, ker slovenska beseda izgubi barvo hesed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלזו\/ירננו",
+      "rationale": "dva glagola bučnega veselja (skakanje, poklik) v vzporedju"
+    }
+  ],
+  "translation": "Poskočijo hasidim v slavi, poklikujejo na svojih posteljah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/149\/5-8.1792435781894.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "poskočijo"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "hasidim"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "v slavi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "poklikujejo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "svojih posteljah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:41.894792096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 15:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ירזמון",
+      "rationale": "רזם se pojavi samo tu v Tanahu; pomen 'utripniti z očmi' v posmeh ali oholost"
+    },
+    {
+      "kind": "crux",
+      "subject": "pomežikujejo",
+      "rationale": "različice: 'utripajo\/blesnejo' (ASV flash), 'dvigujejo se' (YLV high), 'pomežiknejo' (KJV\/JPS)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jobu",
+      "rationale": "neposreden nagovor Joba, obtožujoči vprašanji o njegovem srcu in očeh"
+    }
+  ],
+  "translation": "Kaj te vzame tvoje srce, in kaj pomežikujejo tvoje oči?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/9-12.1792436387889.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "יקחכ",
+      "gloss": "te vzame"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvoje srce"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "ירזמון",
+      "gloss": "pomežikujejo"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:47.890967518Z",
+  "model": "glm-5.3"
+}

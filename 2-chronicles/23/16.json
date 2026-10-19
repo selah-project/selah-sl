@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Doslovno 'zavezati rezati' — zaveza se sklene z razrezom (žrtve); slovenščina 'skleniti zavezo'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨postali⟩",
+      "rationale": "Slovenščina potrebuje glagol biti v prihodnjiku; hebrejščina ima le lihjót 'biti'."
+    }
+  ],
+  "translation": "In sklenil je Jehojada zavezo med njim in vsem ljudstvom in kraljem, da bodo ⟨postali⟩ ljudstvo Jahveju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "262f8ffd6e4a79b042f21e6150ea151ea9190f02b29d650efd7c60c5e12c794c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/23\/13-16.1792438722509.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "In sklenil je"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "med njim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvom"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "in"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "da bodo ⟨postali⟩"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:42.511587662Z",
+  "model": "glm-5.3"
+}

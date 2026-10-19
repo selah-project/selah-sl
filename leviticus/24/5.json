@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Moše\/Aharonu",
+      "rationale": "versez je navodilo z drugo osebo ednine (›vzel boš‹)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dva desetinka",
+      "rationale": "שנים עשרנים — merska enota (dva desetinka ome\/efe) na halko."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje predlog ›v‹, hebrejščina ima samo besedni red."
+    }
+  ],
+  "translation": "In vzel boš soléto in spekel boš ⟨את⟩ nje dvanajst halk; dva desetinka bo v eni halki.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/24\/5-8.1792424517916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "in vzel boš"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soléta"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "in spekel boš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nje (dvanajst halk)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvanajst"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dvanajst"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "halk"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "desetinka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "halka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-19T15:41:57.916676571Z",
+  "model": "glm-5.3"
+}

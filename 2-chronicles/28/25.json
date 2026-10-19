@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עיר ועיר",
+      "rationale": "podvajanje 'mesto in mesto' pomeni vsak posebej; dobesedno ohranjeno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "višave",
+      "rationale": "במות je dobesedno 'vzpetine', kultna mesta na vzvišenih mestih."
+    }
+  ],
+  "translation": "In v vsakem mestu in mestu Jude je napravil višave, da kadil drugim bogovom, in je razjezil ⟨את⟩ Jahve, Elohim svojih očetov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/28\/25-27.1792438792998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "in vsakem"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mestu"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "in mestu"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je napravil"
+    },
+    {
+      "surface": "במות",
+      "gloss": "višave"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "da kadil"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bogovom"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "drugim"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "in je razjezil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svojih očetov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:39:52.999453991Z",
+  "model": "glm-5.3"
+}

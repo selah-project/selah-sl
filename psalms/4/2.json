@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק צדקי je 'moj cedek' — pravičnost\/kaj je prav; ni nadomeščena z eno besedo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨moje⟩ · ⟨prostor⟩ · ⟨naklonjenost⟩",
+      "rationale": "slovenščina potrebuje zaimke in dopolnitve, ki jih hebrejščina ne izreče"
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "neposreden nagovor Boga z imperative 'usliši, izkaži, poslušaj'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "usliši me",
+      "rationale": "verz začne prošnjo z imperative, ki vleče naslovnika v molitev"
+    }
+  ],
+  "translation": "Ko kličem, usliši me, Elohim ⟨moje⟩ cedeka; v stiski si mi razširil ⟨prostor⟩; izkaži mi ⟨naklonjenost⟩ in poslušaj mojo molitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/4\/1-4.1792434526362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Ko kličem"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "usliši me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "cedeka"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v stiski"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "si razširil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "izkaži mi ⟨naklonjenost⟩"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "in poslušaj"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mojo molitev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:46.363519700Z",
+  "model": "glm-5.3"
+}

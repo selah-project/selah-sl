@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוצע בצע",
+      "rationale": "Isti koren kot glagol in samostalnik — 'grabi grabljenje'; v slovenščini izgubljeno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mamilo",
+      "rationale": "בצע pomeni 'iztrgani plen, nepravični dobiček', ne splošnega bogastva."
+    }
+  ],
+  "translation": "Kdor zaradi mamila vznemirja ⟨svojo⟩ hišo, kdor pa sovraži darove, bo živel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "de6cbe6260b3f3f5d0194cbd567b9cf491168bb0acac71ac5239b751476c1b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/25-28.1792436016860.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "vznemirja"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "zaradi mamila"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mamila"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "sovraži"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "darove"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "bo živel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:36.863047504Z",
+  "model": "glm-5.3"
+}

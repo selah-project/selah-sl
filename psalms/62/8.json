@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "nominalni stavek brez kopule v hebrejščini"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהים … אלהים",
+      "rationale": "verse obdaja Elohim na začetku in koncu — vključevalna struktura"
+    }
+  ],
+  "translation": "Na Elohimu ⟨je⟩ moja rešitev in moja čast, skala moje moči, moje zatočišče ⟨je⟩ v Elohimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/5-8.1792435000378.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "moja rešitev"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "in moja čast"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skala"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "moje moči"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "moje zatočišče"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohimu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:40.381725511Z",
+  "model": "glm-5.3"
+}

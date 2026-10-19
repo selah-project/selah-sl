@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "govoril dobroto",
+      "rationale": "דבר טוב je idiom za prijazen, naklonjen govor; 'govoril prijazno'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so bili⟩",
+      "rationale": "slovenščina potrebuje glagol v odvisnem stavku"
+    }
+  ],
+  "translation": "In govoril je ⟨את⟩ ⟨z njim⟩ dobroto in postavil ⟨את⟩ njegov prestol nad prestol kraljev, ki ⟨so bili⟩ z njim v Bavelu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/29-32.1792432057819.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "in govoril je"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨z njim⟩"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dobroto"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "in postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegov prestol"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "njegov prestol"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "prestolu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ z njim"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "v Bavelu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:37.821215895Z",
+  "model": "glm-5.3"
+}

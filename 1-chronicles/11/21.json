@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשנים",
+      "rationale": "'nad dvema' (dvojina: od treh najbolj čaščen) proti 'v drugi vrsti' (JPS) — slovarji se delijo."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagoliko kopulo, hebrejščina jo nima"
+    }
+  ],
+  "translation": "Od treh je bil nad dvema čaščen in bil ⟨je⟩ jim za poveljnika, vendar do trojice ni prišel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6d2869ded4a682b7334dd65e93da221031857146fd672da7a56377ac5909ff8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/21-24.1792438193341.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "treh"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "nad dvema"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "čaščen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "za poveljnika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "vendar do"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "trojice"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "prišel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:53.346739562Z",
+  "model": "glm-5.3"
+}

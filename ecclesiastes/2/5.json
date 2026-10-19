@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paradiže",
+      "rationale": "פרדס je perzijska izposojenka (pardes) za zasajen park; 'sadovnjak' ali 'park' izgubi zvok izposojenke"
+    },
+    {
+      "kind": "measurement",
+      "subject": "drevje vsakega sadu",
+      "rationale": "katalog Koheletovih del — naštevanje posesti"
+    }
+  ],
+  "translation": "Naredil sem si vrtove in paradiže ter vsadil v njih drevje vsakega sadu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1a135fadfed0d62284ec2d200cc9e0476717fa7655804c22111cd24238aac931",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/5-8.1792437095291.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Naredil sem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "si"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "vrtove"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "in paradiže"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ter vsadil sem"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v njih"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drevje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsakega"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sadu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:35.292251513Z",
+  "model": "glm-5.3"
+}

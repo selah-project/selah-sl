@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tam⟩",
+      "rationale": "Hebrew ויהי דניאל עד je dobesedno 'in Daniel je bil do' — glagol brez kraja; večina prevodov doda 'ostal\/nadaljeval'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "šnat ahat leKoroš",
+      "rationale": "Časovna oznaka — prvo leto Koroša (Cyrusa), ki označuje konec Danielove službe."
+    }
+  ],
+  "translation": "In Daniel je bil ⟨tam⟩ vse do prvega leta Koroša, kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f85826ee73ece88de9602268a67211c28527bd3e1d619642ebe9eaba5a14077b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/21-21.1792437280874.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In je bil"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "leta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "prvega"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Koroša"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:40.875748044Z",
+  "model": "glm-5.3"
+}

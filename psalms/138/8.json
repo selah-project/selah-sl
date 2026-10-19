@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨traja⟩",
+      "rationale": "Hebrejščina izpusti glagol; 'tvoj hesed vekomaj' je ime + ime časa brez kopule."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to, kar je⟩",
+      "rationale": "בעדי je le 'zame, name' — 'dokončal name' potrebuje v slovenščini predmet."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ne zapusti",
+      "rationale": "Zadnji verz je prošnja ( NEG + imperativ), neposreden nagovor Jahveja."
+    }
+  ],
+  "translation": "Jahve bo dokončal ⟨to, kar je⟩ name; Jahve, tvoj hesed ⟨traja⟩ vekomaj: del rok svojih ne zapusti!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/138\/5-8.1792435739100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "bo dokončal"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "del"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "rok svojih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "zapusti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:59.102419736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "David → poveljniki",
+      "rationale": "David se neposredno obrača na voditelje in skupščino, da bi odločili o vrnitvi skrinje."
+    },
+    {
+      "kind": "measurement",
+      "subject": "אלפים ומאות",
+      "rationale": "štetje poveljnikov po tisočih in stotnah — vojaška ureditev ljudstva."
+    }
+  ],
+  "translation": "In David se je posvetoval s poveljniki tisočnikov in stotnikov, s prvim od vsakega vodje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/13\/1-4.1792438205228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "in-se-je-posvetoval"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "poveljniki"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tisočnikov"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "in-stotnikov"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsakemu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "vodja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:05.228993843Z",
+  "model": "glm-5.3"
+}

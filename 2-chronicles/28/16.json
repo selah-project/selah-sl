@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sporočilo⟩",
+      "rationale": "Hebrejščina ima samo 'poslal k', brez predmeta; slovenščina zahteva dopolnitev."
+    },
+    {
+      "kind": "crux",
+      "subject": "kraljem Ašurja",
+      "rationale": "מַלְכֵי je množina 'kraljev', a Ašur je imel enega kralja; mnogi prevodi pišejo ednino."
+    }
+  ],
+  "translation": "Ob tistem času je poslal kralj Ahaš ⟨sporočilo⟩ kraljem Ašurja, naj mu pomagajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5a0ee110e7de3c18ba65bf4d12abfed494a7ec61e0b99cb40d2db6f10eee1f1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/28\/13-16.1792438810232.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ob"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tistem času"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaš"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašurja"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "za pomoč"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:10.234596708Z",
+  "model": "glm-5.3"
+}

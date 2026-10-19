@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika; v wayyiqtol ga slovenščina zahteva."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vihar-ruah",
+      "rationale": "רוח סערה je dobesedno 'ruah nevihte'; sestavljeno, da ohrani ruah."
+    }
+  ],
+  "translation": "In ⟨je⟩ rekel ⟨je⟩ ter postavil vihar-ruah, in valovi njeni so se dvignili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/25-28.1792435412596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in ⟨je⟩ rekel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ter postavil"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "vihar"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "in so se dvignili"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "valovi njeni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:32.597389642Z",
+  "model": "glm-5.3"
+}

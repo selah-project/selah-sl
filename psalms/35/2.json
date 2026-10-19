@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Zagrabi ščit",
+      "rationale": "החזק dobesedno 'zadrži močno \/ prime'; 'zagrabi' ohranja dejanje polaganja roke na orožje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pokrov",
+      "rationale": "צנה je velik ščit z bodicami; 'pokrov' približuje podobo, a izgubi bodičastost."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden nagovor Jahveja kot bojevnika-zavetnika, nadaljevanje iz v. 1."
+    }
+  ],
+  "translation": "Zagrabi ščit in pokrov ter vstani v ⟨mojo⟩ pomoč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c3b94966567152e6c9d4c6a5e483c3a71b7951925f67ae4fd0811823769d108c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/2-3.1792439050722.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Zagrabi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ščit"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "in pokrov"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ter vstani"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "v pomoč mojo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:10.723571575Z",
+  "model": "glm-5.3"
+}

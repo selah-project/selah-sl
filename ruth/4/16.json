@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "slovenščina potrebuje predlog 'za' pri vlogi dojilje; hebrejščina ima samo l- končnico"
+    }
+  ],
+  "translation": "In Noemi je vzela ⟨את⟩ dete in ga položila v svoje naročje, in bila mu je ⟨za⟩ dojiljo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "74b037ff52ec3203f9f2992878e3a2ae3e68d7cc88ba64ad214b7c9b6f428b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/13-16.1792436908968.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "in vzela je"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dete"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "in ga položila"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "v svoje naročje"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in bila je"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "za dojiljo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:28.970322332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je 'pravičnost'; cedek po hebrejskem zvoku po D2"
+    },
+    {
+      "kind": "elision",
+      "subject": "bolj",
+      "rationale": "Hebrejščina izraža primerjavo samo z מ 'od', brez 'bolj'"
+    }
+  ],
+  "translation": "Delati cedek in pravo je izbrano Jahveju bolj kot žrtvovanje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/1-4.1792436050502.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "delati"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "in pravo"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "je izbrano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kot žrtvovanje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:10.504511340Z",
+  "model": "glm-5.3"
+}

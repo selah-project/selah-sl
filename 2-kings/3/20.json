@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "daritev",
+      "rationale": "המנחה je žitna daritev (minha) — daritev, ki se dviguje z dimom zjutraj"
+    },
+    {
+      "kind": "mystery",
+      "subject": "voda s poti Edoma",
+      "rationale": "voda pride brez vetra in dežja — ravno tako, kot je Jahve napovedal; dogodek je čudežen in nepojasnjen"
+    }
+  ],
+  "translation": "In zgodbilo se je zjutraj, ko se je dvigala daritev, in glej, voda je prihajala s poti Edoma, in dežela se je napolnila z ⟨את⟩ vodo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/3\/17-20.1792429383497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se je"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ko se je dvigala"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "באים",
+      "gloss": "je prihajala"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "s poti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "in napolnila se je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "z vodo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:03:03.498637435Z",
+  "model": "glm-5.3"
+}

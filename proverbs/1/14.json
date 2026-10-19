@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žrebica",
+      "rationale": "גורל je dobesedno kamenček za žrebanje; 'vzemi svoj delež' bi izgubilo podobo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גורל",
+      "rationale": "Isti koren pomeni usodo\/delež — vabilo razbojnikov obljublja soudeležbo v usodi"
+    }
+  ],
+  "translation": "Vrži svojo žrebico v našo sredo, ena mošnja bo ⟨vsim⟩ nam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/1\/13-16.1792435758186.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "svojo žrebico"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "vrži"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "v našo sredo"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "mošnja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "⟨vsim⟩ nam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:18.188205965Z",
+  "model": "glm-5.3"
+}

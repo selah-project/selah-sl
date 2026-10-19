@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "slovenščina potrebuje predlog pri 'svoj del', hebrejščina ima samostalnik v stanju konstrukta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף ... אני \/ אף ... אני",
+      "rationale": "podvojen okvir 'tudi jaz' na začetku in koncu verza — ponovitev poudarja Elihujev vstop"
+    }
+  ],
+  "translation": "Odgovoril bom tudi sam ⟨za⟩ svoj del, pokazal bom svoje znanje, tudi sam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8cf0ac026d08a78f98a70a4b55691186cd8b88d31a87859d4846116b87129bed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/32\/17-20.1792436657906.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "odgovoril bom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "svoj del"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "pokazal bom"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "svoje znanje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sam"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:17.906692922Z",
+  "model": "glm-5.3"
+}

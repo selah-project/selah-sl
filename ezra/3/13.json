@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 3:13",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrew passive נשמע brez pomožnika; slovenščina potrebuje 'je bil slišan'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרועה \/ מריעים",
+      "rationale": "besedna igra: ista beseda תרועה in glagol מריעים — vpitje \/ vpijajo; v slovenščini deloma ohranjeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "razločevalo",
+      "rationale": "מכירים dobesedno 'prepoznavali', slovenščina 'razločevati' bolje ujame ločevanje dveh zvokov"
+    }
+  ],
+  "translation": "In ljudstvo ni razločevalo ⟨glasu⟩ vpitja veselja od ⟨glasu⟩ joka ljudstva, kajti ljudstvo je vpijalo veliko vpitje, in glas je bil slišan vse do daleč stran.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1a6622c9f8a24cea8a5e63c44091fa6d800ec5055096a2485b6cae74a6e6e8c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/3\/13-13.1792437644875.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מכירים",
+      "gloss": "razločevalo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "תרועת",
+      "gloss": "vpitje"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "veselja"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "od glasu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "joka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "מריעים",
+      "gloss": "vpijalo"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "vpitje"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "והקול",
+      "gloss": "in glas"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "je bil slišan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vse do"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "daleč stran"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:44.913340887Z",
+  "model": "glm-5.3"
+}

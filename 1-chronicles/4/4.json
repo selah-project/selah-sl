@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "kopula, dodana v slovenščini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Efrata",
+      "rationale": "אפרתה je drugo ime za Bet Lehem, a ime se ne prevaja"
+    }
+  ],
+  "translation": "In Penuel ⟨je⟩ oče Gedorja, in Ezer oče Huše. Ti so sinovi Hura, prvorojenca Efrate, očeta Bet Lehema.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/4\/1-4.1792438036075.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "In Penuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Gedorja"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "in Ezer"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "Huše"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hura"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorojenca"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrate"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehema"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:16.078499045Z",
+  "model": "glm-5.3"
+}

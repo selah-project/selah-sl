@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירעם ככבש",
+      "rationale": "trditev (KJV 'will feed them as a lamb') ali vprašanje (JPS\/BSB 'can He shepherd them?'); hebrejščina nima vprašalnega označevalca."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jagnje",
+      "rationale": "keves je mladi Oven, star toliko, da lahka brcne — 'jagnje' je blizu, a ne točno."
+    }
+  ],
+  "translation": "Kajti kakor trmasta krava je odstopil Jisrael; zdaj jih bo Jahve pasel kakor jagnje ⟨v⟩ širavi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ca471d80ec8d40abda161aa9c1be7ab32dbac353c5a5b6d0422e21a295f85155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/4\/13-16.1792433810227.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "kakor krava"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "trmasta"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "odstopil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "bo pasel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "kakor jagnje"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "v širavi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:50.231058102Z",
+  "model": "glm-5.3"
+}

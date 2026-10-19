@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "in mene",
+      "rationale": "ואתי je lahko veznik + אתי 'in mene' ali vprašalni poudarek 'ali me'; vzeto je 'in mene'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨s sabo⟩",
+      "rationale": "עמך 'z tabo' je v hebrejščini, slovenščina ga izraža kot 's sabo' zaradi druge osebe."
+    },
+    {
+      "kind": "you",
+      "subject": "k Elohim",
+      "rationale": "Job se neposredno obrača na Elohim z vprašanjem."
+    }
+  ],
+  "translation": "In vendar nad takim odpiraš oči ⟨את⟩ in mene ⟨את⟩ privedeš v sodbo ⟨s sabo⟩?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/14\/1-4.1792436361234.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "In vendar"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "takim"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "odpiraš"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ in mene"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "privedeš"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v sodbo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨s sabo⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:21.235271198Z",
+  "model": "glm-5.3"
+}

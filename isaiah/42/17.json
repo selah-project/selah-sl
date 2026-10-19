@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 42:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהינו 'naši Elohim' — množinska oblika imena ostaja, ne 'naš Bog'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "ni v tem verzu; oklepajev ni treba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו בשת",
+      "rationale": "koren בוש \/ בשת — 'sramota se sramoti', ponovitev izgubljena v slovenščini"
+    }
+  ],
+  "translation": "Umaknili se bodo nazaj, pokriti s sramoto bodo tisti, ki zaječajo zatočišče v rezani lik, ki pravijo ulitemu liku: Vi ste naši Elohim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b678dd2df6f7c0ac58d4511db3366d559637e647432391461db891ed456b6121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/42\/17-20.1792430603701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסגו",
+      "gloss": "Umaknili se bodo nazaj"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "pokriti s sramoto bodo"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "s sramoto"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ki zaječajo zatočišče"
+    },
+    {
+      "surface": "בפסל",
+      "gloss": "v rezani lik"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ki pravijo"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ulitemu liku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Vi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ste naši Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:23:23.701954993Z",
+  "model": "glm-5.3"
+}

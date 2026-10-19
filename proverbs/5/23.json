@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo \/ se bo",
+      "rationale": "slovenščina potrebuje pomožnik za prihodnjiškost, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישגה",
+      "rationale": "'zablodi' (KJV) proti 'omišen\/tetiva' (JPS 'reel') — YLT bere 'velja se za velikega'"
+    }
+  ],
+  "translation": "On ⟨bo⟩ umrl brez vzgoje in v obilju svoje neumnosti ⟨se bo⟩ zablodil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/21-23.1792435810524.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "umrl"
+    },
+    {
+      "surface": "באין",
+      "gloss": "brez"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "vzgoje"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "in v obilju"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "svoje neumnosti"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "zablodil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:10.525561956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrew 'בן שנה' lacks a copula; bracketed in the translation"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šestnajst let",
+      "rationale": "Age formula at accession"
+    }
+  ],
+  "translation": "In vzel je vse ljudstvo Jehude ⟨את⟩ Azarjáhu — ta ⟨je bil⟩ star šestnajst let — in naredili so ⟨את⟩ ga za kralja namesto njegovega očeta Amacjáhu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/14\/21-24.1792429609116.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "In vzel je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjáhu"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjáhu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "— ta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "star"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "najst"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "in naredili so za kralja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "namesto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "njegovega očeta"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacjáhu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:06:49.117250200Z",
+  "model": "glm-5.3"
+}

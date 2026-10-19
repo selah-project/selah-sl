@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta bila \/ je bil",
+      "rationale": "Hebrejščina brez kopule v seznamu uradov."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואבימלך",
+      "rationale": "1 Let 18 ima 'Avimeleh, sin Evjatarja', vzporedni 2 Sam 8,17 'Ahimeleh, sin Evjatarja' — znan razkorak med besedili."
+    }
+  ],
+  "translation": "In Cadok, sin Ahituba, in Avimeleh, sin Evjatarja, ⟨sta bila⟩ duhovnika; in Šavša ⟨je bil⟩ pisar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/18\/13-16.1792438270310.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "in Cadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahituba"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "in Avimeleh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatarja"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "duhovnika"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "in Šavša"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "pisar"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:10.314943995Z",
+  "model": "glm-5.3"
+}

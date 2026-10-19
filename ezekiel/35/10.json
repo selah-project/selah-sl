@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bosta⟩",
+      "rationale": "Hebrejščina postavi תהיינה po deležu; slovenščina zahteva glagol prej."
+    },
+    {
+      "kind": "crux",
+      "subject": "וירשנוה",
+      "rationale": "Edninski predmet ('zavzeli ga bomo') kljub 'dvema deželama'; prevedeno množinsko usklajeno."
+    },
+    {
+      "kind": "you",
+      "subject": "do Edoma",
+      "rationale": "Božji govor je naslovljen na goro Seir\/Edom prek 'si rekel'."
+    }
+  ],
+  "translation": "Ker si rekel: Ti dve ljudstvi in ti dve deželi ⟨bosta⟩ moji, in zavzeli ⟨jih⟩ bomo — in Jahve je bil tam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "71cdc1ffe536b38f41edaf6652145c6e0b02c46730fd3c42b7201aa980227277",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/35\/9-12.1792433473417.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "si rekel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dve ljudstvi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dve"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ljudstvi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ti dvi deželi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "deželi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moji"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨bosta⟩"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "in zavzeli ⟨jih⟩ bomo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:13.419128096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הוליד",
+      "rationale": "tretjič je glagol 'rodil' izpuščen — slovenščina ga prenese iz vzorca"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodoslovje",
+      "rationale": "genealoški seznam velikodušniških duhovnikov po očetih"
+    }
+  ],
+  "translation": "In Ješua je rodil ⟨את⟩ Jojakima, in Jojakim je rodil ⟨את⟩ Eljašiba, in Eljašiv ⟨את⟩ Jojado.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/9-12.1792437941930.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "In Ješua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakima"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakima"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "in Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljašiba"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljašiba"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "in Eljašiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojado"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojado"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:41.931265660Z",
+  "model": "glm-5.3"
+}

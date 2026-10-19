@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 21:30",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ so",
+      "rationale": "hebrejščina ima deležniške oblike brez pomožnika, slovenščina dodaja glagol biti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "je prihranjen",
+      "rationale": "יחשך dobesedno 'pridržan, prizanešeno mu je' — tudi 'odrekan'"
+    }
+  ],
+  "translation": "da je krivični prihranjen za dan nesreče, da so za dan izbruhov jeze pripeljani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "469c473ab58b89006cff6650aea9397f6b6a54347bb14441e49d745b672ef942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/21\/29-32.1792436554619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "איד",
+      "gloss": "nesreče"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "je prihranjen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "krivični"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za dan"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "izbruhov jeze"
+    },
+    {
+      "surface": "יובלו",
+      "gloss": "so pripeljani"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:34.621244403Z",
+  "model": "glm-5.3"
+}

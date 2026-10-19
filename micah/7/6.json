@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "Hebrejščina brez kopule; nominalni stavek."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנבל",
+      "rationale": "Pi'el deležnik od נבל: 'razsramuje \/ zaničuje' vs 'se obnaša kot norec' — ista beseda pomeni tudi oven pastirja."
+    }
+  ],
+  "translation": "Kajti sin razsramuje očeta, hči vstaja proti svoji materi, snaha proti svoji tašči; sovražniki moža ⟨so⟩ možje njegovega doma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/7\/5-8.1792434119256.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "razsramuje"
+    },
+    {
+      "surface": "אב",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "vstaja"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "proti svoji materi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "snaha"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "proti svoji tašči"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "sovražniki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegovega doma"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:59.258452988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "je omagalo",
+      "rationale": "כחש dobesedno 'lagati, odreči se'; tu o telesu: 'prevarati, odpovedati' — meso je odreklo svojo maščobo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "post",
+      "rationale": "telo šteje izgubo maščobe zaradi posta — telesna meritev trpljenja"
+    }
+  ],
+  "translation": "Moja kolena omahujejo zaradi posta, in moje meso je omagalo od maščobe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/21-24.1792435456767.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Moja kolena"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "omahujejo"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "zaradi posta"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "in moje meso"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "je omagalo"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "od maščobe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:16.768332115Z",
+  "model": "glm-5.3"
+}

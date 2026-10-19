@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skrivnost",
+      "rationale": "סוד je 'zaupni svet, svet posveta, zaupanje'; 'skrivnost' izgubi družbeno razsežnost."
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Verz govori o skritem, zaupnem, kar se ne sme razkriti."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperativa",
+      "rationale": "Dvojni ukaz: 'preganjaj' in 'ne razkrivaj' se obračata na poslušalca."
+    }
+  ],
+  "translation": "Preganjaj svoj pravdo s ⟨את⟩ svojim prijateljem, in skrivnosti drugega ne razkrivaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/9-12.1792436118613.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "preganjaj svoj"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pravdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojim prijateljem"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "svojim prijateljem"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "in skrivnost"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "drugega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "razkrivaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:18.614178312Z",
+  "model": "glm-5.3"
+}

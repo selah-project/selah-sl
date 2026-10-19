@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bil⟩",
+      "rationale": "hebrejščina brez kopule: נצב מלך 'namestnik kralj'."
+    },
+    {
+      "kind": "crux",
+      "subject": "נצב",
+      "rationale": "nasáv 'postavljen častnik': 'namestnik' (JPS\/ASV) proti 'postavil je kralja' (YLT, s predpostavko druge osebe)."
+    }
+  ],
+  "translation": "In kralja ni bilo v Eduomu, namestnik ⟨je bil⟩ kralj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "571090c7f3045816ff85fc24c4d338719eca3e7bc704a8b102c1acf557d6cff3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/22\/45-48.1792429319422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "in kralja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni bilo"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "v Eduomu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "namestnik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    }
+  ],
+  "timestamp": "2026-10-19T17:01:59.423668953Z",
+  "model": "glm-5.3"
+}

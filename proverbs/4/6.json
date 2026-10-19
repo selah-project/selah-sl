@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ jo",
+      "rationale": "Slovenščina zahteva dodan ženski osebek (modrost), hebrejščina ga ima v končnici."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותשמרך \/ ותצרך",
+      "rationale": "Dva glagola 'varovati' (šamar in nacar) v vzporednih polverzih — paronomastična blizinost."
+    }
+  ],
+  "translation": "Ne zapuščaj je, ⟨in⟩ varovala te bo; ljubi jo, ⟨in⟩ varovala te bo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/4\/5-8.1792435847884.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "zapuščaj je"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "in varovala te bo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ljubi jo"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "in varovala te bo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:47.884780958Z",
+  "model": "glm-5.3"
+}

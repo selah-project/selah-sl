@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "besede požiranja",
+      "rationale": "דִּבְרֵי בָלַע je status constructus 'besede požiranja'; ' pohujšljive besede' bi zgubilo sliko grizenja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלע",
+      "rationale": "כל בלע — 'ves požir' tvori zveneč par z besedami uničenja v psalmu"
+    }
+  ],
+  "translation": "Ljubiš vse besede požiranja, jezik prevaranta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/52\/5-8.1792434886302.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ljubiš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "požiranja"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezik"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevaranta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:46.304207040Z",
+  "model": "glm-5.3"
+}

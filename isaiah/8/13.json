@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola biti: והוא מוראכם dobesedno 'in on strah-vaš'."
+    },
+    {
+      "kind": "you",
+      "subject": "Isaiju in ljudstvu",
+      "rationale": "Neposreden oslovljalni vzvod osebne množine: posvečujte."
+    },
+    {
+      "kind": "crux",
+      "subject": "Jahve Cebaot",
+      "rationale": "Ime z naslovom vojsk — ne 'Gospod nad vojskami'; צבאון ostane del Imena."
+    }
+  ],
+  "translation": "⟨את⟩ Jahveja Cebaot — ⟨את⟩ njega posvečujte, in on ⟨je⟩ vaš strah in on ⟨je⟩ vaš trepet.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/8\/13-16.1792430002526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja Cebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njega",
+      "marks": "posvečujte"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "posvečujte"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "vaš strah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "vaš trepet"
+    }
+  ],
+  "timestamp": "2026-10-19T17:13:22.527222136Z",
+  "model": "glm-5.3"
+}

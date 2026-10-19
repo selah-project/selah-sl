@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשרי",
+      "rationale": "Dobesedno 'sreče (moža)' — vzklik 'kako srečen!'"
+    },
+    {
+      "kind": "you",
+      "subject": "Hvalite Jaha",
+      "rationale": "Vezani imperativ, ki bralca nagovarja k hvaljenju"
+    }
+  ],
+  "translation": "Hvalite Jaha! Kako srečen je mož, ki se boji ⟨את⟩ Jahveja, ki v njegove zapovedi hlepi zelo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/1-4.1792435471582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Kako srečen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se boji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "v njegove zapovedi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hlepi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:31.583223368Z",
+  "model": "glm-5.3"
+}

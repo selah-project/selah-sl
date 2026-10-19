@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨prostor⟩",
+      "rationale": "פנית dobesedno 'obrnil si \/ naredil prostor'; slovenščina potrebuje predmet"
+    }
+  ],
+  "translation": "Očistil si ⟨prostor⟩ pred njo, ukoreninila je svoje korenine in napolnila je deželo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/80\/9-12.1792435191904.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "očistil si"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "pred njo"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "in ukoreninila je"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "svoje korenine"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "in napolnila je"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deželo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:51.905253319Z",
+  "model": "glm-5.3"
+}

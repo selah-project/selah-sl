@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עשר",
+      "rationale": "slovenščina izrazi ena-jedan-z-i v eni besedi; hebrejščina ga razbije na עשתי עשר (ena-od-ten)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "deseti, enajsti",
+      "rationale": "nadaljevanje štetja seznamov"
+    }
+  ],
+  "translation": "Jirmejahu deseti, Mahbanaj enajsti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/12\/13-16.1792438178332.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "deseti"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Mahbanaj"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "enajsti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-na"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:38.338178364Z",
+  "model": "glm-5.3"
+}

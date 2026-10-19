@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sebi⟩",
+      "rationale": "Hebrejski zaimki לך in אליק zahtevajo slovenski povratni dodatek"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאכל\/יאכל\/לאכלה",
+      "rationale": "Trikratni koren אכל v enem verzu — hrana\/jesti\/hrana; slovenščina deloma ohrani zvočno bližino"
+    }
+  ],
+  "translation": "In ti vzemi ⟨sebi⟩ iz vse hrane, ki se je da jesti, in zberi k ⟨sebi⟩; in ⟨bo⟩ ⟨to⟩ ⟨tebi⟩ in ⟨njim⟩ za hrano.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3947e8d9366035b5c148ca6650227557417e0bb1c52013a453a423bdbcfdf029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/6\/21-22.1792422040832.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "in ti"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vzemi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sebi⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz vse"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "hrane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se je da jesti"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "in zberi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k ⟨sebi⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "in ⟨bo⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tebi⟩"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "in ⟨njim⟩"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "za hrano"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:40.833295301Z",
+  "model": "glm-5.3"
+}

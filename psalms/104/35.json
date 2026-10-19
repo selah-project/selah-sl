@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "moja duša",
+      "rationale": "neposreden nagovor lastne duše, ki se obrne v vabilo občinstvu (halelu-Jah)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "imperativ, vabilo k slavljenju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih\/življenjska sila, ne nesmrtna duša"
+    }
+  ],
+  "translation": "Naj se izčrpavajo grešniki iz zemlje in hudobnežev naj več ni. Blagoslavljaj, moja duša, ⟨את⟩ Jahve. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0f8e6102456bb3bc270249a1ea47b7d8116ccc079f8644cca50f3ccedeb565d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/33-35.1792435332178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "naj se izčrpavajo"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "grešniki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "in hudobnežev"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "več"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "jih ni"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "blagoslavljaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halelu (slavite)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:12.179637873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moja duša",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "להטים",
+      "rationale": "'plameni\/lizajoči' — kot goreči ali kot požrešni ljudje; odločil sem se za podobo plamena"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima kopule v stalnem stihu"
+    }
+  ],
+  "translation": "Med levje (med levji) ⟨je⟩ moja duša, ležim med požiralniki — sinovi človeka, katerih zobje so kopje in puščice, in njihov jezik oster meč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/57\/5-8.1792434953575.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "med"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "levji"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ležim"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "požiralniki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "njihovi zobje"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "kopje"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "in puščice"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "in njihov jezik"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "oster"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:53.576884614Z",
+  "model": "glm-5.3"
+}

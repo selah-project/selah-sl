@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 29:28",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השיר משורר · החצצרות מחצצרים",
+      "rationale": "infinitivni vzorec: vsako glaglo odmeva svoj samostalnik — pesem se pesmi-poje, trobenta trobi-trobi; slovenščina lahko le delno ponazori"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žgalna daritev",
+      "rationale": "עלה je 'tisto, kar gre gor (v dimu)' — 'žgalna daritev' je ustaljeni slovenski prevod podobe"
+    }
+  ],
+  "translation": "In vsa skupščina se je priklanjala in pesem se je pela in trobente so trobile — vse to, dokler se ni končala žgalna daritev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "83f297915109c9a3c5a545ee5883ce5a5109590f9227aa3bd65d7ebfe21de72b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/29\/25-28.1792438850057.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "skupščina"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "se je priklanjala"
+    },
+    {
+      "surface": "והשיר",
+      "gloss": "in pesem"
+    },
+    {
+      "surface": "משורר",
+      "gloss": "se je pela"
+    },
+    {
+      "surface": "והחצצרות",
+      "gloss": "in trobente"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "so trobile"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "se ni končala"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "žgalna daritev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:50.060547328Z",
+  "model": "glm-5.3"
+}

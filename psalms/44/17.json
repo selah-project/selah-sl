@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "hebrejska zveza 'izpred obraza' pomeni 'zaradi, pred', dobesedna podoba obrazov je ohranjena"
+    },
+    {
+      "kind": "you",
+      "subject": "neposredni govor",
+      "rationale": "verz nadaljuje prvoosebno prošnjo z v. 16, naslovnik je Elohim"
+    }
+  ],
+  "translation": "Zaradi glasu zmerjalca in preklinjalca, pred obrazom sovražnika in maščevalca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/17-20.1792434821926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "zaradi glasu"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "zmerjalca"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "in preklinjalca"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred obrazom"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnika"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "in maščevalca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:41.927699860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המפשעה",
+      "rationale": "evfemistični izraz za sramno predel — 'kolkov' (JPS) ali 'zadnjice' (KJV)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "גילוח",
+      "rationale": "obritje brade je bilo v starodavnem Bližnjem vzhodu globoka sramota — 19,5 jo izrecno imenuje"
+    }
+  ],
+  "translation": "In Hanun je vzel ⟨את⟩ služabnike Davida in jih obril ter jim odrezal ⟨את⟩ njihova oblačila po polovici do kolkov in jih poslal stran.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/19\/1-4.1792438311433.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "In je vzel"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "služabnike Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služabnike"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "jih obril"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "odrezal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihova oblačila"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "njihova oblačila"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "po polovici"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "kolkov"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "jih poslal stran"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:51.437287689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodoslovje",
+      "rationale": "verz je čist seznam imen v rodovniku"
+    }
+  ],
+  "translation": "Azarja je rodil ⟨את⟩ Heleca, Helec pa je rodil ⟨את⟩ Elaso.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc414417f02ff277b410e43c78a2241847cb631b01506fa8b4c763da6a8d57fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/37-40.1792438004514.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heleca"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helec"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "Helec"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elaso"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:44.517070059Z",
+  "model": "glm-5.3"
+}

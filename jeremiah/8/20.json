@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva pomožni glagol; hebrejščina ima sam glagol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קציר\/קיץ",
+      "rationale": "zveneči par žetev–poletje (qacir\/qajic) ponavlja isti konzonantni okvir; v slovenščini izgubljen."
+    },
+    {
+      "kind": "mystery",
+      "subject": "nismo bili rešeni",
+      "rationale": "prispodoba zaprtega časa: ko je žetev mimo, rešitve ni več — zadržano, nedosegljivo upanje."
+    }
+  ],
+  "translation": "Minila je žetev, končalo se je poletje, in mi nismo bili rešeni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/8\/17-20.1792431261435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "minila je"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žetev"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "končalo se je"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "poletje"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "in mi"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "smo bili rešeni"
+    }
+  ],
+  "timestamp": "2026-10-19T17:34:21.436934832Z",
+  "model": "glm-5.3"
+}

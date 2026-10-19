@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסדו",
+      "rationale": "dovoljenje 'moj hesed' nasproti dobesednemu 'njegov hesed'; KJV\/JPS berejo 'moja milost'"
+    },
+    {
+      "kind": "elision",
+      "subject": "יראני בשררי",
+      "rationale": "hebrejščina pravi dobesedno 'prikazal me nad nasprotniki' — 'videti ⟨to⟩' je dodano"
+    }
+  ],
+  "translation": "Elohim, hesed moj, me bo prehitel; Elohim mi bo pokazal ⟨to⟩ nad mojimi nasprotniki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/9-12.1792434927694.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed moj"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "me bo prehitel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mi bo pokazal"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "nad mojimi nasprotniki"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:27.696571414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שדי",
+      "rationale": "Tu dvojna oblika 'moji prsi', isto soglasje kot Ime Šadaj — v Pesmi pomeni prsi, ne Božje ime."
+    },
+    {
+      "kind": "you",
+      "subject": "govorka",
+      "rationale": "Ljubiteljski monolog naslovljen na dod (moj ljubljeni)."
+    },
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Slovenščina potrebuje pomožnik za prihodnji čas; hebrejščina ima sam deležnik."
+    }
+  ],
+  "translation": "Snopič mire je moj ljubljeni ⟨zame⟩, med mojimi prsmi bo prenočil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/1\/13-16.1792436844471.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "snopič"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mire"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "moj ljubljeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi je"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mojimi prsmi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bo prenočil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:24.472542967Z",
+  "model": "glm-5.3"
+}

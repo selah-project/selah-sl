@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Elohim … El",
+      "rationale": "stih se odpre in zapre z Imenom v dveh oblikah, okvir treh prepovedi; v slovenščini okvir ostane viden."
+    },
+    {
+      "kind": "invitation",
+      "subject": "proti Elohim",
+      "rationale": "tri imperativi z אל — neposreden klic, prošnja za posredovanje."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "neposreden ogovor Boga z dvojnim Imenom."
+    }
+  ],
+  "translation": "Elohim, ne bodi tiho, ne molči in ne miruj, El.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/83\/1-4.1792435165094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "bodi tiho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "molči"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "miruj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:25.095780359Z",
+  "model": "glm-5.3"
+}

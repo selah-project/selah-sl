@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "דבר je 'stvar\/dejanje'; v negaciji 'ne morem storiti stvari' → slovenščina praša 'ničesar'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "dvojni hebrejski veznik 'zaradi tega' se stisne v eno slovensko 'zato'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "k Lotu",
+      "rationale": "neposreden nagovor z dvema velelnikoma: pohiti, pobegni"
+    }
+  ],
+  "translation": "Pohiti, pobegni tja, kajti ne morem storiti ⟨ničesar⟩, dokler ne prideš tja. Zato se je ime mesta imenovalo Coar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a31fe20f198e93a3a6c52f7a4e1ca54da812d62f46dab9f884816cec029b41b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/19\/22-24.1792433260088.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Pohiti"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "pobegni"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "morem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "storiti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ničesar⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ne prideš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tja"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi tega"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "se je imenovalo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Coar"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:40.090115088Z",
+  "model": "glm-5.3"
+}

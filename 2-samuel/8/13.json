@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "osemnajst tisoč",
+      "rationale": "Štetje padlih; hebrejščina ne pove kdo — samo številka."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארם",
+      "rationale": "Besedilo pravi Aram (Sirija), a vzporedni 1 Let 18,12 pravi Edom; nekateri prevodi (BSB) tukaj pišejo Edomce."
+    }
+  ],
+  "translation": "In David si je naredil ime, ko se je vrnil s poraza ⟨את⟩ Arama v Solni dolini — osemnajst tisoč.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/8\/13-16.1792428247771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "si je naredil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "ko se je vrnil"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "s poraza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arama"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "v dolini"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "najst"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    }
+  ],
+  "timestamp": "2026-10-19T16:44:07.772321373Z",
+  "model": "glm-5.3"
+}

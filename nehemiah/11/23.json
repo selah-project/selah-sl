@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil \/ je",
+      "rationale": "Hebrew lacks copulas"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמנה",
+      "rationale": "'zaveza\/zaupanja vredna določitev' vs 'dnevna podpora'; dobesedno 'trdnost, zanesljivost'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "zadeva dneva v njegovem dnevu",
+      "rationale": "דבר יום ביומו — dnevna določba za vsak dan posebej"
+    }
+  ],
+  "translation": "kajti ukaz kralja ⟨je bil⟩ nad njimi in določena podpora ⟨je⟩ za pevce, zadeva dneva v njegovem dnevu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "07948434fdee8900079e18a603fce29ac57c807416e6f313742fce0c3b5283e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/11\/21-24.1792437959221.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ukaz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "in določena podpora"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "pevce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zadeva"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "v njegovem dnevu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:59.229799159Z",
+  "model": "glm-5.3"
+}

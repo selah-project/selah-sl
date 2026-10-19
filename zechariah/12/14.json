@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משפחת משפחת",
+      "rationale": "Dvojna ponovitev pomeni »vsaka družina (posebej)«; dobesedno »družina družine«."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבד ×4",
+      "rationale": "Štirikratna ponovitev »sama« v dveh verzih poudarja ločenost žalovanja."
+    }
+  ],
+  "translation": "vse družine, ki so ostale, družina za družino sama, in njihove žene same;",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9da2352e6f394225960ba5903795fbcb2a8b4fdd72ebf72b245f0f252075b458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/12\/13-14.1792434414187.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "družine"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "ki so ostale"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "družina"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "za družino"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "njihove žene"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "same"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:54.188802990Z",
+  "model": "glm-5.3"
+}

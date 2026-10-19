@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joel 2:22",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨polja⟩",
+      "rationale": "שדי je samostalnik 'polje' v vezavi; slovenščina potrebuje oznako lastnosti, zato v oglatem oklepaju."
+    },
+    {
+      "kind": "substitution",
+      "subject": "puščava",
+      "rationale": "מדבר je odprto pašno polje, kamor se žene živina; 'puščava' je odzevali poznejši pomen."
+    },
+    {
+      "kind": "you",
+      "subject": "živina",
+      "rationale": "Nagovor živine kot naslovnika — drugi člen verige veselja (zemlja → živina → sinovi Ciona)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ne bojte se",
+      "rationale": "Zapoved, naslovljena na živino polja."
+    }
+  ],
+  "translation": "Ne bojte se, živina ⟨polja⟩, kajti ozeleneli so pašniki puščave, kajti drevo je prineslo svoj sad, smokva in vinska trta sta dali svojo moč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "82e2a67a6b76052e305ec376b5b6329f069746ecd048df173740b1e2d0160b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/2\/21-24.1792433886378.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "živina"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "⟨polja⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "דשאו",
+      "gloss": "so ozeleneli"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pašniki"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "puščave"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drevo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "je prineslo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "svoj sad"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "smokva"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "in vinska trta"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sta dali"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "svojo moč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:06.380863674Z",
+  "model": "glm-5.3"
+}

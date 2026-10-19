@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 4:7",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "priča",
+      "rationale": "התעודה je 'pričevanje,overitev' — dejanje potrditve, ne oseba-priča."
+    },
+    {
+      "kind": "addition",
+      "subject": "je bilo \/ je bila",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina je sestavljena fraza brez kopule."
+    },
+    {
+      "kind": "elision",
+      "subject": "החליפה \/ התמורה",
+      "rationale": "Razlika med odkupom ( sorodstvena pravica ) in zamenjavo (prosta menjava) je v slovenščini stisnjena v en par besed."
+    }
+  ],
+  "translation": "In to je bilo nekdaj v Jisraelu glede odkupa in glede zamenjave: da bi potrdili vsako stvar, je človek snel svojo sandalo in jo dal svojemu bližnjemu; to pa je bila priča v Jisraelu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/5-8.1792436919290.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "In to"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "nekdaj"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Jisraelu"
+    },
+    {
+      "surface": "על",
+      "gloss": "glede"
+    },
+    {
+      "surface": "הגאולה",
+      "gloss": "odkupa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "in glede"
+    },
+    {
+      "surface": "התמורה",
+      "gloss": "zamenjave"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "da bi potrdili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "stvar"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "snel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "svojo sandalo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "in dal"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "svojemu bližnjemu"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "in to"
+    },
+    {
+      "surface": "התעודה",
+      "gloss": "priča"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Jisraelu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:39.291981033Z",
+  "model": "glm-5.3"
+}

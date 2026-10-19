@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 37:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grmi",
+      "rationale": "ירעם je glagol gromanja, uporabljen o Elu — slika nevihte"
+    },
+    {
+      "kind": "mystery",
+      "subject": "in jih ne poznamo",
+      "rationale": "velika dela so nedoumljiva — besedilo izrecno zadrži znanje"
+    }
+  ],
+  "translation": "El grmi s svojim glasom čudovito; dela velike reči, in jih ⟨ne⟩ poznamo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/37\/5-8.1792436715343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "grmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "s svojim glasom"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "čudovito"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "poznamo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:15.344030446Z",
+  "model": "glm-5.3"
+}

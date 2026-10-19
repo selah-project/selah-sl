@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "slovenščina potrebuje pomožni glagol pri deležniku"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "dobesedno 'pred obličjem', hebrejski zvezek za 'v očeh \/ pred'"
+    }
+  ],
+  "translation": "In pokvarjena je bila zemlja pred obličjem Elohimovim, in napolnila se je zemlja s nasiljem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b4c2c2dd9fd903c5606b012f1f4ee9736c5246b1ac4bd9c4d70bef2f0c2382c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/6\/9-12.1792422059688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "In pokvarjena je bila"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "in napolnila se je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "z nasiljem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:59.689570860Z",
+  "model": "glm-5.3"
+}

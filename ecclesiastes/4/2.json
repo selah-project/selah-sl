@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bolj kot",
+      "rationale": "primerjalni מן ter opuščen glagolski predmet iz prejšnjega verza zahtevata slovensko primerjavo."
+    }
+  ],
+  "translation": "In hvalil sem, jaz, ⟨את⟩ mrtve, ki so že umrli, bolj kot žive, ki so ti živi do zdaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/4\/1-4.1792437111388.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "in hvalil sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtve"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mrtve"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "že"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "so umrli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bolj kot"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "žive"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "so ti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živi"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "do zdaj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:51.390092030Z",
+  "model": "glm-5.3"
+}

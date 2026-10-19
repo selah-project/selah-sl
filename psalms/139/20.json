@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "s tvojim imenom",
+      "rationale": "KJV 'vzamejo tvoje ime zaman' doda 'ime' — hebrejščina ima samo glagol נשא 'dvigniti\/izreči'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יאמרך",
+      "rationale": "'Izrečejo te\/zlorabijo tvoje ime' — ali 'te izrečejo' ali 'imenujejo te' (JPS 'izrečejo tvoje ime z zlobno mislijo')."
+    }
+  ],
+  "translation": "Ki te omenjajo v zlobnem namenu, tvoji sovražniki ⟨s tvojim imenom⟩ vzamejo zaradi praznine.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/139\/17-20.1792435717276.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "te omenjajo"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "v zlobnem namenu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "vzamejo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "zaradi praznine"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tvoji sovražniki"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:37.278084171Z",
+  "model": "glm-5.3"
+}

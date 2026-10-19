@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לוה",
+      "rationale": "'posoja si in ne povrne' (posojilo) proti glagolu 'zlepi se \/ druži' — večina prevodov jemlje posojilo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rashá",
+      "rationale": "רשע je 'navadno hudobnež', ne samo 'krivičen'."
+    }
+  ],
+  "translation": "Posoja si ↴rashá in ne povrne, pravični pa je usmiljen in daje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/21-24.1792434754222.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "posoja si"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "povrne"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "pravični pa"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "je usmiljen"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "in daje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:34.222717243Z",
+  "model": "glm-5.3"
+}

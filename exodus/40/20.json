@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kaporet",
+      "rationale": "הכפרת: 'pokrov sprave' (traditionalno) proti dobesednemu 'pokrov'; koren כפר = sprava"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקח",
+      "rationale": "'in vzel' stoji brez navezanega predmeta — predmet (tablice pričevanja) je vpleten v העדת"
+    }
+  ],
+  "translation": "In vzel je in dal ⟨את⟩ pričevanje v skrinjo ter nasadil ⟨את‬⟩ ⟨את⟩ palice na skrinjo ter položil ⟨את⟩ kaporet na skrinjo od zgoraj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/40\/17-20.1792423952851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vzel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pričevanje"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pričevanje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nasadil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palice"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "palice"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "položil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "od zgoraj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:32:32.852880029Z",
+  "model": "glm-5.3"
+}

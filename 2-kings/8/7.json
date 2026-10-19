@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 8:7",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "in naznanjeno mu je bilo",
+      "rationale": "hebrejski brezosebni ויגדל v slovenščini zahteva glagol v trpniku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohimov človek",
+      "rationale": "איש האלהים dobesedno 'človek Elohimov' — naziv Eliša kot preroka"
+    }
+  ],
+  "translation": "In Eliša je prišel v Damasek, Ben-Hadad pa, kralj Arama, je zbolel. In naznanjeno mu je bilo rekoč: Človek Elohimov je prišel do sem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/8\/5-8.1792429568834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "v Damasek"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "je zbolel"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "je naznanjeno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sem"
+    }
+  ],
+  "timestamp": "2026-10-19T17:06:08.836112541Z",
+  "model": "glm-5.3"
+}

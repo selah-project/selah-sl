@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח ... שלח",
+      "rationale": "Ponovitev glagola 'poslati' iz v17 in v20 obdaja Josefovo trpljenje"
+    }
+  ],
+  "translation": "Poslal je kralj in ga odvezal, vladar ljudstev, in ga osvobodil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/17-20.1792435348908.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁלַח",
+      "gloss": "poslal je"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "וַיַּתִּירֵהוּ",
+      "gloss": "in ga odvezal"
+    },
+    {
+      "surface": "מֹשֵׁל",
+      "gloss": "vladar"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "ljudstev"
+    },
+    {
+      "surface": "וְיַפְתְּחֵהוּ",
+      "gloss": "in ga osvobodil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:28.909821867Z",
+  "model": "glm-5.3"
+}

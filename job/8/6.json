@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 8:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק je po D2 cedek; 'pravičnost' bi izbrisalo hebrejsko besedo."
+    },
+    {
+      "kind": "crux",
+      "subject": "obnovil prebivališče",
+      "rationale": "ושלם נות: 'narediti prebivališče uspešnim\/celim'; prevodi razhajajo med 'obnoviti' in 'narediti uspešnim'."
+    }
+  ],
+  "translation": "če si čist in raven, že zdaj se bo zate zbudil in obnovil prebivališče tvojega cedeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/5-8.1792436326056.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "זך",
+      "gloss": "čist"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "in raven"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "se bo zbudil"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "zate"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "in obnovil"
+    },
+    {
+      "surface": "נות",
+      "gloss": "prebivališče"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvojega cedeka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:46.057757326Z",
+  "model": "glm-5.3"
+}

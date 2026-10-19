@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "hebrejščina ne ponudi osebka glagola v drugem stavku; subjekt ostaja Jahve"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מארת\/יברך",
+      "rationale": "nasprotje prekletstvo—blagoslov v obeh polveršicah"
+    }
+  ],
+  "translation": "Prekletstvo Jahveja je v hiši krivičnega, ⟨оn⟩ pa blagoslavlja prebivališče cedekovih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/3\/33-35.1792435821443.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "prekletstvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "⟨оn pa⟩ prebivališče"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cedekovih"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslavlja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:21.443888443Z",
+  "model": "glm-5.3"
+}

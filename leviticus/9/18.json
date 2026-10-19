@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "Hebrejščina ima končnico v ויזרקהו (namig na kri), slovenščina potrebuje samostalnik."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šelamim",
+      "rationale": "השלמים dobesedno 'popolnine \/ zahvalne daritve' — oblika šelamim ohrani hebrejski zvok."
+    }
+  ],
+  "translation": "In zaklal je ⟨את⟩ bika in ⟨את⟩ ovna, daritev šelamim, ki je bila za ljudstvo; in sinovi Aharonovi so mu prinesli ⟨את⟩ kri, in ta je škropil ⟨jo⟩ na oltar naokoli.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/9\/17-20.1792424146336.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "zaklal je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bika"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "ovna"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ovna"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za ljudstvo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "prinesli so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kri"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "škropil je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naokoli"
+    }
+  ],
+  "timestamp": "2026-10-19T15:35:46.337350506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכסה",
+      "rationale": "'kesé' — polna luna (tako JPS, ASV) ali 'ustanovljen čas' (KJV); koren pomeni 'polnost'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "koledarski časi",
+      "rationale": "verz določa točen čas: nova luna, polna luna, dan praznika"
+    }
+  ],
+  "translation": "Potrubite ob novi luni šofar, ob polni luni, na dan ⟨našega⟩ praznika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/1-4.1792435194672.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "potrubite"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ob novi luni"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ob polni luni"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na dan"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "praznika ⟨našega⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:54.675051039Z",
+  "model": "glm-5.3"
+}

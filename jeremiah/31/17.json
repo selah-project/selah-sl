@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 31:17",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrew ויש lacks an expressed copula in this position"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zadnja prihodnost",
+      "rationale": "אחרית je dobesedno 'zadnji konec'; ena beseda v hebrejščini, dve v slovenščini"
+    }
+  ],
+  "translation": "In ⟨je⟩ upanje za tvojo zadnjo prihodnost, govori Jahve, in sinovi se vrnejo na svojo mejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a376f08c9d7f899c2c8e8ac50c0b0b5ae1a6749ce6dc3be31292fabfd22fff8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/31\/17-20.1792431628199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "in obstaja"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "upanje"
+    },
+    {
+      "surface": "לאחריתך",
+      "gloss": "za tvojo zadnjo prihodnost"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "in se vrnejo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "לגבולם",
+      "gloss": "na svojo mejo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:40:28.200583336Z",
+  "model": "glm-5.3"
+}

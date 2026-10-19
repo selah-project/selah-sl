@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "sem se skril",
+      "rationale": "כסתי dobesedno 'pokril sem se'; tudi 'zatekel sem se' (glej KJV), a slika pokritja je primarna."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מאיבי",
+      "gloss": "hebrejski 'moji sovražniki' dobesedno 'tisti, ki me sovražijo'."
+    }
+  ],
+  "translation": "Reši me pred mojimi sovražniki, Jahve; pri tebi sem se skril.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/9-12.1792435715445.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Reši me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "pred mojimi sovražniki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pri tebi"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "sem se skril"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:35.446617606Z",
+  "model": "glm-5.3"
+}

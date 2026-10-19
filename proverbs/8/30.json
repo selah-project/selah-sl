@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 8:30",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמון",
+      "rationale": "slavni spor: »mojstrica\/arhitektka« (LXX, RSV) proti »dojenček\/varovanec« (KJV »one brought up«, JPS »nursling«) — koren אמן nosi oba pomena."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kot⟩",
+      "rationale": "slovenščina potrebuje primervo, hebrejščina postavlja אמון neposredno."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שעשעים \/ שׂחקת",
+      "rationale": "koren שעשע (veselje, igranje) se sliši v שחק (smeh, igra) — zvočna vez med vv. 30–31."
+    }
+  ],
+  "translation": "Tedaj sem bila ob njem ⟨kot⟩ mojstrica, in sem bila razvedrilo dan za dnem, igrajoč pred njim ves čas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f01ec9c24aad581e52a50cf7f4499d75f2cace7d10af198898225ad9df0a3e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/29-32.1792435884227.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "in sem bila"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "ob njem"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "mojstrica"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "in sem bila"
+    },
+    {
+      "surface": "שעשעים",
+      "gloss": "razvedrilo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "za dnem"
+    },
+    {
+      "surface": "משחקת",
+      "gloss": "igrajoč"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:24.228567223Z",
+  "model": "glm-5.3"
+}

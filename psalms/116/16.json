@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני עבדך ... אני עבדך",
+      "rationale": "Podvojenje 'jaz sem tvoj suženj' — ponovitev kot retorično poudarjanje, ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "razvejal",
+      "rationale": "פתח je dobesedno 'odprl'; 'odprl moje vezi' = odveza, ne zlom."
+    },
+    {
+      "kind": "you",
+      "subject": "molivec k Jahveju",
+      "rationale": "Neposreden ogovor z Ah\/אנה."
+    }
+  ],
+  "translation": "Ah, Jahve, kajti jaz sem tvoj suženj, jaz sem tvoj suženj, sin tvoje dekle; razvezal si moje vezi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/116\/13-16.1792435442242.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sem tvoj suženj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sem tvoj suženj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvoje dekle"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "razvejal si"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "moje vezi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:02.244625293Z",
+  "model": "glm-5.3"
+}

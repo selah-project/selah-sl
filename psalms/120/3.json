@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kdo daje",
+      "rationale": "hebrejščina subjekta ne imenuje: 'kaj ti bo (Bog) dal' ali 'kaj ti bo (jezik) prinesel'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bo⟩",
+      "rationale": "slovenščina zahteva pomožnik pri futurju, hebrejščina ga ima v glagolu"
+    },
+    {
+      "kind": "you",
+      "subject": "jezik prevaren",
+      "rationale": "neposreden ogovor sovražnega jezika"
+    }
+  ],
+  "translation": "Kaj bo dano tebi, in kaj bo dodano tebi, jezik prevaren?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/120\/1-4.1792435549271.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bo dano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "bo dodano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezik"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "prevaren"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:49.272407811Z",
+  "model": "glm-5.3"
+}

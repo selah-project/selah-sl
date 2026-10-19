@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 2:4",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpušča glagol biti v drugem stavku; slovenščina ga zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "napel",
+      "rationale": "דרך pomeni dobesedno stopiti (na lok pri napenjanju); prevod 'napel' izgubi sliko stopenja"
+    },
+    {
+      "kind": "crux",
+      "subject": "postavil desnico",
+      "rationale": "נצב ימינו: KJV 'stood with his right hand' vs BSB 'His right hand is positioned' — kdo stoji, desnica ali On"
+    },
+    {
+      "kind": "crux",
+      "subject": "hči Ciona",
+      "rationale": "מחמדי עין 'ljubosti očesa' — večina prevaja 'vse, kar je očem drago', dobesedno 'željene stvari očesa'"
+    }
+  ],
+  "translation": "Napel je svoj lok kot sovražnik, postavil ⟨je⟩ svojo desnico kot nasprotnik in ubil vse, kar ⟨je⟩ očem drago, v šotoru hčere Ciona; izlil je kot ogenj svojo jezo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f42580a3a10bb98732280e214505beb00a37bc72e3bedba843e6fd522a4b4b9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/2\/4-4.1792439093259.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "napel je"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "svoj lok"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "kot sovražnik"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "svojo desnico"
+    },
+    {
+      "surface": "כצר",
+      "gloss": "kot nasprotnik"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "in ubil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "kar je drago"
+    },
+    {
+      "surface": "עין",
+      "gloss": "očem"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "v šotoru"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hčere"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciona"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "izlil je"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kot ogenj"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "svojo jezo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:53.259858994Z",
+  "model": "glm-5.3"
+}

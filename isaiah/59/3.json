@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Izrael",
+      "rationale": "nadaljevanje neposrednega obtožujočega nagovora 'vaše dlani … vaši prsti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hudobijo",
+      "rationale": "עולה je 'naklepana krivica, izkrivljenje'; 'hudobija' je najbližja ena beseda"
+    }
+  ],
+  "translation": "Kaj vaše dlani so umazane s krvjo in vaši prsti s krivico; vaše ustnice govorijo laž, vaš jezik mrmra hudobijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/59\/1-4.1792430908044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "vaše dlani"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "so umazane"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "s krvjo"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "in vaši prsti"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "s krivico"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "vaše ustnice"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govorijo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laž"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "vaš jezik"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "hudobijo"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mrmra"
+    }
+  ],
+  "timestamp": "2026-10-19T17:28:28.044925878Z",
+  "model": "glm-5.3"
+}

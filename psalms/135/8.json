@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "Vodni ש- na שהכה je relativni člen, v slovenščini dodan kot 'ki'."
+    }
+  ],
+  "translation": "Ki je udaril prvorojence Micrajima, od človeka do živine.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/135\/5-8.1792435597712.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ki je udaril"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "prvorojence"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od človeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "živine"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:37.714412059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 32:41",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neefš",
+      "rationale": "נפש je dih\/življenjska sila, ne 'duša' v poznejšem pomenu; oblika zapisana po hebrejskem zvoku."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "slovenščina zahteva glagol biti pri zvezi s srcem\/neefš — hebrejščina ga nima"
+    }
+  ],
+  "translation": "In veseljal se bom nad njimi, da jim storim dobro, in posadil jih bom ⟨את⟩ v tej deželi v resnici, s svojim veselim srcem in s svojo celotno neefš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c85a41b53e6311585f9b3a80d0589fcb571e1e30e2bc57d5f504b9f762264a1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/32\/41-44.1792431695584.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וששתי",
+      "gloss": "in veseljal se bom"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "להטיב",
+      "gloss": "da storim dobro"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ njim",
+      "marks": "njim"
+    },
+    {
+      "surface": "ונטעתים",
+      "gloss": "in posadil jih bom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tej"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "v resnici"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s celim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srcem mojim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "in s celo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefš mojo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:41:35.584809245Z",
+  "model": "glm-5.3"
+}

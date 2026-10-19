@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bolj 'grlo\/dih\/življenjska sila' kot nematerialna duša."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עלי",
+      "rationale": "'nadamno' (KJV 'upon myself') nasproti 'pustil, daljem' — הִנֵּה עָלַי תּוֹכִיחֵנִI; tu 'nad sabo'."
+    },
+    {
+      "kind": "crux",
+      "subject": "נקטה",
+      "rationale": "glagol נקט 'zaničevati\/ogabno biti' — 'gnusna je' proti 'utrujena je' (KJV\/JPS)."
+    }
+  ],
+  "translation": "Gnusna ⟨je⟩ moja duša mojemu življenju; pustil bom ⟨nad sabo⟩ svoje godrnjanje, govoril v grenkobi svoje duše.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/10\/1-4.1792436328951.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "gnusna ⟨je⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "mojemu življenju"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "pustil bom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨nad sabo⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "svoje godrnjanje"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "govoril"
+    },
+    {
+      "surface": "במר",
+      "gloss": "v grenkobi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svoje duše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:48.952117864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תענה",
+      "gloss_note": "",
+      "rationale": "׳zemlja odgovarja׳ = daje svoj pridelek; dobesedno bi zavedlo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל",
+      "rationale": "Jizreel = ׳Bog bo sejal׳ (ה 1,4 in 2,25) — ime mesta\/otroka seva v besedilu zveze"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošt",
+      "rationale": "תירוש je svež grozdni sok, ne fermentirano ׳vino׳"
+    }
+  ],
+  "translation": "In zemlja bo odgovorila ⟨את⟩ žitu in ⟨את⟩ moštu in ⟨את⟩ olju, in ona bodo odgovorila ⟨את⟩ Jizreelu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/21-24.1792433797304.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "in zemlja"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bo odgovorila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žitu"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "žitu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "moštu"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "moštu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "olju"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "olju"
+    },
+    {
+      "surface": "והם",
+      "gloss": "in ona"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bodo odgovorila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreelu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:37.306274139Z",
+  "model": "glm-5.3"
+}

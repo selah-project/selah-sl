@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "zavetje",
+      "rationale": "אבטח literally means to flee for refuge; the refuge-picture is bracketed as supplied, since Slovenian 'zaupati' needs no object-noun."
+    }
+  ],
+  "translation": "Saj ne v svoj lok sem zaupal ⟨zavetje⟩, in moj meč me ne bo rešil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/5-8.1792434805200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Saj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "v svoj lok"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "sem zaupal"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "in moj meč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "me bo rešil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:25.201841353Z",
+  "model": "glm-5.3"
+}

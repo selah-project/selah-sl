@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola 'biti'; dodan in označen."
+    },
+    {
+      "kind": "crux",
+      "subject": "לפנות בקר",
+      "rationale": "Dobesedno 'ob obračanju jutranjih strani': ob zarji \/ zelo zgodaj zjutraj \/ ko se dan obrača."
+    },
+    {
+      "kind": "you",
+      "subject": "njo — mesto Elohim",
+      "rationale": "Ženski zaimki se nanašajo na 'mesto' (עיר je v slovenščini srednjega spola, hebrejsko ženskega)."
+    }
+  ],
+  "translation": "Elohim ⟨je⟩ sredi nje — ⟨ne⟩ omaga; Elohim ji pomaga ob zarji jutra.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/46\/5-8.1792434896263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sredi nje"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "omaga"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ji pomaga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ob zarji"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jutra"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:56.265968574Z",
+  "model": "glm-5.3"
+}

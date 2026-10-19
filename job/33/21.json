@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 33:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ושפי",
+      "rationale": "redak izraz (c\/8205, 'golost'); prevodi se razhajajo: 'izstopajo' (KJV) proti 'razpadajo' (JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מראי",
+      "rationale": "doslovno 'od videnja': meso izgine, da ga ni več videti"
+    }
+  ],
+  "translation": "Njegovo meso izgine pred očmi, in gole se pokažejo njegove kosti, ki ⟨prej⟩ niso bile videne.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/21-24.1792436645461.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכל",
+      "gloss": "izgine"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "njegovo meso"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "pred očmi"
+    },
+    {
+      "surface": "ושפי",
+      "gloss": "gole"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "njegove kosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "so bile videne"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:05.462092807Z",
+  "model": "glm-5.3"
+}

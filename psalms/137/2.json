@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בתוכה",
+      "rationale": "'sredi nje' — nanaša se na reko (Babel) ali mesto; hebrejščina pusti ženski zaimek odprt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "citre",
+      "rationale": "כנור je strunsko glasbilo; 'citre' je približek, ne tolkala"
+    }
+  ],
+  "translation": "Na vrbah sredi nje smo obesili ⟨את⟩ svoje citre.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/137\/1-4.1792435615151.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "vrbah"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sredi nje"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "smo obesili"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "svoje citre"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:55.153329008Z",
+  "model": "glm-5.3"
+}

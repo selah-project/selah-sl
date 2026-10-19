@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תאטר",
+      "rationale": "Gl. אטר (zapreti) se v Tanahu pojavi samo tu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבלת",
+      "rationale": "Beseda pomeni tok vode in tudi klas žita — dvojni pomen, v slovenščini izgubljen."
+    }
+  ],
+  "translation": "Ne preplavi me vodni tok in ne pogoltni me globina, in ne zapri nad menoj vodnjak svojih ust.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/13-16.1792435031531.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "preplavi me"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "vodni tok"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "pogoltni me"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "globina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "zapri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "באר",
+      "gloss": "vodnjak"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "svojih ust"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:11.534202675Z",
+  "model": "glm-5.3"
+}

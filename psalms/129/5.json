@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "slovenščina potrebuje predmet pri glagolu, hebrejščina ga v naslednjem verzu šele poimenuje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו \/ יבש",
+      "rationale": "koren 'biti osramočen' v v5 se v v6 ponovi kot 'oveneti' — sramota in suhost sta ena beseda"
+    }
+  ],
+  "translation": "Sram naj jih obide in naj se umaknejo nazaj vsi, ki sovražijo Cion.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/129\/5-8.1792435595911.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "sram naj jih obide"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "in naj se umaknejo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ki sovražijo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:35.912233686Z",
+  "model": "glm-5.3"
+}

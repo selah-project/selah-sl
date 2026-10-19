@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ali … ?",
+      "rationale": "hebrejščina ima negativni vprašalni הלא, vprašalnost je dodana v slovenščini"
+    },
+    {
+      "kind": "you",
+      "subject": "tebi (Jobu)",
+      "rationale": "Elifaz neposredno obdolžuje Joba"
+    }
+  ],
+  "translation": "Ali ni velika tvoja hudobija, in ni konca tvojim pregreškam?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/5-8.1792436514897.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ali ni"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "tvoja hudobija"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "konca"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "tvojim pregreškam"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:54.899447335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pride človek⟩",
+      "rationale": "Hebrejščina pravi samo 'do proofa kruha'; besedilo ne pove subjekta, dodano po kontekstu."
+    },
+    {
+      "kind": "crux",
+      "subject": "עד ככר לחם",
+      "rationale": "Dolg ali plačilo? 'privede do proofa kruha' (KJV\/JPS, revež) proti 'njena postavina je proof kruha' (BSB) — אשה זונה je lahko subjekt ali vzrok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je grlo, dih, življenjska sila — ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תצוד",
+      "rationale": "dobesedno 'postavljati se v zasedo' kot pri lovu na žival — prešuštvo kot lov."
+    }
+  ],
+  "translation": "Kajti zaradi bludnice ⟨pride človek⟩ do proofa kruha, žena pa tujega moža — dragoceno nefeš lovi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f1072fa6d8ae8ca9428cc35dfb4990f73af330bf1ae2b370d7dbf3e81214fab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/6\/25-28.1792435820540.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženske"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "bludnice"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "proofa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "žena pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dragoceno"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "lovi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:20.541150636Z",
+  "model": "glm-5.3"
+}

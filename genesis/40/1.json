@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "da",
+      "rationale": "slovenščina potrebuje vezdni »da«, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "točaj",
+      "rationale": "משקה je dobesedno »ta, ki daje piti«; »točaj« je najbližja slovenska beseda"
+    }
+  ],
+  "translation": "In zgodilo se je po teh besedah, da je grešil točaj kralja Micrajima in pekar njunemu gospodu, kralju Micrajima.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f19d19edcc53c1c029aa89a6634d5e75d2a4de24161a969c71c25bb35d2e967a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/40\/1-4.1792422776676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In zgodilo se je"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "besedah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "teh"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "je grešil"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "točaj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "in pekar"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "njunemu gospodu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:56.677080195Z",
+  "model": "glm-5.3"
+}

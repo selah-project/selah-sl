@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bolj 'grlo\/dih\/življenjska sila' kot 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Neposreden nagovor Boga z zapovedjo in izpovedjo greha."
+    }
+  ],
+  "translation": "Jaz sem rekel: Jahve, usmili se me, pozdravi mojo dušo, kajti grešil sem tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/5-8.1792434818928.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sem rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "usmili se me"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "pozdravi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": " mojo dušo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "grešil sem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:38.929788379Z",
+  "model": "glm-5.3"
+}

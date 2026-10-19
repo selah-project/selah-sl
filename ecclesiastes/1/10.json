@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "časi",
+      "rationale": "מלפננו dobesedno 'izpred naših obrazov'; לעלמים je množina 'večnosti', dodan 'časih' za slovensko slovnico."
+    },
+    {
+      "kind": "crux",
+      "subject": "vprašanje",
+      "rationale": "hebrejščina ima tukaj dvomljiv naglas: vprašanje ('je takšna reč?') ali trditev; izbrano vprašalno, ker v. 9 napoveduje odgovor."
+    }
+  ],
+  "translation": "Obstaja reč, o kateri se reče: Glej, to je novo? Že davno ⟨je⟩ bilo v večnih ⟨časih⟩, ki ⟨so⟩ bili pred nami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/1\/9-12.1792437057100.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "obstaja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reč"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "o kateri se reče"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "že davno"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "v večnih časih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "so bili"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "pred nami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:57.101537819Z",
+  "model": "glm-5.3"
+}

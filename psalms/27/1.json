@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima kopule; slovenščina jo zahteva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אירא\/אפחד",
+      "rationale": "Dve besedi za strah v vzporednih vprašanjih; druga (פחד) je strahoma zaskočen trepet."
+    },
+    {
+      "kind": "invitation",
+      "subject": "retorični vprašanji",
+      "rationale": "Dve retorični vprašanji neposredno vključujeta bralca."
+    }
+  ],
+  "translation": "Davidova. Jahve je moja luč in moja rešitev — pred kom naj se bojim? Jahve je trdnjava mojega življenja — pred kom naj trepetam?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/27\/1-4.1792434721672.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "moja luč"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "in moja rešitev"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "pred kom"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "naj se bojim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "trdnjava"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mojega življenja"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "pred kom"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "naj trepetam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:01.673609107Z",
+  "model": "glm-5.3"
+}

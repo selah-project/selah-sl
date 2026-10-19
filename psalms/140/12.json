@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש לשון \/ איש חמס",
+      "rationale": "Parenez 'mož jezika' in 'mož nasilja' oklepa stavek — dva sovražnika govorca."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lovil",
+      "rationale": "יצוד je lovski izraz 'lezeti v zasedo \/ uloviti' — hudobija kot lovec na nasilneža."
+    },
+    {
+      "kind": "hapax",
+      "subject": "למדחפות",
+      "rationale": "מדחפה se pojavi samo tu (in 140,12 LXX različno) — 'poriv, odriv', po večini 'do strmoglavljenja'."
+    }
+  ],
+  "translation": "Človek jezika naj sploh ne stoji v deželi; nasilneža — hudo ga bo lovil ⟨do propada⟩ zaradi porazov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/140\/9-12.1792435709205.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezika"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sploh ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "naj stoji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hudobija"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ga bo lovil"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "do porazov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:29.207126879Z",
+  "model": "glm-5.3"
+}

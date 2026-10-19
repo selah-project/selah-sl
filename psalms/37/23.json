@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ודרכו יחפץ",
+      "rationale": "Subjekt je dvoumen: Jahve želi njegovo pot (KJV\/JPS) ali mož želi svojo pot (drugi) — končnica וֹ kaže na 'njegovo pot' kot predmet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "geber",
+      "rationale": "גבר je 'močan mož, mož', oblika ostaja z hrbtnim zvenom."
+    }
+  ],
+  "translation": "Od Jahveja so koraki gebra utrjeni, njegovo pot pa želi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/21-24.1792434754222.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahveja"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "koraki"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gebra"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "so utrjeni"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "njegovo pot pa"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "želi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:34.223395811Z",
+  "model": "glm-5.3"
+}

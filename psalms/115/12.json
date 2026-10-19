@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יברך ×3",
+      "rationale": "trojna ponovitev glagola blagoslavljati — naraščajoči ritem, v slovenščini ohranjen"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima pomožnika pri pretekliku"
+    }
+  ],
+  "translation": "Jahve nas je pomnil, blagoslavljal bo — blagoslavljal bo ⟨את⟩ hišo Jisraela, blagoslavljal bo ⟨את⟩ hišo Aharona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/115\/9-12.1792435459090.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "nas je pomnil"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslavljal bo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslavljal bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hišo Jisraela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslavljal bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hišo Aharona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:19.092126174Z",
+  "model": "glm-5.3"
+}

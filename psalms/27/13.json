@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "'Če ne bi' (JPS, YLT) ali 'bil bi obupal' (KJV\/ASV dopolni glagol, ki ga hebrejščina ne izreče)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨da⟩ bom",
+      "rationale": "Slovenščina potrebuje veznik in pomožnik pri namernem infinitivu לראות."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האמנתי \/ אמן",
+      "rationale": "Koren אמן — 'verovati' — isti koren kot 'amen'; zvočna povezava se v prevodu izgubi."
+    }
+  ],
+  "translation": "Če ne bi veroval, ⟨da⟩ bom videl dobroto Jahveja v deželi živih —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/27\/13-14.1792434676836.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "če ne"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "bi veroval"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "videl"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobroto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:16.836748637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina nima glagola; הוא je poudarni 'on\/ta' → 'to je'"
+    }
+  ],
+  "translation": "Jaz sem Jahve, to je moje ime, in svoje časti drugemu ne dam, ne svoje hvalnice rezanim podobam.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/42\/5-8.1792430569677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "moje ime"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "in svoje časti"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "drugemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ne svoje hvalnice"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "rezanim podobam"
+    }
+  ],
+  "timestamp": "2026-10-19T17:22:49.678966951Z",
+  "model": "glm-5.3"
+}

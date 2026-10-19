@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Predlog 'nadhervo' se v slovenščini z besedno zvezo 'posluša besedo' uteče; ne dodaja vsebine."
+    }
+  ],
+  "translation": "Vladar, ki posluša lažno besedo — vsi njegovi služabniki so krivičniki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/29\/9-12.1792436185543.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "vladar"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "posluša"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nadhervo⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "njegovi služabniki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "krivičniki"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:25.544760060Z",
+  "model": "glm-5.3"
+}

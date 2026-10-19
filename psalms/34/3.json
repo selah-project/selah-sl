@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dih, življenjska sila, grlo', ne besedna duša v platonovskem pomonu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ponižni",
+      "rationale": "Vezani imperfekt 'naj slišijo in se veselijo' vabi poslušalce v hvalnico."
+    },
+    {
+      "kind": "you",
+      "subject": "ponižni",
+      "rationale": "Neposreden ogovor ponižnih kot poslušalcev."
+    }
+  ],
+  "translation": "V Jahveju se hvali moja duša, slišijo ponižni in se veselijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/1-4.1792434767766.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "V Jahveju"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "se hvali"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "slišijo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ponižni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "in se veselijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:47.768271826Z",
+  "model": "glm-5.3"
+}

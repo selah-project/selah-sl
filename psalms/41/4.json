@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפכת בחליו",
+      "rationale": "»preobrasil vse njegovo ležišče v bolezni« (KJV) ali »spravil na vse njegovo posteljo v njegovi bolezni« (JPS) — izbrana preobrazba"
+    },
+    {
+      "kind": "addition",
+      "subject": "si",
+      "rationale": "2. os. samostalnika zahteva slovenska glagolska oblika"
+    }
+  ],
+  "translation": "Jahve ga bo podpiral na postelji bolezni; vse njegovo ležišče si preobrazil v njegovi nadlogi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/1-4.1792434824825.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ga bo podpiral"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "postelji"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "bolezni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "njegovo ležišče"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "si preobrazil"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "v njegovi nadlogi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:44.827729355Z",
+  "model": "glm-5.3"
+}

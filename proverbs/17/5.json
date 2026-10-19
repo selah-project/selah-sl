@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svojega",
+      "rationale": "hebrejščina ima samo עשהו, 'Narednika-njegovega' — svojilni zaimek je v slovenščini potreben"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא ינקה",
+      "rationale": "dobesedno 'ne bo očiščen', dvojna negacija v slovenščini ni mogoča"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרף",
+      "rationale": "dobesedno 'razgaliti\/osliti'; prevodi nihajo med 'žaliti', 'sramotiti' in 'huliti'"
+    }
+  ],
+  "translation": "Kdor se posmehuje revežu, žali ⟨svojega⟩ Narednika; kdor se veseli nesreči, ne bo nekaznovan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/17\/5-8.1792435997660.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "posmehuje-se"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "revežu"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "žali"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Narednika-svojega"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "veseli-se"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "nesreči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bo-nekaznovan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:17.661880054Z",
+  "model": "glm-5.3"
+}

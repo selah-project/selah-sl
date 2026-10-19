@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Samuel",
+      "rationale": "hebrejščina ne imenuje subjekta; iz konteksta je Samuel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bama",
+      "rationale": "במה je 'višina, bamá' — svetišče na vzvišenem mestu, ne le 'višina'"
+    }
+  ],
+  "translation": "In stopili so z bamé v mesto, ⟨Samuel⟩ pa je govoril s Šaulom na strehi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d4748ec66df2da1064461909ccf169dc39e942acf8dc181828d36a511374cc56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/9\/25-27.1792427615182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "in stopili so"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "z bamé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "v mesto"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulom"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "strehi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:33:35.182888901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bobnom",
+      "rationale": "תף je boben oz. tamburin, posredniški instrument Mirjam (2 Mz 15,20)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "godijo",
+      "rationale": "זמר dobesedno 'igrati na strune', obsega igranje in petje."
+    }
+  ],
+  "translation": "Hvalili ⟨naj⟩ njegovo ime v plesu, s bobnom in citro naj mu godijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/149\/1-4.1792435788336.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "hvalili ⟨naj⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "v plesu"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "s bobnom"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "in citro"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "naj godijo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:48.338487132Z",
+  "model": "glm-5.3"
+}

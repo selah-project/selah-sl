@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 29:18",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ספות הרוה את הצמאה",
+      "rationale": "dobesedno 'odnesti napojeno skupaj z žejnim': KJV 'dodati pijanost žeji', JPS\/ASV 'napojeno odneseno s suhim' — kruta podoba, da krivda prizadene tudi nedolžne."
+    },
+    {
+      "kind": "idiom",
+      "subject": "והתברך בלבבו",
+      "rationale": "dobesedno 'blagosloviti se v svojem srcu' = pomirjati samega sebe, zato 'blagovoli sam sebe'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שררות",
+      "rationale": "beseda 'trmavost' stoji v Tanahu le tukaj."
+    }
+  ],
+  "translation": "In zgodi se, ko sliši ⟨את⟩ besede te preklete prisege, in blagovoli sam sebe v svojem srcu, rekoč: Mir bo meni, kajti v trmavosti svojega srca bom hodil — da bi odneslo napojeno skupaj z ⟨את⟩ žejnim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9aca2e4fe966082c9a08f4d4d4a4948f7ab076ca1310842f6f8d5ef18b5d7e9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/29\/17-20.1792426314141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in zgodi se"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ko sliši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besede te preklete prisege"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "preklete prisege"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "te"
+    },
+    {
+      "surface": "והתברך",
+      "gloss": "in blagovoli sam sebe"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "v svojem srcu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "v trmavosti"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svojega srca"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "bom hodil"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da bi"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "odneslo"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "napojeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "z ⟨את⟩",
+      "marks": "žejnim"
+    },
+    {
+      "surface": "הצמאה",
+      "gloss": "žejnim"
+    }
+  ],
+  "timestamp": "2026-10-19T16:11:54.142663428Z",
+  "model": "glm-5.3"
+}

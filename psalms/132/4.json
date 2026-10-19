@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sen",
+      "rationale": "תנומה je 'dremež, vsipanje' — blažja od שנה (spanje); 'sen' približuje stopnjo."
+    }
+  ],
+  "translation": "če dam spanje svojim očem, sen svojim vekam —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/1-4.1792435608757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "spanje"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "svojim očem"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "svojim vekam"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:48.759404758Z",
+  "model": "glm-5.3"
+}

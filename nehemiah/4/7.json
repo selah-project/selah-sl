@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בצחחיים",
+      "rationale": "beseda se v Tanahu pojavi samo tu; koren צחח — 'izsušiti, bleščati', 'gola, soncu izpostavljena mesta'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje predmet pri 'postavil', hebrejščina ga pri prvem ואעמיד nima."
+    }
+  ],
+  "translation": "In postavil sem ⟨je⟩ v spodnje dele pročelja za zidom, na gola sončna mesta, in postavil sem ⟨את⟩ ljudstvo po družinah z njihovimi meči, sulicami in loki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6781bd79e319c577f75d8fc65998cf5cbd79b8410d1c49e17104ff707be1073e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/4\/5-8.1792437838364.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "in postavil sem"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "v spodnje dele"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "pročelja"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "zidom"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "na gola sončna mesta"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "in postavil sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljudstvo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "po družinah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "njihovimi meči"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "sulicami"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "in loki"
+    }
+  ],
+  "timestamp": "2026-10-19T19:23:58.365927206Z",
+  "model": "glm-5.3"
+}

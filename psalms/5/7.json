@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moški krví",
+      "rationale": "אִישׁ דָּמִים — dobesedno 'mož krvi' (dvojina דָּמִים), množina krvi kot groza"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "rima",
+      "rationale": "kazav\/mirmá — zveneči par v drugem delu verza, izgubljen"
+    }
+  ],
+  "translation": "Povzročiš, da propadejo govorci laži; moški krví in prevare Jahve sovraži v gnusu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/5-8.1792434539314.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "povzročiš, da propadejo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "govorci"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "laži"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moški"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krví"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "in prevare"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "sovraži v gnusu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:59.315711128Z",
+  "model": "glm-5.3"
+}

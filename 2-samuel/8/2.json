@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "merjenje z vrvjo",
+      "rationale": "Davezovi vojščaki so fizično izmerjeni z merilno vrvjo — življenje in smrt odmerjena po dolžini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השכב",
+      "rationale": "koren pomeni 'položiti ležati'; 'na tla' ohranja podobo izmerjenih teles na zemlji."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨za⟩",
+      "rationale": "slovenščina potrebuje namerni 'za', hebrejski infinitiv namere ga nosi v obliki."
+    }
+  ],
+  "translation": "In udaril je ⟨את⟩ Moaba in jih izmeril z vrvjo, položil jih na tla; izmeril je dve vrvi ⟨za⟩ usmrtitev, polnost vrvi pa ⟨za⟩ ohranitev življenja. In Moab je postal Davidu za hlapce, nosilce minhe.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/8\/1-4.1792428292968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "udaril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "jih izmeril"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "z vrvjo"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "položil ležati"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jih"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na tla"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "izmeril je"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dve"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "vrvi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "za usmrtitev"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "in polnost"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "vrvi"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "za ohranitev življenja"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in postal"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za hlapce"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosilce"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhe"
+    }
+  ],
+  "timestamp": "2026-10-19T16:44:52.969467461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨k⟩",
+      "rationale": "hebrejščina ima samo ל- pred zvezanim samostalnikom; slovenščina potrebuje predlog"
+    },
+    {
+      "kind": "alternative",
+      "subject": "vzgojuje",
+      "rationale": "יסר pomeni tudi kaznovati; kmetijska podlika dopušča 'usmerja v pravo'"
+    }
+  ],
+  "translation": "Kajti njegov Elohim ga vzgojuje ⟨k⟩ sodbi, poučuje ga.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7326f4f7a557220ac5d122042c1a5a21e3c43f79efe0b3499479111301ece267",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/28\/26-28.1792433430382.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "vzgojuje ga"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨k⟩ sodbi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "njegov Elohim"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "poučuje ga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:30.383696169Z",
+  "model": "glm-5.3"
+}

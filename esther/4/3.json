@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ובכל מדינה ומדינה",
+      "rationale": "ponovitev 'v vsaki pokrajini in pokrajini' — slovenščina podvoja z 'vsaki in vsaki'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sta bila",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ima samo יצע."
+    }
+  ],
+  "translation": "In v vsaki in vsaki pokrajini, na kraj kamor je prihajala beseda kralja in njegova postava, je bil Judom velik žalost in post ter jok in nekrolog, suknja in pepel sta bila podstreta mnogim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/4\/1-4.1792437233536.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "In v vsaki"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "pokrajini"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "in vsaki pokrajini"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na kraj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "in njegova postava"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "je prihajala"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "žalost"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velik"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "Judom"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "in post"
+    },
+    {
+      "surface": "ובכי",
+      "gloss": "ter jok"
+    },
+    {
+      "surface": "ומספד",
+      "gloss": "in nekrolog"
+    },
+    {
+      "surface": "שק",
+      "gloss": "suknja"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "in pepel"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "sta bila podstreta"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "mnogim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:53.538358518Z",
+  "model": "glm-5.3"
+}

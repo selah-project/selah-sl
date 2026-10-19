@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga nima."
+    },
+    {
+      "kind": "you",
+      "subject": "k Elohimu",
+      "rationale": "Neposreden ogovor Boga v drugi osebi."
+    }
+  ],
+  "translation": "Elohim, ti poznaš ⟨את⟩ mojo neumnost, in moje krivde pred teboj niso skrite.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/69\/5-8.1792435061654.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "poznaš"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "mojo neumnost"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "in moje krivde"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pred teboj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "so skrite"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:41.655764575Z",
+  "model": "glm-5.3"
+}

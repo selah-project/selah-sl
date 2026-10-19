@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "k",
+      "rationale": "slovenščina potrebuje predlog pri אלי"
+    },
+    {
+      "kind": "crux",
+      "subject": "in ni bilo vas k meni",
+      "rationale": "hebrejščina doslovno 'in niste (bili) k meni'; večina prevodov mehča v 'niste se obrnili k meni'"
+    },
+    {
+      "kind": "you",
+      "subject": "Judju prek Hagaja",
+      "rationale": "neposreden nagovor ljudstva z Jahvejevo izjavo"
+    }
+  ],
+  "translation": "Udaril sem ⟨את⟩ vas s sušo in z rumenostjo in s točo, ⟨את⟩ vse delo vaših rok, in ni bilo vas ⟨k⟩ meni, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/haggai\/2\/17-20.1792434315510.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "udaril sem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "s sušo"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "in z rumenostjo"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "in s točo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse delo vaših rok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "vaših rok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni bilo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:15.511001075Z",
+  "model": "glm-5.3"
+}

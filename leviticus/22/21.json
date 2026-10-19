@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 22:21",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨če⟩",
+      "rationale": "hebrejščina כי… namešča pogojni okvir, ki ga slovenščina izrazi z 'če'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "shelamim",
+      "rationale": "שלמים je vrsta daritve; slovenščina nima ustaljene besede, zato ohranjen hebrejski zvok"
+    }
+  ],
+  "translation": "In ⟨če⟩ človek prinese žrtev shelamim Jahveju, da izpolni obljubo ali kot prostovoljni dar, iz goveda ali iz drobnice, popoln naj bo, da bo všeč; vsaka hiba naj ne bo na njem.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/22\/21-24.1792424433693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "In ⟨če⟩ človek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨če⟩"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtev"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "לפלא",
+      "gloss": "da izpolni"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "obljubo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לנדבה",
+      "gloss": "kot prostovoljni dar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iz goveda"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "iz drobnice"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "popoln"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "da bo všeč"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsaka"
+    },
+    {
+      "surface": "מום",
+      "gloss": "hiba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na njem"
+    }
+  ],
+  "timestamp": "2026-10-19T15:40:33.693919973Z",
+  "model": "glm-5.3"
+}

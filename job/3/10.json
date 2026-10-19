@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maternica",
+      "rationale": "בטן je 'trebuh\/žitnik'; 'maternica' je kontekstualna izbira, ker gre za rojstvo"
+    },
+    {
+      "kind": "crux",
+      "subject": "osebek",
+      "rationale": "hebrejščina ne imenuje osebka: 'tista noč' (vej. 3) ali 'njen' — slovenščina zahteva⟨s⟩ Kontekst noči iz v. 9"
+    }
+  ],
+  "translation": "Ker ni zaprl vrat moje maternice in ni skrival truda pred mojimi očmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/3\/9-12.1792436251799.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zaprl"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "vrat"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "moje maternice"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "in ni skrival"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "truda"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "pred mojimi očmi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:31.801869974Z",
+  "model": "glm-5.3"
+}

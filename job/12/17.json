@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 12:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שולל \/ יהולל",
+      "rationale": "Zvenita skoraj enako — izropljeni svetovalci in noreči sodniki; zven se v slovenščini izgubi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שולל",
+      "rationale": "Nahaja se samo tu in v 12,19 — pomen: bos, izropljen, ujet."
+    },
+    {
+      "kind": "crux",
+      "subject": "מוליך ... שולל",
+      "rationale": "Dobesedno 'vodi svetovalce kot ujete-bosonoge'; nekateri berejo 'kot plen' (kot vojni plen)."
+    }
+  ],
+  "translation": "Svetovalce vode izropljene-bosonoge, in sodnike dela nore.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/12\/17-20.1792436379949.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "vode"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "svetovalce"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "izropljene-bosonoge"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "in sodnike"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "dela nore"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:39.949846763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 14:9",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "govorec verza",
+      "rationale": "Ali 'Kaj mi je še z maliki' izgovarja Efrajim (KJV, JPS) ali Jahve ('Kaj mi je še z maliki' — BSB, YLT); drugi del verza ('od mene se najde tvoj sadež') zveni kot Jahvejev glas."
+    },
+    {
+      "kind": "crux",
+      "subject": "עניתי",
+      "rationale": "'Odgovoril sem' (JPS, ASV) nasproti YLT 'prizadene sem' — ענה pomeni oboje; samoglasniki tu kažejo na 'odgovoriti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצבים",
+      "rationale": "Beseda pomeni doslovno 'bolečine\/izdelki', tu maliki — liki izrezljani za čaščenje."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bo rekel⟩",
+      "rationale": "Hebrejščina postavi samo 'Efrajim' pred govor; glagol je treba dodati."
+    }
+  ],
+  "translation": "Efrajim ⟨bo rekel⟩: Kaj mi je še z maliki? Jaz sem odgovoril in ga bom opazoval; jaz sem kakor zeleno brinje — od mene se najde tvoj sadež.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ce9cf812abc2731870860f7871dfbf41f17365849ede2823967bad4a3198f7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/14\/9-10.1792433871180.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi je"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "לעצבים",
+      "gloss": "z maliki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "sem odgovoril"
+    },
+    {
+      "surface": "ואשורנו",
+      "gloss": "in ga bom opazoval"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "כברוש",
+      "gloss": "kakor brinje"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zeleno"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "פריך",
+      "gloss": "tvoj sadež"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "se najde"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:51.181670120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stran",
+      "rationale": "צלע je dobesedno 'rebro' (ukrivljen del), preneseno 'stran\/bočna ploskev'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sever",
+      "rationale": "צפון dobesedno 'skrito, temno', uporabljeno samo za severno stran"
+    }
+  ],
+  "translation": "In za drugo stran miškana, proti severu, je naredil dvajset desk.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/36\/25-28.1792423820275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "za stran"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškana"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "drugo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "proti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je naredil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "desk"
+    }
+  ],
+  "timestamp": "2026-10-19T15:30:20.277165483Z",
+  "model": "glm-5.3"
+}

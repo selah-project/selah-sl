@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 17:13",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד je hesed — zvesta ljubezen; puščeno po zvoku, ne kot 'milost'."
+    },
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "Predlog ל v l+samostalnik ('za očeta') v slovenščini zahteva 'za', ki ga hebrejščina nosi v predlogu."
+    }
+  ],
+  "translation": "Jaz bom njemu ⟨za⟩ očeta, on pa bo meni ⟨za⟩ sina, in svojega heseda ne bom odvrnil od njega, kakor sem ga odvrnil od tistega, ki je bil pred teboj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5b893a976ccf180e82bf5ea8607127b61dd5732d6e9d5f12c20924ae9d9a98d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/13-16.1792438241449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "za očeta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "za sina"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "in svojega heseda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bom odvrnil"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "הסירותי",
+      "gloss": "sem ga odvrnil"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "od tistega, ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:41.450051746Z",
+  "model": "glm-5.3"
+}

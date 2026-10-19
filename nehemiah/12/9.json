@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina brez glagola 'biti'; slovenščina ga zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנגדם",
+      "rationale": "doslovno 'pred njimi \/ nasproti njim': ali so stali nasproti v vzporednih stražah ali kot njihovi pomočniki"
+    }
+  ],
+  "translation": "in Bakbukjah in Unni, njuna bratje, ⟨so bili⟩ nasproti njim v stražah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/9-12.1792437941930.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "in Bakbukjah"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "v Unni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "njuna bratje"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "nasproti njim"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "v stražah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:41.931021056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj",
+      "rationale": "hebrejščina ima prosti oziralni način (jussiv), slovenščina potrebuje ⟨naj⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Halelu-Jah — imperativ halelu z Imenom Jah, ohranjeno kot en glas"
+    }
+  ],
+  "translation": "Blagoslovljen bodi Jahve, Elohim Jisraela, od večnosti in do večnosti, in vse ⟨naj⟩ ljudstvo reče: Amen. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b8893850d0b99181069e21073113ab2e9d44a9d1fe22aea9421a24eb11da142a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/48-48.1792439028228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen bodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "in reče"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:48.229658457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neumen",
+      "rationale": "בער je 'brutalen, neumna živina' — dobesedno 'neumna žival', ne le neumen človek"
+    }
+  ],
+  "translation": "in jaz sem bil neumen in nisem vedel; kot živina sem bil pri tebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/21-24.1792435034198.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "בער",
+      "gloss": "neumen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sem vedel"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kot živina"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sem bil"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pri tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:14.200022632Z",
+  "model": "glm-5.3"
+}

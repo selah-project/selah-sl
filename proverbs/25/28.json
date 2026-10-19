@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח: 'duh, veter, dih' — ena beseda, tri stvari; tu 'duh' kot notranja sila, ne 'jeza' (bsb) in ne 'apetit' (geneva)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חומה\/מעצר",
+      "rationale": "Zunanja stena proti notranji zavori — struktura A:brez-B :: B:brez-A, hiastična vzporednica"
+    }
+  ],
+  "translation": "Mesto, porušeno, brez obzidja — človek, ki nima zavora za svojo ruah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/25-28.1792436150490.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "Mesto"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "porušeno"
+    },
+    {
+      "surface": "אין",
+      "gloss": "brez"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "obzidja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nima"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "zavora"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "za svojo ruah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:50.493303330Z",
+  "model": "glm-5.3"
+}

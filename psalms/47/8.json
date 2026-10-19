@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva kopulo; hebrejščina je imenovalni stavek brez nje."
+    },
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "'S razumevanjem' (KJV) vs 'poučna pesem\/vešče' (JPS 'skilful song') — maškil je glasbena\/književna oznaka."
+    }
+  ],
+  "translation": "Kaj kralj vse zemlje je Elohim — pejte s razumevanjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/47\/5-8.1792434883546.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pejte"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "s razumevanjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:43.548762240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stisk",
+      "rationale": "מצרינו is literally 'from our narrow places' — the same root as 'enemies' (צר) in v. 6; Slovenian 'stiska' keeps the narrowness-picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הושעתנו\/ישועות",
+      "rationale": "Verb ישע 'save' in v. 8 answers the noun ישועות 'deliverances' in v. 5."
+    }
+  ],
+  "translation": "Saj si nas rešil iz naših stisk ⟨in nasprotnikov⟩, in tiste, ki nas sovražijo, si spravil v sramoto.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/5-8.1792434805200.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Saj"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "si nas rešil"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "iz naših stisk"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "in tiste, ki nas sovražijo"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "si spravil v sramoto"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:25.202014085Z",
+  "model": "glm-5.3"
+}

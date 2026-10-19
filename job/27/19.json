@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 27:19",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje predmet pri zbiranju in negaciji"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאסף",
+      "rationale": "'ne bo zbran' — kdo zbira: bogastvo se razblini (jps) ali človeka ne spravijo k očetom \/ ne poberejo (kjv 'not be gathered')"
+    }
+  ],
+  "translation": "Premožen leže, pa ⟨ga⟩ ne zberejo; odpre oči — in ⟨ni⟩ ga več.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "24fc5a709e77503ddc4f71ba9a6dd18a8a312680d14654d7ec564172bd51f070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/17-20.1792436605530.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "premožen"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leže"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pa ne"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "zberejo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oči"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "odpre"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "in ga ni več"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:25.531884525Z",
+  "model": "glm-5.3"
+}

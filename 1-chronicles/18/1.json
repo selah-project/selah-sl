@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hčere",
+      "rationale": "בנות je dobesedno 'hčere', ne 'mesta\/vasi' — semitski izraz za primestne naselbine."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויך \/ ויכניעם",
+      "rationale": "ponovitev korena naklona v 'udaril\/pokoril', v slovenščini delno izgubljena."
+    }
+  ],
+  "translation": "In bilo je potem, da je David udaril ⟨את⟩ Peleštimce in jih pokoril; in vzel je ⟨את⟩ Gat in njegove hčere iz roke Peleštimcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "26d72c0b3782ecd6c2910eb0ba6be2a02d727dddef7c82e145e13a673b2cf9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/18\/1-2.1792439133543.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in bilo je"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "potem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "da"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "udaril"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleštimce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštimce"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "jih pokoril"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "in vzel je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "njegove hčere"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštimcev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:33.544789122Z",
+  "model": "glm-5.3"
+}

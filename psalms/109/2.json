@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "usta so se odprla",
+      "rationale": "Hebrejski idiom 'odprta usta zoper koga' = sovražno govorjenje"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨zoper mene⟩",
+      "rationale": "אתי na koncu verza ponuja bližino ('z mano'), prevodi brajo sovražno 'zoper mene'"
+    }
+  ],
+  "translation": "Ker usta krivičnega in usta prevare so se odprla zoper mene, govorili so ⟨את⟩ z jezikom laži ⟨zoper mene⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/109\/1-4.1792435461156.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "in usta"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zoper mene"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "so se odprla"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "govorili so"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨zoper mene⟩",
+      "marks": "z jezikom laži"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezikom"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "laži"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:21.158092960Z",
+  "model": "glm-5.3"
+}

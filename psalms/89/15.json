@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Hebrejščina je nominalni stavek brez glagola; slovenščina zahteva 'sta'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "travo",
+      "rationale": "מכון je 'utrdbo, trdno mesto' — 'temelj' ali 'trdnjava' sta možna; travo ohranja podobo trdnosti."
+    }
+  ],
+  "translation": "Cedek in pravo sta travo Tvojega prestola, hesed in resnica stopata pred Tvojim obličjem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/13-16.1792435253826.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "in pravo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "travo"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Tvojega prestola"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "in resnica"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "stopata pred"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Tvojim obličjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:53.828971719Z",
+  "model": "glm-5.3"
+}

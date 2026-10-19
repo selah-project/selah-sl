@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי … אשרי",
+      "rationale": "ponovljen vzklik sreče (»kako srečni«) tvori vzporedje, v slovenščini izgubi ritmično ponovitev"
+    },
+    {
+      "kind": "you",
+      "subject": "kralju Šelomu",
+      "rationale": "kraljica Sabska neposredno nagovarja kralja Salomona"
+    }
+  ],
+  "translation": "Srečni so tvoji možje in srečni so tvoji služabniki, ti, ki stalno stojijo pred tvojim obličjem in poslušajo ⟨את⟩ tvojo modrost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/9\/5-8.1792438614083.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "srečni"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "so tvoji možje"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "in srečni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "so tvoji služabniki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ki stojijo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tvojim obličjem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "in poslušajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvojo modrost"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tvojo modrost"
+    }
+  ],
+  "timestamp": "2026-10-19T19:36:54.085745619Z",
+  "model": "glm-5.3"
+}

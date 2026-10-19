@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svoja",
+      "rationale": "Hebrew has no possessive pronoun; oblačila so v lasti Jojahina iz konteksta"
+    },
+    {
+      "kind": "crux",
+      "subject": "spremenil",
+      "rationale": "šanah: 'zložiti\/spremeniti'; tu 'zamenjal ječna oblačila za dvorna'"
+    }
+  ],
+  "translation": "In spremenil je ⟨את⟩ svoja ječna oblačila, in jedel je kruh pred njim stalno vse dni svojega življenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7f6a980131cf58a20df85adb4539a14dfb1279a8f002076b6624c5a4b7689fc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/33-34.1792431984362.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "in spremenil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoja ječna oblačila"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "oblačila"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "ječna"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "in jedel je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruh"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stalno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "svojega življenja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:46:24.363017145Z",
+  "model": "glm-5.3"
+}

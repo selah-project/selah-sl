@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "debir",
+      "rationale": "דביר je notranjščina svetišča (najsvetejša); prevodi ga različno razrešujejo: 'svetišče', 'debir', 'zadnja dvorana'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor Boga z imperativom 'sliši'"
+    }
+  ],
+  "translation": "Sliši glas mojih prošenj, ko vpijem k tebi, ko dvigujem svoje roke k tvojemu svetemu debirju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/28\/1-4.1792434719504.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "sliši"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mojih prošenj"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ko vpijem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tebi"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ko dvigujem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svoje roke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debirju"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svetemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:59.506059261Z",
+  "model": "glm-5.3"
+}

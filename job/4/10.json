@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje glagol biti"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נתעו",
+      "rationale": "glagol nata' se pojavi samo tu v Tanahu — 'iztrgani', ne le 'zlomljeni'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאגת\/שחל",
+      "rationale": "verz niza štiri besede za leva (ari, šahal, kefir, lajiš) — raznolikost izgubljena v slovenščini"
+    }
+  ],
+  "translation": "Rjovenje leva in glas šahala, in zobje mladih levov ⟨so⟩ iztrgani.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/4\/9-12.1792436245997.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "rjovenje"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leva"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "in glas"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "šahala"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "in zobje"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "mladih levov"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "iztrgani"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:25.999483137Z",
+  "model": "glm-5.3"
+}

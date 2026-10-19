@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 2:21",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "gam kî lahko 'res, prav tako' ali pogojni 'če' — tu potrditveni poudarek"
+    },
+    {
+      "kind": "you",
+      "subject": "Rutino poročanje Naomi",
+      "rationale": "posredni nagovor Boazovih besed Ruti"
+    }
+  ],
+  "translation": "In Ruta ⟨je⟩ Moabka rekla: Tudi zares mi je rekel: Ob mladeničih, ki so moji, se drži, dokler ne končajo ⟨את⟩ vse žetve, ki je moja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/2\/21-23.1792436907982.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in je rekla"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruta"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "Moabka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zares"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladeničih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "so moji"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "se drži"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "končajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse žetve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "žetve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "je moja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:27.983495724Z",
+  "model": "glm-5.3"
+}

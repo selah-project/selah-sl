@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "trojni Jahve",
+      "rationale": "trikratno ponovljeno Ime na začetku vsake kolona — ponovitev se v prevodu ohranja."
+    },
+    {
+      "kind": "addition",
+      "subject": "oči",
+      "rationale": "פקח 'odpirati (oči)' — beseda 'oči' je dodana iz konteksta, עורים 'slepi' jo nosi."
+    }
+  ],
+  "translation": "Jahve odpira oči slepim, Jahve dviguje pripognjene, Jahve ljubi pravične.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "df2325d84195eeda451fcf47037af6d3c7fb2a77f3bf3cf53c2d0809185a5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/146\/5-8.1792435799149.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "odpira oči"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slepim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "dviguje"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "pripognjene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravične"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:59.153468455Z",
+  "model": "glm-5.3"
+}

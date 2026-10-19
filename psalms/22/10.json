@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "privrel",
+      "rationale": "גוח je 'izbruhniti (kot voda)' — 'privrel' ohranja sliko izlivanja."
+    }
+  ],
+  "translation": "Kajti ti si me privrel iz maternice, spravil si me v zaupanje na prsih moje matere.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/9-12.1792434637752.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "si me privrel"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "iz maternice"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "spravil si me v zaupanje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "prsih"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "moje matere"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:37.752960911Z",
+  "model": "glm-5.3"
+}

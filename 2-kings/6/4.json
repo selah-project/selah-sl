@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "do Jordanu",
+      "rationale": "הירדנה je Jordan v smerilniku, 'proti Jordanu \/ na Jordan'"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenski pomožni glagol v preteritiku, hebrejščina ga nima"
+    }
+  ],
+  "translation": "In šel je ⟨את⟩ njih in prišli so do Jordanu ter posekali ⟨את⟩ drevesa.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/6\/1-4.1792429419348.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "in šel je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njih"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "in prišli so"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "do Jordanu"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "in posekali so"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "drevesa"
+    }
+  ],
+  "timestamp": "2026-10-19T17:03:39.349312526Z",
+  "model": "glm-5.3"
+}

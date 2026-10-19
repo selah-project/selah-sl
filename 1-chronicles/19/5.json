@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨k njim⟩",
+      "rationale": "slovenščina potrebuje osebek\/dopolnilo pri 'poslal v naproti', hebrejščina ima samo pripono -ם"
+    },
+    {
+      "kind": "you",
+      "subject": "shranjene moži",
+      "rationale": "kralj David neposredno nagovoriva osramočene može: 'Ostanite v Jerihu'"
+    }
+  ],
+  "translation": "In so odšli in sporočili Davidu o ⟨את⟩ teh možeh, in poslal je ⟨k njim⟩ v naproti, ker so bili možje zelo osramočeni. In kralj je rekel: Ostanite v Jerihu, dokler ne zraste vaša brada, in se vrnete.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/19\/5-8.1792438303832.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "in so odšli"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "in sporočili"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨את⟩ teh možeh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "in poslal je"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "v naproti ⟨k njim⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "היו",
+      "gloss": "so bili"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "možje"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "osramočeni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ostanite"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "v Jerihu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "zraste"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "vaša brada"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "in se vrnete"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:43.834617838Z",
+  "model": "glm-5.3"
+}

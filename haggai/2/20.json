@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik pri pretekliku, ויהי ga vsebuje samo kot 'in bilo je'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "štiriindvajseti dan meseca",
+      "rationale": "natančen datum drugega razodetja istega dne"
+    }
+  ],
+  "translation": "In prišla je beseda Jahveja drugič k Hagaju, štiriindvajsetega v ⟨mesecu⟩, govoreč:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/haggai\/2\/17-20.1792434315510.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in prišla je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugič"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagaju"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "štiriindvajsetega"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "⟨in⟩ štiri"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:15.512772554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Veznik lahko pomeni 'kajti' ali 'da' (vsebina reklih); vzeto kot 'kajti', ker uvaja lažno upanje pregnancev, ki ga Jeremija odbija."
+    },
+    {
+      "kind": "you",
+      "subject": "rekli ste",
+      "rationale": "Neposreden nagovor pregnancev v Babilonu; 'vi' pisma 29."
+    }
+  ],
+  "translation": "Kajti rekli ste: Jahve nam je vzdignil preroke v Babilonu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/13-16.1792431571758.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "rekli ste"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "je vzdignil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "preroke"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "v Babilonu"
+    }
+  ],
+  "timestamp": "2026-10-19T17:39:31.759803940Z",
+  "model": "glm-5.3"
+}

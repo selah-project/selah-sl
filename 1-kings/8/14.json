@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je (v 'je stala')",
+      "rationale": "Slovenščina zahteva pomožni glagol pri pretekliku; hebrejščina ga nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וכל קהל ישראל",
+      "rationale": "Besedna zveza se v istem verzu ponovi dobesedno — ponovitev je ohranjena."
+    }
+  ],
+  "translation": "In kralj se je obrnil s svojim obrazom in blagoslovil ⟨את⟩ vso skupščino Jisraela; vsa skupščina Jisraela pa je stala.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/8\/13-16.1792428975579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "in se je obrnil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj obraz"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svoj obraz"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "in blagoslovil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso skupščino Jisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "skupščino"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "skupščina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "je stala"
+    }
+  ],
+  "timestamp": "2026-10-19T16:56:15.580534275Z",
+  "model": "glm-5.3"
+}

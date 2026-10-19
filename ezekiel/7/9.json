@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 7:9",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dam⟩, ⟨ki⟩",
+      "rationale": "slovenščina potrebuje glagol in oziralni veznik, ki jima hebrejščina pusti sam samostalniški stavek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gnusobe bodo sredi tebe",
+      "rationale": "hebrejščina pravi 'in tvoje gnusobe bodo sredi tebe' — nečistost ostane sredi ljudstva kot dokaz"
+    },
+    {
+      "kind": "you",
+      "subject": "Judu\/Jeruzalemu",
+      "rationale": "naslavljanje v drugi osebi ženske ednine (כדרכיך, עליך), nato preklop na 'spoznali boste' — množina"
+    }
+  ],
+  "translation": "In moje oko ne bo prizaneslo in ne bom usmilil; po tvojih poteh naden te ⟨dam⟩, tvoje gnusobe bodo sredi tebe, in spoznali boste, da sem jaz Jahve, ⟨ki⟩ udarja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/7\/9-12.1792432078267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "bo prizaneslo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "usmilil"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "po tvojih poteh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "naden te"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dam"
+    },
+    {
+      "surface": "ותועבותיך",
+      "gloss": "tvoje gnusobe"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "sredi tebe"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "bodo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "in spoznali boste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "udarja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:47:58.268470093Z",
+  "model": "glm-5.3"
+}

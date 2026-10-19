@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga v הָיָה sicer ima, a slovenska skladnja potrebuje dokončno obliko."
+    },
+    {
+      "kind": "measurement",
+      "subject": "הבכור",
+      "rationale": "Rang prvorojenca je določen z besedo, ne s številko — vrstni red rojstva kot oznaka."
+    }
+  ],
+  "translation": "In ⟨je⟩ bil dan, ko so njegovi sinovi in hčere jedli in pili vino v hiši svojega brata, prvorojenca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fedde6763d2c04f2109ec0d39c6b4444822d8e7aef696fcfc9db7186894c888c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/1\/13-14.1792439071041.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In ⟨je⟩ bil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "in njegovi sinovi"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "in hčere"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "in pili"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorojenca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:31.043443793Z",
+  "model": "glm-5.3"
+}

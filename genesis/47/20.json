@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וַתְּהִי הָאָרֶץ לְפַרְעֹה",
+      "rationale": "doslovno 'in dežela je bila faraonu' — glagol biti, ne 'pripadla'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "hebrejščina postavlja חָזַק pred samostalnik breg glagola 'biti'"
+    }
+  ],
+  "translation": "In Joséf je kupil ⟨את⟩ vso zemljo Micrajima za faraona, kajti Micrajci so prodali vsak svoje polje, kajti huda je bila lakota nad njimi; in dežela je pripadla faraonu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d2f0369eec0a43f8ef07cd9ee72529d221192d5be24e97d0ec790aa4f43f5d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/47\/17-20.1792422950086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "in je kupil"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso zemljo Micrajima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "zemljo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajima"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "za faraona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "so prodali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "svoje polje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "huda je bila"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "nad njimi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "lakota"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in pripadla je"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:15:50.088442376Z",
+  "model": "glm-5.3"
+}

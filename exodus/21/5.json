@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אמר יאמר",
+      "rationale": "Infinitivus absolutus — dobesedno 'rekel reče'; slovenščina to nosi z 'zares reče'."
+    },
+    {
+      "kind": "you",
+      "subject": "hlapčeva izjava",
+      "rationale": "Hlapec neposredno govori ('ljubil sem… ne grem'), govor v prvem licu."
+    }
+  ],
+  "translation": "In če hlapec zares reče: Ljubil sem ⟨את⟩ svojega gospoda, ⟨את⟩ svojo ženo in ⟨את⟩ svoje sinove — ne grem ven prost —",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/21\/5-8.1792423527117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zares"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "hlapec"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ljubil sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega gospoda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "svojega gospoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo ženo"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "svojo ženo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "svoje sinove"
+    },
+    {
+      "surface": "בני",
+      "gloss": "svoje sinove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "grem ven"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "prost"
+    }
+  ],
+  "timestamp": "2026-10-19T15:25:27.117875692Z",
+  "model": "glm-5.3"
+}

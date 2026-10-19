@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Kazalnik 'jih' je dodan; hebrejščina ga izraža z zloženim glagolom הוליך גולה."
+    },
+    {
+      "kind": "crux",
+      "subject": "evnuhe",
+      "rationale": "סריסים: dobesedno evnuhi ali dvorjani; prevodi se delijo med oba pomena."
+    }
+  ],
+  "translation": "In izgnal je ⟨את⟩ Jehojahina v Bavel ter ⟨את⟩ mater kralja, ⟨את⟩ žene kralja in ⟨את⟩ njegove evnuhe ter ⟨את⟩ mogočne dežele — peljal jih je v izgnanstvo iz Jerušalajima v Bavel.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1020c0378af9c8aef3281dfc2dce0df678513a663b4f20f11722a8292cf75ccd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/24\/13-16.1792429940892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "in izgnal je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehojahina"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojahina"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "v Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mater kralja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mater"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žene kralja"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "žene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njegove evnuhe"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "njegove evnuhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mogočne dežele"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "mogočne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "peljal jih je"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "v izgnanstvo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iz Jerušalajima"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "v Bavel"
+    }
+  ],
+  "timestamp": "2026-10-19T17:12:20.893976287Z",
+  "model": "glm-5.3"
+}

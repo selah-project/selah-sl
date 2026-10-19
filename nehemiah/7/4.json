@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "hebrejščina nima kopule; slovenščina jo zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחבת ידים",
+      "rationale": "dobesedno 'široko rok(dvoročno)' — idiom za prostornost; ידים je dvojina 'dveh rok\/strani'"
+    }
+  ],
+  "translation": "Mesto pa je bilo široko na obe strani in veliko, ljudi pa je bilo v njem malo, in ni bilo zgrajenih hiš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/7\/1-4.1792437825254.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "Mesto pa"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "široko"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "na obe strani"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "in veliko"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "in ljudje"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "malo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni bilo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hiš"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "zgrajenih"
+    }
+  ],
+  "timestamp": "2026-10-19T19:23:45.255590142Z",
+  "model": "glm-5.3"
+}

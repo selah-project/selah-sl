@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יהלכון — plujejo",
+      "rationale": "Dobesedno 'hodijo'; za ladje slovenščina reče 'plujejo', slika hoje po morju je izgubljena"
+    },
+    {
+      "kind": "crux",
+      "subject": "livjatan",
+      "rationale": "לויתן: priimka živali (velikanska morska stvar) ali lastnega imena Livjatan; v Tanahu tukaj brez pojasnila, ohranjeno po zvoku"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לשחק בו — igra v njem",
+      "rationale": "Redka podoba: livjatan kot bitje, ustvarjeno za igro — brez bojevniškega prizvoka"
+    }
+  ],
+  "translation": "Tam ladje plujejo, livjatan — tega si oblikoval, da se igra v njem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/25-28.1792435342839.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ladje"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "plujejo"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "livjatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tega"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "si oblikoval"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "da se igra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v njem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:22.840378469Z",
+  "model": "glm-5.3"
+}

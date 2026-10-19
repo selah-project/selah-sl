@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Goravajo gore, spuščajo se doline",
+      "rationale": "Nekateri prevodi (BSB, JPS) berejo preteklik 'gore so se dvignile'; hebrejska oblika je nedoločna glede časa — nedoločnik kot sedanjik."
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Kazalnik predmeta dodan za 'kraj'."
+    }
+  ],
+  "translation": "Goravajo gore, spuščajo se doline, v kraj, ki si ga zanjih utemeljil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/5-8.1792435337797.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Goravajo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "spuščajo se"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "doline"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraj"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "si utemeljil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zanjih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:17.799200146Z",
+  "model": "glm-5.3"
+}

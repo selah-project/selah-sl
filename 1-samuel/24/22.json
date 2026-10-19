@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם … ואם",
+      "rationale": "Prisega z dvojnim 'če': dobesedno 'če boš odrezal … in če boš iztrebil' — v prisegi pomeni zanikanje, 'ne boš'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "prisegi mi",
+      "rationale": "Šaul zahteva od Davida dejanje — prisego."
+    }
+  ],
+  "translation": "In zdaj se mi prisegi pri Jahveju: ne boš odrezal ⟨את⟩ mojega zaroda za menoj in ne boš iztrebil ⟨את⟩ mojega imena iz hiše mojega očeta.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/24\/21-23.1792427917450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "se prisegi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pri Jahveju"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne boš"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "odrezal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojega zaroda"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mojega zaroda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za menoj"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "boš iztrebil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojega imena"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mojega imena"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iz hiše"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mojega očeta"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:37.451782727Z",
+  "model": "glm-5.3"
+}

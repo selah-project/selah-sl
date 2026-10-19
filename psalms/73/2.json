@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שפכה אשרי",
+      "rationale": "Dobesedno 'izliti korake' — popolnoma so odneseni; slovensko 'izliti\/razliti' ohranja podobo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כמעט",
+      "rationale": "'Komaj' ali 'za malenkost' — meri oddaljenost padca."
+    }
+  ],
+  "translation": "Jaz pa — komaj da niso bile nagnjene moje noge, moji koraki skoraj ⟨za nič⟩ izliti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/73\/1-4.1792435042069.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Jaz pa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "komaj da"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nagnjene"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje noge"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "skoraj ⟨za nič⟩"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "izliti"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "moji koraki"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:22.070914365Z",
+  "model": "glm-5.3"
+}

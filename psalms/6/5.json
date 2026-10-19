@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je gorjež, življenjska sila, ne 'duša' v poznejšem pomenu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor Boga z oznako Imena"
+    }
+  ],
+  "translation": "Vrni se, Jahve, iztrgaj mojo dušo, reši me zaradi svojega heseda!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/6\/5-8.1792434501771.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vrni se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "iztrgaj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "reši me"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "svojega heseda"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:21.771538731Z",
+  "model": "glm-5.3"
+}

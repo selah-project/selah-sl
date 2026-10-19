@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bom",
+      "rationale": "slovenski pomooljšni glagol dodan; hebrejščina ima samo kohortativ"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "kopula v slovenščini, hebrejščina je izpušča"
+    }
+  ],
+  "translation": "Prostovoljnega daru ⟨bom⟩ daroval tebi, zahvaljeval ⟨bom⟩ tvemu imenu, Jahve, ker ⟨je⟩ dobro.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/54\/5-8.1792434940048.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "prostovoljnega daru"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "⟨bom⟩ daroval"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "zahvaljeval ⟨bom⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvemu imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨je⟩ dobro"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:40.050325871Z",
+  "model": "glm-5.3"
+}

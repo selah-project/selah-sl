@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dih, življenjska sila, izkušnja bitja — ne 'srce' (KJV\/JPS 'heart')"
+    },
+    {
+      "kind": "crux",
+      "subject": "smrtiš",
+      "rationale": "לחץ je dobesedno 'stisniti, pritiskati'; 'tiščati\/zatirati' proti dobesednemu 'pritisniti na'"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraelu",
+      "rationale": "neposreden nagovor ljudstva v drugi osebi množine"
+    }
+  ],
+  "translation": "Tujca ne smrtiš, saj poznate ⟨את⟩ dušo tujca, ker ste bili tujci v deželi Micrajim.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/23\/9-12.1792423487313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "tujca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "smrtiš"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "poznate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dušo tujca"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dušo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "tujca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "tujci"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ste bili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:47.314153856Z",
+  "model": "glm-5.3"
+}

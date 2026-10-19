@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina je deležniško brez osebka; soglasnik dodan iz konteksta (v. 9)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסיף עוולה",
+      "rationale": "עולה je ”krivica\/naslava”; množinske oblike בדמים\/בעולה kažeta na dejanja, ne eno dejanje."
+    }
+  ],
+  "translation": "Gradijo Cion s krvjo in Jerušalajim s krivico.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/3\/9-12.1792434137930.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Gradijo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "s krvjo"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "in Jerušalajim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "s krivico"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:17.933066423Z",
+  "model": "glm-5.3"
+}

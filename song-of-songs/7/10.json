@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima kopule"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "dovav se pojavi samo tu v Tanahu; pomen 'drsati, premikati se počasi' je izpeljan"
+    },
+    {
+      "kind": "crux",
+      "subject": "למישרים",
+      "rationale": "mešarim 'ravnost, pravost': 'v pravi smeri', 'za tistimi, ki govorijo po pravici' ali ' Gladko (za)' — prevodi se močno razhajajo"
+    },
+    {
+      "kind": "crux",
+      "subject": "spancev",
+      "rationale": "ješenim 'spalci' ali 'oslabeli\/starci'; glej tudi izpeljavo 'tisti, ki govorijo v sanjah'"
+    }
+  ],
+  "translation": "In nebo tvojih ust ⟨je⟩ kakor dobro vino, ki teče mojemu ljubemu, po pravosti, drséč po ustnicah spancev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/7\/9-12.1792436831120.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "In nebo tvojih ust"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "kakor vino"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ki teče"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "mojemu ljubemu"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "po pravosti"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "drséč"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "po ustnicah"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "spancev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:11.121957860Z",
+  "model": "glm-5.3"
+}

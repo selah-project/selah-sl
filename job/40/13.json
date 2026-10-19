@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 40:13",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ima pripono -em znotraj טמנם; slovenščina potrebuje ločen zaimek."
+    },
+    {
+      "kind": "crux",
+      "subject": "v tajnem",
+      "rationale": "בטמון: 'v skritem kraju' (KJV) ali 'v grobu' (BSB 'in the grave') — koren pomeni skriti z zaviranjem."
+    }
+  ],
+  "translation": "Skrij ⟨jih⟩ v prahu skupaj, njihova obraza zaveži v tajnem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "69a7d7e213069fb6df548a813ccd4f20636ac2da1df43265b7d45828ee250c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/40\/13-16.1792436784360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמנם",
+      "gloss": "skrij ⟨jih⟩"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "v prahu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "skupaj"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "njihova obraza"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "zaveži"
+    },
+    {
+      "surface": "בטמון",
+      "gloss": "v tajnem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:24.361337921Z",
+  "model": "glm-5.3"
+}

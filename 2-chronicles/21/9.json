@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 21:9",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨s⟩ \/ ⟨s seboj⟩",
+      "rationale": "slovenščina zahteva predlog pri vezniku 'z', hebrejščina ga ne izraža posebej"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bojni vozovi",
+      "rationale": "הרכב: vozovi z bojnimi ekipami; lahko tudi 'konjenica'"
+    }
+  ],
+  "translation": "In Jhoram je šel čez ⟨s⟩ svojimi plemiči in vsemi bojnimi vozovi ⟨s seboj⟩; in zgodi se, da je vstal ponoči in udaril ⟨את⟩ Edom, ki se je bil obkolil okrog njega, in ⟨את⟩ plemiče bojnih vozov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7d5a3d87f767b82a48ccd656f75b88dd2835fd9f3ed3ecc452e6176ce30d15cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/21\/9-12.1792438714359.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "je šel čez"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jhoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "svojimi plemiči"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vsemi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bojnimi vozovi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨s seboj⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodi se"
+    },
+    {
+      "surface": "קם",
+      "gloss": "da je vstal"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ponoči"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "in udaril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ki se je bil obkolil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "okrog njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "plemiče bojnih vozov"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "plemiče"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bojnih vozov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:34.360218664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o stvareh",
+      "rationale": "hebrejščina ima samo 'asher lo jadati' — 'kar nisem vedel'; dodano za slovensko slovnico"
+    }
+  ],
+  "translation": "Vstanejo priče nasilja, o stvareh, ki jih nisem poznal, me vprašajo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/9-12.1792434734176.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Vstanejo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "priče"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nasilja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o stvareh, ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sem poznal"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "me vprašajo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:14.177531017Z",
+  "model": "glm-5.3"
+}

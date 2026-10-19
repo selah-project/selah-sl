@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "'po poti' as locative 'on a way' vs adverbial 'away from the way' (Geneva 'out of the way'); word order בישׁימון דרך is ambiguous"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עיר מושב",
+      "rationale": "read as construct 'city-of-dwelling' → 'naseljeno mesto'; YLT keeps 'a city of habitation'"
+    }
+  ],
+  "translation": "Tavali so po puščavi, po pustinji, po poti — naseljnega mesta niso našli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/107\/1-4.1792435404958.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Tavali so"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "po puščavi"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "po pustinji"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "naseljnega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niso"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "našli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:24.960443081Z",
+  "model": "glm-5.3"
+}

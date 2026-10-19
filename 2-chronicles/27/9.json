@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "zaspal s svojimi očeti",
+      "rationale": "Hebrejski idiom 'ležal s svojimi očeti' pomeni umreti; dobesedno bi zavajalo."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožnik 'je', hebrejščina ga nima."
+    }
+  ],
+  "translation": "In Jotam je zaspal s svojimi očeti, in pokopali so ⟨את⟩ njega v mestu Davidovem; in kraljeval je Ahaz, njegov sin, namesto njega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c0596e85389d731eb06d1b80e8db9d05356f14f270e8bf5c891aac288847f3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/27\/9-9.1792438817240.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "in je zaspal"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svojimi očeti"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "in pokopali so"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovem"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "in kraljeval je"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "namesto njega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:40:17.241288774Z",
+  "model": "glm-5.3"
+}

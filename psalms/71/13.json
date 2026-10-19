@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je bolj 'grlo \/ življenjska sila' kot 'duša'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "obtožujejo",
+      "rationale": "שטן pomeni dobesedno 'napadati, obtoževati' — ista beseda kot ime Satana."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפה \/ כלמה",
+      "rationale": "parno sopostavljenje dveh besed za sramoto, v slovenščini izgubi dvojnost."
+    }
+  ],
+  "translation": "Sramovali naj se bodo in propadli tisti, ki obtožujejo mojo dušo; ogrnjeni naj bodo s sramoto in z osramotenjem, ki iščejo mojo nesrečo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/71\/13-16.1792435072260.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "sramovali naj se bodo"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "in propadli"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ki obtožujejo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "ogrnjeni naj bodo"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "s sramoto"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "z osramotenjem"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ki iščejo"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mojo nesrečo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:52.261291251Z",
+  "model": "glm-5.3"
+}

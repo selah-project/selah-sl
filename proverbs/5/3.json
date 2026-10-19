@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרה",
+      "rationale": "Doslovno 'tujka\/tuja' — tuja ženska (poročena ali Nerodna); tradicija bere 'všasnice', a koren pomeni 'tuj, odklonjen'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפת\/תטפנה",
+      "rationale": "Koren נטף (kapljati) dvakrat: nofet (kaplja medu) in titofna (kapljajo) — zvočna igra, delno ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebo",
+      "rationale": "חך je nebce\/ustna votlina, ne zgolj 'usta' ali 'grlo' kot v starejših prevodih."
+    }
+  ],
+  "translation": "Kajti kaplja medu kapljajo ustnice tuje ženske, in njeno nebo je gladkejše od olja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/1-4.1792435859000.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "kaplja medu"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "kapljajo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ustnice"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "tuje ženske"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "in gladko"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "od olja"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "njeno nebo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:59.001814672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Noomi \/ Mara",
+      "rationale": "Noomi (»sladka, prijetna«) proti Mari iz korena מרר (»grenka«); besedna igra z imenom je v slovenščini razvidna le z ostankom -ma."
+    },
+    {
+      "kind": "you",
+      "subject": "ženske Bet-Lehema",
+      "rationale": "Neposreden nagovor Noomi z ukazom glede imena."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨z⟩",
+      "rationale": "Slovenski predlog dodan pri לי, ker »ravnal komu« ni slovensko."
+    }
+  ],
+  "translation": "In rekla je njim: Ne imenujte me Noomi; imenujte me Mara, kajti Šadaj je zelo grenko ravnal ⟨z⟩ mano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/1\/17-20.1792436952862.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "In rekla je"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "njim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "imenujte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "imenujte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "המר",
+      "gloss": "je grenko ravnal"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "z mano"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:12.864286216Z",
+  "model": "glm-5.3"
+}

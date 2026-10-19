@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "biti",
+      "rationale": "Slovenščina potrebuje nedoločnik, hebrejščina ga nima."
+    },
+    {
+      "kind": "secret",
+      "subject": "מסתריו",
+      "rationale": "Jahve razkriva Esavova skrivališča — tisto, kar je bilo skrito, postane razodeto."
+    }
+  ],
+  "translation": "Kajti jaz sem razgalil ⟨את⟩ Esava, razodel sem ⟨את⟩ njegova skrivališča, in skrit ⟨biti⟩ ne more; opljačkano je njegovo seme, njegovi bratje in njegovi sosedi, in ni ga več.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0300278fb040b790c5ae0e3d3a6232a7f7179eb3e875e9634d854d197dce0cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/49\/9-12.1792431927389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "sem razgalil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "razodel sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegova skrivališča"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "njegova skrivališča"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "in skrit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "more"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "opljačkano"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "njegovo seme"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "in njegovi bratje"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "in njegovi sosedi"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "in ni ga več"
+    }
+  ],
+  "timestamp": "2026-10-19T17:45:27.390354721Z",
+  "model": "glm-5.3"
+}

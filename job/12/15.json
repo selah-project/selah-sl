@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויבשו",
+      "rationale": "Koren בוש pomeni tako »biti osramočen« kot »posušiti se«; tu suho, a dvojnost ostaja."
+    },
+    {
+      "kind": "addition",
+      "subject": "če",
+      "rationale": "Hebrejščina izraža pogoj z ו + kotativ brez veznika; slovenščina potrebuje »če«."
+    }
+  ],
+  "translation": "Glej, ⟨če⟩ zadrži vode, se posušijo, in ⟨če⟩ jih pošlje, obrnejo zemljo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/12\/13-16.1792436400077.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "zadrži"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vode"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "se posušijo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "jih pošlje"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "obrnejo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemljo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:00.079130170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nihče",
+      "rationale": "ואדם je dobesedno 'in človek' ('in človek ni vspomnil'); negacija + 'človek' = 'nihče'"
+    }
+  ],
+  "translation": "In našel se je v njem revni mož, moder, in on je rešil ⟨את⟩ mesto s svojo modrostjo; in nihče si ni vspomnil ⟨את⟩ tistega revnega moža.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/9\/13-16.1792437145964.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "in našel se je"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "revni"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "in rešil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "s svojo modrostjo"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "in nihče"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "si vspomnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tistega revnega moža"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "revnega"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tistega"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:25.965699940Z",
+  "model": "glm-5.3"
+}

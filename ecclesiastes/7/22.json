@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "tukaj je את_PRON 'ti' (2. oseba), ne aleph-tav označevalca — 'tudi ti sam si preklinjal'"
+    },
+    {
+      "kind": "elision",
+      "subject": "sebie",
+      "rationale": "angl. 'thyself' \/ slov. poudarek 'ti sam' nima ločenega hebrejskega žetona, nosi ga osebni zaimek את"
+    }
+  ],
+  "translation": "Kajti marsikrat ve˘ ve tvoje srce, da si tudi ti ⟨ siebie ⟩ preklinjal druge.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/21-24.1792437124905.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krat"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "marsikrat"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvoje srce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "si preklinjal"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "druge"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:04.907160157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨torej⟩",
+      "rationale": "zadnji člen je brez veznika; dodan za razumljivost seznama"
+    },
+    {
+      "kind": "crux",
+      "subject": "Atrot-Bet-Joav",
+      "rationale": "KJV razbija kot tri kraje ('Ataroth, the house of Joab'), ASV\/JPS kot eno ime kraja"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovni seznam",
+      "rationale": "genealoško naštevanje potomcev Salme"
+    }
+  ],
+  "translation": "Sinovi Salme: Beit-Lehem, Netofajci, Atrot-Bet-Joav in polovica Manahtijcev, ⟨torej⟩ Zorejci.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea9bac74114d342872eeb0e2dcf90e220b9d4e212f7fac5ee18a9d9d87c986cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/53-55.1792438031773.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "in Netofajci"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "Atrot-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "-Bet-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "-Joav"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "in polovica"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "Manahtijcev"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "Zorejci"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:11.775563392Z",
+  "model": "glm-5.3"
+}

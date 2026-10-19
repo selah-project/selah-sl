@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 37:9",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ki pravijo⟩",
+      "rationale": "l\/559 'rekoč' je tu poročilni okvir govorice; slovenščina potrebuje nosilec glagola"
+    },
+    {
+      "kind": "you",
+      "subject": "Asur",
+      "rationale": "Tirhakovo sporočilo naslavlja Asurja z 'te'"
+    }
+  ],
+  "translation": "In slišal je o Tirhaki, kralju Kuša, ⟨ki pravijo⟩: Izzašel je, da bi se bojeval ⟨את⟩ te. In ko je to slišal, je poslal odposlance k Hizkiju, rekoč:",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/37\/9-12.1792430480537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "in slišal je"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirhaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ki pravijo⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izzašel je"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "da bi se bojeval"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "in ko je slišal"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "odposlance"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiju"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    }
+  ],
+  "timestamp": "2026-10-19T17:21:20.537809778Z",
+  "model": "glm-5.3"
+}

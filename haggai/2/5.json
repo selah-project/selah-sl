@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "slovenščina potrebuje predmetni zaimek za besedo, hebrejščina ga nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sklenil",
+      "rationale": "כרתי dobesedno 'sem zadal\/urezal' — zaveza se v hebrejščini 'reže'"
+    },
+    {
+      "kind": "crux",
+      "subject": "z vami",
+      "rationale": "אתכם je tu predlog 'z', ne predmetni označevalec — 'skoval z vami' jezikovno nemogoče, prevodi reko 'covenanted'"
+    },
+    {
+      "kind": "you",
+      "subject": "ljudstvo v deželi",
+      "rationale": "neposreden nagovor skupnosti, ki gradi templj"
+    }
+  ],
+  "translation": "⟨את⟩ besedo, ki sem jo sklenil ⟨את⟩ z vami, ko ste šli iz Micrajima, in moja ruah stoji sredi vas — ne bojte se.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/haggai\/2\/5-8.1792434293683.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besedo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "besedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "sem sklenil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "z vami ⟨את⟩"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ko ste šli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "in moja ruah"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sredi vas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:53.684845911Z",
+  "model": "glm-5.3"
+}

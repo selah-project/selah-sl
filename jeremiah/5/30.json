@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "slovenščina zahteva pomožnik 'sta' + zaimka 'se', hebrejščina ima samo היה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמה\/שערורה",
+      "rationale": "pare starih močnih besed, asonanca v širini, v slovenščini ublaženo"
+    }
+  ],
+  "translation": "Groza in strašnost sta ⟨se⟩ zgodili v deželi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "83f772650c49bf2f3c224460344712028524b3d438998ee0bb741f060d3dab5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/5\/29-31.1792431109081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "groza"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "in strašnost"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨se⟩ zgodili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:31:49.082687622Z",
+  "model": "glm-5.3"
+}

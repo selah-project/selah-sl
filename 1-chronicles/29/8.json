@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "po roki = po posredovanju, pod nadzorom — dobesedno 'na roki'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kdor",
+      "rationale": "הנמצא 'tisti, pri katerem je bil najden' — v slovenščini predmetna zveza preoblikovana v 'kdor je našel'"
+    }
+  ],
+  "translation": "In kdor je pri sebi ⟨את⟩ našel kamne, jih je daroval v zakladnico hiše Jahveja, po roki Jehiela Geršonca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/29\/5-8.1792438413166.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "in kdo je našel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pri sebi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "je daroval"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "v zakladnico"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roki"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jehiela"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Geršonca"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:33.169152060Z",
+  "model": "glm-5.3"
+}

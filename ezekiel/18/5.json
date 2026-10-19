@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה se po pravilih piše po hebrejskem zvoku — cedek — ne kot 'pravičnost' sama"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima tvorne glagolske oblike kot slovenščina; 'je' je dodano"
+    }
+  ],
+  "translation": "In če je kak mož pravičen in je delal sodbo in cedek,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a6bcda7248a0df85054c31e9b51858e608885f60c523058391ed70190c8642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/18\/5-8.1792432244104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "In če je kak mož"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "je"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "in je delal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "in cedek"
+    }
+  ],
+  "timestamp": "2026-10-19T17:50:44.105541447Z",
+  "model": "glm-5.3"
+}

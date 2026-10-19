@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vse meso",
+      "rationale": "כל בשar je dobesedno 'vse meso'; 'vsa bit' bi izgubilo obliko"
+    },
+    {
+      "kind": "addition",
+      "subject": "moja",
+      "rationale": "פי je samo 'moja usta' kot konstruktna zveza z osebnim pronomskim končnicam — v slovenščini dodano"
+    }
+  ],
+  "translation": "Hvalo Jahveja bo govorila moja usta, in vse meso naj blagoslavlja ⟨njegovo⟩ sveto ime za vedno in večno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b4ff06a0a24023cc0952b89e9adf8b964dfbb2d0b0c915dd7f52a47316d414c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/21-21.1792435692819.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "hvalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bo govorila"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "in naj blagoslavlja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "njegovo sveto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in večno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:12.820960260Z",
+  "model": "glm-5.3"
+}

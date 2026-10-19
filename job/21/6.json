@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 21:6",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨moje⟩",
+      "rationale": "Slovenščina potrebuje svojilni zaimek; hebrejščina ga ima v končnici בשרי."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פלצות",
+      "rationale": "Redka beseda za grozo\/otopelost; 'groza' je najbližji slovenski ekvivalent."
+    }
+  ],
+  "translation": "In če pomislim, sem zgrožen, in groza zgrabi ⟨moje⟩ telo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/21\/5-8.1792436514174.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "In če"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "pomislim"
+    },
+    {
+      "surface": "ונבהלתי",
+      "gloss": "sem zgrožen"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "in zgrabi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "telo"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "groza"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:54.175537872Z",
+  "model": "glm-5.3"
+}

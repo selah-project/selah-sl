@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brez srca",
+      "rationale": "חסר לב dobesedno 'brez srca' — hebrejščina premišljuje z lev\/לב, ne z razumom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je življenjska sila\/dih, ne nesmrtna duša"
+    },
+    {
+      "kind": "addition",
+      "subject": "z",
+      "rationale": "glagol נאף vzema direktni predmet; slovenščina zahteva 'z ženo'"
+    }
+  ],
+  "translation": "Prešuštvuje z ženo, kdor je brez srca; uničuje svojo dušo — on sam to stori.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/6\/29-32.1792435827656.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "prešuštvuje"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "z ženo"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "brez"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "uničuje"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on sam"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "to stori"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:27.658699584Z",
+  "model": "glm-5.3"
+}

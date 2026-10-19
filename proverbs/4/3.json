@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחיד",
+      "rationale": "'edinec' (edini sin) proti 'ljubljen' (KJV 'only beloved'); koren pomeni zedinjen, edini"
+    },
+    {
+      "kind": "addition",
+      "subject": "bil",
+      "rationale": "slovenščina zahteva pomožnik 'bil' pri pretekliku"
+    }
+  ],
+  "translation": "Kajti bil sem sin svojemu očetu, nežen in edinec pred obličjem svoje matere.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8193dd1e1a15088d271e3e8876229dd56aaaf0387a15856dd2753f7772c259d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/4\/1-4.1792435851334.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sem bil"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "svojemu očetu"
+    },
+    {
+      "surface": "רך",
+      "gloss": "nežen"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "in edinec"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred obličjem"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "svoje matere"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:51.336209195Z",
+  "model": "glm-5.3"
+}

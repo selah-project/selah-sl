@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v⟩",
+      "rationale": "hebrejščina stavi חסד samostalniško; slovenščina potrebuje predlog"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמן ראש",
+      "rationale": "»olje za glavo«: KJV\/ASV berejo »ne razbije moje glave«, JPS\/BSB »olje, ki ga glava ne odkloni«"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש \/ ראשי",
+      "gloss": "ponovitev besede glava v isti vrsti"
+    }
+  ],
+  "translation": "Udaril naj me pravičnik ⟨v⟩ hesed, in pokarjal naj me; olje za glavo — naj moja glava tega ne odkloni, kajti še naprej je moja molitev sredi njihovih hudobij.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/141\/5-8.1792435740919.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "udaril naj me"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičnik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "in pokarjal naj me"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olje"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "za glavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יני",
+      "gloss": "naj odkloni"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moja glava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še naprej"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "je moja molitev"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "sredi njihovih hudobij"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:00.920360768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קימנו",
+      "rationale": "tripogled: 'naši nasprotniki' (קים=qum, nasprotnik, s suffiksom -נו), 'naše premoženje' (קנין), ali 'njihovi telesni ostanki'; KJV bere drugače kot JPS."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "doslovno 'če ne'; potrjevalni 'zares, gotovo' — hebrejska potrditvena zveza."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "negacija je del potrjevalne zveze אם לא in se v slovenščino ne prenaša ločeno."
+    }
+  ],
+  "translation": "Zares, uničeni so naši nasprotniki, ostanek njih je požrl ogenj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/17-20.1792436519590.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Zares"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "uničeni so"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "naši nasprotniki"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "ostanek njih"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "je požrl"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:59.592852558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "razpad",
+      "rationale": "šahat: jama\/koruzija — dobesedno »jam«, tu bližnja razpadlosti"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Ti si⟩",
+      "rationale": "Zaimek אתה je v hebrejščini izpostavljen; slovenščina ga potrebuje kot kopulo"
+    }
+  ],
+  "translation": "Razpadu sem zabil: »⟨Ti si⟩ moj oče«, crvi: »moja mati in moja sestra«.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/17\/13-16.1792436459477.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "razpadu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sem zabil"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "moj oče"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Ti si⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "moja mati"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "in moja sestra"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "crvi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:59.478963118Z",
+  "model": "glm-5.3"
+}

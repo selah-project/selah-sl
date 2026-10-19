@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pomeni⟩",
+      "rationale": "hebrejščina ima samo vprašalnik מה brez glagola; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "invitation",
+      "subject": "otroško vprašanje",
+      "rationale": "besedilo vlaga vprašanje v usta sinov — vzgojni vzvod, ki naslavlja naslednje rodove"
+    }
+  ],
+  "translation": "In zgodilo se bo, ko vam rečejo vaši sinje: Kaj ⟨pomeni⟩ vam ta služba?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/12\/25-28.1792423324390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in zgodilo se bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "rečejo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vaši sinje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "služba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-19T15:22:04.391356985Z",
+  "model": "glm-5.3"
+}

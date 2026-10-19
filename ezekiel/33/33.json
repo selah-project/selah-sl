@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to",
+      "rationale": "slovenščina potrebuje domnevnik\/osevek, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובבאה ... באה",
+      "rationale": "ponovitev korena בוא ('priti') — božja gotovost, da se bo izpolnilo"
+    }
+  ],
+  "translation": "In ko ⟨to⟩ pride — glej, prihaja — bodo vedeli, da je bil prerok med njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "77273e578ea9d0006a84dc8f0376b18b7baf76846041aa89ac041cac467e8500",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/33\/33-33.1792432559289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "in ko pride"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "באה",
+      "gloss": "prihaja"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "bodo vedeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prerok"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "med njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T17:55:59.289994637Z",
+  "model": "glm-5.3"
+}

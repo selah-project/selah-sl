@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je dih\/življenjska sila, ne 'duša'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina nima glagola 'biti'; Besedno kos ḳinah oblika je opisna, ne pripovedna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמלטה\/נמלטנו",
+      "rationale": "ponovitev glagola 'ubežati' (ptica — mi) povezuje podobo z izkušnjo."
+    }
+  ],
+  "translation": "Naša nefes ⟨je⟩ kakor ptica, ubežala iz zanke postavljavcev; zanka se je prelomila, in mi smo ušli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/124\/5-8.1792435542867.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Naša nefes"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kakor ptica"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ubežala"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "iz zanke"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "postavljavcev"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "zanka"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "se je prelomila"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "in mi"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "smo ušli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:42.868588752Z",
+  "model": "glm-5.3"
+}

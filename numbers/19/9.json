@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 19:9",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Hebrew lacks object pronoun; והניח carries it implicitly"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי נדה",
+      "rationale": "voda nide: 'voda škropljenja' (KJV), 'voda nečistosti\/odvajanja' (ASV), dobesedno 'voda izločitve' — ohranjena dobesedna oblika"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאת הוא",
+      "rationale": "'hatat je': greh-žrtev, čiščenje od greha, ali sredstvo za odvzem greha — različni prevodi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "hramba pepela",
+      "rationale": "pepel je shranjen kot zaloga za obredno vodo — uredba o hrambi"
+    }
+  ],
+  "translation": "In čist mož naj pobere ⟨את⟩ pepel krave in ga odloži zunaj tabora na čistem mestu; in bo ⟨to⟩ občini sinov Jisraela v hrambo za vodo nide — hatat je ⟨ta pepel⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0c44c8a9a5e709ca27f25d7897e5470d1c931865206c42912270b82259465f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/19\/9-12.1792425212356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "in naj pobere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pepel"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "pepel"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "krave"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "in odloži"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tabora"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na mestu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistem"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "in bo"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "občini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "v hrambo"
+    },
+    {
+      "surface": "למי",
+      "gloss": "za vodo"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nide"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hatat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨ta pepel⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T15:53:32.357351824Z",
+  "model": "glm-5.3"
+}

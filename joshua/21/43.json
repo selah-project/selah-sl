@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "Hebrejski nedoločnik לתת nima ločenega predmeta; slovenščini je za tekom potreben zaimek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zasedli",
+      "rationale": "ירש pomeni zasesti z izgonom prejšnjih prebivalcev, ne le 'podedovati'."
+    }
+  ],
+  "translation": "In Jahve je dal Jisraelu ⟨את⟩ vso deželo, za katero je prisegel dati ⟨jo⟩ njihovim očetom; in zasedli so ⟨jo⟩ in se naselili v njej.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "653afc1de28541ef7f4c308f99af58ab034b0200844f42b8befc91db651c6c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/21\/41-44.1792426824019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "in je dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vso deželo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za katero"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "je prisegel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dati"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "njihovim očetom"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "in zasedli so jo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "in se naselili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    }
+  ],
+  "timestamp": "2026-10-19T16:20:24.020887876Z",
+  "model": "glm-5.3"
+}

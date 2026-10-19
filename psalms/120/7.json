@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "hebrejščina brez glagola: 'jaz mir' — imenovalni stavek"
+    },
+    {
+      "kind": "crux",
+      "subject": "אני שלום",
+      "rationale": "'Jaz sem mir' (popolnoma identifikacijsko, YLT) proti 'jaz sem za mir' (KJV) proti 'jaz iščem mir' (Geneva)"
+    }
+  ],
+  "translation": "Jaz — mir ⟨sem⟩; a ko govorim, so ⟨oni⟩ za vojno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/120\/5-7.1792435529025.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "govorim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨oni⟩"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za vojno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:29.026302889Z",
+  "model": "glm-5.3"
+}

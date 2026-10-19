@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנות",
+      "rationale": "ךְְשָׁנוֹת lahko 'leta' ali 'spremembe': KJV 'years', JPS 'could change', BSB 'changed'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלותי היא",
+      "rationale": "'moja bolezen je to' ali (druga črka) 'spremenila se je desnica Najvišjega' — slavnostna tekstualna razhajanja"
+    }
+  ],
+  "translation": "In sem rekel: To je moja slabost ⟨to je⟩, spomnim se let desnice Najvišjega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/9-12.1792435140802.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in sem rekel"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "moja slabost"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "let"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "desnice"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Najvišjega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:00.804236158Z",
+  "model": "glm-5.3"
+}

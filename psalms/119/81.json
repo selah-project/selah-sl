@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je življenjska sila, ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga nima."
+    }
+  ],
+  "translation": "Konec je z ⟨mojo⟩ nefi ⟨z⟩ tvojo rešitvijo; za tvojo besedo sem upal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/81-84.1792435516849.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "konec je"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "z tvojo rešitvijo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "za tvojo besedo"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "sem upal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:16.850015141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jama",
+      "rationale": "השחת je jama \/ prepad (grobo mesto), ne 'razpad' ali 'pokvarjenost'."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "gloss": "negacija je v hebrejščini samostojna beseda, slovenščina jo izraža z dvema deloma ne bo — nikoli"
+    }
+  ],
+  "translation": "In ⟨naj⟩ še živi vekomaj, jamo ⟨ne⟩ bo videl nikoli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/9-12.1792434874262.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "in še živi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "še"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vekomaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bo videl"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "jamo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:34.263599892Z",
+  "model": "glm-5.3"
+}

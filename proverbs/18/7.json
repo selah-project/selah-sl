@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez kopule — imenovalni stavek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je bolj 'grlo \/ dih \/ življenjska sila' kot 'duša'; oblika je ohranjena"
+    }
+  ],
+  "translation": "Usta neumnika so ⟨njegova⟩ propast ⟨zanj⟩, in njegove ustice so zanka njegove nefeš.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/18\/5-8.1792436003074.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "usta"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "neumnika"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "propast"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zanj⟩"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "in njegove ustice"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "zanka"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "njegove nefeš"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:23.075839863Z",
+  "model": "glm-5.3"
+}

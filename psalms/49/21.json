@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula before נמשל"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "Koren משל (primerjati) in דמה (bitiumni, poginiti) se odzivata; v slovenščini igra izgine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poginili so",
+      "rationale": "נדמו dobesedno 'umolknejo\/prenehajo' — umolknejo kakor živina"
+    }
+  ],
+  "translation": "Človek v časti, in ne razume, je postal kakor živina — ⟨so⟩ poginili ⟨so⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc6b7c77f76eb66697796be341fc5d46f0785a167995223d72f36ffde2e9ea8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/49\/21-21.1792434852329.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "v časti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "razume"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "je postal kakor"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "živina"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "poginili so"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:12.330572699Z",
+  "model": "glm-5.3"
+}

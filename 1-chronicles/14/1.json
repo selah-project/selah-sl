@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 14:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik v preteritu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "obdelovalci kamna",
+      "rationale": "חרשי קיר dobesedno 'obdelovalci stene\/zidu'; qir je zid iz kamna"
+    }
+  ],
+  "translation": "In Hiram, kralj Ccja, je poslal poslance Davidu in les cedrov ter obdelovalce kamna in obdelovalce lesa, da zidajo ⟨mu⟩ hišo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/14\/1-4.1792438238209.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "je poslal"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cca"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "poslance"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "in les"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrov"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "in obdelovalce"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "kamna"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "in obdelovalce"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lesa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "da zidajo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:38.210229796Z",
+  "model": "glm-5.3"
+}

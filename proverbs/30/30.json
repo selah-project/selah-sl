@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silno-žival",
+      "rationale": "גבור je 'močan\/junak', uporabljen za leva; slova 'močan' izgubi živalskost slike"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pred obrazom",
+      "rationale": "hebrejščina מפני dobesedno 'od obraza'; 'pred' je naravna slovenščina"
+    }
+  ],
+  "translation": "lev, silno-žival med živino, ki se ne obrne pred obrazom česa koli;",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "82c9688febfadef7e834a4b6436f2035da790c32aeda74d28568ab78124b6d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/30\/29-32.1792436196812.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "lev"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "silno-žival"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "med živino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se obrne"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pred obrazom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "česa koli"
+    }
+  ],
+  "timestamp": "2026-10-19T18:56:36.813093469Z",
+  "model": "glm-5.3"
+}

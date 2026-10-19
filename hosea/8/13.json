@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבהבי",
+      "rationale": "hapaksemni darovi\/žrtve; različice: 'moji darovi' (KJV) vs 'njihovi darovi' — končnica ni zaimenska"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הבהב",
+      "rationale": "beseda se v Tanahu pojavlja samo tukaj in v Ho 13,2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבחי ... יזבחו",
+      "rationale": "ponovitev korena zbḥ — dar-žrtev \/ koliti, v slovenščini razpadlo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יפקד",
+      "rationale": "'obiskati' s sovražnim namenom = kaznovati; dobesedno 'obiskal'"
+    }
+  ],
+  "translation": "Darove svojih žrtvovanj koljejo ⟨kot⟩ meso in jedo ⟨ga⟩; Jahve jih ni vesel. Zdaj se bo spomnil njihove krivde in obiskal njihove grehe: oni se bodo vrnili v Micrajim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/8\/13-14.1792433772512.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "darovi žrtvovanj"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "svoje darove"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "koljejo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "in jedo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "jih vesel"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "se bo spomnil"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "njihove krivde"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "in obiskal"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "njihove grehe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "v Micrajim"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "se bodo vrnili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:12.513308986Z",
+  "model": "glm-5.3"
+}

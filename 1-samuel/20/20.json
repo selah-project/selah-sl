@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Davidu",
+      "rationale": "Jonatan razlaga Davidu znak s puščicami"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tri puščice",
+      "rationale": "natančno število puščic je del sporočila-znaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "למטרה",
+      "rationale": "׃מטרה je tarča; koren pomeni tudi 'varovati'; prevodi se razhajajo med 'tarča' in dobesednim 'kar je pod varstvom'"
+    }
+  ],
+  "translation": "In jaz bom tri puščice ustrelil na stran, kakor bi streljal ⟨sebi⟩ ⟨na⟩ tarčo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "412ef326fcacdd60a42bc9303c70198c17f6db1dbac8c57450312d05b84266e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/17-20.1792427900657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tri"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "puščice"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "na stran"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "bom ustrelil"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kakor bi poslal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sebi⟩"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "⟨na⟩ tarčo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:38:20.658643162Z",
+  "model": "glm-5.3"
+}

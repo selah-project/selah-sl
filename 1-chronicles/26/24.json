@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bil⟩",
+      "rationale": "hebrejščina brez glagola; slovenščina ga zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגיד",
+      "rationale": "»poglavar\/vladar\/predstojnik« — prevodi se razhajajo med 'ruler', 'officer in charge', 'president'; tukaj knjaž-nadzorovalnik, dobesedno 'tisti, ki hodi spredaj'"
+    }
+  ],
+  "translation": "In Šebuel, sin Geršoma, sina Mošeta, ⟨je bil⟩ knjaž-nadzorovalnik nad skladišči.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/26\/21-24.1792438332596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "in Šebuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Geršoma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeta"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "knjaž-nadzorovalnik"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "skladišči"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:12.600207458Z",
+  "model": "glm-5.3"
+}

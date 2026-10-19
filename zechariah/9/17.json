@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola 'biti' v vzkliku"
+    },
+    {
+      "kind": "crux",
+      "subject": "pridevniki njegovo\/njegova",
+      "rationale": "טובו\/יפיו: 'njegovo' (Elohim ali kralj) ali 'njihovo' (ljudstvo, kot JPS) — končnice -ו dovoljujeta obe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mlado vino",
+      "rationale": "תירוש je sveže stisnjen grozdni sok, ne nujno fermentirano vino"
+    }
+  ],
+  "translation": "Kaj ⟨je⟩ njegovo dobro in kaj ⟨je⟩ njegova lepota! Žito bo cveto storilo mladeničem in mlado vino devicam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "49689ce843762268131ffbf3f56310a2eb81c7f00fb270bfe30595e5143680a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/9\/17-17.1792434346588.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "njegovo dobro"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "njegova lepota"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "žito"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "mladeničem"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "in mlado vino"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "bo cveto storilo"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "devicam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:46.589712322Z",
+  "model": "glm-5.3"
+}

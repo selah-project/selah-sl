@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "daniel 6:28",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתין",
+      "rationale": "aramejska beseda za 'znamenja' izgleda kot את, a ni označevalnik predmeta — nikakor ne sme dobiti ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "slovenščina potrebuje veznik tam, kjer aramejščina postavlja deležnike"
+    }
+  ],
+  "translation": "Rešitelj in osvoboditelj, ki dela znamenja in čudeže v nebesih in na zemlji, ki je rešil Daniela iz roke levov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6099bf22f30c54ccaacd3a817ac72037687bf545e03194fd0bf91fb911b0062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/6\/25-28.1792437421063.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיזב",
+      "gloss": "rešitelj"
+    },
+    {
+      "surface": "ומצל",
+      "gloss": "in osvoboditelj"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ki dela"
+    },
+    {
+      "surface": "אתין",
+      "gloss": "znamenja"
+    },
+    {
+      "surface": "ותמהין",
+      "gloss": "in čudeže"
+    },
+    {
+      "surface": "בשמיא",
+      "gloss": "v nebesih"
+    },
+    {
+      "surface": "ובארעא",
+      "gloss": "in na zemlji"
+    },
+    {
+      "surface": "די",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שיזיב",
+      "gloss": "je rešil"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Daniela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roke"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "levov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:17:01.067331557Z",
+  "model": "glm-5.3"
+}

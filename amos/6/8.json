@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "nefeš je 'grlo\/dih\/življenjska sila'; 'pri svoji duši' pomeni 'tako kot živim' — Jahve nima višjega, pri čemer bi prisegel."
+    },
+    {
+      "kind": "elision",
+      "subject": "אנכי",
+      "rationale": "ločeno osebni zaimek 'jaz' za poudarek ('jaz sama gnusim se mi'), v slovenščini del glagola."
+    },
+    {
+      "kind": "elision",
+      "subject": "ומלאה",
+      "rationale": "'in njen polnost' — dobesedno 'polnost' (vse, kar mesto napolnjuje), ne 'prebivalci'."
+    }
+  ],
+  "translation": "Prisegel je Adonaj Jahve pri svoji duši, izrek Jahveja, Elohim Cebaot: gnusim se ⟨את⟩ ošabnost Jaakova in njegove trdnjave sovražim, in izročil bom mesto in njegovo polnost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3381093c1ceaf548d44767e213dae3210f3ec1af903b4402b0fec0ca647d6269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/6\/5-8.1792434066739.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Prisegel je"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "pri svoji duši"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "izrek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "gnusim se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ošabnost Jaakova"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ošabnost"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "in njegove trdnjave"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "sovražim"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "in izročil bom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "in njegovo polnost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:06.741015478Z",
+  "model": "glm-5.3"
+}

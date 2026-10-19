@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hvaljenje",
+      "rationale": "תודה je dobesedno iztegovanje roke, torej izrekanje zahvale; 'zahvala' bi bila bliže, 'hvaljenje' je širše"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזבח\/זבח",
+      "rationale": "glagol in samostalnik iz istega korena — 'zaklal bom zakol', v slovenščini ohranjeno"
+    }
+  ],
+  "translation": "Tebi bom zaklal zakol hvaljenja in v imenu Jahveja poklical.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7a3a4f1a8d8db24521d7447c46690e18552aedf57499aac071f3d047980d5eda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/116\/17-19.1792435433506.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tebi"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "bom zaklal"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zakol"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "hvaljenja"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "in v imenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "poklical"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:53.507481655Z",
+  "model": "glm-5.3"
+}

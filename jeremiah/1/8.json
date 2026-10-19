@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "njihovih obrazov",
+      "rationale": "hebrejščina dobesedno 'pred njihovimi obrazi' — semitski vzorec strahu pred obrazom"
+    },
+    {
+      "kind": "addition",
+      "subject": "s teboj sem jaz",
+      "rationale": "besedni red: hebrejščina postavi אתך (s teboj) na prvo mesto za poudarek"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "tu je predlog את (H854, z), ne aleph-tav H853 — ni oznake tožnika"
+    }
+  ],
+  "translation": "Ne boj se njihovih obrazov, kajti ⟨את⟩ s teboj sem jaz, da te rešim, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/1\/5-8.1792430997125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "njihovih obrazov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s teboj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sem jaz"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "da te rešim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:57.126598707Z",
+  "model": "glm-5.3"
+}

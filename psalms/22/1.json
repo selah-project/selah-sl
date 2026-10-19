@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אילת השחר",
+      "rationale": "»Koslja zarje« je naslov melodije\/inštrumenta, ki se pojavi le tu v Tanahu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Zborovodji",
+      "rationale": "למנצח dobesedno »tistemu, ki označuje\/nadzoruje«; lahko tudi »Dirigentu«."
+    }
+  ],
+  "translation": "Zborovodji, po »Koslji zarje«. Mizmor Davidu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/22\/1-4.1792434645812.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Zborovodji"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "»Koslji"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "zarje«"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:45.812703504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 23:9",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je bil⟩",
+      "rationale": "hebrejščina brez glagola biti v imenski povedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחרפם",
+      "rationale": "dobesedno 'pri njihovi sramoti\/izpostavljenosti': 'ko so zaničevali\/izzvali' (KJV 'defied') proti 'ko so tvegali življenja' (JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעלו",
+      "rationale": "'so se vzpeli' — različice: 'so odšli gor' (umik) ali 'so napadli'; hebrejščina pusti odprto"
+    }
+  ],
+  "translation": "In za njim ⟨je bil⟩ Elazar, sin Dodója, sin Ahóhija, med tremi junaki, ki so bili z Davidom; ko so izzvali Pelištijce, so se tam zbrali k vojni, in možje Jisraela so se vzpeli ⟨gor in odšli⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "97216f84ccf8b96dca44beebc9892ae3b5f24136f3a4535b2bbe1ab52fdb96a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/23\/9-12.1792428675829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרו",
+      "gloss": "in za njim"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "Dodója"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אחחי",
+      "gloss": "Ahóhija"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "med tremi"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "junaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidom"
+    },
+    {
+      "surface": "בחרפם",
+      "gloss": "ko so izzvali"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelištijce"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "so se zbrali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k vojni"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "so se vzpeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "možje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T16:51:15.830253674Z",
+  "model": "glm-5.3"
+}

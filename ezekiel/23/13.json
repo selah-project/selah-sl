@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se je",
+      "rationale": "Hebrejščina nima pomožnika; slovenščina ga potrebuje za preteklik."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pot ena za obé",
+      "rationale": "Doslovno »ena pot obema« — sestri (Ohola in Oholiva) hodita isti pot nečistovanja."
+    }
+  ],
+  "translation": "In videl sem, da ⟨se je⟩ omadežila — pot ena je za obé.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dacb64c37969304caf8c5961234958764c13c2b9ee9ee0b393d1fcb25f11c250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/23\/13-16.1792432438319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "In videl sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "omadežila"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ena"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "za obé"
+    }
+  ],
+  "timestamp": "2026-10-19T17:53:58.320486477Z",
+  "model": "glm-5.3"
+}

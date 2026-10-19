@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks the auxiliary; past tense requires it in Slovene"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vino",
+      "rationale": "תירוש is fresh, just-pressed grape juice; 'vino' loses the newness"
+    }
+  ],
+  "translation": "In vse Jehuda je prinesel desetino žit, vina in olja v shrambe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2bc12a73f4154b02abc1262a1a4840ce66d867e5c65b57ac7ae5a71aa5689f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/13\/12-12.1792439091741.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "In vse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "je prinesel"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "desetino"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "žit"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "in vina"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "in olja"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "v shrambe"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:51.742137193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 17:29",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפות בקר",
+      "rationale": "KJV 'cheese of kine' vs domneva 'skuta iz govedi'; שפות je precej redka beseda, razlaga 'sir\/skuta' iz sirila."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמאה",
+      "rationale": "Ne 'maslo' (moderni pomen), temveč kislo mleko\/skuta."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Hebrejski predlog z bližino ('z njim') v slovenščini zahteva predlog 'z'.",
+      "addition": true
+    }
+  ],
+  "translation": "in med in skuta in drobnica in sir iz govedi so prinesli blizu Davidu in ljudstvu, ki je ⟨את⟩ ⟨z njim⟩, da jé, kajti rekli so: ljudstvo je lačno in nemočno in žejno v puščavi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "ad80ee17e5ed0af436d794e08767f346f10d018b304876747af69c815cd1646b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/17\/29-29.1792428407537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבש",
+      "gloss": "in med"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "in skuta"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "in drobnica"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "in sir"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iz govedi"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "so prinesli blizu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "in ljudstvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨z njim⟩"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "da jé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "so rekli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "lačno"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "in nemočno"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "in žejno"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v puščavi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:47.538295970Z",
+  "model": "glm-5.3"
+}

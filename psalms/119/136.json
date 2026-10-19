@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "so stale",
+      "rationale": "ירדו je dobesedno 'so šle navzdol'; 'stale iz oči' je slovenski idiom za solzne"
+    },
+    {
+      "kind": "crux",
+      "subject": "על",
+      "rationale": "s veznikom 'ker' ali brez njega — hebrejščina postavlja samostojen 'על לא שמרו', 'nad tem, da niso varovali'"
+    }
+  ],
+  "translation": "Potoki voda so stale iz mojih oči, ker niso varovali tvoje Tore.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/133-136.1792435539831.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "potoki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "so stale"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iz mojih oči"
+    },
+    {
+      "surface": "על",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "so varovali"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvoje Tore"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:39.834029829Z",
+  "model": "glm-5.3"
+}

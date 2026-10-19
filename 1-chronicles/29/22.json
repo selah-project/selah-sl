@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 29:22",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ga⟩",
+      "rationale": "slovenščina potrebuje predmet pri 'mazilili', hebrejščina ga pusti implicitnega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "za Jahveja",
+      "rationale": "ליהוה tu pomeni 'v Jahvejevo službo \/ za Jahveja', ne gibanja k njemu."
+    }
+  ],
+  "translation": "In jedli so in pili pred Jahvejem tisti dan z veliko veselje. In postavili so drugič za kralja Šeloma, sina Davidovega, in mazilili ⟨ga⟩ za Jahveja za kneza, in Cadoka za duhovnika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b7a7563ae9b9fe3c67d1dfbb93d808bf9d28cd8f205fbf507dd12dcbc5590856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/29\/21-24.1792438395850.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "In jedli so"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "in pili"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvejem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tisti dan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "z veselje"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "In postavili so za kralja"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "drugič"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sina"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovega"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "in mazilili"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahveja"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "za kneza"
+    },
+    {
+      "surface": "ולצדוק",
+      "gloss": "in Cadoka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "za duhovnika"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:15.852584382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew has pronoun הוא, no verb 'to be'; copula added in Slovenian"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבר עלינו",
+      "rationale": "'passes over by us continually' — habitually visits vs. merely passes by; context of v.8 favors regular visits"
+    }
+  ],
+  "translation": "In rekla je svojemu možu: Glej, prosim, vem, da je mož Elohimov, svet ⟨je⟩, ki hodi vedno mimo nas.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/4\/9-12.1792429378979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekla je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojemu možu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "svojemu možu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mož"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hodi mimo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mimo nas"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vedno"
+    }
+  ],
+  "timestamp": "2026-10-19T17:02:58.980545706Z",
+  "model": "glm-5.3"
+}

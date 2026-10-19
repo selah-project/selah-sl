@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Poslušajte",
+      "rationale": "Povabilo s poslušanjem: Miha kliče voditelje, naj prisluhnejo."
+    },
+    {
+      "kind": "you",
+      "subject": "glavarji Jaakova",
+      "rationale": "Neposreden nagovor voditeljev Jaakova in hiše Jisraela."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Prošna delca נא nima čistega ustreza; dan kot ⟨zdaj⟩."
+    }
+  ],
+  "translation": "In rekel sem: Poslušajte ⟨zdaj⟩, glavarji Jaakova in veljaki hiše Jisraela — ali ni vam ⟨to⟩ za vedeti ⟨את⟩ pravo?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/3\/1-4.1792434147926.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "In rekel sem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zdaj⟩"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "glavarji"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "in veljaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ali ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "za vedeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pravo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pravo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:22:27.927653461Z",
+  "model": "glm-5.3"
+}

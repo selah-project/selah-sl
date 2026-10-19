@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 14:8",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nazajnje zanje",
+      "rationale": "לפניה׈ je dobesedno 'pred njih obličje' — 'prednje' ohranja smer, ne doda 'proti'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישמעו ... וישמע",
+      "rationale": "Dvojni 'slišati': Peleštijci slišijo o Davidu, David sliši o njih — zrcalna struktura."
+    },
+    {
+      "kind": "elision",
+      "subject": "je bil",
+      "rationale": "Slovenščina potrebuje glagolsko obliko za passivni infinitivni stavk."
+    }
+  ],
+  "translation": "In slišali so Peleštijci, da je bil maziljen David za kralja nad vsem Jisraelom, in vsi Peleštijci so šli gor, da bi iskali ⟨את⟩ Davida; David pa je slišal in stopil prednje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cfc5027cd81a26326f7c135f1df4a40da3f2f85473e5bc4c1a508f716fcac6f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/14\/5-8.1792438226229.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "in slišali so"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštijci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נמשח",
+      "gloss": "bil maziljen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za kralja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "in so šli gor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleštijci"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "da bi iskali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "in je slišal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "in je stopil"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "prednje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:26.232211292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pomilil",
+      "rationale": "וינחם: 'pomilil se \/ obžaloval' (KJV, JPS) proti 'bil tolažen' (YLT); koren pomeni močno dihniti, vzdihovati."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ostaja hesed: ena beseda za zvesto dobroto, 'milost' bi izbrisala obliko."
+    }
+  ],
+  "translation": "In spomnil se je zanje svoje zaveze in se pomilil po množici svojega heseda.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8d38226ea90447e28c4d75e77dead21ce453c9ce894defcd55aab3eb22cae58d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/45-48.1792435409982.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "in se je spomnil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zanje"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svoje zaveze"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "in se pomilil"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "po množici"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svojega heseda"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:29.984198549Z",
+  "model": "glm-5.3"
+}

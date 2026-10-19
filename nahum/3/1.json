@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרק",
+      "rationale": "Beseda se v Tanahu pojavlja samo tu; pomen 'rop\/nasilje' je izpeljan."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva glagol biti v prostačni zgradbi 'polno je'."
+    }
+  ],
+  "translation": "Gorje mestu krvi, vsega ⟨je⟩ polno laži in ropa — plen se ne umika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ee5b0555edae6d22289bfdcae4a156201340551aba4dfb5d5b1b5754d31c8cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/3\/1-4.1792434228251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "gorje"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mestu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vse"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "laži"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "polno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "umika"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "plen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:48.252594760Z",
+  "model": "glm-5.3"
+}

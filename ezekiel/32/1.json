@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dar",
+      "rationale": "דבר je 'beseda'; uporabljeno 'dar' po ustaljenem slovenskem vzorcu 'beseda Gospodova je prišla k meni' bi izničilo Ime; 'beseda Jahveja' bi bila dobesedna izbira"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datum",
+      "rationale": "natančna datumska formula: dvanajsto leto, dvanajsti mesec, prvi dan meseca"
+    }
+  ],
+  "translation": "In zgodilo se je v dvanajstem letu, v dvanajstem mesecu, v prvem dnevu meseca, je bil dar Jahveja meni, rekoč:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "922181ca349450def3d3e7d9189c3811fccb29c4bfa02c2c0fb3e04ca4563274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/32\/1-4.1792433523824.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In zgodilo se je"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "v dvanajstem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dvanajstem"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "letu"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "v dvanajstem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanajstem"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mesecu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "v prvem"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "dnevu meseca"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:03.824809516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "je pogledal",
+      "rationale": "hašqif je dobesedno 'se sklona skozi okno' — preneseno: pronicljivo opazuje od zgoraj."
+    }
+  ],
+  "translation": "Jahve je z neba pogledal na sinove človeka, da bi videl, ali je kdor razumen, kdor išče ⟨את⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/14\/1-4.1792434589892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z neba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "je pogledal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "da bi videl"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ali je"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kdor razumen"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kdor išče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:49.894677738Z",
+  "model": "glm-5.3"
+}

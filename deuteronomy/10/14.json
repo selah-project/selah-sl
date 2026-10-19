@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pripadata⟩",
+      "rationale": "hebrejščina nima glagola; slovenščina zahteva prezence."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nebesa nebes",
+      "rationale": "שמי השמים — dvojina zavisnosti, superlativ, dobesedno 'nebesa nebes'."
+    }
+  ],
+  "translation": "Glej, Jahveju, tvojemu Elohimu ⟨pripadata⟩ nebesa in nebesa nebes, zemlja in vse, kar je na njej.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/10\/13-16.1792425803830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvojemu Elohimu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "in nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je na njej"
+    }
+  ],
+  "timestamp": "2026-10-19T16:03:23.830750468Z",
+  "model": "glm-5.3"
+}

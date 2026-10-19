@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר",
+      "rationale": "oziralni zaimek se nanaša na Jerušalajim (mesto) ali na hišo; 'o kateri' vs 'za katero'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden Jahvejav govor o svojem imenu v Jerušalajimu"
+    }
+  ],
+  "translation": "In zidal je žrtvenike v hiši Jahveja, o kateri je Jahve rekel: V Jerušalajimu bom postavil ⟨את⟩ svoje ime.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "82f8e157cec26c82461cc6eb3327af91726a2b5d7465903b05a1a25eb5fd2eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/21\/1-4.1792429799156.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "in zidal"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "žrtvenike"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o kateri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "bom postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoje ime"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "svoje ime"
+    }
+  ],
+  "timestamp": "2026-10-19T17:09:59.157986075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pripadajo \/ je",
+      "rationale": "hebrejščina brez glagola — nedoločena navezava, dodan glagol v oklepajih"
+    },
+    {
+      "kind": "crux",
+      "subject": "ma'arekhei lev",
+      "rationale": "'priprave\/misli srca' — različice: priprave (KJV\/JPS) proti 'načrti' (ASV\/BSB)"
+    }
+  ],
+  "translation": "Človeku ⟨pripadajo⟩ priprave srca, od Jahveja pa ⟨je⟩ odgovor jezika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/16\/1-4.1792436001801.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "človeku"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "priprave"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "in od Jahveja"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "odgovor"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jezika"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:21.803722379Z",
+  "model": "glm-5.3"
+}

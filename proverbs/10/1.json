@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje veznik, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "תוגת",
+      "rationale": "redka beseda: 'žalost\/tlak duha'; drugi berejo 'poraz'"
+    }
+  ],
+  "translation": "Pregovori Šeloma: modri sin razveseljuje očeta, toda sin norega je žalost svoje matere.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/10\/1-4.1792435888505.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Pregovori"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "modri"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "razveseljuje"
+    },
+    {
+      "surface": "אב",
+      "gloss": "očeta"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "toda sin"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "norega"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "žalost"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svoje matere"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:28.506259197Z",
+  "model": "glm-5.3"
+}

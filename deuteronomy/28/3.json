@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוך … וברוך",
+      "rationale": "Vrsta blagoslovov v 28,3–8 vsakokrat začne z ברוך — slovenščina ohranja anaforični ritem."
+    }
+  ],
+  "translation": "Blagoslovljen si v mestu in blagoslovljen si na polju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/28\/1-4.1792426251983.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "in blagoslovljen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polju"
+    }
+  ],
+  "timestamp": "2026-10-19T16:10:51.984287034Z",
+  "model": "glm-5.3"
+}

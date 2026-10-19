@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ti, Jahve, si moj zaklon",
+      "rationale": "Ali je 'ti si moj zaklon' (naslovnik govori o Jahveju, YLT\/ASV) ali 'naredil si Jahveja, moj zaklon, za svoje prebivališče' (KJV\/JPS) — hebrejščina dopušča obe."
+    },
+    {
+      "kind": "you",
+      "subject": "naslovnik psalma",
+      "rationale": "Drug persona neposredno govori o molilcu \/ k njemu."
+    }
+  ],
+  "translation": "Kajti ti, Jahve, si moj zaklon; ⟨El⟩ Elijon si postavil ⟨za⟩ svoje prebivališče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/91\/9-12.1792435307203.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "si moj zaklon"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "si postavil"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "svoje prebivališče"
+    }
+  ],
+  "timestamp": "2026-10-19T18:41:47.204689722Z",
+  "model": "glm-5.3"
+}

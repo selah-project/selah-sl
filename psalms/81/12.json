@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא אבה לי",
+      "rationale": "Dobesedno 'ni privolil meni' — slovenščina zahteva nedoločnik, 'would none of me' KJV."
+    }
+  ],
+  "translation": "A ljudstvo moje ni poslušalo mojega glasu, in Jisrael ni hotel ⟨mene⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/81\/9-12.1792435186395.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušalo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ljudstvo moje"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "mojega glasu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "in Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "hotel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mene⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:46.397387947Z",
+  "model": "glm-5.3"
+}

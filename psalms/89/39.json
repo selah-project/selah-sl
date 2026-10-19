@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התעברת",
+      "rationale": "hitpael עבר: 'razjariti se' (večina) ali dobesedno 'prekoračiti\/prestopiti zoper'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maziljenec",
+      "rationale": "משיח o kralju — 'maziljenec', ne 'Mašiah' kot osebno ime"
+    }
+  ],
+  "translation": "A ti si zavrnil in zaničeval, razjaril si se na svojega maziljenca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/37-40.1792435241052.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ti"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "si zavrnil"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "in zaničeval"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "razjaril si se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "svojega maziljenca"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:41.055349858Z",
+  "model": "glm-5.3"
+}

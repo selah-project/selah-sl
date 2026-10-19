@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Pomožnik za preterit, dodan v slovenščini."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Nadaljevanje rodoslovne verige do Davida."
+    }
+  ],
+  "translation": "In Nahšon je rodil ⟨את⟩ Salmo, in Salma je rodil ⟨את⟩ Boaza.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/2\/9-12.1792437996335.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "In Nahšon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmo"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmo"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "in Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaza"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaza"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:36.337341003Z",
+  "model": "glm-5.3"
+}

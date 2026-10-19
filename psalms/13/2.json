@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "skrivati את svoj obraz",
+      "rationale": "hebrejščina: skriti pánim, obraz — boomsko za umik naklonjenosti"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "neposreden nagovor Jahveja z vprašanjem 'doklej'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אנה",
+      "rationale": "refren 'doklej' se ponavlja štirikrat v psalmu; vprašanje-krik"
+    }
+  ],
+  "translation": "Doklej boš me pozabljal, Jahve, za vedno? Doklej boš skrival ⟨את⟩ svoj obraz pred menoj?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/13\/1-4.1792434556576.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "boš me pozabljal"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "boš skrival"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svoj obraz"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svoj obraz"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pred menoj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:16.578269818Z",
+  "model": "glm-5.3"
+}

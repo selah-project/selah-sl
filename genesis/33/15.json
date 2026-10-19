@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "to je predlog את 'pri, z' (H854), ne določni označevalec את (H853) — zato glosa ne nosi ⟨את⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "najti milost v očeh",
+      "rationale": "hebrejski idiom מצא חן בעיני — naklonjenost pri nekom; dobesedna slika 'v očeh' je ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "milost",
+      "rationale": "חן je 'naklonjenost, milostljivost', ne hesed (zaveza)."
+    }
+  ],
+  "translation": "In Esav je rekel: Postavil najároda, prosim, s teboj del ljudstva, ki je ⟨את⟩ pri menoj; in ⟨ta⟩ je rekel: Zakaj ⟨to⟩? Najdem milost v očeh svojega gospoda.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3a4fba03f067c5d6768d4fca5d5918a35f3a360e2747b7cd5b56a5bf6731d822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/33\/13-16.1792422582721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "Postavil naj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s teboj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "del"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki je"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pri menoj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Zakaj"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Najdem"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "svojega gospoda"
+    }
+  ],
+  "timestamp": "2026-10-19T15:09:42.722669094Z",
+  "model": "glm-5.3"
+}

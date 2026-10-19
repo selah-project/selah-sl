@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טובה … טובה",
+      "rationale": "trojnost besede 'dobro' (dobro dejanje, dobro pot, dobro povrnitev) povezuje stih"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהוה ישלמך",
+      "rationale": "nedovršni glagol: 'Jahve ti povrni' (želenje) ali 'Jahve ti bo povrnil' (obluba)"
+    }
+  ],
+  "translation": "In kajti: če človek najde ⟨את⟩ svojega sovražnika, ali ga pošlje po dobri poti naprej? Jahve naj ti povrni dobro za ta dan, kar si mi storil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/24\/17-20.1792427949813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "in kajti"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega sovražnika"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "svojega sovražnika"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ga pošlje naprej"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "po poti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobri"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "naj ti povrni"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ta dan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:39:09.815007440Z",
+  "model": "glm-5.3"
+}

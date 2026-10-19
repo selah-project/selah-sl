@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשימם",
+      "rationale": "'izreči krivega' (YL T\/ASV) proti 'uniči jih' (KJV\/Geneva)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממעצותיהם",
+      "rationale": "'po\/svojih načrtih' — KJV 'by their own counsels', alternativa 'naj padejo zaradi svojih načrtov'"
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "neposreden nagovor Boga s prošnjo za sodbo"
+    }
+  ],
+  "translation": "Izreki jih krive, Elohim; zaradi svojih načrtov naj padejo; zaradi množine svojih uporov jih odpodi, kajti uperli so se zoper tebe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/5\/9-12.1792434522495.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "izreki jih krive"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "naj padejo"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "zaradi svojih načrtov"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "zaradi množine"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "svojih uporov"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "jih odpodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "uperli so se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "zoper tebe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:42.496957185Z",
+  "model": "glm-5.3"
+}

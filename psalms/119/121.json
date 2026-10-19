@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בל",
+      "rationale": "בל je močan negativni prislov »ne, nikakor«; izgubi svojo težo v navadnem slovenskem »ne«."
+    },
+    {
+      "kind": "you",
+      "subject": "molivec do Jahveja",
+      "rationale": "verse je neposreden prošnji nagovorjen Bogu, čeprav Ime ni izrečeno."
+    }
+  ],
+  "translation": "Ravil sem sodbo in cedek; ne prepuščaj me svojim zatiralcem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/121-124.1792435540752.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ravil sem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "in cedek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "prepuščaj me"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "svojim zatiralcem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:40.752916400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina nima veznika; הוא je poudarno 'tako je'"
+    }
+  ],
+  "translation": "In rekel je: Tudi zdaj — kakor vaše besede, tako ⟨je⟩: pri komer se ⟨את⟩ najde, ta naj bo moj suženj, vi pa bodite nekrivi.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/44\/9-12.1792422842955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "kakor vaše besede"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pri komer"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "se najde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pri komer se najde"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moj"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "suženj"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vi pa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bodite"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nekrivi"
+    }
+  ],
+  "timestamp": "2026-10-19T15:14:02.956411960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne 'duša' v grškem pomenu — zato pustimo zvok besede."
+    },
+    {
+      "kind": "idiom",
+      "subject": "v očeh",
+      "rationale": "בעיני 'v očeh' = 'v njegovem vrednotenju'; dobesedna slika je v slovenščini razumljiva, zato ostaja."
+    }
+  ],
+  "translation": "Nefeš krivičnega hrepeni po zlu; njegovemu bližnjemu ni naklonjenosti v njegovih očeh.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/9-12.1792436056665.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "hrepeni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "po zlu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "naklonjenosti"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v njegovih očeh"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "njegovemu bližnjemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:16.666234130Z",
+  "model": "glm-5.3"
+}

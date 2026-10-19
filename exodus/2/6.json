@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina zahteva predmet pri 'odprla'; hebrejščina predmeta ne imenuje"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נער בכה",
+      "rationale": "lahko tudi 'glej, otrok joka' — נער poudari dečka v njegovi mladosti"
+    }
+  ],
+  "translation": "In odprla ga je in ugledala ⟨את⟩ dete — in glej, deček joka! In usmilila se ga je in rekla: Iz otrok Hebrcov je ⟨ta⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/2\/5-8.1792423051181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "in odprla ga je"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "in ugledala ga je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dete"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dete"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "נער",
+      "gloss": "deček"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "in usmilila se je"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekla je"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "iz otrok"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrcov"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T15:17:31.181903872Z",
+  "model": "glm-5.3"
+}

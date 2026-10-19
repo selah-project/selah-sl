@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני המים",
+      "rationale": "dobesedno 'na obličje voda'; ustaljena podoba radodarnosti, ne dobesedno metanje kruha"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "slovenščina potrebuje predmetni prislov pri 'našel'"
+    }
+  ],
+  "translation": "Pošlji svoj kruh na obličje voda, kajti po mnogih dneh ga boš našel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/11\/1-4.1792437145984.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Pošlji"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svoj kruh"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obličje"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vod-a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "po mnogih"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dneh"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ga boš našel"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:25.984743258Z",
+  "model": "glm-5.3"
+}

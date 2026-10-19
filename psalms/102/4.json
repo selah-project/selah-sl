@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina brez pomožnika, slovenščina ga zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "קד",
+      "rationale": " מוֹקֵד ogenj\/kurjava: 'ognjišče' (KJV\/jps) vs. 'žareč polen' (ylt 'firebrand')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחרו",
+      "rationale": "koren חרר pomeni žaret\/izsušiti; 'zgorele' izgubi suhost, ki se vrne v v. 5 (kosti se pripijejo k koži)"
+    }
+  ],
+  "translation": "Kajti moji dnevi ⟨so⟩ se izčrpali kakor dim in moje kosti ⟨so⟩ zgorele kakor ognjišče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/1-4.1792435356214.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "so se izčrpali"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "kakor dim"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "moji dnevi"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "in moje kosti"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "קד",
+      "gloss": "ognjišče"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "so zgorele"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:36.216284775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גרים",
+      "rationale": "'gri' — tujci\/bivalci brez državljanstva; 'popotniki' le približno zajame stanje tujca v deželi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מתי מספר",
+      "rationale": "štetje ljudstva: možje v številu, komaj kakšen"
+    }
+  ],
+  "translation": "Ko so bili možje ⟨v⟩ številu komaj štejni, peščica, in popotniki v njej,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/9-12.1792435323976.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "ko so bili"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "može"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "v številu"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "komaj štejni"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "in popotniki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:03.978434635Z",
+  "model": "glm-5.3"
+}

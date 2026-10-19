@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mučna",
+      "rationale": "רע je dobesedno 'huje\/huda'; 'mučna' prenaša čut, ne barvo besede"
+    },
+    {
+      "kind": "alternative",
+      "subject": "spodbuda",
+      "rationale": "מוסר lahko tudi 'vzgoja' ali 'ukor'; izbrano 'spodbuda' kot najširši naziv"
+    }
+  ],
+  "translation": "Mučna je spodbuda tistemu, ki zapušča pot; kdor sovraží opomin, bo umrl.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f5051a37433e98e9b66f6186fa875c0ead1cbfc9d374f75b244fe89eb02f48e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/10-11.1792439068975.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "spodbuda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mučna"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ki zapušča"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pot"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kdor sovraží"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "opomin"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bo umrl"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:28.976363963Z",
+  "model": "glm-5.3"
+}

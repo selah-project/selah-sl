@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עליו",
+      "rationale": "ויקמו עליו je vzeti sem: vstali so nad\/zoper njim — 'and went to him' (KJV) mehča predlog."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברא",
+      "rationale": "ברא (H1262, hifil: hraniti\/priskrbeti jed) tu pomeni jesti; ne mešati z ברא 'ustvariti'."
+    }
+  ],
+  "translation": "In starešine njegovega doma so vstali ⟨nad⟩ njim, da bi ga dvignili s tal, a ni hotel in ni jedel ⟨z⟩ njimi kruha.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/12\/17-20.1792428350057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "so vstali"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starešine"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njegovega doma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad njim"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "da bi ga dvignili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "hotel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "jedel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "z njimi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-19T16:45:50.058144782Z",
+  "model": "glm-5.3"
+}

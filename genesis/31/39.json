@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 31:39",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nosil ⟨škodo⟩",
+      "rationale": "אחטנה dobesedno 'zagrešil sem jo' (koren חטא); KJV 'I bare the loss'"
+    },
+    {
+      "kind": "crux",
+      "subject": "גנבתי",
+      "rationale": "'ukradena (mi je bila)' vs YLT 'bil sem ogoljufan' — glagol lahko pomeni oboje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנבתי … וגנבתי",
+      "rationale": "ponovitev 'ukradena podnevi in ukradena ponoči' — vzporedje dan\/noč"
+    }
+  ],
+  "translation": "Raztrgane živali ti nisem prinesel; jaz, jaz sem nosil ⟨škodo⟩; iz svoje roke si jo terjal; ukradena podnevi in ukradena ponoči.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "89cbf779b6fa314303680a5dcbcc667100bd052c7cb490bf29eb43c456eea18f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/31\/37-40.1792422602120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרפה",
+      "gloss": "raztrgane živali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "prinesel"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz, jaz"
+    },
+    {
+      "surface": "אחטנה",
+      "gloss": "sem nosil ⟨škodo⟩"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz svoje roke"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "si jo terjal"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ukradena"
+    },
+    {
+      "surface": "יום",
+      "gloss": "podnevi"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "in ukradena"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ponoči"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:02.121451352Z",
+  "model": "glm-5.3"
+}

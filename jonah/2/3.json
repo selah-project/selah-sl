@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול pomeni svet mrtvih, ne pekla kot kazen"
+    },
+    {
+      "kind": "idiom",
+      "subject": "iz trebuha šeola",
+      "rationale": "Jonova molitev uporablja sliko smrti za položaj v ribi"
+    }
+  ],
+  "translation": "In rekel je: Zaklicala sem iz svoje stiske k Jahveju, in on mi je odgovoril; iz trebuha šeola sem vzdihnila, ti si slišal moj glas.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/2\/1-4.1792434064276.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zaklicala sem"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "iz stiske"
+    },
+    {
+      "surface": "לי",
+      "gloss": "svoje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "in mi je odgovoril"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "iz trebuha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "sem vzdihnila"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "si slišal"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "moj glas"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:04.278493036Z",
+  "model": "glm-5.3"
+}

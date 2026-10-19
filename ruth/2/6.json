@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 2:6",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "Slovenski odvisnik potrebuje veznik 'ki', ki ga hebrejščina izraža s construct-obliko."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נערה ... מואביה היא",
+      "rationale": "Samostalnik brez člena v predikatni legi — 'dekle, Moabka je' — poudarjen, vzporeden z vprašanjem iz v. 5."
+    }
+  ],
+  "translation": "In mladenič, postavljen nad žetelci, je odgovoril in rekel: Dekle — Moabka ⟨je⟩, ki se je vrnila z Naomi s polja Moaba.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5eb591d7658729eed0e777274056bd6a9136806cd54dcf38ee422c23b5b7707b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/2\/5-8.1792436949167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in odgovoril"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladenič"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "postavljen"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "žetelci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "dekle"
+    },
+    {
+      "surface": "מואביה",
+      "gloss": "Moabka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "se je vrnila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "z"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "s polja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:09.168117007Z",
+  "model": "glm-5.3"
+}

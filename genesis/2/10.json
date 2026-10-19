@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "glavne reke",
+      "rationale": "ראשים je dobesedno 'glave' — pretok 'izviri\/glavne reke'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenski glagolski pomožnik"
+    }
+  ],
+  "translation": "In reka je izhajala iz Edena, da bi napajala ⟨את⟩ vrt, in od tam se je ločila in postala štiri glavne reke.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/2\/9-12.1792421976642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "in reka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "je izhajala"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "iz Edena"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "da bi napajala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vrt"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "vrt"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "in od tam"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "se je ločila"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "in postala"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "štiri"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "glavne reke"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:36.642965394Z",
+  "model": "glm-5.3"
+}

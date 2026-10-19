@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hod · hadar",
+      "rationale": "הוד in הדר sta 'veličastje in sijaj'; puščeni po zvoku zaradi dvojice, ki jo prevod z dvema besedama izniči."
+    },
+    {
+      "kind": "crux",
+      "subject": "הודך והדרך",
+      "rationale": "Vokativ ('o svojem veličastju in sijaju') ali orodil ('s svojim veličastjem in sijajem') — tradicionalne različice se delijo."
+    },
+    {
+      "kind": "you",
+      "subject": "kralju-junaku",
+      "rationale": "Velelni nagovor junaka, nadaljevanje kraljevega obračanja."
+    }
+  ],
+  "translation": "Opaši svoj meč na stegno, junak; svoj hod in svoj hadar!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/1-4.1792434833167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "opaši"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "svoj meč"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "stegno"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "junak"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "svoj hod"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "in svoj hadar"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:53.169650956Z",
+  "model": "glm-5.3"
+}

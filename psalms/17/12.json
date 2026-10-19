@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דִּמְיֹנוֹ",
+      "rationale": "'Njegova podoba' — kdo je 'on': glavni sovražnik iz v. 9 ali sovražniki kolektivno; delci dobesedno 'kot podoba njegova (je) kakor lev'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hrepeni",
+      "rationale": "יכסוף dobesedno 'postaja bled' — od tu 'plotiti hrepeneti'; metafora bledljenja se v slovenščini izgubi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דִּמְיוֹן",
+      "rationale": "Samostalnik 'podoba\/primerjava' je v Tanahu izjemno redek, tu v pesniški sliki plenilca."
+    }
+  ],
+  "translation": "Podoba ⟨njegova⟩ je kakor lev, ki hrepeni raztrgati, in kakor mladi lev, ki prebiva v skrivališčih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/17\/9-12.1792434600644.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "podoba njegova"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kakor lev"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "hrepeni"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "raztrgati"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "in kakor mladi lev"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ki prebiva"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "v skrivališčih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:00.646178040Z",
+  "model": "glm-5.3"
+}

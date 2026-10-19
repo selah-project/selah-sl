@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vanj",
+      "rationale": "slovenščina potrebuje poudarek cilja zaupalnega glagola; הב preglasi v ⟨vanj⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחנן \/ חן",
+      "rationale": "koren חנן — 'narediti mil (gracen) glas' stoji nasproti gnusobi v srcu"
+    },
+    {
+      "kind": "you",
+      "subject": "bralcu",
+      "rationale": "zapor 'ne zaupaj' je neposreden nasvet bralcu"
+    }
+  ],
+  "translation": "Ko pomilosti svoj glas, ne zaupaj ⟨vanj⟩, kajti sedem gnusob je v njegovem srcu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f40558369f50c57f53234ce268b1a035fa5ddefc48d14095366df8e43ed5d923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/25-28.1792436109964.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "pomilosti"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svoj glas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "zaupaj"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vanj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "gnusob"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "v njegovem srcu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:09.964923467Z",
+  "model": "glm-5.3"
+}

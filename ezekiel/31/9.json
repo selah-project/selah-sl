@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 31:9",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veje",
+      "rationale": "דליות je dobesedno 'vešajoče se veje', drobné povešane vejice"
+    },
+    {
+      "kind": "elision",
+      "subject": "so ⟨v⟩",
+      "rationale": "hebrejščina brez glagola 'biti' v tem odseku"
+    }
+  ],
+  "translation": "Lepo sem ga naredil v množici njegovih veji, in zavidali so ga vsa drevesa Edena, ki so ⟨v⟩ vrtu Elohim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4b565a9ac3f61e4c1b55a412452169718165a59770a07640a1dd14b3b315cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/31\/9-12.1792432586355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "lepo"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "sem ga naredil"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v množici"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "njegovih veji"
+    },
+    {
+      "surface": "ויקנאהו",
+      "gloss": "in zavidali so ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "drevesa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "v vrtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-19T17:56:26.356594519Z",
+  "model": "glm-5.3"
+}

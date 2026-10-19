@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je grlo\/dih\/življenjska sila, ne nesmrtna duša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרה",
+      "gloss": "'stiska' dobesedno 'otesnjenost' — ista beseda kot Micrajim\/Egipt (kraj stiske)."
+    }
+  ],
+  "translation": "Zaradi svojega imena, Jahve, me oživi; v svojem cedeku izpelji iz stiske mojo dušo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/9-12.1792435715445.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Zaradi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "svojega imena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "me oživi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "v svojem cedeku"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "izpelji"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "iz stiske"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:35.447355471Z",
+  "model": "glm-5.3"
+}

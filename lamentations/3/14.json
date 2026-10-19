@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "Slovenščina potrebuje predlog za imenski predikat; hebrejščina ga nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesem",
+      "rationale": "נגינתם je dobesedno 'njihova godba\/igranje na strune', razširjeno 'posmehljiva pesem'."
+    }
+  ],
+  "translation": "Postal sem ⟨se⟩ za posmeh vsemu svojemu ljudstvu, njihova pesem ⟨sem⟩ ves dan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/13-16.1792436992038.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Postal sem"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "za posmeh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vsemu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svojemu ljudstvu"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "njihova pesem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ves"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:52.039352573Z",
+  "model": "glm-5.3"
+}

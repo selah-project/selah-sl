@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבוק תבוק \/ הבוז תבוז",
+      "rationale": "infinitiv absolut pred glagolom — dvojna ponovitev istega korena, poudarek popolnosti"
+    },
+    {
+      "kind": "elision",
+      "subject": "dvojna glagolska oblika",
+      "rationale": "hebrejski infinitiv absolut se v slovenščini z dvojno ponovitvijo izraža le okvirno"
+    }
+  ],
+  "translation": "Povsem izpraznjena bo izpraznjena dežela in povsem izropana bo izropana, kajti Jahve je izrekel ⟨את⟩ to besedo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0eefc8af49c179054712df3c85ce8d98161160f1c6551019c7820f00d6724d45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/24\/1-4.1792430332716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Povsem izpraznjena"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "bo izpraznjena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežela"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "in povsem izropana"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "bo izropana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je izrekel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to besedo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "to besedo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-19T17:18:52.717549506Z",
+  "model": "glm-5.3"
+}

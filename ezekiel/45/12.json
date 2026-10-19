@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šekel, ger, mana",
+      "rationale": "Utežni sistem: šekel = 20 ger; mana = 20 + 25 + 15 = 60 šeklov."
+    },
+    {
+      "kind": "crux",
+      "subject": "mana",
+      "rationale": "Hebrejsko 60 šeklov na mano — razlika proti mezopotamski 50; JPS 'deset in pet' proti KJV 'petnajst' ista vsota."
+    }
+  ],
+  "translation": "In šekel dvajset ger; dvajset šeklov, pet in dvajset šeklov, deset in pet šeklov — mana naj bo vam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/45\/9-12.1792433708239.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "In šekel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ger"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "šeklov"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pet"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "in dvajset"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "šeklov"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "in pet"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šeklov"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    }
+  ],
+  "timestamp": "2026-10-19T18:15:08.243303520Z",
+  "model": "glm-5.3"
+}

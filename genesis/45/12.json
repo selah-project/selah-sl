@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩ · ⟨tisti, ki⟩",
+      "rationale": "slovenščina potrebuje veznik in oziralnik pri 'moja usta, ki govori'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פי המדבר",
+      "rationale": "dobesedno 'usta ta, ki govori' — to je res on, ne tolmač"
+    }
+  ],
+  "translation": "In glej, vaše oči vidijo in oči mojega brata Binjamina, da ⟨je⟩ moja usta ⟨tisti, ki⟩ govori k vam.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "028dcf901f69438db7c0210bb501dbc3b0afc8ce3f1e5aad172152d51c5041a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/45\/9-12.1792422929048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vaše oči"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "vidijo"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "in oči"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mojega brata"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moja usta"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨tisti, ki⟩ govori"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vam"
+    }
+  ],
+  "timestamp": "2026-10-19T15:15:29.049927259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהלאה",
+      "rationale": "hapax: 'daleč stran' ali 'onkraj' — Asof razume 'onkraj Damaska', dobesedno 'v oddaljenost'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מהלאה",
+      "rationale": "beseda se v Tanahu pojavi samo tukaj"
+    }
+  ],
+  "translation": "In preselil vas bom v izgnanstvo, onkraj Damaska, govori Jahve, Elohim Cebaot ⟨je⟩ njegovo ime.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80765900cef86684184293dc5d869ee210d25d298d16f6578e69cf326bf1ed27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/27-27.1792438975874.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "in preselil vas bom v izgnanstvo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "onkraj"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damaska"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    }
+  ],
+  "timestamp": "2026-10-19T19:42:55.876334015Z",
+  "model": "glm-5.3"
+}

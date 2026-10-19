@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kupit žito",
+      "rationale": "לשבר pomeni ' trgovati z žitom'; slovenščina potrebuje dve besedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bil⟩",
+      "rationale": "Slovenščina zahteva predalo glagol biti v odvisnem stavku."
+    }
+  ],
+  "translation": "In prišli so sinovi Jisraela kupit žito sredi prihajajočih, kajti ⟨bil⟩ je lakota v deželi Kenaan.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/42\/5-8.1792422873212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "in prišli so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kupit žito"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "prihajajočih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bil"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "lakota"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-19T15:14:33.212844948Z",
+  "model": "glm-5.3"
+}

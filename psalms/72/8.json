@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירד",
+      "rationale": "rabinska črka bere יֵרְדְּ iz רדה (gospodovati); črke same dovoljujejo tudi יָרַד (stopiti dol), povezano z dežjem v v. 6"
+    },
+    {
+      "kind": "measurement",
+      "subject": "od morja do morja",
+      "rationale": "prostorsko merjenje kraljestva — od-me-ja do-me-je"
+    }
+  ],
+  "translation": "In gospodoval bo od morja do morja in od reke do koncev zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/72\/5-8.1792435093135.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "in gospodoval bo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od morja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "in od reke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "koncev"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:13.138524900Z",
+  "model": "glm-5.3"
+}

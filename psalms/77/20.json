@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bile",
+      "rationale": "slovenščina zahteva pomožni glagol pri nimajočem se hebrejskem deležniku"
+    },
+    {
+      "kind": "mystery",
+      "subject": "tvoje sledi niso spoznane",
+      "rationale": "pot je v morju, sledi so nevidne — skrito, nerazodeto"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך\/שביל\/עקבות",
+      "rationale": "trojna ponovitev pot–steza–sled, stopnjevanje v hebrejščini"
+    }
+  ],
+  "translation": "V morju je tvoja pot, in tvoje steze v velikih vodah, in tvoje sledi niso ⟨bile⟩ spoznane.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3c0ee6295a73d124d2bc120e4f23bd2d106235154b1fff57798bb7f79ccdab4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/20-20.1792439028329.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "v morju"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvoja pot"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "in tvoje steze"
+    },
+    {
+      "surface": "במים",
+      "gloss": "v vodah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "velikih"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "in tvoje sledi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "spoznane"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:48.330750641Z",
+  "model": "glm-5.3"
+}

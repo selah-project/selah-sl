@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 33:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jobu",
+      "rationale": "Elihu turns from quoting Job to direct address: 'odgovoril ti bom'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירבה",
+      "rationale": "'God is greater than man' vs 'God is too exalted to give account' (cf. v. 13) — JPS reads 'too great for man'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "človek",
+      "rationale": "אנוש is 'mortal man' (frail humanity), not generic 'človek'; the frailty nuance is dimmed"
+    }
+  ],
+  "translation": "Glej, v tem nisi pravičen; odgovoril ti bom, kajti večji je Eloah od človeka.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2211b2a83d2a217f33fe1d8fb4d01abe77114d507c1da2426f0f2ccdb04d9fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/9-12.1792436641246.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "glej"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "v tem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "si pravičen"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "odgovoril ti bom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "je večji"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "od človeka"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:01.248190191Z",
+  "model": "glm-5.3"
+}

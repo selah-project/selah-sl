@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tako⟩",
+      "rationale": "Hebrejščina pravi samo »če ni«; slovenščina potrebuje dopolnilo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "utihni",
+      "rationale": "החרש dobesedno »utišaj se \/ bodi gluh«; izraz za molčanje"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Elihu Jobu",
+      "rationale": "Neposreden poziv naslovniku, naj posluša in utihne"
+    }
+  ],
+  "translation": "Če ni ⟨tako⟩, ti pa poslušaj mene, utihni, in jaz te bom naučil modrosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5cb0f385259efae9c7c38bbd5b576aa7c9a7e3358267ed01387fdf71bf5abaf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/33\/33-33.1792436625798.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslušaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "utihni"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "in jaz te bom naučil"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "modrosti"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:45.799686276Z",
+  "model": "glm-5.3"
+}

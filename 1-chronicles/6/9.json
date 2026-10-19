@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Verz je seznam imen — merjenje časa po rodovih."
+    },
+    {
+      "kind": "crux",
+      "subject": "v:9",
+      "rationale": "V hebrejskem besedilu te vrstice manjkajo verzi, ki jih imajo KJV\/ASV (Ahimaaz–Azariah–Johanan); MT gre naravnost od Tahata dalje."
+    }
+  ],
+  "translation": "Tahat, njegov sin; Uriel, njegov sin; Uzijah, njegov sin; in Šaul, njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f857a6883d73cad087869c45f76f3beb67d216d421ee5a5a3f086eae5bc28022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/6\/9-12.1792438057050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Tahat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Uriel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uzijah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "in Šaul"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:37.051342157Z",
+  "model": "glm-5.3"
+}

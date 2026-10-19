@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 20:23",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "El",
+      "rationale": "Hebrejščina ne imenuje subjekta; prevodi dodajajo Boga, dodan je ⟨El⟩ kot oklepajni subjekt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרון אפו",
+      "rationale": "Dobesedno 'gorečnost njegovega nosu' — idiom za plamen jeze."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלחומו",
+      "rationale": "'v njegovo meso' (JPS) nasproti 'med njegovim jedenjem' (KJV) — בלחומו od לחם, 'njegova hrana'."
+    }
+  ],
+  "translation": "Dogodilo se ⟨bo⟩, ko bo polnil svoj trebuh, ⟨bo⟩ poslal ⟨El⟩ nanj gorečnost svoje jeze in deževal nanj ⟨v⟩ njegovo meso.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3714a0e51d74a7b38e8f0d9b31c34c02b4d63855425ba10ac6919cf1e2ad1a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/21-24.1792436549002.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Dogodilo se"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "ko bo polnil"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "svoj trebuh"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "gorčnost"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "svoje jeze"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "in deževal"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "בלחומו",
+      "gloss": "⟨v⟩ njegovo meso"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:29.005448713Z",
+  "model": "glm-5.3"
+}

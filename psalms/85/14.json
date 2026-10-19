@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק po D2 ostane cedek, ne »pravičnost«"
+    },
+    {
+      "kind": "crux",
+      "subject": "פעמיו לדרך",
+      "rationale": "KJV bere »postavi nas na pot njegovih stopinj«; dobesedno: stopinje postavljene za pot"
+    },
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "prihodnjiški pomožnik dodan v slovenščini"
+    }
+  ],
+  "translation": "Cedek bo hodil pred njim in bo postavil svoje stopinje za pot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/13-14.1792435153942.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pred njim"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "bo hodil"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "in bo postavil"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "za pot"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "svoje stopinje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:13.943367353Z",
+  "model": "glm-5.3"
+}

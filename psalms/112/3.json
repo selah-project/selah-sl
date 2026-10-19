@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Hebrejščina brez glagola 'biti' — slovenščina ga zahteva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה je pravičnost\/pravično dejanje; obdržan hebrejski zvok po D2"
+    }
+  ],
+  "translation": "Bogatstvo in blago ⟨je⟩ v njegovi hiši, in njegov cedek stoji za vekomaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/1-4.1792435471582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Bogatstvo"
+    },
+    {
+      "surface": "ו עשר",
+      "gloss": "in blago"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v njegovi hiši"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "in njegov cedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stoji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "za vekomaj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:31.584058251Z",
+  "model": "glm-5.3"
+}

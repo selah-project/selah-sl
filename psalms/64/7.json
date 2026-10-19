@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחפשו \/ חפש \/ מחפש",
+      "rationale": "Trije izpeljanki korena חפש v enem verzu — 'preiskujejo ... iskanje, preiskano preiskano'; slovenščina posnema z ponovitvijo 'preisk-'."
+    },
+    {
+      "kind": "crux",
+      "subject": "וקרב איש ולב עמק",
+      "rationale": "Dvoumno: 'notranjost in srce človeka je globoko' — gre za globino načrtovalcev ali splošno izrečeno modroslovje?"
+    }
+  ],
+  "translation": "Preiskujejo krivice, do konca spravljeno iskanje — preiskano dobro preiskano — in notranjost človeka in srce je globoko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/64\/5-8.1792435018192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "preiskujejo"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "krivice"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "so dopolnili"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "iskanje"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "preiskano"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "in notranjost"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "in srce"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "globoko"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:58.194536083Z",
+  "model": "glm-5.3"
+}

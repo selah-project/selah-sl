@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "gloss": "",
+      "rationale": "תורה ostaja Tora, ne 'postava'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על",
+      "rationale": "על v odgovorni formulaciji pomeni 'zaradi (dejanja)'; dobesedno 'nad'."
+    }
+  ],
+  "translation": "In Jahve je rekel: Ker so zapustili ⟨את⟩ mojo Toro, ki sem jo postavil prednje, in niso poslušali mojega glasu in niso hodili po njej.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "701b3678bb719311701aff54e5be955aa73e98dd77c779cc44587485922f1345",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/9\/9-12.1792431208677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In Jahve je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "Ker"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "so zapustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo Toro"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mojo Toro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sem postavil"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "prednje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mojega glasu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hodili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po njej"
+    }
+  ],
+  "timestamp": "2026-10-19T17:33:28.678935360Z",
+  "model": "glm-5.3"
+}

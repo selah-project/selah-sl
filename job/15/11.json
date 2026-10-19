@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ki govori⟩",
+      "rationale": "לאט je prislov 'blago\/mehko', slovenščini je treba dodati glagol"
+    },
+    {
+      "kind": "crux",
+      "subject": "tolažbe Ela",
+      "rationale": "KJV bere 'secret thing with thee' iz לאט; večina prevodov bere tolažbe, ki so zate premajhne"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jobu",
+      "rationale": "Elifazovo retorično vprašanje neposredno nagovarja Joba"
+    }
+  ],
+  "translation": "Ali so tolažbe Ela premajhne zate, in beseda, ⟨ki govori⟩ blago s teboj?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/9-12.1792436387889.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "premajhne"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "zate"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "tolažbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "in beseda"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "blago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:47.890745476Z",
+  "model": "glm-5.3"
+}

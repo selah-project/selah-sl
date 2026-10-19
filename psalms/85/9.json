@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesedom",
+      "rationale": "חסיד je tisti, ki ima hesed; 'njegovim zvestim' bi izgubilo povezavo s korenom hesed"
+    },
+    {
+      "kind": "crux",
+      "subject": "ne naj se ne vrnejo",
+      "rationale": "ve-AJIN jášuvú je lahko zaželja ('naj se ne vrnejo') ali obljuna ('ne bodo se vrnili')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "jedbár … jedbár",
+      "rationale": "ponovitev 'govoril … govoril' poudarja gotovost govora"
+    }
+  ],
+  "translation": "Poslušal bom, kaj bo govoril El Jahve, kajti mir bo govoril ⟨k⟩ svojemu ljudstvu in svojim hesedom, ⟨da⟩ ne bi ⟨se⟩ obrnili k neumnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/9-12.1792435179760.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "poslušal bom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bo govoril"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bo govoril"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svojemu ljudstvu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in svojim"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hesedom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "da se ne obrnejo"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "k neumnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:39.761275299Z",
+  "model": "glm-5.3"
+}

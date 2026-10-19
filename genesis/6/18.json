@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skrinja",
+      "rationale": "תבה je 'skrinja, zaboj' — ne 'ladja'; Noeova barka ni plovilo z ladjevim imenom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את … אתך",
+      "rationale": "dva različna את: označevalnik predmeta in predlog 's'; v slovenščini enak izgled, druga beseda."
+    },
+    {
+      "kind": "you",
+      "subject": "Noetu",
+      "rationale": "neposreden nagovor Noetu z obljubo zaveze."
+    }
+  ],
+  "translation": "In vzpostavil bom ⟨את⟩ svojo zavezo ⟨את⟩ s tabo; in vstopil boš v skrinjo, ti in tvoji sinovi in tvoja žena in žene tvojih sinov ⟨את⟩ s tabo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3e4f4c6099f9308f44020e264da326772f39283a572f0d4b8a1b4c0b70cb4a0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/6\/17-20.1792422100652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "in vzpostavil bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo zavezo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svojo zavezo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tabo"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "in vstopil boš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "in tvoji sinovi"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "in tvoja žena"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "in žene"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvojih sinov"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tabo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:01:40.653633061Z",
+  "model": "glm-5.3"
+}

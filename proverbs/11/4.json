@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה se po pravilih ohranja kot cedek, ne 'pravičnost'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bes",
+      "rationale": "עברה je izbruh jeze, pojavnost besa — tu Jahvejev bes v dnevu sodbe"
+    }
+  ],
+  "translation": "Ne koristi bogastvo v dan besa, in cedek rešuje iz smrti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/11\/1-4.1792435878034.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "koristi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bogastvo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "besa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "in cedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "rešuje"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "iz smrti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:18.036425834Z",
+  "model": "glm-5.3"
+}

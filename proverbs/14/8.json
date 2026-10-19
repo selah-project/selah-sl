@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je, da",
+      "rationale": "slovenščina potrebuje veznik; hebrejščina postavlja nedoločnik הבין neposredno za samostalnik"
+    },
+    {
+      "kind": "crux",
+      "subject": "prebrani",
+      "rationale": "ערום pomeni »prebrani\/spletčar«; v Pregovorih je vedno pozitivno (1,4; 12,16.23), drugod v Tanahu lahko negativno"
+    }
+  ],
+  "translation": "Modrost prebranega je, da razume svojo pot, in neumnost neumnih je prevara.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/14\/5-8.1792435954655.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "modrost"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "prebranega"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "razume"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "svojo pot"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "in neumnost"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "neumnih"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevara"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:34.657639973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש je 'grlo, dih, življenjska moč', ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אוחיל",
+      "rationale": "Isti glagol יחל 'upati\/čakati' kot v v. 21 — okvir upanja okoli sredine poglavja."
+    }
+  ],
+  "translation": "Moj delež je Jahve, govori moja nefes, zato nanj upam.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/21-24.1792436981250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Moj delež"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "govori"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "על",
+      "gloss": "zato-čez"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "upam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nanj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:41.251444147Z",
+  "model": "glm-5.3"
+}

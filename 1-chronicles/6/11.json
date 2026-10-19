@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "Seznam imen, merjenje po rodovih."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלקנה בנו אלקנה",
+      "rationale": "Dvojni Elkana: prvi je zaključek prejšnje vrstice (»Elkana, njegov sin«), drugi uvaja nov seznam sinov; JPS prav tako ločuje."
+    }
+  ],
+  "translation": "Elkana, njegov sin; sinovi Elkane: Cofaj, njegov sin, in Nahat, njegov sin.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f857a6883d73cad087869c45f76f3beb67d216d421ee5a5a3f086eae5bc28022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/6\/9-12.1792438057050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Cofaj"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "in Nahat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "njegov sin"
+    }
+  ],
+  "timestamp": "2026-10-19T19:27:37.052273147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 47:14",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "saj",
+      "rationale": "slovenščina potrebuje veznik vzroka; אשר je tu splošen relativ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dvignil sem svojo roko",
+      "rationale": "נשאתי את ידי = prisega (dvignjena roka kot prisega), dobesedno 'dvignil sem roko'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "rationale": "'vsakomur' za איש ('mož') v distributivni rabi"
+    }
+  ],
+  "translation": "In podedovali boste ⟨את⟩ njo, vsakomur kakor njegovemu bratu, ⟨saj⟩ dvignil sem ⟨את⟩ svojo roko, da bi jo dal vašim očetom; in padla bo ta dežela vam v dediščino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "48439d84446e1c13881ce01df2068fd4c7f2fc3d6191dab9016553683ff626ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/47\/13-16.1792433734036.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחלתם",
+      "gloss": "in podedovali boste"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ njo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsakomur"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "kakor njegovemu bratu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨saj⟩"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "dvignil sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo roko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svojo roko"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "da bi jo dal"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "vašim očetom"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "in padla bo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ta dežela"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "v dediščino"
+    }
+  ],
+  "timestamp": "2026-10-19T18:15:34.037620468Z",
+  "model": "glm-5.3"
+}

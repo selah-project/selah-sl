@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dneva",
+      "rationale": "Hebrejščina pravi samo 'devetega v mesecu'; beseda 'dneva' je dodana."
+    },
+    {
+      "kind": "crux",
+      "subject": "'četrtega meseca'",
+      "rationale": "KJV\/ASV dodajo 'četrti mesec' po Jer 39,2 in 52,6; hebrejsko besedilo 2 Kr 25,3 ga nima — tu ni dodan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ljudstvo dežele",
+      "rationale": "עם הארץ je tehnični izraz za prebivalstvo dežele, ne splošno 'ljudstvo'."
+    }
+  ],
+  "translation": "Devetega ⟨dneva⟩ v mesecu je lakota obhudovala v mestu, in ni bilo kruha za ljudstvo dežele.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/25\/1-4.1792429954923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Devetega ⟨dneva⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "je obhudovala"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "lakota"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v mestu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za ljudstvo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    }
+  ],
+  "timestamp": "2026-10-19T17:12:34.923974263Z",
+  "model": "glm-5.3"
+}

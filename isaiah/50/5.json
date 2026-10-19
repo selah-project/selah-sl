@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bil",
+      "rationale": "slovenščina potrebuje pomožnik glagola, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריתי",
+      "rationale": "koren מרה (biti grenak → upirati se) — slika grenkosti je v slovenščini izgubljena"
+    }
+  ],
+  "translation": "Adonaj Jahve mi je odprl uho, in jaz nisem bil uporen, nazaj se nisem umaknil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dff9c400a81395bdfcc8f441a8bd90c315af5b27d9b90942648b13aecd7d3f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/50\/5-8.1792430819029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "je odprl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "uho"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "bil uporen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nazaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nisem"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "se umaknil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:59.029904106Z",
+  "model": "glm-5.3"
+}

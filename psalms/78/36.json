@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "laskali",
+      "rationale": "patah — 'laskali, ugačali' (KJV, ASV) proti 'zavajali, prevarili' (YLT, BSB)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "usth\/jezik",
+      "rationale": "dvojni paralelizem usta–jezik; v slovenščini ohranjen."
+    }
+  ],
+  "translation": "In laskali so ga s svojimi usti in z jezikom so mu lagali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/33-36.1792435122145.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "in laskali so ga"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "s svojimi usti"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "in z jezikom"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "so lagali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:42.147182779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seme",
+      "rationale": "זרע je dobesedno 'seme' — rod, potomstvo; ne 'potomci'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "predlog pred 'svoje grehe' v slovenščini ni potreben"
+    }
+  ],
+  "translation": "In ločilo se je seme Jisraela od vseh sinov tujcev, in stali so in izpovedovali svoje grehe in krivice svojih očetov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7df96e07a80ec1d0bd97725d0c7d5b960c9ebe58508f312f625a658ce3cb3f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/9\/1-4.1792437893272.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "in ločilo se je"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od vseh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tujcev"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "in stali so"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "in izpovedovali"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "svoje grehe"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "in krivice"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "svojih očetov"
+    }
+  ],
+  "timestamp": "2026-10-19T19:24:53.273612051Z",
+  "model": "glm-5.3"
+}

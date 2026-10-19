@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez pomožnika pri יועם — slovenščina ga zahteva ⟨je⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "potemnelo",
+      "rationale": "עומם: 'potemniti\/zamegliti' nasproti 'odsiliti\/obstat'; tu 'zlato je potemnelo'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "uvrščalni klic Eiha, naslov pesnitve — ponovljen pri vsakem prelomu"
+    }
+  ],
+  "translation": "Kako ⟨je⟩ potemnelo zlato, kako se je spremenilo čisto zlato! Kamni svetosti so razlite na vogalu vseh ulic.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/4\/1-4.1792437030447.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "potemnelo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "spremenilo se"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "čisto"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "zlato najboljše"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "so razlite"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetosti"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na vogalu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vseh"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ulic"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:30.448695352Z",
+  "model": "glm-5.3"
+}

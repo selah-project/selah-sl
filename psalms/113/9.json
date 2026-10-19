@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקרת הבית",
+      "rationale": "neplodna žena hiše: KJV »keep house« (gospodinjiti) proti YLT\/JPS »prebivati v hiši« — deležnik מושיבי pomeni usedli sedeč"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨že njeno mesto⟩",
+      "rationale": "hebrejščina brez tega; dodano za slovenski sklad, ker primanjkuje glagol glavnega stavka"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Halelu-Jah",
+      "rationale": "impulzivni imperativ hvaljenja, zaključek Pesnika, nagovarja skupnost"
+    }
+  ],
+  "translation": "Ki posedi neplodnico ⟨že njeno mesto⟩ v hiši, mater sinov veselo. Halelu-Jah!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4dea4c503804498d51d5212b4c24b1f12ad4023e8a039e1d30fba7656bec96a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/113\/9-9.1792435430382.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "ki posedi"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "neplodnico"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mater"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:50.382670279Z",
+  "model": "glm-5.3"
+}

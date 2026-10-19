@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "njihovo",
+      "rationale": "hebrejščina ima samo שמם 'njihovo ime' — veznik 'in' pred מחית je dodan po slovenski skladnji"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמם",
+      "rationale": "lahko שֵׁם 'ime' ali שָׁמֵם 'pustosti' (tako YLT morda); večina bere 'ime'"
+    }
+  ],
+  "translation": "Grozil si narodom, uničil si ⟨את⟩ krivične, izbrisal si njihovo ime za vekomaj in za vedno.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/5-8.1792434514813.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "grozil si"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodom"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "uničil si"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "krivične"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "njihovo ime"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "izbrisal si"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "za vekomaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in za vedno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:34.814461270Z",
+  "model": "glm-5.3"
+}

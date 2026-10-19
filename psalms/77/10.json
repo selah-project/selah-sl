@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חנות",
+      "rationale": "hapax-like 'naklonjenost, uslišanje prošenj': KJV 'to be gracious', JPS 'to be gracious'"
+    },
+    {
+      "kind": "addition",
+      "subject": "prošnjo",
+      "rationale": "slovenščina potrebuje predmet za 'uslišati'; hebrejščina ima sam samostalnik"
+    }
+  ],
+  "translation": "Ali je pozabil uslišati El, ali je v svoji jezi zaprl svoja usmiljenja? Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/77\/9-12.1792435140802.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "je pozabil"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "uslišati prošnjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "je zaprl"
+    },
+    {
+      "surface": "באף",
+      "gloss": "v jezi"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "svoja usmiljenja"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:00.803889087Z",
+  "model": "glm-5.3"
+}

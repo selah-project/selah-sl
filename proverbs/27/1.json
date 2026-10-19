@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה ילד יום",
+      "rationale": "dobra oblika: 'kaj bo rodil dan' — slika dne kot rojevalke, ohranjena dobesedno"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ne hvali se",
+      "rationale": "neposreden opomin bralcu, deprecativni אל"
+    }
+  ],
+  "translation": "Ne hvali se z dnecom jutri, kajti ne veš, kaj bo rodil dan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/1-4.1792436142321.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "hvali se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "z dnem"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jutri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "veš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bo rodil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:42.322255078Z",
+  "model": "glm-5.3"
+}

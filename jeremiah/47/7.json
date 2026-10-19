@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bi lahko",
+      "rationale": "Slovenščina potrebuje pogojnik; hebrejščina ima samo vprašalnik איך."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשקטי",
+      "rationale": "Ponovitev glagola iz v6 (dokler ne boš mirovala \/ kako bi mirovala) povezuje vprašanje in odgovor v eno retorično enoto."
+    }
+  ],
+  "translation": "Kako bi lahko mirovala, ko je Jahve ukazal njej — proti Aškelonu in proti obali morja — tam jo je določil?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2f11236b7b61a040822ab48a1d3d4bbcda20878906becfa0b51cdab63a092c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/47\/5-7.1792431858459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kako"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "bi mirovala"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ukazal"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelonu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in proti"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "obali"
+    },
+    {
+      "surface": "הים",
+      "gloss": "morja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "jo je določil"
+    }
+  ],
+  "timestamp": "2026-10-19T17:44:18.460458793Z",
+  "model": "glm-5.3"
+}

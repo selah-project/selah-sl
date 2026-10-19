@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזר",
+      "rationale": "vazar: 'tuj, čuden' (KJV 'strange') ali samostalniško 'zločin, krivda' (ASV 'laden with guilt')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הפכפך\/וזך",
+      "rationale": "dvojna notranja rima: obrnjeno-popačeno proti čistemu; v slovenščini delno ohranjeno z zvočnostjo"
+    }
+  ],
+  "translation": "Popačena-pot človeka je zločin, a čistega je ravno njegovo delo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/5-8.1792436036208.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "popačena-pot"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človeka"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "je zločin"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "a čistega"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "je ravno"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "njegovo delo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:56.209654257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 1:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקרא נקריתי",
+      "rationale": "Isti koren קרה ponovljen — 'naključno sem naletel'; v slovenščini se dvojna igra izgubi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדבקהו",
+      "rationale": "Dobesedno 'prilepili so se nanj' (דבק = prilepiti se); 'prilepili so se za njega' ohranja dobesedno podobo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ובעלי הפרשים",
+      "rationale": "Doslovno 'gospodarji konj' — lahko tudi 'konjeniki' kot ena beseda."
+    }
+  ],
+  "translation": "In mladenič, ki mu je povedal, je rekel: Slučajno sem nadenjel na gori Gilboa, in glej, Šaul se je zavalil na svojo kopje, in glej, vozovi in gospodarji konjenikov so se ga prilepili za ⟨njega⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/1\/5-8.1792428149742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladenič"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ki je povedal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "slučajno sem nadenjel"
+    },
+    {
+      "surface": "נקריתי",
+      "gloss": "nadenelek sem bil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na gori"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "נשען",
+      "gloss": "se je zavalil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "svojo kopje"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vozovi"
+    },
+    {
+      "surface": "ובעלי",
+      "gloss": "in gospodarji"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "konjenikov"
+    },
+    {
+      "surface": "הדבקהו",
+      "gloss": "so se ga prilepili"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:29.743567716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "razprostiranje",
+      "rationale": "רקיע je razprostiranje\/nebesni svod; 'firmament' je latinščina."
+    },
+    {
+      "kind": "addition",
+      "subject": "jih",
+      "rationale": "Hebrejščina ima אתם kot predmet; 'jih' je slovenski zaimkov dodan."
+    }
+  ],
+  "translation": "In Elohim ⟨את⟩ jih je postavil v razprostiranje nebá, da svetita nad zemljo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/1\/17-20.1792421988567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "je postavil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "svetili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "v razprostiranje"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebá"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "da svetita"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemljo"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:48.568297299Z",
+  "model": "glm-5.3"
+}

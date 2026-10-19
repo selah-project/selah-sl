@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם הספר",
+      "rationale": "dobesedno 'je rekel s\/z spisom': kralj je ukazal z listino (Geneva\/KJV 'by letters') ali z Esterino pisemsko prošnjo (Wycliffe); dobesedna 'z' je ohranjena kot 'ob pismu'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ראשו",
+      "rationale": "hebrejski idiom 'na njegovo glavo' — zlo, ki se vrne na načrtovalca; ohranjen dobesedno."
+    },
+    {
+      "kind": "elision",
+      "subject": "ותלו",
+      "rationale": "nedoločni subjekt 'obesili so' — hebrejščina ne pove, kdo je obesil."
+    }
+  ],
+  "translation": "In ko je prišla pred kralja, je rekel ⟨ob⟩ pismu: naj se povrne njegova hudobna nakana, ki jo je nameraval nad Jude, na njegovo glavo; in obesili so ⟨את⟩ njega in ⟨את⟩ njegove sinove na drevo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/9\/25-28.1792437341893.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "in ko je prišla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ob"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pismu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "naj se povrne"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "njegova nakana"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hudobna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "jo je nameraval"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "njegovo glavo"
+    },
+    {
+      "surface": "וְתָלוּ אֹתוֹ",
+      "gloss": "in obesili so ga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "njegove sinove"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "drevo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:41.896442325Z",
+  "model": "glm-5.3"
+}

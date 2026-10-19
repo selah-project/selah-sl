@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tapuah",
+      "rationale": "תפוח: jabolko, mogoče kutina ali marelica — katero sadje pomeni, ni gotovo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebo",
+      "rationale": "חך je dobesedno 'mehko nebo \/ ustna votlina', organ okušanja"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izpušča kopulo v primerjavi"
+    }
+  ],
+  "translation": "Kot jabolčno drevo med drevesi gozda, tako ⟨je⟩ moj ljubi med sinovi; v njegovi senci sem si želela in sedela, in njegov sadež je sladek mojemu nebu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/2\/1-4.1792436850079.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "kot jabolčno drevo"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "med drevesi"
+    },
+    {
+      "surface": "היער",
+      "gloss": "gozda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "moj ljubi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "v njegovi senci"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "sem si želela"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "in sedela"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "in njegov sadež"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sladek"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mojemu nebu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:30.082567939Z",
+  "model": "glm-5.3"
+}

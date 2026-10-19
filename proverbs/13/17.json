@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew has no copula before מרפא"
+    },
+    {
+      "kind": "crux",
+      "subject": "ציר",
+      "rationale": "redna beseda, dobesedno 'tečaj\/vrtilo' — tu 'poslanec'; nekateri prevajajo 'glasnik'"
+    }
+  ],
+  "translation": "Glasnik hudobneža pade v zlo, poslanec zvestih pa ⟨je⟩ zdravilo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/17-20.1792435945035.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "glasnik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hudobneža"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "pade"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "v zlo"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "poslanec"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "zvestih"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "zdravilo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:25.036560319Z",
+  "model": "glm-5.3"
+}

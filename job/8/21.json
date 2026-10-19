@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 8:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vzklik radosti",
+      "rationale": "תרועה je poklic ob trobilih — bojni krik ali vzklikovanje; 'radosti' je dodano za pomen, ki določa kontekst"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tvojih⟩",
+      "rationale": "slovenščina potrebuje svojilni pridevek, hebrejščina ga ima v končnici -ך"
+    }
+  ],
+  "translation": "Dokler ne napolni ⟨tvojih⟩ ust s smehom in ⟨tvojih⟩ ustnic z vzklikom radosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/21-22.1792436286122.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokler ne"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "napolni"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "smeh"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvojih ust"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "in tvojih ustnic"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "vzklik radosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:06.123641641Z",
+  "model": "glm-5.3"
+}

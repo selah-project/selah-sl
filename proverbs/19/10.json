@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "hebrejski stopnjevalni veznik 'še celo\/koliko bolj' je v slovenščini idiom 'še manj'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשרים",
+      "rationale": "beseda je 'sarim' (knezi\/vladarji), ne 'besarim' (meso); pomeni 'vladati nad knezi', ne 'vladati po mesu'"
+    }
+  ],
+  "translation": "Razkošje ne pristoji neumnemu, še manj pa sužnju vladati nad knezi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/19\/9-12.1792436016841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pristoji"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "neumnemu"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "razkošje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "še"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manj"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sužnju"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vladati"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "nad knezi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:36.843632228Z",
+  "model": "glm-5.3"
+}

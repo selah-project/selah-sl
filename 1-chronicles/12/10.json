@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Slovenščina potrebuje glagol, hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "הראש",
+      "rationale": "Dobesedno »glava«: vodja\/prvi mož, ne samo »prvi po vrsti«."
+    },
+    {
+      "kind": "measurement",
+      "subject": "številčenje",
+      "rationale": "Urejen seznam vrstnih redov gadovskih junakov."
+    }
+  ],
+  "translation": "Ezer ⟨je bil⟩ prvi, Obadja drugi, Eliab tretji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f3298850b9a517756c4e73c989a743d9489a5a4a009b03a74393e245fb7f683b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/12\/9-12.1792438150772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "prvi"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadja"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "tretji"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:10.774262695Z",
+  "model": "glm-5.3"
+}

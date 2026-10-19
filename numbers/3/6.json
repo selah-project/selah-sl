@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מטה לוי \/ ושרתו אתו",
+      "rationale": "singular 'tribe' shifts to plural 'they shall serve him' — collective singular to plural, kept as is"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moše",
+      "rationale": "imperatives address Moše directly"
+    }
+  ],
+  "translation": "Približaj ⟨את⟩ pleme Levijevih in postavi ⟨את⟩-njega pred Aharona, duhovnika, in ⟨naj⟩ služijo ⟨את⟩ njemu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/3\/5-8.1792424724237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Približaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pleme Levijevih"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pleme"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levijevih"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "in postavi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-njega",
+      "marks": "pred Aharona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "duhovnikom"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "in služili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:45:24.237931361Z",
+  "model": "glm-5.3"
+}

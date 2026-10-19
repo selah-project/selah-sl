@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula between Jahve and 'pravičen'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "podvojenje 'zjutraj, zjutraj' poudarja vsakodnevno zanesljivost"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא נעדר",
+      "rationale": "'ne zamudi (se)' —subjekt je sodba, ne Jahve; nekatere različice berejo 'ni odsoten'"
+    }
+  ],
+  "translation": "Jahve je pravičen ⟨je⟩ sredi nje, ne bo storil krivice; zjutraj, zjutraj dá svojo sodbo na svetlo, ⟨ta⟩ ne zamudi, in krivični ne poznajo sramote.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "836c4e52db6b467a94d4233a92d202931a39b82f5a57caa2decf493b778251c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zephaniah\/3\/5-8.1792434340893.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "pravičen"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sredi nje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bo storil"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "krivice"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "svojo sodbo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "na svetlo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "zamudi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "poznajo"
+    },
+    {
+      "surface": "עול",
+      "gloss": "krivični"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sramote"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:40.894104197Z",
+  "model": "glm-5.3"
+}

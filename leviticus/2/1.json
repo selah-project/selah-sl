@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je 'dih\/življenjska sila', tu 'kdor diha' — oseba, ki prinaša dar."
+    },
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "hebrejščina ima יהיה, vendar slovenščina potrebuje modalni okvir."
+    },
+    {
+      "kind": "hapax",
+      "subject": "solet",
+      "rationale": "סֹלֶת je moka, 'odtoknjena' od posipe — finna moka; oblika 'solet' ohranja zvok."
+    }
+  ],
+  "translation": "In ko duša ⟨nekatere⟩ prinese dar korban, minhah, Jahveju, ⟨naj bo⟩ solet njegov dar; in izlil bo nanj olje ter nanesel nanj lebona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/2\/1-4.1792423972603.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "In ko duša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "prinese"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dar"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "naj bo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "njegov dar"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "in izlil bo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olje"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ter nanesel bo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lebona"
+    }
+  ],
+  "timestamp": "2026-10-19T15:32:52.604319795Z",
+  "model": "glm-5.3"
+}

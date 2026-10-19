@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלח",
+      "rationale": "redka beseda: 'zrelost\/močna starost' — KJV 'old age', drugi 'vigor'; pomensko 'polna moč je v njih izgubljena'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bi bila",
+      "rationale": "slovenščina potrebuje pogojni glagol, hebrejščina ga izpušča"
+    }
+  ],
+  "translation": "Tudi moč njihovih rok — čemu ⟨bi bila⟩ meni? Njih je preminula zrelost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/1-4.1792436623255.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tudi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "moč"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "njihovih rok"
+    },
+    {
+      "surface": "למה",
+      "gloss": "čemu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "njih"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "je preminula"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "zrelost"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:43.256958221Z",
+  "model": "glm-5.3"
+}

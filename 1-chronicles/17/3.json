@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "prišla",
+      "rationale": "Hebrejščina reče le »je bila beseda« — dodan gibanje"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitiv »za reči« se zlije z ⟨z besedami⟩"
+    }
+  ],
+  "translation": "In zgodilo se je tisto noč, da je prišla beseda Elohimová k Natánu ⟨z besedami⟩:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "287722a0e1f603d0e56eb133e2a293d7a8f64ec5518a9387296a0bf4bd2643b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/17\/1-4.1792438251231.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tisto noč"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "isto"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "da je prišla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimová"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natánu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "z besedami"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:51.232818945Z",
+  "model": "glm-5.3"
+}

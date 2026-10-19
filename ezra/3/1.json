@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina brez glagola biti, slovenščina ga zahteva"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedmi mesec",
+      "rationale": "štetje mesecev — datum določen po koledarju"
+    }
+  ],
+  "translation": "In prispel je sedmi mesec, in sinovi Jisraela ⟨so bili⟩ v mestih, in zbralo se je ljudstvo kakor en mož v Jerušalajim.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/3\/1-4.1792437629250.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "in prispel je"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mesec"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "v mestih"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "in zbralo se je"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kakor en mož"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:29.251490960Z",
+  "model": "glm-5.3"
+}

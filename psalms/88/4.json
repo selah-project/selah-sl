@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga izpušča"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "nefeš je blizu 'grlu\/dihu\/življenjski sili', ne asketski 'duši'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sita od hudobij",
+      "rationale": "šava dobesedno 'nasičena' — slika prenajedenosti z nesrečo, kot pri jedi"
+    }
+  ],
+  "translation": "Kajti sita od hudobij ⟨je⟩ moja duša, in moje življenje se je približalo šeolu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/88\/1-4.1792435232178.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "od hudobij"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja duša"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "in moje življenje"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "se je približalo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:32.180936890Z",
+  "model": "glm-5.3"
+}

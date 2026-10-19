@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "verbless Hebrew clause; Slovenian needs a copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "med tremi",
+      "rationale": "ב 'in\/among the three' rendered with the instrumental 'med' since Slovenian lacks a bare b- locative"
+    }
+  ],
+  "translation": "In za njim ⟨je⟩ Elazar, sin Dodov, Ahohej ⟨je⟩ med tremi mogočneži.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/9-12.1792438172509.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו אחריו",
+      "gloss": "in za njim"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodov"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Ahohej"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "med tremi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mogočneži"
+    }
+  ],
+  "timestamp": "2026-10-19T19:29:32.512549949Z",
+  "model": "glm-5.3"
+}

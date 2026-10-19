@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika; slovenščina za preteklik zahteva 'je'."
+    }
+  ],
+  "translation": "Spreobrnil je ⟨את⟩ njihova vode v kri in usmrtil ⟨את⟩ njihove ribe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/29-32.1792435403162.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Spreobrnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihova vode"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "njihova vode"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "v kri"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "in usmrtil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove ribe"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "njihove ribe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:23.162634674Z",
+  "model": "glm-5.3"
+}

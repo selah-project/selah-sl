@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 30:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefes je 'grlo\/dih\/življenjska moč', ne 'duša' v poznejšem pomenu — zato izbrana transkripcija nefes"
+    },
+    {
+      "kind": "idiom",
+      "subject": "izliva se name",
+      "rationale": "hebrejska slika nefes, ki se razliva kakor voda\/žrtvena libacija — slovensko 'izliva se' ohranja podobo"
+    }
+  ],
+  "translation": "In zdaj se izliva name moja nefes, zgrabili so me dnevi mojega trpljenja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cc2300392ea2cf92f3b6de8b78930383b51be9fdd5d0aa53af54fcd2212ec3e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/13-16.1792436610064.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "תשתפך",
+      "gloss": "se izliva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moja nefes"
+    },
+    {
+      "surface": "יאחזוני",
+      "gloss": "zgrabili so me"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mojega trpljenja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:30.068910028Z",
+  "model": "glm-5.3"
+}

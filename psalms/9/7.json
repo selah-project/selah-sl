@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האויב תמו חרבות",
+      "rationale": "KJV\/Ženeva bereta 'nasprotnik, pusti so dokončane'; YLT 'nasprotnik je končal pusti' — dve skladenjski poti istih besed"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagolski pomočnik, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Nasprotnik je dokončal — pusti za vse časov, mesta si izpulil, izginil je njihov spomin, prav oni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/9\/5-8.1792434514813.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "nasprotnik"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "je dokončal"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pusti"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "za vse časov"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "in mesta"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "si izpulil"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "izginil je"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "njihov spomin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "prav oni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:34.814723688Z",
+  "model": "glm-5.3"
+}

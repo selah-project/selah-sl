@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valovi",
+      "rationale": "משבריך dobesedno 'tvoji lomljevalci' — val, ki se lomi; ena beseda, dve slovenski"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "glasbeni označevalec, ostaja kot 'sela' brez prevoda"
+    }
+  ],
+  "translation": "Name se je naslonila tvoja jeza, in z vsemi svojimi lomljenimi valovi si me zatrl — sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4986458f8f31a4cb2e7082312e24ed0960421b2a4032994f54e840e23fe000d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/88\/5-8.1792435228396.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Name"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "se je naslonila"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tvoja jeza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in z vsemi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "svojimi lomljenimi valovi"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "si me zatrl"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "— sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:28.399846981Z",
+  "model": "glm-5.3"
+}

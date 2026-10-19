@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nekatere",
+      "rationale": "Hebrejščina pravi le 'tudi od knezov Jisraela' — brez števnika."
+    },
+    {
+      "kind": "crux",
+      "subject": "משרי ישראל",
+      "rationale": "'Knezi Jisraela' v Judovski kroniki; prevodi dodajajo 'nekateri', some pa berijo 'Juda'."
+    }
+  ],
+  "translation": "In Jehoram je vstal nad kraljestvom svojega očeta, se utrdil in z mečem pobil ⟨את⟩ vse svoje brate, tudi ⟨nekatere⟩ od knezov Jisraela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/21\/1-4.1792438738988.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "in je vstal"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kraljestvom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "se utrdil"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "in pobil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse svoje brate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svoje brate"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "od knezov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    }
+  ],
+  "timestamp": "2026-10-19T19:38:58.991660980Z",
+  "model": "glm-5.3"
+}

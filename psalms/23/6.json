@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bosta",
+      "rationale": "Slovenščina zahteva glagolsko obliko; hebrejščina ima samo ירדפוני »bosta me zasledovala« z notranjim נ- končnico"
+    },
+    {
+      "kind": "substitution",
+      "subject": "zasledovala",
+      "rationale": "רדף pomeni zasledovati kot plen — dobrota in hesed kot lovilca, ne le »spremljati«"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לארך ימים",
+      "rationale": "dobesedno »za dolžino dni« — dolgo časa, ne nujno »večno« kot v KJV"
+    }
+  ],
+  "translation": "Res dobrota in hesed me bosta zasledovala vse dni mojega življenja, in prebival bom v domu Jahveja do dolžine dni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/23\/5-6.1792434625231.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "res"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrota"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "in hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "me bosta zasledovala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mojega življenja"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "in prebival bom"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "do dolžine"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:30:25.233064484Z",
+  "model": "glm-5.3"
+}

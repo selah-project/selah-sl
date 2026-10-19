@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יַחְתֹּף",
+      "rationale": "חָתַף 'zgrabiti' se v Tanahu pojavlja samo tu; podoba nenadnega grabljenja plena."
+    },
+    {
+      "kind": "crux",
+      "subject": "יְשִׁיבֶנּוּ",
+      "rationale": "'povrni ga' dobesedno 'vrne ga' — KJV 'kdo mu lahko brani', JPS 'kdo ga lahko ustavi' proti dobesednemu 'kdo ga vrne'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "dvojno מי",
+      "rationale": "Verz je retorično vprašanje — dve 'kdo' vabiṯa bralca v Jobov obup nad Božjo nepremakljivostjo."
+    }
+  ],
+  "translation": "Glej, če zgrabi — kdo mu ⟨to⟩ povrni? Kdo mu reče: Kaj delaš?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "57600daad52e08081420f9ab175a71907144c3689819bae697fb1aa6cb5fb142",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/9\/12-12.1792439057698.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הֵ֣ן",
+      "gloss": "Glej"
+    },
+    {
+      "surface": "יַ֭חְתֹּף",
+      "gloss": "zgrabi"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יְשִׁיבֶ֑נּוּ",
+      "gloss": "mu ⟨to⟩ povrni"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יֹאמַ֥ר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "אֵ֝לָ֗יו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מַֽה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "תַּעֲשֶֽׂה",
+      "gloss": "delaš"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:17.699869608Z",
+  "model": "glm-5.3"
+}

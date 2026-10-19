@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 5:21",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השלום",
+      "rationale": "Dobesedno »Ali je šalom?« — slovenščina potrebuje »Je vse v redu?«; šalom = mir, blagostanje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "je stopil",
+      "rationale": "ויפל je dobesedno »padel« — s voza se je spustil navzdol; »stopil« je mehkejša podoba."
+    },
+    {
+      "kind": "elision",
+      "subject": "רץ",
+      "rationale": "Hebrejščina pravi »videl je tekočega« breed »njega«; dodan ⟨njega⟩, ker slovenščina zahteva predmet."
+    }
+  ],
+  "translation": "In Gechazi je stekel za Naamanom; in Naaman je zagledal ⟨njega⟩, kako teče za njim, in je stopil z voza naproti njemu ter rekel: Je ⟨vse⟩ v redu?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "14148017701166900a4c133113357bfb9fa3b4d0ab4a75189f0f3270b28a639c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/5\/21-24.1792429441291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "je stekel za"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamanom"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "je zagledal"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "teče"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za njim"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "je stopil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "voza"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "naproti njemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je v redu?"
+    }
+  ],
+  "timestamp": "2026-10-19T17:04:01.292159203Z",
+  "model": "glm-5.3"
+}

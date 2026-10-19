@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ugrabljeni",
+      "rationale": "נשבו je dobesedno 'odvedena v ujetništvo'; slovenščina potrebuje glagol"
+    }
+  ],
+  "translation": "In obe ženi Davidovi sta bili ugrabljeni: Ahinoam Izreeljanka in Avigajil, žena Nabalova, Karmelčan.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/30\/5-8.1792428044318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "in obe"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ženi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "sta bili ugrabljeni"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "Izreeljanka"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "in Avigajil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabala"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Karmelčan"
+    }
+  ],
+  "timestamp": "2026-10-19T16:40:44.319372842Z",
+  "model": "glm-5.3"
+}

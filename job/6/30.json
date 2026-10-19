@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nepo",
+      "rationale": "חֵךְ is literally the palate, the organ of taste; 'nepo' keeps the body part, the tasting sense is implied."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוות",
+      "rationale": "Renders as 'pogubne stvari' (ruin, calamity); KJV 'perverse things', YLT 'desirable things' — the word spans desire and ruin."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Job to his friends",
+      "rationale": "Rhetorical questions challenging the friends to examine his speech."
+    }
+  ],
+  "translation": "Ali je na mojem jeziku krivica, ali moje ⟨nepo⟨ ne razume pogubnih stvari?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c85faf882637b583841736e2c5253523f37b9f5a1978e737583eec37f2d056d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/6\/29-30.1792436291218.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הֲיֵשׁ",
+      "gloss": "Ali je"
+    },
+    {
+      "surface": "בִּלְשׁוֹנִ֥י",
+      "gloss": "na mojem jeziku"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "krivica"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "חִ֝כִּ֗י",
+      "gloss": "moje ⟨nepo⟨"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "razume"
+    },
+    {
+      "surface": "הַוּֽוֹת",
+      "gloss": "pogubnih stvari"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:11.219687577Z",
+  "model": "glm-5.3"
+}

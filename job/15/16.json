@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "dovestni 'koliko bolj še' — iz Biblije znana retorična stopnjevka (a fortiori)"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga izpušča"
+    }
+  ],
+  "translation": "Koliko bolj gnusen in pokvarjen je človek, ki pije krivico kakor vodo!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/15\/13-16.1792436368899.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "koliko bolj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kakor⟩"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "gnusen"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "in pokvarjen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pije"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kakor vodo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "krivico"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:28.900324878Z",
+  "model": "glm-5.3"
+}

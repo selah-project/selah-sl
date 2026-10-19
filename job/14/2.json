@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "je odrezan",
+      "rationale": "וימל iz נמל: 'je odrezan\/obrezan' (KJV 'cut down') ali 'ovenel' (JPS 'withereth' iz נמל\/מלל); vzeta je dobesedna slika odrezanega cveta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vzbrsti",
+      "rationale": "יצא je dobesedno 'gre ven'; 'vzbrsti' ohranja sliko cveta, ne glagola."
+    }
+  ],
+  "translation": "Kakor cvet vzbrsti in je odrezan, pobegne kakor senca in ne obstoji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/14\/1-4.1792436361234.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "Kakor cvet"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vzbrsti"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "in je odrezan"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "pobegne"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kakor senca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "obstoji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:21.234819433Z",
+  "model": "glm-5.3"
+}

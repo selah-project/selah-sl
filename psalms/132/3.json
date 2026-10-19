@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "če",
+      "rationale": "אם v zaobljubi pomeni 'če (…) potem mi stori to' — pogojna zaobljuba; KJV dodaja 'gotovo ne', YLT ohrani dobesedni 'če'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם … אם",
+      "rationale": "ponovljeni pogoj v vzporedju obeh polverzov, v slovenščini ohranjen."
+    }
+  ],
+  "translation": "Če vstopim v šotor svoje hiše, če stopim na posteljo svojega ležišča —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/1-4.1792435608757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "vstopim"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "v šotor"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svoje hiše"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "stopim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "posteljo"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "svojega ležišča"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:48.758831243Z",
+  "model": "glm-5.3"
+}

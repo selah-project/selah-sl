@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "drevo",
+      "rationale": "עץ je 'drevo\/les', ne 'gibet' — obesen na drevo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "knjiga kronik dni",
+      "rationale": "uradni dvorni zapis — dogodek se šteje v kraljevo kroniko, kar nosi zapletek knjige"
+    }
+  ],
+  "translation": "In zadeva je bila preiskana in najdena, in obesili sta obe na drevo, in zapisano je bilo v knjigi kronik dni pred kraljem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/21-23.1792437205039.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "in je bila preiskana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zadeva"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "in najdena"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "in obesili so"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "drevo"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "in zapisano je bilo"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v knjigi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kronik"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kraljem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:13:25.041134281Z",
+  "model": "glm-5.3"
+}

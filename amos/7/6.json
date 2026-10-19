@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחם",
+      "rationale": "»Premislil se je« dobesedno »vzdihnil\/obžaloval«; prevodi se razhajajo med »pobotal se je«, »obžaloval« in »odstopil od načrta«."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bilo⟩",
+      "rationale": "Slovenščina potrebuje deležnik »bilo« pri glagolu biti v prihodniku; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Jahve se je premislil zaradi tega: tudi to ne bo ⟨bilo⟩, govori Adonaj Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "017278a1acea0664c26e2371618b79c16cd1963aff64f0cfa7194ee702fbaf1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/7\/5-8.1792434092821.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "se je premislil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "zaradi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tega"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo ⟨bilo⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:33.045559407Z",
+  "model": "glm-5.3"
+}

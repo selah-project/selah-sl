@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דליו",
+      "rationale": "KJVs razhajajo: 'niso enake' (KJV), 'visijo ohlapno' (ASV\/JPS), 'dvigajo noge' (Geneva) — koren דלל pomeni ohlapeti\/bit povožen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pregovor",
+      "rationale": "mašal je širši: povest, prispodoba, izrek."
+    }
+  ],
+  "translation": "Ohlapno visijo noge hromega, in pregovor v ustih neumnih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a0d657d1473a40986dc0fcb94fd68d58c57174297b0563825a654fdbdb968b80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/7-8.1792439071655.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דַּלְי֣וּ",
+      "gloss": "ohlapno visijo"
+    },
+    {
+      "surface": "שֹׁ֭קַיִם",
+      "gloss": "noge"
+    },
+    {
+      "surface": "מִפִּסֵּ֑חַ",
+      "gloss": "hromega"
+    },
+    {
+      "surface": "וּ֝מָשָׁ֗ל",
+      "gloss": "in pregovor"
+    },
+    {
+      "surface": "בְּפִ֣י",
+      "gloss": "v ustih"
+    },
+    {
+      "surface": "כְסִילִֽים",
+      "gloss": "neumnih"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:31.657007594Z",
+  "model": "glm-5.3"
+}

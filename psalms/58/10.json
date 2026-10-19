@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמו חי כמו חרון",
+      "rationale": "'kot živo, kot goreče' — zeleno in gorelo trnje skupaj odnese vihar; alternativa: 'žive in goreče (nepričakovano) bo v viharju pometel'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ישערנו",
+      "rationale": "oblika glagola שער 'viharno odnesti' — redka, težavna beseda"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חרון",
+      "rationale": "lahko 'goreč (jezik z ognjem)' ali 'gorenje jeza' — vzeto kot stanje trnja v loncu"
+    }
+  ],
+  "translation": "Preden vaši lonci spoznajo trnje, bodisi živo bodisi goreče, v viharju ga bo odnesel ⟨v svojem⟩ gnevu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/58\/9-12.1792434923952.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "preden"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "spoznajo"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "vaši lonci"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "trnje"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kot"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "goreč"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "v viharju ga odnesel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:23.954396464Z",
+  "model": "glm-5.3"
+}

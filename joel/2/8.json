@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 2:8",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובעד השלח יפלו",
+      "rationale": "השלח je metalo\/sulica; prevodi: KJV 'pastó na meč, ne bodo ranjeni', ASV\/JPS 'prebijejo se skozi orožje', YLT 'če pastó zaradi meta'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יבצעו",
+      "rationale": "koren בצע 'odtrgati \/ pleniti'; KJV 'ne bodo ranjeni' proti dobesednemu 'ne bodo odtrgani \/ prekinili'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sulica",
+      "rationale": "השלח dobesedno 'izstreljek, met'; 'sulica' je izbor konkretnega orožja."
+    }
+  ],
+  "translation": "In vsak svojega brata ne bo stiskal, mož po svoji stezi bo hodil, in skozi sulico padli bodo — ne bodo se odtrgali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "89dd010fe4d2b7f09a987b60db2ec90f3e07f0eb36bd4bfa47f55537b357c6d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/2\/7-8.1792439011710.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "in vsak"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svojega brata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידחקון",
+      "gloss": "bo stiskal"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mož"
+    },
+    {
+      "surface": "במסלתו",
+      "gloss": "po svoji stezi"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "bo hodil"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "in skozi"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "sulico"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padli bodo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבצעו",
+      "gloss": "bodo se odtrgali"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:31.711817245Z",
+  "model": "glm-5.3"
+}

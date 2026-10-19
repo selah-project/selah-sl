@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את שלום פרעה",
+      "rationale": "Dvojni pomen: 'odgovor, ki prinese mir faraonu' ali 'odgovoriti z blaginjo faraonu' — šalom kot vsebina odgovora in kot njegov učinek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "blaginjo",
+      "rationale": "šalom = celost, dobro počutje, blaginja — ne le 'mir' kot odsotnost vojne."
+    }
+  ],
+  "translation": "In Józef je odgovoril ⟨את⟩ faraonu in rekel: Brez mene — Elohim bo odgovoril ⟨את⟩ blaginjo faraonu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/13-16.1792422734986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in odgovoril"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraonu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "brez mene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bo odgovoril"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blaginjo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "blaginjo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:12:14.987440064Z",
+  "model": "glm-5.3"
+}

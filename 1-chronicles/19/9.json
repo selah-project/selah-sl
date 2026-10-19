@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 19:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "v",
+      "rationale": "slovenščina potrebuje predlog pred mestom, hebrejščina ima samo konstrukt פתח העיר"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vojaška razporeditev",
+      "rationale": "verz opisuje postavitev bojnih vrst in položaj enot — prostorsko razseženo bitko"
+    }
+  ],
+  "translation": "In izšli so sinovi Amonovi in zvrstili so se v boj pred vhodom ⟨v⟩ mesto, kralji pa, ki so prišli, so ⟨bili⟩ sami na polju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eded78e1d1a311cf035e5f7131a4f7287114508f5256583973690b07c926ecab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/19\/9-12.1792438270116.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "in izšli so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "so zvrstili"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "v boj"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pred vhodom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "kralji pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "so prišli"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "sami"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na polju"
+    }
+  ],
+  "timestamp": "2026-10-19T19:31:10.118132303Z",
+  "model": "glm-5.3"
+}

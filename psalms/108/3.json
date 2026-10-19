@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה ... אעירה",
+      "rationale": "koren עור ponovljen: glasbili naj se zbudita, pesnik zbudi zarjo — v slovenščini se dvojica zbudi\/zbudil delno ohrani."
+    },
+    {
+      "kind": "crux",
+      "subject": "zbudil zarjo",
+      "rationale": "אעירה שחר: prehodno 'zbudil bom zarjo' (JPS, YLT) ali 'zgodaj zbudil se bom' (KJV); hebrejščina ima שחר za neposredni predmet, zato prehodno."
+    },
+    {
+      "kind": "invitation",
+      "subject": "nevel in kinor",
+      "rationale": "vabili sta glasbilu — nagovor z velelnikom."
+    }
+  ],
+  "translation": "Zdrami se, nevel in kinor! Jaz bom zbudil zarjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/108\/1-4.1792435417622.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "zdrami se"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכינור",
+      "gloss": "in kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "jaz bom zbudil"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zarjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:37.623000526Z",
+  "model": "glm-5.3"
+}

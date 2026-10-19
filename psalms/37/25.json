@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki bi",
+      "rationale": "hebrejščina ne izraža relativnega zaimka; dodano za berljivost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedik",
+      "rationale": "צדיק je cedek-beseda, ohranjena po D2 namesto »pravični«"
+    }
+  ],
+  "translation": "Mlad sem bil, tudi ostarel sem, in nisem videl cedika zapuščenega niti njegovega zarja, ki bi kruha iskal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/37\/25-28.1792434758267.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "mlad"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sem bil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ostarel sem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in nisem"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "videl"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedika"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "zapuščenega"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "njegovega zarja"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ki bi iskal"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kruha"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:38.268621381Z",
+  "model": "glm-5.3"
+}

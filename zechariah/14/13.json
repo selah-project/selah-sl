@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 14:13",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zmeda",
+      "rationale": "מהומה je 'pomen, vrvež, zmeda' — KJV 'tumult\/panic' je vedenjska razlaga, ne beseda sama."
+    },
+    {
+      "kind": "addition",
+      "subject": "ki jo pošlje Jahve",
+      "rationale": "מהומת יהוה je svezan status: 'zmeda Jahveja' — dodan relacijski glagol, ker slovenščina take zveze ne nosi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יד … ידו … יד",
+      "rationale": "trije udarci besede 'roka' v verigu roka–bližnji–roka–bližnji, praviPanijevo podiranje z leve na desno."
+    }
+  ],
+  "translation": "In zgodilo se bo tistega dne: velika zmeda, <ki jo pošlje> Jahve, med njimi, in prijeli bodo vsak roko svojega bližnjega, dvignila pa se bo njegova roka nad roko njegovega bližnjega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "427228b76b5b2bfeed3b9c3b1fe05a581b699faaff7fb17266b903d5282336a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/14\/13-16.1792434445895.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "in zgodilo se bo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tistega dne"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tisti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "zmeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velika"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "med njimi"
+    },
+    {
+      "surface": "והחזיקו",
+      "gloss": "in prijeli bodo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svojega bližnjega"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "dvignila pa se bo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegova roka"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "njegovega bližnjega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:25.895925590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 10:23",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "to je",
+      "rationale": "Hebrejščina ima samo hospi `הוא` (on), slovenščina potrebuje `to je` za dvojno ime."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קליה \/ קליטא",
+      "rationale": "Dve obliki istega imena — pisanje z aramejsko končnjo -א."
+    }
+  ],
+  "translation": "In iz levitov: Jozabad, Šimi, Kelaja — ⟨to je⟩ Kelita — Petahja, Juda in Eliezer.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e8e374dc17290647c4999d28fc1067e30131f54758a9713fd419cf56ab9f095a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/10\/21-24.1792437727629.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "in iz"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitov"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "Jozabad"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "Šimi"
+    },
+    {
+      "surface": "וקליה",
+      "gloss": "Kelaja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to je⟩"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Kelita"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "Petahja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "Eliezer"
+    }
+  ],
+  "timestamp": "2026-10-19T19:22:07.630519735Z",
+  "model": "glm-5.3"
+}

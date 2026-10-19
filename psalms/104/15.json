@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משמן",
+      "rationale": "'obraz sija od olja' (srednik: olje kot vzrok) proti 'olje, da sija obraz' (ciljniINF)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש \/ אדם",
+      "rationale": "v. 14 ima אדם, tu אנוש — dve besedi za človeka, prva poudari smrtnost."
+    }
+  ],
+  "translation": "in vino, ki razveseli srce smrtnika, da zasija obraz od olja, in kruh, ki podpira srce smrtnika.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/13-16.1792435337590.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "in vino"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "razveseli"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "da zasija"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "od olja"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "in kruh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtnika"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "podpira"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:17.592306879Z",
+  "model": "glm-5.3"
+}

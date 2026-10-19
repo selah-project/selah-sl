@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrejščina ne izraža eksplicitno časa; 'bo vzel' je prihodnji\/durativni vid glagola יקח."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע ... יקח",
+      "rationale": "Ponavljajoče ime Jahve na začetku obeh polovic — paralelizem prošnja\/molitev."
+    }
+  ],
+  "translation": "Jahve je uslišal mojo prošnjo, mojo molitev bo Jahve vzel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/6\/9-11.1792434497038.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "je uslišal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "mojo prošnjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "molitev"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bo vzel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:17.039331635Z",
+  "model": "glm-5.3"
+}

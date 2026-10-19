@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "praznini",
+      "rationale": "hevel pomeni 'dih, para, praznina'; JPS 'kot dih' proti KJV 'v ničevosti'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בבהלה",
+      "rationale": "'v trepetu\/preplahu' (JPS, BSB) proti 'v stiski' (KJV)."
+    }
+  ],
+  "translation": "In končal je njihove dneve v praznini in njihova leta v trepetu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/33-36.1792435122145.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "in končal je"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "v praznini"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "njihove dneve"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "in njihova leta"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "v trepetu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:42.146450291Z",
+  "model": "glm-5.3"
+}

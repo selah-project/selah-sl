@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 51:3",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידרך ידרך הדרך",
+      "rationale": "Dvojno dejanje: 'tread' pomeni hkrati 'stopiti (na lok pri nategovanju)' — pomoti v rokopisih; prevedeno po KJV\/JPS 'nategovalcu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ta, ki natega⟩",
+      "rationale": "Hebrejščina ponovi glagol (infinitivus absolutus); slovenščina potrebuje samostalnik."
+    }
+  ],
+  "translation": "Naj nategovalec ne natega svojega loka in naj se ne vzpenja v svoji oklepnici; ne prizanašajte njenim mladeničem, vsem njenim vojakom izrečite ⟨את⟩ pogubitev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "190fe20ef5a1813b6f762469c12fcfb507bb229a24bd17795740d308c3b3ab64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/51\/1-4.1792431962542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "naj natega"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "nategovalec"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "⟨ta, ki natega⟩"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "svojega loka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יתעל",
+      "gloss": "se vzpenja"
+    },
+    {
+      "surface": "בסרינו",
+      "gloss": "v svoji oklepnici"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תחמלו",
+      "gloss": "prizanašajte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "njenim"
+    },
+    {
+      "surface": "בחריה",
+      "gloss": "mladeničem"
+    },
+    {
+      "surface": "החרימו",
+      "gloss": "izrečite pogubitev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsem"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "njenim vojakom"
+    }
+  ],
+  "timestamp": "2026-10-19T17:46:02.543029024Z",
+  "model": "glm-5.3"
+}

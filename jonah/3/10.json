@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרעה \/ הרעה",
+      "rationale": "isti besedi 'zla pot' in 'huda' — ljudje so se obrnili od zla, Bog od zla kazni; besedna igra v slovenščini deloma ostane"
+    },
+    {
+      "kind": "crux",
+      "subject": "וינחם",
+      "rationale": "נחם o Bogu: 'obžaloval \/ porogal se \/ usmilil se' — klasična težava prevajalcev"
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "slovenščina potrebuje kazalni zaživek 'jo' pri 'da jim jo bo storil', hebrejščina ga nima"
+    }
+  ],
+  "translation": "In Elohim je videl ⟨את⟩ njihova dejanja, da so se obrnili od svoje zle poti; in Elohim se je porogal nad hudo, ki jo je bil rekel, da jim jo bo storil — in je ni storil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jonah\/3\/9-10.1792434105704.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "in je videl"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihova dejanja"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "njihova dejanja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "so se obrnili"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "od svoje poti"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zle"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "in se je porogal"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hudo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je bil rekel"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da bo storil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "njim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:21:45.705381735Z",
+  "model": "glm-5.3"
+}

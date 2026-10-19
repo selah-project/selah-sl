@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškani",
+      "rationale": "משכנותיך = tvoja prebivališča; miškan po D2, množina ostaja množina"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Kako ljubki so tvoji miškani, Jahve Cebaot!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/84\/1-4.1792435168192.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kako"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ljubki"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tvoji miškani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:28.193936746Z",
+  "model": "glm-5.3"
+}

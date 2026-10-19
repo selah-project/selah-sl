@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima glagola biti v teh stavkih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žalost",
+      "rationale": "עצבת pomeni tudi bolečino; 'žalost' je ožje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "potrta",
+      "rationale": "נכאה dobesedno 'udarjena', prizadeta"
+    }
+  ],
+  "translation": "Veselo srce poživi ⟨obraz⟩, ob žalosti srca pa ⟨je⟩ ruah potrta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/13-16.1792435964982.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "veselo"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "poživi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "ob žalosti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srca"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "potrta"
+    }
+  ],
+  "timestamp": "2026-10-19T18:52:44.983337677Z",
+  "model": "glm-5.3"
+}

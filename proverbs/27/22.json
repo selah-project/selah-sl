@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הריפות",
+      "rationale": "ריפות — zdrobljeno žito\/drobtine, samo tu v Tanahu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האויל\/אולתו",
+      "rationale": "koren אול povezuje neumnika in njegovo neumnost na začetku in koncu verza — okvir, ki ga slovenščina ohrani"
+    }
+  ],
+  "translation": "Če tlačiš ⟨את⟩ neumnika v možnarju sred zdrobljenih drobtin s tolkačem, ne bo odšla od njega njegova neumnost.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/21-24.1792436135506.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "tlačiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neumnika"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "neumnika"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "v možnarju"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sred"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "zdrobljenih drobtin"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "s tolkačem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "bo odšla"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od njega"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "njegova neumnost"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:35.507180097Z",
+  "model": "glm-5.3"
+}

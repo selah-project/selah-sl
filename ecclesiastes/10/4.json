@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח ostaja 'ruah' — duh\/veter\/jez, ena beseda za tri stvari"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרפא",
+      "rationale": "Dobesedno 'zdravilo\/zdravljenje': prevodi se razhajajo med 'blagost', 'popuščanje', 'umirjenost'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנח\/יניח",
+      "rationale": "Isti glagol ינח dvakrat ('ne zapusti' \/ 'pomiri') — besedna igra, ki jo slovenščina izgubi"
+    },
+    {
+      "kind": "you",
+      "subject": "do bralca",
+      "rationale": "Neposreden nasvet naslovniku z imperative 'ne zapusti'"
+    }
+  ],
+  "translation": "Če se ruah vladarja dvigne nad tebe, ne zapusti svojega mesta, kajti pomirjenost pomiri velike pregrehe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/10\/1-4.1792437154302.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "vladarja"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "dvigne"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tebe"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "svojega mesta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "zapusti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "pomirjenost"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "pomiri"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "velike pregrehe"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "velike"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:34.304691865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "cena: sea močnice in dve sei ječmena za šekel",
+      "rationale": "utež in prostorninska mera — izpolnitev Elijève besede iz 2 Kr 7,1"
+    },
+    {
+      "kind": "addition",
+      "subject": "je bila",
+      "rationale": "סאה סלת בשקל je brez glagola; slovenščina ga dodaja"
+    }
+  ],
+  "translation": "In ljudstvo je šlo ven in oplazilo ⟨את⟩ tabor Arama, in bila je sea bjane močnice v šeklu in dve sei ječmena v šeklu, po besedi Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/7\/13-16.1792429536919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "in je šlo ven"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "in oplazilo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabor Arama"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tabor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bila je"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "sea"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bjane močnice"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "v šeklu"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "in dve sei"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječmena"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "v šeklu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "po besedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:05:36.921263906Z",
+  "model": "glm-5.3"
+}

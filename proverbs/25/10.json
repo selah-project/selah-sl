@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחסדך",
+      "rationale": "Koren חסד tu verjetno 'osramotiti' (aramejsko), ne 'kazati hesed'; prevajalci se delijo."
+    },
+    {
+      "kind": "addition",
+      "subject": "tisti, ki",
+      "gloss": "",
+      "rationale": "Hebrejščina ima samo active participle שמע; slovenščina potrebuje relativnik."
+    }
+  ],
+  "translation": "da te bo tisti, ki sliši, ne osramotil, in žaljiva beseda o tebi se ne bo vrnila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/9-12.1792436118613.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "te osramotil"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ki sliši"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "in žaljiva beseda o tebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se bo vrnila"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:18.614497514Z",
+  "model": "glm-5.3"
+}

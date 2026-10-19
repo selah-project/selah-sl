@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "hebrejščina brez osebka — deležnik »zaprt« stoji sam"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gnusoba",
+      "rationale": "תועבה — gnusoba, odvratnost; množinska oblika kot intenziv"
+    }
+  ],
+  "translation": "Oddalil si moje znance od mene, postavil si me za gnusobo zanje; ⟨sem⟩ zaprt in ne morem ven.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/88\/9-12.1792435227328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "oddalil si"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "moje znance"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od mene"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "postavil si me"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "za gnusobo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zanje"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "zaprt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "morem ven"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:27.329526719Z",
+  "model": "glm-5.3"
+}

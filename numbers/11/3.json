@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "hebrejščina nima pasivnega glagola — dodana oblika za 'poklicano'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבערה\/בערה",
+      "rationale": "ime kraja Tavéra ('gorenje') je izpeljano iz glagola בער 'goreti' — besedna igra"
+    }
+  ],
+  "translation": "In ime tistega kraja je bilo poklicano Tavéra, kajti zagorel je med njimi ogenj Jahveja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/11\/1-4.1792424953065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "in poklicano je bilo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kraja"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tistega"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "zagorel je"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med njimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:49:13.066929846Z",
+  "model": "glm-5.3"
+}

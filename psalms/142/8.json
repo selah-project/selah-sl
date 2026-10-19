@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכתרו",
+      "rationale": "Koren כתר pomeni 'obkroniti\/obdati': JPS 'obdali me bodo (kronali se zaradi mene)' proti KJV 'obkrožili me bodo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je 'dih\/življenjska sila', ne ločena 'duša'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Izpelji",
+      "rationale": "Imperativ-prošnja, zaključek prošnje."
+    }
+  ],
+  "translation": "Izpelji mojo dušo iz ječe, da častim ⟨את⟩ tvoje ime; pravični me bodo obdali, kajti ti mi boš povrnil dobro.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/142\/5-8.1792435731571.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Izpelji"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "iz ječe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mojo dušo"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "da častim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvoje ime"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvoje ime"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "bodo obdali"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "pravični"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "boš povrnil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:51.573579963Z",
+  "model": "glm-5.3"
+}

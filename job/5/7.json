@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני רשף",
+      "rationale": "'Sinovi Resefa' — strele\/iskre; Resef je tudi bog kuge v Ugaritu; prevodi: 'iskre' proti dobesednemu 'sinovi Resefa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina potrebuje pomožnik 'je', hebrejščina ga nima."
+    }
+  ],
+  "translation": "Kaj človek ⟨je⟩ rojen za trud, in sinovi Resefa letijo visoko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/5-8.1792436241058.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človek"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "za trud"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "rojen"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "Resefa"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "letijo visoko"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "leteti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:21.061468973Z",
+  "model": "glm-5.3"
+}

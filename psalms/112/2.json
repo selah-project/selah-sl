@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "blagoslovljen",
+      "rationale": "יברך je glagol 'blagoslavljati' v pasivnem pomenu ('bo blagoslovljen')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יברך",
+      "rationale": "Lahko tudi povratno: 'rod pravičnih blagoslavlja (Jahveja)'"
+    }
+  ],
+  "translation": "Mogočen bo na zemlji njegov zarod, rod pravičnih ⟨bo⟩ blagoslovljen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/1-4.1792435471582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Mogočen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemlji"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "njegov zarod"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rod"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "pravičnih"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blagoslovljen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:31.583679261Z",
+  "model": "glm-5.3"
+}

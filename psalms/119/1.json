@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tisti, ki",
+      "rationale": "slovenščina potrebuje samostalnik; hebrejščina ima samo pridevniško zvezo v množini"
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "hebrejščina nima glagola biti v sedanjiku"
+    },
+    {
+      "kind": "you",
+      "subject": "bralcu",
+      "rationale": "makarizem neposredno nagovarja poslušalca"
+    }
+  ],
+  "translation": "Kako srečni so tisti, ki so popolni na poti, ki hodijo v Tori Jahveja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/1-4.1792435503251.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kako srečni so"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "popolni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na poti"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ki hodijo"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "v Tori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:03.251862681Z",
+  "model": "glm-5.3"
+}

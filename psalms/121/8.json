@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "večnost",
+      "rationale": "עולם je dobesedno 'skrito, izginjajoča točka' — čas izven vidnega obsega"
+    }
+  ],
+  "translation": "Jahve bo varoval tvoj izhod in tvoj prihod, od zdaj in do večnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/121\/5-8.1792435554077.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bo varoval"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tvoj izhod"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "in tvoj prihod"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od zdaj"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "in do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "večnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:54.079783232Z",
+  "model": "glm-5.3"
+}

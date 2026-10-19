@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trpljenje",
+      "rationale": "ענות je iz korena ענה — stiskanje, ponižanje; 'trpljenje' je najbližje, a izgubi podobo pritiska."
+    },
+    {
+      "kind": "addition",
+      "subject": "za",
+      "rationale": "לדוד — 'za Davida', v slovenščini potreben predlog za korist."
+    }
+  ],
+  "translation": "Pesem vzponov. Spomni se, Jahve, za Davida ⟨את⟩ vse njegovo trpljenje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/132\/1-4.1792435608757.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pesem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vzponov"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Spomni se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "za Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse njegovo trpljenje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "njegovo trpljenje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:48.758091980Z",
+  "model": "glm-5.3"
+}

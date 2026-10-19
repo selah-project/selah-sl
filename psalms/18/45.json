@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו לי",
+      "rationale": "'lažno prisegajo\/skle pokažejo poslušnost meni' (KJV) proti 'omahujem pred menoj' (JPS, glede na v46) — כחש pomeni biti neveren, slepariti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמע ... ישמעו",
+      "rationale": "Isti koren שמע v samem in povratnem glagolu: 'ob glasu ... odzvanjajo' — igra izgubljena v slovenščini."
+    }
+  ],
+  "translation": "Ob sluhu ušesu me bodo slišali; sinovi tujega bodo zmoti ⟨zbrane⟩ proti meni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/45-48.1792434663744.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ob sluhu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ušesu"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bodo slišali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "tujega"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bodo zmoti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "proti meni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:03.744739511Z",
+  "model": "glm-5.3"
+}

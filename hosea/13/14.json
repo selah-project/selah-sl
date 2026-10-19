@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "vprašanje ali obljuba",
+      "rationale": "אהי brez vprašalnega poudarka: KJV\/BSB bereta kot obljubo (‘odkupim’), YLT\/JPS kot vprašanji (‘kje je tvoja kuga?’) — smisel se vrti iz rešitve v zagroženo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קטב",
+      "rationale": "‘uničevalni udarec’ se v Tanahu pojavi le tukaj in v Hos 5,14"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחם",
+      "rationale": "‘usmiljenje\/sprava\/obžalovanje’ — različno kot ‘pokora’ (KJV) ali ‘sočutje’ (BSB)"
+    }
+  ],
+  "translation": "Iz roke šeola jih odkupim, iz smrti jih rešim. Kje je tvoja kuga, o smrt? Kje tvoj uničevalni udarec, o šeol? Usmiljenje ⟨je⟩ skrito pred mojimi očmi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/13\/13-15.1792433878985.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "iz roke"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "jih odkupim"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "iz smrti"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "jih rešim"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kje"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tvoja kuga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "o smrt"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kje"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "tvoj uničevalni udarec"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "o šeol"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "usmiljenje"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "skrito"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "pred mojimi očmi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:58.988122565Z",
+  "model": "glm-5.3"
+}

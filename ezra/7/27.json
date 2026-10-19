@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 7:27",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bodi⟩",
+      "rationale": "Hebrejščina ima samo blagoslovljen; slovenščina potrebuje glagol za blagoslavljanje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Tukaj se aramejski odlok (vv. 12–26) konča in Ezra prične govoriti v hebrejščini."
+    }
+  ],
+  "translation": "Blagoslovljen ⟨bodi⟩ Jahve, Elohim naših očetov, ki je dal takšno reč v srce kralja, da olepša ⟨את⟩ dom Jahvejev, ki je v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "492f4c1c60e03f7c005741de2bc0cb6f2acfd022abf8a536516f3c292992435a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/25-28.1792437709052.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nasih-očetov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je-dal"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "takšno-reč"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v-srce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "לפאר",
+      "gloss": "da-olepša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dom Jahvejev"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v-Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:21:49.056481138Z",
+  "model": "glm-5.3"
+}

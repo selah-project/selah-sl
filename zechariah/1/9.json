@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨te⟩",
+      "rationale": "slovenščina potrebuje pokazalni zaimek pred samostalniškim delom predikata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poslanec",
+      "rationale": "מלאך pomeni 'poslanec'; 'angeli' bi bila poznejša dediščinska plast"
+    }
+  ],
+  "translation": "In rekel sem: Kaj so ⟨te⟩, moj gospod? In rekel mi je poslanec, ki govori v meni: Jaz ti bom pokazal, kaj so ti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a39c48aa05b86b91c4ca1ef9efbef921831641fded1029c74dafaa868dc0cad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/1\/9-12.1792434285391.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel sem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ti so"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospod"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "poslanec"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ki govori"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ti bom pokazal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:45.392748280Z",
+  "model": "glm-5.3"
+}

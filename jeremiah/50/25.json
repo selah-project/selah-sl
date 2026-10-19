@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "orožje",
+      "rationale": "כלי je 'posoda, orodje'; 'orožje' je izbor glede na shrambo in jeza"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagolsko vez, hebrejščina jo nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח ... מלאכה",
+      "rationale": "zvočna bližina poante 'odprl — delo' se v slovenščini izgubi"
+    }
+  ],
+  "translation": "Jahve je odprl ⟨את⟩ svojo shrambo in izpeljal ⟨את⟩ orožje svojega jezusa, kajti delo ⟨je⟩ to za Adonaja Jahveja Cebaot v deželi Kaldejcev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6752a40ad8c78f2c78c92364635ca72c789f6225c89e505b0e3fd44753ff8e33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/50\/25-28.1792431968692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "je odprl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo shrambo"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "svojo shrambo"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "in izpeljal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orožje"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "orožje"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "svojega jezusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "za Adonaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v deželi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kaldejcev"
+    }
+  ],
+  "timestamp": "2026-10-19T17:46:08.693496779Z",
+  "model": "glm-5.3"
+}

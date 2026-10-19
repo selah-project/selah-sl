@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 1:9",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nikogar⟩",
+      "rationale": "Hebrew has only אין מנחם 'ni tolažnika'; slovenščina potrebuje osebek."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלאים",
+      "rationale": "dovnjek פלא 'čudež' kot prislov: 'čudesno\/začudenje vredno' — nekateri 'strašno'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skuta",
+      "rationale": "בשולים je spodnji rob oblačila; 'skuta' ohranja podobo oblačila."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Neposreden nagovor Imenu v sredini žalostinke."
+    }
+  ],
+  "translation": "Njena nečistost je na njenih skutenah; svojega konca ni pomnila in je čudesno padla — ni ⟨nikogar⟩, ki bi jo tolažil. Poglej, Jahve, ⟨את⟩ mojo stisko, kajti sovražnik se je povzpel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/1\/9-12.1792436958678.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמאתה",
+      "gloss": "nečistost"
+    },
+    {
+      "surface": "בשוליה",
+      "gloss": "na njenih skutenah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "pomnila"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "svojega konca"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "in je padla"
+    },
+    {
+      "surface": "פלאים",
+      "gloss": "čudesno"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "ki bi tolažil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Poglej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojo stisko"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mojo stisko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "se je povzpel"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sovražnik"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:18.678761492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prebivališče",
+      "rationale": "משכן (miškan) je 'prebivališče\/bivališče' — svetišče kot Jahvovo bivališče"
+    }
+  ],
+  "translation": "In naredil je ⟨את⟩ deske za prebivališče iz lesa akacije, stoječe.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f4a8ee3bb2ca2d4526e8b1bad67127ce23de151594a97d4d9586baff294c7f4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/36\/17-20.1792423870271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in naredil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deske"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "deske"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za prebivališče"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iz lesa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacije"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stoječe"
+    }
+  ],
+  "timestamp": "2026-10-19T15:31:10.272658126Z",
+  "model": "glm-5.3"
+}

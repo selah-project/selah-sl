@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima glagola 'biti'; slovenščina ga zahteva"
+    },
+    {
+      "kind": "elision",
+      "subject": "templju",
+      "rationale": "היכל je palača, templj — kraljeva stavba, kjer prestol stoji"
+    }
+  ],
+  "translation": "Jahve ⟨je⟩ v svojem svetem templu, Jahve — ⟨je⟩ njegov prestol v nebesih; njegove oči gledajo, njegove veke preizkušajo sinove človeške.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/11\/1-4.1792434585203.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "v templju"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svetem svojem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesih"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "njegov prestol"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "njegove oči"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "gledajo"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "njegove veke"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "preizkušajo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinove"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "človeške"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:45.206134817Z",
+  "model": "glm-5.3"
+}

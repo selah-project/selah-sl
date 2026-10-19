@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 1:14",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje pomočnik 'je' pri 'bilo', hebrejščina ga izpušča"
+    },
+    {
+      "kind": "measurement",
+      "subject": "številke",
+      "rationale": "tisoč štiristo vozov in dvanajst tisoč konjenikov — natanek krajave vojaške sile"
+    }
+  ],
+  "translation": "In Šelomo je zbral vozove in konjenike, in bilo ⟨je⟩ mu tisoč in štiristo vozov ter dvanajst tisoč konjenikov; in nastanil jih je v mestih vozov in pri kralju v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/13-16.1792438406882.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "je zbral"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vozove"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "in konjenike"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "in bilo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "in štiristo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(sto)"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vozov"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "in dvanajst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tisoč)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "konjenikov"
+    },
+    {
+      "surface": "ויניחם",
+      "gloss": "jih je nastanil"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "v mestih"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vozov"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "in pri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:33:26.883366086Z",
+  "model": "glm-5.3"
+}

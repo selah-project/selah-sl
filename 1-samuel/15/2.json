@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדתי",
+      "rationale": "»obiskal\/seznil sem« proti »spomnil sem se« ali »kaznoval sem« — פקד nosi vse tri pomenove hkrati."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nastavil mu",
+      "rationale": "doslovno »postavil zanj« — zaseda na poti; doslovna podoba je ohranjena."
+    }
+  ],
+  "translation": "Tako govori Jahve Cebaot: Obiskal sem ⟨את⟩ tisto, kar je storil Amalek Jisraelu, kar mu je nastavil na poti, ko je šel navzgor iz Micrajima.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/15\/1-4.1792427792687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "obiskal sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tisto, kar je storil Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "je nastavil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na poti"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "ko je šel navzgor"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    }
+  ],
+  "timestamp": "2026-10-19T16:36:32.687916201Z",
+  "model": "glm-5.3"
+}

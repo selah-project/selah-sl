@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשו \/ יחסרו",
+      "rationale": "Korena רושׁ (obubožati) in חסר (pogrešati) postavita revščino levov nasproti popolnosti iskalcev."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladi levi",
+      "rationale": "כפיר je mladi lev; predstava moči, ki vendar trpi pomanjkanje."
+    }
+  ],
+  "translation": "Mladi levi so obubožali in lačnijo, a tisti, ki iščejo Jahveja, ne pogrešijo nobenega dobrega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/34\/9-12.1792434740974.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "mladi levi"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "so obubožali"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "in lačnijo"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "a tisti, ki iščejo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "pogrešijo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nobenega"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrega"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:20.975910698Z",
+  "model": "glm-5.3"
+}

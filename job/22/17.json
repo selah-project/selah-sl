@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 22:17",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elu",
+      "rationale": "hudobneži nagovarjajo Ela z imperativom 'Odmakni se od nas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zanje",
+      "rationale": "למו je aramizirana oblika 'njim\/zanje'; kontekst v18 kaže na 'njih' (hudobneže), ne na govoreče."
+    }
+  ],
+  "translation": "ki so rekli Elu: Odmakni se od nas! Kaj pa more Šadaj storiti zanje?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/17-20.1792436519590.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ki so rekli"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Odmakni se"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nas"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kaj pa"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "more storiti"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadaj"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zanje"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:59.591505498Z",
+  "model": "glm-5.3"
+}

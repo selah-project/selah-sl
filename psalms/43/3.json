@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prebivališčem",
+      "rationale": "משכנותיך je miškan, 'šotorji\/prebivališča', ne 'tabernakelj' v ceremonialnem pomenu"
+    }
+  ],
+  "translation": "Pošlji svojo svetlobo in svojo resnico, ona naj me vodita, pripeljeta me na svojo sveto goro in k svojim prebivališčem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "76ed493a245be0d3b3b96189edcd4596412a92b2bb79db988e3d14693974f8a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/43\/3-4.1792439040535.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Pošlji"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "svojo svetlobo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "in svojo resnico"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "naj me vodita"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "pripeljeta me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svojo sveto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in k"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "svojim prebivališčem"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:00.536129456Z",
+  "model": "glm-5.3"
+}

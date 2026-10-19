@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (pred Joábom)",
+      "rationale": "Tukaj je את predlog 'z' in ne označevalnik predmeta; v slovenščini potrebuje 'z', zato ⟨את⟩ nosi 'z Joábom'."
+    }
+  ],
+  "translation": "In možje mesta so šli ven in so se bojevali ⟨את⟩ Joábom; in padel je iz ljudstva, izmed Davidovih služabnikov, in umrl je tudi Urija Hetit.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "01f9f21ef46f01b11b1e3e1788231c07640dcbabf0c97afa04d493cc9ccd5f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/11\/17-20.1792428377721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "so šli ven"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "možje"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesta"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "so se bojevali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "z Joábom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joábom"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "in padel je"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstva"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "izmed služabnikov"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovih"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "in umrl je"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetit"
+    }
+  ],
+  "timestamp": "2026-10-19T16:46:17.721943878Z",
+  "model": "glm-5.3"
+}

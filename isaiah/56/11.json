@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je grlo\/dih\/poželenje — 'močni-nefeš' pomeni 'surovo požrešni', ne 'močni duhom'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקצהו",
+      "rationale": "'s svojega konca \/ iz svojega kotička' — KJV 'from his quarter', JPS 'one and all'; dvoumen izvor."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenski glagol biti dodan pri nominalnih stavkih."
+    }
+  ],
+  "translation": "In psi ⟨so⟩ močni-nefeš, ne poznajo sitosti; pastirji ⟨so⟩, ki ne znajo razumeti; vsi so se obrnili na svojo pot, vsak za svoj dobiček, s svojega konca.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/56\/9-12.1792430799305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "in psi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "močni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "poznajo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sitosti"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pastirji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znajo"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "razumeti"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "na svojo pot"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "so se obrnili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "za svoj dobiček"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "s svojega konca"
+    }
+  ],
+  "timestamp": "2026-10-19T17:26:39.306417056Z",
+  "model": "glm-5.3"
+}

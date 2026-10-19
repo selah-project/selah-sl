@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 34:11",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sam⟩",
+      "rationale": "podvojeni 'jaz jaz' — הנני + אני; slovenščina drugi 'jaz' izrazi z 'sam'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pregledal",
+      "rationale": "בקר pomeni obiskati\/pregledati (kot pastir čredo), ne le 'poiskati'"
+    }
+  ],
+  "translation": "Kajti tako govori Adonaj Jahve: Glede, jaz ⟨sam⟩, in zahteval bom ⟨את⟩ svojo drobnico in jih pregledal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "255dda2b567d391e8099640cf67001a99c45b9bee5d43e3c0a2058449c236c43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/34\/9-12.1792433474591.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "glede, jaz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨sam⟩"
+    },
+    {
+      "surface": "ודרשתי",
+      "gloss": "in zahteval bom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojo drobnico"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "svojo drobnico"
+    },
+    {
+      "surface": "ובקרתים",
+      "gloss": "in jih pregledal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:14.593502645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "יש pomeni 'obstaja'; slovenščina potrebuje glagol 'je'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahveju",
+      "rationale": "Začetek resne (brez odgovora) — Davidova prisežna obramba pred Jahvejem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זֹאת \/ עֶוֶל",
+      "rationale": "Paralelni 'če … če …' tvori dvojni vzporedni stavek prisege."
+    }
+  ],
+  "translation": "Jahve, moj Elohim, če sem to storil, če ⟨je⟩ krivica na mojih dlaneh,",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/7\/1-4.1792434534994.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "moj Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sem to storil"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "krivica"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "na mojih dlaneh"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:54.996676152Z",
+  "model": "glm-5.3"
+}

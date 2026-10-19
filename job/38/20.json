@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 38:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "doma",
+      "rationale": "ביתו dobesedno 'njena hiša'; prevod 'dom' je naravnejši, oblika se ohrani v glosi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "steze do njenega doma",
+      "rationale": "se nadaljuje iz 38,19: poti svetlobe in teme so skrite, samo Bog jih pozna"
+    }
+  ],
+  "translation": "Da bi jo odpeljal do njenih meja in da bi razumel steze do njenega doma?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/38\/17-20.1792436731493.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "bi jo odpeljal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "njenih meja"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "in da"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "bi razumel"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "steze"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "njenega doma"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:31.495141117Z",
+  "model": "glm-5.3"
+}

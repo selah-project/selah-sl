@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשל",
+      "rationale": "tamariska proti 'drevesu\/gaju' (Wycliffe: wode); rodovnik Saulovega groba — 1 Sam 22,6 omenja tamarisko v Gibei."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sedem dni",
+      "rationale": "post je štet v dnevih — sedem, sveto polno število."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jih",
+      "rationale": "hebrejščina ne ponovi osebkovega zaimka pri ויקברו; dodano v slovenščini."
+    }
+  ],
+  "translation": "In vzeli so ⟨את⟩ njihove kosti in jih pokopali pod tamarisko v Jabešu, pa postili sedem dni.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a5f23c64a8255291404bfd9ba6c5a910966c8b10228a6b9b042369584ca13c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/31\/13-13.1792428136476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "In vzeli so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njihove kosti"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "njihove kosti"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "in pokopali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarisko"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "v Jabešu"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "pa postili"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    }
+  ],
+  "timestamp": "2026-10-19T16:42:16.476831391Z",
+  "model": "glm-5.3"
+}

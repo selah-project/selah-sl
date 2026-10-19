@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 34:2",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tisto, kar je⟩",
+      "rationale": "Hebrejščina ima samo הישר 'pravo'; slovenščina potrebuje zvezo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pravo v očeh Jahveja",
+      "rationale": "hebrejski zvezi 'pravo v očeh GOSPODA' ustrezen dobesedni poskus"
+    }
+  ],
+  "translation": "In delal je ⟨tisto, kar je⟩ pravo v očeh Jahveja, hodil je po poteh Davida, svojega očeta, in ni skrenil ne na desno ne na levo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0f7e2f62c0d5842dc5c51ad6b2a93c295941298fde5365a48fa9b5ca1edbe9bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/34\/1-4.1792438877262.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in delal je"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "hodil je"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "po poteh"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svojega očeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "skrenil"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "na desno"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ne na levo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:17.265365233Z",
+  "model": "glm-5.3"
+}

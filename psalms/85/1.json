@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zvodniku",
+      "rationale": "lamenaṣeaḥ je naslov z glasbeno vlogo vodje, ne dobesedni 'bleščeči se od daleč'."
+    }
+  ],
+  "translation": "Zvodniku, sinovom Koraha, psalm.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/85\/1-4.1792435169583.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zvodniku"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinovom"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:29.584513280Z",
+  "model": "glm-5.3"
+}

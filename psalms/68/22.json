@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrejščina ima particip s prihodnjim pomenom brez pomožnega glagola."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש\/קדקד",
+      "rationale": "glava\/temen — poigravanje z deloma glave, v slovenščini delno ohranjeno."
+    }
+  ],
+  "translation": "Zagotovo Elohim ⟨bo⟩ razbil glavo svojih sovražnikov, lasat temen tistega, ki hodi v svojih krivdah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/21-24.1792434997509.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "zagotovo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "bo razbil"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "glavo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "svojih sovražnikov"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "temen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lasat"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ki hodi"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "v svojih krivdah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:37.511137193Z",
+  "model": "glm-5.3"
+}

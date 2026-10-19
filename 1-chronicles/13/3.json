@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "»in prinesimo«",
+      "rationale": "prošnja, kohezivna z v. 2 — David vabi ljudstvo k dejanju."
+    },
+    {
+      "kind": "crux",
+      "subject": "דרשנהו",
+      "rationale": "»nismo jo izpraševali« (skrinjo) ali »nismo njega izpraševali« (Elohima) — hebrejščina dovoljuje oboje."
+    }
+  ],
+  "translation": "in prinesimo k sebi ⟨את⟩ skrinjo Elohim našega, kajti nismo jo izpraševali v dneh Šaula.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/13\/1-4.1792438205228.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "in-prinesimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrinjo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrinjo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-našega"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "k-sebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "smo-jo-izpraševali"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v-dneh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    }
+  ],
+  "timestamp": "2026-10-19T19:30:05.233528307Z",
+  "model": "glm-5.3"
+}

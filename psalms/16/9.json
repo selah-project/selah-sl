@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "moja slava",
+      "rationale": "כבודי: 'moja slava' (KJV\/JPS) proti 'moj jezik' (Geneva\/BSB, prim. 1 Mz 49,21) proti 'moj sijaj'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vzkipi",
+      "rationale": "ויגל pomeni dobesedno 'vrteti se\/zavrteti se' pod močnim čustvom, ne le 'veseliti se'"
+    }
+  ],
+  "translation": "Zato ⟨je⟩ veselo moje srce in vzkipi moja slava, tudi moje meso prebiva v varnosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/16\/9-11.1792434564671.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "veselo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moje srce"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "in vzkipi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moja slava"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "moje meso"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "prebiva"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v varnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:29:24.678809706Z",
+  "model": "glm-5.3"
+}

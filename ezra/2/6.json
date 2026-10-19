@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dva",
+      "rationale": "אלפים je samostalnik 'tisočev', slovenščina zahteva števnika 'dva tisoč'."
+    },
+    {
+      "kind": "crux",
+      "subject": "פחת מואאב",
+      "rationale": "Ali je osebno ime Pahat-Moab ali 'vodja Moaba'; prevajalci ga večinoma obravnavajo kot eno ime."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Štetje družin vrnjenih iz pregnanstva."
+    }
+  ],
+  "translation": "Sinovi Pahat-Moabovi, sinov Ješue in Joaba: dva tisoč osemsto dvanajst.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "37cd2e573e23a28e72b4bc193a836942b599cb26a4b608ddc299c345aca1ac41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/2\/5-8.1792437588183.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pahat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Ješue"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "in Joaba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dva tisoč"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dvanajst"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanajst"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:48.183814414Z",
+  "model": "glm-5.3"
+}

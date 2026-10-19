@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 26:54",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨številu⟩",
+      "rationale": " לפי פקדיו dobesedno 'po njegovih obiskih\/prešetih'; slovenščina potrebuje 'število' za glagol 'po'."
+    },
+    {
+      "kind": "elision",
+      "subject": "jo",
+      "rationale": "Drugi נחלתו je zaimensko skrčen, ker bi ponovitev 'njegovo dediščino' v slovenščini štela za napako."
+    },
+    {
+      "kind": "measurement",
+      "subject": "prešeti",
+      "rationale": "פקוד je številski popis; dedna deleža sta odmerjena po prešetih osebah."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרב תרבה ... למעט תמעיט",
+      "rationale": "Hebrejska paronomazija: rab\/tarbe in ma'at\/tam'it — koren se ponovi v glagolu; slovenščina jo zgubi."
+    }
+  ],
+  "translation": "Mnogemu povečaj njegovo dediščino, malemu pa jo zmanjšaj; vsakemu po ⟨številu⟩ njegovih prešetih naj se da njegova dediščina.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "c29c42420bbee179a834c21e85299ab5f508dc0b93f14ce3b4b0bb623421972e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/26\/53-56.1792425359715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרב",
+      "gloss": "mnogemu"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "povečaj"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "njegovo dediščino"
+    },
+    {
+      "surface": "ולמעט",
+      "gloss": "malemu pa"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "zmanjšaj"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsakemu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "po"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "⟨številu⟩ njegovih prešetih"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "naj se da"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "njegova dediščina"
+    }
+  ],
+  "timestamp": "2026-10-19T15:55:59.716920652Z",
+  "model": "glm-5.3"
+}

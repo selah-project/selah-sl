@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זה\/עצמם",
+      "rationale": "slovenščina potrebuje povratni ⟨se⟩ pri 'zalezimo\/skrijemo', hebrejščina ga ne izraža."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נצפנה לנקי",
+      "rationale": "צפן dobesedno 'skriti\/prikriti (s pokrivanjem)', tu zalezovanje nedolžnega."
+    }
+  ],
+  "translation": "Če rečejo: »Pojdi ⟨את⟩ z nami, zalezimo ⟨se⟩ za kri, skrijemo ⟨se⟩ za nedolžnega brez vzroka —",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/1\/9-12.1792435766841.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Če"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "rečejo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Pojdi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ z nami",
+      "marks": "za teboj (klic hodi z nami)"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "zalezimo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "za kri"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "skrijemo se"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "za nedolžnega"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "brez vzroka"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:26.843186360Z",
+  "model": "glm-5.3"
+}

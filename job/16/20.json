@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 16:20",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מליצי",
+      "rationale": "iz מליץ: 'posmehovalci' (KJV\/ASV) proti 'tolmač' (YLT — moj tolmač je moj prijatelj) proti 'posredniki' (JPS); izbral sem posmehovalce po kontekstu 16,20 in 12,4"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩",
+      "rationale": "veznik, ki ga hebrejščina izpušča"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל \/ אלוה",
+      "rationale": "dve besedi z istim zvokom zapored — 'k Eloahu' — v slovenščini delno ohranjeno"
+    }
+  ],
+  "translation": "Moji posmehovalci ⟨so⟩ moji prijatelji, moje oko kaplja k Eloahu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dec02a82d0e9b8e9a3a8401e5f3db1ceb25f5ab05b84426a587ec3daee6cf823",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/16\/17-20.1792436433479.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מליצי",
+      "gloss": "Moji posmehovalci"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "moji prijatelji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahu"
+    },
+    {
+      "surface": "דלפה",
+      "gloss": "kaplja"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:33.481757154Z",
+  "model": "glm-5.3"
+}

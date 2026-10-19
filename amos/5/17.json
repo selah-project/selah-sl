@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "amos 5:17",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina nima glagola biti; nominalni stavek מספד"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אעבר בקרבך",
+      "rationale": "jezik prehodnice spominja na pashe (2 Mz 12,12), Jahve kot sodnik ki gre skozi sredi"
+    }
+  ],
+  "translation": "In v vseh vinogradih ⟨bo⟩ žalovanje, kajti jaz preidem sredi tebe, govori Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1a9b1b2a4069811705000e4c8194f693f3e310dce5f78e7dbcc9f58135d53fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/17-20.1792433980269.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "in v vseh"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vinogradih"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "žalovanje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "jaz preidem"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sredi tebe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:40.270359029Z",
+  "model": "glm-5.3"
+}

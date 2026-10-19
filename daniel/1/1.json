@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tretje leto vladavine Jehojakima",
+      "rationale": " datumiranje po letih vladavine, del okvira datiranja v knjigi."
+    },
+    {
+      "kind": "crux",
+      "subject": "tretje leto",
+      "rationale": " Daniel pravi tretje leto Jehojakima, Jeremija 25,1 pravi četrto — znana kronološka napetost."
+    },
+    {
+      "kind": "addition",
+      "subject": "je (v je oblegal)",
+      "rationale": " slovenščina zahteva pomožni glagol pri preteritu, hebrejščina ga v wayyiqtol nima."
+    }
+  ],
+  "translation": "V tretjem letu vladavine Jehojakima, kralja Jehude, je prišel Nebukadnecar, kralj Bavela, v Jerušalajim in ga je oblegal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a2edc38c8fb220bf83474c8b9c2f85fdff5255baf237d5aaed9956f61002fc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/1\/1-4.1792437371047.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "V letu"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tretjem"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "vladavine"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehude"
+    },
+    {
+      "surface": "בא",
+      "gloss": "je prišel"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavela"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jerušalajim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "in je oblegal"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-10-19T19:16:11.048663668Z",
+  "model": "glm-5.3"
+}

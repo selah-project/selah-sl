@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "naj bo",
+      "rationale": "Hebrejski pasivni particip potrebuje slovensko pomožnik glagol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "Podvajanje 'amen in amen' — slovaška retorična potrditev, ohranjena dobesedno."
+    }
+  ],
+  "translation": "Blagoslovljen naj bo Jahve do večnosti. Amen in amen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ab2d7a11e0b03a4cb86247a80d0c7ed23c25899170d2a18e8d48b3baa59d53d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/89\/53-53.1792435231040.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blagoslovljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "do večnosti"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "in amen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:40:31.042227182Z",
+  "model": "glm-5.3"
+}

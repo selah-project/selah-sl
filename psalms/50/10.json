@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina brez kopule; slovenščina zahteva"
+    },
+    {
+      "kind": "crux",
+      "subject": "tisočerih",
+      "rationale": "הררי אלף: 'gorah tisočerih' (KJV\/JPS) proti 'gorah gozdnih volov' (elef = vol, YLT); 'tisoč gričev' je likovni izraz za nešteto množino"
+    }
+  ],
+  "translation": "kajti moja je vsa gozdna žival, živina na gorah tisočerih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/50\/9-12.1792434863592.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moja ⟨je⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "žival"
+    },
+    {
+      "surface": "יער",
+      "gloss": "gozdna"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "živina"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "na gorah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisočerih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:23.594115245Z",
+  "model": "glm-5.3"
+}

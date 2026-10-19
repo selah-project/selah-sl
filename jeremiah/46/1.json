@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "To je",
+      "rationale": "slovenščina zahteva uvodni veznik; hebrejščina ima samo אשר"
+    },
+    {
+      "kind": "crux",
+      "subject": "על הגוים",
+      "rationale": "'o\/zoper narode': naslov zbirke prerokb proti tujim narodom (Jer 46–51)"
+    }
+  ],
+  "translation": "To je beseda Jahveja, ki je bila preroku Jeremiju o narodih:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9900ea6f24c1282b00fc05f8953f907338f9778a64c9224494c1b292782394ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/46\/1-4.1792431843988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiju"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "preroku"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodih"
+    }
+  ],
+  "timestamp": "2026-10-19T17:44:03.988417910Z",
+  "model": "glm-5.3"
+}

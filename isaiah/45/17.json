@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola biti; besedilo je deklaracija, ne opis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ponižani",
+      "rationale": "תכלמו dobesedno 'biti ranjen z žalitvijo', slovenščina 'ponižan'"
+    },
+    {
+      "kind": "you",
+      "subject": "do Jisraela",
+      "rationale": "Naslovnik se obrne na Jisrael v drugi osebi množine"
+    }
+  ],
+  "translation": "Jisrael je rešen v Jahveju, rešitev večnih časov; ne boste se sramovali in ne boste ponižani do večnosti ⟨večnosti⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "14b14985e7217244347027751991e16b06f2ef0b41cfb5c9311d74c8bec6e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/45\/17-20.1792430726374.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "je rešen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahveju"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "rešitev"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "večnih časov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "boste se sramovali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "boste ponižani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "večnosti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "večnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:25:26.374810448Z",
+  "model": "glm-5.3"
+}

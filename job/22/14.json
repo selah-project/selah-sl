@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 22:14",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨so⟩ · ⟨on⟩",
+      "rationale": "Hebrew nominal clause without copula; noun expected in Slovenian."
+    },
+    {
+      "kind": "crux",
+      "subject": "ne vidi",
+      "rationale": "Komu ne vidi — sebi (je skrit) ali ljudem (ne vidi nas)? KJV\/BSB divergata."
+    }
+  ],
+  "translation": "Gosti oblaki ⟨so⟩ mu zakritje in ⟨on⟩ ne vidi, po krogu nebes hodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "86dccf118c83c41272bcbf1b5343d5562fad80354b6f591c88a0104a6f7866d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/13-16.1792436526890.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבים",
+      "gloss": "Gosti oblaki"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "zakritje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidi"
+    },
+    {
+      "surface": "וחוג",
+      "gloss": "po krogu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "hodi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:06.892339365Z",
+  "model": "glm-5.3"
+}

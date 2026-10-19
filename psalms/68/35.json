@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Pripisujte moč",
+      "rationale": "imperativ, nagovor skupnosti."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga v tem stavku nima."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oblaki",
+      "rationale": "שחקים je dobesedno »prah, tanek parenjek«, preneseno oblaki\/nebesa."
+    }
+  ],
+  "translation": "Pripisujte moč Elohimu; nad Jisraelom ⟨je⟩ njegova veličastnost in njegova moč v oblakih.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/33-36.1792435008449.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Pripisujte"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moč"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelom"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "njegova veličastnost"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "in njegova moč"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "v oblakih"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:48.452151987Z",
+  "model": "glm-5.3"
+}

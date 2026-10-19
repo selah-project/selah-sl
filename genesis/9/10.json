@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "živo bitje",
+      "rationale": "נפש החיה je dobesedno 'nefeš živa' — dihajoče bitje, ne 'duša'"
+    },
+    {
+      "kind": "addition",
+      "subject": "so šli",
+      "rationale": "slovenski glagol potrebuje pomožnik, hebrejščina ima samo deležnik יצאי"
+    }
+  ],
+  "translation": "In ⟨את⟩ z vsemi živimi bitji, ki so ⟨את⟩ z vami: s pticami, z živino in z vsemi zvermi zemlje, ki so ⟨את⟩ z vami; iz vseh, ki so šli iz skrinje, do vseh zveri zemlje.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/9\/9-12.1792422041342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "z vsemi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bitji"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z vami"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "s pticami"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "z živino"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "in z vsemi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvermi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ z vami"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iz vseh"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ki so šli iz"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "skrinje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "do vseh"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zveri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T15:00:41.343298194Z",
+  "model": "glm-5.3"
+}

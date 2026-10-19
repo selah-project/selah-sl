@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima vezika; pridevnika stojita pred Imenom."
+    },
+    {
+      "kind": "idiom",
+      "subject": "počasen v jezi",
+      "rationale": "ארך אפים dobesedno 'dolgih nosnic', tj. počasen do izbruha jeze (iz nosnic)."
+    }
+  ],
+  "translation": "Milostljiv in usmiljen je Jahve, počasen v jezi in velik v hesedu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/145\/5-8.1792435698380.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "milostljiv"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "in usmiljen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "počasen"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "v jezi"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "in velik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "v hesedu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:18.381534628Z",
+  "model": "glm-5.3"
+}

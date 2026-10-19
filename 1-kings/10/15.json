@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tistega, kar so prinesli⟩",
+      "rationale": "Hebrejščina navaja le vire, slovenščina potrebuje samostalniško dopolnilo."
+    },
+    {
+      "kind": "crux",
+      "subject": "התרים",
+      "rationale": "Redka beseda: 'popotni trgovci\/vodniki' (KJV 'merchantmen', jps 'traders', ylt 'tourists')."
+    },
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "KJV in geneva 'Arabije'; jps in asv 'mešanega ljudstva' (ערב II mešati)."
+    }
+  ],
+  "translation": "poleg ⟨tistega, kar so prinesli⟩ potujoči trgovci in prometa trgovcev ter vseh kraljev Arabije in deželnih namestnikov dežele.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/10\/13-16.1792428955931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "poleg"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "od-ljudi"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "potujočih-trgovcev"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "in-prometa"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "trgovcev"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in-vseh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arabije"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "in-namestnikov"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    }
+  ],
+  "timestamp": "2026-10-19T16:55:55.932662324Z",
+  "model": "glm-5.3"
+}

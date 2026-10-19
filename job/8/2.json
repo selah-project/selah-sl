@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח pomeni veter\/dih\/duh — slovensko puščeno kot ruah."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨te⟩ · ⟨so⟩",
+      "rationale": "Slovenščina potrebuje oziralni pridevnik in glagol biti, hebrejščina ju nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אן … ורוח",
+      "rationale": "Bilhadove besede so »velik veter« — slika je v hebrejščini lahko besedna igra z močnim dihom."
+    }
+  ],
+  "translation": "Doklej boš govoril ⟨te⟩ stvari? Ruah velika ⟨so⟩ besede tvojih ust.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "fafd15e4a70a24007137c865d5725f65764c8a9d7f7cdb57b19058387b9c1a59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/1-4.1792436340330.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Doklej"
+    },
+    {
+      "surface": "אן",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "boš govoril"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "stvari"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "velika"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvojih ust"
+    }
+  ],
+  "timestamp": "2026-10-19T18:59:00.352282487Z",
+  "model": "glm-5.3"
+}

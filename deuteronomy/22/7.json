@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלח",
+      "rationale": "Infinitivni absolut: 'pošlji boš poslal' — slovenščina ponovitev glagola ohrani, a vzporedje z 22,6–7 izgubi deloma"
+    },
+    {
+      "kind": "you",
+      "subject": "do Izraela",
+      "rationale": "Vezan ukaz v drugi osebi z obljuno dolgih dni"
+    }
+  ],
+  "translation": "Pošlji proč boš poslal ⟨את⟩ mater, ⟨את⟩ mladiče pa vzemi sebi, da se bo ⟨ti⟩ dobro godilo in da boš podaljšal dneve.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/22\/5-8.1792426112402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "pošlji"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "boš poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mater"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mater"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mladiče"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mladiče"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vzemi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "bo dobro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "in boš podaljšal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dneve"
+    }
+  ],
+  "timestamp": "2026-10-19T16:08:32.403925884Z",
+  "model": "glm-5.3"
+}

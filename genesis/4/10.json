@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Hebrew verb lacks explicit subject; supplied pronoun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמי",
+      "rationale": "plural 'bloods' of Hebrew rendered as singular 'krvi'; the plural intensity lost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמי\/אדמה",
+      "rationale": "blood (dam) and ground (adamah) sound-linked, echoing Adam\/adamah of Gen 3"
+    }
+  ],
+  "translation": "In ⟨on⟩ je rekel: Kaj si storil? Glas krvi svojega brata tvoje kriči ⟨h k meni⟩ iz prsti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/4\/9-12.1792421976789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In ⟨on⟩ je rekel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kaj"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "si storil"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Glas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krvi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvojega brata"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "kriči"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "prsti"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:36.790370048Z",
+  "model": "glm-5.3"
+}

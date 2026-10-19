@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "תפרעו (do-loosen\/dismiss) potrebuje predmet v slovenščini; hebrejščina ga izpušča"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תפרעו",
+      "rationale": "dobesedno 'razvežite\/odpustite', tu 'odvrzite, ne upoštevajte'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "poslušajte",
+      "rationale": "imperativ, modrost nagovarja otroke"
+    }
+  ],
+  "translation": "Poslušajte pouk in postanite modri, in ne zavržite ⟨ga⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8cc56c21299aba6ea5c86e45f113c42bf0fce5c2d6d534b0979a02b4ae1051a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/8\/33-36.1792435872483.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Poslušajte"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pouk"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "in postanite modri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "zavržite ⟨ga⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:12.484306099Z",
+  "model": "glm-5.3"
+}

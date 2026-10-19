@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרא\/שמע ... יקראו\/אשמע",
+      "rationale": "Natančni povratni klic in poslušanje: klical-je-in-niso-poslušali \/ klicali-bodo-in-ne-poslušam — zrcalna struktura (mere reciprocity) je v slovenščini ohranjena."
+    },
+    {
+      "kind": "crux",
+      "subject": "tense יקראו",
+      "rationale": "Dovojevalnik: 'bodo klicali' (prihodnost) ali 'so klicali' ( že izpolnjeno, kot KJV\/Geneva); hebrejščina pušča odprto."
+    }
+  ],
+  "translation": "In zgodilo se je: kakor je klical in niso poslušali, tako bodo klicali in jaz ne bom poslušal, govori Jahve Cebaot.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2004d58ef8dcebf1e2c667b8d9c16d62efcbe2b3fa2a57faff758f44ad704c89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/7\/13-14.1792434358106.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In zgodilo se je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "je klical"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslušali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bodo klicali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "poslušam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaot"
+    }
+  ],
+  "timestamp": "2026-10-19T18:25:58.106721961Z",
+  "model": "glm-5.3"
+}

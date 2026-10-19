@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jim",
+      "rationale": "hebrejščina ima samo končnico -ם na הראם; slovenščina potrebuje ločeno besedo"
+    }
+  ],
+  "translation": "In pozabili so njegova dejanja in njegova čudeža, ki jim jih je pokazal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/9-12.1792435116831.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "in pozabili so"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "njegova dejanja"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "in njegova čudeža"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "jim je pokazal"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:36.832932764Z",
+  "model": "glm-5.3"
+}

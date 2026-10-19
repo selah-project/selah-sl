@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "nominal clause lacks copula; ⟨je⟩ supplied"
+    },
+    {
+      "kind": "idiom",
+      "subject": "v tvojih očeh",
+      "rationale": "בעיניך 'v tvojih očeh' = po tvoji presoji; dobesedna slika je v slovenščini razumljiva in ohranjena"
+    },
+    {
+      "kind": "invitation",
+      "subject": "k Avrahamu",
+      "rationale": "Avimelek ponuja deželo in vabi k bivanju"
+    }
+  ],
+  "translation": "In Avimelek je rekel: Glej, moja dežela ⟨je⟩ pred teboj; kjer je dobro v tvojih očeh, tam prebivaj.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "d2bfbef305f24d5223c52fe1962bfd7d96fc636e402fd9f37690f3df2276bd86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/20\/13-16.1792422365693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "moja dežela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred teboj"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kjer je dobro"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvojih očeh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "prebivaj"
+    }
+  ],
+  "timestamp": "2026-10-19T15:06:05.694694243Z",
+  "model": "glm-5.3"
+}

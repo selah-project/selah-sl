@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 2:24",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש je tu gon, apetit, ne 'duša' v metafizičnem pomenu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח",
+      "rationale": "ruah je hkrati 'veter' in 'dih' — divja oslica, ki vdihuje veter\/vošnjo, dvojni pomen ostaja v ruah."
+    },
+    {
+      "kind": "crux",
+      "subject": "בחדשה",
+      "rationale": "'v njenem mesecu' (plodnostni cikel) proti 'ob novem mesecu' — večina bere prvo."
+    }
+  ],
+  "translation": "Divja oslica, vajena puščave, v hlevenju svoje nefeš vdihuje ruah; kdo jo bo odvrnil, ko je njena ura? Vsi, ki jo iščejo, se ne bodo utrudili; v njenem mesecu jo bodo našli.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "440e59ee2228ace7507f4adc8a673b126201453ae0770f26d187b162345cec85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/21-24.1792430992644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרה",
+      "gloss": "divja-oslica"
+    },
+    {
+      "surface": "למד",
+      "gloss": "vajena"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "puščave"
+    },
+    {
+      "surface": "באות",
+      "gloss": "v-hlevenju"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svoje-nefeš"
+    },
+    {
+      "surface": "שאפה",
+      "gloss": "vdihuje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "תאנתה",
+      "gloss": "njena-ura"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "jo-bo-odvrnil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "מבקשיה",
+      "gloss": "ki-jo-iščejo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "se-bodo-utrudili"
+    },
+    {
+      "surface": "בחדשה",
+      "gloss": "v-njenem-mesecu"
+    },
+    {
+      "surface": "ימצאונה",
+      "gloss": "jo-bodo- našli"
+    }
+  ],
+  "timestamp": "2026-10-19T17:29:52.645646441Z",
+  "model": "glm-5.3"
+}

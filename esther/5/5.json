@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Hebrew uporablja ednino ויבא tudi za dva udeleženca; slovenščina potrebuje dvojino"
+    }
+  ],
+  "translation": "In kralj je rekel: Pohitite ⟨את⟩ Hamana, da se stori ⟨את⟩ beseda Estere. In prišla sta kralj in Haman k gostiji, ki jo je pripravila Ester.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/5\/5-8.1792437241875.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "pohitite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da se stori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besedo Estere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in sta prišla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "in Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "gostiji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "je pripravila"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:01.876903811Z",
+  "model": "glm-5.3"
+}

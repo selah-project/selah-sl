@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 39:3",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bolečine",
+      "rationale": "חבל pomeni tudi 'vrv, popkovina': 'odpošljejo svoje vrvi\/popkovine' proti 'porodne bolečine'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mladiče prerežejo",
+      "rationale": "פלח je dobesedno 'prerezati, preluknjati'; slikovit opis poroda."
+    }
+  ],
+  "translation": "Skleknijo se, svoje mladiče prerežejo, svoje bolečine odpošljejo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a321f3634137e22c94c33122f0a5ecf85a123750f89956644234070a1d94b66a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/39\/1-4.1792436783494.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכרענה",
+      "gloss": "Skleknijo se"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "mladiče"
+    },
+    {
+      "surface": "תפלחנה",
+      "gloss": "prerežejo"
+    },
+    {
+      "surface": "חבליהם",
+      "gloss": "bolečine"
+    },
+    {
+      "surface": "תשלחנה",
+      "gloss": "odpošljejo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:23.494987481Z",
+  "model": "glm-5.3"
+}

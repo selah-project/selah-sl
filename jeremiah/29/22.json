@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 29:22",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Hebrejščina ima samo vayyiqtol 'in vzeta'; slovenski perfektpasiv potrebuje pomožnik."
+    },
+    {
+      "kind": "crux",
+      "subject": "קלם",
+      "rationale": "'speči\/žgati počasi' (dozoret iz poznavanja) — prevodi se razhajajo: 'spekel' (KJV) proti 'žgal'."
+    }
+  ],
+  "translation": "In vzeta bo od njih prekletstvo med vso izgnanstvom Jude, ki je v Babelu, govoreč: Naj te postavi Jahve kakor Sidkija in kakor Ahab, katere je ožgal kralj Babela v ognju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "43e53e4eba1ecc843a9c98285517bcf1b90e60a1cb108f9cf3573815d2c2074f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/21-24.1792431583083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "in vzeta bo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od njih"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "prekletstvo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "med vso"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "izgnanstvom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "v Babelu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "naj te postavi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקיהו",
+      "gloss": "kakor Sidkija"
+    },
+    {
+      "surface": "וכאחב",
+      "gloss": "in kakor Ahab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katere"
+    },
+    {
+      "surface": "קלם",
+      "gloss": "je ožgal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "v ognju"
+    }
+  ],
+  "timestamp": "2026-10-19T17:39:43.084205513Z",
+  "model": "glm-5.3"
+}

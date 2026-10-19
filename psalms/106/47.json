@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 106:47",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tvojem⟩",
+      "rationale": "slovenščina potrebuje dajalnik z zaznamovalnim pridevnikom; hebrejščina ima sam konstrukt 'šem kodšeka'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahveju",
+      "rationale": "neposreden prosilni nagovor Jahveja kot Elohim Izraela — skupnostna prošnja za rešitev iz pregnanstva."
+    },
+    {
+      "kind": "invitation",
+      "subject": "reši nas",
+      "rationale": "imperativni vzklik, ki vleče braleca v bogoslužno prošnjo."
+    }
+  ],
+  "translation": "Reši nas, Jahve, Elohim naš, in zberi nas izmed narodov, da zahvaljujemo ⟨tvojem⟩ svetemu imenu in da se hvalimo v tvoji hvali.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "046a726a44043c2cf761dfc6816ffc45424c1b3206ebb3cad9096d2be2620841",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/106\/46-47.1792439043050.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיענו",
+      "gloss": "reši nas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "in zberi nas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "izmed"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narodov"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "da zahvaljujemo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "imenu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svetemu"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "in da se hvalimo"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "v tvoji hvali"
+    }
+  ],
+  "timestamp": "2026-10-19T19:44:03.051318359Z",
+  "model": "glm-5.3"
+}

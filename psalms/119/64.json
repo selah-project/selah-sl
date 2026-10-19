@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨celo⟩",
+      "rationale": "Hebrejski člen ה- se v slovenščini ne zapiše; 'celo' je dodano za tekočnost."
+    },
+    {
+      "kind": "invitation",
+      "subject": "nauči me",
+      "rationale": "prošnja, usmerjena neposredno Jahveju — you-note: naslovnik Jahve."
+    }
+  ],
+  "translation": "Tvoj hesed, Jahve, napolnjuje ⟨celo⟩ zemljo; nauči me svojih zakonov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/61-64.1792435504819.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Tvoj hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "napolnjuje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨celo⟩ zemljo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svojih zakonov"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nauči me"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:04.820878507Z",
+  "model": "glm-5.3"
+}

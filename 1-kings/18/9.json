@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sem storil narobe",
+      "rationale": "חטא je dobesedno 'zgrešiti (cilj)', torej 'kaj sem zgrešil', da sem takšnega zaslužil"
+    },
+    {
+      "kind": "you",
+      "subject": "Obadija → Elija",
+      "rationale": "neposreden nagovor Elija z vprašanjem"
+    }
+  ],
+  "translation": "In rekel je: Kaj sem storil narobe, da izročaš ⟨את⟩ svojega sužnja v roko Ahavu, da me usmrti?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/18\/9-12.1792429172362.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sem storil narobe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "izročaš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojega sužnja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojega sužnja"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavu"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "da me usmrti"
+    }
+  ],
+  "timestamp": "2026-10-19T16:59:32.363042047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דברים…דברים",
+      "rationale": "ponovitev 'besede… besede' v dvojnem paru, dobro-tolažba, retorični dvojn­ik"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik za wayyiqtol"
+    }
+  ],
+  "translation": "In Jahve je odgovoril ⟨את⟩ angela, ki govori v meni, besede dobre, besede tolažbe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "32cc0405ad97c6ba5174b41c527738d84b0e81657eb18a26080b5262c3059c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/1\/13-16.1792434287768.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "in je odgovoril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "angela"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angela"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ki govori"
+    },
+    {
+      "surface": "בי",
+      "gloss": "v meni"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobre"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "tolažbe"
+    }
+  ],
+  "timestamp": "2026-10-19T18:24:47.769755399Z",
+  "model": "glm-5.3"
+}

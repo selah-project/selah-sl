@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "srebro",
+      "rationale": "כסף pomeni srebro in denar; 'srebro' ohranja dobesedno podobo"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשך",
+      "rationale": "dovoljeno jamstvo brez obresti pri rodnem Izraelu; razlage se razhajajo med vsako obrestjo in goljufivo obrestjo"
+    }
+  ],
+  "translation": "Če posodiš srebro ⟨את⟩ mojemu ljudstvu, ⟨את⟩ reveža, ki je s teboj, ne bodi mu kakor upnik; ne naložite nanj obresti.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/22\/21-24.1792423461600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "srebro"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "posodiš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mojemu ljudstvu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "moje ljudstvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reveža"
+    },
+    {
+      "surface": "העני",
+      "gloss": "revež"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s teboj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "kakor upnik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "naložite"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "obresti"
+    }
+  ],
+  "timestamp": "2026-10-19T15:24:21.601477160Z",
+  "model": "glm-5.3"
+}

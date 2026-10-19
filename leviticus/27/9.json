@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je \/ bo",
+      "rationale": "Hebrew nominal clause without copula; slovenščina requires it"
+    }
+  ],
+  "translation": "In če ⟨je⟩ živina, od katere prinašajo daritev Jahveju: vse, kar kdo da od nje Jahveju, ⟨bo⟩ sveto.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/27\/9-12.1792424662650.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "in če"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "živina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "od katere"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "prinašajo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od nje"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "daritev"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "da"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "je"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sveto"
+    }
+  ],
+  "timestamp": "2026-10-19T15:44:22.650623433Z",
+  "model": "glm-5.3"
+}

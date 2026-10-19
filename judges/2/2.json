@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 2:2",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תכרתו \/ תתצון",
+      "rationale": "oblika je lahko zapoved ('ne sklenite, porušite') ali preteklik ('niste sklenili, niste porušili'); KJV bere zapoved, kontekekst očitanja podpira preteklik"
+    },
+    {
+      "kind": "elision",
+      "subject": "brez osebkovega zaimka pri תתצון",
+      "rationale": "hebrejščina podrega glagol brez 'vi', slovenščina zahteva osebek"
+    }
+  ],
+  "translation": "In vi niste sklenili zaveze s prebivalci te dežele, njihovih oltarjev niste porušili, in mojega glasu niste poslušali — kaj ste to storili?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/2\/1-4.1792426963919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "in vi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרתו",
+      "gloss": "niste sklenili"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zaveze"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "s prebivalci"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dežele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "te"
+    },
+    {
+      "surface": "מזבחותיהם",
+      "gloss": "njihovih oltarjev"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "niste porušili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "niste poslušali"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "mojega glasu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ste storili"
+    }
+  ],
+  "timestamp": "2026-10-19T16:22:43.920740775Z",
+  "model": "glm-5.3"
+}

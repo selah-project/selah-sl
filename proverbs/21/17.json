@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש מחסור",
+      "rationale": "Dobesedno 'človek pomanjkanja' — to je zveza v stanju (construct): 'kdor je v pomanjkanju' oz. 'kdor ljubi veselje, bo v pomanjkanju'; prevodi razumejo napoved ('bo revež') ali opis ('reven človek')."
+    },
+    {
+      "kind": "alternative",
+      "subject": "איש מחסור",
+      "rationale": "Bolj tekoča možnost: 'Kdor ljubi veselje, je človek pomanjkanja' — 'איש מחסור' kot predikat."
+    }
+  ],
+  "translation": "Človek pomanjkanja ljubi veselje; kdor ljubi vino in olje, se ne bo obogatel.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/17-20.1792436039596.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "pomanjkanja"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselje"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kdor ljubi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "in olje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "bo obogatel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:59.597331205Z",
+  "model": "glm-5.3"
+}

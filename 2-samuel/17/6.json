@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 17:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožni glagol, hebrejščina ga pri perfektu nima."
+    },
+    {
+      "kind": "you",
+      "subject": "Hušaj",
+      "rationale": "Avšalom neposredno ogovarja Hušaja in zahteva njegov odgovor."
+    }
+  ],
+  "translation": "In Hušaj je prišel k Avšalomu, in Avšalom mu je rekel: Po takšno besedo je govoril Ahitofel — ali izvršimo ⟨את⟩ njegovo besedo? Če ne — ti govori.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/17\/5-8.1792428481196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "In prišel"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hušaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "govoreč"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "Po besedi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "takšni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofel"
+    },
+    {
+      "surface": "הנעשה",
+      "gloss": "ali izvršimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njegovo besedo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "njegovo besedo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "govori"
+    }
+  ],
+  "timestamp": "2026-10-19T16:48:01.197170641Z",
+  "model": "glm-5.3"
+}

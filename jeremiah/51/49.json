@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם \/ בבל…לבבל",
+      "rationale": "ponovljeni גם in oglini בבל brez in s predlogom delata zrcalno vzporedje, ki se v slovenščini deloma izgubi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חללי ישראל",
+      "rationale": "'prebodenci Jisraela': različice berejo 'Babilon je pripeljal do padca prebodence Jisraela' (kavzativno) proti 'Babilon mora pasti zaradi prebodencev Jisraela'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לְ",
+      "rationale": "predlog ל na לנפל in לבבל (usmerjenost 'za\/z v') nima čistega slovenskega ustreznika, dodan je ⟨zaradi⟩\/v"
+    }
+  ],
+  "translation": "Tudi Babilon mora pasti ⟨zaradi⟩ prebodencev Jisraela; tudi v Babilonu so padli prebodenci vse ⟨od⟩ zemlje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0a94a38529e73b73173e6e7bdf9031021ed52d245bcf874b7ee3bc290942204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/51\/49-52.1792432001335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "prebodencev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "v Babilonu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "so padli"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "prebodenci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlje"
+    }
+  ],
+  "timestamp": "2026-10-19T17:46:41.336484850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל תשחת",
+      "rationale": "»Ne uniči« — uvodne besede ljudske pesmi, ki ostanejo kot naslov."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "mihtam: »vpis\/nagroben spis« — pomen negotov; alternativi »zlato (zapis)« in »skriti zaklad«."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bedeli",
+      "rationale": "שמר je »varovali\/obredivali« — opazovanje hiše z namerom umora."
+    }
+  ],
+  "translation": "Zborovodji; ne uniči; Davidov mihtam, ko je Šaul poslal in so bedeli ⟨את⟩ hišo, da bi ga umorili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/1-4.1792434959338.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "zborovodji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "uniči"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidov"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mihtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ko je poslal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "in so bedeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hišo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "da bi ga umorili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:59.340131341Z",
+  "model": "glm-5.3"
+}

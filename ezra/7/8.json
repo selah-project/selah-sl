@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilo",
+      "rationale": "Slovenščina zahteva glagol; hebrejščina postavi samo poudarni 'ona je'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "peti mesec, sedmo leto",
+      "rationale": "Verz meri čas prihoda — peti mesec sedmega leta kralja."
+    }
+  ],
+  "translation": "In prišel je v Jerušalajim v petem mesecu; to ⟨bilo⟩ je sedmo leto kralja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bdae3b3f200ca3f23da91a5718519244ba6e8b3b31964457885a3354297c318b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/7\/5-8.1792437655430.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "in prišel je"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jerušalajim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v mesecu"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "petem"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "leto"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sedmo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kralja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:20:55.434785077Z",
+  "model": "glm-5.3"
+}

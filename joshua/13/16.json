@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 13:16",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "od",
+      "rationale": "hebrejščina z min pred mestom brez predloga; 'od' dodan za slovenski tip merjenja meje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "struga",
+      "rationale": "נחל je sezonski hudournik \/ ozka dolina; 'reka' (KJV) predolga, 'dolina' (JPS) izgublja vodo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "meja",
+      "rationale": "topografski opis ozemeljske meje plemena Rubena z začetno točko, mejami in končno pokrajino"
+    }
+  ],
+  "translation": "In ⟨bil⟩ jim je mej ⟨od⟩ Aroerja, ki je ob robu struge Arnona, in mesto, ki je sredi struge, in vse ravnico pri Medebi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a0b83912689df73f207309230a30b167c74d797f73c769b5d3c4240542816220",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/13\/14-16.1792433337746.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In ⟨bil⟩ je"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "meja"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "⟨od⟩ Aroerja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "robu"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "struge"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnona"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "in mesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sredi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "struge"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "in vse"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ravnica"
+    },
+    {
+      "surface": "על",
+      "gloss": "pri"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medebi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:57.748518296Z",
+  "model": "glm-5.3"
+}

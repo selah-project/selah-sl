@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "in ⟨את⟩ zvezde",
+      "rationale": "ואת הכוכבים stoji brez glagola: 'in zvezde' (JPS) ali 'naredil je tudi zvezde' (KJV) — aluzija, da so zvezde odvisne."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dve svetili",
+      "rationale": "שני — dvojica, štetje ostane: dve veliki svetili."
+    }
+  ],
+  "translation": "In Elohim je naredil ⟨את⟩ veliki svetili, ⟨את⟩ svetilo veliko za vladavino dneva in ⟨את⟩ svetilo malo za vladavino noči — ⟨in⟩ ⟨את⟩ zvezde.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/1\/13-16.1792421994695.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "in je naredil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veliki svetili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "svetili"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetilo veliko"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "svetilo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "za vladavino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dneva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "svetilo malo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "svetilo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "malo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "za vladavino"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noči"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "zvezde"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "zvezde"
+    }
+  ],
+  "timestamp": "2026-10-19T14:59:54.696673214Z",
+  "model": "glm-5.3"
+}

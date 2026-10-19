@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bilo",
+      "rationale": "Hebrejščina brez glagola biti: 'moje oblačilo raševina'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je bolj 'grlo \/ dih \/ življenjska moč' kot 'duša'."
+    },
+    {
+      "kind": "crux",
+      "subject": "molitev se vrača na naročje",
+      "rationale": "Ali je molitev neuslišana (vrača se prazna) ali uslišana (vrača se kot blagoslov); JPS bere kot željo: 'vrnila bi se'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ko so bili bolni",
+      "rationale": "בחלותם lahko tudi 'ko so bili ponižani', iz korena za šibkost."
+    }
+  ],
+  "translation": "Jaz pa — ko so bili bolni, ⟨je bilo⟩ moje oblačilo raševina; ponižal sem svojo dušo s postom, in moja molitev se vrača na moje naročje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/35\/13-16.1792434759700.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "jaz pa"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "ko so bili bolni"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "moje oblačilo"
+    },
+    {
+      "surface": "שק",
+      "gloss": "raševina"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ponižal sem"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "s postom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svojo dušo"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "in moja molitev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "moje naročje"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrača"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:39.701463270Z",
+  "model": "glm-5.3"
+}

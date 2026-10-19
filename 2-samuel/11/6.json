@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rekel je",
+      "rationale": "Hebrew has no 'saying' word; indirect order rendered with colon"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח ×3",
+      "rationale": "'Send' three times in one verse — David's command relayed; kept by repetition"
+    }
+  ],
+  "translation": "In David je poslal k Joábu: Pošli k meni ⟨את⟩ Urijo Hetita. In Joáb je poslal ⟨את⟩ Urijo k Davidu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "eba1b03985ef8df025a0eed8c63e495ca2393a4266fb4cc9c384e885ea0c38de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/11\/6-8.1792433309998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "In je poslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joábu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Pošli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k meni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijo Hetita"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "In je poslal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:08:29.999945975Z",
+  "model": "glm-5.3"
+}

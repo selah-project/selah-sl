@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 11:7",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nekdo⟩",
+      "rationale": "hebrejščina nima osebnega zaimka — deležnik 'iz poganika … bo stal' nosi svojega akterja implicitno."
+    },
+    {
+      "kind": "substitution",
+      "subject": "והחזיק",
+      "rationale": "dobesedno 'se bo okrepil'; 'zmagal' kot rolni povzetek korena חזק, ki se vuče že iz v. 5."
+    },
+    {
+      "kind": "alternative",
+      "subject": "במעוז",
+      "rationale": "lahko tudi 'v njegovo utrditev\/dobrobranje'; abstraktno 'zaščito' proti konkretni trdnjavi."
+    }
+  ],
+  "translation": "In iz poganika njenih korenin bo ⟨nekdo⟩ stal na njegovem mestu, in prišel bo h ⟨vojski⟩ in vstopil v trdnjavo kralja severa, in ravnal z njimi ter zmagal.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "79ae92faba7151872893198dd2ddb826404eacf6a76d35019aa08c5cf34b1ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/11\/5-8.1792437574775.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "in stal bo"
+    },
+    {
+      "surface": "מנצר",
+      "gloss": "iz poganika"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "njenih korenin"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "na njegovem mestu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in prišel bo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "⟨vojski⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in vstopil"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "v trdnjavo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "severa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "in ravnal"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "z njimi"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ter zmagal"
+    }
+  ],
+  "timestamp": "2026-10-19T19:19:34.777797960Z",
+  "model": "glm-5.3"
+}

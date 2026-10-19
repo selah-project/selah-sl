@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "Ta את je H854 (pri z), predlog in ne kazalnik predmeta ⟨את⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "izviri",
+      "rationale": "V francaise 15–16 so voda metafora za ženo; slovenščina potrebuje izrecni subjekt iz prejšnjega verza."
+    }
+  ],
+  "translation": "Naj bodo ⟨samo⟩ tvoji ⟨sami⟩ in ne za tujce ⟨את⟩ ⟨s teboj⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/5\/17-20.1792435846548.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "naj bodo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvoji"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨sami⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "za tujce"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨s teboj⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:46.548919686Z",
+  "model": "glm-5.3"
+}

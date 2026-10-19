@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה po pravilih ostane cedek — 'pravičnost' bi izbrisal koren"
+    },
+    {
+      "kind": "idiom",
+      "subject": "razglasil",
+      "rationale": "Ironično: razglasitev 'pravičnosti' bo razkritje njene praznine"
+    }
+  ],
+  "translation": "Jaz bom razglasil tvoj cedek in ⟨את⟩ tvoja dela — in ne bodo ti v prid.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/57\/9-12.1792430840288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bom razglasil"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvoj cedek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvoja dela"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvoja dela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "bodo ti v prid"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:20.290155291Z",
+  "model": "glm-5.3"
+}

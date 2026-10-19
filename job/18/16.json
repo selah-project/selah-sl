@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 18:16",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתחת \/ וממעל",
+      "rationale": "nasprotje 'spodaj\/zgoraj' gradi vertikalno sliko uničenja rastline od korenin do vrha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "obrodi",
+      "rationale": "נמל pomeni dobesedno biti obrezan\/odrezan; slovenščina 'obrodi' ohranja podobo odpadanja pridelka."
+    }
+  ],
+  "translation": "Spodaj se izsušijo njegove korenine, zgoraj pa obrodi njegova žetev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/13-16.1792436428512.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתחת",
+      "gloss": "spodaj"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "njegove korenine"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "se izsušijo"
+    },
+    {
+      "surface": "וממעל",
+      "gloss": "zgoraj"
+    },
+    {
+      "surface": "ימל",
+      "gloss": "obrodi (odrezan bo)"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "njegova žetev"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:28.513729288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed-vesten",
+      "rationale": "חסיד je 'tisti, ki ravna s hesed'; beseda hesed se ohrani, ne 'pobožen' ali 'svet'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨n⟩",
+      "rationale": "Slovenščina brez člena; hebrejski גוי tukaj brez člena, vendar gre za določen nasprotnik."
+    }
+  ],
+  "translation": "Sodí me, Elohim, in preperi mojo pravdo zoper ⟨n⟩narodu, ki ni hesed-vesten, iz moža prevare in krivice me reši.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/43\/1-4.1792434832619.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "sodi me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "in preperi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mojo pravdo"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "zoper ⟨n⟩narodu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesed-vesten"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "iz moža"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "prevare"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "in krivice"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "me reši"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:52.620591620Z",
+  "model": "glm-5.3"
+}

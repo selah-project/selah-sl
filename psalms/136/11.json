@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iz njihove srede",
+      "rationale": "מתוכם 'iz njihovega sredinskega dela' — spatial 'out of their midst'."
+    },
+    {
+      "kind": "addition",
+      "subject": "In",
+      "rationale": "vav-consecutive rendered as 'In' linking the Exodus sequence."
+    }
+  ],
+  "translation": "In izpeljal ⟨את⟩ Jisrael iz njihove srede, saj na veke je njegov hesed.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/136\/9-12.1792435578816.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "In izpeljal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "iz njihove srede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na veke"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "je njegov hesed"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:18.817265071Z",
+  "model": "glm-5.3"
+}

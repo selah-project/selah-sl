@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "oltar",
+      "rationale": "tri mere oltarja: dolžina, širina, višina v komolcih"
+    }
+  ],
+  "translation": "In naredil je oltar iz brona, dvajset komolcev ⟨je⟩ njegova dolžina in dvajset komolcev njegova širina ter deset komolcev njegova višina.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/4\/1-4.1792438484682.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "In naredil je"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iz brona"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvajset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njegova dolžina"
+    },
+    {
+      "surface": "ויעשרים",
+      "gloss": "in dvajset"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "njegova širina"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ter deset"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "komolcev"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "njegova višina"
+    }
+  ],
+  "timestamp": "2026-10-19T19:34:44.683174948Z",
+  "model": "glm-5.3"
+}

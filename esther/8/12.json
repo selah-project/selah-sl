@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "trinajsti dan dvanajstega meseca",
+      "rationale": "Točen datum imenovan po štetju — merilni verz, ki zrcali 3,13."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dan⟩",
+      "rationale": "Hebrejščina pri številku pusti samostalnik iz prejšnje vrstice ('ביום'); slovenščina ga dodaja v oglatih oklepajih."
+    }
+  ],
+  "translation": "V en dan, v vseh pokrajinah kralja Ahašveroša, na trinajsti ⟨dan⟩ dvanajstega meseca — to je mesec adar.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/8\/9-12.1792437271212.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vseh"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "pokrajinah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroša"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "tri (naj)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "meseca"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva (naj)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mesec"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "adar"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:31.218093894Z",
+  "model": "glm-5.3"
+}

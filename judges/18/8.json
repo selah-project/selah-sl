@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pravite⟩",
+      "rationale": "Hebrejščina pravi le 'Kaj vi?' (מה אתם); slovenščini je treba dodati glagol."
+    },
+    {
+      "kind": "you",
+      "subject": "bratje v Cori in Eštaolu",
+      "rationale": "Neposreden vprašalni nagovor petim možem ob vrnitvi."
+    }
+  ],
+  "translation": "In prišli so k svojim bratom v Coro in Eštaol; in rekli so jim njihovi bratje: Kaj ⟨pravite⟩ vi?",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "43a5ed515c5c8cc5d672344d451b1748d4d046f9315c6f3407be8db2ec0bf944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/18\/5-8.1792427321191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "in prišli so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "svojim bratom"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "v Coro"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "in Eštaol"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "in rekli so"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "njihovi bratje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    }
+  ],
+  "timestamp": "2026-10-19T16:28:41.192972642Z",
+  "model": "glm-5.3"
+}

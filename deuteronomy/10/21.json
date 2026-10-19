@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola — vstavljena kopula v oklepajih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dejanja",
+      "rationale": "הגדלת\/הנוראת sta samostalnika »velike\/strašne (stvari)«, dodan »dejanja« za slovensko slovnico"
+    },
+    {
+      "kind": "you",
+      "subject": "to Izraelu",
+      "rationale": "Neposreden ogovor z drugo osebo ednine — tvoja hvala, tvoj Elohim"
+    }
+  ],
+  "translation": "On ⟨je⟩ tvoja hvala, in on ⟨je⟩ tvoj Elohim, ki je storil s ⟨את⟩ teboj ⟨את⟩ velika dejanja in ⟨את⟩ strašna dejanja, te, ki so jih videle tvoje oči.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "6ca8f4ae43bba75f44249f030c8583b682d55f5ce67b1d03935331a4ff96df33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/10\/21-22.1792425791929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvoja hvala"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "in on"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvoj Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s teboj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velika dejanja"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "velika dejanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "in ⟨את⟩",
+      "marks": "strašna dejanja"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "strašna dejanja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "so videle"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    }
+  ],
+  "timestamp": "2026-10-19T16:03:11.929546943Z",
+  "model": "glm-5.3"
+}

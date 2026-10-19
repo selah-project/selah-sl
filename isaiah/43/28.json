@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina nima vezika"
+    },
+    {
+      "kind": "crux",
+      "subject": "uničenju",
+      "rationale": "חרם: 'prepoved\/uničenje\/prokletstvo' — KJV 'to the curse', YLT 'to destruction'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "svetišča",
+      "rationale": "שרי קדש dobesedno 'knezi svetosti' — 'svetosti' ali 'svetišča' kot kraja"
+    }
+  ],
+  "translation": "In ⟨je⟩ oskrunil kneze svetišča ter izročil Jaakoba uničenju in Jisrael zasmehovanju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "07d853995e4e0805837a20989655bd305f57da3b2a858ee0e8d6ae79b9bb7fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/43\/26-28.1792433401895.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "in ⟨je⟩ oskrunil"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kneze"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetišča"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ter izročil"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "uničenju"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "in Jisrael"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "zasmehovanju"
+    }
+  ],
+  "timestamp": "2026-10-19T18:10:01.896954446Z",
+  "model": "glm-5.3"
+}

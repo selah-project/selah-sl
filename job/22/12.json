@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 22:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrew רמו je glagol 'dvigajo se'; slovenščina potrebuje pomožnik v vzkličnem stavku."
+    },
+    {
+      "kind": "you",
+      "subject": "Elifaz Jobu",
+      "rationale": "Retorično vprašanje in vzklik ('Poglej') sta neposreden nagovor obtoženega."
+    }
+  ],
+  "translation": "Ali ni Eloah v višavi nebes? Poglej vrh zvezd, kako visoko ⟨so⟩!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/9-12.1792436516505.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ali ni"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "v višavi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "Poglej"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrh"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "zvezd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kako"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "visoko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:56.508610650Z",
+  "model": "glm-5.3"
+}

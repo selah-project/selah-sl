@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "Slovenščina potrebuje pomožnik za prihodnjik; hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "in izginilo",
+      "rationale": "וְאָבַד שְׁמוֹ je lahko vprašanje ('in ali bo njegovo ime izginilo?') ali izjava; prevajalci se delijo."
+    }
+  ],
+  "translation": "Moji sovražniki govore zoper mene húdo: Kdaj bo umrl in njegovo ime izginilo?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/41\/5-8.1792434818928.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Moji sovražniki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "govore"
+    },
+    {
+      "surface": "רע",
+      "gloss": "húdo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zoper mene"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kdaj"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bo umrl"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "in izginilo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:38.930087535Z",
+  "model": "glm-5.3"
+}

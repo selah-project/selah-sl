@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morje Suf",
+      "rationale": "סוף je trska\/papirus; »Rdeče morje« je poznejša tradicionalna oznaka, hebrejščina pravi »morje s trstjem«."
+    },
+    {
+      "kind": "addition",
+      "subject": "do",
+      "rationale": "Slovenščina potrebuje predlog, hebrejščina ga v הימה (smer »k morju«) ne izraža ločeno."
+    }
+  ],
+  "translation": "In izpeljal sem ⟨את⟩ vaše očete iz Micrajima, in prišli ste do morja, in Micrajci so preganjali vaše očete z vozovi in konjeniki do morja Suf.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8e88d8c4600f5d618c35b8bef1b086a88b637dd2e3684142b52d6645c345b461",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/6-8.1792433342328.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "in izpeljal sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše očete"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaše očete"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iz Micrajima"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "in prišli ste"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "do morja"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "in so preganjali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajci"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vašimi očeti"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "z vozovi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "in konjeniki"
+    },
+    {
+      "surface": "ים",
+      "gloss": "morje"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:02.329107669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zaobljubil sem se",
+      "rationale": "šava' — 'seven oneself', swear, idiom"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואקימה",
+      "rationale": "'I will perform it' vs 'I have confirmed it' — cohortative with suffix"
+    }
+  ],
+  "translation": "Zaobljubil sem se in jo bom izpolnil, da bom varoval tvoje pravične odločbe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/105-108.1792435526775.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "zaobljubil sem se"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "in jo bom izpolnil"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "varoval"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "odločbe"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvoje pravične"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:26.776305951Z",
+  "model": "glm-5.3"
+}

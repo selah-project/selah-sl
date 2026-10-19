@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 20:21",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga pri pomenskem samostalniku »mir« ne izrazi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אמר אמר",
+      "rationale": "Infinitivus absolutus pred glagolom — poudarjeno »čezmerno\/izrecno rečem«, dobesedno »reči rečem«."
+    },
+    {
+      "kind": "secret",
+      "subject": "znak s puščicami",
+      "rationale": "Verz opisuje skrivni dogovorjeni znak med Jonatanom in Davidom pred kraljem — kodirano sporočilo."
+    }
+  ],
+  "translation": "In glej, jaz pošljem ⟨את⟩ fanta: Pojdi, najdi ⟨את⟩ puščice. Če čezmerno rečem fantu: Glej, puščice so od tebe in onstran — vzemi jih in pridi, kajti mir ⟨je⟩ tebi in ničesa ni; živ je Jahve!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/20\/21-24.1792427846099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "pošljem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "fanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pojdi"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "najdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puščice"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "puščice"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "čezmerno"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rečem"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "fantu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "glej"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "puščice"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in onstran"
+    },
+    {
+      "surface": "קחנו",
+      "gloss": "vzemi jih"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "in pridi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ničesa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T16:37:26.100193801Z",
+  "model": "glm-5.3"
+}

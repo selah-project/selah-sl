@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez veznika v pasivnem deležniku; slovenščina ga zahteva."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כסוחה",
+      "rationale": "Oblika glagola כסח je v Tanahu izjemno redka; pomeni 'odsekana'."
+    },
+    {
+      "kind": "you",
+      "subject": "do Elohim",
+      "rationale": "Tretjeosebni opis ('tvojega obraza') se navezuje na Elohim, kateremu se pesem obrača."
+    }
+  ],
+  "translation": "Zapečena z ognjem, ⟨je⟩ posekana; od grožnje tvojega obraza bodo poginili.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/80\/17-20.1792435191820.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "zapečena"
+    },
+    {
+      "surface": "באש",
+      "gloss": "z ognjem"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "posekana"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "od grožnje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvojega obraza"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bodo poginili"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:51.822230505Z",
+  "model": "glm-5.3"
+}

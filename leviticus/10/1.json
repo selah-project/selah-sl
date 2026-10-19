@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 10:1",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tuji ogenj",
+      "rationale": "אש זרה dobesedno 'tuj\/odstopajoč ogenj' — kaj je bilo tuje, besedilo ne pove."
+    },
+    {
+      "kind": "addition",
+      "subject": "jima",
+      "rationale": "Končnica -ם na אתם je zaimelska; slovenščina potrebuje 'jima'."
+    }
+  ],
+  "translation": "Sinova Aharona, Nadava in Avihuja, sta vzela vsak svojo kadilnico in dala vanjo ogenj ter položila nanj kadilo; prinesla pa sta pred Jahveja tuji ogenj, kakršnega jim ni zapovedal.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/10\/1-4.1792424148146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "sta vzela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinova"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadava"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "in Avihuja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vsak"
+    },
+    {
+      "surface": "מחתתו",
+      "gloss": "svojo kadilnico"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "in sta dala"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "vanjo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "in sta položila"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nanj"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadilo"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "in sta prinesla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "tuji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kakršnega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zapovedal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jima (zaprta končnica)"
+    }
+  ],
+  "timestamp": "2026-10-19T15:35:48.147293764Z",
+  "model": "glm-5.3"
+}

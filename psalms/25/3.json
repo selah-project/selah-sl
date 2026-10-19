@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו \/ יבשו",
+      "rationale": "ponovitev istega glagola v nasprotju: kdor upa, se ne osramoti; izdajalci se osramotijo — hiazem podoben obrat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קוה",
+      "rationale": "dobesedno »vesati\/spleti vrvo« — upanje kot vrv, napeta v Boga"
+    },
+    {
+      "kind": "addition",
+      "subject": "nesrečno",
+      "rationale": "ריקם »prazno, zastonj« — dodano za berljivost, slovenščina ne more pustiti prilage čisto gole"
+    }
+  ],
+  "translation": "Tudi vsi, ki upajo nate, se ne bodo osramotili; osramotili se bodo tisti, ki ravnajo izdajalsko, ⟨nesrečno⟩ prazni.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d1cd4a3f9ac043a19ec1908c5cf2fa3248bdec37a1e1508017fc49c2932ca073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/25\/2-3.1792439003439.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tudi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ki upajo nate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bodo osramotili se"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "osramotili se bodo"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "tisti, ki ravnajo izdajalsko"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prazni"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:23.439946797Z",
+  "model": "glm-5.3"
+}

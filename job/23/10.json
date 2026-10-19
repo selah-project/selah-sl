@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki je",
+      "rationale": "slovenščina potrebuje oziralni vezdnik, hebrejščina ga leže zlepa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "preizkusi",
+      "rationale": "בחנן je kovinarski glagol — preizkušati kovino v ognju; podoba očiščevanja zlata"
+    }
+  ],
+  "translation": "Kaj on pozna pot, ki je pri meni; preizkusi me — kakor zlato grem ven.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1894cbef8c907fbc36d2784b3699e49f7f89e9937576da47c77de7713b79aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/23\/9-12.1792436501595.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "on pozna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pot"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ki je pri meni"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "preizkusi me"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "kakor zlato"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "grem ven"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:41.596586043Z",
+  "model": "glm-5.3"
+}

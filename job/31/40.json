@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "job 31:40",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "באשה",
+      "rationale": "Beseda באשה se v Tanahu pojavi samo tukaj — smrdljiv, neuporaben plevel."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva pomožni glagol; hebrejščina ima samo תמו 'končale so se'."
+    }
+  ],
+  "translation": "Namesto pšenice naj zraste trnje in namesto ječmena smrdljiv plevel. Končane so besede Ijova.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a0f1e2fe6c9f1941e5c91aa19160466cf13669873fa0539464515994e148e44f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/31\/37-40.1792436670107.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "namesto"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "naj zraste"
+    },
+    {
+      "surface": "חוח",
+      "gloss": "trnje"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "in namesto"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ječmena"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "smrdljiv plevel"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "končane so"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijova"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:30.113866413Z",
+  "model": "glm-5.3"
+}

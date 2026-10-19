@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "star",
+      "rationale": "Hebrew בן שמונה שנים 'sin osmih let' — spremenjeno v pridevnik 'star', ker je v slovenščini naravno"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vladarjeva leta",
+      "rationale": "Starost ob ustoličenju in dolžina vladavine — tipična kroniška formula štetja"
+    }
+  ],
+  "translation": "Star osem let ⟨je bil⟩ Jošija, ko je začel kraljevati, in enaintrideset let je kraljeval v Jerušalajimu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0f7e2f62c0d5842dc5c51ad6b2a93c295941298fde5365a48fa9b5ca1edbe9bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/34\/1-4.1792438877262.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "star"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošija"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ko je začel kraljevati"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "in trideset"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "in ena"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je kraljeval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jerušalajimu"
+    }
+  ],
+  "timestamp": "2026-10-19T19:41:17.264597056Z",
+  "model": "glm-5.3"
+}

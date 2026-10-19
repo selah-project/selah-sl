@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידדון ידדון",
+      "rationale": "Podvajanje glagola — bežé, bežé — poudari hiter beg; slovenščina ohranja podvajanje."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונות בית",
+      "rationale": "Dobesedno 'in prebivalka doma': ženska oblika; drugi berejo 'in sijajna kot dom' ali 'med ovčjimi stališči' (prim. v. 14)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bežé",
+      "rationale": "נדד je 'vzeti se sem in tja, hitro bežati'; 'bežé' je najbližja slovenska slika tega valovanja."
+    }
+  ],
+  "translation": "Kralji vojsk bežé, bežé, in ⟨ta, ki⟩ doma prebiva, razdeljuje plen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/13-16.1792435014613.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kralji"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "vojsk"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "bežé"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "bežé"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "in prebivalka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "doma"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "razdeljuje"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:54.614284190Z",
+  "model": "glm-5.3"
+}

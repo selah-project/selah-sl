@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 27:19",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je živo bitje, dih, življenjska sila — ne ločena 'duša' v grškem pomenu"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jichaku",
+      "rationale": "Jacob's direct address to his father, including the false claim 'I am Esav'"
+    }
+  ],
+  "translation": "In Jaakov je rekel svojemu očetu: Jaz sem Esav, tvoj prvorojenec. Naredil sem, kakor si mi rekel. Vstani, prosim, sedi in jej od lova, da me blagoslovi tvoja duša.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/27\/17-20.1792422501006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In rekel je"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svojemu očetu — k"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "očetu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jaz"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "tvoj prvorojenec"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Naredil sem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kakor"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "si rekel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vstani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "sedi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "in jej"
+    },
+    {
+      "surface": "מצידי",
+      "gloss": "od lova"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "da"
+    },
+    {
+      "surface": "תברכני",
+      "gloss": "me blagoslovi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvoja duša"
+    }
+  ],
+  "timestamp": "2026-10-19T15:08:21.007928010Z",
+  "model": "glm-5.3"
+}

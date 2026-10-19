@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סגלה \/ lastnina",
+      "rationale": "Doslovno 'zaklenjen bogati zaklad'; prevodi: 'lastnina', 'poseben zaklad', 'dragocenost'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lastnina",
+      "rationale": "סגולה je kraljevski zasebni zaklad, ne navadna posest."
+    }
+  ],
+  "translation": "kajti sebi je izvolil Jah Jaakova, Jisrael za svojo lastnino.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/135\/1-4.1792435613229.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "je izvolil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "za svojo lastnino"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:53.231337747Z",
+  "model": "glm-5.3"
+}

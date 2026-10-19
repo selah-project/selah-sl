@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nikdo⟩ · ⟨moj⟩",
+      "rationale": "hebrejščina nima osebka pri אמר; עשי je brez svojilnice, a dobesedno 'moj stvarnik'"
+    },
+    {
+      "kind": "crux",
+      "subject": "pesmi v noči",
+      "rationale": "זמרות: 'pesmi (s potrebno glasbo)' — some razlagajo kot 'zmnožke' od זמר 'obrezovati', a prevladuje 'pesem v noči'"
+    }
+  ],
+  "translation": "In ne reče ⟨nikdo⟩: Kje je Eloah, ⟨moj⟩ stvarnik, ki daje pesmi v noči?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/35\/9-12.1792436699059.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "In ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "reče"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kje"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "stvarnik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "daje"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "pesmi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noči"
+    }
+  ],
+  "timestamp": "2026-10-19T19:04:59.060393909Z",
+  "model": "glm-5.3"
+}

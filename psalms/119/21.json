@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ki",
+      "rationale": "deleznik potrebuje veznik v slovenščini, hebrejščina ga nima"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארורים",
+      "rationale": "pridevnik 'prekleti' — ali se nanaša na drzne, ali je ločeno sodelom (jeziki razhajajo)"
+    }
+  ],
+  "translation": "Popravil si drzne, preklete, ki tavajo od tvojih zapovedi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "11871cdc9e699b814fcbc08edbcce91960f48c1032e665dfded39717e628f884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/21-24.1792435505581.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "popravil si"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "drzne"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "preklete"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "ki tavajo"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "od tvojih zapovedi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:05.581635402Z",
+  "model": "glm-5.3"
+}

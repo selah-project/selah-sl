@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "Aramščina brez kopule; slovenščina zahteva glagol biti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gruda",
+      "rationale": "חסף je dobesedno 'gruda\/kepa (zeme)' — ne 'glina' kot snov"
+    },
+    {
+      "kind": "measurement",
+      "subject": "del … del",
+      "rationale": " Besedilo natančno deli sestavo stopal: del železo, del gruda"
+    }
+  ],
+  "translation": "Njegovi goleni ⟨so bili⟩ iz železa, njegova stopala pa del iz železa in del iz grude.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/2\/33-36.1792437326005.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "goleni"
+    },
+    {
+      "surface": "די",
+      "gloss": "iz"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "železa"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "stopala"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "del"
+    },
+    {
+      "surface": "די",
+      "gloss": "iz"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "železa"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "in del"
+    },
+    {
+      "surface": "די",
+      "gloss": "iz"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "grude"
+    }
+  ],
+  "timestamp": "2026-10-19T19:15:26.006214869Z",
+  "model": "glm-5.3"
+}

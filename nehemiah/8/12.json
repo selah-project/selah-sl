@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 8:12",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina dodaja pomožni glagol, ki ga hebrejščina nima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "h crunch",
+      "rationale": "Verz zaključuje verižico: jok (v. 9) → veselje (v. 10) → tiho (v. 11) → veliko veselje — gibanje od žalosti k radosti."
+    }
+  ],
+  "translation": "In odšlo je vse ljudstvo jesti in piti in pošiljati porcije in prirejati veliko veselje, kajor razumeli so besede, ki so jim bile razodete.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "705eaf3ccd63e86b48cc2e25a2945dbfba3d39136479f9479bd373b2d3721fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/8\/9-12.1792437911263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "In odšlo je"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jesti"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "in piti"
+    },
+    {
+      "surface": "ולשלח",
+      "gloss": "in pošiljati"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "porcije"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "in prirejati"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselje"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajor"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "razumeli so"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "so bile razodete"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:11.265586364Z",
+  "model": "glm-5.3"
+}

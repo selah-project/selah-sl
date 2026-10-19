@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pričuje",
+      "rationale": "ענה: 'odgovoril\/pričeval v njegov obraz' (KJV, JPS) proti 'biti ponižan' (YL T, Wycliffе) — ista littera ענה, dva korena"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨vsemu temu⟩",
+      "rationale": "slovenščina potrebuje samostalnik ob 'vsemu'; hebrejščina ima samo בכל־זאת"
+    }
+  ],
+  "translation": "In ponos Jisraela pričuje v njegov obraz, niso se vrnili k Jahveju, svojemu Elohimu, in ga niso iskali kljub vsemu temelj ⟨vsemu temu⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/7\/9-12.1792433795143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "in pričuje"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ponos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "v njegov obraz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niso"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "se vrnili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svojemu Elohimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in niso"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "ga iskali"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kljub vsemu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "temu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:35.157303333Z",
+  "model": "glm-5.3"
+}

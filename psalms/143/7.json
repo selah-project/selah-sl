@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עם",
+      "rationale": "Predlog 'z\/s' pred ירדי בור se v slovenščini stopi v zvezo 'kakor tisti, ki gredo v jamo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "v jamo",
+      "rationale": "בור je izkopana jama, cisterna ali zapor — podzemlje, ne pekelska jama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruah",
+      "rationale": "רוח je dih, veter, življenjski dah — prevod 'duh' bi izgubil eno besedo za tri stvari."
+    }
+  ],
+  "translation": "Pohiti, odgovori mi, Jahve! Moja ruah je pri koncu, ne skrivaj svojega obraza pred menoj, da ne bodem kakor tisti, ki gredo v jamo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/5-8.1792435743484.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Pohiti"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odgovori mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "je pri koncu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "moja ruah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skrivaj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svojega obraza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "da ne bodem kakor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "<elided>"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "tisti, ki gredo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "v jamo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:03.485258606Z",
+  "model": "glm-5.3"
+}

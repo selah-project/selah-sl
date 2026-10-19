@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨v njej⟩",
+      "rationale": "Ponovitev krajevnega pridevka בה v drugem stavku je v tekoči slovenščini podvojena."
+    },
+    {
+      "kind": "you",
+      "subject": "nagovor Jahveja",
+      "rationale": "Besedilo še vedno nagovarja Jahveja v drugi osebi — molitev se nadaljuje."
+    }
+  ],
+  "translation": "In prebivali so v njej in zgradili so ti ⟨v njej⟩ svetišče za svoje ime, rekovši:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "06bd90bc00b8a4a8bbbd799c1959ea96f561c3fc8209ba2dd3129a3be4cec0a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/20\/5-8.1792438667019.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "in prebivali so"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v njej"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "in zgradili so"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨v njej⟩"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svetišče"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "za svoje ime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekovši"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:47.021807842Z",
+  "model": "glm-5.3"
+}

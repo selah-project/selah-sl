@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אף",
+      "rationale": "'jeza' ali le protivni 'vendar\/toda'; YLT bere 'in jezi', večina protivno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "osramotil",
+      "rationale": "כלם dobesedno 'raniti', preneseno 'posmehovati\/osramotiti'"
+    }
+  ],
+  "translation": "Vendar ⟨nas⟩ si zavrnil in osramotil ⟨nas⟩, in ne izhajaš z našimi vojskami.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/9-12.1792434793160.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Vendar"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "si zavrnil"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "in osramotil ⟨nas⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izhajaš"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "z našimi vojskami"
+    }
+  ],
+  "timestamp": "2026-10-19T18:33:13.161882171Z",
+  "model": "glm-5.3"
+}

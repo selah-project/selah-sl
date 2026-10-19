@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צחיחה",
+      "rationale": "'izsušena dežela' — beseda se v Tanahu pojavi samo tu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביתה",
+      "rationale": "'v hišo\/doma' dobesedno; KJV 'in families' bere bet-ha kot 'v družino'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בכושרות",
+      "rationale": "množica 'kosharot': 'v blaginjo\/prosperiteto' (ASV) vs 'z verigi' (KJV 'with chains' — drugačen koren)."
+    }
+  ],
+  "translation": "Elohim daje osamljenim, da prebivajo v domu, izvaja ujetnike v blaginjo, le uporniki prebivajo v izsušeni deželi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/5-8.1792435030099.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "daja, da prebivajo"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "osamljenim"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "v domu"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "izvaja"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ujetnike"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "v blaginjo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "le"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "uporniki"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "prebivajo"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "v izsušeni deželi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:37:10.101775037Z",
+  "model": "glm-5.3"
+}

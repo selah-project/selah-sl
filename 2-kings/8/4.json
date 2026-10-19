@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "služabnikom",
+      "rationale": "נער je dobesedno 'deček, mladenič'; 'služabnik' je vloga, ki jo nakazuje položaj Gehazija."
+    },
+    {
+      "kind": "you",
+      "subject": "kralj Gehaziju",
+      "rationale": "Neposreden nagovor kralja z zahtevo 'Povej mi'."
+    }
+  ],
+  "translation": "Kralj pa je govoril z Gehazijem, služabnikom moža Elohimovega, rekoč: Povej mi ⟨את⟩ vse velike stvari, ki jih je storil Eliša.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/8\/1-4.1792429515495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "je govoril"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazijem"
+    },
+    {
+      "surface": "נער",
+      "gloss": "služabnikom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovega"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rekoč"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "povej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse velike stvari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "velike stvari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "je storil"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    }
+  ],
+  "timestamp": "2026-10-19T17:05:15.496339639Z",
+  "model": "glm-5.3"
+}

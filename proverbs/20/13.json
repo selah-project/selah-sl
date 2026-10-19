@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obrevgaš",
+      "rationale": "תורש dobesedno 'biti oropan \/ priti v last drugemu' — odvzet ti bo imetje"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨svoje⟩",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ima samo pripadnik 'tvoje' v obliki samostalnika"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ne ljubi spanja",
+      "rationale": "neposreden ukaz bralcu"
+    }
+  ],
+  "translation": "Ne ljubi spanja, da ne obrevgaš; odpri ⟨svoje⟩ oči, nasiti se s kruhom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e56e36a94c9352ec6af22904d780c48416026730c019a8961dbf9993ce4a97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/20\/13-16.1792436042672.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "ljubi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "spanja"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "obrevgaš"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "odpri"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "oči"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nasiti se"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "s kruhom"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:02.673465855Z",
+  "model": "glm-5.3"
+}

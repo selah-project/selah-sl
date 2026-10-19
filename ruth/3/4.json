@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "odkrila njegove noge",
+      "rationale": "גלית מרגלתיו: dobesedno 'odkrij njegova stopala' — od mrzlega posteljnega pokrova ali evfemizem; prevajalci se delijo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨boš⟩",
+      "rationale": "slovenščina potrebuje pomožni glagol, hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכב",
+      "rationale": "koren 'leči' se ponovi trikrat (בשכבו, ישכב, ושכבתי) — vzporednost, ki v slovenščini ostaja"
+    }
+  ],
+  "translation": "In zgodbilo se bo, ko bo legel: ti pa boš vedela ⟨את⟩ mesto, kjer bo legel, in boš šla ter odkrila njegove noge ter legla; on pa ti bo povedal ⟨את⟩ vse, kar ⟨boš⟩ storila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/3\/1-4.1792436938480.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se bo"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "ko bo legel"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "boš vedela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesto"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kjer"
+    },
+    {
+      "surface": "יישכב",
+      "gloss": "bo legel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "in boš šla"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "ter odkrila"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "njegove noge"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "ter legla"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on pa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bo povedal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vse, kar boš storila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "boš storila"
+    }
+  ],
+  "timestamp": "2026-10-19T19:08:58.483514245Z",
+  "model": "glm-5.3"
+}

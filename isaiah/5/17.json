@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ורעו",
+      "rationale": "רעה (pasti) zveni kakor רע (zlo) — čreda obvelja pastirjem v zapor (5,17), v slovenščini igra izgubljena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחים",
+      "rationale": "dobesedno 'debeli' — zaradi gorečih (5,11–12) dejanj tu pus­teni za tuje."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כדברם",
+      "rationale": "dovoljen je tudi 'po svoji navadi\/urejenosti' — koren pomeni urejeno pašo."
+    }
+  ],
+  "translation": "In jagnjeta se bodo pasla kakor na svoji paši, in ruševine debelih bodo jedli tujci.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "baf20452bd2f2a0416bfba45f031160031ee39aaba601f0a6680bc2fd8d40970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/5\/17-20.1792429997492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "pasla se bodo"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "jagnjeta"
+    },
+    {
+      "surface": "כדברם",
+      "gloss": "kakor na svoji paši"
+    },
+    {
+      "surface": "וחרבות",
+      "gloss": "in ruševine"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "debelih"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "tujci"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bodo jedli"
+    }
+  ],
+  "timestamp": "2026-10-19T17:13:17.492735734Z",
+  "model": "glm-5.3"
+}

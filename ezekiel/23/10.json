@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sramota",
+      "rationale": "ערוה je golota, spolna sramota; 'razgaliti nakedness' = hebrejski idiom za razkrivanje sramote."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ime med ženskami",
+      "rationale": "שם לנשים — ' ime med ženskami' pomeni pregovor, poučna oznaka; dobesedno bi zavedlo."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "וַתְּהִי — 'in je postala'; glagolska zveza deloma dopolnjena v slovenščini."
+    }
+  ],
+  "translation": "Ti so razgalili njeno sramoto, njene sinove in hčere so vzeli, njo pa z mečem pobili; in postala je ⟨׳ime med ženskami — pregovor⟩ med ženskami, in sodbe so izvršili nad njo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dc21e0187a7ca853f35db5e16754a7d74f43eac680d31f9ed9ca6c7f9bc4aac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/23\/9-12.1792432454113.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "so razgalili"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "njeno sramoto"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "njene sinove"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "in hčere"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "so vzeli"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩",
+      "marks": "njo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "z mečem"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "so pobili"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in je postala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "med ženskami"
+    },
+    {
+      "surface": "ושפוטים",
+      "gloss": "in sodbe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "so izvršili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nad njo"
+    }
+  ],
+  "timestamp": "2026-10-19T17:54:14.114436070Z",
+  "model": "glm-5.3"
+}

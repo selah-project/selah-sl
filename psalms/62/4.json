@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "do napadalcev",
+      "rationale": "Vprašanje 'doklej' se neposredno obrača na nasprotnike, govorečega."
+    },
+    {
+      "kind": "crux",
+      "subject": "תרצחו",
+      "rationale": "KJV\/Geneva berejo 'vsí boste umorjeni' (kazen), JPS\/ASV 'da ga boste umorili' (namen) — hebrejščina dovoljuje obe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "umorili",
+      "rationale": "רצח je umor človeka, ločeno od ubijanja v vojni (הרג)."
+    }
+  ],
+  "translation": "Doklej boste napadali ⟨nad⟩ moža, da ga boste umorili vsi skupaj, kakor nagnjeno obzidje, ograjo, ki so jo porušili?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/62\/1-4.1792434985281.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "doklej"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "boste"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "napadali"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nad⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "da ga boste umorili"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "vsí skupaj"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "kakor nagnjeno obzidje"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nagnjeno"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ograda"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "porušeno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:25.283809821Z",
+  "model": "glm-5.3"
+}

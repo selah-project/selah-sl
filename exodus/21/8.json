@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר לא יעדה",
+      "rationale": "Dvojno branje: 'ki si je ni določil zase' (ni zaročil zase, JPS) ali 'ki si jo je določil' (za sina, Gle. v. 9); lo in 'lo' tukaj nosi prvo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בגד ב",
+      "rationale": "Dobesedno 'obal si v njej' — figurativno ravnal prevarantsko, nedosljedno."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨zase⟩",
+      "gloss": "⟨zase⟩",
+      "rationale": "Dodano za jasnost bralca, ker יעדה pomeni zaročiti\/določiti."
+    }
+  ],
+  "translation": "Če je slaba v očeh njenega gospoda, ker si je ni določil ⟨zase⟩, potem naj jo odkupi; tuji ljudstvi nima oblasti prodati ⟨je⟩, ker je ravnal z njo prevarantsko.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/21\/5-8.1792423527117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "slaba"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očeh"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "njenega gospoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "si je določil"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "naj jo odkupi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ljudstvu"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "tujemu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "sme oblasti"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "prodati"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "prevarantsko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "z njo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:25:27.118589040Z",
+  "model": "glm-5.3"
+}

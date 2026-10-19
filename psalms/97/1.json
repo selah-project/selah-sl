@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מלך",
+      "rationale": "Inceptivni 'je stopil na prestol' nasproti proklamativnemu 'kraljuje'; tvorba je vhodna, ne stanja."
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Slovenščina potrebuje povratni veznik, ki ga hebrejščina nima."
+    }
+  ],
+  "translation": "Jahve je začel kraljevati, veseli naj se ⟨se⟩ zemlja, radujno naj se veselijo številni otoki.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/97\/1-4.1792435307318.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "je začel kraljevati"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "naj se veseli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "naj se veselijo"
+    },
+    {
+      "surface": "איים",
+      "gloss": "otoki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "številni"
+    }
+  ],
+  "timestamp": "2026-10-19T18:41:47.318806050Z",
+  "model": "glm-5.3"
+}

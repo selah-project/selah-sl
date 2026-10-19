@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצל יצילנו",
+      "rationale": "Infinitiv absolutni pred glagolom — 'rešil bo rešil' — poudarek je v slovenščini ohranjen z podvajanjem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jahve",
+      "rationale": "Ravšake izreče Ime יהוה; v prejšnjih vrsticah ga naslavlja 'Elohim' — tu vsiljuje svojo retoriko z imenom nasprotnikovega Boga."
+    }
+  ],
+  "translation": "In naj ⟨את⟩ vas Hizkija ne spravi v zaupanje na Jahveja, čeprav pravi: Rešil bo rešil nas Jahve; to mesto ne bo dano v roko kralja Asurja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/36\/13-16.1792430536270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "in naj ne"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "spravi v zaupanje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "čeprav pravi"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "rešil"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "bo rešil nas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "bo dano"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v roko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asurja"
+    }
+  ],
+  "timestamp": "2026-10-19T17:22:16.271680083Z",
+  "model": "glm-5.3"
+}

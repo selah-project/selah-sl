@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kakor",
+      "rationale": "Hebrejščina ima samo predpon לְ ('za, kot') — primerek je dodan v slovenščini."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רקבון",
+      "rationale": "Trohnelost, gniloba — beseda iz verske besede רקב, pridevniška oblika."
+    }
+  ],
+  "translation": "Šteje železo ⟨kakor⟩ slamo, baker ⟨kakor⟩ trohneče les.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/41\/17-20.1792436801428.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "šteje"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "⟨kakor⟩ slamo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "⟨kakor⟩ lesu"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "trohneče"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "baker"
+    }
+  ],
+  "timestamp": "2026-10-19T19:06:41.431215988Z",
+  "model": "glm-5.3"
+}

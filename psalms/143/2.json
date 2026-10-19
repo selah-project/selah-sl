@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obličjem",
+      "rationale": "לפניך dobesedno 'pred tvojim obrazom'; slovenščina 'pred tvojim obličjem' ohranja sliko."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצדק",
+      "rationale": "'bo utemencil' (forenzično) proti preprostemu 'bo cedek\/pravičen'; večina prevodov izbere forenzično."
+    }
+  ],
+  "translation": "In ne stopi v sodbo s ⟨את⟩ svojim služabnikom, kajti pred tvojim obličjem se ne bo utemencil noben živ.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/143\/1-4.1792435741009.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "In ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "stopi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v sodbo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svojim služabnikom"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svojim služabnikom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "se bo utemencil"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pred tvojim obličjem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noben"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:01.011670375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez kopule; slovenščina zahteva »so«"
+    },
+    {
+      "kind": "substitution",
+      "subject": "palica",
+      "rationale": "שבט je dobesedno palica\/žezlo za disciplino, ne abstraktna kazen"
+    }
+  ],
+  "translation": "Njihove hiše ⟨so⟩ v miru, brez groze, in palica Elohimova ni nad njimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/21\/9-12.1792436517473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "njihove hiše"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "brez groze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "palica"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad njimi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:57.473687496Z",
+  "model": "glm-5.3"
+}

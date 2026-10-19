@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik, hebrejščina ga nima"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodoslovje",
+      "rationale": "štetje sinov po vrstnem redu: prvenec, drugi, tretji"
+    }
+  ],
+  "translation": "Binjamin pa je rodil ⟨את⟩ Belo, svojega prvenca, Ašbel, drugega, in Ahraha, tretjega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0f1e06e25412f021c74b48f1291d84477a5280bc83062d985c9da25bce5c2863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/1-4.1792438097409.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binjamin pa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belo"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belo"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "svojega prvenca"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ašbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "drugi"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "in Ahrah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tretji"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:17.410187801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שנאן",
+      "rationale": "edino mesto v Tanahu; Strong 'ponovitev', izpeljano iz 'zobje'\/'dvojine' — KJV bere 'tisoči angelov', YLT 'tisoči sprememb'"
+    },
+    {
+      "kind": "crux",
+      "subject": "sklad besedila",
+      "rationale": "'Adonaj med njimi, Sinaj v svetosti': nedoločeno, ali je Sinaj mesto, kjer je Adonaj, ali ločen vzklik"
+    }
+  ],
+  "translation": "Bojna vozila Elohim so mirjade, tisoči ponovitev; Adonaj je med njimi — Sinai, ⟨v⟩ svetosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/68\/17-20.1792435018057.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "Bojna vozila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "mirjade"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tisoči"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "ponovitev"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med njimi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "v svetosti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:36:58.059441152Z",
+  "model": "glm-5.3"
+}

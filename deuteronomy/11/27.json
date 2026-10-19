@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨To je⟩",
+      "rationale": "hebrejščina brez glagola: stavek je samo samostalnik z odvisnikom; slovenščina zahteva veznik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשר",
+      "rationale": "prvi אשר tukaj deluje pogojno ('če'), ne relativno — kot v 28. verzu"
+    }
+  ],
+  "translation": "⟨To je⟩ ⟨את⟩ blagoslov, če boste poslušali zapovedi Jahveja, vašega Elohima, ki jih jaz zapovedujem ⟨את⟩ vam danes,",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/11\/25-28.1792425823017.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blagoslov"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blagoslov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "če"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "boste poslušali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zapovedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašega Elohima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "zapovedujem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "danes"
+    }
+  ],
+  "timestamp": "2026-10-19T16:03:43.018254052Z",
+  "model": "glm-5.3"
+}

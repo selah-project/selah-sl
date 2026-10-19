@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 29:16",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "היא je poudarjeni zaimek brez glagola; slovenščina potrebuje glagol biti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mnoštvo",
+      "rationale": "המון pomeni hrup, vrvež, gmajna, bogastvo; tu množino darov"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahveju",
+      "rationale": "David neposredno nagovarja Jahveja v molitvi"
+    }
+  ],
+  "translation": "Jahve, Elohim naš, vse to mnoštvo, ki smo ga pripravili, da zgradimo tebi hišo za ime tvoje svetosti, iz tvoje roke ⟨je⟩ — in tvoje je vse.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "716fe4096714c4edbab03365e7a576ee5480651f664e18dbcc64f893da8f02e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/29\/16-16.1792439128054.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim naš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "to mnoštvo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכיננו",
+      "gloss": "smo pripravili"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "da zgradimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hišo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "za ime"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvoje svetosti"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iz tvoje roke"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "in tvoje"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "vse"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:28.056162688Z",
+  "model": "glm-5.3"
+}

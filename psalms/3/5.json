@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "s svojim",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ga v קולי ne izraža ločeno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "סלה je glasbena oznaka za premor, ostaja neprevedena"
+    }
+  ],
+  "translation": "S svojim glasom kličem k Jahveju, in on mi odgovori s svoje svete gore. Sela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/3\/5-8.1792434538602.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "s svojim glasom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kličem"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "in odgovori mi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "s gore"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svoje svete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:58.603502682Z",
+  "model": "glm-5.3"
+}

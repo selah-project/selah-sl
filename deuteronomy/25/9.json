@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 25:9",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "snaha",
+      "rationale": "יְבֵמֶת je natančneje 'svakinja' — vdova pokojnega brata, ki ji brat dolguje leviratno poroko"
+    },
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "slovenščina potrebuje zaimka, ki jih hebrejščina izraža z zaimkovskimi končnicami"
+    }
+  ],
+  "translation": "in pristopi njegova snaha k njemu pred očmi starešin in mu sleze sandalo z njegove noge in ga pljune v obraz, in odgovori ter reče: Tako naj se stori možu, ki ne zgradi ⟨את⟩ hiše svojega brata.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "7369d287e76f72dcaebff46f62ebe7e519d5637ba313f83d3084c85a7c309bf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/25\/9-12.1792426130256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגשה",
+      "gloss": "in pristopi"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "njegova snaha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pred očmi"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starešin"
+    },
+    {
+      "surface": "וחלצה",
+      "gloss": "in mu sleze"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "sandalo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "njegove noge"
+    },
+    {
+      "surface": "וירקה",
+      "gloss": "in ga pljune"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "v obraz"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "in odgovori"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ter reče"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "naj se stori"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "možu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zgradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiše"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svojega brata"
+    }
+  ],
+  "timestamp": "2026-10-19T16:08:50.257112206Z",
+  "model": "glm-5.3"
+}

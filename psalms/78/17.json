@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elijón",
+      "rationale": "עליון je naslov Najvišnjega, pisan po hebrejskem zvoku, ne 'Najvišnji'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨zoper⟩, ⟨se⟩",
+      "rationale": "Slovenščina potrebuje predlog in povratni zanik, hebrejščina ga nima."
+    }
+  ],
+  "translation": "In ⟨so⟩ še naprej grešili ⟨zoper⟩ njega, upirali ⟨se⟩ Elijónu v puščavi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/78\/17-20.1792435131597.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "so naprej grešili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naprej"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "grešili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zoper⟩ njega"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "upirali ⟨se⟩"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijónu"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "v puščavi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:51.598712288Z",
+  "model": "glm-5.3"
+}

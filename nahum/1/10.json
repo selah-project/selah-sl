@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סירים",
+      "rationale": "Različice: »trnje« (hitro rastoče), »kotli« ali z lepko »kotljani«; YLT bere »knezje« iz aramejskega sorodnika."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבכים \/ סבואים",
+      "rationale": "Zvočna igra s-b-k »zapleteni« proti s-b-' »napiti« — dvojni udarec z istim soglasničnim okostjem, v slovenščini izgubljeno."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סבא (pijača)",
+      "rationale": "Samostalnik סֵבֶא\/סְבָא v pomenu pijáča se v Tanahu pojavlja le tukaj."
+    }
+  ],
+  "translation": "Kajti dokler ⟨so⟩ kakor trnje zapleteni in od svojega vina omamljeni, pojedeni ⟨bodo⟩ kakor slama suha, polna.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/1\/9-12.1792434216785.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokler"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "trnje"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "zapleteni"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "in-od-svojega-vina"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "omamljeni"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "pojedeni"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kakor-slama"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "suha"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "polna"
+    }
+  ],
+  "timestamp": "2026-10-19T18:23:36.786761515Z",
+  "model": "glm-5.3"
+}

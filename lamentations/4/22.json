@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 4:22",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina zahteva glagol biti; hebrejščina ga nima."
+    },
+    {
+      "kind": "crux",
+      "subject": "עונך",
+      "rationale": "עון pomeni krivdo ali njeno kazen; KJV 'kazen tvoje krivde' proti dobesednemu 'krivda'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "dobesedno 'obiskal\/seznanil se s'; prevodi se razhajajo med 'kaznoval' (JPS) in 'obiskal'."
+    },
+    {
+      "kind": "crux",
+      "subject": "גלה על",
+      "rationale": "YLT 'odsilil te je zaradi tvojih grehov' (Edom pregnan) proti KJV 'razgalil tvoje grehe' — isti glagol kot v 4,21b."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלה\/להגלות",
+      "rationale": "isti koren 'razgaliti\/izgnati' za Sionovo nedolžnost in Edomovo kazen povezuje oba verza."
+    }
+  ],
+  "translation": "Dokončana je tvoja krivda, hči Siona; ne bo te več izganjal; obiskal bo tvojo krivdo, hči Edoma; razgalil bo tvoje grehe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bfba896e5cda7c8034bf50a360e35a9221d3065d9774fb15589c885c2bb9ab82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/4\/21-22.1792437001217.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Dokončana"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "je tvoja krivda"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bo več"
+    },
+    {
+      "surface": "להגלותך",
+      "gloss": "izganjal"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "obiskal bo"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tvojo krivdo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hči"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "razgalil bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "tvoje grehe"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:01.220406714Z",
+  "model": "glm-5.3"
+}

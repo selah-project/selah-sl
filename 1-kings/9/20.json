@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenski pomožni glagol, ki hebrejščina nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "niso bili",
+      "rationale": "hebrejščina brez glagola: 'ki ne iz sinov Jisraela oni' — poudarčni המה zapira stavek"
+    }
+  ],
+  "translation": "Vse ljudstvo, ki je ostalo od Amoritov, Hetitov, Perižitov, Hivitov in Jebusitov — niso bili izmed sinov Jisraela, ⟨ti⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/9\/17-20.1792428982031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "ki je ostalo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoritov"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetitov"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perižitov"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivitov"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "in Jebusitov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niso"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "izmed sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ti⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T16:56:22.032768677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefiš",
+      "rationale": "נפש tu pomeni vsako osebo, dihajoče bitje — ne 'duša'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "do večera",
+      "rationale": "Natančen časovni prag nečistoče: od umivanja do večera."
+    }
+  ],
+  "translation": "In vsaka nefiš, ki bo jedla poginulo žival ali raztrgano, bodisi domačin bodisi tujec, naj izpere svoja oblačila in se umije z vodo in bo nečista do večera, potem pa bo čista.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/17\/13-16.1792424349508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "in vsaka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefiš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bo jedla"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "poginulo žival"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "in raztrgano"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "domačin"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "in tujec"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "naj izpere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svoja oblačila"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "in se umije"
+    },
+    {
+      "surface": "במים",
+      "gloss": "z vodo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "in bo nečist"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "in bo čist"
+    }
+  ],
+  "timestamp": "2026-10-19T15:39:09.509625777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 7:2",
+  "book": "judges",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima kopule v stavku 'preveliko je ljudstvo'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "Predlog את (H854, 's teboj') ni oznaka za določni določek; brez ⟨את⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "to Gideon",
+      "rationale": "Jahve neposredno nagovarja Gideona."
+    }
+  ],
+  "translation": "In Jahve je rekel Gideonu: Preveliko je ljudstvo, ki ⟨je⟩ ⟨את⟩ s teboj, da bi dal ⟨את⟩ Midijan v njihovo roko, da se Jisrael ne bi hvalil nad menoj in rekel: Lastna roka me je rešila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f541274791300c57c5679772f88d7066f34433eebd3ab744c852817390f3d123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/7\/2-4.1792433381558.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "In je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideonu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "preveliko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ljudstvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s teboj"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "da bi dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midijan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midijan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "v njihovo roko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne"
+    },
+    {
+      "surface": "יתפאר",
+      "gloss": "hvalil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "lastna roka"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "rešila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-19T18:09:41.563353773Z",
+  "model": "glm-5.3"
+}

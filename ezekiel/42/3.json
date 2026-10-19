@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "komolcev",
+      "rationale": "hebrejščina pravi samo 'dvajset' — merska enota je iz konteksta."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אתיק",
+      "rationale": "atik — 'galerija\/odstavek'; redka beseda, ki se pojavlja samo v Ezekijevem templju."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתיק אל פני אתיק",
+      "rationale": "ponovitev 'atik pred atikom' — galerija nasproti galerije."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvajset",
+      "rationale": "merjenje prostora templja."
+    }
+  ],
+  "translation": "Nasproti dvajsetih ⟨komolcev⟩ za notranje dvorišče in nasproti tlaka za zunanje dvorišče — atik pred atikom, v tretjem ⟨nadstropju⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/42\/1-4.1792433655091.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "nasproti"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "dvajsetih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "dvorišče"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "notranje"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "in nasproti"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "tlaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "dvorišče"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "zunanjim"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "atik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨obrazom⟩"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "atikom"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "v tretjem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:14:15.093953825Z",
+  "model": "glm-5.3"
+}

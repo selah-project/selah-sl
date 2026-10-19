@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נִבְלַע \/ יִבְלָעֻהוּ",
+      "rationale": "Isti glagol בלא 'poŽreti' v 8,7 (tujci poŽrejo pridelek) in 8,8 (Jisrael poŽrt) — veriga požrljivosti."
+    },
+    {
+      "kind": "addition",
+      "subject": "je\/so",
+      "rationale": "Slovenščina zahteva pomožni glagol, hebrejščina ga nima."
+    }
+  ],
+  "translation": "PoŽrt je Jisrael; zdaj so med narodi kakor posoda, v kateri ni nič všečnega.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/8\/5-8.1792433831101.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נִבְלַ֖ע",
+      "gloss": "PoŽrt je"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עַתָּה֙",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "הָי֣וּ",
+      "gloss": "so"
+    },
+    {
+      "surface": "בַּגּוֹיִ֔ם",
+      "gloss": "med narodi"
+    },
+    {
+      "surface": "כִּכְלִ֖י",
+      "gloss": "kakor posoda"
+    },
+    {
+      "surface": "אֵֽין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חֵ֥פֶץ",
+      "gloss": "nič všečnega"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "v njej — v njem"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:11.103706033Z",
+  "model": "glm-5.3"
+}

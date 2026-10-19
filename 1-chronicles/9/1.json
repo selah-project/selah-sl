@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "hebrejščina nima pomožnika pri הגלו"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלכי ישראל ויהודה",
+      "rationale": "ASV\/JPS berejo 'knjiga kraljev Jisraela' in ločeno 'Juda je bil izgnan'; hebrejska skladenjska zveza dopušča obe vezi"
+    }
+  ],
+  "translation": "In ves Jisrael se je dal vpisati po rodovnikih, in glej, zapisani so v knjigi kraljev Jisraela in Jude; ti so bili izgnani v Babel zaradi svojega prestopa.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/9\/1-4.1792438129652.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "In ves"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "se je dal vpisati po rodovnikih"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapisani"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knjigi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraljev"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "in Jude"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "so bili izgnani"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "v Babel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "zaradi svojega prestopa"
+    }
+  ],
+  "timestamp": "2026-10-19T19:28:49.653856550Z",
+  "model": "glm-5.3"
+}

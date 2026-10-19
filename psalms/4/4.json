@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hasid",
+      "rationale": "חסיד — iz hesed-korena: zvest, pobogen človek; pisano po zvoku, ne 'svetnik' ali 'pobožni' sama"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje glagol 'biti', hebrejščina ga nima"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיד",
+      "rationale": "beseda iz korena חסד (hesed) odmeva z הפלה (ločiti) — Jahve loči zvestega zase"
+    }
+  ],
+  "translation": "In veste, da je Jahve ločil zase hasida; Jahve bo uslišal, ko kličem k njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/4\/1-4.1792434526362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "In veste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "je ločil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasida"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bo uslišal"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ko kličem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:46.363979227Z",
+  "model": "glm-5.3"
+}

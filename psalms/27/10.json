@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sta",
+      "rationale": "Slovenščina zahteva dvojino pri dveh subjektih; hebrejščina oblike ne določa."
+    },
+    {
+      "kind": "crux",
+      "subject": "יאספני",
+      "rationale": "'me bo zbral\/sprejel' (אסף) — KJV 'take me up' proti JPS 'take me up' oz. dobesedno 'zbere'."
+    }
+  ],
+  "translation": "Kajti oče moj in mati moja sta me zapustila, toda Jahve me bo sprejel ⟨k sebi⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/27\/9-12.1792434689769.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oče moj"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "in mati moja"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "sta me zapustila"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "toda Jahve"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "me bo sprejel"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:29.771895975Z",
+  "model": "glm-5.3"
+}

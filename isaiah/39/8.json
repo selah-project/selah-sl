@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 39:8",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima kopule: 'טוב דבר יהוה' je dobesedno 'dobra beseda Jahveja'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בימי",
+      "rationale": "Hizkijahov odgovor je dvoumen: zahvala ('kajti mir bo v mojih dneh') ali grenka resigned izjava — prevodi se razhajajo."
+    }
+  ],
+  "translation": "In Hizkijah je rekel Ješajahu: Dobra je beseda Jahveja, katero si govoril. In rekel je: Kajti mir in zvestoba bosta v mojih dneh.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f43e87876d296f2e8ba9598ef0784c4e916ca9e07395f605b0bb186da5cccb95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/39\/5-8.1792430539274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "je beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katero"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "si govoril"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bosta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "in zvestoba"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v mojih dneh"
+    }
+  ],
+  "timestamp": "2026-10-19T17:22:19.275660112Z",
+  "model": "glm-5.3"
+}

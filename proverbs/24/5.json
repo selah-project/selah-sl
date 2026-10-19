@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "močan v moči",
+      "rationale": "גבר חכם בעוז: lahko tudi 'mož modrosti ⟨je⟩ v moči', besedni red pušča odprto, katera beseda je predikat"
+    }
+  ],
+  "translation": "Močan v moči ⟨je⟩ moder mož, in mož spoznanja krepi moč.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/5-8.1792436112308.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mož"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "v moči"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "in mož"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznanja"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "krepi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "moč"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:12.308829506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "glasnike vetrove",
+      "rationale": "Obrat domnevnih pomenov: 'dela vetrove svojimi glasniki' (LXX, Heb 1,7) proti 'dela svoje glasnike vetrovi' (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ognjen-plamen",
+      "rationale": "אש להט je lizajoč, bliskajoč ogenj; povezano v eno sliko."
+    }
+  ],
+  "translation": "Dela svoje glasnike vetrove, svoje služabnike ognjen-plamen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/104\/1-4.1792435349134.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Dela"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "svoje glasnike"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "vetrove"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "svoje služabnike"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ogenj"
+    },
+    {
+      "surface": "להט",
+      "gloss": "plamen"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:29.136346388Z",
+  "model": "glm-5.3"
+}

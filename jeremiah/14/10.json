@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 14:10",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obiskal",
+      "rationale": "פקד pomeni 'obiskati \/ pregledati \/ kaznovati' — tu sovražen obisk kot sodba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כה ... כן",
+      "rationale": "Ponovitev 'tako ... tako' oklepa stavek in poveže božji izrek z dejanjem ljudstva."
+    }
+  ],
+  "translation": "Tako govori Jahve o tem ljudstvu: Tako so ljubili tavati, svojih stopal niso zadržali, in Jahve jih ni sprejel; zdaj se bo spomnil njihove krivde in obiskal njihove grehe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4ee4d7c13d129494ff944252cf0f6807e8ba25834a6b84bcccdcb82310a1800d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/14\/9-12.1792431291304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "o ljudstvu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tako"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "so ljubili"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "tavati"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "svojih stopal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niso"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "zadržali"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "in Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "sprejel"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "se bo spomnil"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "njihove krivde"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "in obiskal"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "njihove grehe"
+    }
+  ],
+  "timestamp": "2026-10-19T17:34:51.305297525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Hebrejščina nima glagola biti; 'je' bi bilo dodano."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svetišče",
+      "rationale": "קדש je 'sveto' (pridevnik); 'svetišče' je prostorski pomen, dobesedno 'svetost prebivališč Elijona'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tokovi",
+      "rationale": "פלגים so majhni namakalni kanali, 'potočki'; 'tokovi' je blizu, a izgubi majhnost."
+    }
+  ],
+  "translation": "Reka — njeni tokovi razveseljujejo mesto Elohim, svetišče miškanov Elijona.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/46\/5-8.1792434896263.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Reka"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "njeni tokovi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "razveseljujejo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mesto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svetišče"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "miškanov"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijona"
+    }
+  ],
+  "timestamp": "2026-10-19T18:34:56.265246981Z",
+  "model": "glm-5.3"
+}

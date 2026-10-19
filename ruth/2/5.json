@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina nima pomožnika 'je' pri pretekliku; slovenščina ga zahteva."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה- (člen)",
+      "rationale": "Hebrejski člen se v slovenščino ne prenaša, ker ga jezik nima."
+    }
+  ],
+  "translation": "In Boaz je rekel svojemu mladeniču, postavljenemu nad žetelci: Čigava je ta deklica?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5eb591d7658729eed0e777274056bd6a9136806cd54dcf38ee422c23b5b7707b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/2\/5-8.1792436949167.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "svojemu mladeniču"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "postavljenemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "žetelci"
+    },
+    {
+      "surface": "למי",
+      "gloss": "čigava"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "deklica"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:09.167865Z",
+  "model": "glm-5.3"
+}

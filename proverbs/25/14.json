@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשיאים\/מתת שקר",
+      "rationale": "nasi'im pomeni tako 'vzvišeni\/knezi' kot 'dvigajoče se meglice'; ena beseda nosi podobo, v slovenščini izgubljeno."
+    },
+    {
+      "kind": "addition",
+      "subject": "tak je",
+      "rationale": "hebrejščina stavlja stavka brez veznika; dodano za slovensko skladišče."
+    }
+  ],
+  "translation": "Oblaki in veter, dežja pa ni — tak je človek, ki se hvali z lažnim darilom.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c8e93595ea61d5213bf857961d4115903817189a3586cae21d5ad24e37db7480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/13-16.1792436136998.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "oblaki"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "in veter"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "in dež"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "človek"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "se hvali"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "z darilom"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lažnim"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:37.000965260Z",
+  "model": "glm-5.3"
+}

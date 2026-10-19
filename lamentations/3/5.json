@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strup",
+      "rationale": "רֹאשׁ je strupena rastlina (morda mak), ne 'žolč'; dobesedno 'glava' zaradi vidne glavice maka"
+    },
+    {
+      "kind": "crux",
+      "subject": "zgradil je zoper me",
+      "rationale": "בנה 'zgradil' — večina prevodov mehča v 'oblegal me je'; dobesedna slika je zid, postavljen nad menoj"
+    }
+  ],
+  "translation": "Zgradil je zoper me in me obdal s strupom in bridkostjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/3\/5-8.1792436969503.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "zgradil je"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zoper me"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "in me obdal"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "s strupom"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "in bridkostjo"
+    }
+  ],
+  "timestamp": "2026-10-19T19:09:29.503910316Z",
+  "model": "glm-5.3"
+}

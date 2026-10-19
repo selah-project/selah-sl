@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "krepitev 'zares\/ne glede na' pred בלאומים, v slovenščini ni čistega ekvivalenta, uporabljeno kot 'zresni' oz. prepuščeno ritemu verza"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמים \/ לאומים",
+      "rationale": "paralelni par 'ljudstva\/narodi' — sopomenčni vzporedni verz"
+    }
+  ],
+  "translation": "Hvalil te bom med ljudstvi, Adonaj; pel te bom med narodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/57\/9-12.1792434925369.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hvalil te bom"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "med ljudstvi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "pel te bom"
+    },
+    {
+      "surface": "בל",
+      "gloss": "zresni"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "med narodi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:25.371583704Z",
+  "model": "glm-5.3"
+}

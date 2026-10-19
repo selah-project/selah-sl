@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨svojo⟩",
+      "rationale": "slovenščina potrebuje svojilni zaimek, hebrejščina ga ima v končnici"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dušo",
+      "rationale": "נפש je živo bitje, dih, življenjska moč — ne nesmrtna duša"
+    },
+    {
+      "kind": "crux",
+      "subject": "pridobi srce",
+      "rationale": "קונה לב dobesedno 'pridobi srce' — razum, razsodnost; prevodi: 'pridobi razumevanje'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pretres",
+      "rationale": "תוכחת je opomin, očitek, popravek z besedami"
+    }
+  ],
+  "translation": "KDor zavrača vzgojo, zaničuje ⟨svojo⟩ dušo, kdor pa posluša pretres, pridobi srce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a48a3aa2832e661bbdea4bf222c5a7e084844425869bfeb5476f4b34fe5dbef3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/29-32.1792436003296.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "KDor zavrača"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "vzgojo"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "zaničuje"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨svojo⟩ dušo"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "kdor pa posluša"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "pretres"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "pridobi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:23.299027387Z",
+  "model": "glm-5.3"
+}

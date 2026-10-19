@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "skrivni svet, zaprta razprava — sovražniki skrivajo svoje namere."
+    },
+    {
+      "kind": "crux",
+      "subject": "צפוניך",
+      "rationale": "'tvoji skriti\/zaklenjeni': skriti verniki (KJV) vs. tvoje zaklade (JPS 'treasured ones') vs. tisto, kar skrivaš."
+    }
+  ],
+  "translation": "Zoper tvoje ljudstvo kujejo zvijačen načrt in se posvetujejo zoper tvoje skrite.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/83\/1-4.1792435165094.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvoje ljudstvo"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "kujejo zvijačen"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "načrt"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "in se posvetujejo"
+    },
+    {
+      "surface": "על",
+      "gloss": "zoper"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "tvoje skrite"
+    }
+  ],
+  "timestamp": "2026-10-19T18:39:25.096378950Z",
+  "model": "glm-5.3"
+}

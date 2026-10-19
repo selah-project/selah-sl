@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 13:20",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol 'biti', hebrejščina ga vprašanja איה ne izraža."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalajim \/ ljudstvo",
+      "rationale": "Retorično vprašanje se neposredno obrača na naslovnika, ki mu je bila čreda zaupana."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדר \/ צאן",
+      "rationale": "Čreda iz 13,17 (Jahvejeva) se tu ponovi kot 'dana vam drobnica' — isti preganjeni ljudje."
+    }
+  ],
+  "translation": "Povzdignite svoje oči in poglejte prihajajoče s severa: kje je čreda, dana vam, drobnica vaše veličastnosti?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "80e5b47075691074f4ecace86bc603c3b28c8848c517efaf656d5d11b92090ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/13\/17-20.1792431313577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאי",
+      "gloss": "povzdignite"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "svoje oči"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "in poglejte"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "prihajajoče"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "s severa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kje je"
+    },
+    {
+      "surface": "העדר",
+      "gloss": "čreda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vam"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "drobnica"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "vaše veličastnosti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:35:13.578804405Z",
+  "model": "glm-5.3"
+}

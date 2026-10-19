@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צלצלי",
+      "rationale": "Dvojni koren צלצל posnema bobtenje — zvočna posnemanka, v slovenščini izgubljena."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bobtnajoči cimbali",
+      "rationale": "Tudi 'zvočni cimbali' ali 'z glosočnimi cimbali'; שמע = slišni zvok, תרועה = vzklik\/bojni krik."
+    },
+    {
+      "kind": "invitation",
+      "subject": "hvalite ga",
+      "rationale": "Dvakrat ponovljen imperativ, ki kliče k hvaljenju."
+    }
+  ],
+  "translation": "Hvalite ga z bobtnajočimi cimbali, hvalite ga z cimbali vzklikanja!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/150\/5-6.1792435770325.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "z bobtnajočimi cimbali"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zvočnimi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hvalite ga"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "z cimbali"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "vzklikanja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:49:30.325684971Z",
+  "model": "glm-5.3"
+}

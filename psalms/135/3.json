@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol biti; hebrejščina ga v nominalni povedi nima."
+    },
+    {
+      "kind": "invitation",
+      "subject": "k bogoslužju",
+      "rationale": "Imperativa hvalite in pojte — vabilo v slavljenje."
+    }
+  ],
+  "translation": "Hvalite Jah, kajti dober ⟨je⟩ Jahve; pojte njegovemu imenu, kajti prijetno ⟨je⟩!",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/135\/1-4.1792435613229.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hvalite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dober"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pojte"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "njegovemu imenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "prijetno"
+    }
+  ],
+  "timestamp": "2026-10-19T18:46:53.230857059Z",
+  "model": "glm-5.3"
+}

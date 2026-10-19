@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saraat",
+      "rationale": "צרעת ostaja po zvoku; 'gobavost' bi bila ozka moderna diagnoza"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krasta",
+      "rational": "",
+      "rationale": "נתק je 'iztrganina\/krasta' lasišča; 'netek' ni slovenska beseda"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina potrebuje veznik pri nominalnem stavku, hebrejščina ga nima"
+    }
+  ],
+  "translation": "in ko pohlej vidi ⟨את⟩ udarec, in glej: njegov videz je globlji od kože in v njem je rumena tanka dlaka, potem ga pohlej razglasi za nečistega ⟨את⟩ — krasta ⟨je⟩, saraat glave ali brade ⟨je⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "08dd866d5dc9caaa878b0f1cf74cce8a44ede7aab35632f18a52b1c419c0797c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/13\/29-32.1792424192706.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "in ko vidi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pohlej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udarec"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "udarec"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "njegov videz"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "globlji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kože"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "in v njem"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dlaka"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "rumena"
+    },
+    {
+      "surface": "דק",
+      "gloss": "tanka"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "razglasi za nečistega"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pohlej"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "krasta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "saraat"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "glave"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "brade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T15:36:32.708042670Z",
+  "model": "glm-5.3"
+}

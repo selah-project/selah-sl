@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "hebrejščina v rodovniku nima glagola; dodan je kot ⟨je⟩ ali dvopičje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rodovnik",
+      "rationale": "verz je štetje potomcev — izpričano ime za ime"
+    }
+  ],
+  "translation": "In sinovi Kuša: Seva in Havila in Savta in Raama in Savteka. In sinovi Raame: Ševa in Dedan.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/1\/9-12.1792437973065.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuša"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Seva"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "in Havila"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "in Savta"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "in Raama"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "in Savteka"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "in sinovi"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "Raame"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "in Dedan"
+    }
+  ],
+  "timestamp": "2026-10-19T19:26:13.067344645Z",
+  "model": "glm-5.3"
+}

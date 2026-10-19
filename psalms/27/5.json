@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Hebrejščina ne izreče subjekta; izhaja iz 27,4"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסתרני\/בסתר",
+      "rationale": "Isti koren סתר v glagolu in samostalniku — 'pokril\/skrivališče' — v slovenščini delno ohranjeno"
+    }
+  ],
+  "translation": "Kajti ⟨on⟩ me bo skril v svoji suki v dan hudega, v skrivališču svojega šotora me bo pokril, na skali me bo povzdignil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/27\/5-8.1792434710257.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "me bo skril"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "v svoji suki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hudega"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "me bo pokril"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v skrivališču"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svojega šotora"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na skali"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "me bo povzdignil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:50.258829312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "prišlo je",
+      "rationale": "ויהי + דבר je obvezna uvodna formula; slovenščina potrebuje glagol 'priti', hebrejščina 'je bil'"
+    }
+  ],
+  "translation": "In prišlo je beseda Jahveja Zeharijah, ki pravi:",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/7\/5-8.1792434386689.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "In prišlo je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zeharijah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ki pravi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:26:26.692340673Z",
+  "model": "glm-5.3"
+}

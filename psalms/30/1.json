@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨te⟩",
+      "rationale": "slovenščina potrebuje določnost, hebrejščina ima člen, ki se ne piše"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חנכת",
+      "rationale": "beseda חנכה (posvetitev) se v tej obliki pojavi redko; koren hanuk (posvetitev)"
+    }
+  ],
+  "translation": "Mizmor, pesem o posvetitvi ⟨te⟩ hiše, Davidova.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/30\/1-4.1792434704142.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesem"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "posvetitvi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hiše"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:44.143616453Z",
+  "model": "glm-5.3"
+}

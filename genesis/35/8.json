@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 35:8",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלון בכות",
+      "rationale": "'Hrast jokanja': ime kraja nosi žalost, ki je pokopana pod njim; pomen je dodan v oklepaju."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מינקת",
+      "rationale": "'dojilja' — dobesedno tista, ki daje sesati; lahko tudi 'negovalka'."
+    }
+  ],
+  "translation": "In umrla je Devora, dojilja Rivke, in pokopana je spodaj pod Beit-Elom, pod tistim hrastom, in njegovo ime je poklical Alon-Bakut — Hrast jokanja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "07b642e7fe5075446b211f6422c64af696391c1aa64af62765bbaeb5a529c2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/35\/5-8.1792422697364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "In umrla je"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "Devora"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "dojilja"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivke"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "in pokopana je"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "spodaj pod"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit-Elom (prvi del)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beit-Elom (drugi del)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האלון",
+      "gloss": "tistim hrastom"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "in poklical je"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "njegovo ime"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Alon (Hrast)"
+    },
+    {
+      "surface": "בכות",
+      "gloss": "Bakut (jokanja)"
+    }
+  ],
+  "timestamp": "2026-10-19T15:11:37.365296124Z",
+  "model": "glm-5.3"
+}

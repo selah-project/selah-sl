@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו לא בניו מומם",
+      "rationale": "Sintaksa je temna: 'njegova pokvarjenost ni (tista) njegovih sinov' (JPS) proti 'njihova madež ni madež njegovih sinov' (KJV) proti 'niso njegovi sinovi, njihova madež je to' (ASV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש ופתלתל",
+      "rationale": "Dvojni zvitek: 'izkrivljen in zvijačen' — namerna zvočna ponovitev, v slovenščini deloma oddana."
+    },
+    {
+      "kind": "you",
+      "subject": "do Izraela",
+      "rationale": "Pesem nagovarja Izraela kot pričo obtožbe."
+    }
+  ],
+  "translation": "Pokvarili so se ⟨njegovi⟩ sinovi, njihova madež je ⟨ne⟩ ⟨njihov⟩: rod izkrivljen in zvijačen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/32\/5-8.1792426342082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "pokvarili so se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovi sinovi"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "njihova madež"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rod"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "izkrivljen"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "in zvijačen"
+    }
+  ],
+  "timestamp": "2026-10-19T16:12:22.083039968Z",
+  "model": "glm-5.3"
+}

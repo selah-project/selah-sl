@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 12:29",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvorišča-kraje",
+      "rationale": "חצרים pomeni obzdana dvorišča oziroma zaselke; oblika besede je dvorno, ne vaška."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva pomožnik, hebrejščina ga nima."
+    }
+  ],
+  "translation": "in iz Beit-Gilgal in iz polj Gève in Azmáveta, ker pevci so si zgradili dvorišča-kraje okoli Jerušalajma.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/29-32.1792437958823.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבית",
+      "gloss": "in iz Beit-"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ומשדות",
+      "gloss": "in iz polj"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gève"
+    },
+    {
+      "surface": "ועזמות",
+      "gloss": "in Azmávet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "dvorišča-kraje"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "so zgradili"
+    },
+    {
+      "surface": "להם",
+      "gloss": "si"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "pevci"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "okoli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajma"
+    }
+  ],
+  "timestamp": "2026-10-19T19:25:58.825051888Z",
+  "model": "glm-5.3"
+}

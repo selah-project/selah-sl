@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Dobesedno »zarezati zavezo« (glede na prehod med razsekanimi kosi); slovensko »skleniti zavezo«."
+    },
+    {
+      "kind": "you",
+      "subject": "z nami",
+      "rationale": "Moše govori ljudstvu; zaveza je z neposredno navzočo generacijo."
+    }
+  ],
+  "translation": "Jahve, naš Elohim, je sklenil ⟨את⟩ zavezo z nami na Horevu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/5\/1-4.1792425736070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": " naš Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "je sklenil (dobesedno zarezal)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "z nami"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "zavezo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horevu"
+    }
+  ],
+  "timestamp": "2026-10-19T16:02:16.071722744Z",
+  "model": "glm-5.3"
+}

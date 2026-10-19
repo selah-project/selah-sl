@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bom⟩",
+      "rationale": "hebrejščina izpušča osebni glagol prihodnjega časa; slovenščina ga potrebuje"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Naučil vas bom",
+      "rationale": "Job prijatelje povabi k pouku o Božji roki"
+    }
+  ],
+  "translation": "Naučil vas ⟨bom⟩ ⟨את⟩ o roki El-a; kar je s Šadajem, tega ne bom tajil.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "674c6db14c7ce9f8951ccd277c2f694bb54a8948ae3ce99b9e668777f6b616d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/27\/9-12.1792436579365.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Naučil ⟨bom⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "o roki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadajem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "bom tajil"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:59.366704473Z",
+  "model": "glm-5.3"
+}

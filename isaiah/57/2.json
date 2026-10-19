@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "v",
+      "rationale": "slovenščina potrebuje predlog pri vstopanju v mir; hebrejščina ima samo 'pridi, mir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "postelje",
+      "rationale": "משכבות je pri smrti lahko mrtvaška nosilnica — postelja počitka v smrti"
+    }
+  ],
+  "translation": "Vstopi ⟨v⟩ mir, počivali bodo na svojih posteljah, vsak, ki hodi po svoji pravosti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a16ad46f20c230db968f8e199dbba3b347de3fecb45966568471d792e936afd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/57\/1-4.1792430849922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "vstopi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mir"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "počivali bodo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "svojih posteljah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ki hodi"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "po svoji pravosti"
+    }
+  ],
+  "timestamp": "2026-10-19T17:27:29.923253142Z",
+  "model": "glm-5.3"
+}

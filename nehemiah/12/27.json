@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 12:27",
+  "book": "nehemiah",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנכת \/ חנוכה",
+      "rationale": "isti koren חנך na začetku in sredini verza — posvetitev obzidja je postavljena kot liturgična posvetitev"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neveli \/ kinorji",
+      "rationale": "hebrejski inštrumenti נבל in כנור preneseni po zvoku, ne kot 'harfe' in 'lire'"
+    },
+    {
+      "kind": "elision",
+      "subject": "מצלתים",
+      "rationale": "dual 'dvojne činele' — dvojina v slovenščini ni izražena"
+    }
+  ],
+  "translation": "In ob posvetitvi obzidja Jerušalajma so iskali ⟨את⟩ levite z vseh svojih krajev, da bi jih pripeljali v Jerušalajm, da bi storili posvetitev z veseljem in z zahvalami ter s petjem, s činelami, z neveli in s kinorji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f3bd7bc37b57d7120b172847923aaaac3f33a30111b755519cd844e54a3416a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/12\/26-27.1792439122857.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחנכת",
+      "gloss": "in ob posvetitvi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "obzidja"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajma"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "so iskali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levite"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z vseh"
+    },
+    {
+      "surface": "מקומתם",
+      "gloss": "svojih krajev"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "da bi jih pripeljali"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "v Jerušalajm"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "da bi storili"
+    },
+    {
+      "surface": "חנוכה",
+      "gloss": "posvetitev"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "z veseljem"
+    },
+    {
+      "surface": "ובתודות",
+      "gloss": "in z zahvalami"
+    },
+    {
+      "surface": "ובשיר",
+      "gloss": "ter s petjem"
+    },
+    {
+      "surface": "מצלתים",
+      "gloss": "s činelami"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "z neveli"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "in s kinorji"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:22.860024991Z",
+  "model": "glm-5.3"
+}

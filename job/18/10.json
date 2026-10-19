@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez glagola 'biti' — slovenščina ga zahteva."
+    },
+    {
+      "kind": "crux",
+      "subject": "חבלו",
+      "rationale": "'Njegova vrv\/zanka' ali 'njegova theť-mreža'; YLT 'his cord'."
+    }
+  ],
+  "translation": "V zemlji je skrita njegova vrv in njegova past na stezi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1aa993d664ef691a79d27e2c9b04c6d796c207ea5fce3ce40a1e262548b38584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/18\/9-12.1792436431952.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "je skrita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemlji"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "njegova vrv"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "in njegova past"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "stezi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:31.954728188Z",
+  "model": "glm-5.3"
+}

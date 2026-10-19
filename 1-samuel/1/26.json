@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 1:26",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je bolj 'dih\/življenjska sila' kot 'duša'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי נפשך",
+      "rationale": "priseg z 'kot živi tvoja nefes', dobesedno bi zvenelo čudno"
+    },
+    {
+      "kind": "addition",
+      "subject": "kot",
+      "rationale": "primerniški veznik, ki ga hebrejščina nima"
+    }
+  ],
+  "translation": "In rekla je: Prosim, moj gospod, ⟨kot⟩ živi tvoja duša, moj gospod, jaz sem ta ženska, ki je stala pri tebi tu, da bi molila k Jahveju.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2f0a1b144e73c1c25d4ffaa11637c81cf607f9fe224e7495110a247fe88ac3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/1\/25-28.1792427462982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "in rekla je"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prosim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospod"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvoja duša"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "moj gospod"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta ženska"
+    },
+    {
+      "surface": "הנצבת",
+      "gloss": "ki je stala"
+    },
+    {
+      "surface": "עמכה",
+      "gloss": "pri tebi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "da bi molila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveju"
+    }
+  ],
+  "timestamp": "2026-10-19T16:31:02.983173968Z",
+  "model": "glm-5.3"
+}

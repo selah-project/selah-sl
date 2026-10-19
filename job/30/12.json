@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרחח",
+      "rationale": "beseda se v Tanahu pojavlja samo tukaj; pomen 'mladič, zarod' je izpeljan iz korena פרח (kaliti)"
+    },
+    {
+      "kind": "crux",
+      "subject": "zdrnili so name poti",
+      "rationale": "ויסלו iz סלל: dobesedno 'nasipali so cesto' — nasip oblegovalcev (BSB) ali 'zgrnili so progo svoje nesreče name'"
+    },
+    {
+      "kind": "crux",
+      "subject": "poti njihove nesreče",
+      "rationale": "ארחות אידם: 'poti njihove uničenja' ali 'poti, ki mi prinašajo nesrečo'; genitivni odnos je odprt"
+    }
+  ],
+  "translation": "Ob moji desnici vstaja mladič-potomcev; moje noge so odrinili in zgrnili so name poti svoje nesreče.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "57d5de49dde4a81945093c5003ad912d9acd590ef6fdf31bbc3eb5d5ddab5d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/9-12.1792436592473.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ob"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "moji desnici"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "mladič-potomcev"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "vstaja"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "moje noge"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "so odrinili"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "in so zgrnili"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "name"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "poti"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "svoje nesreče"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:12.474464852Z",
+  "model": "glm-5.3"
+}

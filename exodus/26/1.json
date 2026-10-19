@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תלעת שני",
+      "rationale": "dobesedno 'črv škrlata' — insekt ali barvilo; prevedeno kot barva 'škrlat'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעשה חשב",
+      "rationale": "'delo tkalca\/mislečega' — vzorčasto tkano ali vezeno delo; prevodi se razhajajo"
+    },
+    {
+      "kind": "addition",
+      "subject": "v njih",
+      "rationale": "hebrejščina ne pove kjer so kerubi; dodano za jasnost"
+    }
+  ],
+  "translation": "In ⟨את⟩ miškan boš naredil iz desetih zaves: iz sukane bjeline, tekleta, argamana in škrlata; kerubi, delo tkalca, naj bodo ⟨v njih⟩; tako jih boš naredil ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/26\/1-4.1792423583121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "boš naredil"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "zaves"
+    },
+    {
+      "surface": "שש",
+      "gloss": "bjeline"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "sukane"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "teklet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "črva"
+    },
+    {
+      "surface": "שני",
+      "gloss": "škrlata"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tkalca"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "boš naredil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jih"
+    }
+  ],
+  "timestamp": "2026-10-19T15:26:23.122119684Z",
+  "model": "glm-5.3"
+}

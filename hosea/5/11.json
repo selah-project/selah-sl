@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צו",
+      "rationale": "'zapoved' (KJV, Glej prerok) proti 'umazanija' (JPS, metateza שׂוּץ) — čigava zapoved: Asirije ali malikovja?"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje osebni glagol; hebrejščina ima samo particip."
+    }
+  ],
+  "translation": "Zatiran ⟨je⟩ Efrajim, stisnjen v pravu, ker je hotel hoditi za zapovedjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ea7228a07a1c959833b7a5e463e837d63fa3e709d76090717e3b576714feddda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/5\/9-12.1792433780738.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "Zatiran"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "stisnjen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "v pravu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "je hotel"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hoditi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "צו",
+      "gloss": "zapovedjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:20.740271507Z",
+  "model": "glm-5.3"
+}

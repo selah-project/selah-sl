@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה…עורה…אעירה",
+      "rationale": "trojna igra korena עור (zbuditi) — pesnik, slava in inštrumenti se prebudijo skupaj; v slovenščini ostane troje"
+    },
+    {
+      "kind": "crux",
+      "subject": "אעירה שחר",
+      "rationale": "'zbudil bom zarjo' (JPS\/BSB) proti 'zbudil se bom zgodaj zjutraj' (KJV\/ASV — שחar kot prislov 'zgodaj')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "navel",
+      "rationale": "כנור in נבל sta dva različna inštrumenta; obli ohranjeni po hebrejskem zvoku"
+    }
+  ],
+  "translation": "Zbudi se, moja slava, zbudi se, navel in kinor; jaz ⟨sam⟩ bom zbudil zarjo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/57\/9-12.1792434925369.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Zbudi se"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "moja slava"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "zbudi se"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "navel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "in kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "jaz bom zbudil"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zarjo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:35:25.370918478Z",
+  "model": "glm-5.3"
+}

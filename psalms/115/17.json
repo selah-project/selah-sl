@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duma",
+      "rationale": "דומה je 'tišina', zaprtost v smrti — ne 'grob' ali 'podzemlje'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתים\/דומה",
+      "rationale": "mrtvi in tišina — dvojni negaativni ritem v slovenščini izgubi hebrejsko paralizinost"
+    }
+  ],
+  "translation": "Ne hvalijo mrtvi Jaha, ne vsi, ki gredo dol v dumo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/115\/17-18.1792435456008.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mrtvi"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "hvalijo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsi"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ki gredo dol"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "v dumo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:16.008934940Z",
+  "model": "glm-5.3"
+}

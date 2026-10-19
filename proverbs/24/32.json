@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Hebrejščina postavi srce na nekaj brez zajemalnega zaimka; slovenščina ga potrebuje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראיתי לקחתי",
+      "rationale": "Ponovljen par 'videl sem — vzel sem' gradi vzporedje sklepov, ki ga slovenščina ohranja z istim zvezkom glagola."
+    }
+  ],
+  "translation": "In jaz sem opazoval, postavil sem ⟨to⟩ v svoje srce; videl sem, vzel sem pouk.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4baf22e5432b636a22c33e351a86a220fd2154ba986f6a9e65d01035f0fa773b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/29-32.1792436133821.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "in sem opazoval"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postavil sem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "v svoje srce"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "videl sem"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "vzel sem"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pouk"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:33.822545401Z",
+  "model": "glm-5.3"
+}

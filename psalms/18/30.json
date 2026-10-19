@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "proti",
+      "rationale": "hebrejščina ne izraža predloga cilja ob ארץ גדוד; dodano za slovensko slovnico"
+    },
+    {
+      "kind": "crux",
+      "subject": "stečem četi",
+      "rationale": "ארץ גדוד: 'steči proti četi' (JPS, ASV) proti 'prebiti četo' (KJV, Geneva)"
+    }
+  ],
+  "translation": "Kajti s teboj stečem ⟨proti⟩ četi, in z mojim Elohimom preskočim zid.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "30789ada88c01b10468de48d786dc22b758ae27488b1e626422f1e47c107fb63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/18\/30-31.1792438980656.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "s teboj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "stečem"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "četo"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "in z mojim Elohimom"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "preskočim"
+    },
+    {
+      "surface": "שור",
+      "gloss": "zid"
+    }
+  ],
+  "timestamp": "2026-10-19T19:43:00.657347386Z",
+  "model": "glm-5.3"
+}

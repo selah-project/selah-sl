@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 15:25",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "zvoka krvi",
+      "rationale": "konstrukcija זוב דמה — 'tok njenega zvoka krvi' — sem dobesedno razcepljena"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלא עת",
+      "rationale": "dosedanji prevodi: 'zunaj časa' vs YLT 'znotraj časa'; dobesedno 'ne v čas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nidá",
+      "rationale": "נדה pomeni 'izločitev, odbitost'; obdržana kot izraz za menstrualno nečistost"
+    }
+  ],
+  "translation": "In žena, če teče tok njenega zvoka krvi veliko dni zunaj časa njene nidá, ali če teče nad njeno nido, vse dni toka njene nečistosti ⟨so⟩ kakor dnevi njene nide: nečista ⟨je⟩ ona.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "4ff16b03af9249eb0236edf3f5ab95b5dc8957e0461df43c2f64157a1b494fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/15\/25-28.1792424316542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "In žena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "יזוב",
+      "gloss": "teče"
+    },
+    {
+      "surface": "זוב",
+      "gloss": "tok"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "njenega zvoka krvi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "veliko"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "zunaj"
+    },
+    {
+      "surface": "עת",
+      "gloss": "časa"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "njene nidá"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "תזוב",
+      "gloss": "teče"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "njeno nido"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnevi"
+    },
+    {
+      "surface": "זוב",
+      "gloss": "tok"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "njene nečistosti"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kakor dnevi"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "njene nide"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "naj bodo"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nečista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:36.543490857Z",
+  "model": "glm-5.3"
+}

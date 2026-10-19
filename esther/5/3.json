@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה לך",
+      "rationale": "dobesedno 'kaj tebi?' — 'Kaj je s teboj \/ Kaj želiš \/ Kaj te skrbi'; perzijska formulacija ponudbe."
+    },
+    {
+      "kind": "addition",
+      "subject": "ti",
+      "rationale": "hebrejščina ima לך samo enkrat; slovenska glagolska oblika zahteva ⟨ti⟩."
+    }
+  ],
+  "translation": "Kralj pa ji je rekel: Kaj je s teboj, Ester, kraljica? In kaj je tvoja prošnja? Do polovice kraljestva ⟨ti⟩ bo dano.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "29e3799c896a39bf457a45426151d139dc646025fc5f205c2ec57f6d40267335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/5\/1-4.1792437261661.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "je rekel"
+    },
+    {
+      "surface": "לה",
+      "gloss": "njej"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "s teboj"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kraljica"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "tvoja prošnja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovice"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "kraljestva"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "bo dano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tebi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:21.664776725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 26:29",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rodovnik Menaše",
+      "rationale": "Verz našteva družine po rodovih za popis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mahírovci",
+      "rationale": "Patronim המכירי je pridevniška oblika, slovenščina potrebuje množinsko obmo."
+    },
+    {
+      "kind": "elision",
+      "subject": "משפחת … המכירי",
+      "gloss": "stavčna zveza brez glagola"
+    }
+  ],
+  "translation": "Sinovi Menaša: od Mahíra družina Mahírovcev; in Mahír je rodil ⟨את⟩ Gilada; od Gilada družina Giladovcev.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "e7469ca118ffa5d2ea8ea66c2d80b25a57f0e1ce2fda7fdf24009506936cdcfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/26\/29-32.1792425355602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "od Mahíra"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "družina"
+    },
+    {
+      "surface": "המכירי",
+      "gloss": "Mahírovcev"
+    },
+    {
+      "surface": "ומכיר",
+      "gloss": "in Mahír"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "je rodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilada"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "od Gilada"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "družina"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladovcev"
+    }
+  ],
+  "timestamp": "2026-10-19T15:55:55.603226836Z",
+  "model": "glm-5.3"
+}

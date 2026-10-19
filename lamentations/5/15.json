@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pgled naše srci",
+      "rationale": "משוש לבנו je dobesedno 'veselje našega srca'; 'pgled' = radost\/veselje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/מחול→אבל",
+      "rationale": "nasprotje ples–žalost (מחול\/אבל) je retorični obrat, ki ga slovenščina ohranja"
+    }
+  ],
+  "translation": "Prenehal ⟨je⟩ pgled naše srci, obrnil se ⟨je⟩ v žalost naš ples.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/lamentations\/5\/13-16.1792437004804.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "prenehal"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "pgled"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "naše srci"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "obrnil se"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "v žalost"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "naš ples"
+    }
+  ],
+  "timestamp": "2026-10-19T19:10:04.805677388Z",
+  "model": "glm-5.3"
+}

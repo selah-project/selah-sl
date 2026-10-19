@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 38:23",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Glagolska oblika hitpael je povratna — 'poveličal samega sebe', slovenščina potrebuje povratni zaimek"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונודעתי…וידעו",
+      "rationale": "Isti koren ידע: 'bil bom znan — in spoznali bodo', besedna vez spoznanja skozi Ezekielovo knjigo"
+    }
+  ],
+  "translation": "In poveličal bom ⟨se⟩ in posvetil ⟨se⟩ bom in znan bom ⟨ postal⟩ pred očmi mnogih narodov; in vedeli bodo, da sem jaz Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ae1143ca43e705c992ee53b893e855eb45bbc6150cf5f8d25b48dbc176d006ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/38\/21-23.1792433537162.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתגדלתי",
+      "gloss": "in poveličal bom"
+    },
+    {
+      "surface": "והתקדשתי",
+      "gloss": "in posvetil bom"
+    },
+    {
+      "surface": "ונודעתי",
+      "gloss": "znan bom"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pred očmi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "narodov"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogih"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "in vedeli bodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:12:17.164875405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek in pravo",
+      "rationale": "צדקה in צדק\/משפט ostajata po hebrejskem zvoku; 'pravičnost in sodba' bi izgubila obliko korena"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje glagol biti, hebrejščina ga nima"
+    }
+  ],
+  "translation": "Ljubi cedek in pravo; ⟨s⟩ hesed Jahveja je polna ⟨cela⟩ zemlja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/33\/5-8.1792434707270.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ljubi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "in pravo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "je polna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemlja"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:47.271178429Z",
+  "model": "glm-5.3"
+}

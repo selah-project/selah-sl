@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veliki klavec",
+      "rationale": "רַב טַבָּחִים je dobesedno 'veliki klavnik\/kolavnik'; prevodi ga pogosto kot 'poveljnik telesne straže' — vloga, ne dobesedna podoba."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina zahteva pomožnik, hebrejščina ga v wayyiqtol nima."
+    }
+  ],
+  "translation": "In Nevuzaradan, veliki klavec, jih je vzel ⟨את⟩ in odpeljal ⟨את⟩ h kralju Babela, v Riblo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "595d5dcf3be76ebfbaa1bd4a9d07c31ffa8334f22d3b7f99b4256e180cd2a890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/26-28.1792433490743.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "je vzel"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "jih (azine iz mesta)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliki"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "klavec"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "in odpeljal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jih",
+      "marks": "h kralju Babela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "h"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "v Riblo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:11:30.744437844Z",
+  "model": "glm-5.3"
+}

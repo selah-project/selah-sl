@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרע \/ וזריתי",
+      "rationale": "seme (zera) in razsuti (zariti) — koren besed se dotika, v slovenščini izgubljeno"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשא אתכם אליו",
+      "rationale": "'vas bo odneslo k njemu (gnoju)': KJV 'one shall take you away', JPS 'taken away unto it' — kdo ali kaj nosi, je dvoumno"
+    },
+    {
+      "kind": "crux",
+      "subject": "גער לכם את הזרע",
+      "rationale": "'svarim za vas vaše seme': Geneza\/KJV 'pokvarim vaše seme', JPS 'svarim seme za vašo škodo' — גער je 'svariti', ne 'pokvariti'"
+    }
+  ],
+  "translation": "Glej, svarim ⟨את⟩ vaše seme in razsul bom gnoj na vaša obraza — gnoj vaših praznikov — in ⟨את⟩ vas bo odneslo k njemu.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/2\/1-4.1792434487941.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Glej, jaz"
+    },
+    {
+      "surface": "גער",
+      "gloss": "svarim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše seme"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "vaše seme"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "in razsul bom"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "gnoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vaša obraza"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "gnoj"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "vaših praznikov"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "in odneslo bo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k njemu"
+    }
+  ],
+  "timestamp": "2026-10-19T18:28:07.944259632Z",
+  "model": "glm-5.3"
+}

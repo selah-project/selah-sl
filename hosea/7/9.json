@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sivina",
+      "rationale": "שיבה je 'starost', dobesedno 'sivina' — preslikava starosti na sive lase"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים \/ זרקה",
+      "rationale": "zven 'zar' v tujcih (זרים) in posipanju (זרקה) — aliteracija, v slovenščini izgubljena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והוא לא ידע",
+      "rationale": "refren 'on pa ne ve' se ponovi dvakrat — zgrajen odmik Efrajimove slepote"
+    }
+  ],
+  "translation": "Tujci so pojedli njegovo moč, on pa ne ve ⟨tega⟩; tudi sivina se je že posula po njem, on pa ne ve ⟨tega⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/7\/9-12.1792433795143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "so pojedli"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "tujci"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "njegovo moč"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "sivina"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "se je posula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "po njem"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:16:35.147928672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "genesis 24:54",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bili",
+      "rationale": "slovenščina potrebuje glagol, hebrejščina ima samo predlog עמו 'z njim'"
+    },
+    {
+      "kind": "you",
+      "subject": "do Rivkine družine",
+      "rationale": "neposreden nagovor brata in matere: pošljite me"
+    }
+  ],
+  "translation": "In jedli so in pili, on in možje, ki so bili ⟨z njim⟩, in prenočili so; zjutraj so vstali in rekel je: Pošljite me k mojemu gospodu.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "93a2d376173996cdfff995156f6d3268ff8f659097f3fb8a59b3bbe223042e22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/24\/53-56.1792422429555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "jedli so"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "in pili"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "in možje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "so bili z njim"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "prenočili so"
+    },
+    {
+      "surface": "ויקומו",
+      "gloss": "vstali so"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zjutraj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in rekel je"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "pošljite me"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "k mojemu gospodu"
+    }
+  ],
+  "timestamp": "2026-10-19T15:07:09.556440592Z",
+  "model": "glm-5.3"
+}

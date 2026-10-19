@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina brez veznika v vprašanju; slovenščina potrebuje glagol biti"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kraljevo vprašanje",
+      "rationale": "kralj neposredno vpraša Ester po njeni prošnji — ponudba, do polovice kraljestva"
+    }
+  ],
+  "translation": "In kralj je rekel Ester ob vinu gostije: Kaj je tvoja prošnja, ⟨naj⟩ ti bo dano, in kaj je tvoja želja? Do polovice kraljestva ⟨naj⟩ se zgodi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/5\/5-8.1792437241875.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kralj"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "ob gostiji"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "je tvoja prošnja"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "in bo dano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in kaj"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "je tvoja želja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovice"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "kraljestva"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "in se zgodi"
+    }
+  ],
+  "timestamp": "2026-10-19T19:14:01.877526007Z",
+  "model": "glm-5.3"
+}

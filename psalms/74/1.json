@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tvoj nos",
+      "rationale": "אף je dobesedno nos\/nostrice; prenomeno 'jeza' — oblika je ohranjena"
+    },
+    {
+      "kind": "addition",
+      "subject": "nas",
+      "rationale": "hebrejščina nima predmeta ob זנחת; iz konteksta dodan 'nas'"
+    },
+    {
+      "kind": "you",
+      "subject": "k Elohimu",
+      "rationale": "neposreden nagovor Boga z vprašanjem 'zakaj'"
+    }
+  ],
+  "translation": "Poučna pesem Asafova. Zakaj, Elohim, si ⟨nas⟩ zavrnil za vedno? Zakaj se kadi tvoj nos proti drobnici tvoje paše?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/74\/1-4.1792435086362.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "poučna pesem"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafova"
+    },
+    {
+      "surface": "למה",
+      "gloss": "zakaj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "si zavrnil"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "za vedno"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "se kadi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvoj nos"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "proti drobnici"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "tvoje paše"
+    }
+  ],
+  "timestamp": "2026-10-19T18:38:06.363751989Z",
+  "model": "glm-5.3"
+}

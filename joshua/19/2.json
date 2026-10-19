@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "in Šeco",
+      "rationale": "ושבע je lahko ime kraja Šeba (KJV, YLT) ali ponovitev Beer-šebe (JPS 'z', BSB '(ali Šeba)')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהי להם",
+      "rationale": "hebrejski dobesedno 'in bilo jim je', prevedeno kot 'imeli so'"
+    }
+  ],
+  "translation": "In imeli so v svoji dediščini Beer-šeco in Šeco in Molado.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b7bb391ebb91805c11919be2c7d00e25cf8c3f27cce6458c16ca839dd03defb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/19\/1-4.1792426763975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in imeli so"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(njim)"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "v svoji dediščini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "šeco"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "in Šeco"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "in Molado"
+    }
+  ],
+  "timestamp": "2026-10-19T16:19:23.976650177Z",
+  "model": "glm-5.3"
+}

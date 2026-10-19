@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 29:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "במלים",
+      "rationale": " predlog ב- se v slovenščini staplja z besedo; odprt aorist ostaja v glagolu 'zadržali besede'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כף",
+      "rationale": "dobesedno 'dlan\/šepa roke'; 'dlan' ohranja telesno podobo namesto splošne 'roke'"
+    }
+  ],
+  "translation": "Knezi so zadržali besede in dlan so položili na svoja usta.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/29\/9-12.1792436576410.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Knezi"
+    },
+    {
+      "surface": "עצרו",
+      "gloss": "so zadržali"
+    },
+    {
+      "surface": "במלים",
+      "gloss": "besede"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "in dlan"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "so položili"
+    },
+    {
+      "surface": "לפיהם",
+      "gloss": "na svoja usta"
+    }
+  ],
+  "timestamp": "2026-10-19T19:02:56.411041478Z",
+  "model": "glm-5.3"
+}

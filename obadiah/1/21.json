@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo",
+      "rationale": "hebrejščina ima והיתה (in bo bila), slovenščina potrebuje glagol biti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rešitelji",
+      "rationale": "מושעים je deležnik »tisti, ki rešujejo«, povzeto z besedo rešitelji"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ציון\/עשו",
+      "rationale": "nasprotje dveh gora — Cion proti Esavovi gori — struktura celotne knjige"
+    }
+  ],
+  "translation": "In povzpeli se bodo rešitelji na goro Cion, da sodijo ⟨את⟩ goro Esavovo, in kraljestvo bo Jahvejevo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/obadiah\/1\/21-21.1792434027581.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "in povzpeli se bodo"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "rešitelji"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na goro"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "da sodijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goro Esavovo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "in bo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvejevo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kraljestvo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:20:27.581997381Z",
+  "model": "glm-5.3"
+}

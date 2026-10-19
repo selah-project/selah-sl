@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 20:11",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mladostne moči",
+      "rationale": "עלומו 'njegova mladost\/mladostna moč' (JPS\/BSB) vs KJV 'greh njegove mladosti' — KJV je meša z און iz prejšnjega verza"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ta bo ležala",
+      "rationale": "slovenščina potrebuje osebni zaimek 'ta', hebrejščina ima samo 3. osebo ženske za 'mladostno moč'"
+    }
+  ],
+  "translation": "Njegove kosti so polne mladostne moči, a ta bo z njim na prahu ležala.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/20\/9-12.1792436463387.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצמותיו",
+      "gloss": "njegove kosti"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "so polne"
+    },
+    {
+      "surface": "עלומו",
+      "gloss": "mladostne moči"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "a z njim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prahu"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "bo ležala"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:03.388960215Z",
+  "model": "glm-5.3"
+}

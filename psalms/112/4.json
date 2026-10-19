@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חנון ורחום וצדיק",
+      "rationale": "Komu pripisane te lastnosti — Jahveju ali pravičnemu možu? Prevodi se delijo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "usmiljen-pravičen",
+      "rationale": "ורחום usklajeno z naslednjim וצדיק v eno zvezo, ker slovenščina 'milosrden' ne pokriva רחום (usmiljen iz maternega usmiljenja)"
+    }
+  ],
+  "translation": "Vzšla je svetloba v temi za pravične, usmiljen in usmiljen-pravičen.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/112\/1-4.1792435471582.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Vzšla je"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "v temi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "svetloba"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "za pravične"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "usmiljen"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "in usmiljen-pravičen"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:31.584482434Z",
+  "model": "glm-5.3"
+}

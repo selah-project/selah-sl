@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 22:9",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so bile",
+      "rationale": "Hebrew uporablja pasivni particip brez pomožnika; slovenščina potrebuje biti."
+    },
+    {
+      "kind": "alternative",
+      "subject": "roke",
+      "rationale": "זרעות dobesedno 'iztegnjene roke', torej tudi 'moč' — 'moč sirot zdrobljena' je druga možna outrditev."
+    }
+  ],
+  "translation": "Vdove si odposlal prazne, roke sirot pa ⟨so bile⟩ zdrobljene.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/9-12.1792436516505.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנות",
+      "gloss": "Vdove"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "si odposlal"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prazne"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "roke"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "sirot"
+    },
+    {
+      "surface": "ידכא",
+      "gloss": "zdrobljene"
+    }
+  ],
+  "timestamp": "2026-10-19T19:01:56.506834315Z",
+  "model": "glm-5.3"
+}

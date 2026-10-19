@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "hebrejščina izpušča kopulo; הוא je poudarčni zaimek, ne glagol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pokriva",
+      "rationale": "כפר dobesedno 'pokriti'; prevodi navadno 'okrniti \/ spraviti' — slika pokritja je izgubljena"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפש יכפר",
+      "rationale": "'kri z dušo pokriva' ali 'kri zaradi duše pokriva' (ASV\/JPS) — konstrukt ali vzročni beth"
+    }
+  ],
+  "translation": "Kajti duša telesa ⟨je⟩ v krvi, in jaz sem jo dal vam na oltar, da bi pokrila za vaše duše; kajti kri ⟨je⟩ tista, ki z dušo pokriva.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/17\/9-12.1792424307505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "telesa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "v krvi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "in jaz"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "sem jo dal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltar"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "da bi pokrila"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "vaše duše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩ tista"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "z dušo"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pokriva"
+    }
+  ],
+  "timestamp": "2026-10-19T15:38:27.506309540Z",
+  "model": "glm-5.3"
+}

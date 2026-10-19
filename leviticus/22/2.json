@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 22:2",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Hebrew lacks a verb in 'ani YHWH; Slovenščina requires the copula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש",
+      "rationale": "Koren qof-dalet-šin se ponovi trikrat (qodšei, qodši, meqaddešim) — svetost, ki jo sinovi Izraela posvečujejo, je Jahvejeva lastna svetost; besedna igra v slovenščini delno ohranjena."
+    },
+    {
+      "kind": "you",
+      "subject": "Aharonu in njegovim sinom",
+      "rationale": "Neposreden naslov duhovniški družini — zapoved o zadrževanju od svetih stvari."
+    }
+  ],
+  "translation": "Govori z Aharonom in z njegovimi sinovi, naj se vzdržijo svetih stvari sinov Jisraela in naj ne oskrunijo ⟨את⟩ imena svoje svetosti, ki jo oni posvečujejo meni; jaz ⟨sem⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d0172bfadf120a766c56ab2c0d3aa86fcc490750c98f0fcc3e45dec600e65a98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/22\/2-4.1792433269426.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Govori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "z"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in z"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "njegovimi sinovi"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "naj se vzdržijo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svetih stvari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "oskrunijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ime svoje svetosti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ime"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svoje svetosti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jo oni"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "posvečujejo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T18:07:49.427859019Z",
+  "model": "glm-5.3"
+}

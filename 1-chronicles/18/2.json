@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה je 'dar\/davek' — tukaj davek podložnosti, ohranjeno kot minha po D2."
+    },
+    {
+      "kind": "measurement",
+      "subject": "davek",
+      "rationale": "verz opisuje vazalni davek — vsakoletno plačilo pokorjenega Moaba."
+    }
+  ],
+  "translation": "In udaril je ⟨את⟩ Moaba, in Moabci so postali hlapci Davidu, nosilci minhe.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "26d72c0b3782ecd6c2910eb0ba6be2a02d727dddef7c82e145e13a673b2cf9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/18\/1-2.1792439133543.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "in udaril je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "in postali so"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabci"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hlapci"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosilci"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minhe"
+    }
+  ],
+  "timestamp": "2026-10-19T19:45:33.545239984Z",
+  "model": "glm-5.3"
+}

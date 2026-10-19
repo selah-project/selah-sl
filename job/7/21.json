@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושחרתני",
+      "rationale": "Šahar pomeni dobesedno 'zgodaj se truditi\/iskati'; prevodi se razhajajo: 'iskal me boš zgodaj zjutraj' (KJV\/BSB) proti 'pognal me boš' (Targum)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פשע",
+      "rationale": "Peša je dobesedno 'upor, odhod stran' — slovenska tradicija ponavadi 'pregreh'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "in me ne bo več",
+      "rationale": "Job namiguje na nepovratnost smrti — iskanje ne bo nič našlo."
+    }
+  ],
+  "translation": "In zakaj ne nosiš mojega upora in ne odneseš ⟨את⟩ moje krivde? Kajti zdaj bom legel v prah, iskal me boš — in me ne bo več.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "229a8f79207f463e03495fdfde791c55c65d023fdeaa083af382fa18be1ab479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/7\/21-21.1792436286324.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "in zakaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nosíš"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mojega upora"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "in ne odneseš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moje krivde"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moje krivde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "v prah"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "bom legel"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "iskal me boš"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "in me ne bo več"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:06.324902435Z",
+  "model": "glm-5.3"
+}

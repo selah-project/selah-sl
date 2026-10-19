@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 5:1",
+  "book": "jeremiah",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "prošnja-členec 'zdaj\/prosim' ni posebea slovenska ustreznica, ⟨zdaj⟩ označuje dodajanje"
+    },
+    {
+      "kind": "addition",
+      "subject": "tedaj",
+      "rationale": "hebrejščina naklája pogoj brez 'tedaj'; dodano za berljivost"
+    },
+    {
+      "kind": "you",
+      "subject": "to the searchers of Jerusalem",
+      "rationale": "verz ukazuje z imperativi naslovniku, naj preišče mesto"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לה",
+      "rationale": "'nji' se lahko nanaša na Jerušalajim (mesto) ali na ljudstvo; sprejeta je množinska raba"
+    }
+  ],
+  "translation": "Pretecite se po ulicah Jerušalajima in glejte ⟨zdaj⟩ ter spoznajte in iščite na njenih trgih, če najdete moža, če je ⟨kdo⟩, ki dela sodbo, ki išče zvestobo — tedaj odpuščam ⟨nji⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "2e0583fbe851d60ac959a36a15d5909c8da036636b92ef5971297f3a5e69aebd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/5\/1-4.1792431151902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוטטו",
+      "gloss": "pretecite se"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "po ulicah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajima"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "in glejte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨zdaj⟩"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "in spoznajte"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "in iščite"
+    },
+    {
+      "surface": "ברחובותיה",
+      "gloss": "na njenih trgih"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "najdete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moža"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ki dela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sodbo"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ki išče"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "zvestobo"
+    },
+    {
+      "surface": "ואסלח",
+      "gloss": "tedaj odpuščam"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨nji⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T17:32:31.903550536Z",
+  "model": "glm-5.3"
+}

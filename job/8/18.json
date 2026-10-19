@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kdo⟩ \/ ⟨bo kraj⟩",
+      "rationale": "hebrejščina ne pove, kdo pogoltne in kdo zanika — prevodi se razhajajo (človek, Bog ali sama zemlja)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלע \/ כחש",
+      "rationale": "pogoltniti in zatajiti — slika kraja, ki požre rastlino in se nato dela, da je nikoli ni poznal."
+    }
+  ],
+  "translation": "Če ga ⟨kdo⟩ pogoltne z njegovega mesta, ⟨bo kraj⟩ zanikal ⟨ga⟩: »Nisem te videl.«",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "115f7f93859ebda55517b4ccb791b2859a05f7e8c6da8d5efda980af002312ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/8\/17-20.1792436323948.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "pogoltne ga"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "z njegovega mesta"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "in zanikal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "nisem te videl"
+    }
+  ],
+  "timestamp": "2026-10-19T18:58:43.956349902Z",
+  "model": "glm-5.3"
+}

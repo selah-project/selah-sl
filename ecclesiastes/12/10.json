@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "besede želene",
+      "rationale": "דברי חפץ: 'besede ugode\/želene' (JPS 'delight') nasproti 'dopadljive besede'"
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "slovenščina potrebuje pomožnik pri pasivnem pesel 'zapisano ⟨je⟩ pravo'"
+    }
+  ],
+  "translation": "Iskal je Kohelet najti besede želene, in zapisano ⟨je⟩ pravo — besede resnice.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e3dcfb073f1e57222c2bfcf483985748a0824bee53af4ab7d88fd1a2c19c5000",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/12\/9-12.1792437142378.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Iskal je"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "najti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "želene"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "in zapisano"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "besede"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "resnice"
+    }
+  ],
+  "timestamp": "2026-10-19T19:12:22.380314315Z",
+  "model": "glm-5.3"
+}

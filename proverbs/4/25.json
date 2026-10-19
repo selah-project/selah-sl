@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nej",
+      "rationale": "hebrejščina ima tretje osebko v ukazu, slovenščina doda 'nej' za milev ukaz"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עפעפיך",
+      "rationale": "beseda pomeni trepalnice\/veke kot trepetajoče; tu vzeta za pogled"
+    }
+  ],
+  "translation": "Tvoje oči nej gledajo naravnost predse, in tvoje veke nej se držijo premo pred teboj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/4\/25-27.1792435825892.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "naravnost predse"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "nej gledajo"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "in tvoje veke"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "nej se držijo premo"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pred teboj"
+    }
+  ],
+  "timestamp": "2026-10-19T18:50:25.892916450Z",
+  "model": "glm-5.3"
+}

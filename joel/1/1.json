@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "k",
+      "rationale": "hebrejščina ima el brez predloga; slovenščina potrebuje 'k'"
+    }
+  ],
+  "translation": "Beseda Jahveja, ki je bila ⟨k⟩ Joelu, sinu Petuela.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/1\/1-4.1792433922677.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Beseda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "je bila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joelu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuela"
+    }
+  ],
+  "timestamp": "2026-10-19T18:18:42.678857327Z",
+  "model": "glm-5.3"
+}

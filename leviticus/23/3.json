@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "Podvajanje korena: »šabat šabaton« — šabat popolnega šabata; slovenščina dobi »šabat, popoln počitek« in izgubi odmev."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Slovenščina potrebuje pokazalni zaimek, ker הוא poudarja: šabat sam je tisti, ki pripada Jahveju."
+    },
+    {
+      "kind": "measurement",
+      "subject": "šest dni \/ sedmi dan",
+      "rationale": "Verz šteje dneve in določa časovno ureditev tedna."
+    }
+  ],
+  "translation": "Šest dni naj se dela delo, in v sedmi dan je šabat, popoln počitek, sveti zbor; vsega dela ne delajte: šabat je ⟨ta⟩ Jahveju v vseh vaših bivališčih.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/23\/1-4.1792424472878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "naj se dela"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "delo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "in v dan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "popoln počitek"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "sveti zbor"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vsega"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "dela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "delajte"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨ta⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveju"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v vseh"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "vaših bivališčih"
+    }
+  ],
+  "timestamp": "2026-10-19T15:41:12.879293094Z",
+  "model": "glm-5.3"
+}

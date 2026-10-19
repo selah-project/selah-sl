@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tiste, ki",
+      "rationale": "slovenščina potrebuje oziralni veznik, hebrejščina ima samo participe"
+    }
+  ],
+  "translation": "Blagoslovi tiste, ki se bojijo Jahveja, male ⟨skupaj⟩ z velikimi.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/115\/13-16.1792435460388.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "blagoslovi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "tiste, ki se bojijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "male"
+    },
+    {
+      "surface": "עם",
+      "gloss": "skupaj z"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "velikimi"
+    }
+  ],
+  "timestamp": "2026-10-19T18:44:20.389520104Z",
+  "model": "glm-5.3"
+}

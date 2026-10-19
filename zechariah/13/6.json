@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 13:6",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kdor",
+      "rationale": "Hebrejščina ne imenuje spraševalca; slovenščina potrebuje osebek."
+    },
+    {
+      "kind": "crux",
+      "subject": "בין ידיך",
+      "rationale": "dobesedno 'med tvojimi rokami' (tudi na prsih\/hrbtu); ASV 'med rokami', KJV 'na tvojih rokah'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאהבי",
+      "rationale": "'mojih ljubiteljev' (tisti, ki me ljubijo) proti 'mojih prijateljev'; koren אהב pomeni ljubiti."
+    },
+    {
+      "kind": "mystery",
+      "subject": "rane",
+      "rationale": "V kontekstu lažnega preroka: rane, pridobljene v domači hiši, ostajajo namerno večpomenske, brez razlage v besedilu."
+    }
+  ],
+  "translation": "In rekel bo ⟨kdor⟩ njemu: Kaj so te rane med tvojimi rokami? In rekel bo: Tiste, s katerimi sem bil udaran v hiši mojih ljubiteljev.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "5f6344f5284f3836e174fddcc56e802f23c2b1ce35aa0c761610ce0c9ed88c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/13\/5-8.1792434440792.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel bo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨kdor⟩ njemu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "המכות",
+      "gloss": "so te rane"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tvojimi rokami"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "in rekel bo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiste, ki"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "sem bil udaran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "מאהבי",
+      "gloss": "mojih ljubiteljev"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:20.793625515Z",
+  "model": "glm-5.3"
+}

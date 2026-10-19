@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "'njih' (ljudstvo) ali 'njemu' (kralj) — odvisno od tega, ali je verz podaljšek 28,7 ali samostojen stavek o ljudstvu in maziljencu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maziljenec",
+      "rationale": "משיח tukaj pomeni posvečenega kralja, ne pa poznejšega Mesije — zato 'maziljenec' in ne 'Mesija'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "končni הוא kot poudarek se v slovenščini izrazi z glagolom biti"
+    }
+  ],
+  "translation": "Jahve je njihova moč in trdnjava rešitev svojega maziljenca ⟨je⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/28\/5-8.1792434697438.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moč"
+    },
+    {
+      "surface": "למו",
+      "gloss": "njihova"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "in trdnjava"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rešitev"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "svojega maziljenca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:37.441453795Z",
+  "model": "glm-5.3"
+}

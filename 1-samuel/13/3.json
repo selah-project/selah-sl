@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "sl",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "postojanka",
+      "rationale": "נְצִיב: 'nekaj stoječega' — namestnik, vojaška postojanka, kip; 'postojanka' ohranja vojaško podobo."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "Hebrejščina poved 'Pelištimci so slišali' ne navaja predmeta; dodano za slovenski glagol 'zaslišali'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Slišite, Hebrejci!",
+      "rationale": "Šaulov klic z rogom neposredno nagovarja poslušalce."
+    },
+    {
+      "kind": "you",
+      "subject": "k Hebrejcem",
+      "rationale": "Neposreden nagovor ljudstva prek trobljenja po deželi."
+    }
+  ],
+  "translation": "In Jonatan je udaril ⟨את⟩ postojanko Pelištimcev, ki je bila v Gevi; in Pelištimci so zaslišali ⟨to⟩, Šaul pa je zatrobil s šofarjem po vsej deželi in rekel: Slišite, Hebrejci!",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "2f7e84a9cb99cec7e36f8004026ee01a6382e940552f68786aba854d03395cc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/13\/1-4.1792427689496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "in je udaril"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "postojanko Pelištimcev"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "postojanko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištimcev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "v Gevi"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "in so zaslišali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištimci"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Šaul pa"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "je zatrobil"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "s šofarjem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po vsej"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deželi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in rekel"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "Slišite"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejci"
+    }
+  ],
+  "timestamp": "2026-10-19T16:34:49.497677152Z",
+  "model": "glm-5.3"
+}

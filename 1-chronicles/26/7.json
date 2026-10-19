@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 26:7",
+  "book": "1-chronicles",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "njegovi bratje",
+      "rationale": "אחיו בני חיל: KJV bere 'bratje Elzabada', JPS 'Elzabad in njegovi bratje' — hebrejska skladenjska povezava je dvoumna."
+    },
+    {
+      "kind": "addition",
+      "subject": ":",
+      "rationale": "Slovenščina potrebuje locijo za naštevanje, hebrejščina je postavlja zloženo."
+    }
+  ],
+  "translation": "Sinovi Šemaje: Otini in Refael in Oved, Elzabad, njegovi bratje, sinovi-hajila, Elihu in Semakja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "b9de67f0a80c130408cfe0fa9ca5e55c797bb4254132db064addf8c4072a4773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/26\/5-8.1792438352510.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Šemaje"
+    },
+    {
+      "surface": "עתני",
+      "gloss": "Otini"
+    },
+    {
+      "surface": "ורפאל",
+      "gloss": "in-Refael"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "in-Oved"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Elzabad"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "njegovi-bratje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hajila"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "וסמכיהו",
+      "gloss": "in-Semakja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:32:32.516403166Z",
+  "model": "glm-5.3"
+}

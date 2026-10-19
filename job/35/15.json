@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אין פקד אפו",
+      "rationale": "KJV bere 'ker je obiskal v svoji jezi', ASV\/JPS 'ker ni obiskal'; מאוד je lahko tudi 'zelo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "srd",
+      "rationale": "af dobesedno 'nose\/nosnica', prevzeto kot 'jeza, srd'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בפש",
+      "rationale": "beseda za neumnost\/oholo nastopa v Tanahu le tukaj in v sorodni obliki"
+    }
+  ],
+  "translation": "In zdaj, ker ni obiskal ⟨svojega⟩ srda, ne pozna predrzne neumnosti, ki prekorača vse.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "1221ddfa222e5314b2a02b62e9f928e1299f504ec6dc7518e19fe0c98ea7a099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/35\/13-16.1792436714595.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "in zdaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "obiskal"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "⟨svojega⟩ srda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozna"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "neumnosti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "prekorača vse"
+    }
+  ],
+  "timestamp": "2026-10-19T19:05:14.596758715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "sl",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לנקם נקם",
+      "rationale": "infinitiv in samostalnik istega korena — 'maščevati maščevanje'; slovenščina potrebuje obvod"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jezo",
+      "rationale": "חמה je dobesedno 'vročina', preneseno 'jeza'; toplotna podoba je v slovenščini izgubljena"
+    }
+  ],
+  "translation": "da bi dvignila jezo, da bi se vzelo maščevanje, sem postavil ⟨את⟩ njeno kri na golo skalo, da ne bo prekrita.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a5713b41536115e2a3b619c601c23e33efb8e0e97c5f60902790baa1b4279785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/24\/5-8.1792432442438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "da bi dvignila"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "jezo"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "da bi se vzelo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "maščevanje"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sem postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njeno kri"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "njeno kri"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "golo"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "skalo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da ne bo"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "prekrita"
+    }
+  ],
+  "timestamp": "2026-10-19T17:54:02.440075704Z",
+  "model": "glm-5.3"
+}

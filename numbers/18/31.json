@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 18:31",
+  "book": "numbers",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šotor srečanja",
+      "rationale": "אהל מועד je 'šotor določenega časa\/srečanja'; 'tabernakelj' je poznejša cerkvena beseda."
+    },
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Hebrejščina izraža poudarek z ločenim zaimekom הוא; slovenščina doda glagolsko 'je'."
+    }
+  ],
+  "translation": "In jedli ⟨את⟩ ga boste na vsakem kraju, vi in vaša hiša, kajti plačilo je to vam v zameno za vašo službo v šotoru srečanja.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "cf564fbff3a1cd1ae4458c8717dfb905cc8c8bde246427e33ff68902b733b240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/18\/29-32.1792425172289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "in jedli boste"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ga",
+      "marks": "ga (teruma)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na vsakem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kraju"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "וביתכם",
+      "gloss": "in vaša hiša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "plačilo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vam"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "v zameno za"
+    },
+    {
+      "surface": "עבדתכם",
+      "gloss": "vašo službo"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "v šotoru"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "srečanja"
+    }
+  ],
+  "timestamp": "2026-10-19T15:52:52.290280233Z",
+  "model": "glm-5.3"
+}

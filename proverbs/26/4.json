@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨enak⟩",
+      "rationale": "שׁוה pomeni izenačiti se, biti podoben; slovenščina potrebuje glagolsko dopolnilo"
+    },
+    {
+      "kind": "crux",
+      "subject": "Prl 26,4 nasproti 26,5",
+      "rationale": "verz 5 zapoveduje nasprotno (»odgovori neumniku po njegovi neumnosti«) — nameren paradoks, ne nasprotje v izročilu"
+    }
+  ],
+  "translation": "Ne odgovarjaj neumniku po njegovi neumnosti, da ne bi bil ⟨enak⟩ njemu — tudi ti.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/26\/1-4.1792436099611.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תען",
+      "gloss": "odgovarjaj"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "neumniku"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "po njegovi neumnosti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "da ne bi"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "bil ⟨enak⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "njemu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:59.612402897Z",
+  "model": "glm-5.3"
+}

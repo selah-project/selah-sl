@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבט",
+      "rationale": "'žezel (oblast)' ali 'palica (kaznovanja)' — vladavina hudobcev nad deležem pravičnih"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גורל",
+      "rationale": "dobesedno 'kamenec za žreb', delež dodeljen z žrebom"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הצדיקים … הצדיקים",
+      "rationale": "ponovitev 'pravični' na začetku in koncu verza"
+    }
+  ],
+  "translation": "Kajti žezel hudobije ne bo počival na deležu cedek-pravičnih, da cedek-pravični ne bi stegtili svojih rok v hudobo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/125\/1-4.1792435558895.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kajti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "bo počival"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "žezel"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "hudobije"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "deležu"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "cedek-pravičnih"
+    },
+    {
+      "surface": "למען",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "bi stegtili"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "cedek-pravični"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "v hudobo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "svojih rok"
+    }
+  ],
+  "timestamp": "2026-10-19T18:45:58.896997085Z",
+  "model": "glm-5.3"
+}

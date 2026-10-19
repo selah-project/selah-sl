@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משט",
+      "rationale": "redka beseda: ' prerivati, zahajati sem in tja' — prevodi se razhajajo od ' hoditi sem in tja' do ' obhoditi'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve do satana",
+      "rationale": "neposreden naslov z vprašanjem"
+    },
+    {
+      "kind": "addition",
+      "subject": "sem in sem",
+      "rationale": "hebrejščina ima en sam glagol משט; slovenščina rabi večbesedno zvezo za premikanje tja in nazaj"
+    }
+  ],
+  "translation": "In Jahve je rekel satanu: Od kod prihajaš? In satan je odgovoril ⟨את⟩ Jahveja in rekel: Od potovanja sem in sem po zemlji in od hodanja po nji.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/2\/1-4.1792436277974.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satanu"
+    },
+    {
+      "surface": "אי",
+      "gloss": "od"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kod"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "prihajaš"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "in je odgovoril"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "משט",
+      "gloss": "od potovanja sem in sem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemlji"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "in od hodanja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po nji"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:57.975277296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על־פי",
+      "rationale": "dobesedno 'na usta (njegove poti)' — po meri, po navodilu; 'po ustju' ohranja sliko"
+    },
+    {
+      "kind": "crux",
+      "subject": "על־פי דרכו",
+      "rationale": "'po njegovi lastni poti' (Luther) proti 'po poti, ki mu gre' ali 'potrjeno po njegovem ustju' — hebrejščina dvoumna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנך",
+      "rationale": "glagol pomeni 'posvetiti, uvajati' (prim. hanuká) — 'vzgoji' je ozko"
+    }
+  ],
+  "translation": "Vzgoji dečka po ustju njegove poti; tudi ko bo ostarel, ne bo odšel od nje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/22\/5-8.1792436070082.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "vzgoji"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "dečka"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ustju"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njegove poti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tudi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "bo ostarel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "bo odšel"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "od nje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:54:30.082877016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "renčijo",
+      "rationale": "נהק je glas osla — 'renčijo' ohranja živalski zvok, ki ga 'vpijo' izgubi."
+    },
+    {
+      "kind": "crux",
+      "subject": "se stiskajo skupaj",
+      "rationale": "יספחו: 'zbrati se' (KJV\/JPS) ali 'biti prilepljeni\/zalepljeni' — koren pomeni strgati\/prilepiti; izbrano je 'stiskajo se' kot srednja pot."
+    }
+  ],
+  "translation": "Med grmovjem renčijo; pod bodljami se stiskajo skupaj.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/30\/5-8.1792436613173.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "med"
+    },
+    {
+      "surface": "שיחים",
+      "gloss": "grmovjem"
+    },
+    {
+      "surface": "ינהקו",
+      "gloss": "renčijo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "bodljami"
+    },
+    {
+      "surface": "יסספחו",
+      "gloss": "se stiskajo skupaj"
+    }
+  ],
+  "timestamp": "2026-10-19T19:03:33.176814935Z",
+  "model": "glm-5.3"
+}

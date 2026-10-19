@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "strup",
+      "rationale": "יפרש 'loči\/izloči' namiguje na izločanje strupa; slovenščina brez dopolnila ne pove, kaj modras loči"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחש \/ צפעני",
+      "rationale": "Dva kačja imena namesto splošnega 'kača': šest vprašanj iz v. 29 dobijo dva zobca"
+    }
+  ],
+  "translation": "Njegov konec kakor kača ugrizne in kakor modras loči ⟨strup⟩.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/23\/29-32.1792436147586.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "njegov konec"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "kakor kača"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ugrizne"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "in kakor modras"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "loči ⟨strup⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T18:55:47.589904013Z",
+  "model": "glm-5.3"
+}

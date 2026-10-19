@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 8:6",
+  "book": "2-samuel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je bil",
+      "rationale": "Hebrejščina ima בתהי brez osebka; dodan osebek iz besedila."
+    },
+    {
+      "kind": "substitution",
+      "subject": "miñho",
+      "rationale": "מנחה tu ni daritev, ampak davek; D2 nalaga zvesto besedo minha, ki nosi oba pomena."
+    }
+  ],
+  "translation": "In David je postavil posadke v Aramu damaskovem, in Aram je bil Davidu za hlapce, ki nosijo miñho; in Jahve je reševal ⟨את⟩ Davida povsod, koder je hodil.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/8\/5-8.1792428268049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "in postavil je"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "posadke"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "v Aramu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "damaskovem"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "in je bil"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za hlapce"
+    },
+    {
+      "surface": "נושאי",
+      "gloss": "ki nosijo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "miñho"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "in reševal je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "povsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koder"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "je hodil"
+    }
+  ],
+  "timestamp": "2026-10-19T16:44:28.050388928Z",
+  "model": "glm-5.3"
+}

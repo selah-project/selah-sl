@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "sl",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "iskal sem razumevanje",
+      "rationale": "Daniel sam ne razume videnja — besedilo izrecno priznava zaprtost, ki jo bo odprl šele 8,16."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "Slovenščina zahteva glagol 'biti' pri 'kakor podoba moža'; hebrejščina jebrez člena in brez kopule."
+    }
+  ],
+  "translation": "In zgodbilo se je, ko sem videl ⟨את⟩ videnje — jaz, Daniel —, in iskal sem razumevanje, in glej: stal je pred menoj kakor podoba moža.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "f01d3cfe2e22e77903adaed5bd8d3f7b7e9931f1d9fd3f4e3a15e7bf6817d255",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/8\/13-16.1792437534564.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "in zgodbilo se je"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ko sem videl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "videnje"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "videnje"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "in iskal sem"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "razumevanje"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "in glej"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stal je"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pred menoj"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kakor podoba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moža"
+    }
+  ],
+  "timestamp": "2026-10-19T19:18:54.568231377Z",
+  "model": "glm-5.3"
+}

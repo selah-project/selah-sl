@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez veznika; imenovalnik 'golobici' je brez 'kot' — primerjava je gola enačba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנך יפה",
+      "rationale": "Dvojno ponovitev 'glej, lepa si' — naraščajoči ritem dvorske hvalnice."
+    },
+    {
+      "kind": "you",
+      "subject": "prijateljica",
+      "rationale": "Prvič v Pesmi naslavlja dod svojo ljubljeno — sprememba govorka."
+    }
+  ],
+  "translation": "Glej, lepa si, moja prijateljica, glej, lepa si, tvoje oči ⟨so⟩ golobici.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/song-of-songs\/1\/13-16.1792436844471.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "lepa"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "moja prijateljica"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "glej"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "lepa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvoje oči"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "golobici"
+    }
+  ],
+  "timestamp": "2026-10-19T19:07:24.473054664Z",
+  "model": "glm-5.3"
+}

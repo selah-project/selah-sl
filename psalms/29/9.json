@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחולל אילות",
+      "rationale": "' dela srne teli' (KJV\/JPS) proti ' zvije hraste' (YLT, אילות kot pl. איל\/silik); חול pomeni zvijati, plesati, rojevati v bolečinah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "plesa",
+      "rationale": "חול je zavijati\/vrteti; izbrana slika vrtinčenja, ne bolečine rojstva."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלו…כבוד",
+      "rationale": "vse (כלו) in Slava (כבוד) se stikata v zvoku; tudi poanta psalma."
+    }
+  ],
+  "translation": "Glas Jahveja plesa srne in gol lesove; in v njegovem templu vse govori: Slava.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/29\/9-11.1792434681720.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveja"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "plesa"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "srne"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "in gol"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "lesove"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "in v njegovem templu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "govori"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Slava"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:21.721108419Z",
+  "model": "glm-5.3"
+}

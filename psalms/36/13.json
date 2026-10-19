@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "niča",
+      "rationale": "אָוֶן pomeni dobesedno 'ničevost' (nothingness); 'storilci niča' ohranja dobesedno podobo namesto 'brezbožniki' ali 'hudobneži'."
+    },
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Slovenščina zahteva pomožnik 'so' pri glagolih 'padli' in 'porinjeni'; hebrejščina ga nima."
+    }
+  ],
+  "translation": "Tam so padli storilci niča, porinjeni so in ne morejo vstati.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/36\/13-13.1792434727477.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "so padli"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "storilci"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "niča"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "porinjeni so"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "morejo"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "vstati"
+    }
+  ],
+  "timestamp": "2026-10-19T18:32:07.479072040Z",
+  "model": "glm-5.3"
+}

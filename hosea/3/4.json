@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "sl",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brez",
+      "rationale": "hebrejščina ponavlja אֵין ('nič ni') šestkrat; slovenščina namesto tega predlog 'brez', ponovitev je delno ohranjena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין",
+      "rationale": "šesterokratni anaforični אֵין gradi opis izpraznitve — ritmična struktura, ki jo prevod gladi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mnogo dni",
+      "rationale": "obdobje brez kralja, kneza in kulta, merjeno v dneh."
+    }
+  ],
+  "translation": "Kajr sinovi Jisraela bodo mnogo dni sedeli ⟨brez⟩ kralja, ⟨brez⟩ kneza, ⟨brez⟩ žrtve, ⟨brez⟩ stebra, ⟨brez⟩ efoda in terafimov.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/3\/1-4.1792433839772.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajr"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnogo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bodo sedeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sinovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "brez"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in brez"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kneza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in brez"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "žrtve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in brez"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stebra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in brez"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "in terafimov"
+    }
+  ],
+  "timestamp": "2026-10-19T18:17:19.775067742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "časi",
+      "rationale": "Hebrejščina dopušča tudi prihodnji pomen ('bo sezidal'), a oblika je preteklik\/dovršnik."
+    }
+  ],
+  "translation": "Kajti Jahve je sezidal Cion, prikazal se je v svojem sijaju.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/102\/17-20.1792435336343.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "je sezidal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "prikazal se je"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "v svojem sijaju"
+    }
+  ],
+  "timestamp": "2026-10-19T18:42:16.344218126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד je po D2 hesed, ne »ljubeča dobrota« ali »usmiljenje«"
+    }
+  ],
+  "translation": "kajti tvoj hesed je pred mojimi očmi in hodil sem v tvoji resnici.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/26\/1-4.1792434707919.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvoj hesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pred"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mojimi očmi"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "in hodil sem"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "v tvoji resnici"
+    }
+  ],
+  "timestamp": "2026-10-19T18:31:47.921428718Z",
+  "model": "glm-5.3"
+}

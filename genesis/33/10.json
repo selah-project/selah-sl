@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 33:10",
+  "book": "genesis",
+  "lang": "sl",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dar",
+      "rationale": "מנחה je tu biskupni dar, ne daritev — po pravilu se ne piše »minha«, ker gre za dar"
+    },
+    {
+      "kind": "crux",
+      "subject": "kakor se vidi obraz Elohim",
+      "rationale": "Jaakov primerja Esavov obraz z obrazom Elohim — aluzija na Penuel (32,31); prevodi se razhajajo: dobesedno primerjava ali »kakor da bi videl«"
+    },
+    {
+      "kind": "you",
+      "subject": "Esav",
+      "rationale": "Jaakov neposredno nagovarja Esava s prošnjo in pogojem"
+    }
+  ],
+  "translation": "In Jaakov je rekel: A ne, prosim! Če sem pač našel naklonjenost v tvojih očeh, potem vzemi moj dar iz moje roke; kajti prav zato sem videl tvoj obraz, kakor se vidi obraz Elohim, in bil si mi naklonjen.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/33\/9-12.1792422626146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "in je rekel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pač"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "sem našel"
+    },
+    {
+      "surface": "חן",
+      "gloss": "naklonjenost"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvojih očeh"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "potem vzemi"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "moj dar"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iz moje roke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajti"
+    },
+    {
+      "surface": "על",
+      "gloss": "prav"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sem videl"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvoj obraz"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "kakor se vidi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obraz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותרצני",
+      "gloss": "in bil si mi naklonjen"
+    }
+  ],
+  "timestamp": "2026-10-19T15:10:26.147438224Z",
+  "model": "glm-5.3"
+}

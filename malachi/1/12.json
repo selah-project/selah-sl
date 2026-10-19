@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "sl",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨je⟩",
+      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga pri naslavljanju nima"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אותו → njen",
+      "rationale": "hebrejščina ima moški zaostalek 'ga' na שמי (moje ime); slovensko 'ime' je srednjik — spol se razhaja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחללים ... מגאל",
+      "rationale": "dva korena za oskrunitev v enem verzu — חלל in גאל — ponotavljanje obtožbe"
+    }
+  ],
+  "translation": "In vi oskrunjate ⟨את⟩ga, ko pravite: Miza Adonaja je onečaščena, njen pridelek — prezrto je njeno živilo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/1\/9-12.1792434460437.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "in vi"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "oskrunjate"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ga",
+      "marks": "moje ime (iz r. 11)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "ko pravite"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "miza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaja"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "onečaščena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "njen pridelek"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "prezrto"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "njeno živilo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:40.441170676Z",
+  "model": "glm-5.3"
+}

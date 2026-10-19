@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "so",
+      "rationale": "Hebrejščina brez glagola biti — vstavljen veznik."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזוינו",
+      "rationale": "מֶזֶו 'žitnica' se v Tanahu pojavi le tukaj in v 5 Mz 28,5."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפיקים מזן אל זן",
+      "rationale": "dobesedno 'izdajajočo od vrste do vrste': shrambe odpirajo vsako zalogo ali 'vrsta za vrsto'; tudi מאליפות lahko 'nesajo po tisoče' od korena אלף."
+    }
+  ],
+  "translation": "Naše shrambe ⟨so⟩ polne, izdajajo vrsto za vrsto; naša drobnica rojeva tisoče, desettisoče v naših ulicah.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/13-15.1792435710258.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "naše shrambe"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "polne"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "izdajajo"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "vrsto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "זן",
+      "gloss": "vrsto"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "naša drobnica"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "rojeva tisoče"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "desettisoče"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "v naših ulicah"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:30.259274258Z",
+  "model": "glm-5.3"
+}

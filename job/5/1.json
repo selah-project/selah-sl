@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "do Ijova",
+      "rationale": "Elifaz neposredno nagovarja Ijova s izzivalnim vprašanjem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kliči zdaj",
+      "rationale": "Vabilo v obliko ukaza — izziv, naj Ijov poišče odgovor med svetimi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svetih",
+      "rationale": "מקדשים so 'sveti' v pomenu nebeških bitij, ne ljudi; rabinska izročila vidijo tu angela."
+    },
+    {
+      "kind": "crux",
+      "subject": "odgovoril",
+      "rationale": "עונך: 'kdo ti bo odgovoril' vs 'ali je kdo, ki odgovarja' — glagol je edina beseda, ki nosi vprašanje."
+    }
+  ],
+  "translation": "Kliči zdaj — ali je ⟨kdo⟩, ki bi ti odgovoril, in h kateremu od svetih se boš obrnil?",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/5\/1-4.1792436258407.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Kliči"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zdaj"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ali je"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "odgovoril"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "in h"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kateremu"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "svetih"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "obrnil"
+    }
+  ],
+  "timestamp": "2026-10-19T18:57:38.408113994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "sl",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המתה תמות \/ תכחד",
+      "rationale": "infinitivni absolut v paru s finitevnim glagolom — umirajoča naj umre — zvočna ponovitev, v slovenščini delno ohranjena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vsaka",
+      "rationale": "אִשָּׁה tu ni 'žena', temveč ženski distributivni 'vsaka' (od živali\/ostanka)"
+    }
+  ],
+  "translation": "In rekel sem: Ne bom vas pasel ⟨את⟩. Tista, ki umira, naj umre; in tista, ki izgineva, naj izgine; in preostale naj jede vsaka ⟨את⟩ meso bližnje svoje.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/11\/9-12.1792434457199.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "In rekel sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "bom pasel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "tista, ki umira"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "naj umre"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "in tista, ki izgineva"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "naj izgine"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "in preostale"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "naj jede"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vsaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "bližnje svoje"
+    }
+  ],
+  "timestamp": "2026-10-19T18:27:37.200494129Z",
+  "model": "glm-5.3"
+}

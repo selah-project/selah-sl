@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "sl",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידו",
+      "rationale": "Dobesedno 'ob njegovi roki' = 'zraven njega', hebrejska fraza za 'takoj za njim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלוצי צבא",
+      "rationale": "Dobesedno 'izvlečeni (pripravljeni) za vojsko' — opremljeni v boj."
+    }
+  ],
+  "translation": "In ob njegovi roki Jehozabad, in z njim sto osemdeset tisoč opremljenih za vojsko.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/17\/17-19.1792438627267.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "in ob"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "njegovi roki"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jehozabad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "in z njim"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "osemdeset"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisoč"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "opremljenih"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "za vojsko"
+    }
+  ],
+  "timestamp": "2026-10-19T19:37:07.268695105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je dihajoče bitje, življenjska sila, ne 'duša' v poznejšem pomenu."
+    },
+    {
+      "kind": "crux",
+      "subject": "קול אלה",
+      "rationale": "'glas preklinjanja': ali gre za slišano javno prekletstvo, ali za poziv k pričanja pod prisego."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Slovenščina potrebuje osebni zaimek, hebrejščina ga vsebuje v והוא, a brez glagola."
+    }
+  ],
+  "translation": "In če duša greši, ker je slišala glas preklinjanja, pri čemer je ⟨on⟩ priča — kajti videl je ali vedel —, če ne pove, nosil bo svojo krivdo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/5\/1-4.1792424058558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "in duša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "če"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "greši"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "in slišala"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "preklinjanja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "pri čemer je ⟨on⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "priča"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "videl"
+    },
+    {
+      "surface": "או",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vedel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "če"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "pove"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "nosil bo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svojo krivdo"
+    }
+  ],
+  "timestamp": "2026-10-19T15:34:18.559537197Z",
+  "model": "glm-5.3"
+}

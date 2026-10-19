@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "sl",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tistega, ki",
+      "rationale": "hebrejščina ima sam deležnik brez samostalnika; slovenščina potrebuje osebek."
+    },
+    {
+      "kind": "idiom",
+      "subject": "v vratih",
+      "rationale": "vrata = mestno sodišče; dobesedno 'v vratih', ne 'na sodišču'."
+    }
+  ],
+  "translation": "Sovražijo v vratih tistega, ki opominja, in tistega, ki govori brezhibno, se gnusijo.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/9-12.1792433975806.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "sovražijo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v vratih"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "tistega, ki opominja"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "in tistega, ki govori"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "brezhibno"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "se gnusijo"
+    }
+  ],
+  "timestamp": "2026-10-19T18:19:35.806968372Z",
+  "model": "glm-5.3"
+}

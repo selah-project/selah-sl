@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Idiom 'ampak-le' po negaciji: 'ne … ampak (samo) to, da'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "razodene",
+      "rationale": "גלה dobesedno 'razkriti\/odkriti' — slika razgaljenega srca, ne 'izražanja mnenj' (BSB)."
+    }
+  ],
+  "translation": "Ne želi norec razumevanja, ampak ⟨le to⟩, da se razodene njegovo srce.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/18\/1-4.1792435986817.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "želi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "norec"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "razumevanja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ampak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨le to⟩"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "da se razodene"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "njegovo srce"
+    }
+  ],
+  "timestamp": "2026-10-19T18:53:06.819235274Z",
+  "model": "glm-5.3"
+}

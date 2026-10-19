@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טרף",
+      "rationale": "'plen' (nagrabljena hrana) proti 'hrana' ali 'delež'; YLT ohranja prvo, večina prevodov drugo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "טרף",
+      "rationale": "Tudi 'nagrabljena hrana' — mana kot vsakodnevna hrana tistim, ki se bojijo Jahveja."
+    }
+  ],
+  "translation": "Plen je dal tistim, ki se ga bojijo; večno se spominja svoje zaveze.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/111\/5-8.1792435434143.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "plen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tistim, ki se ga bojijo"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "spominja se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "večno"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svoje zaveze"
+    }
+  ],
+  "timestamp": "2026-10-19T18:43:54.144211520Z",
+  "model": "glm-5.3"
+}

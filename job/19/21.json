@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 19:21",
+  "book": "job",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנני חנני",
+      "rationale": "Dvojno ponovljen klic iz istega korena — ponovitev je v slovenščini ohranjena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dotaknila",
+      "rationale": "נגע je 'dotaknil se \/ udaril'; tu blizu pomena 'udaril'."
+    }
+  ],
+  "translation": "Pomilite me, pomilite me, vi, moji prijatelji, kaj roka Eloah je me dotaknila.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "241a3e22f7ceaddca00379f095cffab6f6c80b77b351301c1ba443c9f17ac325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/19\/21-24.1792436451855.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "pomilite me"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "pomilite me"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "moji prijatelji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaj"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "je dotaknila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-10-19T19:00:51.856045953Z",
+  "model": "glm-5.3"
+}

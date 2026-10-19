@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "sl",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "je",
+      "rationale": "Slovenščina potrebuje glagol biti; hebrejščina ga nima — frazni samostalnik brez glagola."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבל\/שמחה",
+      "rationale": "Vzporednica žalovanje\/veselje veže verze 2–4 v niz: hiša žalovanja proti hiši gostije."
+    }
+  ],
+  "translation": "Srce modrih je v hiši žalovanja, in srce neumnih v hiši veselja.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/7\/1-4.1792437113105.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "srce"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "modrih"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "žalovanja"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "in srce"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "neumnih"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v hiši"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "veselja"
+    }
+  ],
+  "timestamp": "2026-10-19T19:11:53.108022308Z",
+  "model": "glm-5.3"
+}

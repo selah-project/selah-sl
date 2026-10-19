@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "sl",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pridobi⟩",
+      "rationale": "V drugem stavku hebrejščina glagola ne ponovi; eliptičen vzporedni člen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מומו",
+      "rationale": "Zaporedje מוֹכִיח\/מוּמוּ (graja\/žega) zveni kot besedna igra, v slovenščini izgubljena."
+    }
+  ],
+  "translation": "Kdor poučuje posmehovalca, pridobi ⟨sebi⟩ sramoto, kdor graja krivičnega, ⟨pridobi⟩ žego.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "ba54514a2842e0a842f4b9a272f64e53e48c68672d900aa915d7f018379fe2f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/9\/5-8.1792435888079.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "kdor poučuje"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "posmehovalca"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pridobi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sebi⟩"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sramoto"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "kdor graja"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "krivičnega"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "žego"
+    }
+  ],
+  "timestamp": "2026-10-19T18:51:28.080550282Z",
+  "model": "glm-5.3"
+}

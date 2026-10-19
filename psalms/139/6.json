@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sl",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פלאיה",
+      "rationale": "Oblika פלאיה se v Tanahu pojavlja samo tu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tako⟩ da",
+      "rationale": "Slovenska vez, ki je hebrejski ellipsi ('povzdignjeno, ne zmorem je') doda zvezo."
+    }
+  ],
+  "translation": "Predočudno je spoznanje nad menoj, povzdignjeno — ⟨tako⟩ da ga ne zmorem.",
+  "provenance": {
+    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/139\/5-8.1792435707360.json",
+    "code": "97dea7966-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "predočudno"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "spoznanje"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nad menoj"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "povzdignjeno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zmorem"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-10-19T18:48:27.361565346Z",
+  "model": "glm-5.3"
+}

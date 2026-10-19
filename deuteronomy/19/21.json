@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sl",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duša",
+      "rationale": "נפש je živo bitje, dih, življenjska moč — ne nesmrtna duša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עין בעין שן בשן יד ביד רגל ברגל",
+      "rationale": "petkratni ponovljeni par X-za-X, koren lex talionis, shema ostane tudi v slovenščini"
+    }
+  ],
+  "translation": "In tvoje oko naj ne usmili: duša za dušo, oko za oko, zob za zob, roka za roko, noga za nogo.",
+  "provenance": {
+    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/19\/21-21.1792426011757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "naj se ne usmili"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tvoje oko"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duša"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "za dušo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "za oko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zob"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "za zob"
+    },
+    {
+      "surface": "יד",
+      "gloss": "roka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "za roko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "noga"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "za nogo"
+    }
+  ],
+  "timestamp": "2026-10-19T16:06:51.758361243Z",
+  "model": "glm-5.3"
+}
