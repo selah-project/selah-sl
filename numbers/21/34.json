@@ -5,38 +5,11 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moše",
-      "rationale": "Jahve neposredno nagovarja Mošeta pred bitko z Ogom."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨boš⟩",
-      "rationale": "Hebrejščina ima samo weʿasita, prihodnjost pa zahteva pomožnik."
-    },
-    {
-      "kind": "addition",
-      "subject": "elision of אל",
-      "gloss": "",
-      "rationale": ""
-    }
-  ],
-  "translation": "In rekel je Jahve Mošetu: Ne boj se ⟨את⟩ njega, kajti v tvojo roko sem dal ⟨את⟩ njega in ⟨את⟩ ves njegov ljud in ⟨את⟩ njegovo deželo, in naredil ⟨boš⟩ njemu, kakor si naredil Sihonu, kralju Emorejcev, ki je prebival v Hešbonu.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/21\/33-35.1792425166182.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jahve je rekel Mošetu: Ne boj se ⟨את⟩ njega, kajti v tvojo roko sem dal ⟨את⟩ njega in ⟨את⟩ vse njegovo ljudstvo in ⟨את⟩ njegovo deželo; in naredil mu boš, kakor si naredil Sihonu, kralju Emorijcev, ki prebiva v Hešbonu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "In rekel je"
+      "gloss": "In je rekel"
     },
     {
       "surface": "יהוה",
@@ -44,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "k"
     },
     {
       "surface": "משה",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "תירא",
@@ -83,15 +56,15 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "ves njegov ljud"
+      "marks": "vse njegovo ljudstvo"
     },
     {
       "surface": "כל",
-      "gloss": "ves"
+      "gloss": "vse"
     },
     {
       "surface": "עמו",
-      "gloss": "njegov ljud"
+      "gloss": "njegovo ljudstvo"
     },
     {
       "surface": "ואת",
@@ -104,11 +77,11 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "in naredil"
+      "gloss": "in naredil boš"
     },
     {
       "surface": "לו",
-      "gloss": "njemu"
+      "gloss": "mu"
     },
     {
       "surface": "כאשר",
@@ -128,7 +101,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorejcev"
+      "gloss": "Emorijcev"
     },
     {
       "surface": "אשר",
@@ -136,13 +109,13 @@
     },
     {
       "surface": "יושב",
-      "gloss": "je prebival"
+      "gloss": "prebiva"
     },
     {
       "surface": "בחשבון",
       "gloss": "v Hešbonu"
     }
   ],
-  "timestamp": "2026-10-19T15:52:46.183946487Z",
+  "timestamp": "2026-10-19T20:36:04.266326026Z",
   "model": "glm-5.3"
 }

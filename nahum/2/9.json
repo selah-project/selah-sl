@@ -5,61 +5,35 @@
   "book": "nahum",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je \/ je tista",
-      "rationale": "Hebrew has no copula; the emphatic pronoun היא carries the 'from of old she is' clause."
-    },
-    {
-      "kind": "crux",
-      "subject": "מימי היא",
-      "rationale": "'from her days' (BSB 'throughout her days') vs 'from of old' — the idiom either dates the pool or marks endurance."
-    },
-    {
-      "kind": "idiom",
-      "subject": "עמדו עמדו",
-      "rationale": "Doubled imperative 'Stand, stand' — cries to the fleeing to halt; rendered with repetition kept."
-    }
-  ],
-  "translation": "In Ninive ⟨je⟩ kakor bazen vode — od svojih dni ⟨je tista⟩ — in oni beže. ›Stojte, stojte!‹ — pa ni kdor bi se obrnil.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nahum\/2\/9-12.1792434210898.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ninive je kakor vodna mlaka ⟨od⟩ dni svojih, in oni bežijo. Stojte, stojte! pa ni ⟨nobenega, ki⟩ se obrača.",
   "tokens": [
     {
       "surface": "ונינוה",
-      "gloss": "In Ninive"
+      "gloss": "Ninive"
     },
     {
       "surface": "כברכת",
-      "gloss": "kakor bazen"
+      "gloss": "mlaka"
     },
     {
       "surface": "מים",
-      "gloss": "vode"
+      "gloss": "vodna"
     },
     {
       "surface": "מימי",
-      "gloss": "od svojih dni"
+      "gloss": "dni"
     },
     {
       "surface": "היא",
-      "gloss": "je tista"
+      "gloss": "svojih"
     },
     {
       "surface": "והמה",
-      "gloss": "in oni"
+      "gloss": "oni"
     },
     {
       "surface": "נסים",
-      "gloss": "beže"
+      "gloss": "bežijo"
     },
     {
       "surface": "עמדו",
@@ -71,13 +45,13 @@
     },
     {
       "surface": "ואין",
-      "gloss": "in ni"
+      "gloss": "ni"
     },
     {
       "surface": "מפנה",
-      "gloss": "kdor bi se obrnil"
+      "gloss": "se obrača"
     }
   ],
-  "timestamp": "2026-10-19T18:23:30.899160476Z",
+  "timestamp": "2026-10-19T20:35:01.450010032Z",
   "model": "glm-5.3"
 }

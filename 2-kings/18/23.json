@@ -5,54 +5,33 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התערב",
-      "rationale": "Doveljni pledge 'zastaviti\/se zavezati' ali 'give hostage' (KJV) ali 'skleniti stavo' (JPS); dobesedno 'prepletati', tj. skleniti dogovor."
-    },
-    {
-      "kind": "measurement",
-      "subject": "dva tisoč konj",
-      "rationale": "Številka del posmeha: Juda nima niti toliko jezdcev."
-    }
-  ],
-  "translation": "Zdaj pa zastavi pri mojem gospodu, kralju Ašurja, in jaz ti dam dva tisoč konj, če zmoreš dati nase jezdce zanje.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e02be63bd46f325cb0e75e84dce684fa6c864b3fa16a5e4649abcf77cd289312",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/18\/21-24.1792429764861.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zdaj daj zalog, prosim, ⟨את⟩ mojemu gospodu, ⟨את⟩ kralju Ašurja, in jaz ti dam dva tisoč konj, če moreš dati se jezdece nase.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "zdaj pa"
+      "gloss": "in zdaj"
     },
     {
       "surface": "התערב",
-      "gloss": "zastavi"
+      "gloss": "daj zalog"
     },
     {
       "surface": "נא",
-      "gloss": "prosim"
+      "gloss": "prosím"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moj gospod"
+      "marks": "mojemu gospodu"
     },
     {
       "surface": "אדני",
-      "gloss": "moj gospod"
+      "gloss": "mojemu gospodu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kralj Ašurja"
+      "marks": "kralju"
     },
     {
       "surface": "מלך",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "zmores"
+      "gloss": "moreš"
     },
     {
       "surface": "לתת",
@@ -92,17 +71,17 @@
     },
     {
       "surface": "לך",
-      "gloss": "nase"
+      "gloss": "se"
     },
     {
       "surface": "רכבים",
-      "gloss": "jezdce"
+      "gloss": "jezdece"
     },
     {
       "surface": "עליהם",
-      "gloss": "zanje"
+      "gloss": "nase"
     }
   ],
-  "timestamp": "2026-10-19T17:09:24.862476945Z",
+  "timestamp": "2026-10-19T20:17:36.406621709Z",
   "model": "glm-5.3"
 }

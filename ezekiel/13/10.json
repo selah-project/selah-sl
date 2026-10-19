@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תפל",
-      "rationale": "תפל: 'neskuhano mazilo' (KJV 'untempered mortar') ali 'tupo, nepravo' — tu dobesedno 'mazilo-ślina', pokvarjeno ometanje."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלום ... אין שלום",
-      "rationale": "Ponovitev 'Mir! in mira ni' — preroška ironija, ohranjena dobesedno."
-    },
-    {
-      "kind": "addition",
-      "subject": "ki ni pravo",
-      "rationale": "תפל kot pridevnik k mazilu zahteva slovenski opisnik; hebrejščina ima eno besedo."
-    }
-  ],
-  "translation": "Zato, prav zato, ker so zavedli ⟨את⟩ moje ljudstvo, rekóč: Mir! — in mira ni — in on zidá steno, in glej, oni jo mažejo z mazilom, ki ni pravo:",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "04a57dc34d8b131d1e4601f79bd961ed7a6d2ccc887a39cfd8862e807441d99d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/13\/9-12.1792432166390.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Prav zato, ker so zavedli ⟨את⟩ moje ljudstvo, rekoč: Šalom! in šaloma ni — in on zida zid, in glej, ti ⟨את⟩ ga mažejo z nezitim ometom.",
   "tokens": [
     {
       "surface": "יען",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "rekóč"
+      "gloss": "rekoč"
     },
     {
       "surface": "שלום",
-      "gloss": "Mir"
+      "gloss": "Šalom!"
     },
     {
       "surface": "ואין",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "mira"
+      "gloss": "šaloma"
     },
     {
       "surface": "והוא",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "בנה",
-      "gloss": "zidá"
+      "gloss": "zida"
     },
     {
       "surface": "חיץ",
-      "gloss": "steno"
+      "gloss": "zid"
     },
     {
       "surface": "והנם",
-      "gloss": "in glej"
+      "gloss": "in glej, ti"
     },
     {
       "surface": "טחים",
@@ -92,14 +66,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ njo",
-      "marks": "mazilo, ki ni pravo"
+      "gloss": "⟨את⟩ ga",
+      "marks": "nežiti omet"
     },
     {
       "surface": "תפל",
-      "gloss": "z mazilom, ki ni pravo"
+      "gloss": "z nezitim ometom"
     }
   ],
-  "timestamp": "2026-10-19T17:49:26.391888679Z",
+  "timestamp": "2026-10-19T20:22:45.265676457Z",
   "model": "glm-5.3"
 }

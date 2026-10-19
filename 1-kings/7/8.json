@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je imel",
-      "rationale": "Hebrew nominal clause without verb; slovenščina potrebuje glagol"
-    },
-    {
-      "kind": "crux",
-      "subject": "מבית לאולם",
-      "rationale": "dobesedno 'znotraj hiše, proti portiku'; prevodi razhajajo: 'za portikom' (JPS) proti 'znotraj portika'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "Šelomo",
-      "rationale": "po hebrejskem zvoku; ustaljena slovenska oblika je Salomon"
-    }
-  ],
-  "translation": "In njegov dom, kjer je prebival tam, ⟨je imel⟩ drugo dvorišče znotraj portika, kakor to delo je bilo; in naredil je ⟨את⟩ dom za hčer faraona, katero je vzel Šelomo, kakor ta portik.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/7\/5-8.1792428845108.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In njegov dom, kjer je tam prebival, ⟨je imel⟩ drugo dvorišče za hišo portika; po enakem delu kot ⟨ta⟩ je bilo. In hišo je naredil za hčer Paroha, katero je vzel Šelomo, kakor ta portik.",
   "tokens": [
     {
       "surface": "וביתו",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "je prebival"
+      "gloss": "prebival"
     },
     {
       "surface": "שם",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "znotraj-doma"
+      "gloss": "za hišo"
     },
     {
       "surface": "לאולם",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "כמעשה",
-      "gloss": "kakor to delo"
+      "gloss": "po enakem delu"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "kot ⟨ta⟩"
     },
     {
       "surface": "היה",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "ובית",
-      "gloss": "in dom"
+      "gloss": "in hišo"
     },
     {
       "surface": "יעשה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "faraona"
+      "gloss": "Paroha"
     },
     {
       "surface": "אשר",
@@ -107,13 +81,13 @@
     },
     {
       "surface": "כאולם",
-      "gloss": "kakor ta portik"
+      "gloss": "kakor portik"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "ta"
     }
   ],
-  "timestamp": "2026-10-19T16:54:05.109729455Z",
+  "timestamp": "2026-10-19T20:14:35.117764799Z",
   "model": "glm-5.3"
 }

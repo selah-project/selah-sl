@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מני",
-      "rationale": "'del, struna' — KJV bere 'iz' (kot dišave), YLT\/ASV\/JPS 'strunska glasbila so te razveselila'; slednje je podprto s strukturo verza."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שן",
-      "rationale": "dobesedno 'zub', tu 'slonovina' — predmet iz zoba."
-    },
-    {
-      "kind": "hapax",
-      "subject": "קציעות",
-      "rationale": "kasija se v tej obliki pojavlja redko; dišava iz olupljenega lubja."
-    }
-  ],
-  "translation": "Mira, alojevega drvja in kasije — vsa tvoja oblačila; iz palač slonovine so te razveselile strunske ‹glasbila›.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/45\/9-12.1792434813795.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mira in ahalot, kasilje — vsa ⟨so⟩ tvoja oblačila; iz slonokoščenih palač so te razveselili godci na strunah.",
   "tokens": [
     {
       "surface": "מר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "ואהלות",
-      "gloss": "in alojevega drvja"
+      "gloss": "in ahalot"
     },
     {
       "surface": "קציעות",
-      "gloss": "kasije"
+      "gloss": "kasilje"
     },
     {
       "surface": "כל",
@@ -63,17 +37,17 @@
     },
     {
       "surface": "שן",
-      "gloss": "slonovine"
+      "gloss": "slonokoščenih"
     },
     {
       "surface": "מני",
-      "gloss": "strunska glasbila"
+      "gloss": "godci na strunah"
     },
     {
       "surface": "שמחוך",
-      "gloss": "so te razveselile"
+      "gloss": "so te razveselili"
     }
   ],
-  "timestamp": "2026-10-19T18:33:33.796253982Z",
+  "timestamp": "2026-10-19T20:37:25.519957993Z",
   "model": "glm-5.3"
 }

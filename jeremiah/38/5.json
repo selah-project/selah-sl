@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אין המלך יוכל אתכם דבר",
-      "rationale": "dobesedno »kajti ni kralj-more-v-as (z) vami besedo«; idiom: kralj vam ne more izreči besede \/ nič odvreči."
-    },
-    {
-      "kind": "you",
-      "subject": "kralj Cidkijahu",
-      "rationale": "kralj se neposredno obrača na plemiče."
-    }
-  ],
-  "translation": "In kralj Cidkijahu je rekel: Glej, on je v vaših rokah, kajti kralj ⟨ne⟩ more z vami ⟨v⟩ nič.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/38\/5-8.1792431732024.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In kralj Cidkija je rekel: Glej, on je v vaših rokah, kajti kralj z vami ne more ⟨את⟩ ničesar ⟨dopovedati⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in je rekel"
+      "gloss": "In je rekel"
     },
     {
       "surface": "המלך",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Cidkijahu"
+      "gloss": "Cidkija"
     },
     {
       "surface": "הנה",
-      "gloss": "glej"
+      "gloss": "Glej"
     },
     {
       "surface": "הוא",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "⟨ne⟩ more — negacija"
+      "gloss": "ne"
     },
     {
       "surface": "המלך",
@@ -71,13 +50,13 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "z vami"
+      "marks": "z vami (dopovedati)"
     },
     {
       "surface": "דבר",
-      "gloss": "nič"
+      "gloss": "ničesar"
     }
   ],
-  "timestamp": "2026-10-19T17:42:12.025365947Z",
+  "timestamp": "2026-10-19T20:29:34.141777276Z",
   "model": "glm-5.3"
 }

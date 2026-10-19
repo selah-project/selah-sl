@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "počitek",
-      "rationale": "מניח iz נוחח — 'dati počivati, umiriti', ne le oddih"
-    },
-    {
-      "kind": "you",
-      "subject": "to Ruhenovim, Gadovim in polovici Manašejevega plemena",
-      "rationale": "Jozue nagovarja prekipe in Gada, nadaljevanje iz v. 12"
-    }
-  ],
-  "translation": "Spomnite se besede, ki vam jo je zapovedal Moše, služabnik Jahveja, in rekel: Jahve, vaš Elohim, vam daje počitek in vam da ⟨את⟩ to deželo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "b00f3725aff8b8cb07455fd3574627ec5a02bc7597f46b8b1b1d790b975f1660",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/1\/13-16.1792426462222.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Spomnite se ⟨את⟩ besede, katero je zapovedal vam Moše, služabnik Jahve, in rekel: Jahve, vaš Elohim, vam daje počitek in vam da ⟨את⟩ to deželo.",
   "tokens": [
     {
       "surface": "זכור",
-      "gloss": "spomnite se"
+      "gloss": "Spomnite se"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "katero"
     },
     {
       "surface": "צוה",
@@ -51,7 +30,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vam"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (kome je Moše zapovedal)"
     },
     {
       "surface": "משה",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahveja"
+      "gloss": "Jahve"
     },
     {
       "surface": "לאמר",
@@ -79,7 +59,7 @@
     },
     {
       "surface": "מניח",
-      "gloss": "daja počitek"
+      "gloss": "daje počitek"
     },
     {
       "surface": "לכם",
@@ -107,6 +87,6 @@
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-10-19T16:14:22.222740642Z",
+  "timestamp": "2026-10-19T20:30:40.841479930Z",
   "model": "glm-5.3"
 }

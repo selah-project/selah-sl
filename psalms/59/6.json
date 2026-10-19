@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 59,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "obiščeš",
-      "rationale": "לפקד 'obiskati' s sovražnim namenom — 'kaznovati' je pomanjšanje, dobesedno 'obiščeš (v sodbi)'."
-    },
-    {
-      "kind": "elision",
-      "subject": "סלה",
-      "rationale": "glasbeni znak za pavzo, ostaja kot Sela."
-    },
-    {
-      "kind": "you",
-      "subject": "peticija",
-      "rationale": "neposreden nagovor Jahveja, Elohim Cebaot, Elohim Jisraela."
-    }
-  ],
-  "translation": "In ti, Jahve, Elohim Cebaot, Elohim Jisraela, zbudil se boš, da obiščeš ⟨את⟩ vse narode; ne usmili se nobenega izmed izdajalcev krivde. Sela.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/59\/5-8.1792434966822.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ti, Jahve, Elohim Cebaot, Elohim Jisraelov, zbudi se, da obiščeš vse narode; ne izkaži usmiljenja vsem izdajalcem krivice. Sela.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -55,20 +29,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Jisraelov"
     },
     {
       "surface": "הקיצה",
-      "gloss": "zbudil se boš"
+      "gloss": "zbudi se"
     },
     {
       "surface": "לפקד",
       "gloss": "da obiščeš"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "vse narode"
     },
     {
       "surface": "כל",
@@ -84,25 +53,25 @@
     },
     {
       "surface": "תחן",
-      "gloss": "usmili se"
+      "gloss": "izkaži usmiljenja"
     },
     {
       "surface": "כל",
-      "gloss": "nobenega izmed"
+      "gloss": "vsem"
     },
     {
       "surface": "בגדי",
-      "gloss": "izdajalcev"
+      "gloss": "izdajalcem"
     },
     {
       "surface": "און",
-      "gloss": "krivde"
+      "gloss": "krivice"
     },
     {
       "surface": "סלה",
       "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-19T18:36:06.823813377Z",
+  "timestamp": "2026-10-19T20:37:58.056052437Z",
   "model": "glm-5.3"
 }

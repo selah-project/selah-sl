@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בראשו",
-      "rationale": "dobesedno 'v njegovi glavi' — idiom za 'v polnem znesku, po glavnici'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "petina",
-      "rationale": "odškodnina določena kot glavnica plus petina — številska natančnost Tore"
-    }
-  ],
-  "translation": "ali kar koli, o čemer se je lažno zaobljubil: povrni ⟨ga⟩ v polni vrednosti in njegovo petino doda ⟨nanj⟩; tistemu, komur pripada, naj ⟨mu⟩ da v dnevu svoje krivde.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/5\/21-24.1792424062620.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ali za karkoli, o čemer bi lažno prisegel, ⟨naj⟩ to povrne v celoti (v glavi svoji) in petino tega doda nje — tistemu, komur pripada, naj to da na dan svoje krivde.",
   "tokens": [
     {
       "surface": "או",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "kar koli"
+      "gloss": "za karkoli"
     },
     {
       "surface": "אשר",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "ישבע",
-      "gloss": "se je zaobljubil"
+      "gloss": "bi prisegel"
     },
     {
       "surface": "עליו",
-      "gloss": "glede"
+      "gloss": "o njem"
     },
     {
       "surface": "לשקר",
@@ -54,19 +33,20 @@
     },
     {
       "surface": "ושלם",
-      "gloss": "povrni v polni vrednosti"
+      "gloss": "in povrne"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨ga⟩"
+      "gloss": "⟨את⟩",
+      "marks": "to — stvar, o kateri je prisegel"
     },
     {
       "surface": "בראשו",
-      "gloss": "v polni vrednosti"
+      "gloss": "v celoti (dobesedno: v njegovi glavi)"
     },
     {
       "surface": "וחמשתיו",
-      "gloss": "njegovo petino"
+      "gloss": "in njegovo petino"
     },
     {
       "surface": "יסף",
@@ -74,7 +54,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "nanj"
+      "gloss": "nje (nanjo)"
     },
     {
       "surface": "לאשר",
@@ -82,25 +62,25 @@
     },
     {
       "surface": "הוא",
-      "gloss": "pripada"
+      "gloss": "to"
     },
     {
       "surface": "לו",
-      "gloss": "njemu"
+      "gloss": "pripada njemu"
     },
     {
       "surface": "יתננו",
-      "gloss": "naj da"
+      "gloss": "naj to da"
     },
     {
       "surface": "ביום",
-      "gloss": "v dnevu"
+      "gloss": "na dan"
     },
     {
       "surface": "אשמתו",
       "gloss": "svoje krivde"
     }
   ],
-  "timestamp": "2026-10-19T15:34:22.621779833Z",
+  "timestamp": "2026-10-19T20:34:25.785495878Z",
   "model": "glm-5.3"
 }

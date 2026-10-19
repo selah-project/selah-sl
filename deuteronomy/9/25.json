@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "prej",
-      "rationale": "hebrejščina ne pove »prvič«, samo התנפלתי — padal sem"
-    },
-    {
-      "kind": "measurement",
-      "subject": "štirideset dni in štirideset noči",
-      "rationale": "štetje dni in noči prošnje"
-    }
-  ],
-  "translation": "In padel sem na obraz pred Jahvom štirideset dni in štirideset noči, kakor sem padal ⟨prej⟩, kajti Jahve je rekel, da ⟨את⟩ ⟨vas⟩ uniči.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/9\/25-28.1792425861059.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vrgel sem se pred Jahve ⟨את⟩ štirideset dni in ⟨את⟩ štirideset noči, kakor sem padal ⟨中所⟩— kakor sem se vrgel, kajti Jahve je rekel, da ⟨את⟩ vas bo uničil.",
   "tokens": [
     {
       "surface": "ואתנפל",
-      "gloss": "in padel sem na obraz"
+      "gloss": "in vrgel sem se"
     },
     {
       "surface": "לפני",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "התנפלתי",
-      "gloss": "sem padal na obraz"
+      "gloss": "sem se vrgel"
     },
     {
       "surface": "כי",
@@ -88,13 +67,14 @@
     },
     {
       "surface": "להשמיד",
-      "gloss": "da uniči"
+      "gloss": "da bo uničil"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨vas⟩"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
     }
   ],
-  "timestamp": "2026-10-19T16:04:21.059844835Z",
+  "timestamp": "2026-10-19T20:20:39.070294889Z",
   "model": "glm-5.3"
 }

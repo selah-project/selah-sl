@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "da",
-      "rationale": "Slovenščina potrebuje veznik 'da' pred namernim ויעבדני."
-    },
-    {
-      "kind": "you",
-      "subject": "faraonu",
-      "rationale": "Neposreden nagovor faraona prek Mošeta."
-    }
-  ],
-  "translation": "In Jahve je rekel Mošetu: Vstopi k faraonu in mu reci: Tako govori Jahve: Izpusti ⟨את⟩ moje ljudstvo, da ⟨⟨me⟩> bo služilo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/7\/25-28.1792423174819.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jahve je rekel Mošetu: Stopi h Faraonu in mu reci: Tako govori Jahve: Pošlji ⟨את⟩ moje ljudstvo, da ⟨⟨me⟩⟩ bo služilo ⟨me⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "h"
     },
     {
       "surface": "משה",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "בא",
-      "gloss": "Vstopi"
+      "gloss": "Stopi"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "h"
     },
     {
       "surface": "פרעה",
-      "gloss": "faraonu"
+      "gloss": "Faraonu"
     },
     {
       "surface": "ואמרת",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "Izpusti"
+      "gloss": "Pošlji"
     },
     {
       "surface": "את",
@@ -94,6 +73,6 @@
       "gloss": "da me bo služilo"
     }
   ],
-  "timestamp": "2026-10-19T15:19:34.820046200Z",
+  "timestamp": "2026-10-19T20:22:32.049303943Z",
   "model": "glm-5.3"
 }

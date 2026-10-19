@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "omer",
-      "rationale": "עמר je hkrati snop in mera; ohranjena kot omer po D3"
-    },
-    {
-      "kind": "you",
-      "subject": "sinovom Jisraela",
-      "rationale": "neposreden naslov ljudstvu prek Mošeta"
-    }
-  ],
-  "translation": "Govori sinovom Jisraela in reci jim: Ko pridete v deželo, katero jaz vam dajem, in požanjete ⟨את⟩ njen žetev, prinesite omer, prvine vašega žetev-a, duhovniku.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/23\/9-12.1792424459684.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Govori z otroki Jisraela in reci jim: Ko pridete v deželo, ki jo jaz dajam vam, in požanjete ⟨את⟩ njen žetev, prinesite ⟨את⟩ omer — začetek vašega žetva — duhovniku.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "govori"
+      "gloss": "Govori"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "z"
     },
     {
       "surface": "בני",
-      "gloss": "sinovom"
+      "gloss": "otroki"
     },
     {
       "surface": "ישראל",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "njim"
+      "gloss": "jim"
     },
     {
       "surface": "כי",
-      "gloss": "ko"
+      "gloss": "Ko"
     },
     {
       "surface": "תבאו",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "katero"
+      "gloss": "ki"
     },
     {
       "surface": "אני",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "dajem"
+      "gloss": "dajam"
     },
     {
       "surface": "לכם",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "קצירה",
-      "gloss": "žetev njen"
+      "gloss": "njen žetev"
     },
     {
       "surface": "והבאתם",
-      "gloss": "in prinesite"
+      "gloss": "prinesite"
     },
     {
       "surface": "את",
@@ -112,21 +91,21 @@
     },
     {
       "surface": "ראשית",
-      "gloss": "prvine"
+      "gloss": "začetek"
     },
     {
       "surface": "קצירכם",
-      "gloss": "vašega žetev-a"
+      "gloss": "vašega žetva"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "—"
     },
     {
       "surface": "הכהן",
       "gloss": "duhovniku"
     }
   ],
-  "timestamp": "2026-10-19T15:40:59.685221286Z",
+  "timestamp": "2026-10-19T20:38:45.054139252Z",
   "model": "glm-5.3"
 }

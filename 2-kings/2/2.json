@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה וחי נפשך",
-      "rationale": "Prisega: »Živ je Jahve in živa je tvoja duša« — dobesedna prisega z življenjem."
-    },
-    {
-      "kind": "substitution",
-      "subject": "duša",
-      "rationale": "נפש je dih\/življenjska sila, ne immaterialna duša."
-    }
-  ],
-  "translation": "In Elija je rekel Elišu: Ostaní tu, prosim, kajti Jahve me je poslal do Bet-El. Eliša pa je rekel: Živ je Jahve in živí je tvoja duša, če te zapustim. In šla sta v Bet-El.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "96b2e076d0d8ffb0b0b2c191b2a172cc2fa14dc4ac0be02c080f78ae9acb500c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/2\/1-4.1792429360529.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In je rekel Elija Elišaju: Ostaní torej tu, kajti Jahve me je poslal do Bet-El. Eliša pa je rekel: Živ je Jahve in živa je tvoja duša ⟨nefesh⟩, če te zapustim. In stopila sta v Bet-El.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "In je rekel"
+      "gloss": "in je rekel"
     },
     {
       "surface": "אליהו",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "do"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elišu"
+      "gloss": "Elišaja"
     },
     {
       "surface": "שב",
-      "gloss": "Ostani"
+      "gloss": "ostaní"
     },
     {
       "surface": "נא",
-      "gloss": "prosim"
+      "gloss": "torej"
     },
     {
       "surface": "פה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "je rekel"
+      "gloss": "pa je rekel"
     },
     {
       "surface": "אלישע",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "Živ je"
+      "gloss": "živ je"
     },
     {
       "surface": "יהוה",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "tvoja duša"
+      "gloss": "tvoja duša ⟨nefesh⟩"
     },
     {
       "surface": "אם",
@@ -113,8 +92,8 @@
       "gloss": "te zapustim"
     },
     {
-      "surface": "וירדu",
-      "gloss": "In sta šla"
+      "surface": "וירדו",
+      "gloss": "in stopila sta"
     },
     {
       "surface": "בית",
@@ -125,6 +104,6 @@
       "gloss": "El"
     }
   ],
-  "timestamp": "2026-10-19T17:02:40.530855089Z",
+  "timestamp": "2026-10-19T20:17:35.254641481Z",
   "model": "glm-5.3"
 }

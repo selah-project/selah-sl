@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨še⟩ · ⟨pri njih⟩",
-      "rationale": "slovenščina potrebuje prislov in dopolnilo pri zaklinjanju, hebrejščina ju izpušča"
-    },
-    {
-      "kind": "crux",
-      "subject": "תזכירו",
-      "rationale": "»ne omenjajte« ali povzročilno »ne dajite drugim prisegati« pri njihovih bogovih (KJV »cause to swear«)"
-    }
-  ],
-  "translation": "da ne bi šli med te narode, te ostanke, ki so ⟨še⟩ med vami, in imena njihovih bogov ne omenjajte in se ne zaklinjajte ⟨pri njih⟩, jih ne služite in se jim ne priklanjajte.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/23\/5-8.1792426913234.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "da ne bi šli med ta ljudstva, ta preostala, ki so ⟨še⟩ ⟨את⟩ z vami; in imena njihovih bogov ne omenjajte, ne prisegajte ⟨pri njih⟩, ne služite jim in ne priklanjajte se jim.",
   "tokens": [
     {
       "surface": "לבלתי",
-      "gloss": "da ne"
+      "gloss": "da ne bi"
     },
     {
       "surface": "בוא",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "med te narode"
+      "gloss": "med ta ljudstva"
     },
     {
       "surface": "האלה",
-      "gloss": "te"
+      "gloss": "ta"
     },
     {
       "surface": "הנשארים",
-      "gloss": "ostanke"
+      "gloss": "preostala"
     },
     {
       "surface": "האלה",
-      "gloss": "te"
+      "gloss": "ta"
     },
     {
       "surface": "אתכם",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "תשביעו",
-      "gloss": "se zaklinjajte"
+      "gloss": "prisegajte"
     },
     {
       "surface": "ולא",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "תעבדום",
-      "gloss": "jih služite"
+      "gloss": "jim služite"
     },
     {
       "surface": "ולא",
@@ -94,13 +73,13 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "se priklanjajte"
+      "gloss": "priklanjajte se"
     },
     {
       "surface": "להם",
-      "gloss": "njim"
+      "gloss": "jim"
     }
   ],
-  "timestamp": "2026-10-19T16:21:53.235499197Z",
+  "timestamp": "2026-10-19T20:31:42.998667308Z",
   "model": "glm-5.3"
 }

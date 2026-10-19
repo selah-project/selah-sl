@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Sliši, Jisrael",
-      "rationale": "Imperativ nagovarja ves ljudstvo — vabilo k poslušanju."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨jim⟩",
-      "rationale": "Slovenščina potrebuje določitev naslovnika, hebrejščina jo ima v zvezi אלהם."
-    },
-    {
-      "kind": "substitution",
-      "subject": "huqim \/ mispatim",
-      "rationale": "Hebrejski חק je »določilo\/odlok« in משפט »sodba\/pravo«; glossa drži hebrejski zvok po zgledu hesed\/cedek."
-    }
-  ],
-  "translation": "In poklical je Moše vsega Jisraela ter rekel ⟨jim⟩: Sliši, Jisrael, ⟨את⟩ huqim in ⟨את⟩ mispatim, ki jih jaz govorim v tvoja ušesa danes; in naučili se jih boste in jih boste varovali, da bi jih izpolnjevali.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/5\/1-4.1792425736070.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In poklical je Moše vsega Jisraela in jim rekel: Poslušaj, Jisrael, ⟨את⟩ ustanove in ⟨את⟩ pravice, ki jih jaz govorim v vaša ušesa danes; in naučili se jih boste ⟨את⟩ in varovali, da jih boste izpolnjevali.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "ves"
+      "gloss": "vsega"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Jisraela"
     },
     {
       "surface": "ויאמר",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "jim"
+      "gloss": "njim"
     },
     {
       "surface": "שמע",
-      "gloss": "sliši"
+      "gloss": "Poslušaj"
     },
     {
       "surface": "ישראל",
@@ -72,20 +46,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "huqim"
+      "marks": "ustanove"
     },
     {
       "surface": "החקים",
-      "gloss": "huqim"
+      "gloss": "ustanove"
     },
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "mispatim"
+      "marks": "pravice"
     },
     {
       "surface": "המשפטים",
-      "gloss": "mispatim"
+      "gloss": "pravice"
     },
     {
       "surface": "אשר",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "באזניכם",
-      "gloss": "v tvoja ušesa"
+      "gloss": "v vaša ušesa"
     },
     {
       "surface": "היום",
@@ -113,18 +87,18 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "huqim in mispatim"
+      "gloss": "⟨את⟩",
+      "marks": "jih (ustanove in pravice)"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "in varovali jih boste"
+      "gloss": "in varovali"
     },
     {
       "surface": "לעשתם",
-      "gloss": "da bi jih izpolnjevali"
+      "gloss": "da jih boste izpolnjevali"
     }
   ],
-  "timestamp": "2026-10-19T16:02:16.071551898Z",
+  "timestamp": "2026-10-19T20:20:39.418568903Z",
   "model": "glm-5.3"
 }

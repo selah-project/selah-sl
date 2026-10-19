@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "sinovom Jisraela",
-      "rationale": "Samuel govori Jisraelu z Jahvejevim poslanstvom o izhodu in njihovi nezahvalnosti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "popeljal",
-      "rationale": "העליתי dobesedno 'dvignil\/peljal gor' iz Micrajima"
-    }
-  ],
-  "translation": "In rekel je sinovom Jisraela: Tako je rekel Jahve, Elohim Jisraela: Jaz sem popeljal ⟨את⟩ Jisrael iz Micrajima in rešil ⟨את⟩ vas iz roke Micrajcev in iz roke vseh kraljestev, ki so vas stiskala.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/10\/17-20.1792427637495.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel je sinovom Jisraela: Tako govori Jahve, Elohim Jisraela: Jaz sem popeljal ⟨את⟩ Jisrael iz Micrajima in vas iztrgal ⟨את⟩ iz roke Micrajima in iz roke vseh kraljestev, ki so vas stiskala.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in rekel je"
+      "gloss": "In rekel je"
     },
     {
       "surface": "אל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "tako"
+      "gloss": "Tako"
     },
     {
       "surface": "אמר",
-      "gloss": "je rekel"
+      "gloss": "govori"
     },
     {
       "surface": "יהוה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "jaz"
+      "gloss": "Jaz"
     },
     {
       "surface": "העליתי",
@@ -87,11 +66,12 @@
     },
     {
       "surface": "ואציל",
-      "gloss": "in rešil"
+      "gloss": "in iztrgal"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (iz roke Micrajima)"
     },
     {
       "surface": "מיד",
@@ -99,7 +79,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Micrajcev"
+      "gloss": "Micrajima"
     },
     {
       "surface": "ומיד",
@@ -115,13 +95,14 @@
     },
     {
       "surface": "הלחצים",
-      "gloss": "ki so stiskala"
+      "gloss": "ki so vas stiskala"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
     }
   ],
-  "timestamp": "2026-10-19T16:33:57.496121502Z",
+  "timestamp": "2026-10-19T20:14:56.463564539Z",
   "model": "glm-5.3"
 }

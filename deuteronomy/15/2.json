@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השמטה\/שמוט\/שמטה",
-      "rationale": "koren שׁמט trikrat v enem verzu — odpust\/odpusti\/odpust — verzuje se v slovenščini samo deloma"
-    },
-    {
-      "kind": "idiom",
-      "subject": "משה ידו",
-      "rationale": "dobesedno 'dolg svoje roke'; roka kot sredstvo posoje — 'iz svoje roke' ohranja podobo"
-    },
-    {
-      "kind": "invitation",
-      "subject": "שמוט",
-      "rationale": "jussiv 'odpusti' — sklep predpisuje dejanje upniku"
-    }
-  ],
-  "translation": "In to je beseda odpusta: odpusti vsak lastnik dolga ⟨tisti dolg⟩ iz svoje roke, kar je posodil svojemu bližnjemu; svojega bližnjega in svojega brata ne sme gnati ⟨k izterjavi⟩, ker je Jahveju razglašen odpust.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "bebb46143e4caffadafb440227ba336d26f2522c0eb35233f596a54870d7d130",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/15\/2-4.1792433363005.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In to je ⟨je⟩ beseda odpusta: odpušča vsak lastnik dolga svojo roko, kar je posodil svojemu bližnjemu; ne naj izsiljuje ⟨את⟩ svojega bližnjega in ⟨את⟩ svojega brata, ker je razglašen odpust Jahveju.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "In-to"
+      "gloss": "In to"
     },
     {
       "surface": "דבר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "שמוט",
-      "gloss": "odpusti"
+      "gloss": "odpušča"
     },
     {
       "surface": "כל",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ידו",
-      "gloss": "svoje-roke"
+      "gloss": "svojo roko"
     },
     {
       "surface": "אשר",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "ישה",
-      "gloss": "je-posodil"
+      "gloss": "je posodil"
     },
     {
       "surface": "ברעהו",
-      "gloss": "svojemu-bližnjemu"
+      "gloss": "svojemu bližnjemu"
     },
     {
       "surface": "לא",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "יגש",
-      "gloss": "sme-gnati"
+      "gloss": "naj izsiljuje"
     },
     {
       "surface": "את",
@@ -92,16 +66,16 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "svojega-bližnjega"
+      "gloss": "svojega bližnjega"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "in ⟨את⟩",
       "marks": "svojega brata"
     },
     {
       "surface": "אחיו",
-      "gloss": "svojega-brata"
+      "gloss": "svojega brata"
     },
     {
       "surface": "כי",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "je-razglašen"
+      "gloss": "je razglašen"
     },
     {
       "surface": "שמטה",
@@ -120,6 +94,6 @@
       "gloss": "Jahveju"
     }
   ],
-  "timestamp": "2026-10-19T18:09:23.006333011Z",
+  "timestamp": "2026-10-19T20:19:43.558709364Z",
   "model": "glm-5.3"
 }

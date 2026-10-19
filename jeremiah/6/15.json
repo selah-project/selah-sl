@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הבישו",
-      "rationale": "Indikativ ('sram jih bo') ali vprašalni\/zaželni ('ali se sramijo?'); JPS 'bodo osramočeni', KJV kot retorično vprašanje."
-    },
-    {
-      "kind": "idiom",
-      "subject": "הכלים לא ידעו",
-      "rationale": "Doslovno 'sramu ne poznajo'; KJV 'niso zmogli zardevati' — idiom izgubljen."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בוש\/יבושו",
-      "rationale": "Koren בוש ponovljen v glagolu in pregibki; tudi נפלו\/בנפלים — korenska ohlapnost v dveh zvejah."
-    }
-  ],
-  "translation": "Sram naj jih bo, kajti gnusnost so storili; celo srameti se ne morejo, celo zardeti niso zmožni. Zato bodo padli med padle; ob času, ko jih obiskam, se bodo spotaknili, govori Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/6\/13-16.1792431121231.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sramoto so doživeli, ker so gnus storili; toda sramu ne bodo doživeli, celo rdečiti se ne znajo; zato bodo padli med padajoče; ob času, ko jih obiskujem, se bodo podrla njihova stopala — govori Jahve.",
   "tokens": [
     {
       "surface": "הבישו",
-      "gloss": "sram naj jih bo"
+      "gloss": "sramoto so doživeli"
     },
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "ker"
     },
     {
       "surface": "תועבה",
-      "gloss": "gnusnost"
+      "gloss": "gnus"
     },
     {
       "surface": "עשו",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "celo"
+      "gloss": "toda"
     },
     {
       "surface": "בוש",
-      "gloss": "srameti se"
+      "gloss": "sramu"
     },
     {
       "surface": "לא",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "יבושו",
-      "gloss": "morejo"
+      "gloss": "bodo doživeli"
     },
     {
       "surface": "גם",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "zardeti"
+      "gloss": "rdečiti se"
     },
     {
       "surface": "לא",
-      "gloss": "niso"
+      "gloss": "ne"
     },
     {
       "surface": "ידעו",
-      "gloss": "zmožni"
+      "gloss": "znajo"
     },
     {
       "surface": "לכן",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "בנפלים",
-      "gloss": "med padle"
+      "gloss": "med padajoče"
     },
     {
       "surface": "בעת",
@@ -99,11 +73,11 @@
     },
     {
       "surface": "פקדתים",
-      "gloss": "ko jih obiskam"
+      "gloss": "ko jih obiskujem"
     },
     {
-      "surface": "יכשלu",
-      "gloss": "se bodo spotaknili"
+      "surface": "יכשלו",
+      "gloss": "se bodo podrla njihova stopala"
     },
     {
       "surface": "אמר",
@@ -114,6 +88,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T17:32:01.232307055Z",
+  "timestamp": "2026-10-19T20:29:59.143144158Z",
   "model": "glm-5.3"
 }

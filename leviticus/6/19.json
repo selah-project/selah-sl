@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "naj",
-      "rationale": "slovenščina izraža slovesni imperativ\/predpis z 'naj', hebrejščina ima nedoločnik z naklonskim pomenom"
-    }
-  ],
-  "translation": "Duhovnik, ki jo daruje za greh, jo ⟨naj⟩ poje; na svetem kraju se ⟨naj⟩ je, na dvorišču šotora srečanja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/6\/17-20.1792423999478.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kohen, ki jo daruje za greh, jo bo jedel; ⟨את⟩-njo; na svetem kraju se bo jedla, na dvorišču šotora srečanja.",
   "tokens": [
     {
       "surface": "הכהן",
-      "gloss": "duhovnik"
+      "gloss": "kohen"
     },
     {
       "surface": "המחטא",
@@ -34,11 +18,11 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "jo (grešno daritev)"
+      "marks": "jo (hat sin-offering)"
     },
     {
       "surface": "יאכלנה",
-      "gloss": "jo ⟨naj⟩ poje"
+      "gloss": "jo bo jedel"
     },
     {
       "surface": "במקום",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "se ⟨naj⟩ je"
+      "gloss": "se bo jedla"
     },
     {
       "surface": "בחצר",
@@ -65,6 +49,6 @@
       "gloss": "srečanja"
     }
   ],
-  "timestamp": "2026-10-19T15:33:19.479401305Z",
+  "timestamp": "2026-10-19T20:34:29.335621599Z",
   "model": "glm-5.3"
 }

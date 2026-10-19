@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "glavar rabljev",
-      "rationale": "rab tabahim dobesedno 'velik klavnik\/rabelj'; prevodi se razhajajo: 'poveljnik telesne stražarjev' (KJV), 'načelnik kuharjev' (lit.)"
-    },
-    {
-      "kind": "addition",
-      "subject": "je bila",
-      "rationale": "hebrejščina da samo היה; slovenščina potrebuje pomožnik v ženskem spolu"
-    }
-  ],
-  "translation": "Beseda, ki je bila k Jeremiju od ⟨את⟩ Jahveja, potem ko ga je spustil Nevuzaradan, glavar rabljev, iz Rame — ko ga je vzel, on, zvezan v verigah, sredi vsega izgnanstva Jerušalajma in Jude, izgnancev v Babilon.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "2993e0ab51f61cb0dc3a3f88bfd67816dab5bfc361ebb50e5595bb73f801e975",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/40\/1-4.1792431778702.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Beseda, ki je prišla do Jeremije od ⟨את⟩ Jahveja, potem ko ga je Nevuzaradan, poveljnik krvnikov, spustil iz Rame — ko ga je vzel ⟨את⟩ njega, on pa je bil zvezan v okovih sredi vse izgnanstva Jerušalajim in Jehude, izgnancev, odvedenih v Babilon.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "היה",
-      "gloss": "je bila"
+      "gloss": "je prišla"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "do"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jeremiju"
+      "gloss": "Jeremije"
     },
     {
       "surface": "מאת",
@@ -66,8 +45,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ga — Nevuzaradan ga je spustil"
+      "gloss": "⟨את⟩ ga",
+      "marks": "Nevuzaradan"
     },
     {
       "surface": "נבוזראדן",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "glavar"
+      "gloss": "poveljnik"
     },
     {
       "surface": "טבחים",
-      "gloss": "rabljev"
+      "gloss": "krvnikov"
     },
     {
       "surface": "מן",
@@ -95,8 +74,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ga — njega, zvezanega"
+      "gloss": "⟨את⟩ ga",
+      "marks": "on (Jeremija), zvezan v okovih"
     },
     {
       "surface": "והוא",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "באזקים",
-      "gloss": "v verigah"
+      "gloss": "v okovih"
     },
     {
       "surface": "בתוך",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "vsega"
+      "gloss": "vse"
     },
     {
       "surface": "גלות",
@@ -124,21 +103,21 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "Jerušalajma"
+      "gloss": "Jerušalajim"
     },
     {
       "surface": "ויהודה",
-      "gloss": "in Jude"
+      "gloss": "in Jehude"
     },
     {
       "surface": "המגלים",
-      "gloss": "izgnancev"
+      "gloss": "izgnancev, odvedenih"
     },
     {
       "surface": "בבלה",
       "gloss": "v Babilon"
     }
   ],
-  "timestamp": "2026-10-19T17:42:58.703740045Z",
+  "timestamp": "2026-10-19T20:29:33.360075845Z",
   "model": "glm-5.3"
 }

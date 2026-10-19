@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עזבו … עזבו",
-      "rationale": "dvojna ponovitev »zapustili« (očetje — in sedaj vi mene) gradi obtožbo; ponovitev ostaja."
-    },
-    {
-      "kind": "addition",
-      "subject": "bogovi z malo",
-      "rationale": "אלהים אחרים so bogovi narodov — po pravilih z malo začetnico."
-    }
-  ],
-  "translation": "In rekel jim boš: Zato ker so vaši očetje zapustili ⟨את⟩ mene, govori Jahve, in so hodili za drugimi bogovi ter jih služili in se priklanjali njim, in ⟨את⟩ mene so zapustili in moje Tore niso varovali —",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "c027ec1b02b6fd75110537842e89146a64ee7b956f6cfff536b3c61cb2284e51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/16\/9-12.1792431366356.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel jim boš: Zato, ker so vaši očetje zapustili mene ⟨את⟩, govori Jahve, in so šli za drugimi bogovi ter jih postregli in se pred njimi priklonili, mene pa so zapustili ⟨את⟩ in moje Tore ⟨את⟩ niso varovali.",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "njim"
+      "gloss": "jim"
     },
     {
       "surface": "על",
-      "gloss": "zato"
+      "gloss": "zaradi"
     },
     {
       "surface": "אשר",
@@ -54,7 +33,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mene"
+      "gloss": "mene ⟨את⟩",
+      "marks": "mene"
     },
     {
       "surface": "נאם",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "in so hodili"
+      "gloss": "in so šli"
     },
     {
       "surface": "אחרי",
@@ -82,19 +62,20 @@
     },
     {
       "surface": "ויעבדום",
-      "gloss": "in jih služili"
+      "gloss": "in jih postregli"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "in se priklanjali"
+      "gloss": "in se priklonili"
     },
     {
       "surface": "להם",
-      "gloss": "njim"
+      "gloss": "pred njimi"
     },
     {
       "surface": "ואתי",
-      "gloss": "in ⟨את⟩ mene"
+      "gloss": "⟨את⟩",
+      "marks": "mene"
     },
     {
       "surface": "עזבו",
@@ -102,7 +83,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "moje Tore"
     },
     {
@@ -118,6 +99,6 @@
       "gloss": "varovali"
     }
   ],
-  "timestamp": "2026-10-19T17:36:06.357577857Z",
+  "timestamp": "2026-10-19T20:28:19.223920823Z",
   "model": "glm-5.3"
 }

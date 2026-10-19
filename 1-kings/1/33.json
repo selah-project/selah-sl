@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "duhovnik Zadok, prerok Natan in Benaja",
-      "rationale": "David ukazuje svojim služabnikom — neposreden nagovor dajalca ukazov."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mulo",
-      "rationale": "הפרדה je specially kraljeva jahalna žival — znamenje kraljevega dostojanstva, ne navadna mula."
-    }
-  ],
-  "translation": "In kralj jim je rekel: Vzemite s seboj ⟨את⟩ sužnje svojega gospoda in posadite ⟨את⟩ Šeloma, mojega sina, na mojo mulo, in spustite ga v Gihon.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/1\/33-36.1792428716222.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In kralj jim je rekel: Vzemite s seboj ⟨את⟩ sluge svojega gospoda in posadite ⟨את⟩ Šeloma, sina mojega, na mojo snožnico, ⟨את⟩ ga pa spustite navzdol k Gihonu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in rekel je"
+      "gloss": "in je rekel"
     },
     {
       "surface": "המלך",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sužnje svojega gospoda"
+      "marks": "sluge"
     },
     {
       "surface": "עבדי",
-      "gloss": "sužnje"
+      "gloss": "sluge"
     },
     {
       "surface": "אדניכם",
@@ -68,7 +47,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šeloma, mojega sina"
+      "marks": "Šeloma"
     },
     {
       "surface": "שלמה",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "mojega sina"
+      "gloss": "sin mojega"
     },
     {
       "surface": "על",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "mulo"
+      "gloss": "snožnico"
     },
     {
       "surface": "אשר",
@@ -100,18 +79,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ga"
+      "gloss": "ga ⟨את⟩",
+      "marks": "k Gihonu"
     },
     {
       "surface": "אל",
-      "gloss": "v"
+      "gloss": "k"
     },
     {
       "surface": "גחון",
-      "gloss": "Gihon"
+      "gloss": "Gihonu"
     }
   ],
-  "timestamp": "2026-10-19T16:51:56.222722388Z",
+  "timestamp": "2026-10-19T20:14:16.344013692Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "staremu preroku",
-      "rationale": "neposreden nagovor možu Elohimovega iz Jude"
-    },
-    {
-      "kind": "crux",
-      "subject": "מלאך",
-      "rationale": "'poslanec\/angel' — ali nebeški angel ali človeki odposlanec; star prerok laže, zato je priča sumljiva"
-    }
-  ],
-  "translation": "In rekel ⟨mu je⟩: Tudi jaz sem prerok kakor ti, in poslanec je govoril k meni z besedo Jahve, rekoč: Vrni ⟨ga⟩ s ⟨seboj⟩ v svojo hišo, da bo jedel kruh in pil vodo. — Lagal ⟨mu je⟩.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "db82c1816ef2ec591a38ccc960d4ddc51df2bac377b3474aa1e4821103110ef8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/13\/17-20.1792429063727.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel mu je: Tudi jaz sem prerok kakor ti, in poslanik je govoril z menoj po besedi Jahvejevi, rekoč: Vrni ga ⟨את⟩ s sabo v svojo hišo, da bo jedel kruh in pil vodo. — Lagal mu je.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "ומלאך",
-      "gloss": "in poslanec"
+      "gloss": "in poslanik"
     },
     {
       "surface": "דבר",
-      "gloss": "govoril"
+      "gloss": "je govoril"
     },
     {
       "surface": "אלי",
-      "gloss": "k meni"
+      "gloss": "z menoj"
     },
     {
       "surface": "בדבר",
-      "gloss": "z besedo"
+      "gloss": "po besedi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvejevi"
     },
     {
       "surface": "לאמר",
@@ -78,11 +57,12 @@
     },
     {
       "surface": "השבהו",
-      "gloss": "vrni ga"
+      "gloss": "Vrni ga"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ s seboj"
+      "gloss": "⟨את⟩ s sabo",
+      "marks": "njega — vračanje preroka"
     },
     {
       "surface": "אל",
@@ -110,13 +90,13 @@
     },
     {
       "surface": "כחש",
-      "gloss": "lagal"
+      "gloss": "Lagal"
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "mu je"
     }
   ],
-  "timestamp": "2026-10-19T16:57:43.728840177Z",
+  "timestamp": "2026-10-19T20:14:12.345255021Z",
   "model": "glm-5.3"
 }

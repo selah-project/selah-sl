@@ -5,37 +5,11 @@
   "book": "nehemiah",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "ljudstvo",
-      "rationale": "Neposreden nagovor vsemu ljudstvu: »ne žalujte in ne jočite«."
-    },
-    {
-      "kind": "substitution",
-      "subject": "tiršata",
-      "rationale": "התרשתא je perzijski naziv namestnika, prepuščen po zvoku, ne preveden kot »guverner«."
-    },
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "Slovenščina potrebuje pomožnik »je«, kjer hebrejščina pušča participe brez njega."
-    }
-  ],
-  "translation": "In rekel je Nechemja — on je tiršata — in Ezra, duhovnik in pisač, in leviti, ki so dajali ljudstvu razumevanje, vsemu ljudstvu: Ta dan je svet Jahveju, vašemu Elohimu; ne žalujte in ne jočite, kajor jokalo je vse ljudstvo, ko je slišalo ⟨את⟩ besede Tore.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "705eaf3ccd63e86b48cc2e25a2945dbfba3d39136479f9479bd373b2d3721fd2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/8\/9-12.1792437911263.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Nehemija, on ⟨je⟩ tiršata, in Ezra duhovnik písalec in Leviti, ki so razlagali ⟨את⟩ ljudstvu, so rekli vsemu ljudstvu: Ta dan je svet Jahveju, vašemu Elohimu; ne žalujte in ne jočite, kajer vse ljudstvo joka, ko sliši ⟨את⟩ besede Tore.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "In rekel je"
+      "gloss": "in so rekli"
     },
     {
       "surface": "נחמיה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "on ⟨je⟩"
     },
     {
       "surface": "התרשתא",
@@ -59,20 +33,20 @@
     },
     {
       "surface": "הספר",
-      "gloss": "pisač"
+      "gloss": "písalec"
     },
     {
       "surface": "והלוים",
-      "gloss": "in leviti"
+      "gloss": "in Leviti"
     },
     {
       "surface": "המבינים",
-      "gloss": "ki so dajali razumevanje"
+      "gloss": "ki so razlagali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ljudstvo"
+      "marks": "ljudstvu"
     },
     {
       "surface": "העם",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "Ta dan"
+      "gloss": "ta dan"
     },
     {
       "surface": "קדש",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "je"
+      "gloss": "⟨je⟩"
     },
     {
       "surface": "ליהוה",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kajor"
+      "gloss": "kajer"
     },
     {
       "surface": "בוכים",
-      "gloss": "jokalo"
+      "gloss": "joka"
     },
     {
       "surface": "כל",
@@ -140,7 +114,7 @@
     },
     {
       "surface": "כשמעם",
-      "gloss": "ko je slišalo"
+      "gloss": "ko sliši"
     },
     {
       "surface": "את",
@@ -156,6 +130,6 @@
       "gloss": "Tore"
     }
   ],
-  "timestamp": "2026-10-19T19:25:11.264408605Z",
+  "timestamp": "2026-10-19T20:34:54.421929066Z",
   "model": "glm-5.3"
 }

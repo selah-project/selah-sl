@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "tukaj אתם (H854) predlog 'z njimi', ne predmetni označevalec את (H853); ohranjena z ⟨את⟩ zaradi enake pisave"
-    },
-    {
-      "kind": "crux",
-      "subject": "onstran Jordana",
-      "rationale": "מעבר הירדן glede na govorca (vzhodno plemena) pomeni 'zhodno\/vzhodno stran' — veljavnost odvisna od zornega kota govorca"
-    },
-    {
-      "kind": "addition",
-      "subject": "nam",
-      "rationale": "hebrejščina ima 'naša dediščina je prišla k-nam' — ל-nam je v besedi אלינו, dodan osebek 'nam' za tekom"
-    }
-  ],
-  "translation": "kajti ne bomo dedili ⟨z njimi⟩ onstran Jordana in dlje, kajti naša dediščina nam je prišla onstran Jordana, proti vzhodu.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "3bf25416e13566a7fe89994856c4ab055f8e0ac42ff067642f9c3bd922b86ea9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/32\/17-20.1792425499223.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti ⟨את⟩ z njimi ne bomo podedovali dediščine onkraj Jordana in dalje, kajti naša dediščina nam je prišla onkraj Jordana, proti vzhodu.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "ננחל",
-      "gloss": "bomo dedili"
+      "gloss": "bomo podedovali dediščino"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ s ⟨njimi⟩",
-      "marks": "s njimi"
+      "gloss": "⟨את⟩ z njimi",
+      "marks": "z njimi"
     },
     {
       "surface": "מעבר",
-      "gloss": "onstran"
+      "gloss": "onkraj"
     },
     {
       "surface": "לירדן",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "והלאה",
-      "gloss": "in dlje"
+      "gloss": "in dalje"
     },
     {
       "surface": "כי",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "מעבר",
-      "gloss": "onstran"
+      "gloss": "onkraj"
     },
     {
       "surface": "הירדן",
@@ -91,6 +65,6 @@
       "gloss": "proti vzhodu"
     }
   ],
-  "timestamp": "2026-10-19T15:58:19.224856122Z",
+  "timestamp": "2026-10-19T20:36:03.880889110Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נחם ... נחם",
-      "rationale": "ponovitev glagola 'tolažiti' v verigu — Cion in njene ruševine sta tolaženi z istim gibom"
-    },
-    {
-      "kind": "crux",
-      "subject": "נחם",
-      "rationale": "glagol pomeni 'tolažiti' in 'kesati se'; prevodi gredo v prihodnost ('bo tolažil') ali preteklost ('je tolažil') — hebrejščina čas ne pove"
-    }
-  ],
-  "translation": "Kajti Jahve je tolažil ⟨את⟩ Cion, tolažil ⟨את⟩ vse njene puščave, in postavil ⟨את⟩ njeno pustinjo kakor Eden in njeno ravnino kakor Jahvejev vrt; radost in veselje se najde v njej, zahvala in glas petja.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/51\/1-4.1792430839213.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti Jahve je tolažil ⟨את⟩ Cion, tolažil vse njene puščave, in postavil ⟨je⟩ njeno puščavo kakor Eden in njeno pustato kakor vrt Jahvejev; veselje in radost se bo našli v njej, zahvala in glas petja.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kajti"
+      "gloss": "kajti"
     },
     {
       "surface": "נחם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ציון",
-      "gloss": "⟨את⟩ Cion"
+      "gloss": "Cion"
     },
     {
       "surface": "נחם",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "חרבתיה",
-      "gloss": "⟨את⟩ njene puščave"
+      "gloss": "njene puščave"
     },
     {
       "surface": "וישם",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "מדברה",
-      "gloss": "⟨את⟩ njeno pustinjo"
+      "gloss": "njeno puščavo"
     },
     {
       "surface": "כעדן",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "וערבתה",
-      "gloss": "in njeno ravnino"
+      "gloss": "in njeno pustato"
     },
     {
       "surface": "כגן",
@@ -82,15 +61,15 @@
     },
     {
       "surface": "ששון",
-      "gloss": "radost"
+      "gloss": "veselje"
     },
     {
       "surface": "ושמחה",
-      "gloss": "in veselje"
+      "gloss": "in radost"
     },
     {
       "surface": "ימצא",
-      "gloss": "se najde"
+      "gloss": "se bo našli"
     },
     {
       "surface": "בה",
@@ -109,6 +88,6 @@
       "gloss": "petja"
     }
   ],
-  "timestamp": "2026-10-19T17:27:19.214222333Z",
+  "timestamp": "2026-10-19T20:27:58.418711542Z",
   "model": "glm-5.3"
 }

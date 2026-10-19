@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "sl",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אף",
-      "rationale": "dobesedno 'nos\/nosnice' — besedilo pove, kje gori jeza; prevod 'nos' ohranja sliko"
-    },
-    {
-      "kind": "elision",
-      "subject": "ומחלת",
-      "rationale": "množina 'plesov\/plesov' — מחול kolektivno 'ples'"
-    }
-  ],
-  "translation": "In zgodilo se je, ko se je približal k taboru, da je videl ⟨את⟩ tele in plese; in nos Mošetu je zagorel, in vrgel je iz svojih rok ⟨את⟩ tablici in jih razbil pod goro.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/32\/17-20.1792423749503.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodilo se je, ko se je približal ⟨k⟩ taboru, da je uzrl ⟨את⟩ telico in ⟨את⟩ ple-sa-le: Mošejev nos je vzkipel in vrgel je iz svoje roke ⟨את⟩ tablici ter ju razbil pod goro.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "in zgodilo se je"
+      "gloss": "In zgodilo se je"
     },
     {
       "surface": "כאשר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "⟨k⟩"
     },
     {
       "surface": "המחנה",
@@ -50,24 +29,24 @@
     },
     {
       "surface": "וירא",
-      "gloss": "in videl je"
+      "gloss": "da je uzrl"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tele"
+      "marks": "telico"
     },
     {
       "surface": "העגל",
-      "gloss": "tele"
+      "gloss": "telico"
     },
     {
       "surface": "ומחלת",
-      "gloss": "in plese"
+      "gloss": "ple-sa-le"
     },
     {
       "surface": "ויחר",
-      "gloss": "in zagorel je"
+      "gloss": "je vzkipel"
     },
     {
       "surface": "אף",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mošetu"
+      "gloss": "Mošejev"
     },
     {
       "surface": "וישלך",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "מידו",
-      "gloss": "iz svojih rok"
+      "gloss": "iz svoje roke"
     },
     {
       "surface": "את",
@@ -96,12 +75,12 @@
     },
     {
       "surface": "וישבר",
-      "gloss": "in razbil"
+      "gloss": "ter ju razbil"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "ju (tablici)"
     },
     {
       "surface": "תחת",
@@ -112,6 +91,6 @@
       "gloss": "goro"
     }
   ],
-  "timestamp": "2026-10-19T15:29:09.504982622Z",
+  "timestamp": "2026-10-19T20:22:19.369044764Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 79,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עד מה",
-      "rationale": "Dosedanja veznica 'doklej' v eni besedi; עד מה je hebrejska zveza 'do kdaj'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "לנצח",
-      "rationale": "Lahko tudi 'za vedno' — nesrečno besedno igro: klic 'doklej ... na veke' je namerna napetost."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve",
-      "rationale": "Neposreden ogovor Jahveja z vprašanjem 'doklej'."
-    }
-  ],
-  "translation": "Doklej, Jahve, se boš jezil ⟨na vekove⟩? Ali se bo tvoja zavist žgala kot ogenj?",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/79\/5-8.1792435175123.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Doklej, Jahve? Se boš jezil na veke? Bo tvoja gorečnost plamenela kakor ogenj?",
   "tokens": [
     {
       "surface": "עד",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "מה",
-      "gloss": ""
+      "gloss": "doklej"
     },
     {
       "surface": "יהוה",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "לנצח",
-      "gloss": "⟨na vekove⟩"
+      "gloss": "na veke"
     },
     {
       "surface": "תבער",
-      "gloss": "se bo žgala"
+      "gloss": "bo plamenela"
     },
     {
       "surface": "כמו",
-      "gloss": "kot"
+      "gloss": "kakor"
     },
     {
       "surface": "אש",
@@ -67,9 +41,9 @@
     },
     {
       "surface": "קנאתך",
-      "gloss": "tvoja zavist"
+      "gloss": "tvoja gorečnost"
     }
   ],
-  "timestamp": "2026-10-19T18:39:35.124294246Z",
+  "timestamp": "2026-10-19T20:37:49.264434005Z",
   "model": "glm-5.3"
 }

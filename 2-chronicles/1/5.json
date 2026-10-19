@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je bil postavljen",
-      "rationale": "Hebrew שם lacks an explicit subject and copula; passive supplied for the altar standing there"
-    },
-    {
-      "kind": "crux",
-      "subject": "וידרשהו",
-      "rationale": "'iskal ga (oltar)' vs 'prek njega iskal (Jahveja)' — večina prevodov bere 'iskal pri njem', torej spraševal Jahveja"
-    }
-  ],
-  "translation": "In ⟨את⟩ oltar iz brisa, ki ga je naredil Betzalel, sin Urija, sin Hura, je ⟨bil postavljen⟩ pred miškanom Jahveja; in Šelomo in ⟨celotna⟩ skupščina sta ga iskala.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/1\/5-8.1792438425153.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In oltar iz nevša, ki ga je naredil Becalel, sin Urija, sin Hura, je postavil pred miškan Jahveja; in Šelomo in zbor ⟨so⟩ iskali ⟨pri njem⟩.",
   "tokens": [
     {
       "surface": "ומזבח",
-      "gloss": "in ⟨את⟩ oltar"
+      "gloss": "in oltar"
     },
     {
       "surface": "הנחשת",
-      "gloss": "iz brisa"
+      "gloss": "iz nevša"
     },
     {
       "surface": "אשר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בצלאל",
-      "gloss": "Betzalel"
+      "gloss": "Becalel"
     },
     {
       "surface": "בן",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "⟨je bil postavljen⟩"
+      "gloss": "je postavil"
     },
     {
       "surface": "לפני",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "משכן",
-      "gloss": "miškanom"
+      "gloss": "miškan"
     },
     {
       "surface": "יהוה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "וידרשהו",
-      "gloss": "sta ga iskala"
+      "gloss": "in iskali pri njem"
     },
     {
       "surface": "שלמה",
@@ -90,9 +69,9 @@
     },
     {
       "surface": "והקהל",
-      "gloss": "in ⟨celotna⟩ skupščina"
+      "gloss": "in zbor"
     }
   ],
-  "timestamp": "2026-10-19T19:33:45.156248302Z",
+  "timestamp": "2026-10-19T20:15:54.357602231Z",
   "model": "glm-5.3"
 }

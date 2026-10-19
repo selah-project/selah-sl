@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גבת עיניו",
-      "rationale": "dobesedno 'obrobe\/loki svojih oči' — obrvi; dobesedna slika ohranjena"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יגלח … יגלח",
-      "rationale": "ponovitev glagola 'obriti' oklepajoče po שערו — okvir, ki ga izgubi naturalen vrstni red"
-    }
-  ],
-  "translation": "In na sedmi dan se bo zgodilo: obril bo ⟨את⟩ vso svojo dlako — ⟨את⟩ svojo glavo in ⟨את⟩ svojo brado in ⟨את⟩ obrobe svojih oči — in ⟨את⟩ vso svojo dlako bo obril; in opral bo ⟨את⟩ svoja oblačila in umil ⟨את⟩ svoje telo v vodi, in čist bo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/14\/9-12.1792424211216.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodi se na sedmi dan: obrije ⟨את⟩ vse svoje dlake — ⟨את⟩ svojo glavo in ⟨את⟩ svojo brado in ⟨את⟩ obroke svojih oči; ⟨את⟩ vse svoje dlake obrije, in opere ⟨את⟩ svoja oblačila in umije ⟨את⟩ svoje telo v vodi, in ⟨je⟩ čist.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "in se bo zgodilo"
+      "gloss": "In zgodi se"
     },
     {
       "surface": "ביום",
@@ -41,17 +20,21 @@
       "gloss": "sedmi"
     },
     {
+      "surface": "יגלח",
+      "gloss": "obrije"
+    },
+    {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vso svojo dlako"
+      "marks": "vse svoje dlake"
     },
     {
       "surface": "כל",
-      "gloss": "⟨את⟩ vso"
+      "gloss": "ves"
     },
     {
       "surface": "שערו",
-      "gloss": "svojo dlako"
+      "gloss": "svoje dlake"
     },
     {
       "surface": "את",
@@ -60,7 +43,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "⟨את⟩ svojo glavo"
+      "gloss": "svojo glavo"
     },
     {
       "surface": "ואת",
@@ -69,16 +52,16 @@
     },
     {
       "surface": "זקנו",
-      "gloss": "⟨את⟩ svojo brado"
+      "gloss": "svojo brado"
     },
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "obrobe svojih oči"
+      "marks": "obroke svojih oči"
     },
     {
       "surface": "גבת",
-      "gloss": "⟨את⟩ obrobe"
+      "gloss": "obroke"
     },
     {
       "surface": "עיניו",
@@ -87,23 +70,23 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "vso svojo dlako"
+      "marks": "vse svoje dlake"
     },
     {
       "surface": "כל",
-      "gloss": "⟨את⟩ vso"
+      "gloss": "ves"
     },
     {
       "surface": "שערו",
-      "gloss": "svojo dlako"
+      "gloss": "svoje dlake"
     },
     {
       "surface": "יגלח",
-      "gloss": "bo obril"
+      "gloss": "obrije"
     },
     {
       "surface": "וכבס",
-      "gloss": "in opral bo"
+      "gloss": "in opere"
     },
     {
       "surface": "את",
@@ -112,11 +95,11 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "⟨את⟩ svoja oblačila"
+      "gloss": "svoja oblačila"
     },
     {
       "surface": "ורחץ",
-      "gloss": "in umil bo"
+      "gloss": "in umije"
     },
     {
       "surface": "את",
@@ -125,7 +108,7 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "⟨את⟩ svoje telo"
+      "gloss": "svoje telo"
     },
     {
       "surface": "במים",
@@ -133,9 +116,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "in čist bo"
+      "gloss": "in je čist"
     }
   ],
-  "timestamp": "2026-10-19T15:36:51.217155024Z",
+  "timestamp": "2026-10-19T20:33:34.355357064Z",
   "model": "glm-5.3"
 }

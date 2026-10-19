@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "rog z očmi in usti",
-      "rationale": "Continuation of the interpreted vision — a symbolic figure whose meaning is not given here, only described."
-    },
-    {
-      "kind": "elision",
-      "subject": "מן קדמיה",
-      "rationale": "The preposition pair 'from before it' has no clean Slovenian equivalent; folded into 'pred katerim'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "deset rogov, trije padli",
-      "rationale": "The verse counts horns: ten, one rising, three falling."
-    }
-  ],
-  "translation": "In o desetih rogovih, ki so na njeni glavi, in o drugem, ki je zrasel in pred ⟨katerim⟩ so padli trije; in o tistem rogu, ki ima oči in usta, ki govori velike stvari, in njegov videz ⟨je⟩ večji od njenih tovarišev.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "57f7ba244d0a93aba922325ef013d1568b5b79c9f932a01d7edd7c85c9cbed38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/7\/17-20.1792437540591.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "in o desetih rogovih, ki so bili na ⟨njeni⟩ glavi, in o drugem, ki je zrasel in pred ⟨katerim⟩ so trije odpadli — o tistem rogu, ki je imel oči, in usta, ki so govorila velike reči, in čigar pogled je bil večji od ⟨njegovih⟩ tovarišev.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "In o"
+      "gloss": "in o"
     },
     {
       "surface": "קרניא",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "ונפלו",
-      "gloss": "so padli"
+      "gloss": "so odpadli"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "od"
     },
     {
       "surface": "קדמיה",
-      "gloss": "pred ⟨njim⟩"
+      "gloss": "pred ⟨katerim⟩"
     },
     {
       "surface": "תלת",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "וקרנא",
-      "gloss": "in o rogu"
+      "gloss": "o tistem rogu"
     },
     {
       "surface": "דכן",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "ועינין",
-      "gloss": "oči"
+      "gloss": "in oči"
     },
     {
       "surface": "לה",
-      "gloss": "ima"
+      "gloss": "imel"
     },
     {
       "surface": "ופם",
@@ -103,19 +77,19 @@
     },
     {
       "surface": "ממלל",
-      "gloss": "ki govori"
+      "gloss": "ki so govorila"
     },
     {
       "surface": "רברבן",
-      "gloss": "velike stvari"
+      "gloss": "velike reči"
     },
     {
       "surface": "וחזוה",
-      "gloss": "in njegov videz"
+      "gloss": "in čigar pogled"
     },
     {
       "surface": "רב",
-      "gloss": "večji"
+      "gloss": "je bil večji"
     },
     {
       "surface": "מן",
@@ -123,9 +97,9 @@
     },
     {
       "surface": "חברתה",
-      "gloss": "njenih tovarišev"
+      "gloss": "tovarišev"
     }
   ],
-  "timestamp": "2026-10-19T19:19:00.596043215Z",
+  "timestamp": "2026-10-19T20:19:51.305398264Z",
   "model": "glm-5.3"
 }

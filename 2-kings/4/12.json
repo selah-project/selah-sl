@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "pred njim",
-      "rationale": "לפניו literally 'to his face', rendered 'before him'"
-    }
-  ],
-  "translation": "In rekel je Gejhaziju, svojemu dekletu ⟨služabniku⟩: Pokliči to Šunamko. In ko jo je poklical, je stala pred njim.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/4\/9-12.1792429378979.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel je Gehaziju, svojemu dečku: Pokliči to Šunamko. In ko jo je poklical, je stala pred njim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,23 +13,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "k"
     },
     {
       "surface": "גחזי",
-      "gloss": "Gejhaziju"
+      "gloss": "Gehaziju"
     },
     {
       "surface": "נערו",
-      "gloss": "svojemu služabniku"
+      "gloss": "svojemu dečku"
     },
     {
       "surface": "קרא",
-      "gloss": "pokliči"
+      "gloss": "Pokliči"
     },
     {
       "surface": "לשונמית",
-      "gloss": "Šunamko"
+      "gloss": "to Šunamko"
     },
     {
       "surface": "הזאת",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "poklical"
+      "gloss": "in ko je poklical"
     },
     {
       "surface": "לה",
@@ -68,6 +52,6 @@
       "gloss": "pred njim"
     }
   ],
-  "timestamp": "2026-10-19T17:02:58.981174539Z",
+  "timestamp": "2026-10-19T20:17:53.120018963Z",
   "model": "glm-5.3"
 }

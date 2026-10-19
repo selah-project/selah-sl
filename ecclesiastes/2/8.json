@@ -5,37 +5,11 @@
   "book": "ecclesiastes",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "širá vešiddá",
-      "rationale": "שדה ושדות: KJAL 'glasbila' (iz šir 'pesem'), JPS 'žene very many', Geneva 'kotlini kot vojni plen'; koren negotov — izbrana 'ženo in žene' (dvoržanke)"
-    },
-    {
-      "kind": "hapax",
-      "subject": "שדה",
-      "rationale": "šiddá 'gospodinja hiše \/ dvoržanka' se v Tanahu pojavi samo tu"
-    },
-    {
-      "kind": "measurement",
-      "subject": "katalog posesti",
-      "rationale": "nadaljevanje naštevanja: srebro, zlato, zaklad, pevci, užitki"
-    }
-  ],
-  "translation": "Zbral sem si tudi srebro in zlato ter zaklad kraljev in pokrajin; naredil sem si pevce in pevke ter užitke sinov človeških — ženo in žene.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "1a135fadfed0d62284ec2d200cc9e0476717fa7655804c22111cd24238aac931",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/5-8.1792437095291.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sebral sem si tudi srebro in zlato ter zaklad kraljev in pokrajin; prisegel ⟨sem si⟩ pevce in pevke ter razvade sinov človeških, ženo in žene.",
   "tokens": [
     {
       "surface": "כנסתי",
-      "gloss": "Zbral sem si"
+      "gloss": "sebral sem"
     },
     {
       "surface": "לי",
@@ -67,7 +41,11 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "naredil sem si"
+      "gloss": "prisegel ⟨sem si⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨si⟩"
     },
     {
       "surface": "שרים",
@@ -79,7 +57,7 @@
     },
     {
       "surface": "ותענוגת",
-      "gloss": "ter užitke"
+      "gloss": "ter razvade"
     },
     {
       "surface": "בני",
@@ -98,6 +76,6 @@
       "gloss": "in žene"
     }
   ],
-  "timestamp": "2026-10-19T19:11:35.293424172Z",
+  "timestamp": "2026-10-19T20:20:59.176318928Z",
   "model": "glm-5.3"
 }

@@ -5,17 +5,37 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 91,
-  "translation": "Ne boš se bal nočnega strašnega piska niz puščice, ki leta podnevi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/91\/5-8.1792435251753.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-19T18:40:51.755507483Z",
+  "translation": "Ne boš se bal strašne nočne groze, ne puščice, ki leta podnevi,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boš se bal"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "groze"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nočne"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "puščice"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ki leta"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "podnevi"
+    }
+  ],
+  "timestamp": "2026-10-19T20:37:49.241760757Z",
   "model": "glm-5.3"
 }

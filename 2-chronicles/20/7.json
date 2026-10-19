@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אוהבך — Avraham, ki te ljubi",
-      "rationale": "Nekateri prevodi: 'tvoj prijatelj'; dobesedno 'ljubeč tebe' — opisuje Avrahama kot tistega, ki ljubi Boga."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הורשת \/ ירש",
-      "rationale": "Izgnal si prebivalce, da bi ljudstvo 'podedovalo' deželo — isti koren ירש, v slovenščini izgubljeno."
-    }
-  ],
-  "translation": "Ali nisi ⟨ti⟩ Elohim naš? Ti si izgnal ⟨את⟩ prebivalce te dežele pred obličjem svojega ljudstva Jisraela in si jo dal zarodu Avrahama, ki te ljubi, za večno.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "06bd90bc00b8a4a8bbbd799c1959ea96f561c3fc8209ba2dd3129a3be4cec0a3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/20\/5-8.1792438667019.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ali nisi ti, naš Elohim, ⟨ki si⟩ izgnal ⟨את⟩ prebivalce te dežele izpred svojega ljudstva Jisraela, in si jo dal zaradi Abrahamu, ki te ljubi, za večno?",
   "tokens": [
     {
       "surface": "הלא",
@@ -34,19 +13,15 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨ti⟩"
+      "gloss": "ti"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim"
-    },
-    {
-      "surface": "אולהינו",
-      "gloss": "naš"
+      "gloss": "naš Elohim"
     },
     {
       "surface": "הורשת",
-      "gloss": "⟨את⟩ izgnal si"
+      "gloss": "si izgnal"
     },
     {
       "surface": "את",
@@ -67,7 +42,7 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "pred obličjem"
+      "gloss": "izpred"
     },
     {
       "surface": "עמך",
@@ -83,11 +58,11 @@
     },
     {
       "surface": "לזרע",
-      "gloss": "zarodu"
+      "gloss": "zaradi"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avrahama"
+      "gloss": "Abrahamu"
     },
     {
       "surface": "אהבך",
@@ -98,6 +73,6 @@
       "gloss": "za večno"
     }
   ],
-  "timestamp": "2026-10-19T19:37:47.021450156Z",
+  "timestamp": "2026-10-19T20:16:10.461575730Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "njim \/ jih",
-      "rationale": "Slovenščina zahteva osebni zaimek, hebrejščina ga v וקבצתי ne izrazi ločeno."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "Drugi in tretji aleph-tav (אתם, אותם) sta oblika istega označevalnika; ohranjeni kot ⟨jih⟩ z označenim predmetom."
-    }
-  ],
-  "translation": "In govoriš ⟨njim⟩: Tako govori Adonaj Jahve: Glej, jemljem ⟨את⟩ sinove Jisraela izmed narodov, kamor so šli tam, in pobral sem ⟨jih⟩ z vseh strani in pripeljal ⟨jih⟩ na ⟨njihovo⟩ deželo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/37\/21-24.1792433588340.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In govoriš ⟨naj⟩ njim: Tako govori Adonaj Jahve: Glede, jaz jemljem ⟨את⟩ sinove Jisraela iz sredi narodov, kamor so odšli, in zberem jih z vseh strani ter jih pripeljem na njihovo zemljo.",
   "tokens": [
     {
       "surface": "ודבר",
-      "gloss": "in govoriš"
+      "gloss": "In govoriš"
     },
     {
       "surface": "אליהם",
-      "gloss": "⟨njim⟩"
+      "gloss": "njim"
     },
     {
       "surface": "כה",
-      "gloss": "tako"
+      "gloss": "Tako"
     },
     {
       "surface": "אמר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "glej"
+      "gloss": "Glede"
     },
     {
       "surface": "אני",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "מבין",
-      "gloss": "izmed"
+      "gloss": "iz sredi"
     },
     {
       "surface": "הגוים",
@@ -91,20 +70,20 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "so šli"
+      "gloss": "so odšli"
     },
     {
       "surface": "שם",
-      "gloss": "tam"
+      "gloss": "tja"
     },
     {
       "surface": "וקבצתי",
-      "gloss": "in pobral sem"
+      "gloss": "in zberem jih"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨jih⟩",
-      "marks": "z vseh strani"
+      "gloss": "⟨את⟩",
+      "marks": "jih (z vseh strani)"
     },
     {
       "surface": "מסביב",
@@ -112,12 +91,12 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "in pripeljal sem"
+      "gloss": "ter pripeljem"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨jih⟩",
-      "marks": "na njihovo deželo"
+      "gloss": "⟨את⟩",
+      "marks": "jih (na njihovo zemljo)"
     },
     {
       "surface": "אל",
@@ -125,9 +104,9 @@
     },
     {
       "surface": "אדמתם",
-      "gloss": "njihovo deželo"
+      "gloss": "njihovo zemljo"
     }
   ],
-  "timestamp": "2026-10-19T18:13:08.342309775Z",
+  "timestamp": "2026-10-19T20:23:53.073794799Z",
   "model": "glm-5.3"
 }

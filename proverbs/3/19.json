@@ -5,23 +5,7 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ה ארץ",
-      "rationale": "hebrejski člen se v slovenščini ne zapiše, dodan je priredni ⟨z⟩ iz orodniške predložnosti"
-    }
-  ],
-  "translation": "Jahve je ⟨z⟩ modrostjo utemelil ⟨את⟩ zemljo, ⟨z⟩ razumnostjo je utrdil nebesa.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/3\/17-20.1792435844567.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve je z modrostjo utemeljil ⟨את⟩ zemljo, z razumnostjo je utrdil nebesa.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "בחכמה",
-      "gloss": "⟨z⟩ modrostjo"
+      "gloss": "z modrostjo"
     },
     {
       "surface": "יסד",
@@ -37,7 +21,8 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨את⟩ zemljo"
+      "gloss": "⟨את⟩ zemljo",
+      "marks": "zemljo"
     },
     {
       "surface": "כונן",
@@ -49,9 +34,9 @@
     },
     {
       "surface": "בתבונה",
-      "gloss": "⟨z⟩ razumnostjo"
+      "gloss": "z razumnostjo"
     }
   ],
-  "timestamp": "2026-10-19T18:50:44.568076307Z",
+  "timestamp": "2026-10-19T20:36:52.117899407Z",
   "model": "glm-5.3"
 }

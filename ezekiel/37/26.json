@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "dobesedno 'rezati zavezo' (rezati kosilo med kosi), slovensko 'skleniti zavezo'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ברית…ברית",
-      "rationale": "podvajanje 'zavezo miru, zaveza večna' — ponehav hebrejski vzorec appozicije"
-    }
-  ],
-  "translation": "In sklenil bom jim zavezo miru; zaveza večna bo ⟨את⟩ z njimi; in postavil jih bom ter pomnožil jih bom, in postavil bom ⟨את⟩ svoje svetišče sredi njih za večno.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/37\/25-28.1792433591343.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In sklenil bom z njimi zavezo miru; zaveza večna bo ⟨את⟩ ⟨z njimi⟩; in postavil jih bom ter namnožil ⟨את⟩ jih bom, in postavil bom ⟨את⟩ svoje svetišče sredi njih za vekomaj.",
   "tokens": [
     {
       "surface": "וכרתי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "jim"
+      "gloss": "z njimi"
     },
     {
       "surface": "ברית",
@@ -58,8 +37,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "z njimi"
+      "gloss": "⟨את⟩ z njimi",
+      "marks": "zaveza večna — z njimi"
     },
     {
       "surface": "ונתתים",
@@ -67,12 +46,12 @@
     },
     {
       "surface": "והרביתי",
-      "gloss": "ter pomnožil jih bom"
+      "gloss": "ter namnožil"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "jih"
+      "gloss": "⟨את⟩ jih",
+      "marks": "jih (namnožil)"
     },
     {
       "surface": "ונתתי",
@@ -93,9 +72,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "za večno"
+      "gloss": "za vekomaj"
     }
   ],
-  "timestamp": "2026-10-19T18:13:11.344979402Z",
+  "timestamp": "2026-10-19T20:23:56.766702628Z",
   "model": "glm-5.3"
 }

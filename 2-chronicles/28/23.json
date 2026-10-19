@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מעזרים\/ויעזרוני\/להכשילו",
-      "rationale": "Igra korena עזר (pomagati) se ponovi trikrat, nato se obrne v הכשיל (zahujsati) — bogovi, ki naj bi pomagali, povzročijo padec."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bogovom Damaska",
-      "rationale": "אלהי tu niso Elohim Izraela, ampak bogovi narodov — zato mala začetnica."
-    },
-    {
-      "kind": "you",
-      "subject": "govor Arazov",
-      "rationale": "Neposreden notranji nagovor: Araz govori sam sebi svojo premišljenost o bogovih Arama."
-    }
-  ],
-  "translation": "In žrtvoval je bogovom Damaska, tistim, ki so ga udarali, in rekel: Ker bogovi kraljev Arama ⟨so⟩ ⟨ti⟩, ki jim pomagajo, njim bom žrtvoval, in pomagali bodo meni. Toda oni so postali njemu v povod padca, in vsemu Jisraelu.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "031377ad0499ba6ff6041194d59a2a85601f74ce06e035188c44fcec9cc68d0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/28\/21-24.1792438798548.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In žrtoval je bogovom Damaska, tistim, ki so ga udarili, in rekel: Ker so bogovi kraljev Arama pomagali ⟨את⟩ njim, njim bom žrtoval, pa naj mi pomagajo. Toda oni so mu postali ⟨za⟩ padec — njemu in vsemu Jisraelu.",
   "tokens": [
     {
       "surface": "ויזבח",
-      "gloss": "in žrtvoval je"
+      "gloss": "in žrtoval je"
     },
     {
       "surface": "לאלהי",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "המכים",
-      "gloss": "ki so udarali"
+      "gloss": "ki so udarili"
     },
     {
       "surface": "בו",
-      "gloss": "ga"
+      "gloss": "njega"
     },
     {
       "surface": "ויאמר",
-      "gloss": "in rekel"
+      "gloss": "in rekel je"
     },
     {
       "surface": "כי",
@@ -83,8 +57,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ njih",
-      "marks": "njim"
+      "gloss": "⟨את⟩",
+      "marks": "njim (bogovi kraljev Arama so pomagali njim)"
     },
     {
       "surface": "להם",
@@ -92,19 +66,19 @@
     },
     {
       "surface": "אזבח",
-      "gloss": "bom žrtvoval"
+      "gloss": "bom žrtoval"
     },
     {
       "surface": "ויעזרוני",
-      "gloss": "in pomagali bodo meni"
+      "gloss": "pa naj mi pomagajo"
     },
     {
       "surface": "והם",
-      "gloss": "toda oni"
+      "gloss": "in oni"
     },
     {
       "surface": "היו",
-      "gloss": "so postali"
+      "gloss": "so bili"
     },
     {
       "surface": "לו",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "להכשילו",
-      "gloss": "v povod padca"
+      "gloss": "za padec njegov"
     },
     {
       "surface": "ולכל",
@@ -123,6 +97,6 @@
       "gloss": "Jisraelu"
     }
   ],
-  "timestamp": "2026-10-19T19:39:58.549400145Z",
+  "timestamp": "2026-10-19T20:16:30.985014757Z",
   "model": "glm-5.3"
 }

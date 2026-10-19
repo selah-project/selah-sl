@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חלילה",
-      "rationale": "doslovno 'oskrunjena stvar'; idiom 'daleč od mene \/ ne bodi da'"
-    },
-    {
-      "kind": "crux",
-      "subject": "והוריתי",
-      "rationale": "hofal jara: 'naučil bom' ali 'usmeril bom' — prevodi se delijo"
-    }
-  ],
-  "translation": "Tudi zame naj bo daleč od mene, da bi grešil zoper Jahve, če bi opustil moliti za vas; in naučil vas bom poti dobre in prave.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/12\/21-24.1792427651860.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tudi jaz — daleč od mene, da bi grešil pred Jahvejem, če bi opustil moliti za vas; poučil vas bom ⟨את⟩ o ⟨poti⟩ dobri in ⟨poti⟩ pravi.",
   "tokens": [
     {
       "surface": "גם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "zame"
+      "gloss": "jaz"
     },
     {
       "surface": "חלילה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "⟨zame⟩"
+      "gloss": "od mene"
     },
     {
       "surface": "מחטא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "zoper Jahve"
+      "gloss": "pred Jahvejem"
     },
     {
       "surface": "מחדל",
@@ -66,26 +45,26 @@
     },
     {
       "surface": "והוריתי",
-      "gloss": "in naučil vas bom"
+      "gloss": "poučil vas bom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
-      "marks": "vas"
+      "gloss": "⟨את⟩",
+      "marks": "vas (o poti dobri in pravi)"
     },
     {
       "surface": "בדרך",
-      "gloss": "poti"
+      "gloss": "o poti"
     },
     {
       "surface": "הטובה",
-      "gloss": "dobre"
+      "gloss": "dobri"
     },
     {
       "surface": "והישרה",
-      "gloss": "in prave"
+      "gloss": "in pravi"
     }
   ],
-  "timestamp": "2026-10-19T16:34:11.861038092Z",
+  "timestamp": "2026-10-19T20:14:46.549830626Z",
   "model": "glm-5.3"
 }

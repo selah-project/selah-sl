@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "znamenje",
-      "rationale": "ציון je spominski ali vodilni steber, ne le 'znak'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "המון",
-      "rationale": "Hamon zveni kot המון 'mnoštvo' — dolina 'mnoštva Gogovega', izgubljeno v slovenščini"
-    }
-  ],
-  "translation": "In ko bodo tisti, ki gredo po deželi, šli in bo kdo videl človekovo kost, bo zraven postavil znamenje, dokler ⟨jo⟩ niso pokopali pokopalci v dolini Hamon-Gog.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f8a13aa95c731a54b0783a2efe3d7e3c11c17a09f55739be2ad7aba17e640759",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/39\/13-16.1792433556885.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ko bodo tisti, ki grejo čez deželo, šli čez njo, in bo kdo videl človeško kost, bo zraven postavil znamenje, dokler ga ne pokopljejo pokopavalci v dolini Hamon-Gog.",
   "tokens": [
     {
       "surface": "ועברו",
-      "gloss": "in ko bodo šli"
+      "gloss": "in bodo šli čez"
     },
     {
       "surface": "העברים",
-      "gloss": "tisti, ki gredo"
+      "gloss": "tisti, ki gredo čez"
     },
     {
       "surface": "בארץ",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "človekovo"
+      "gloss": "človeško"
     },
     {
       "surface": "ובנה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אצלו",
-      "gloss": "zraven"
+      "gloss": "zraven nje"
     },
     {
       "surface": "ציון",
@@ -70,16 +49,16 @@
     },
     {
       "surface": "קברו",
-      "gloss": "niso pokopali"
+      "gloss": "ne pokopljejo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "pokopalci"
+      "marks": "ga (človeško kost)"
     },
     {
       "surface": "המקברים",
-      "gloss": "pokopalci"
+      "gloss": "pokopavalci"
     },
     {
       "surface": "אל",
@@ -98,6 +77,6 @@
       "gloss": "Gog"
     }
   ],
-  "timestamp": "2026-10-19T18:12:36.887520082Z",
+  "timestamp": "2026-10-19T20:24:04.052442233Z",
   "model": "glm-5.3"
 }

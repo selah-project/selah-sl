@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vso Judovo deželo",
-      "rationale": "לקח את כל יהודה dobesedno »vzel vse Judejo« — misljeno prebivalstvo, ne ozemlje."
-    },
-    {
-      "kind": "measurement",
-      "subject": "navpičen kos gradbenega materiala",
-      "rationale": "Seštevanje kamnov in lesa za dve novi trdnjavi."
-    }
-  ],
-  "translation": "In kralj Asa je vzel vso Judovo deželo, in odnesli so ⟨את⟩ kamne Rame in ⟨את⟩ njeno les, ki ga je Baša gradil; in z njimi je zgradil ⟨את⟩ Géba in ⟨את⟩ Micpo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "44f861b2bd8ad9c3daa50a24c9dd2693b4fbb077ec4194c2ff09ebb8afc24210",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/16\/5-8.1792438687293.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In kralj Asa je vzel ⟨את⟩ vso Judejo, in odnesli so ⟨את⟩ kamne Rame in ⟨את⟩ njen les, ki ga je zidal Baša, in zidal je z njimi ⟨את⟩ Gevo in ⟨את⟩ Micpo.",
   "tokens": [
     {
       "surface": "ואסא",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vso Judovo deželo"
+      "marks": "vso Judejo"
     },
     {
       "surface": "כל",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Judovo deželo"
+      "gloss": "Judejo"
     },
     {
       "surface": "וישאו",
@@ -85,7 +64,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "je gradil"
+      "gloss": "je zidal"
     },
     {
       "surface": "בעשא",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "ויבן",
-      "gloss": "in zgradil je"
+      "gloss": "in zidal je"
     },
     {
       "surface": "בהם",
@@ -102,11 +81,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gébo"
+      "marks": "Gevo"
     },
     {
       "surface": "גבע",
-      "gloss": "Géba"
+      "gloss": "Gevo"
     },
     {
       "surface": "ואת",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "Micpa"
+      "gloss": "Micpo"
     }
   ],
-  "timestamp": "2026-10-19T19:38:07.295767706Z",
+  "timestamp": "2026-10-19T20:16:10.226534214Z",
   "model": "glm-5.3"
 }

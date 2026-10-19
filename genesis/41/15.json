@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Joseph",
-      "rationale": "Faraon neposredno nagovarja Józefa."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חלום\/חלמתי · שמע\/שמעתי · פתר\/פתר",
-      "rationale": "Trojna ponovitev korenov sanja–slišati–razložiti, ki vsak stoji dvakrat; verz je zgrajen iz zrcalnih parov."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו (prvi)",
-      "rationale": "Aleph-tav v povedi 'ni razlagalja' — 'ni ga' namesto ⟨את⟩, ker je slovenski nikalni stavek brez preudarnega predmeta."
-    }
-  ],
-  "translation": "In faraon je rekel Józefu: Sanjal sem sanje, ni pa ⟨tistega, ki bi jih⟩ razložil; o tebi pa sem slišal, da slišaš sanje, da jih razložiš ⟨את⟩ ⟨njih⟩.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/13-16.1792422734986.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Faraon je rekel Jožefu: Sanjal sem sanje, in razlagalca ni ⟨zanje⟩; jaz pa sem slišal o tebi, da pravijo: sanje slišiš in jih razložiš ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in rekel"
+      "gloss": "In-je-rekel"
     },
     {
       "surface": "פרעה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Józefu"
+      "gloss": "Jožefu"
     },
     {
       "surface": "חלום",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "חלמתי",
-      "gloss": "sanjal sem"
+      "gloss": "sem-sanjal"
     },
     {
       "surface": "ופתר",
-      "gloss": "razložil"
+      "gloss": "in-razlagati"
     },
     {
       "surface": "אין",
@@ -67,27 +41,28 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩",
+      "marks": "zanje (sanje)"
     },
     {
       "surface": "ואני",
-      "gloss": "o tebi"
+      "gloss": "jaz-pa"
     },
     {
       "surface": "שמעתי",
-      "gloss": "sem slišal"
+      "gloss": "sem-slišal"
     },
     {
       "surface": "עליך",
-      "gloss": "o tebi"
+      "gloss": "o-tebi"
     },
     {
       "surface": "לאמר",
-      "gloss": "da"
+      "gloss": "da-pravijo"
     },
     {
       "surface": "תשמע",
-      "gloss": "slišaš"
+      "gloss": "slišiš"
     },
     {
       "surface": "חלום",
@@ -95,14 +70,14 @@
     },
     {
       "surface": "לפתר",
-      "gloss": "razložiš"
+      "gloss": "razložiti"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "jih (sanje)"
     }
   ],
-  "timestamp": "2026-10-19T15:12:14.987285353Z",
+  "timestamp": "2026-10-19T20:26:28.124678882Z",
   "model": "glm-5.3"
 }

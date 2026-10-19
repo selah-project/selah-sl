@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תחת מה",
-      "rationale": "Hebrejski idiom 'pod čim' = zakaj, zaradi česa."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלהי נכר \/ זרים",
-      "rationale": "Meres: služili tuje bogove v svoji deželi → tujcem v tuji deželi; vzporednica je nosilec verza."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Nagovor ljudstvu v drugi osebi množine, odgovor pa v drugi osebi edine (Jeremiju)."
-    }
-  ],
-  "translation": "In zgodi se, ko boste rekli: Zakaj je storil Jahve, naš Elohim, ⟨את⟩ vse to nam? — jim boš rekel: Kakor ste zapustili mene in služili bogovom tujcev v svoji zemlji, tako boste služili tujcem v deželi, ki ni vaša.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "09047a980c5e0ef1a4dce9a51a4367c9ef280b558364842e09168b513c100499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/5\/17-20.1792431147288.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodilo se bo, ko boste rekli: »Zakaj nam je Jahve, naš Elohim, storil vse ⟨את⟩ to?« Tedaj jim boš rekel: »Kakor ste zapustili ⟨את⟩ mene in služili bogovom tujine v svoji deželi, tako boste služili tujcem v deželi, ki ni vaša.«",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "in zgodi se"
+      "gloss": "in zgodilo se bo"
     },
     {
       "surface": "כי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "zakaj"
+      "gloss": "za"
     },
     {
       "surface": "מה",
@@ -72,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vse to"
+      "marks": "vse"
     },
     {
       "surface": "כל",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "jim"
+      "gloss": "njim"
     },
     {
       "surface": "כאשר",
@@ -100,8 +74,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "mene"
+      "gloss": "⟨את⟩ mene",
+      "marks": "ste zapustili"
     },
     {
       "surface": "ותעבדו",
@@ -113,11 +87,11 @@
     },
     {
       "surface": "נכר",
-      "gloss": "tujcev"
+      "gloss": "tujine"
     },
     {
       "surface": "בארצכם",
-      "gloss": "v svoji zemlji"
+      "gloss": "v svoji deželi"
     },
     {
       "surface": "כן",
@@ -141,9 +115,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "vaša"
+      "gloss": "je vaša"
     }
   ],
-  "timestamp": "2026-10-19T17:32:27.290172007Z",
+  "timestamp": "2026-10-19T20:29:55.537972205Z",
   "model": "glm-5.3"
 }

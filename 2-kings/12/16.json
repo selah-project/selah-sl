@@ -5,59 +5,32 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על ידם",
-      "gloss": "v njihove roke",
-      "rationale": "hebrejski prislov 'po njihovi roki' = prek njih, v njihovi oskrbi; slovenščina 'v roke'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "חשב",
-      "rationale": "dobesedno 'prešteti\/izračunati' — tu 'opravljati obračun z'."
-    },
-    {
-      "kind": "elision",
-      "subject": "הם",
-      "rationale": "poudarni 'oni' vključen v slovenski glagol 'so delali'."
-    }
-  ],
-  "translation": "In niso opravljali obračuna ⟨z⟩ možmi, v katerih roke so dajali ⟨את⟩ srebro, da bi ga izročili delavcem, ki opravljajo delo, kajti z zvestobo so delali.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/12\/13-16.1792429615987.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ z moškimi, ki so dali ⟨את⟩ srebro v svojo roko, da bi ga dali delavcem ⟨za⟩ delo, niso računali, ker zvesto delajo.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "in niso"
+      "gloss": "in ne"
     },
     {
       "surface": "יחשבו",
-      "gloss": "opravljali obračuna"
+      "gloss": "so računali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "možmi"
+      "marks": "z moškimi"
     },
     {
       "surface": "האנשים",
-      "gloss": "z možmi"
+      "gloss": "z moškimi"
     },
     {
       "surface": "אשר",
-      "gloss": "v katerih"
+      "gloss": "ki"
     },
     {
       "surface": "יתנו",
-      "gloss": "so dajali"
+      "gloss": "so dali"
     },
     {
       "surface": "את",
@@ -70,19 +43,19 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "v"
     },
     {
       "surface": "ידם",
-      "gloss": "roke"
+      "gloss": "svojo roko"
     },
     {
       "surface": "לתת",
-      "gloss": "da bi ga izročili"
+      "gloss": "da bi dali"
     },
     {
       "surface": "לעשי",
-      "gloss": "delavcem, ki opravljajo"
+      "gloss": "delavcem"
     },
     {
       "surface": "המלאכה",
@@ -90,11 +63,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "ker"
     },
     {
       "surface": "באמנה",
-      "gloss": "z zvestobo"
+      "gloss": "zvesto"
     },
     {
       "surface": "הם",
@@ -102,9 +75,9 @@
     },
     {
       "surface": "עשים",
-      "gloss": "delali"
+      "gloss": "delajo"
     }
   ],
-  "timestamp": "2026-10-19T17:06:55.988222910Z",
+  "timestamp": "2026-10-19T20:38:54.234855512Z",
   "model": "glm-5.3"
 }

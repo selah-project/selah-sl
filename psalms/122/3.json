@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 122,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "slovenščina zahteva glagol biti, hebrejščina ga nima"
-    },
-    {
-      "kind": "crux",
-      "subject": "שחברה לה",
-      "rationale": "kar je spojeno skupaj — ali 'sebi' (nase) ali 'z njo'; YLT 'joined to itself'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Jerušalajim",
-      "rationale": "vljudenni ogovor mesta iz v. 2 se nadaljuje"
-    }
-  ],
-  "translation": "Jerušalajim, zgrajena ⟨je⟩ kakor mesto, ki je zvezano-se-skupaj, skupaj-edinо.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a2664e70360f661a5415ede363c96515bed045fcba38533e55983cf047e7cf93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/122\/3-4.1792439065183.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jerušalajim, zgrajena kakor mesto, ki je zopet-sestavljeno-sebi skupaj.",
   "tokens": [
     {
       "surface": "ירושלם",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "שחברה",
-      "gloss": "zvezano-se-skupaj"
+      "gloss": "zopet-sestavljeno-sebi"
     },
     {
       "surface": "לה",
@@ -55,9 +29,9 @@
     },
     {
       "surface": "יחדו",
-      "gloss": "skupaj-edino"
+      "gloss": "skupaj"
     }
   ],
-  "timestamp": "2026-10-19T19:44:25.184064039Z",
+  "timestamp": "2026-10-19T20:38:26.363700578Z",
   "model": "glm-5.3"
 }

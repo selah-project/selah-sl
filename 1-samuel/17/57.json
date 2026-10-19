@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Aleph-tav z pripono osebkovega zaimka; v slovenščini ga pokriva naslonski zaimek »ga«."
-    }
-  ],
-  "translation": "In ko se je David vrnil s pobijanja ⟨את⟩ Peliščana, ga je vzel Abner in ga pripeljal pred Šaula, glava Peliščana pa v njegovi roki.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/17\/57-58.1792427818648.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ko se je David vrnil s pobitja ⟨את⟩ Pelíščana, ga je vzel ⟨את⟩ Avner in ga pripeljal pred Šaula, ⟨z⟩ glavo Pelíščana v roki.",
   "tokens": [
     {
       "surface": "וכשוב",
@@ -33,29 +17,29 @@
     },
     {
       "surface": "מהכות",
-      "gloss": "s pobijanja"
+      "gloss": "s pobitja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Peliščana"
+      "marks": "Pelíščana"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Peliščana"
+      "gloss": "Pelíščana"
     },
     {
       "surface": "ויקח",
-      "gloss": "in je vzel"
+      "gloss": "je vzel"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-ga",
-      "marks": "njega (Davida)"
+      "gloss": "⟨את⟩ ga",
+      "marks": "Avner (njega)"
     },
     {
       "surface": "אבנר",
-      "gloss": "Abner"
+      "gloss": "Avner"
     },
     {
       "surface": "ויבאהו",
@@ -67,21 +51,21 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulom"
+      "gloss": "Šaula"
     },
     {
       "surface": "וראש",
-      "gloss": "glava"
+      "gloss": "in glava"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Peliščana"
+      "gloss": "Pelíščana"
     },
     {
       "surface": "בידו",
       "gloss": "v njegovi roki"
     }
   ],
-  "timestamp": "2026-10-19T16:36:58.649191452Z",
+  "timestamp": "2026-10-19T20:15:00.004233202Z",
   "model": "glm-5.3"
 }

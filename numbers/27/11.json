@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sorodnik",
-      "rationale": "שאר je dobesedno 'meso\/kri', preneseno najbližji krvni sorodnik"
-    },
-    {
-      "kind": "addition",
-      "subject": "to",
-      "rationale": "והיתה ('in bo') prevedeno z osebkom 'to', ker slovenščina zahteva osebek"
-    }
-  ],
-  "translation": "In če njegov oče nima bratov, dajte njegovo dediščino njegovemu sorodniku, ki mu je najbližje iz njegove družine, in podeduje ⟨את⟩ jo; to naj bo sinovom Jisraela za odlok sodbe, kakor je ukazal Jahve ⟨את⟩ Mošetu.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "7e4c998a677d7a4cb6da39597791af69957e25b6180a28c5d2f3f82d076b217d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/27\/9-12.1792425380142.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In če ni bratov njegovemu očetu, potem dajte ⟨את⟩ njegovo dediščino njegovemu sorodniku, ki mu je najbližji iz njegove družine, in ta naj prevzame ⟨את⟩ jo; in to bo sinovom Jisraela za odlok-pravo, kakor je Jahve ukazal ⟨את⟩ Mošetu.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "in če"
+      "gloss": "In če"
     },
     {
       "surface": "אין",
-      "gloss": "nima"
+      "gloss": "ni"
     },
     {
       "surface": "אחים",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לאביו",
-      "gloss": "njegov oče"
+      "gloss": "njegovemu očetu"
     },
     {
       "surface": "ונתתם",
-      "gloss": "dajte"
+      "gloss": "potem dajte"
     },
     {
       "surface": "את",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "najbližje"
+      "gloss": "ki je najbližji"
     },
     {
       "surface": "אליו",
-      "gloss": "mu je"
+      "gloss": "mu"
     },
     {
       "surface": "ממשפחתו",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "וירש",
-      "gloss": "in podeduje"
+      "gloss": "in prevzame"
     },
     {
       "surface": "אתה",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "to naj bo"
+      "gloss": "in to bo"
     },
     {
       "surface": "לבני",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "משפט",
-      "gloss": "sodbe"
+      "gloss": "pravo"
     },
     {
       "surface": "כאשר",
@@ -124,6 +103,6 @@
       "gloss": "Mošetu"
     }
   ],
-  "timestamp": "2026-10-19T15:56:20.143345073Z",
+  "timestamp": "2026-10-19T20:36:02.413551778Z",
   "model": "glm-5.3"
 }

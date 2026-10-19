@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "so",
-      "rationale": "Hebrejščina nima glagola biti; dodano v slovenščini."
-    },
-    {
-      "kind": "crux",
-      "subject": "ברורים",
-      "rationale": "Različice: 'izbrani\/plemeniti' (KJV 'choice') — koren ברר pomeni prebrati, izbrati."
-    },
-    {
-      "kind": "measurement",
-      "subject": "dvajset in šest tisoč mož",
-      "rationale": "Vojaški popis Ašerjevih rodov — štetje mož, sposobnih za boj."
-    }
-  ],
-  "translation": "Vsi ti ⟨so⟩ sinovi Ašerja, glavarje hiš očetov, izbrani, junaki moči, glavarje nadžupanov; vpisani po rodovniku v vojsko, v boj — njihovo število: mož dvajset in šest tisoč.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "1752a82ee7bf5c6add62a3aca8c45bee636b2e5afd0d8ea65ff81a6c138b27d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/7\/37-40.1792438110937.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vsi ti so bili sinovi Ašerjevi, poglavitarji očetovskih hiš, izbrani junaki-moči, poglavitarji knezov; bili so vpisani po rodovniku v vojsko za vojno; njihovo število je bilo mož dvaindvajset tisoč.",
   "tokens": [
     {
       "surface": "כל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "Ašer"
+      "gloss": "Ašerja"
     },
     {
       "surface": "ראשי",
-      "gloss": "glavarje"
+      "gloss": "poglavitarji"
     },
     {
       "surface": "בית",
@@ -59,10 +33,10 @@
     },
     {
       "surface": "האבות",
-      "gloss": "očetov"
+      "gloss": "očetovskih"
     },
     {
-      "surface": "ברורim",
+      "surface": "ברורים",
       "gloss": "izbrani"
     },
     {
@@ -75,15 +49,15 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "glavarje"
+      "gloss": "poglavitarji"
     },
     {
       "surface": "הנשיאים",
-      "gloss": "nadžupanov"
+      "gloss": "knezov"
     },
     {
       "surface": "והתיחשם",
-      "gloss": "vpisani po rodovniku"
+      "gloss": "in bili so vpisani po rodovniku"
     },
     {
       "surface": "בצבא",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "v boj"
+      "gloss": "za vojno"
     },
     {
       "surface": "מספרם",
@@ -114,6 +88,6 @@
       "gloss": "tisoč"
     }
   ],
-  "timestamp": "2026-10-19T19:28:30.940008213Z",
+  "timestamp": "2026-10-19T20:13:45.123222113Z",
   "model": "glm-5.3"
 }

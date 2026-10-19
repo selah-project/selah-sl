@@ -5,42 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על שפת לשון",
-      "rationale": "Dobesedno »na ustni jezika« = biti predmet govoric."
-    },
-    {
-      "kind": "substitution",
-      "subject": "požirali",
-      "rationale": "ושאףp dobesedno »vdihavati\/sesati«, podoba požrljivosti."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יען ביען",
-      "rationale": "Podvajanje »ker, ker« — poudarek vzroka, v slovenščini »prav ker«."
-    },
-    {
-      "kind": "you",
-      "subject": "vas",
-      "rationale": "Nadaljevanje nagovora goram Jisraela."
-    }
-  ],
-  "translation": "Zato prerokuj in reci: Tako govori Adonaj Jahve: Ker, prav ker so ⟨je⟩ opustošili in vas požirali z vseh strani, da bi bili v posest ostaneku narodov, in prišli ste ⟨je⟩ na ustnice jezika in v obrekovanje ljudstva —",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "d7521be3734bce44cc943aff84fdf099889edcd7325a195081d14feb5edf6aa5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/36\/1-4.1792433532316.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato prerokuj in reci: Tako govori Adonaj Jahve: Ker — da, ker so vas naredili za pustoš in vas ⟨את⟩ požrli z vseh strani, da bi bili ⟨את⟩ v posest ostanku narodov, prišli ste na ustna jezika in v obrekovanje ljudstva.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Zato"
+      "gloss": "zato"
     },
     {
       "surface": "הנבא",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "Tako"
+      "gloss": "tako"
     },
     {
       "surface": "אמר",
@@ -68,24 +37,24 @@
     },
     {
       "surface": "יען",
-      "gloss": "Ker"
+      "gloss": "ker"
     },
     {
       "surface": "ביען",
-      "gloss": "prav ker"
+      "gloss": "da, ker"
     },
     {
       "surface": "שמות",
-      "gloss": "so opustošili"
+      "gloss": "naredili za pustoš"
     },
     {
       "surface": "ושאף",
-      "gloss": "in požirali"
+      "gloss": "in požrli"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas — objekt: gore Jisraela, ogovorjene v 36,1"
     },
     {
       "surface": "מסביב",
@@ -109,7 +78,7 @@
     },
     {
       "surface": "ותעלו",
-      "gloss": "in prišli ste"
+      "gloss": "prišli ste"
     },
     {
       "surface": "על",
@@ -117,7 +86,7 @@
     },
     {
       "surface": "שפת",
-      "gloss": "ustnice"
+      "gloss": "ustna"
     },
     {
       "surface": "לשון",
@@ -125,13 +94,13 @@
     },
     {
       "surface": "ודבת",
-      "gloss": "in v obrekovanje"
+      "gloss": "in obrekovanje"
     },
     {
       "surface": "עם",
       "gloss": "ljudstva"
     }
   ],
-  "timestamp": "2026-10-19T18:12:12.319657614Z",
+  "timestamp": "2026-10-19T20:23:45.332796460Z",
   "model": "glm-5.3"
 }

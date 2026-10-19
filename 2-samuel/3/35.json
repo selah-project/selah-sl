@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "כי אם v zaobljubi pomeni 'če ne' — kot eno zvezo prevedeno z enim 'če'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "Tako mi storil Elohim",
-      "rationale": "Zaobljubna formula כה יעשה... אלהיױ — dobesedno 'tako naj mi Elohim storil'; slovenska zaobljubna konstrukcija jo delno nadomesti."
-    }
-  ],
-  "translation": "In vse ljudstvo je prišlo ponuditi ⟨את⟩ Davidu kruh, medtem ko je bil še dan; David pa se je zaobljubil in rekel: Tako mi storil Elohim in tako še dodal, če predno zaide sonce okusim kruh ali karkoli drugega.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a59ff693caf11e6db52981e5a205b067d9fa7fd70b1a59fd06009a7d568bf9c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/3\/33-36.1792428205650.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ves ljudstvo je prišlo ponuditi ⟨את⟩ Davidu kruh, dokler je bil še dan; David pa se je zaoblubil rekoč: Tako mi storil Elohim in tako dodal, če pred zahodom sonca okusim kruh ali karkoli drugega.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "je prišlo"
+      "gloss": "in je prišel"
     },
     {
       "surface": "כל",
-      "gloss": "vse"
+      "gloss": "ves"
     },
     {
       "surface": "העם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "להברות",
-      "gloss": "ponuditi jesti"
+      "gloss": "ponuditi"
     },
     {
       "surface": "את",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "בעוד",
-      "gloss": "medtem ko je bil"
+      "gloss": "dokler je bil še"
     },
     {
       "surface": "היום",
-      "gloss": "še dan"
+      "gloss": "dan"
     },
     {
       "surface": "וישבע",
-      "gloss": "in je zaobljubil"
+      "gloss": "in zaoblubil se je"
     },
     {
       "surface": "דוד",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "in rekel"
+      "gloss": "rekoč"
     },
     {
       "surface": "כה",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "naj stori"
+      "gloss": "naj storí"
     },
     {
       "surface": "לי",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "יסיף",
-      "gloss": "še dodal"
+      "gloss": "naj doda"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "če"
     },
     {
       "surface": "אם",
@@ -111,15 +90,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "predno"
+      "gloss": "pred"
     },
     {
       "surface": "בוא",
-      "gloss": "zaide"
+      "gloss": "zahodom"
     },
     {
       "surface": "השמש",
-      "gloss": "sonce"
+      "gloss": "sonca"
     },
     {
       "surface": "אטעם",
@@ -142,6 +121,6 @@
       "gloss": "drugega"
     }
   ],
-  "timestamp": "2026-10-19T16:43:25.651478035Z",
+  "timestamp": "2026-10-19T20:18:30.283841750Z",
   "model": "glm-5.3"
 }

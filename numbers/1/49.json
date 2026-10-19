@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Mošeu",
-      "rationale": "Impozitiv »ne šteaj« je neposreden nagovor Mošea."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תפקד\/תשא",
-      "rationale": "Dva glagola za popis — šteti (פקד) in vzdigniti\/prevzeti seštevek (נשא), v slovenščini izgubi dvojni vid."
-    }
-  ],
-  "translation": "Samo plemena Levija ne štej in njihovih glav ne primej sredi sinov Jisraela.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/1\/49-52.1792424653536.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Samo ⟨את⟩ plemena Levija ne smeš prešteti, ⟨את⟩ njihove glave pa ne smeš dvigniti sredi sinov Jisraela.",
   "tokens": [
     {
       "surface": "אך",
@@ -35,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "plemeno Levija"
+      "marks": "plemena Levija"
     },
     {
       "surface": "מטה",
-      "gloss": "pleme"
+      "gloss": "plemena"
     },
     {
       "surface": "לוי",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "štej"
+      "gloss": "smeš prešteti"
     },
     {
       "surface": "ואת",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "תשא",
-      "gloss": "primej"
+      "gloss": "smeš dvigniti"
     },
     {
       "surface": "בתוך",
@@ -83,6 +62,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-10-19T15:44:13.537492811Z",
+  "timestamp": "2026-10-19T20:35:15.101137323Z",
   "model": "glm-5.3"
 }

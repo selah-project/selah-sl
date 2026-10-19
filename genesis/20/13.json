@@ -5,42 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "הוא has no verb; the copula ⟨je⟩ is supplied in Slovenian"
-    },
-    {
-      "kind": "addition",
-      "subject": "sta",
-      "rationale": "התעו is plural with Elohim; Slovenian needs the dual-reading auxiliary"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "חסד kept as hesed — loyalty\/kindness; a single Slovenian word would flatten it"
-    },
-    {
-      "kind": "you",
-      "subject": "Avrahamov govor Sarai",
-      "rationale": "cited speech in which Avraham binds Sara to say 'he is my brother'"
-    }
-  ],
-  "translation": "In zgodbilo se je, ko sta me Elohim dala tavati iz hiše mojega očeta, in rekel sem ⟨njej⟩: To je tvoj hesed, ki ga boš storila ⟨z menoj⟩ — v vsakem kraju, kamor bomo prišli, reci o meni: On ⟨je⟩ moj brat.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "d2bfbef305f24d5223c52fe1962bfd7d96fc636e402fd9f37690f3df2276bd86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/20\/13-16.1792422365693.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodilo se je, ko me je Elohim popeljal v blodnjak ⟨את⟩ iz hiše očeta svojega, da sem ji rekel: To je tvoj hesed, ki ga boš izkazala meni: v vsakem kraju, kamor bomo prišli, reci zame: Moj brat je on.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "In zgodbilo se je"
+      "gloss": "in zgodilo se je"
     },
     {
       "surface": "כאשר",
@@ -48,12 +17,12 @@
     },
     {
       "surface": "התעו",
-      "gloss": "sta dala tavati"
+      "gloss": "je popeljal v blodnjak"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mene"
+      "marks": "mene (Avrahama)"
     },
     {
       "surface": "אלהים",
@@ -65,11 +34,11 @@
     },
     {
       "surface": "אבי",
-      "gloss": "mojega očeta"
+      "gloss": "očeta svojega"
     },
     {
       "surface": "ואמר",
-      "gloss": "in rekel sem"
+      "gloss": "da sem rekel"
     },
     {
       "surface": "לה",
@@ -101,11 +70,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "vsakem"
+      "gloss": "vsak"
     },
     {
       "surface": "המקום",
-      "gloss": "kraju"
+      "gloss": "kraj"
     },
     {
       "surface": "אשר",
@@ -125,17 +94,17 @@
     },
     {
       "surface": "לי",
-      "gloss": "o meni"
+      "gloss": "zame"
     },
     {
       "surface": "אחי",
-      "gloss": "moj brat"
+      "gloss": "brat"
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "je on"
     }
   ],
-  "timestamp": "2026-10-19T15:06:05.694272366Z",
+  "timestamp": "2026-10-19T20:25:21.709007892Z",
   "model": "glm-5.3"
 }

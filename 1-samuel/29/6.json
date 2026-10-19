@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sereni",
-      "rationale": "סרנים je poseben filistejski naziv (mogoče 'knezi\/vladarji pentapolisa') — izposojenka, ne hebrejska beseda."
-    },
-    {
-      "kind": "crux",
-      "subject": "zakleta formula",
-      "rationale": "Akish, Filistejec, priseže pri יהוה — prisega pri tujem Imenu; prevodi to pustijo, bralec pa se vpraša, čigu ime sploh pozna."
-    }
-  ],
-  "translation": "In Akish je poklical Davida in mu rekel: Živ je Jahve, ker si pravičen in dober si v mojih očeh, tvoj izhod in tvoj prihod ⟨z⟩ menoj v taboru, kajti nisem našel v tebi hudega od dneva, ko si prišel k meni, do tega dne; a v očeh serenov nisi dober.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "f6dc2ce8cb87cc278937aa53dba9e6a36ab3d2273f3f64f561bcec0ab1fc0616",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/29\/5-8.1792428103430.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Akiš je poklical Davida in mu rekel: Živ je Jahve, da si vzprišen, in dober je v mojih očeh tvoj izhod in tvoj vhod ⟨את⟩ z mano v taboru, kajti nisem našel v tebi hudega od dneva tvojega prihoda ⟨k⟩ meni do tega dne; toda v očeh poglavarjev nisi dober.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אכיש",
-      "gloss": "Akish"
+      "gloss": "Akiš"
     },
     {
       "surface": "אל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "njemu"
+      "gloss": "mu"
     },
     {
       "surface": "חי",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ker"
+      "gloss": "da"
     },
     {
       "surface": "ישר",
-      "gloss": "pravičen"
+      "gloss": "vzprišen"
     },
     {
       "surface": "אתה",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "ובאך",
-      "gloss": "in tvoj prihod"
+      "gloss": "in tvoj vhod"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ z menoj"
+      "gloss": "⟨את⟩ z mano"
     },
     {
       "surface": "במחנה",
@@ -122,7 +101,7 @@
     },
     {
       "surface": "באך",
-      "gloss": "ko si prišel"
+      "gloss": "tvojega prihoda"
     },
     {
       "surface": "אלי",
@@ -138,15 +117,15 @@
     },
     {
       "surface": "הזה",
-      "gloss": "tale"
+      "gloss": "tega"
     },
     {
       "surface": "ובעיני",
-      "gloss": "in v očeh"
+      "gloss": "toda v očeh"
     },
     {
       "surface": "הסרנים",
-      "gloss": "serenov"
+      "gloss": "poglavarjev"
     },
     {
       "surface": "לא",
@@ -161,6 +140,6 @@
       "gloss": "si"
     }
   ],
-  "timestamp": "2026-10-19T16:41:43.431492890Z",
+  "timestamp": "2026-10-19T20:16:03.272416916Z",
   "model": "glm-5.3"
 }

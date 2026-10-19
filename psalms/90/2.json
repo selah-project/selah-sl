@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 90,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "preden",
-      "rationale": "בטרם stoji le pred prvim stavkom; drugi 'preden' je dodano iz vzporednice."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ילדו\/ותחולל",
-      "rationale": "Dvojica 'rodile so se' \/ 'si rodila' — isti porodni koren v ogledu; poantenje delno izgubljeno."
-    },
-    {
-      "kind": "mystery",
-      "subject": "od večnosti do večnosti",
-      "rationale": "עולם je dobesedno 'skrito, izgubišče' — čas onkraj vidnega."
-    }
-  ],
-  "translation": "Preden so se rodile gore, preden si rodil ⟨את⟩ deželo in ⟨את⟩ svet, od večnosti do večnosti si ⟨ti⟩ El.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/90\/1-4.1792435240612.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Preden so se rodile gore, preden si rodil ⟨את⟩ deželo in ⟨את⟩ svet, od večnosti do večnosti si Ti, El.",
   "tokens": [
     {
       "surface": "בטרם",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨את⟩ deželo"
+      "gloss": "deželo"
     },
     {
       "surface": "ותבל",
-      "gloss": "in ⟨את⟩ svet"
+      "gloss": "in svet"
     },
     {
       "surface": "ומעולם",
@@ -71,13 +45,13 @@
     },
     {
       "surface": "אתה",
-      "gloss": "si"
+      "gloss": "si Ti"
     },
     {
       "surface": "אל",
       "gloss": "El"
     }
   ],
-  "timestamp": "2026-10-19T18:40:40.614089510Z",
+  "timestamp": "2026-10-19T20:37:55.895643156Z",
   "model": "glm-5.3"
 }

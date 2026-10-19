@@ -5,33 +5,7 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "sedanjik ali preteklik",
-      "rationale": "Amos pravi אנכי (sem) brez glagola; KJV\/JPS berejo preteklik (bil sem), YLT sedanjik (nisem)."
-    },
-    {
-      "kind": "hapax",
-      "subject": "בולס",
-      "rationale": "Obiranje\/kapljanje divjih fig se pojavlja samo tu v Tanahu."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "predlog je zlit s slovenskim dajalnikom Amasji"
-    }
-  ],
-  "translation": "In Amos je odgovoril in rekel Amasji: Nisem prerok in nisem sin preroka, kajti živinorejec sem in obiralnik divjih fig.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/7\/13-16.1792434035931.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Amos je odgovoril in rekel Amacjáhu: Nisem prerok, jaz, niti sin prerokov, jaz; kajti pastir govedi sem, jaz, in ščipalec murv ⟨sem⟩.",
   "tokens": [
     {
       "surface": "ויען",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "k"
     },
     {
       "surface": "אמציה",
-      "gloss": "Amasji"
+      "gloss": "Amacjáhu"
     },
     {
       "surface": "לא",
-      "gloss": "nisem"
+      "gloss": "ne"
     },
     {
       "surface": "נביא",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "in nisem"
+      "gloss": "niti"
     },
     {
       "surface": "בן",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "preroka"
+      "gloss": "prerokov"
     },
     {
       "surface": "אנכי",
@@ -87,21 +61,21 @@
     },
     {
       "surface": "בוקר",
-      "gloss": "živinorejec"
+      "gloss": "pastir govedi"
     },
     {
       "surface": "אנכי",
-      "gloss": "sem"
+      "gloss": "jaz"
     },
     {
       "surface": "ובולס",
-      "gloss": "in obiralnik"
+      "gloss": "in ščipalec"
     },
     {
       "surface": "שקמים",
-      "gloss": "divjih fig"
+      "gloss": "murv"
     }
   ],
-  "timestamp": "2026-10-19T18:20:35.932962808Z",
+  "timestamp": "2026-10-19T20:18:57.521902092Z",
   "model": "glm-5.3"
 }

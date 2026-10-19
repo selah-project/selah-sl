@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חטאת",
-      "rationale": "Beseda pomeni tudi 'grešna daritev' (YLt tako); tu oseba — grešnik."
-    },
-    {
-      "kind": "alternative",
-      "subject": "תם דרך",
-      "rationale": "Lahko 'pot nedolžnega' ali 'nedolžnega na poti' (KJV 'upright in the way')."
-    }
-  ],
-  "translation": "Cedek-pravičnost varuje pot nedolžnega, hudič pa podre grešnika.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/13\/5-8.1792435920947.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Cedek varuje ⟨tistega, ki je⟩ nedolžen na poti, krivičnost pa izkrivlja grešnika.",
   "tokens": [
     {
       "surface": "צדקה",
-      "gloss": "cedek-pravičnost"
+      "gloss": "cedek"
     },
     {
       "surface": "תצר",
@@ -45,23 +24,18 @@
       "gloss": "pot"
     },
     {
-      "surface": "ויחפיר",
-      "gloss": "",
-      "ref": ""
-    },
-    {
       "surface": "ורשעה",
-      "gloss": "hudič pa"
+      "gloss": "krivičnost pa"
     },
     {
       "surface": "תסלף",
-      "gloss": "podre"
+      "gloss": "izkrivlja"
     },
     {
       "surface": "חטאת",
       "gloss": "grešnika"
     }
   ],
-  "timestamp": "2026-10-19T18:52:00.947799748Z",
+  "timestamp": "2026-10-19T20:36:55.209517546Z",
   "model": "glm-5.3"
 }

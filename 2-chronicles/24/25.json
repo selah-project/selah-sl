@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨z⟩",
-      "rationale": "slovenščina potrebuje predlog 'z', hebrejščina ga v besedi במחליים ne izraža ločeno"
-    },
-    {
-      "kind": "crux",
-      "subject": "במחליים",
-      "rationale": "vzporedni 2 Krn 12,35 (2 Kraljem) bere 'saj so pustili na njem bolezni' — 2 Krn govori o hujših ranah; 'bolezni' proti 'rane'"
-    },
-    {
-      "kind": "elision",
-      "subject": "וימת",
-      "rationale": "slovenščina 'da je umrl' doda veznik, ki ga hebrejščina s wayyiqtol ne izraža"
-    }
-  ],
-  "translation": "In ko so odšli od njega — kajti pustili so ga ⟨z⟩ boleznimi številnimi — so se njegovi služabniki zarotili zoper njega zaradi krvi sinov Jehojada duhovnika, in ubili so ga na njegovi postelji, da je umrl; in pokopali so ga v Davidovem mestu, a niso ga pokopali v grobnicah kraljev.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "4127430404ea05ffd1b7ab0ed0c6262157c5ec1508412f7dc49721b954f0c60e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/24\/25-27.1792438718180.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ko so odšli od njega — kajti pustili so ga ⟨את⟩ v hujih boleznih — so se njegovi sužnji zarotili zoper njega zaradi krvi sinov Jehojade duhovnika, in ubili so ga na njegovi postelji, ter je umrl; in pokopali so ga v mestu Davidovem, niso pa ga pokopali v grobnicah kraljev.",
   "tokens": [
     {
       "surface": "ובלכתם",
-      "gloss": "In ko so odšli"
+      "gloss": "in ko so odšli"
     },
     {
       "surface": "ממנו",
@@ -52,15 +26,15 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "boleznimi številnimi"
+      "marks": "v hujih boleznih"
     },
     {
       "surface": "במחליים",
-      "gloss": "z boleznimi"
+      "gloss": "v hujih boleznih"
     },
     {
       "surface": "רבים",
-      "gloss": "številnimi"
+      "gloss": "hujih"
     },
     {
       "surface": "התקשרו",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "njegovi služabniki"
+      "gloss": "njegovi sužnji"
     },
     {
       "surface": "בדמי",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "יהוידע",
-      "gloss": "Jehojada"
+      "gloss": "Jehojade"
     },
     {
       "surface": "הכהן",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "וימת",
-      "gloss": "da je umrl"
+      "gloss": "in je umrl"
     },
     {
       "surface": "ויקברהו",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "a niso"
+      "gloss": "in niso"
     },
     {
       "surface": "קברהו",
@@ -135,6 +109,6 @@
       "gloss": "kraljev"
     }
   ],
-  "timestamp": "2026-10-19T19:38:38.181908103Z",
+  "timestamp": "2026-10-19T20:16:24.220240298Z",
   "model": "glm-5.3"
 }

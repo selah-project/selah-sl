@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר \/ אם",
-      "rationale": "יען אשר ('ker') in כי אם ('razen') sta zvezi, kjer posameznega člena ni mogoče posebej prevesti."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בליעל",
-      "rationale": "Dobesedno 'brez vrednosti' — ni lastno ime Belial, ampak pridevnik 'ničvreden'."
-    }
-  ],
-  "translation": "In odgovoril je vsak hudobni in ničvredni mož izmed moži, ki so hodili z Davidom, in rekli: Ker niso hodili z nami, ne bomo jim dali ničesar od plena, ki smo ga rešili, razen vsakemu možu ⟨את⟩ njegovo ženo in ⟨את⟩ njegove sinove — in naj jih odpeljejo in gredo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/30\/21-24.1792428101240.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In odgovorili so vsi hudobni in ničvredni možje med možmi, ki so šli z Davidom, in rekli: Ker niso šli z nami, ne damo jim ničesar od plena, ki smo ga rešili, razen vsakemu možu ⟨את⟩ njegovo ženo in ⟨את⟩ njegove sinove — in naj jih odpeljejo in gredo.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "in-odgovoril"
+      "gloss": "in odgovorili so"
     },
     {
       "surface": "כל",
-      "gloss": "vsak"
+      "gloss": "vsi"
     },
     {
       "surface": "איש",
-      "gloss": "mož"
+      "gloss": "možje"
     },
     {
       "surface": "רע",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "ובליעל",
-      "gloss": "in-ničvredni"
+      "gloss": "in ničvredni"
     },
     {
       "surface": "מהאנשים",
-      "gloss": "izmed-moži"
+      "gloss": "med možmi"
     },
     {
       "surface": "אשר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "so-hodili"
+      "gloss": "so šli"
     },
     {
       "surface": "עם",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "in-rekli"
+      "gloss": "in rekli"
     },
     {
       "surface": "יען",
@@ -78,19 +57,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "-"
     },
     {
       "surface": "לא",
-      "gloss": "niso"
+      "gloss": "ne"
     },
     {
       "surface": "הלכו",
-      "gloss": "hodili"
+      "gloss": "so šli"
     },
     {
       "surface": "עמי",
-      "gloss": "z-nami"
+      "gloss": "z nami"
     },
     {
       "surface": "לא",
@@ -98,7 +77,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "bomo-dali"
+      "gloss": "damo"
     },
     {
       "surface": "להם",
@@ -106,7 +85,7 @@
     },
     {
       "surface": "מהשלל",
-      "gloss": "od-plena"
+      "gloss": "od plena"
     },
     {
       "surface": "אשר",
@@ -114,7 +93,7 @@
     },
     {
       "surface": "הצלנו",
-      "gloss": "smo-rešili"
+      "gloss": "smo ga rešili"
     },
     {
       "surface": "כי",
@@ -122,39 +101,39 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "-"
     },
     {
       "surface": "איש",
-      "gloss": "vsakemu-možu"
+      "gloss": "vsakemu možu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njegovo-ženo"
+      "marks": "njegovo ženo"
     },
     {
       "surface": "אשתו",
-      "gloss": "njegovo-ženo"
+      "gloss": "njegovo ženo"
     },
     {
       "surface": "ואת",
-      "gloss": "in-⟨את⟩",
-      "marks": "njegove-sinove"
+      "gloss": "⟨את⟩",
+      "marks": "njegove sinove"
     },
     {
       "surface": "בניו",
-      "gloss": "njegove-sinove"
+      "gloss": "njegove sinove"
     },
     {
       "surface": "וינהגו",
-      "gloss": "in-naj-jih-odpeljejo"
+      "gloss": "naj odpeljejo"
     },
     {
       "surface": "וילכו",
-      "gloss": "in-gredo"
+      "gloss": "in gredo"
     }
   ],
-  "timestamp": "2026-10-19T16:41:41.241676164Z",
+  "timestamp": "2026-10-19T20:15:47.303611278Z",
   "model": "glm-5.3"
 }

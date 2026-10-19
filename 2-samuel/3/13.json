@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bom",
-      "rationale": "Hebrejščina brez pomožnika; sedanjik ‘rezal zavezo’ = skleniti zavezo"
-    },
-    {
-      "kind": "you",
-      "subject": "to Abner",
-      "rationale": "Davidgov pogoj neposredno nagovarja Abnerja"
-    }
-  ],
-  "translation": "In je rekel: Dobro, jaz ⟨ bom ⟨את⟩ ⟨ z teboj ⟩ rezal zavezo; le eno stvar prosim od tebe ⟨את⟩ ⟨ od tebe ⟩, rekoč: Ne boš videl ⟨ את ⟩ mojega obličja, razen če prej privedeš ⟨ את ⟩ Mikal, hčer Šaulovo, ko prideš videt ⟨ את ⟩ moje obličje.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/3\/13-16.1792428196893.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel je: Dobro, jaz rezem ⟨את⟩ zavezo s tabo; a eno stvar prosim od tebe, rekoč: Ne boš videl ⟨את⟩ mojega obraza, razen če prej privedeš ⟨את⟩ Mikal, hčer Šaulovo, ko prideš videt ⟨את⟩ moj obraz.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in je rekel"
+      "gloss": "In rekel je"
     },
     {
       "surface": "טוב",
-      "gloss": "dobro"
+      "gloss": "Dobro"
     },
     {
       "surface": "אני",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אכרת",
-      "gloss": "bom rezal"
+      "gloss": "rezem"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨ z teboj ⟩"
+      "gloss": "s ⟨את⟩ tabo"
     },
     {
       "surface": "ברית",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אך",
-      "gloss": "le"
+      "gloss": "a"
     },
     {
       "surface": "דבר",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "prosim"
+      "gloss": "jaz"
     },
     {
       "surface": "שאל",
-      "gloss": "prosijo"
+      "gloss": "prosim"
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ ⟨ od tebe ⟩"
+      "gloss": "od ⟨את⟩ tebe"
     },
     {
       "surface": "לאמר",
@@ -91,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mojega obličja"
+      "marks": "mojega obraza"
     },
     {
       "surface": "פני",
-      "gloss": "mojega obličja"
+      "gloss": "mojega obraza"
     },
     {
       "surface": "כי",
@@ -128,7 +107,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaula"
+      "gloss": "Šaulovo"
     },
     {
       "surface": "בבאך",
@@ -141,13 +120,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moje obličje"
+      "marks": "moj obraz"
     },
     {
       "surface": "פני",
-      "gloss": "moje obličje"
+      "gloss": "moj obraz"
     }
   ],
-  "timestamp": "2026-10-19T16:43:16.894453542Z",
+  "timestamp": "2026-10-19T20:18:21.532846162Z",
   "model": "glm-5.3"
 }

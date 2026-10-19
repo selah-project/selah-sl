@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בלט",
-      "rationale": "hebrejski prilog 'na skrivaj' je v zvezi 'in odrezal na skrivaj' — postavljen kot prislovno določilo."
-    },
-    {
-      "kind": "you",
-      "subject": "možje Davidovi Davidu",
-      "rationale": "neposreden nagovor Davidu s ponazoritvijo 'glej'."
-    }
-  ],
-  "translation": "In možje Davidovi so mu rekli: Glej, dan, o katerem je govoril Jahve: Glej, jaz dajem ⟨את⟩ tvojega sovražnika v tvojo roko, in storiš mu, kar bo dobro v tvojih očeh. In David je vstal in na skrivaj odrezal ⟨את⟩ krilo plašča, ki pripada Šaulu.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/24\/5-8.1792427946100.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekli so Davidovi možje ⟨njemu⟩: Glej, ta dan, za katerega je Jahve rekel tebi: Glej, jaz dajem ⟨את⟩ tvojega sovražnika v tvojo roko, in storil mu boš, kar bo dobro v tvojih očeh. In vstal je David in odrezal ⟨את⟩ rob plašča, ki je bil Šaulov, na skrivaj.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "so rekli"
+      "gloss": "in rekli so"
     },
     {
       "surface": "אנשי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "mu"
+      "gloss": "⟨njemu⟩"
     },
     {
       "surface": "הנה",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "היום",
-      "gloss": "dan"
+      "gloss": "ta dan"
     },
     {
       "surface": "אשר",
-      "gloss": "o katerem"
+      "gloss": "za katerega"
     },
     {
       "surface": "אמר",
-      "gloss": "je govoril"
+      "gloss": "je rekel"
     },
     {
       "surface": "יהוה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אליך",
-      "gloss": "ti"
+      "gloss": "tebi"
     },
     {
       "surface": "הנה",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "in storiš"
+      "gloss": "in storil boš"
     },
     {
       "surface": "לו",
@@ -115,7 +94,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "in je vstal"
+      "gloss": "in vstal je"
     },
     {
       "surface": "דוד",
@@ -128,11 +107,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "krilo plašča"
+      "marks": "rob plašča"
     },
     {
       "surface": "כנף",
-      "gloss": "krilo"
+      "gloss": "rob"
     },
     {
       "surface": "המעיל",
@@ -140,13 +119,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki pripada"
+      "gloss": "ki je bil"
     },
     {
       "surface": "לשאול",
-      "gloss": "Šaulu"
+      "gloss": "Šaulov"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "na skrivaj"
     }
   ],
-  "timestamp": "2026-10-19T16:39:06.101454485Z",
+  "timestamp": "2026-10-19T20:15:56.291761280Z",
   "model": "glm-5.3"
 }

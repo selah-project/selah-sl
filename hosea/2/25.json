@@ -5,38 +5,7 @@
   "book": "hosea",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רחמתי \/ לא רחמה",
-      "rationale": "koren r-ch-m se ponovi: 'usmilil se bom' proti imenu Lo-Ruhamá (Ne-usmiljena) — v slovenščini se veza izgubi"
-    },
-    {
-      "kind": "crux",
-      "subject": "זרעתיה לי",
-      "rationale": "dosedek: 'sejal jo bom sebi\/zase' — metafora setve kot plodnosti ljudstva; mnogi prevodi omehčajo v 'kakor svojo'"
-    },
-    {
-      "kind": "you",
-      "subject": "k Lo-Amiju",
-      "rationale": "neposreden nagovor ljudstva: Ti si moje ljudstvo"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ime Elohim",
-      "rationale": "Elohim ostaja Ime, ne 'Bog'"
-    }
-  ],
-  "translation": "In sejal jo bom ⟨zase⟩ v deželi, in usmilil se bom Lo-Ruhamá (Ne-usmiljena), in rekel bom Lo-Amiju (Ne-moje-ljudstvo): Ti si moje ljudstvo, ⟨in on⟩ bo rekel: Moj Elohim.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/25-25.1792433767425.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In sejal jo bom sebi v deželi, in usmilil se bom ⟨את⟩ Lo-Ruhamá — usojeno-ni-bila — in rekel Lo-Amíju — ne-moje-ljudstvo —: Ti si moje ljudstvo, in on bo rekel: moj Elohim.",
   "tokens": [
     {
       "surface": "וזרעתיה",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "zame"
+      "gloss": "sebi"
     },
     {
       "surface": "בארץ",
@@ -57,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Lo-Ruhamá (Ne-usmiljena)"
+      "marks": "Lo-Ruhamá"
     },
     {
       "surface": "לא",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "רחמה",
-      "gloss": "usmiljena"
+      "gloss": "usojena"
     },
     {
       "surface": "ואמרתי",
@@ -73,7 +42,7 @@
     },
     {
       "surface": "ללא",
-      "gloss": "Ne-"
+      "gloss": "Lo- (ne-)"
     },
     {
       "surface": "עמי",
@@ -100,6 +69,6 @@
       "gloss": "moj Elohim"
     }
   ],
-  "timestamp": "2026-10-19T18:16:07.426432997Z",
+  "timestamp": "2026-10-19T20:26:38.337151439Z",
   "model": "glm-5.3"
 }

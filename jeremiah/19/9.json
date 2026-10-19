@@ -5,37 +5,16 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "življenje",
-      "rationale": "נפש je sap, grlo, življenjska sila — ne 'duša'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מצור\/מצוק",
-      "rationale": "besedna igra oblega\/stiska (macor\/macok), v slovenščini delno izgubljena"
-    }
-  ],
-  "translation": "In nahranil jih bom ⟨z⟩ mesom njihovih sinov in ⟨z⟩ mesom njihovih hčera, in vsakdo bo jedel meso svojega bližnjega v oblegi in stiski, s katero jih bodo stiskali njihovi sovražniki in tisti, ki iščejo njihovo življenje.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "8582fbfb4effbbd0d47082f303133cff0de2b57258bb9c7f90f9bae10d4fb959",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/19\/9-12.1792431415723.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In povzročil jim bom, da bodo jedli ⟨את⟩ meso njihovih sinov in ⟨את⟩ meso njihovih hčera, in vsak bo jedel meso svojega bližnjega v obleganju in v stiski, s katero jih bodo stiskali njihovi sovražniki in tisti, ki iščejo njihovo življenje.",
   "tokens": [
     {
       "surface": "והאכלתים",
-      "gloss": "In nahranil jih bom"
+      "gloss": "povzročil jim bom, da bodo jedli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mesom"
+      "marks": "meso njihovih sinov"
     },
     {
       "surface": "בשר",
@@ -48,7 +27,7 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "mesom"
+      "marks": "meso njihovih hčera"
     },
     {
       "surface": "בשר",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "in vsakdo"
+      "gloss": "in vsak"
     },
     {
       "surface": "בשר",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "במצור",
-      "gloss": "v oblegi"
+      "gloss": "v obleganju"
     },
     {
       "surface": "ובמצוק",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "יציקו",
-      "gloss": "bodo stiskali"
+      "gloss": "jih bodo stiskali"
     },
     {
       "surface": "להם",
@@ -107,6 +86,6 @@
       "gloss": "njihovo življenje"
     }
   ],
-  "timestamp": "2026-10-19T17:36:55.724512762Z",
+  "timestamp": "2026-10-19T20:28:32.090445188Z",
   "model": "glm-5.3"
 }

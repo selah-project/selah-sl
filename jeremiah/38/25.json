@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "את H854 je predlog 'z', ne predmetni označevalec; ⟨את⟩ ostaja v glosi, v besedilu pa se piše 's teboj'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ממנו",
-      "rationale": "hebrejščina pravi 'od nas' (ednina 'od njega'), govoreči množinsko 'pred nami'."
-    },
-    {
-      "kind": "you",
-      "subject": "Jeremiju",
-      "rationale": "Cedkija nagovarja Jeremija z navodilom, kaj naj reče knezom."
-    }
-  ],
-  "translation": "In če slišijo knezi, da sem govoril s teboj, in pridejo k tebi in ti rečejo: Povej nam, prosim, kaj si govoril s kraljem — ne skrij pred nami, in te ne bomo ubili — in kaj ti je govoril kralj —",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "97ed94a5a00674374c59fbfaa64da0892d5e1af00b6f6c97213457a8f374e629",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/38\/25-28.1792431755389.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In če slišijo knezje, da sem govoril ⟨את⟩ s teboj, in pridejo k tebi in ti rečejo: Razkrij nam dálej, kaj si govoril h kralju — ne skrij pred nami, pa te ne bomo usmrtili — in kaj ti je govoril kralj,",
   "tokens": [
     {
       "surface": "וכי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "השרים",
-      "gloss": "knezi"
+      "gloss": "knezje"
     },
     {
       "surface": "כי",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "s ⟨את⟩ teboj",
+      "gloss": "⟨את⟩ s teboj",
       "marks": "s teboj"
     },
     {
@@ -72,15 +46,15 @@
     },
     {
       "surface": "אליך",
-      "gloss": "ti"
+      "gloss": "tebi"
     },
     {
       "surface": "הגידה",
-      "gloss": "povej"
+      "gloss": "razkrij"
     },
     {
       "surface": "נא",
-      "gloss": "prosim"
+      "gloss": "dálej"
     },
     {
       "surface": "לנו",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "s"
+      "gloss": "h kralju"
     },
     {
       "surface": "המלך",
-      "gloss": "kraljem"
+      "gloss": "h kralju"
     },
     {
       "surface": "אל",
@@ -116,11 +90,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "pa ne"
     },
     {
       "surface": "נמיתך",
-      "gloss": "te bomo ubili"
+      "gloss": "te bomo usmrtili"
     },
     {
       "surface": "ומה",
@@ -132,13 +106,13 @@
     },
     {
       "surface": "אליך",
-      "gloss": "k tebi"
+      "gloss": "tebi"
     },
     {
       "surface": "המלך",
       "gloss": "kralj"
     }
   ],
-  "timestamp": "2026-10-19T17:42:35.390128976Z",
+  "timestamp": "2026-10-19T20:29:41.912893338Z",
   "model": "glm-5.3"
 }

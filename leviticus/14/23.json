@@ -5,37 +5,16 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "osmi dan",
-      "rationale": "Natančen časovni predpis očiščenja — štetje dni."
-    },
-    {
-      "kind": "elision",
-      "subject": "לפני",
-      "rationale": "Dobesedno 'ob obličju Jahveja'; slovenščina 'pred Jahvejem' izgubi sliko obličja."
-    }
-  ],
-  "translation": "In privedel jih bo na osmi dan svojega očiščenja k duhovniku, k vhodu šotora srečanja, pred Jahveja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "1e90bf40c83c9fd4e6155c77d556358760fb942e6a4678abc6d94b944b303e15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/14\/21-24.1792424271645.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In prinesel jih bo ⟨את⟩ na dan osmi, za svojo očiščenje, h kohenu, k vhodu šotora srečanja, pred obličjem Jahveja.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "in privedel bo"
+      "gloss": "in prinesel bo"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jih (daritve)"
+      "marks": "jih (njih)"
     },
     {
       "surface": "ביום",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "לטהרתו",
-      "gloss": "svojega očiščenja"
+      "gloss": "za svojo očiščenje"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "h"
     },
     {
       "surface": "הכהן",
-      "gloss": "duhovniku"
+      "gloss": "kohenu"
     },
     {
       "surface": "אל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "šotora"
+      "gloss": "šotoru"
     },
     {
       "surface": "מועד",
@@ -75,13 +54,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pred"
+      "gloss": "pred obličjem"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahveja"
     }
   ],
-  "timestamp": "2026-10-19T15:37:51.646618649Z",
+  "timestamp": "2026-10-19T20:33:09.416400117Z",
   "model": "glm-5.3"
 }

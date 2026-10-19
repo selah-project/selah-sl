@@ -5,23 +5,7 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "vekomaj",
-      "rationale": "עד עולם: hebrejščina ima sestavljeno zvezo do-vekomaj, slovenščina eno besedo."
-    }
-  ],
-  "translation": "On bo zgradil ⟨את⟩ hišo mojemu imenu, on bo meni za sina, in jaz njemu za očeta, in pripravil bom ⟨את⟩ prestol njegovega kraljestva nad Jisraelom do vekomaj.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ba88944f0ecad370abea87942c98146394167862aa7fc3ea902e00d2049d0bcb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/22\/9-12.1792438294336.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "On bo zgradil hišo mojemu imenu, in on bo meni za sina, in jaz njemu za očeta; in utrdil ⟨את⟩ ⟨sest⟩ prestol njegovega kraljestva nad Jisraelom do večnosti.",
   "tokens": [
     {
       "surface": "הוא",
@@ -69,11 +53,12 @@
     },
     {
       "surface": "והכינותי",
-      "gloss": "in pripravil bom"
+      "gloss": "in utrdil"
     },
     {
       "surface": "כסא",
-      "gloss": "⟨את⟩ prestol"
+      "gloss": "⟨את⟩ prestol",
+      "marks": "prestol"
     },
     {
       "surface": "מלכותו",
@@ -93,9 +78,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "vekomaj"
+      "gloss": "večnosti"
     }
   ],
-  "timestamp": "2026-10-19T19:31:34.338759024Z",
+  "timestamp": "2026-10-19T20:13:49.602707110Z",
   "model": "glm-5.3"
 }

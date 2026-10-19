@@ -5,41 +5,16 @@
   "book": "judges",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויזנו",
-      "rationale": "Delovni glagol 'kovati prešuštvo' = odpadniško čaščenje; dobesedno 'nečistovali so za njim'."
-    },
-    {
-      "kind": "crux",
-      "subject": "efod",
-      "rationale": "אפוד: obredna oprava (kot v Izl 28) ali lik za čaščenje — Gideonov efod postal zanka."
-    },
-    {
-      "kind": "substitution",
-      "subject": "zanka",
-      "rationale": "מוקש je zanka-streža za lovljenje živali — past, ne le 'spretlja'."
-    }
-  ],
-  "translation": "In Gideon je iz njega naredil efod in ⟨את⟩ ga postavil v svojem mestu, v Ofri; in ves Jisrael je tam nečistoval za njim, in postal je Gideonu in njegovemu domu za zanko.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "9d4f2b6fbe5d88993ea4402035b7e2693d6abc7099b3c66d2de9f620c7d3e2ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/8\/25-28.1792427117084.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Gideon je naredil ⟨את⟩ njega v efod in ga postavil v svojem mestu, v Afri; in ves Jisrael je tam nečistoval za njim; in to je bilo Gideonu in njegovemu domu v zanko.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "in naredil je"
+      "gloss": "in je naredil"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩",
+      "marks": "njega (zlato iz Midjana)"
     },
     {
       "surface": "גדעון",
@@ -47,15 +22,16 @@
     },
     {
       "surface": "לאפוד",
-      "gloss": "za efod"
+      "gloss": "v efod"
     },
     {
       "surface": "ויצג",
-      "gloss": "in postavil je"
+      "gloss": "in je postavil"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩",
+      "marks": "njega (efod)"
     },
     {
       "surface": "בעירו",
@@ -63,11 +39,11 @@
     },
     {
       "surface": "בעפרה",
-      "gloss": "v Ofri"
+      "gloss": "v Afri"
     },
     {
       "surface": "ויזנו",
-      "gloss": "in nečistovali so"
+      "gloss": "in so nečistovali"
     },
     {
       "surface": "כל",
@@ -87,7 +63,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "in postal je"
+      "gloss": "in je bilo"
     },
     {
       "surface": "לגדעון",
@@ -99,9 +75,9 @@
     },
     {
       "surface": "למוקש",
-      "gloss": "za zanko"
+      "gloss": "v zanko"
     }
   ],
-  "timestamp": "2026-10-19T16:25:17.085155028Z",
+  "timestamp": "2026-10-19T20:32:45.427442702Z",
   "model": "glm-5.3"
 }

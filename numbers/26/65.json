@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "slovenščina zahteva pomožnik, hebrejščina ga nima"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מות ימתו",
-      "rationale": "infinitiv absolutni za poudarek — dobesedno »umreti bodo umrli«"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "dvojni veznik dobesedno »kajti če«, kot izjemo pomeni »razen«"
-    }
-  ],
-  "translation": "Ker Jahve je rekel o njih: Umreti bodo umrli v puščavi, in ni ostal od njih noben mož, razen Kalev, sin Jefuneja, in Jehošua, sin Nuna.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "038b8dab8e6273b9e8a76887bb704667e59dcd06a6fa67d3b097db98d3eb6a51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/26\/65-65.1792425341610.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "kajti Jahve je rekel o njih: Umreti bodo umrli ⟨v⟩ puščavi, in ni ostal od njih noben mož, razen Kalev ben Jefune in Jehošua ben Nun.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ker"
+      "gloss": "kajti"
     },
     {
       "surface": "אמר",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "v puščavi"
+      "gloss": "⟨v⟩ puščavi"
     },
     {
       "surface": "ולא",
-      "gloss": "in ni"
+      "gloss": "in ne"
     },
     {
       "surface": "נותר",
-      "gloss": "ostal"
+      "gloss": "je ostal"
     },
     {
       "surface": "מהם",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "razen"
     },
     {
       "surface": "אם",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "sin"
+      "gloss": "ben"
     },
     {
       "surface": "יפנה",
-      "gloss": "Jefuneja"
+      "gloss": "Jefune"
     },
     {
       "surface": "ויהושע",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "sin"
+      "gloss": "ben"
     },
     {
       "surface": "נון",
-      "gloss": "Nuna"
+      "gloss": "Nun"
     }
   ],
-  "timestamp": "2026-10-19T15:55:41.611307997Z",
+  "timestamp": "2026-10-19T20:35:55.220809957Z",
   "model": "glm-5.3"
 }

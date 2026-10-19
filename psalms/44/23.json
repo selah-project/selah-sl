@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "k Jahveju",
-      "rationale": "midrash in LXX razširita na mučeništvo; hebrejsko 'zaradi tebe' — naslavljan Boga"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כל היום",
-      "rationale": "dobesedno 'ves dan', kot idiom: neprenehoma, ves čas"
-    }
-  ],
-  "translation": "Zaradi tebe smo pobiti vse dni, šteti kot drobnica ⟨za⟩ zakol.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/44\/21-24.1792434800095.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kaj zaradi tebe smo pobiti ves dan, šteti kakor drobnica ⟨za⟩ zakol.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Zaradi tebe"
+      "gloss": "kaj"
     },
     {
       "surface": "עליך",
-      "gloss": ""
+      "gloss": "zaradi tebe"
     },
     {
       "surface": "הרגנו",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "vse"
+      "gloss": "ves"
     },
     {
       "surface": "היום",
-      "gloss": "dne"
+      "gloss": "dan"
     },
     {
       "surface": "נחשבנו",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "כצאן",
-      "gloss": "kot drobnica"
+      "gloss": "kakor drobnica"
     },
     {
       "surface": "טבחה",
       "gloss": "zakol"
     }
   ],
-  "timestamp": "2026-10-19T18:33:20.097611806Z",
+  "timestamp": "2026-10-19T20:37:18.311999036Z",
   "model": "glm-5.3"
 }

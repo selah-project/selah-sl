@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "enaindvajset dni",
-      "rationale": "štetje dni v nebeškem spopadu; dvojno število ostaja dobesedno (עשרים ואחד = dvajset in ena)"
-    },
-    {
-      "kind": "mystery",
-      "subject": "poglavar kraljestva Parasa",
-      "rationale": "nebeška figura nasproti Perziji ostaja nepojasnjena — besedilo namenoma ne razkrije narave tega nasprotnika"
-    },
-    {
-      "kind": "crux",
-      "subject": "נותרתי",
-      "rationale": "'ostal sem' (JPS 'left over there') vs 'bil sem puščen' z namenom vzdrževanja — vprašanje, ali sporočitelj ostaja pri kraljih ali proti njim"
-    }
-  ],
-  "translation": "In poglavar kraljestva Parasa je stal proti meni enaindvajset dni, in glej, Mihael, eden izmed prvih poglavarjev, je prišel, da mi pomaga, in jaz sem ostal tam ob kraljih Parasa.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "bc6702c506c0ec413e19d24549f41172d23f65e22e1555f1862e12b26b568713",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/10\/13-16.1792437525103.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In knez kraljestva Perzije je stal proti meni enaindvajset dni; in glej, Mihael, eden od prvih knezov, je prišel, da mi pomaga, in jaz sem ostal tam pri kraljih Perzije.",
   "tokens": [
     {
       "surface": "ושר",
-      "gloss": "In poglavar"
+      "gloss": "in knez"
     },
     {
       "surface": "מלכות",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "פרס",
-      "gloss": "Parasa"
+      "gloss": "Perzije"
     },
     {
       "surface": "עמד",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "יום",
-      "gloss": "<dan>"
+      "gloss": "dni"
     },
     {
       "surface": "והנה",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "השרים",
-      "gloss": "izmed poglavarjev"
+      "gloss": "od knezov"
     },
     {
       "surface": "הראשנים",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "אצל",
-      "gloss": "ob"
+      "gloss": "pri"
     },
     {
       "surface": "מלכי",
@@ -115,9 +89,9 @@
     },
     {
       "surface": "פרס",
-      "gloss": "Parasa"
+      "gloss": "Perzije"
     }
   ],
-  "timestamp": "2026-10-19T19:18:45.104166868Z",
+  "timestamp": "2026-10-19T20:19:00.719957580Z",
   "model": "glm-5.3"
 }

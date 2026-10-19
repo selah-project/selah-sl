@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Izraelu",
-      "rationale": "verz naslavlja Izraela z množinskimi imperativi — šest zapovedi v vrsti."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "veriženje z ו",
-      "rationale": "polizintetični verzig s šestimi waw-i gradi klimaktično verigo: hodi–boj se–varuj–poslušaj–služi–oklepaj se."
-    }
-  ],
-  "translation": "Za Jahvejem, vašim Elohimom, hodite in njega se bojte, ⟨את⟩ njegovih zapovedi varujte in na njegov glas poslušajte, njemu služite in v njega se oklepajte.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/13\/5-8.1792426004704.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Za Jahvejem, vašim Elohimom, hodite, in ⟨את⟩ njega se bojte, in ⟨את⟩ njegovih zapovedi varujte, in njegovemu glasu poslušajte, in ⟨את⟩ njega služite, in v njem obstajte.",
   "tokens": [
     {
       "surface": "אחרי",
@@ -46,8 +25,8 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ njega",
-      "marks": "njega"
+      "gloss": "⟨את⟩",
+      "marks": "njega (se bojte)"
     },
     {
       "surface": "תיראו",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "ובקלו",
-      "gloss": "in na njegov glas"
+      "gloss": "in njegovemu glasu"
     },
     {
       "surface": "תשמעו",
@@ -76,8 +55,8 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ njemu",
-      "marks": "njemu"
+      "gloss": "⟨את⟩",
+      "marks": "njega (služite)"
     },
     {
       "surface": "תעבדו",
@@ -85,13 +64,13 @@
     },
     {
       "surface": "ובו",
-      "gloss": "in v njega"
+      "gloss": "in v njem"
     },
     {
       "surface": "תדבקון",
-      "gloss": "se oklepajte"
+      "gloss": "obstajte"
     }
   ],
-  "timestamp": "2026-10-19T16:06:44.705535575Z",
+  "timestamp": "2026-10-19T20:19:27.458620273Z",
   "model": "glm-5.3"
 }

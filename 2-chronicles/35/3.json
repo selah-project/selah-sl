@@ -5,38 +5,7 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Leviti",
-      "rationale": "Jošijahu se neposredno obrača na Levite z ukazi."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Zdaj stregite",
-      "rationale": "Vezan ukaz — klic k dejanju."
-    },
-    {
-      "kind": "crux",
-      "subject": "ni vam več nositi bremena na rami",
-      "rationale": "אין לכם משא — dobesedno 'ni vam bremena'; 'več' je brano iz konteksta (skrinja dobi stalni prostor)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "razumnim",
-      "rationale": "המבונים 'ki razumejo\/učijo' — nekateri prevajajo 'ki učijo'."
-    }
-  ],
-  "translation": "In rekel je Levitom, razumnim v vsem Jisraelu, posvečenim Jahveju: Dajte ⟨את⟩ skrinjo svetosti v hišo, katero je zgradil Šelomo, sin Davida, kralj Jisraela; ni vam več nositi bremena na rami. Zdaj stregite Jahveju, svojemu Elohimu, in ⟨את⟩ njegovemu ljudstvu Jisraelu.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/35\/1-4.1792438953911.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel je levitom, ki razločujejo ⟨vsemu⟩ Jisraelu, posvečeni Jahveju: Dajte ⟨את⟩ skrinjo svetosti v hišo, ki jo je zgradil Šelomo, sin Davida, kralj Jisraela; ni vam več bremena na rami. Zdaj stregite Jahveju, svojemu Elohimu, in ⟨את⟩ njegovemu ljudstvu, Jisraelu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -44,15 +13,15 @@
     },
     {
       "surface": "ללוים",
-      "gloss": "Levitom"
+      "gloss": "levitom"
     },
     {
       "surface": "המבונים",
-      "gloss": "razumnim"
+      "gloss": "ki razločujejo"
     },
     {
       "surface": "לכל",
-      "gloss": "v vsem"
+      "gloss": "vsemu"
     },
     {
       "surface": "ישראל",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "הקדושים",
-      "gloss": "posvečenim"
+      "gloss": "posvečeni"
     },
     {
       "surface": "ליהוה",
@@ -89,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "katero"
+      "gloss": "ki"
     },
     {
       "surface": "בנה",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "משא",
-      "gloss": "bremena nositi"
+      "gloss": "bremena"
     },
     {
       "surface": "בכתף",
@@ -155,7 +124,7 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "njegovemu ljudstvu Jisraelu"
+      "marks": "njegovemu ljudstvu, Jisraelu"
     },
     {
       "surface": "עמו",
@@ -166,6 +135,6 @@
       "gloss": "Jisraelu"
     }
   ],
-  "timestamp": "2026-10-19T19:42:33.912572845Z",
+  "timestamp": "2026-10-19T20:17:13.094621874Z",
   "model": "glm-5.3"
 }

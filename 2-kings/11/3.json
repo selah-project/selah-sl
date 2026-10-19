@@ -5,36 +5,16 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "z njo",
-      "rationale": "אתה tu je predlog 'z njo' (H854), ne predmetni označevalec; zaimek je v slovenščini dodan v oklepaju."
-    },
-    {
-      "kind": "measurement",
-      "subject": "šest let",
-      "rationale": "Verz šteje leta Joaševega skrivanja."
-    }
-  ],
-  "translation": "In bil je ⟨z njo⟩ v hiši Jahvejevi skrit šest let, Atalija pa je kraljevala nad deželo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/11\/1-4.1792429578135.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In bil je ⟨את⟩ ⟨z njo⟩ v hiši Jahveja, skrit šest let, Atalja pa je vladala nad deželo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "In bil je"
+      "gloss": "in bil je"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ z njo"
+      "gloss": "⟨את⟩ ⟨z njo⟩",
+      "marks": "z njo — zapeljani Joaš pri svoji dojki"
     },
     {
       "surface": "בית",
@@ -42,7 +22,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvejevi"
+      "gloss": "Jahveja"
     },
     {
       "surface": "מתחבא",
@@ -58,11 +38,11 @@
     },
     {
       "surface": "ועתליה",
-      "gloss": "Atalija pa"
+      "gloss": "Atalja pa"
     },
     {
       "surface": "מלכת",
-      "gloss": "je kraljevala"
+      "gloss": "je vladala"
     },
     {
       "surface": "על",
@@ -73,6 +53,6 @@
       "gloss": "deželo"
     }
   ],
-  "timestamp": "2026-10-19T17:06:18.136283401Z",
+  "timestamp": "2026-10-19T20:16:53.428475998Z",
   "model": "glm-5.3"
 }

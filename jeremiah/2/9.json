@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אריב … אריב",
-      "rationale": "ponovitev glagola ריב na začetku in koncu verza — okvir, v slovenščini deloma ohranjen"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨še⟩",
-      "rationale": "עוד je prislov 'nadaljnje', v slovenščini dodan kot 'še'"
-    }
-  ],
-  "translation": "Zato se bom ⟨še⟩ pravdal z vami, govori Jahve, in z otroki vaših otrok se bom pravdal.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/9-12.1792430970173.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato se bom ⟨še⟩ pravdal ⟨את⟩ z vami, govori Jahve, in z ⟨את⟩ vnuki vaših sinov se bom pravdal.",
   "tokens": [
     {
       "surface": "לכן",
       "gloss": "zato"
     },
     {
-      "surface": "עוד",
-      "gloss": "⟨še⟩"
+      "surface": "עד",
+      "gloss": "še"
     },
     {
       "surface": "אריב",
@@ -42,8 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
-      "marks": "vas"
+      "gloss": "⟨את⟩ z vami"
     },
     {
       "surface": "נאם",
@@ -55,22 +33,22 @@
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
-      "marks": "otroki vaših otrok"
+      "gloss": "⟨את⟩",
+      "marks": "vnuki vaših sinov"
     },
     {
       "surface": "בני",
-      "gloss": "otroki"
+      "gloss": "sinov"
     },
     {
       "surface": "בניכם",
-      "gloss": "vaših otrok"
+      "gloss": "vaših sinov"
     },
     {
       "surface": "אריב",
       "gloss": "se bom pravdal"
     }
   ],
-  "timestamp": "2026-10-19T17:29:30.174384186Z",
+  "timestamp": "2026-10-19T20:28:25.394218668Z",
   "model": "glm-5.3"
 }

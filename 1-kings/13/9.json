@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "mi je bilo zapovedano",
-      "rationale": "hebrejščina nima osebka; passiv z dodanim osebkom ⟨mi⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "zaradi kralja",
-      "rationale": "posredno poročanje kralju o zapovedi, podana v drugi osebi"
-    }
-  ],
-  "translation": "Kajer tako mi je bilo zapovedano z besedo Jahveja, ki pravi: Ne jej kruha in ne pij vode in ne vrni se po poti, po kateri si šel.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-kings\/13\/9-12.1792429042013.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti tako mi je bilo zapovedano z besedo Jahve, ki pravi: Ne jej kruha in ne pij vode in ne vrni se po poti, po kateri si prišel.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kajer"
+      "gloss": "kajti"
     },
     {
       "surface": "כן",
@@ -43,7 +22,7 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mi"
+      "marks": "z besedo"
     },
     {
       "surface": "בדבר",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahveja"
+      "gloss": "Jahve"
     },
     {
       "surface": "לאמר",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "si šel"
+      "gloss": "si prišel"
     }
   ],
-  "timestamp": "2026-10-19T16:57:22.013985270Z",
+  "timestamp": "2026-10-19T20:14:06.583732418Z",
   "model": "glm-5.3"
 }

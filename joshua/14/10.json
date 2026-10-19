@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בן חמש ושמונים שנה",
-      "rationale": "dobesedno 'sin petinosemdesetih let' — semitski zveščinski genitiv, prevedeno 'star petinosemdeset let'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "starost in leta",
-      "rationale": "Kalebovo štetje: 45 let od obljube, 85 let starosti"
-    }
-  ],
-  "translation": "In zdaj, glej, Jahve me je obdržal pri življenju, kakor je govoril, teh štirideset pet let odkar je Jahve spregovoril ⟨את⟩ to besedo Mošetu, ko je Jisrael hodil po puščavi. In zdaj, glej, danes sem ⟨star⟩ petinosemdeset let.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "3d79cd8fc07bdf5534eaea30df10274208d18a3715e96be7af49a84bde24fd52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/14\/9-12.1792426690767.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zdaj, glej, Jahve me je obdržal pri življenji, kakor je govoril — teh štirideset pet let od takrat, ko je Jahve govoril ⟨את⟩ to besedo ⟨את⟩ Mošetu, ko je Jisrael hodil po puščavi. In zdaj, glej, jaz sem danes star petinosemdeset let.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "in zdaj"
+      "gloss": "In zdaj"
     },
     {
       "surface": "הנה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "je obdržal pri življenju"
+      "gloss": "je obdržal pri življenji"
     },
     {
       "surface": "יהוה",
@@ -46,7 +25,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ me"
+      "gloss": "⟨את⟩",
+      "marks": "me"
     },
     {
       "surface": "כאשר",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "teh"
+      "gloss": "—"
     },
     {
       "surface": "ארבעים",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "וחמש",
-      "gloss": "in pet"
+      "gloss": "pet"
     },
     {
       "surface": "שנה",
@@ -74,11 +54,11 @@
     },
     {
       "surface": "מאז",
-      "gloss": "odkar"
+      "gloss": "od takrat, ko"
     },
     {
       "surface": "דבר",
-      "gloss": "je spregovoril"
+      "gloss": "je govoril"
     },
     {
       "surface": "יהוה",
@@ -123,7 +103,7 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "in zdaj"
+      "gloss": "In zdaj"
     },
     {
       "surface": "הנה",
@@ -139,7 +119,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "sin (⟨star⟩)"
+      "gloss": "star"
     },
     {
       "surface": "חמש",
@@ -147,13 +127,13 @@
     },
     {
       "surface": "ושמונים",
-      "gloss": "in osemdeset"
+      "gloss": "inosemdeset"
     },
     {
       "surface": "שנה",
       "gloss": "let"
     }
   ],
-  "timestamp": "2026-10-19T16:18:10.768240692Z",
+  "timestamp": "2026-10-19T20:30:40.907258014Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,15 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "D2 zahteva hesed, ne 'milost'; 'ljubeča zvestoba' bi bila parafraza."
-    },
-    {
-      "kind": "substitution",
-      "subject": "גמל עלי",
-      "rationale": "Dobesedno 'ravnal (dobro) z mano'; 'izobilno obdaril' je vzet prevod."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨se⟩",
-      "rationale": "Slovenski povratni glagol 'veseliti se \/ peti' zahteva 'se', hebrejščina ga nima."
-    },
-    {
-      "kind": "elision",
-      "subject": "עלי kot ⟨את⟩",
-      "rationale": "עלי je predlog 'zame', ⟨את⟩ označuje nedoločni predmet 'z ⟨את⟩ mano' kot daljavek dobrodelja."
-    }
-  ],
-  "translation": "A jaz — v tvojem hesedu zaupam, srce ⟨se⟩ mi bo veselilo v tvoji rešitvi, pel ⟨se⟩ bom Jahveju, ker je dobrodelno ravnal z ⟨את⟩ mano.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/13\/5-6.1792434554726.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jaz pa zaupam v tvoj hesed, moje srce se bo veselilo v tvoji rešitvi, pel bom Jahveju, ker mi je dobro povrnil.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "A jaz"
+      "gloss": "jaz pa"
     },
     {
       "surface": "בחסדך",
-      "gloss": "v tvojem hesedu"
+      "gloss": "v tvoj hesed"
     },
     {
       "surface": "בטחתי",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "לבי",
-      "gloss": "srce mi"
+      "gloss": "moje srce"
     },
     {
       "surface": "בישועתך",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "אשירה",
-      "gloss": "pel se bom"
+      "gloss": "pel bom"
     },
     {
       "surface": "ליהוה",
@@ -76,13 +45,13 @@
     },
     {
       "surface": "גמל",
-      "gloss": "dobrodelno ravnal"
+      "gloss": "je dobro povrnil"
     },
     {
       "surface": "עלי",
-      "gloss": "z ⟨את⟩ mano"
+      "gloss": "mi"
     }
   ],
-  "timestamp": "2026-10-19T18:29:14.726967156Z",
+  "timestamp": "2026-10-19T20:37:31.015891028Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "da dežela ne reče",
-      "rationale": "osebitev dežele kot govorce; dobesedno ohranjeno"
-    },
-    {
-      "kind": "crux",
-      "subject": "דבר להם",
-      "rationale": "»govoril jim« dobesedno; prevodi pogosto dodajo »obljubil«"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הוצאתנו \/ הוציאם",
-      "rationale": "ponovitev korena יצא — izpeljal nas \/ jih izpeljal — povezuje govor dežele z dejanjem"
-    }
-  ],
-  "translation": "da ne reče dežela, iz katere si nas izpeljal: Ker Jahve ni mogel spraviti ⟨jih⟩ v deželo, o kateri jim je govoril, in ker jih je sovražil, jih je izpeljal, da bi ⟨jih⟩ umoril v puščavi.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/9\/25-28.1792425861059.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "da ne bi dežela, iz katere si nas izpel, rekla: Ker Jahve ni zmožen prinesti ⟨את⟩ njih v deželo, o kateri je govoril njim, in ker jih je sovraževal, jih je izpel, da bi jih umoril v puščavi.",
   "tokens": [
     {
       "surface": "פן",
-      "gloss": "da ne"
+      "gloss": "da ne bi"
     },
     {
       "surface": "יאמרו",
-      "gloss": "reče"
+      "gloss": "rekla"
     },
     {
       "surface": "הארץ",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "הוצאתנו",
-      "gloss": "si nas izpeljal"
+      "gloss": "si nas izpel"
     },
     {
       "surface": "משם",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "מבלי",
-      "gloss": "ker ni"
+      "gloss": "ker (ni zmožen)"
     },
     {
       "surface": "יכלת",
-      "gloss": "mogel"
+      "gloss": "ni zmožen"
     },
     {
       "surface": "יהוה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "להביאם",
-      "gloss": "spraviti ⟨jih⟩"
+      "gloss": "prinesti njih"
     },
     {
       "surface": "אל",
@@ -91,30 +65,30 @@
     },
     {
       "surface": "להם",
-      "gloss": "jim"
+      "gloss": "njim"
     },
     {
       "surface": "ומשנאתו",
-      "gloss": "in ker jih je sovražil"
+      "gloss": "in ker jih je sovraževal"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "izpeljal jih je"
+      "gloss": "⟨את⟩",
+      "marks": "jih (הוציאם — izpel jih)"
     },
     {
       "surface": "הוציאם",
-      "gloss": "jih je izpeljal"
+      "gloss": "jih je izpel"
     },
     {
       "surface": "להמתם",
-      "gloss": "da bi ⟨jih⟩ umoril"
+      "gloss": "da bi jih umoril"
     },
     {
       "surface": "במדבר",
       "gloss": "v puščavi"
     }
   ],
-  "timestamp": "2026-10-19T16:04:21.060441048Z",
+  "timestamp": "2026-10-19T20:20:36.426926325Z",
   "model": "glm-5.3"
 }

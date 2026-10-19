@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Izrael",
-      "rationale": "Jahve govori neposredno k zboru: »med vami«, »vaše oči«."
-    },
-    {
-      "kind": "hapax",
-      "subject": "מאפל",
-      "rationale": "redka beseda — ne običajna חשך, temveč goste-temna zapora (glej tudi 2 Mz 10,22)."
-    },
-    {
-      "kind": "alternative",
-      "subject": "עליו",
-      "gloss-note": "nanjo — morje je v slovenščini ženskega spola, hebrejščina ima moškega."
-    }
-  ],
-  "translation": "In zaklicali so k Jahveju, in postavil je temo med vami in Micrajci, in privedel je nanjo morje in pokrilo jih je; in vaše oči so videle ⟨את⟩ to, kar sem naredil v Micrajimu; in prebivali ste v puščavi mnogo dni.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "7690aa7772f1b0c283995573c241b5ebd46434026f0aef0474dd02829edc9921",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/7-8.1792439021875.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zakričali so k Jahveju, in postavil je temino-med-vami in Micrajimom ter pripeljal nanj ⟨את⟩ morje in ga pokril, in videle so vaše oči ⟨את⟩ vse, kar sem storil v Micrajimu, in prebivali ste v puščavi veliko dni.",
   "tokens": [
     {
       "surface": "ויצעקו",
-      "gloss": "in zaklicali so"
+      "gloss": "in zakričali so"
     },
     {
       "surface": "אל",
@@ -51,27 +25,27 @@
     },
     {
       "surface": "מאפל",
-      "gloss": "temo"
+      "gloss": "temino"
     },
     {
       "surface": "ביניכם",
-      "gloss": "med vami"
+      "gloss": "med vas"
     },
     {
       "surface": "ובין",
-      "gloss": "in"
+      "gloss": "in med"
     },
     {
       "surface": "המצרים",
-      "gloss": "Micrajci"
+      "gloss": "Micrajcem"
     },
     {
       "surface": "ויבא",
-      "gloss": "in privedel je"
+      "gloss": "ter pripeljal je"
     },
     {
       "surface": "עליו",
-      "gloss": "nanjo"
+      "gloss": "nanj"
     },
     {
       "surface": "את",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "ויכסהו",
-      "gloss": "in pokrilo jih je"
+      "gloss": "in ga pokril je"
     },
     {
       "surface": "ותראינה",
-      "gloss": "in so videle"
+      "gloss": "in videle so"
     },
     {
       "surface": "עיניכם",
@@ -97,7 +71,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, kar sem naredil"
+      "marks": "vse, kar sem storil v Micrajimu"
     },
     {
       "surface": "אשר",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "sem naredil"
+      "gloss": "sem storil"
     },
     {
       "surface": "במצרים",
@@ -125,9 +99,9 @@
     },
     {
       "surface": "רבים",
-      "gloss": "mnogo"
+      "gloss": "veliko"
     }
   ],
-  "timestamp": "2026-10-19T19:43:41.877141655Z",
+  "timestamp": "2026-10-19T20:31:43.021402443Z",
   "model": "glm-5.3"
 }

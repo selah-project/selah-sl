@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לרצנו",
-      "rationale": "'za njegovo naklonjenost' (da bo sprejeta) vs. 'po svoji prosti volji' (da darovalec želi, kot KJV\/Geneva) — itonitka določa: po njegovi (darovalčevi) volji"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קרבן\/יקריבנו\/יקריב",
-      "rationale": "Trije odvki korena קרב v enem verzu; slovenščina s 'daritev\/prinese' izgubi zvezo"
-    }
-  ],
-  "translation": "Če ⟨je⟩ njegova daritev žgalna žrtev iz goveda, samca brez napake naj prinese; k vhodu šotora srečanja naj jo prinese, za svojo naklonjenost pred Jahvejem.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/1\/1-4.1792423972920.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Če je njegov dar žgalna daritev, iz goveda, samec, popoln, naj jo privede; k vhodu šotora srečanja naj jo privede ⟨את⟩, za svojo dobrohotnost, pred obličjem Jahveja.",
   "tokens": [
     {
       "surface": "אם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "עלה",
-      "gloss": "žgalna žrtev"
+      "gloss": "žgalna daritev"
     },
     {
       "surface": "קרבנו",
-      "gloss": "njegova daritev"
+      "gloss": "njegov dar"
     },
     {
       "surface": "מן",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "תמים",
-      "gloss": "brez napake"
+      "gloss": "popoln"
     },
     {
       "surface": "יקריבנו",
-      "gloss": "naj prinese ⟨ga⟩"
+      "gloss": "naj jo privede"
     },
     {
       "surface": "אל",
@@ -78,26 +57,26 @@
     },
     {
       "surface": "יקריב",
-      "gloss": "naj prinese"
+      "gloss": "naj jo privede"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨jo⟩",
-      "marks": "za svojo naklonjenost"
+      "gloss": "⟨את⟩",
+      "marks": "jo — žgalno daritev"
     },
     {
       "surface": "לרצנו",
-      "gloss": "za svojo naklonjenost"
+      "gloss": "za svojo dobrohotnost"
     },
     {
       "surface": "לפני",
-      "gloss": "pred"
+      "gloss": "pred obličjem"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvejem"
+      "gloss": "Jahveja"
     }
   ],
-  "timestamp": "2026-10-19T15:32:52.921591666Z",
+  "timestamp": "2026-10-19T20:33:06.799224961Z",
   "model": "glm-5.3"
 }

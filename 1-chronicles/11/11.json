@@ -5,38 +5,7 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "število",
-      "rationale": "the verse opens a numbered roster of the mighty men"
-    },
-    {
-      "kind": "crux",
-      "subject": "השלושים",
-      "rationale": "'head of the thirty' vs KJV 'chief of the captains' — pointing reads 'the Thirty', the elite corps"
-    },
-    {
-      "kind": "crux",
-      "subject": "עורר את חניתו",
-      "rationale": "from עור 'rouse\/wield'; 'lifted\/wielded his spear' — some read 'shook' or 'brandished'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "tristo pobitih",
-      "rationale": "חלל as 'slain' (800 in 2 Sam 23:8 reads differently) — here 'wounded\/slain' with the spear"
-    }
-  ],
-  "translation": "In to je število mogočnežev, ki so bili Davidovi: Jašobeam, sin Hakmonijev, glava tridesetih; on je dvignil ⟨את⟩ svoje kopje nad tristo pobitih na enkrat.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/11\/9-12.1792438172509.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In to je število giborim, ki so bili Davidovi: Jašobeam, sin Hakmonija, glava ⟨od⟩ tridesetih — on je dvignil ⟨את⟩ svojo sulico nad tristo pobitih v enem zamahu.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "הגברים",
-      "gloss": "mogočnežev"
+      "gloss": "giborim"
     },
     {
       "surface": "אשר",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "לדויד",
-      "gloss": "so bili Davidovi"
+      "gloss": "Davidovim"
     },
     {
       "surface": "ישבעם",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "חכמוני",
-      "gloss": "Hakmonijev"
+      "gloss": "Hakmonija"
     },
     {
       "surface": "ראש",
@@ -89,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svoje kopje"
+      "marks": "svojo sulico"
     },
     {
       "surface": "חניתו",
-      "gloss": "svoje kopje"
+      "gloss": "svojo sulico"
     },
     {
       "surface": "על",
@@ -105,7 +74,7 @@
     },
     {
       "surface": "מאות",
-      "gloss": ""
+      "gloss": "tristo"
     },
     {
       "surface": "חלל",
@@ -113,13 +82,13 @@
     },
     {
       "surface": "בפעם",
-      "gloss": "na enkrat"
+      "gloss": "v zamahu"
     },
     {
       "surface": "אחת",
-      "gloss": "enkrat"
+      "gloss": "enem"
     }
   ],
-  "timestamp": "2026-10-19T19:29:32.512022115Z",
+  "timestamp": "2026-10-19T20:13:41.533008612Z",
   "model": "glm-5.3"
 }

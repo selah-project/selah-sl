@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "סלה",
-      "rationale": "glasbeni oznaki Sela ni slovenskega ustreznika; ohranjena kot ime"
-    }
-  ],
-  "translation": "Glej, bežim daleč, prenočim v puščavi. Sela.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/55\/5-8.1792434923841.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Glej, daleč bi odšel na beg, prenočil bi v puščavi. Sela.",
   "tokens": [
     {
       "surface": "הנה",
@@ -29,15 +13,15 @@
     },
     {
       "surface": "ארחיק",
-      "gloss": "daleč"
+      "gloss": "daleč bi odšel"
     },
     {
-      "surface": "נדod",
-      "gloss": "bežim"
+      "surface": "נדד",
+      "gloss": "na beg"
     },
     {
       "surface": "אלין",
-      "gloss": "prenočim"
+      "gloss": "prenočil bi"
     },
     {
       "surface": "במדבר",
@@ -48,6 +32,6 @@
       "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-19T18:35:23.843636070Z",
+  "timestamp": "2026-10-19T20:37:49.031610866Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 60,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mladička",
-      "rationale": "נצר je mladika\/iztrebek iz debla — slika potomstva, ne 'veja' ali 'trava' (geneva)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨je⟩",
-      "rationale": "slovenščina potrebuje veznik med prispodobo in povedjo; hebrejščina ga nima"
-    },
-    {
-      "kind": "crux",
-      "subject": "להתפאר",
-      "rationale": "'da se jaz poveličam' (KJV) ali 'v čemer se jaz ponosim' (JPS); hitpa'el je lahko oboje"
-    }
-  ],
-  "translation": "In tvoje ljudstvo, vsi pravični, bodo za večno posestvovali ⟨את⟩ deželo; mladička moje sajenje, del mojih rok, ⟨je⟩ za to, da se poveliča.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/60\/21-22.1792430858346.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In tvoje ljudstvo, vsi pravični, bo za vedno podedovalo ⟨את⟩ deželo; mladič svojega nasaditve, delo svojih rok, da se razžari v ponos.",
   "tokens": [
     {
       "surface": "ועמך",
@@ -47,16 +21,11 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "za večno"
+      "gloss": "za vedno"
     },
     {
       "surface": "יירשו",
-      "gloss": "bodo posestvovali"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "deželo"
+      "gloss": "bo podedovalo"
     },
     {
       "surface": "ארץ",
@@ -64,25 +33,25 @@
     },
     {
       "surface": "נצר",
-      "gloss": "mladička"
+      "gloss": "mladič"
     },
     {
       "surface": "מטעו",
-      "gloss": "moje sajenje"
+      "gloss": "svojega nasaditve"
     },
     {
       "surface": "מעשה",
-      "gloss": "del"
+      "gloss": "delo"
     },
     {
       "surface": "ידי",
-      "gloss": "mojih rok"
+      "gloss": "svojih rok"
     },
     {
       "surface": "להתפאר",
-      "gloss": "da se poveliča"
+      "gloss": "da se razžari v ponos"
     }
   ],
-  "timestamp": "2026-10-19T17:27:38.346928005Z",
+  "timestamp": "2026-10-19T20:27:52.737049709Z",
   "model": "glm-5.3"
 }

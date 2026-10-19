@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "kralj Moaba",
-      "rationale": "David neposredno nagovarja kralja Moaba"
-    },
-    {
-      "kind": "crux",
-      "subject": "מה יעשה לי אלהים",
-      "rationale": "'kaj bo Elohim storil z menoj' (zame) — smer dejanja je odprta"
-    }
-  ],
-  "translation": "In David je odšel od tam na Micpo Moaba, in rekel je kralju Moaba: Izidi, prosim, oče moj in mati moja ⟨pri⟩ tebi, dokler ne izvem, kaj bo Elohim storil ⟨z⟩ menoj.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/22\/1-4.1792427982758.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In David je šel od tam v Micpo Moaba in rekel kralju Moaba: Naj izideta, prosim, oče moj in mati moja, ⟨את⟩ z vami, dokler ne izvem, kaj mi bo storil Elohim.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "in odšel je"
+      "gloss": "in je šel"
     },
     {
       "surface": "דוד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מצפה",
-      "gloss": "na Cicpo"
+      "gloss": "v Micpo"
     },
     {
       "surface": "מואב",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "in rekel je"
+      "gloss": "in rekel"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "kralju"
     },
     {
       "surface": "מלך",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "יצא",
-      "gloss": "izidi"
+      "gloss": "naj izideta"
     },
     {
       "surface": "נא",
-      "gloss": "prosím"
+      "gloss": "prosim"
     },
     {
       "surface": "אבי",
@@ -82,8 +61,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ pri tebi",
-      "marks": "pri tebi"
+      "gloss": "⟨את⟩ z vami",
+      "marks": "vi (kralj Moaba in njegovi ljudje)"
     },
     {
       "surface": "עד",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ne"
+      "gloss": "da ne"
     },
     {
       "surface": "אדע",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "לי",
-      "gloss": "z menoj"
+      "gloss": "mi"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-19T16:39:42.759128455Z",
+  "timestamp": "2026-10-19T20:15:13.338744985Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הלבנים",
-      "rationale": "'Opeki' — KJV 'oltarji iz opeke' doda oltarje; hebrejščina pravi dobesedno 'na opeki'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kadi",
-      "rationale": "מקטרים dobesedno 'kaditi\/dimiti' — v slovenščini 'kajeti kadilo', skrajšano."
-    }
-  ],
-  "translation": "Ljudstvo, ki me razdražuje ⟨את⟩ ⟨z ›nad› mojim obličjem› neprenehoma, žrtvuje v vrtovih in kadi opeki.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/65\/1-4.1792431034801.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ljudstvo, ki me ⟨את⟩ vzdolž razžarja v jezo pred mojim obličjem, zakol žrtvuje v vrtovih in kadi na opeki.",
   "tokens": [
     {
       "surface": "העם",
@@ -34,28 +13,28 @@
     },
     {
       "surface": "המכעיסים",
-      "gloss": "ki razdražuje"
+      "gloss": "ki razžarja v jezo"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "me"
+      "gloss": "⟨את⟩ me",
+      "marks": "me (Jahveja)"
     },
     {
       "surface": "על",
-      "gloss": "nad"
+      "gloss": "vzdolž"
     },
     {
       "surface": "פני",
-      "gloss": "mojim obličjem"
+      "gloss": "pred obličjem"
     },
     {
       "surface": "תמיד",
-      "gloss": "neprenehoma"
+      "gloss": "neprestano"
     },
     {
       "surface": "זבחים",
-      "gloss": "žrtvuje"
+      "gloss": "zakol žrtvujejo"
     },
     {
       "surface": "בגנות",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "ומקטרים",
-      "gloss": "in kadi"
+      "gloss": "in kadijo"
     },
     {
       "surface": "על",
@@ -74,6 +53,6 @@
       "gloss": "opeki"
     }
   ],
-  "timestamp": "2026-10-19T17:30:34.802752401Z",
+  "timestamp": "2026-10-19T20:27:59.870286751Z",
   "model": "glm-5.3"
 }

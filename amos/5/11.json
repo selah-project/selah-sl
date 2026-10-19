@@ -5,28 +5,7 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "משאת בר",
-      "rationale": "'dvig\/davek žita' — od vaščanov izsiljen prispevek; KJV 'burdens of wheat', JPS 'exactions of wheat'."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "gloss": "predlog pri poteptavati se v slovenščini zlije z glagolom."
-    }
-  ],
-  "translation": "Zato, ker poteptavate reveža in vzamete od njega probabilo žita, hiše iz klesanega kamna ste zidali, pa ne boste prebivali v njih; vinograde želene ste zasadili, pa ne boste pili ⟨את⟩ njihovega vina.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/9-12.1792433975806.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato, ker pohujšate ⟨dol⟩ ubogega in od njega vzemate prispevek žita, hiše iz rezanega kamna ste zidali, pa ne boste prebivali v njih, vinograde željene ste sadili, pa ne boste pili ⟨את⟩ njihovega vina.",
   "tokens": [
     {
       "surface": "לכן",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "בושסכם",
-      "gloss": "poteptavate"
+      "gloss": "pohujšate"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "⟨dol⟩"
     },
     {
       "surface": "דל",
-      "gloss": "reveža"
+      "gloss": "ubogega"
     },
     {
       "surface": "ומשאת",
-      "gloss": "probabilo"
+      "gloss": "prispevek"
     },
     {
       "surface": "בר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "vzamete"
+      "gloss": "vzemate"
     },
     {
       "surface": "ממנו",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "גזית",
-      "gloss": "iz klesanega kamna"
+      "gloss": "iz rezanega kamna"
     },
     {
       "surface": "בניתם",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "חמד",
-      "gloss": "želene"
+      "gloss": "željene"
     },
     {
       "surface": "נטעתם",
-      "gloss": "ste zasadili"
+      "gloss": "ste sadili"
     },
     {
       "surface": "ולא",
@@ -118,6 +97,6 @@
       "gloss": "njihovega vina"
     }
   ],
-  "timestamp": "2026-10-19T18:19:35.807267247Z",
+  "timestamp": "2026-10-19T20:19:12.255432013Z",
   "model": "glm-5.3"
 }

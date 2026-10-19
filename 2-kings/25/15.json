@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זהב זהב \/ כסף כסף",
-      "rationale": "podvajanje: 'zlato zlata' in 'srebro srebra' — povsem iz čiste kovine; slovenščina potrebuje glagol ⟨je bilo⟩"
-    },
-    {
-      "kind": "substitution",
-      "subject": "poveljnik krvnikov",
-      "rationale": "רב טבחים dobesedno 'velik klavcev' — poveljnik telesne straže, ki izvršuje usmrtitve"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kadilnice",
-      "rationale": "מחתות so ponve za žerjavico"
-    }
-  ],
-  "translation": "In ⟨את⟩ kadilnice in ⟨את]] sklede — kar zlato, ⟨je bilo⟩ zlato, in kar srebro, ⟨je bilo⟩ srebro — je vzel poveljnik krvnikov.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "95703763d54c1c21acd93bac7856947fba863c57aa834cbe5fe57371ddcb4a3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/25\/14-16.1792433404068.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ kadilnice in ⟨את⟩ poškropilne sklede — kar je bilo iz zlata, ⟨iz⟩ zlata, in kar je bilo iz srebra, ⟨iz⟩ srebra — je vzel poglavar klavcev.",
   "tokens": [
     {
       "surface": "ואת",
@@ -45,15 +19,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sklede"
+      "marks": "poškropilne sklede"
     },
     {
       "surface": "המזרקות",
-      "gloss": "sklede"
+      "gloss": "poškropilne sklede"
     },
     {
       "surface": "אשר",
-      "gloss": "kar"
+      "gloss": "kar je bilo"
     },
     {
       "surface": "זהב",
@@ -65,7 +39,7 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "in kar"
+      "gloss": "in kar je bilo"
     },
     {
       "surface": "כסף",
@@ -81,13 +55,13 @@
     },
     {
       "surface": "רב",
-      "gloss": "poveljnik"
+      "gloss": "poglavar"
     },
     {
       "surface": "טבחים",
-      "gloss": "krvnikov"
+      "gloss": "klavcev"
     }
   ],
-  "timestamp": "2026-10-19T18:10:04.070203300Z",
+  "timestamp": "2026-10-19T20:17:29.108315732Z",
   "model": "glm-5.3"
 }

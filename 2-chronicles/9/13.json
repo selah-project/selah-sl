@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "Hebrejščina nima glagola biti v nominalnem stavku"
-    },
-    {
-      "kind": "measurement",
-      "subject": "666 talentov zlata",
-      "rationale": "tehtanje letnega deleža zlata"
-    }
-  ],
-  "translation": "In bil je ⟨je⟩ delež zlata, ki je prišlo Šelomou v enem letu, šesto šestdeset in šest talentov zlata.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/9\/13-16.1792438561189.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In bil ⟨je⟩ delež zlata, ki je prišel Šelomu v enem letu, šeststo šestinšestdeset talentov ⟨slačnih⟩ zlata — šest kositrjev zlata.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "In bil je"
+      "gloss": "In bil ⟨je⟩"
     },
     {
       "surface": "משקל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "je prišlo"
+      "gloss": "je prišel"
     },
     {
       "surface": "לשלמה",
-      "gloss": "Šelomou"
+      "gloss": "Šelomu"
     },
     {
       "surface": "בשנה",
@@ -58,23 +37,23 @@
     },
     {
       "surface": "אחת",
-      "gloss": " enem"
+      "gloss": "v enem letu"
     },
     {
       "surface": "שש",
-      "gloss": "šesto"
+      "gloss": "šeststo"
     },
     {
       "surface": "מאות",
-      "gloss": " "
+      "gloss": "šeststo"
     },
     {
       "surface": "וששים",
-      "gloss": "šestdeset"
+      "gloss": "šestinšestdeset"
     },
     {
       "surface": "ושש",
-      "gloss": "in šest"
+      "gloss": "šestinšestdeset"
     },
     {
       "surface": "ככרי",
@@ -85,6 +64,6 @@
       "gloss": "zlata"
     }
   ],
-  "timestamp": "2026-10-19T19:36:01.190627504Z",
+  "timestamp": "2026-10-19T20:38:26.329298759Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "dvignil glavo",
-      "rationale": "נשא את ראש je idiom za naklonjenost, pomilostitev (prim. 1 Mz 40); dobesedno 'dvignil glavo' je tu prav"
-    },
-    {
-      "kind": "measurement",
-      "subject": "datumi",
-      "rationale": "natančno datumiranje: 37. leto izgnanstva, 12. mesec, 25. dan"
-    }
-  ],
-  "translation": "In zgodilo se je v sedemintridesetem letu izgnanstva Jehojakina, kralja Judovega, v dvanajstem mesecu, petindvajsetega dne v mesecu, da je Evil-Merodak, kralj Bavela, v letu svojega kraljevanja dvignil ⟨את⟩ glavo Jehojakina, kralja Judovega, in ⟨את⟩ ga izpeljal iz zapora.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/29-32.1792432057819.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In je bilo v tridesetem in sedmem letu izgnanstva Jehojakina, kralja Jehude, v dvanajstem mesecu, petindvajsetega ⟨dne⟩ v mesecu, da je Evil-Merodak, kralj Babilona, v letu svojega kraljevanja dvignil ⟨את⟩ glavo Jehojakina, kralja Jehude, in ⟨את⟩ ga izpeljal iz hiše ječe.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "in zgodilo se je"
+      "gloss": "In je bilo"
     },
     {
       "surface": "בשלשים",
-      "gloss": "v sedemintridesetem"
+      "gloss": "v tridesetem"
     },
     {
       "surface": "ושבע",
-      "gloss": "in sedem"
+      "gloss": "in sedmem"
     },
     {
       "surface": "שנה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kralj"
+      "gloss": "kralja"
     },
     {
       "surface": "יהודה",
-      "gloss": "Judovega"
+      "gloss": "Jehude"
     },
     {
       "surface": "בשנים",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "mesecu"
+      "gloss": "(dvanajstem)"
     },
     {
       "surface": "חדש",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "in pet"
+      "gloss": "(petindvajsetega)"
     },
     {
       "surface": "לחדש",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "dvignil je"
+      "gloss": "dvignil"
     },
     {
       "surface": "אויל",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavela"
+      "gloss": "Babilona"
     },
     {
       "surface": "בשנת",
@@ -115,7 +94,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "glavo Jehojakina"
+      "marks": "glavo Jehojakina, kralja Jehude"
     },
     {
       "surface": "ראש",
@@ -131,7 +110,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Judovega"
+      "gloss": "Jehude"
     },
     {
       "surface": "ויצא",
@@ -143,9 +122,13 @@
     },
     {
       "surface": "מבית",
-      "gloss": "iz zapora"
+      "gloss": "iz hiše"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ječe"
     }
   ],
-  "timestamp": "2026-10-19T17:47:37.820993013Z",
+  "timestamp": "2026-10-19T20:29:55.163132703Z",
   "model": "glm-5.3"
 }

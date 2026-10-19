@@ -5,62 +5,41 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "רעה",
-      "rationale": "רֹעָה 'перелом\/разлом' встречается только здесь; KJV 'broken'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בוגד",
-      "rationale": "'Покрывающий' → действующий тайно, предатель; не 'неверный человек' в общем смысле."
-    }
-  ],
-  "translation": "Сломанный зуб и вывихнутая нога — упование на предателя в день бедствия.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/25\/17-20.1792436134281.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zlomljen zob in izpahnjena noga — takeño je zanašanje na izdajalca v dan stiske.",
   "tokens": [
     {
       "surface": "שן",
-      "gloss": "зуб"
+      "gloss": "zob"
     },
     {
       "surface": "רעה",
-      "gloss": "сломанный"
+      "gloss": "zlomljen"
     },
     {
       "surface": "ורגל",
-      "gloss": "и нога"
+      "gloss": "in noga"
     },
     {
       "surface": "מועדת",
-      "gloss": "вывихнутая"
+      "gloss": "izpahnjena"
     },
     {
       "surface": "מבטח",
-      "gloss": "упование"
+      "gloss": "zanašanje"
     },
     {
       "surface": "בוגד",
-      "gloss": "на предателя"
+      "gloss": "na izdajalca"
     },
     {
       "surface": "ביום",
-      "gloss": "в день"
+      "gloss": "v dan"
     },
     {
       "surface": "צרה",
-      "gloss": "бедствия"
+      "gloss": "stiske"
     }
   ],
-  "timestamp": "2026-10-19T18:55:34.282270863Z",
+  "timestamp": "2026-10-19T20:36:58.536735872Z",
   "model": "glm-5.3"
 }

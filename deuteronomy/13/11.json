@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "poskušal",
-      "rationale": "בקש je dobesedno 'iskati'; 'poskušal' nosi pomen namerovanega dejanja."
-    },
-    {
-      "kind": "addition",
-      "subject": "bo",
-      "rationale": "Slovenščina potrebuje prihodnjik, hebrejščina ima prosti glagolski pomen 'in umrl'."
-    }
-  ],
-  "translation": "In kamnjal ga boš s kamni in umrl bo, ker je poskušal odgnati ⟨⟨tebe⟩⟩ od Jahve, Elohim tvojega, ki te je izpeljal iz dežele Micrajim, iz hiše sužnjev.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "36b07d84e8e3c9ac78b6f3687d76fe6f37eb3d909aa77e14ef23d22b92e26385",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/13\/10-12.1792433325409.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In kamnaj ga s kamni, da umre, ker je iskal, kako bi te odvrnil od Jahve, Elohim tvojega, ki te je izpeljal iz dežele Micrajim, iz hiše sužnjev.",
   "tokens": [
     {
       "surface": "וסקלתו",
-      "gloss": "in kamnjal ga boš"
+      "gloss": "in kamnaj ga"
     },
     {
       "surface": "באבנים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ומת",
-      "gloss": "in umrl bo"
+      "gloss": "da umre"
     },
     {
       "surface": "כי",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "בקש",
-      "gloss": "je poskušal"
+      "gloss": "je iskal"
     },
     {
       "surface": "להדיחך",
-      "gloss": "odgnati tebe"
+      "gloss": "odvrniti te"
     },
     {
       "surface": "מעל",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim tvoj"
+      "gloss": "Elohim tvojega"
     },
     {
       "surface": "המוציאך",
@@ -85,6 +64,6 @@
       "gloss": "sužnjev"
     }
   ],
-  "timestamp": "2026-10-19T18:08:45.411124597Z",
+  "timestamp": "2026-10-19T20:19:30.317434696Z",
   "model": "glm-5.3"
 }

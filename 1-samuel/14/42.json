@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Vrzite žreb",
-      "rationale": "הפילו je dobesedno 'povzročite pasti' — 'spravite v padec' žreb; idiom metanja žreba."
-    },
-    {
-      "kind": "addition",
-      "subject": "je bil",
-      "rationale": "Slovenščina potrebuje pomožnik 'je bil' pri glagolu וילכד, ki ga hebrejščina nima."
-    }
-  ],
-  "translation": "In Šaul je rekel: Vrzite ⟨את⟩ žreb med mene in Jonatana, mojega sina. In ujet je bil Jonathan.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "c8229df8c2183a088c2457015c26894380873efd6384a9583fa18bf46d4d3cd3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/14\/42-44.1792433339411.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Šaul je rekel:vrzite ⟨את⟩ žreb med mene in med Jónatana, mojega sina. In Jónatan je bil ujet.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הפילו",
-      "gloss": "Vrzite ⟨את⟩ žreb"
+      "gloss": "vrzite ⟨את⟩"
     },
     {
       "surface": "ביני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "יונתן",
-      "gloss": "Jonatana"
+      "gloss": "Jónatana"
     },
     {
       "surface": "בני",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "וילכד",
-      "gloss": "In ujet je bil"
+      "gloss": "In je bil ujet"
     },
     {
       "surface": "יונתן",
-      "gloss": "Jonathan"
+      "gloss": "Jónatan"
     }
   ],
-  "timestamp": "2026-10-19T18:08:59.412442114Z",
+  "timestamp": "2026-10-19T20:15:06.950788516Z",
   "model": "glm-5.3"
 }

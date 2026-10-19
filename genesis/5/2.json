@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אדם",
-      "rationale": "'Adam' kot ime ali 'Človek' kot vrsta — obe beritvi sta mogoči; tu druga, ker gre za oba, moškega in žensko."
-    },
-    {
-      "kind": "addition",
-      "subject": "sta bila",
-      "rationale": "hebrejščina ima nedoločnik v הבראם; slovenščina zahteva osebkov glagol."
-    }
-  ],
-  "translation": "Moškega in žensko ju je ustvaril, in ju je blagoslovil, ter poimenoval ⟨את⟩ njuno ime Človek, na dan, ko sta bila ustvarjena.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/5\/1-4.1792422040025.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Moškega in žensko ju je ustvaril, in blagoslovil ju je, in njuno ime je imenoval Adam, na dan, ko sta bila ustvarjena.",
   "tokens": [
     {
       "surface": "זכר",
-      "gloss": "Moškega"
+      "gloss": "moškega"
     },
     {
       "surface": "ונקבה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "in ju je blagoslovil"
+      "gloss": "in blagoslovil"
     },
     {
       "surface": "אתם",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ter poimenoval"
+      "gloss": "in je imenoval"
     },
     {
       "surface": "את",
@@ -64,17 +43,17 @@
     },
     {
       "surface": "אדם",
-      "gloss": "Človek"
+      "gloss": "Adam"
     },
     {
       "surface": "ביום",
-      "gloss": "na dan, ko"
+      "gloss": "na dan"
     },
     {
       "surface": "הבראם",
-      "gloss": "sta bila ustvarjena"
+      "gloss": "ko sta bila ustvarjena"
     }
   ],
-  "timestamp": "2026-10-19T15:00:40.026740959Z",
+  "timestamp": "2026-10-19T20:26:14.409341117Z",
   "model": "glm-5.3"
 }

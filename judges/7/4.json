@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואצרפנו",
-      "rationale": "אצרפנו iz צרף, kovinarska beseda 'prečistiti kovino': 'preizkušal' (KJV\/ASV\/JPS) proti 'prečistil' (YLT); dobesedno je slika preskušanja v talilnem loncu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אותם",
-      "rationale": "Aleph-tav z zaimkom: ⟨את⟩ jih — določek je 'ljudstvo', ne ločenega 'njih'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ילך",
-      "rationale": "Glagol 'iti' se ponovi šestkrat v zrcalni strukturi pozitiv\/negativ — vzporednost se v prevodu deloma ohrani."
-    }
-  ],
-  "translation": "In Jahve je rekel Gideonu: Še vedno je ljudstvo preveliko. Spelji ⟨את⟩ jih dol k vodi in prečistil jih bom tam zate. In zgodilo se bo: kogar ti rečem »Ta naj gre s teboj«, ta gre s teboj; in vsakogar, o katerem ti rečem »Ta ne gre s teboj«, ta ne gre.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f541274791300c57c5679772f88d7066f34433eebd3ab744c852817390f3d123",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/7\/2-4.1792433381558.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve pa je rekel Gideonu: Še vedno je ljudstva preveč; spravi jih dol ⟨את⟩ k vodi in tam jih bom preizkusil ⟨zate⟩; in zgodbilo se bo: kdor koli ti rečem »ta naj gre s tabo«, ta naj gre s tabo, in kdor koli ti rečem »ta ne naj gre s tabo« — ta ne bo šel s tabo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "In je rekel"
+      "gloss": "je rekel"
     },
     {
       "surface": "יהוה",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "העם",
-      "gloss": "ljudstvo"
+      "gloss": "ljudstva"
     },
     {
       "surface": "רב",
-      "gloss": "preveliko"
+      "gloss": "preveč"
     },
     {
       "surface": "הורד",
-      "gloss": "spelji dol"
+      "gloss": "spravi dol"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih",
+      "gloss": "⟨את⟩",
       "marks": "jih (ljudstvo)"
     },
     {
@@ -80,7 +54,7 @@
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "in prečistil"
+      "gloss": "in jih bom preizkusil"
     },
     {
       "surface": "לך",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "in zgodilo se bo"
+      "gloss": "in zgodbilo se bo"
     },
     {
       "surface": "אשר",
-      "gloss": "kogar"
+      "gloss": "kdor koli"
     },
     {
       "surface": "אמר",
@@ -116,27 +90,27 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ s teboj"
+      "gloss": "⟨את⟩ s tabo"
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "ta"
     },
     {
       "surface": "ילך",
-      "gloss": "gre"
+      "gloss": "naj gre"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ s teboj"
+      "gloss": "⟨את⟩ s tabo"
     },
     {
       "surface": "וכל",
-      "gloss": "in vsakogar"
+      "gloss": "in kdor koli"
     },
     {
       "surface": "אשר",
-      "gloss": "o katerem"
+      "gloss": "kdor koli"
     },
     {
       "surface": "אמר",
@@ -156,7 +130,7 @@
     },
     {
       "surface": "ילך",
-      "gloss": "ne gre"
+      "gloss": "naj gre"
     },
     {
       "surface": "עמך",
@@ -164,7 +138,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "ta"
     },
     {
       "surface": "לא",
@@ -172,9 +146,9 @@
     },
     {
       "surface": "ילך",
-      "gloss": "ne gre"
+      "gloss": "bo šel"
     }
   ],
-  "timestamp": "2026-10-19T18:09:41.565064048Z",
+  "timestamp": "2026-10-19T20:32:49.219694290Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "judges",
   "lang": "sl",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Kihoš",
-      "rationale": "Jeftej priznava Kemoša kot 'tvojega boga' z malo črko — retorična privolitev, ne izpoved vere; Kemóš ali Kihoš po hebrejskem zvoku"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יורישך\/תירש\/הוריש\/נירש",
-      "rationale": "pet glagolov iz korena ירש v enem verzu — vzporednost 'tvoj bog ti da \/ naš Elohim nam da' se v prevodu ohrani le delno"
-    }
-  ],
-  "translation": "Ali ni ⟨tako⟩: kar ti da zavzeti Kihoš, tvoj bog, ⟨tisto⟩ zavzemi, in vse, kar je Jahve, naš Elohim, razlastil izpred nas, ⟨tisto⟩ bomo zavzeli mi.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "392848abc3df1bcd4c2519dad73afc454bcf86b689baa7463272e55eacac7c01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/11\/21-24.1792427190049.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ali ne boš posedoval ⟨את⟩ tistega, kar ti dá v posest Kemoš, tvoj bog? In ⟨את⟩ vse, kar je Jahve, naš Elohim, izgnal pred nami, ⟨to⟩ bomo posedovali.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "Ali ni"
+      "gloss": "ali ne"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kar ti da zavzeti Kihoš"
+      "marks": "tistega, kar ti dá v posest Kemoš"
     },
     {
       "surface": "אשר",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "יורישך",
-      "gloss": "ti da zavzeti"
+      "gloss": "ti dá v posest"
     },
     {
       "surface": "כמוש",
-      "gloss": "Kihoš"
+      "gloss": "Kemoš"
     },
     {
       "surface": "אלהיך",
@@ -55,17 +34,17 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨tisto⟩",
-      "marks": "zavzemi"
+      "gloss": "⟨את⟩",
+      "marks": "boš posedoval"
     },
     {
       "surface": "תירש",
-      "gloss": "zavzemi"
+      "gloss": "boš posedoval"
     },
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "vse, kar je Jahve razlastil"
+      "marks": "vse, kar je Jahve izgnal pred nami"
     },
     {
       "surface": "כל",
@@ -77,7 +56,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "je razlastil"
+      "gloss": "je dal v posest"
     },
     {
       "surface": "יהוה",
@@ -89,18 +68,18 @@
     },
     {
       "surface": "מפנינו",
-      "gloss": "izpred nas"
+      "gloss": "pred nami"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨tisto⟩",
-      "marks": "bomo zavzeli mi"
+      "gloss": "⟨את⟩",
+      "marks": "bomo posedovali"
     },
     {
       "surface": "נירש",
-      "gloss": "bomo zavzeli mi"
+      "gloss": "bomo posedovali"
     }
   ],
-  "timestamp": "2026-10-19T16:26:30.050590652Z",
+  "timestamp": "2026-10-19T20:32:11.915941079Z",
   "model": "glm-5.3"
 }

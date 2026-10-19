@@ -5,52 +5,36 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאחדים",
-      "rationale": "množinska oblika 'za eno' (dva drogova kot eno), v slovenščini ostane 'eno'."
-    }
-  ],
-  "translation": "In približaj jih enega k drugemu, tebi, v en sam drog, in bodota eno v tvoji roki.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "18696fd18bd90417d1b512fab9fafbad0081578a1c64efe81d16e002edd7f088",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/37\/17-20.1792433573691.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In približaj ⟨את⟩ njiju, eno h drugi, sebi, v en sam kol, in postala bosta eno v tvoji roki.",
   "tokens": [
     {
       "surface": "וקרב",
-      "gloss": "in približaj"
+      "gloss": "In približaj"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "njiju — eno (drugo) palico"
     },
     {
       "surface": "אחד",
-      "gloss": "enega"
+      "gloss": "eno"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "h"
     },
     {
       "surface": "אחד",
-      "gloss": "drugemu"
+      "gloss": "drugi"
     },
     {
       "surface": "לך",
-      "gloss": "tebi"
+      "gloss": "sebi"
     },
     {
       "surface": "לעץ",
-      "gloss": "v en drog"
+      "gloss": "v en sam kol"
     },
     {
       "surface": "אחד",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "in bodota"
+      "gloss": "in postala bosta"
     },
     {
       "surface": "לאחדים",
@@ -69,6 +53,6 @@
       "gloss": "v tvoji roki"
     }
   ],
-  "timestamp": "2026-10-19T18:12:53.692132612Z",
+  "timestamp": "2026-10-19T20:23:48.893783579Z",
   "model": "glm-5.3"
 }

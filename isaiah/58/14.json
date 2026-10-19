@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 58,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "usta Jahveja so govorila",
-      "rationale": "Hebrew idiom of divine guarantee — 'the mouth of YHWH has spoken' — kept literal as formula"
-    },
-    {
-      "kind": "addition",
-      "subject": "so",
-      "rationale": "Slovenian perfect requires the auxiliary 'so'; Hebrew perfect has none"
-    },
-    {
-      "kind": "addition",
-      "subject": "jaz",
-      "rationale": "pronoun added to mark the subject shift to God speaking in first person"
-    }
-  ],
-  "translation": "tedaj se boš naslajal nad Jahvejem, in jaz te bom pripeljal, da boš jezdil na višavah zemlje, in te bom jesal z dediščino Jaakova,你的ega očeta, kajti usta Jahveja so govorila.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "25ac35dfc8d68c7cd3c03c04176c6051f0c3dcefab9e322937eeeb3f3735fe5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/58\/13-14.1792430861304.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tedaj se boš naslajal nad Jahvejem, in jaz te bom dvignil na višave zemlje ter te hranil ⟨s⟩ dediščino Jaakova, očeta tvojega, kajti usta Jahveja so govorila.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "tedaj"
+      "gloss": "Tedaj"
     },
     {
       "surface": "תתענג",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "והרכבתיך",
-      "gloss": "in jaz te bom pripeljal, da boš jezdil"
+      "gloss": "in jaz te bom dvignil na konja — povzdigval"
     },
     {
       "surface": "על",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "במותי",
-      "gloss": "višavah"
+      "gloss": "višave"
     },
     {
       "surface": "ארץ",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "והאכלתיך",
-      "gloss": "in te bom jesal"
+      "gloss": "ter te hranil"
     },
     {
       "surface": "נחלת",
-      "gloss": "z dediščino"
+      "gloss": "⟨s⟩ dediščino"
     },
     {
       "surface": "יעקב",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "tvojega očeta"
+      "gloss": "očeta tvojega"
     },
     {
       "surface": "כי",
@@ -98,6 +72,6 @@
       "gloss": "so govorila"
     }
   ],
-  "timestamp": "2026-10-19T17:27:41.304931742Z",
+  "timestamp": "2026-10-19T20:28:05.696540985Z",
   "model": "glm-5.3"
 }

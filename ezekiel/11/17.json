@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "deželo",
-      "rationale": "אדמה je 'prst\/tla' (adama, rdeča prst), ne splošna 'dežela' ארץ"
-    },
-    {
-      "kind": "addition",
-      "subject": "združil\/pobral",
-      "rationale": "slovenščina ločuje dva glagola za קבץ in אסף, hebrejščina blizu sopomenk"
-    }
-  ],
-  "translation": "Zato reci: Tako govori Adonaj Jahve: In združil vas bom ⟨iz⟩ med narodov ter vas pobral ⟨iz⟩ dežel, v katere ste bili razsejani, in dal vam bom ⟨את⟩ deželo Jisraela.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "fb65516434cdafe0319f8cb0a64229e65ddc9c796ad933a3fd366674d1216882",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/11\/17-20.1792432200927.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato reci: Tako govori Adonaj Jahve: In pobral ⟨את⟩ vas bom izmed ljudstev ter zbral ⟨את⟩ vas izmed dežel, v katere ste bili razkropljeni, in dal vam bom ⟨את⟩ deželo Jisraela.",
   "tokens": [
     {
       "surface": "לכן",
@@ -54,33 +33,33 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "in združil vas bom"
+      "gloss": "in pobral bom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
+      "gloss": "⟨את⟩",
       "marks": "vas"
     },
     {
       "surface": "מן",
-      "gloss": "iz"
+      "gloss": "izmed"
     },
     {
       "surface": "העמים",
-      "gloss": "narodov"
+      "gloss": "ljudstev"
     },
     {
       "surface": "ואספתי",
-      "gloss": "ter vas pobral"
+      "gloss": "ter zbral"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
+      "gloss": "⟨את⟩",
       "marks": "vas"
     },
     {
       "surface": "מן",
-      "gloss": "iz"
+      "gloss": "izmed"
     },
     {
       "surface": "הארצות",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "נפצותם",
-      "gloss": "ste bili razsejani"
+      "gloss": "ste bili razkropljeni"
     },
     {
       "surface": "בהם",
@@ -117,9 +96,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-10-19T17:50:00.928542002Z",
+  "timestamp": "2026-10-19T20:22:53.049908386Z",
   "model": "glm-5.3"
 }

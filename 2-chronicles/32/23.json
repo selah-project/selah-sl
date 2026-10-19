@@ -5,23 +5,7 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minha",
-      "rationale": "מנחה je daritev dar; tu za Jahva, zato po D2 ostaja minha in ne 'dar'"
-    }
-  ],
-  "translation": "In mnogi so prinašali minho Jahvu v Jerušalajm in dragocenosti Hizkijahu, kralju Jehude; in bil je povzdignjen pred očmi vseh narodov od takrat naprej.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "0463af79aa435a9e2b448e72ccd393a05253a49dc3163bd4ee36e3865a3d37b6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/32\/21-24.1792438922361.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In mnogi so prinašali daritev Jahveju v Jerušalajim in dragocenosti Hizkijáhu, kralju Jude, in bil je povzdignjen pred očmi vseh narodov od takrat naprej.",
   "tokens": [
     {
       "surface": "ורבים",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "מנחה",
-      "gloss": "minho"
+      "gloss": "daritev"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahveju"
     },
     {
       "surface": "לירושלם",
-      "gloss": "v Jerušalajm"
+      "gloss": "v Jerušalajim"
     },
     {
       "surface": "ומגדנות",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "ליחזקיהו",
-      "gloss": "Hizkijahu"
+      "gloss": "Hizkijáhu"
     },
     {
       "surface": "מלך",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehude"
+      "gloss": "Jude"
     },
     {
       "surface": "וינשא",
@@ -84,6 +68,6 @@
       "gloss": "takrat naprej"
     }
   ],
-  "timestamp": "2026-10-19T19:42:02.368747125Z",
+  "timestamp": "2026-10-19T20:16:22.158154059Z",
   "model": "glm-5.3"
 }

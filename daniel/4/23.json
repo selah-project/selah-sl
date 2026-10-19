@@ -5,32 +5,11 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨pripada⟩",
-      "rationale": "Aramejščina postavlja samo שלטן שמיא »oblast neba« brez glagola; kopulo je dodal prevod."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "panj korenin",
-      "rationale": "Zadržani panj je slika zadržanega kraljestva — drevo pade, panj ostane, kraljestvo ostane."
-    }
-  ],
-  "translation": "In ker so rekli, naj se pusti panj korenin drevesa, bo tvoje kraljestvo tebi trdno, potem ko boš spoznal, da oblast ⟨pripada⟩ nebu.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "afb914e331209bdf562ed97ef068f3902411420d5571ca630305db8cbe4ed6d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/4\/21-24.1792437461151.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ker so rekli, naj se pusti panj korenin drevesa, je tvoje kraljestvo ⟨zate⟩ trdno, od takrat ko spoznaš, da vladajo nebesa.",
   "tokens": [
     {
       "surface": "ודי",
-      "gloss": "In ker"
+      "gloss": "in ker"
     },
     {
       "surface": "אמרו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨od⟩"
     },
     {
       "surface": "אילנא",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "tebi"
+      "gloss": "⟨zate⟩"
     },
     {
       "surface": "קימה",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "potem ko"
+      "gloss": "od"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ko"
     },
     {
       "surface": "תנדע",
-      "gloss": "boš spoznal"
+      "gloss": "spoznaš"
     },
     {
       "surface": "די",
@@ -86,13 +65,13 @@
     },
     {
       "surface": "שלטן",
-      "gloss": "oblast"
+      "gloss": "vladajo"
     },
     {
       "surface": "שמיא",
-      "gloss": "neba"
+      "gloss": "nebesa"
     }
   ],
-  "timestamp": "2026-10-19T19:17:41.160643247Z",
+  "timestamp": "2026-10-19T20:19:03.561679737Z",
   "model": "glm-5.3"
 }

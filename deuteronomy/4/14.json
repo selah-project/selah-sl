@@ -5,32 +5,16 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "vas",
-      "rationale": "Govor je neposredno obrnjen na Izrael po Moševih ustih."
-    }
-  ],
-  "translation": "In mene je Jahve v tistem času zadolžil, da ⟨את⟩ vas učim ⟨את⟩ uredb in sodb, da jih izpolnjujete v deželi, v katero prehajate, da jo zavzamete.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "3eecf7ee101dc8c26e19ecbf1f6594179a575a56d87ac516868ed04520af422d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/4\/13-16.1792425733252.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ mene je Jahve v tisti čas ukazal, da vas naučim ⟨את⟩ zakonov in prav, da jih delate v deželi, v katero prehajate, da jo zavzamete.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "in ⟨את⟩ mene",
-      "marks": "zadolžil"
+      "gloss": "⟨את⟩ mene",
+      "marks": "ukazal (צוה)"
     },
     {
       "surface": "צוה",
-      "gloss": "zadolžil"
+      "gloss": "ukazal"
     },
     {
       "surface": "יהוה",
@@ -38,36 +22,37 @@
     },
     {
       "surface": "בעת",
-      "gloss": "v času"
+      "gloss": "v čas"
     },
     {
       "surface": "ההוא",
-      "gloss": "tistem"
+      "gloss": "tisti"
     },
     {
       "surface": "ללמד",
-      "gloss": "da učim"
+      "gloss": "da naučim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "zakonov in prav"
     },
     {
       "surface": "חקים",
-      "gloss": "uredb"
+      "gloss": "zakonov"
     },
     {
       "surface": "ומשפטים",
-      "gloss": "in sodb"
+      "gloss": "in prav"
     },
     {
       "surface": "לעשתכם",
-      "gloss": "da jih izpolnjujete"
+      "gloss": "da jih delate"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ jih",
-      "marks": "uredb in sodb"
+      "marks": "v deželi"
     },
     {
       "surface": "בארץ",
@@ -94,6 +79,6 @@
       "gloss": "da jo zavzamete"
     }
   ],
-  "timestamp": "2026-10-19T16:02:13.253875429Z",
+  "timestamp": "2026-10-19T20:20:21.994564108Z",
   "model": "glm-5.3"
 }

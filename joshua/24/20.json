@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bogovom tujcev",
-      "rationale": "אלהי נכר z malo začetnico — bogovi tujcev, ne Elohim."
-    },
-    {
-      "kind": "alternative",
-      "subject": "כי",
-      "rationale": "Lahko tudi pogojni »če« ali vzročni »kajti« (nadaljevanje Jozuetovih besed); izbrano pogojni, ker sledi opozorilo."
-    }
-  ],
-  "translation": "Če boste zapustili ⟨את⟩ Jahveja in služili bogovom tujcev, se bo obrnil in vam storil húdo ter vas pokončal, potem ko vam je storil dobro.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/17-20.1792426947182.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Če zapustite ⟨את⟩ Jahveja in boste služili bogovom tujcev, se bo obrnil in vam storil húdo ter ⟨את⟩ vas pomoril, potem ko vam je storil dobro.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תעזבו",
-      "gloss": "boste zapustili"
+      "gloss": "zapustite"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "in služili"
+      "gloss": "in boste služili"
     },
     {
       "surface": "אלהי",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "וכלה",
-      "gloss": "ter vas pokončal"
+      "gloss": "ter vas pomoril"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ vas",
       "marks": "vas"
     },
     {
@@ -84,7 +63,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kar"
+      "gloss": "da"
     },
     {
       "surface": "היטיב",
@@ -95,6 +74,6 @@
       "gloss": "vam"
     }
   ],
-  "timestamp": "2026-10-19T16:22:27.183633782Z",
+  "timestamp": "2026-10-19T20:31:34.536551741Z",
   "model": "glm-5.3"
 }

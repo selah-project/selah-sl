@@ -5,32 +5,11 @@
   "book": "hosea",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "aleph-tav v obliki z končnico, osebni zaimek v slovenščini brez oklepaja"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשובה\/אשוב",
-      "rationale": "njen povratek k možu (2,9) odseva Jahvovo »vrnil se bom« (2,11) — ista beseda שׁוּב"
-    }
-  ],
-  "translation": "In ona bo preganjala ⟨את⟩ svoje ljubimce, pa jih ne bo dohitela, in iskala jih bo, pa jih ne bo našla; in rekla bo: Pojdita se bom vrnila k svojemu možu prvemu, kajti takrat mi je bilo boljše kakor zdaj.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/9-12.1792433793171.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In lovilá bo ⟨את⟩ svoje ljubimce, a jih ne bo dohitela, iskala jih bo ⟨את⟩ in jih ne bo našla; tedaj bo rekla: Pojdí, vrnem se k svojemu možu, prvemu, kajti takrat mi je bilo bolje kot zdaj.",
   "tokens": [
     {
       "surface": "ורדפה",
-      "gloss": "in bo preganjala"
+      "gloss": "In lovilá bo"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "a ne"
     },
     {
       "surface": "תשיג",
@@ -51,15 +30,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "jih"
     },
     {
       "surface": "ובקשתם",
-      "gloss": "in iskala jih bo"
+      "gloss": "iskala jih bo"
     },
     {
       "surface": "ולא",
-      "gloss": "pa ne"
+      "gloss": "in ne"
     },
     {
       "surface": "תמצא",
@@ -67,15 +47,15 @@
     },
     {
       "surface": "ואמרה",
-      "gloss": "in rekla bo"
+      "gloss": "tedaj bo rekla"
     },
     {
       "surface": "אלכה",
-      "gloss": "pojdem"
+      "gloss": "Pojdí"
     },
     {
       "surface": "ואשובה",
-      "gloss": "in vrnila se bom"
+      "gloss": "vrnem se"
     },
     {
       "surface": "אל",
@@ -95,11 +75,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "boljše"
+      "gloss": "bolje"
     },
     {
       "surface": "לי",
-      "gloss": "mi"
+      "gloss": "mi je bilo"
     },
     {
       "surface": "אז",
@@ -107,9 +87,9 @@
     },
     {
       "surface": "מעתה",
-      "gloss": "kakor zdaj"
+      "gloss": "kot zdaj"
     }
   ],
-  "timestamp": "2026-10-19T18:16:33.213164795Z",
+  "timestamp": "2026-10-19T20:26:37.104711009Z",
   "model": "glm-5.3"
 }

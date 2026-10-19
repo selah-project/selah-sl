@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 118,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "refrain lacks כי here; rendered implicitly"
-    },
-    {
-      "kind": "invitation",
-      "subject": "tisti, ki se bojijo Jahveja",
-      "rationale": "summons to those who fear Jahve"
-    },
-    {
-      "kind": "you",
-      "subject": "tisti, ki se bojijo Jahveja",
-      "rationale": "addressed to the God-fearers"
-    }
-  ],
-  "translation": "Recite ⟨zdaj⟩, tisti, ki se bojijo Jahveja: na veke je njegov hesed.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/118\/1-4.1792435481078.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Recijo naj tisti, ki se bojíjo Jahveja: da ⟨je⟩ na veke njegov hesed.",
   "tokens": [
     {
       "surface": "יאמרו",
-      "gloss": "Recite"
+      "gloss": "recijo naj"
     },
     {
       "surface": "נא",
-      "gloss": "⟨zdaj⟩"
+      "gloss": "naj"
     },
     {
       "surface": "יראי",
-      "gloss": "tisti, ki se bojijo"
+      "gloss": "tisti, ki se bojíjo"
     },
     {
       "surface": "יהוה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "da"
     },
     {
       "surface": "לעולם",
@@ -62,6 +36,6 @@
       "gloss": "njegov hesed"
     }
   ],
-  "timestamp": "2026-10-19T18:44:41.079171657Z",
+  "timestamp": "2026-10-19T20:37:05.833190610Z",
   "model": "glm-5.3"
 }

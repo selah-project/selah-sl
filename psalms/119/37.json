@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "molivec → Jahve (kitsur od 119:36)",
-      "rationale": "Dvajseta črka fe: neposreden prošnja, naslovljen Bog (ti)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "šav",
-      "rationale": "שוא pomeni praznino\/ničnost\/zmoto — puščeno kot šav, ne 'zabloda'."
-    }
-  ],
-  "translation": "Odvrni moje oči od gledanja ώšav-a ⟨ničesar⟩: po svoji poti me oživi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/37-40.1792435489711.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Odvrni ⟨moje⟩ oči od gledanja xašava (praznine) — po svoji poti me oživi.",
   "tokens": [
     {
       "surface": "העבר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שוא",
-      "gloss": "šav — praznino"
+      "gloss": "praznine"
     },
     {
       "surface": "בדרכך",
@@ -53,6 +32,6 @@
       "gloss": "me oživi"
     }
   ],
-  "timestamp": "2026-10-19T18:44:49.711693427Z",
+  "timestamp": "2026-10-19T20:37:15.622155877Z",
   "model": "glm-5.3"
 }

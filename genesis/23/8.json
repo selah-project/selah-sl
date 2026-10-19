@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefes",
-      "rationale": "נפש je 'dih, življenjska sila, hotenje' — tukaj 'vaša volja\/želite', ne 'duša'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "את H854 je predlog 'z', v slovenščini glagolska vezava 'govoril z njimi' — preostalo v ⟨את⟩"
-    },
-    {
-      "kind": "invitation",
-      "subject": "poslušajte me",
-      "rationale": "Avrahamovo neposredno prošnja-obrat k poslušalcem"
-    }
-  ],
-  "translation": "In govoril je ⟨את⟩ njih, rekoč: Če je ⟨z⟩ vaša nefes, da pokopem ⟨את⟩ svojega mrtvega pred sabo, poslušajte me in posredujte ⟨zame⟩ pri Efronu, sinu Coharja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/23\/5-8.1792422349503.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In govoril je ⟨את⟩ ⟨z njimi⟩ in rekel: Če je z vašo dušo ⟨את⟩ mojega mrtvega pokopati izpred mene, poslušajte me in posredujte zame pri Efronu, sinu Coharja.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ ⟨z njimi⟩"
     },
     {
       "surface": "לאמר",
-      "gloss": "rekoč"
+      "gloss": "in rekel:"
     },
     {
       "surface": "אם",
@@ -56,28 +30,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vaša nefes"
+      "marks": "vašo dušo (נפשכם)"
     },
     {
       "surface": "נפשכם",
-      "gloss": "vaša nefes"
+      "gloss": "vaša duša"
     },
     {
       "surface": "לקבר",
-      "gloss": "da pokopem"
+      "gloss": "pokopati"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svojega mrtvega"
+      "marks": "mojega mrtvega (מתי)"
     },
     {
       "surface": "מתי",
-      "gloss": "svojega mrtvega"
+      "gloss": "moj mrtvi"
     },
     {
       "surface": "מלפני",
-      "gloss": "pred sabo"
+      "gloss": "izpred mene"
     },
     {
       "surface": "שמעוני",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "⟨zame⟩"
+      "gloss": "zame"
     },
     {
       "surface": "בעפרון",
@@ -104,6 +78,6 @@
       "gloss": "Coharja"
     }
   ],
-  "timestamp": "2026-10-19T15:05:49.504442981Z",
+  "timestamp": "2026-10-19T20:25:20.425431312Z",
   "model": "glm-5.3"
 }

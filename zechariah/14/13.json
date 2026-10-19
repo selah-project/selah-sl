@@ -5,45 +5,19 @@
   "book": "zechariah",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "zmeda",
-      "rationale": "מהומה je 'pomen, vrvež, zmeda' — KJV 'tumult\/panic' je vedenjska razlaga, ne beseda sama."
-    },
-    {
-      "kind": "addition",
-      "subject": "ki jo pošlje Jahve",
-      "rationale": "מהומת יהוה je svezan status: 'zmeda Jahveja' — dodan relacijski glagol, ker slovenščina take zveze ne nosi."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יד … ידו … יד",
-      "rationale": "trije udarci besede 'roka' v verigu roka–bližnji–roka–bližnji, praviPanijevo podiranje z leve na desno."
-    }
-  ],
-  "translation": "In zgodilo se bo tistega dne: velika zmeda, <ki jo pošlje> Jahve, med njimi, in prijeli bodo vsak roko svojega bližnjega, dvignila pa se bo njegova roka nad roko njegovega bližnjega.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "427228b76b5b2bfeed3b9c3b1fe05a581b699faaff7fb17266b903d5282336a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/14\/13-16.1792434445895.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In v tistem dnevu bo velika zmešnjava od Jahveja med njimi, in prijeli bo vsak ⟨את⟩ roko svojega bližnjega, in povzdignila se bo njegova roka nad roko svojega bližnjega.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "in zgodilo se bo"
+      "gloss": "in bo"
     },
     {
       "surface": "ביום",
-      "gloss": "tistega dne"
+      "gloss": "v dnevu"
     },
     {
       "surface": "ההוא",
-      "gloss": "tisti"
+      "gloss": "tistem"
     },
     {
       "surface": "תהיה",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "מהומת",
-      "gloss": "zmeda"
+      "gloss": "zmešnjava"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahveja"
     },
     {
       "surface": "רבה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "והחזיקו",
-      "gloss": "in prijeli bodo"
+      "gloss": "in prijeli bo"
     },
     {
       "surface": "איש",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ועלתה",
-      "gloss": "dvignila pa se bo"
+      "gloss": "in povzdignila se bo"
     },
     {
       "surface": "ידו",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "njegovega bližnjega"
+      "gloss": "svojega bližnjega"
     }
   ],
-  "timestamp": "2026-10-19T18:27:25.895925590Z",
+  "timestamp": "2026-10-19T20:38:13.958220949Z",
   "model": "glm-5.3"
 }

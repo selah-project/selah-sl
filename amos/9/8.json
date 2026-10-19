@@ -5,32 +5,11 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השמיד אשמיד",
-      "rationale": "infinitivus absolutus — 'pregnati pregnal': popolna intenzivnost, v slovenščini ohranjena z 'povsem pregnal'"
-    },
-    {
-      "kind": "crux",
-      "subject": "אפס כי",
-      "rationale": "dobesedno 'konec, da' — 'razen da \/ vendar': prelomnica med sodbo in ohranitvijo hiše Jaakove"
-    }
-  ],
-  "translation": "Glej, oči Adonaja Jahveja so nad grešnim kraljestvom, in pregnal jo bom s obličja zemlje; vendar, da ne bom povsem pregnal ⟨את⟩ hiše Jaakova, govori Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/9\/5-8.1792434105129.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Glej, oči Adonaja Jahveja so nad grešnim kraljestvom, in uničil bom ⟨את⟩ ⟨jo⟩ s površja zemlje; vendar ne bom popolnoma uničil ⟨את⟩ hiše Jaakova, govori Jahve.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "Glej"
+      "gloss": "glej"
     },
     {
       "surface": "עיני",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בממלכה",
-      "gloss": "nad kraljestvom"
+      "gloss": "nad grešnim kraljestvom"
     },
     {
       "surface": "החטאה",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "והשמדתי",
-      "gloss": "in pregnal jo bom"
+      "gloss": "in uničil bom"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "jo (kraljestvo)"
+      "marks": "jo (grešno kraljestvo)"
     },
     {
       "surface": "מעל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "obličja"
+      "gloss": "površja"
     },
     {
       "surface": "האדמה",
@@ -87,16 +66,16 @@
     },
     {
       "surface": "השמיד",
-      "gloss": "povsem"
+      "gloss": "popolnoma"
     },
     {
       "surface": "אשמיד",
-      "gloss": "pregnal"
+      "gloss": "uničil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hišo Jaakova"
+      "marks": "hiša Jaakova"
     },
     {
       "surface": "בית",
@@ -115,6 +94,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T18:21:45.134567367Z",
+  "timestamp": "2026-10-19T20:19:12.837240965Z",
   "model": "glm-5.3"
 }

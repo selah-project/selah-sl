@@ -5,46 +5,20 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השמע ישמע \/ והחדל יחדל",
-      "rationale": "infinitiv absolut pred glagolom: 'slišujoč sliši, nehajoč neha' — ponovitev poudarja prosto odločitev poslušalca."
-    },
-    {
-      "kind": "you",
-      "subject": "Ezekielu",
-      "rationale": "celoten ukaz je neposreden nagovor preroku: neho, ne opominjaj, govorí le ko odprem tvoja usta."
-    },
-    {
-      "kind": "mystery",
-      "subject": "odpiranje ust",
-      "rationale": "govor je zaprt in odprt po božji besedi — prerok ve samo, kdaj bo spregovoril."
-    }
-  ],
-  "translation": "In ko bom govoril s teboj, odprl bom ⟨את⟩ tvoja usta, in rekel jim boš: Tako govori Adonaj Jahve: kdor sliši, sliši, in kdor neha, neha, ker uporno hiša so.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "525798db7df2497909d540db492d829022dfc0e3c7f744c8c74e633dc8a10b6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/3\/25-27.1792432093560.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ko bom govoril s ⟨את⟩ teboj, odprem ⟨את⟩ tvoja usta, in rekel boš njim: Tako govori Adonaj Jahve: kdor sliši, sliši, in kdor neha, neha, kajti uporno hiša so oni.",
   "tokens": [
     {
       "surface": "ובדברי",
-      "gloss": "in ko bom govoril"
+      "gloss": "In ko bom govoril"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "te"
+      "marks": "s teboj"
     },
     {
       "surface": "אפתח",
-      "gloss": "odprl bom"
+      "gloss": "odprem"
     },
     {
       "surface": "את",
@@ -61,11 +35,11 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "jim"
+      "gloss": "njim"
     },
     {
       "surface": "כה",
-      "gloss": "tako"
+      "gloss": "Tako"
     },
     {
       "surface": "אמר",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ker"
+      "gloss": "kajti"
     },
     {
       "surface": "בית",
@@ -109,9 +83,9 @@
     },
     {
       "surface": "המה",
-      "gloss": "so"
+      "gloss": "so oni"
     }
   ],
-  "timestamp": "2026-10-19T17:48:13.561289497Z",
+  "timestamp": "2026-10-19T20:23:20.071683380Z",
   "model": "glm-5.3"
 }

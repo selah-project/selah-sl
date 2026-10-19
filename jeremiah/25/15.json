@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חמה",
-      "rationale": "do besedno 'vročina' — jeza kot žareča vrelina vina jeze"
-    },
-    {
-      "kind": "addition",
-      "subject": "jeze",
-      "rationale": "slovenščina potrebuje pridevnik ('vina jeze'), hebrejščina ima samostalniški verižni status construct"
-    }
-  ],
-  "translation": "Kajti tako govori Jahve, Elohim Jisraelov, meni: Vzemi ⟨את⟩ čašo vina te jeze iz moje roke in daj popiti ⟨את⟩ vsem narodom, k katerim te pošiljam.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/25\/13-16.1792431522949.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti tako je govoreil Jahve, Elohim Jisraela, k meni: Vzemi ⟨את⟩ kelih vina jeze te iz moje roke in napojiš ⟨את⟩ njih — ⟨את⟩ vse narode, katerim te jaz pošiljam.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kajti"
+      "gloss": "kajti"
     },
     {
       "surface": "כה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "govori"
+      "gloss": "je govoreil"
     },
     {
       "surface": "יהוה",
@@ -50,24 +29,24 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelov"
+      "gloss": "Jisraela"
     },
     {
       "surface": "אלי",
-      "gloss": "meni"
+      "gloss": "k meni"
     },
     {
       "surface": "קח",
-      "gloss": "Vzemi"
+      "gloss": "vzemi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "čašo vina te jeze"
+      "marks": "kelih vina jeze"
     },
     {
       "surface": "כוס",
-      "gloss": "čašo"
+      "gloss": "kelih"
     },
     {
       "surface": "היין",
@@ -87,33 +66,33 @@
     },
     {
       "surface": "והשקיתה",
-      "gloss": "in daj popiti"
+      "gloss": "in napojiš"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "vsem narodom"
+      "marks": "njih"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vsem narodom"
+      "marks": "vse narode"
     },
     {
       "surface": "כל",
-      "gloss": "vsem"
+      "gloss": "vse"
     },
     {
       "surface": "הגוים",
-      "gloss": "narodom"
+      "gloss": "narode"
     },
     {
       "surface": "אשר",
-      "gloss": "k"
+      "gloss": "katerim"
     },
     {
       "surface": "אנכי",
-      "gloss": "te pošiljam — jaz"
+      "gloss": "jaz"
     },
     {
       "surface": "שלח",
@@ -121,13 +100,14 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ te"
+      "gloss": "⟨את⟩ te",
+      "marks": "katerim te pošiljam"
     },
     {
       "surface": "אליהם",
       "gloss": "k njim"
     }
   ],
-  "timestamp": "2026-10-19T17:38:42.950887413Z",
+  "timestamp": "2026-10-19T20:29:04.603904634Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jeruzalem",
-      "rationale": "Sprememba iz tretje osebe ('v tebi') v drugo žensko ('si jemala') proti mestu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "primnožilo",
-      "rationale": "תרבית je 'množenje' — obrest na obrest; ena beseda, ena slika."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨mene⟩",
-      "rationale": "Hebrejščina ima 'ואתי si pozabila' — את标记a poudarjeni predmet 'mene', v slovenščini dodan poudarek v oklepaju."
-    }
-  ],
-  "translation": "Darove ⟨za⟩ podkupnino so jemali v tebi, da bi prelivali kri; obresti in primnožilo si jemala, in svoje bližnje si izrivljala z nasiljem, ⟨mene⟩ pa si pozabila, govori Adonaj Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/22\/9-12.1792432406341.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Podkupnino so jemali v tebi, da bi prelivali kri; obresti in prirastek si vzela, svoje bližnje si izsiljevala z nadlegovanjem, ⟨את⟩ mene pa si pozabila — izrek Gospoda Jahveja.",
   "tokens": [
     {
       "surface": "שחד",
-      "gloss": "podkupnino"
+      "gloss": "podkupnina"
     },
     {
       "surface": "לקחו",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "ותרבית",
-      "gloss": "in primnožilo"
+      "gloss": "in prirastek"
     },
     {
       "surface": "לקחת",
-      "gloss": "si jemala"
+      "gloss": "si vzela"
     },
     {
       "surface": "ותבצעי",
-      "gloss": "in si izrivljala"
+      "gloss": "si izsiljevala"
     },
     {
       "surface": "רעיך",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "בעשק",
-      "gloss": "z nasiljem"
+      "gloss": "z nadlegovanjem"
     },
     {
       "surface": "ואתי",
@@ -92,17 +66,17 @@
     },
     {
       "surface": "נאם",
-      "gloss": "govori"
+      "gloss": "izrek"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonaj"
+      "gloss": "Gospoda"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahveja"
     }
   ],
-  "timestamp": "2026-10-19T17:53:26.342750650Z",
+  "timestamp": "2026-10-19T20:23:27.984990565Z",
   "model": "glm-5.3"
 }

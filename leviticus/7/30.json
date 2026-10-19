@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hole bom",
-      "rationale": "חלב je 'hole bom', najboljša delež, ne 'masto' nujno."
-    },
-    {
-      "kind": "crux",
-      "subject": "ognjene daritve",
-      "rationale": "אשי dobesedno 'njegove ognjene (daritve)'; prevodi se razhajajo med 'daritve, dane v ognju' in 'ognjene daritve'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dvig-dar",
-      "rationale": "תנופה je tehničen izraz za dvigajoče mahanje pred Jahvejem."
-    }
-  ],
-  "translation": "S svojimi rokami naj prinese ⟨את⟩ ognjene daritve Jahveja: ⟨את⟩ delež-prsi s hole bom prinese; ⟨את⟩ prsi, da ju dvigne kot dvig-dar pred obličjem Jahveja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/7\/29-32.1792423977249.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Njegove roke naj prinesejo ⟨את⟩ ognjene daritve Jahveja; ⟨את⟩ maščobo na prsih naj jo prinese, ⟨את⟩ prsi, da bi jih mahal z njimi ⟨את⟩ njih, z mahanjem pred Jahvejem.",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "s svojimi rokami"
+      "gloss": "njegove roke"
     },
     {
       "surface": "תביאינה",
-      "gloss": "naj prinese"
+      "gloss": "naj prinesejo"
     },
     {
       "surface": "את",
@@ -57,23 +31,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "delež"
+      "marks": "maščobo"
     },
     {
       "surface": "החלב",
-      "gloss": "delež-prsi (hole bom)"
+      "gloss": "maščobo"
     },
     {
       "surface": "על",
-      "gloss": "z"
+      "gloss": "na"
     },
     {
       "surface": "החזה",
-      "gloss": "prsmi"
+      "gloss": "prsih"
     },
     {
       "surface": "יביאנו",
-      "gloss": "prinese"
+      "gloss": "naj jo prinese"
     },
     {
       "surface": "את",
@@ -86,26 +60,26 @@
     },
     {
       "surface": "להניף",
-      "gloss": "da dvigne"
+      "gloss": "da bi mahal"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dvig-dar"
+      "marks": "njih"
     },
     {
       "surface": "תנופה",
-      "gloss": "kot dvig-dar"
+      "gloss": "z mahanjem"
     },
     {
       "surface": "לפני",
-      "gloss": "pred obličjem"
+      "gloss": "pred"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahveja"
+      "gloss": "Jahvejem"
     }
   ],
-  "timestamp": "2026-10-19T15:32:57.250565321Z",
+  "timestamp": "2026-10-19T20:34:27.828278299Z",
   "model": "glm-5.3"
 }

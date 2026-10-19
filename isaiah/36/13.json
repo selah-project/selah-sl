@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to men on the wall of Jerušalajim",
-      "rationale": "Ravšake se obrne neposredno na poslušalce na obzidju."
-    },
-    {
-      "kind": "addition",
-      "subject": "v judovskem jeziku",
-      "rationale": "יהודית je prislovni akuzativ 'judovsko'; slovenščina potrebuje samostalnik."
-    }
-  ],
-  "translation": "In stavši je Ravšake ter zaklical z velikim glasom v judovskem jeziku in rekel: Poslušajte ⟨את⟩ besede velikega kralja, kralja Asurja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/36\/13-16.1792430536270.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Ravšake je obstal ter zavpil z velikim glasom v judovskem jeziku in rekel: Poslušajte ⟨את⟩ besede velikega kralja, kralja Ašurja.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "in stavši je"
+      "gloss": "in je obstal"
     },
     {
       "surface": "רב",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "שקה",
-      "gloss": ""
+      "gloss": "(Ravšake)"
     },
     {
       "surface": "ויקרא",
-      "gloss": "ter zaklical"
+      "gloss": "ter zavpil"
     },
     {
       "surface": "בקול",
@@ -67,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "besede"
+      "marks": "besede velikega kralja"
     },
     {
       "surface": "דברי",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kralja"
+      "gloss": "kralj"
     },
     {
       "surface": "אשור",
-      "gloss": "Asurja"
+      "gloss": "Ašurja"
     }
   ],
-  "timestamp": "2026-10-19T17:22:16.271314853Z",
+  "timestamp": "2026-10-19T20:27:24.333308675Z",
   "model": "glm-5.3"
 }

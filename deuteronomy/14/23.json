@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mošt",
-      "rationale": "תירוש je svež grozdni sok, ne nujno vino."
-    },
-    {
-      "kind": "measurement",
-      "subject": "desetina in prvenstvo",
-      "rationale": "Verz našteva deleže — desetino pridelka in prvenstvo živine."
-    }
-  ],
-  "translation": "In jedel boš pred obličjem Jahve, svojega Elohima, na kraju, ki ga bo izbral, da bi tam prebivalo njegovo ime: desetino svojega žita, svojega mošta in svojega olja, prvenstvo svojega goveda in svoje drobnice, da bi se naučil bati Jahve, svojega Elohima, vse dni.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "9f5fa4d4e7042bf1b5b4f102bb65fea618a0615844d291d29dc1b99a1929c48d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/14\/21-24.1792425927383.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In jedel boš pred Jahvejem, svojim Elohimom, na kraju, ki ga bo izbral, da tam prebiva njegovo ime, desetino svojega žita, svojega mošta in svojega olja ter prvorojenčke svojega goveda in svoje drobnice, da se naučiš bati ⟨את⟩ Jahveja, svojega Elohima, vse dni.",
   "tokens": [
     {
       "surface": "ואכלת",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pred obličjem"
+      "gloss": "pred"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvejem"
     },
     {
       "surface": "אלהיך",
-      "gloss": "svojega Elohima"
+      "gloss": "svojim Elohimom"
     },
     {
       "surface": "במקום",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לשכן",
-      "gloss": "da bi prebivalo"
+      "gloss": "da prebiva"
     },
     {
       "surface": "שמו",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ובכרת",
-      "gloss": "in prvenstvo"
+      "gloss": "ter prvorojenčke"
     },
     {
       "surface": "בקרך",
@@ -98,24 +77,24 @@
     },
     {
       "surface": "למען",
-      "gloss": "da bi"
+      "gloss": "da"
     },
     {
       "surface": "תלמד",
-      "gloss": "se naučil"
+      "gloss": "se naučiš"
     },
     {
       "surface": "ליראה",
-      "gloss": "bati"
+      "gloss": "bati se"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve"
+      "marks": "Jahveja"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahveja"
     },
     {
       "surface": "אלהיך",
@@ -130,6 +109,6 @@
       "gloss": "dni"
     }
   ],
-  "timestamp": "2026-10-19T16:05:27.384563613Z",
+  "timestamp": "2026-10-19T20:19:41.947246359Z",
   "model": "glm-5.3"
 }

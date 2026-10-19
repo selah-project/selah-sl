@@ -5,48 +5,27 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מחצפה",
-      "rationale": "'nujna\/stroga' (od besede striči) — nekateri prevajajo 'prisilna', 'hitra'"
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "Zadnji די (pred נורא) se v slovenščini zlije s konstrukcijo 'plamen ognja' in ni ločeno izražen"
-    }
-  ],
-  "translation": "Vse zaradi tega, ker je bila beseda kralja nujna in peč razžgana izredno, je plamen ognja ubil tiste možje, ki so dvignili Šadraha, Meišaka in Abed-Nega.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "0359d7ce3d372823c5547351c09f803d646be5a471c1d897944bf779c144458e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/3\/21-24.1792437444773.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Prav zato, ker je bila beseda kralja nujna in je bil peč izredno razžgan, je plamen ognja ubil tiste moške, ki so dvignili Šadraka, Meišaka in Abed-Nega.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Vse"
+      "gloss": "prav"
     },
     {
       "surface": "קבל",
-      "gloss": "zaradi"
+      "gloss": "zato"
     },
     {
       "surface": "דנה",
-      "gloss": "tega"
-    },
-    {
-      "surface": "מן",
       "gloss": "ker"
     },
     {
+      "surface": "מן",
+      "gloss": "iz"
+    },
+    {
       "surface": "די",
-      "gloss": "da"
+      "gloss": "ker"
     },
     {
       "surface": "מלת",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אזה",
-      "gloss": "razžgana"
+      "gloss": "razžgan"
     },
     {
       "surface": "יתירא",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "גבריא",
-      "gloss": "možje"
+      "gloss": "moške"
     },
     {
       "surface": "אלך",
-      "gloss": "tisti"
+      "gloss": "tiste"
     },
     {
       "surface": "די",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "לשדרך",
-      "gloss": "Šadraha"
+      "gloss": "Šadraka"
     },
     {
       "surface": "מישך",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "קטל",
-      "gloss": "ubil"
+      "gloss": "je ubil"
     },
     {
       "surface": "המון",
-      "gloss": "jih"
+      "gloss": ""
     },
     {
       "surface": "שביבא",
@@ -125,6 +104,6 @@
       "gloss": "ognja"
     }
   ],
-  "timestamp": "2026-10-19T19:17:24.776522286Z",
+  "timestamp": "2026-10-19T20:19:05.499416785Z",
   "model": "glm-5.3"
 }

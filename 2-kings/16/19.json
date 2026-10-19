@@ -5,40 +5,19 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨so⟩",
-      "rationale": "Slovenščina potrebuje pomožni glagol, hebrejščina ga pri pasivnem deležniku nima — označiti v prevodu."
-    },
-    {
-      "kind": "invitation",
-      "subject": "retorično vprašanje",
-      "rationale": "Verz braleca nagovarja z retoričnim vprašanjem 'ali niso zapisani'."
-    }
-  ],
-  "translation": "Preostale deeds Ahasa, ki jih je storil, ali niso zapisani v knjigi dejanj dni kraljev Jehude?",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a5cc649ff12461568591e7b1c8d6e1868461dac114d3a43ed9d460bf9604a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/16\/17-20.1792429732649.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Preostanek dejanj Ahaza, ki jih je storil, ali niso pisani v knjigi dejanj dni kraljev Judove?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "preostale"
+      "gloss": "preostanek"
     },
     {
       "surface": "דברי",
-      "gloss": "deeds"
+      "gloss": "dejanj"
     },
     {
       "surface": "אחז",
-      "gloss": "Ahasa"
+      "gloss": "Ahaza"
     },
     {
       "surface": "אשר",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "הם",
-      "gloss": ""
+      "gloss": "ne"
     },
     {
       "surface": "כתובים",
-      "gloss": "zapisani"
+      "gloss": "pisani"
     },
     {
       "surface": "על",
@@ -82,9 +61,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehude"
+      "gloss": "Judove"
     }
   ],
-  "timestamp": "2026-10-19T17:08:52.650357574Z",
+  "timestamp": "2026-10-19T20:16:59.525574833Z",
   "model": "glm-5.3"
 }

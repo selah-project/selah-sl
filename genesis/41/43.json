@@ -5,42 +5,16 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "אברך",
-      "rationale": "edomovska\/egipčanska beseda, samo tukaj; KJV 'pokleknite' (iz berek, klečati) against egipčansko 'pozor\/pozdrav'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויתן אתו",
-      "rationale": "infinitiv: 'da ga postavi' — postavitev kot namen dejanja, ne ločen dogodek"
-    },
-    {
-      "kind": "you",
-      "subject": "Avreh",
-      "rationale": "klic množice pred Jožefom — nagovor ljudstva"
-    }
-  ],
-  "translation": "In pomeril ga je ⟨את⟩ v drugo vozno kočijo, ki je bila njegova, in klicali so pred njim Avreh, ⟨ko⟩ ga postavlja nad vso deželo Micrajim.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/41-44.1792422848122.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ga je posadil ⟨את⟩ v drugo vozno kočijo, ki je bila njegova, in pred njim so klicali: Abreh! — in ⟨je⟩ ga postavil ⟨את⟩ nad vso deželo Micrajim.",
   "tokens": [
     {
       "surface": "וירכב",
-      "gloss": "in pomeril"
+      "gloss": "in ga je posadil (v voz)"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga",
-      "marks": "v drugo vozno kočijo"
+      "gloss": "⟨את⟩",
+      "marks": "ga — drugo vozno kočijo"
     },
     {
       "surface": "במרכבת",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "המשנה",
-      "gloss": "drugo"
+      "gloss": "drugo (pom.mb. drugo po ranku)"
     },
     {
       "surface": "אשר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "ויקראו",
-      "gloss": "in klicali so"
+      "gloss": "in so klicali"
     },
     {
       "surface": "לפניו",
@@ -68,16 +42,16 @@
     },
     {
       "surface": "אברך",
-      "gloss": "Avreh"
+      "gloss": "Abreh!"
     },
     {
-      "surface": "ויתן",
-      "gloss": "postavil"
+      "surface": "ונתון",
+      "gloss": "in ⟨je⟩ postavil"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga",
-      "marks": "ga"
+      "gloss": "⟨את⟩",
+      "marks": "ga — nad vso deželo Micrajim"
     },
     {
       "surface": "על",
@@ -96,6 +70,6 @@
       "gloss": "Micrajim"
     }
   ],
-  "timestamp": "2026-10-19T15:14:08.123754339Z",
+  "timestamp": "2026-10-19T20:26:22.251505508Z",
   "model": "glm-5.3"
 }

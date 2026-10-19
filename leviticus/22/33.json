@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "hebrejščina nima glagola 'biti' — dodan pomožni glagol v slovenščini"
-    },
-    {
-      "kind": "substitution",
-      "subject": "za Elohima",
-      "rationale": "להיות לכם לאלהי׍ doslovno 'biti vam za Elohima'; slovenščina potrebuje predlog 'za'"
-    }
-  ],
-  "translation": "ki vas je izpeljal iz dežele Micrajim, da vam bodi ⟨za⟩ Elohima; jaz sem Jahve.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a61ecc0ef134683dbc68551a4b08fec134a12d24fa4a0ed82445bed2a0e6712f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/22\/33-33.1792424381243.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ki ⟨je⟩ vas izpeljal ⟨את⟩ iz dežele Micrajim, da bi bil vam za Elohim; jaz sem Jahve.",
   "tokens": [
     {
       "surface": "המוציא",
-      "gloss": "ki je izpeljal"
+      "gloss": "Ki je izpeljal"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ vas",
       "marks": "vas"
     },
     {
@@ -47,7 +26,7 @@
     },
     {
       "surface": "להיות",
-      "gloss": "da bodi"
+      "gloss": "da bi bil"
     },
     {
       "surface": "לכם",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "Elohimu"
+      "gloss": "za Elohim"
     },
     {
       "surface": "אני",
@@ -66,6 +45,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T15:39:41.243726937Z",
+  "timestamp": "2026-10-19T20:33:49.923833344Z",
   "model": "glm-5.3"
 }

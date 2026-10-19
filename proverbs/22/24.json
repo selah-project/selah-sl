@@ -5,61 +5,41 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תתרע",
-      "rationale": "התרוע pogosto 'tresti se \/ trepeti'; KJV 'prijateljuj se' je posvojen pomen."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אף \/ חמה",
-      "rationale": "dva izraza za jezo: 'nos\/jes' in 'vročina'."
-    }
-  ],
-  "translation": "Ne druži se ⟨את⟩ z jarim možem in z možem vročih jezikov ne hodí:",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/22\/21-24.1792436071276.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne sprijatelji se ⟨s⟩ ⟨את⟩ možem jeze in k ⟨את⟩ možu vročine ne hodi.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "תתרע",
-      "gloss": "druži se"
+      "gloss": "se sprijatelji"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "z jarim možem"
+      "marks": "možem jeze"
     },
     {
       "surface": "בעל",
-      "gloss": "z gospodarom"
+      "gloss": "možem"
     },
     {
       "surface": "אף",
-      "gloss": "jarosti"
+      "gloss": "jeze"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ z"
+      "gloss": "⟨את⟩",
+      "marks": "možu vročine"
     },
     {
       "surface": "איש",
-      "gloss": "z možem"
+      "gloss": "možu"
     },
     {
       "surface": "חמות",
-      "gloss": "vročih jezikov"
+      "gloss": "vročine"
     },
     {
       "surface": "לא",
@@ -67,9 +47,9 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "hodí"
+      "gloss": "hodi"
     }
   ],
-  "timestamp": "2026-10-19T18:54:31.277370018Z",
+  "timestamp": "2026-10-19T20:37:08.177863250Z",
   "model": "glm-5.3"
 }

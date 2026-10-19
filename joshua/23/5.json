@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨je tisti, ki⟩",
-      "rationale": "hebrejščina postavi samo poudarni הוא (on); slovenščina potrebuje veznik"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הוריש \/ ירשתם",
-      "rationale": "isti koren ירש: odgnati in podedovati — jaz odganjam, vi podedujete"
-    }
-  ],
-  "translation": "In Jahve, vaš Elohim, ⟨je tisti, ki⟩ jih bo pregnal izpred vas in jih odgnal izpred vas, in vi boste zavzeli ⟨את⟩ njihovo deželo, kakor je govoril Jahve, vaš Elohim, vam.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/23\/5-8.1792426913234.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jahve, vaš Elohim, on bo izrinil njih izpred vas in jih pregnal izpred vas, in vi boste podedovali ⟨את⟩ njihovo deželo, kakor je govoril Jahve, vaš Elohim, vam.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "יהדפם",
-      "gloss": "jih bo pregnal"
+      "gloss": "bo izrinil njih"
     },
     {
       "surface": "מפניכם",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "והוריש",
-      "gloss": "in odgnal"
+      "gloss": "in bo pregnal"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jih (narodi)"
+      "marks": "njih (narode)"
     },
     {
       "surface": "מלפניכם",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וירשתם",
-      "gloss": "in vi boste zavzeli"
+      "gloss": "in vi boste podedovali"
     },
     {
       "surface": "את",
@@ -95,6 +74,6 @@
       "gloss": "vam"
     }
   ],
-  "timestamp": "2026-10-19T16:21:53.235118461Z",
+  "timestamp": "2026-10-19T20:31:42.595134670Z",
   "model": "glm-5.3"
 }

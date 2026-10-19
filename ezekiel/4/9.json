@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Ezekielu",
-      "rationale": "Jahve ukazuje preroku neposredno: vzemi, daj, naredi."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tristo devetdeset dni",
-      "rationale": "Natančno število dni obleganja, določeno kot merilo."
-    },
-    {
-      "kind": "crux",
-      "subject": "וכסמים",
-      "rationale": "spelt (pira) — KJV 'fitches' (komolček) je napačna identifikacija."
-    }
-  ],
-  "translation": "In ti vzemi sebi pšeno in ječmen, bob, lečo, proso in pir⟩o ter jih daj v eno posodo, in naredi si iz njih kruh; po številu dni, ki jih ležiš na svoji strani — tristo devetdeset dni — ⟨ga⟩ boš jedel.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/4\/9-12.1792432102988.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ti vzemi sebi pšenico in ječmen, bob in lečo, proso in piro, in dáj ⟨את⟩ njih v eno posodo, in naredi ⟨את⟩ njih sebi za kruh; po številu dni, ki jih ležiš na svoji strani — tristo devetdeset dni — jih boš jedel.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "חטין",
-      "gloss": "pšeno"
+      "gloss": "pšenico"
     },
     {
       "surface": "ושערים",
@@ -55,28 +29,28 @@
     },
     {
       "surface": "ופול",
-      "gloss": "bob"
+      "gloss": "in bob"
     },
     {
       "surface": "ועדשים",
-      "gloss": "leča"
+      "gloss": "in lečo"
     },
     {
       "surface": "ודחן",
-      "gloss": "proso"
+      "gloss": "in proso"
     },
     {
       "surface": "וכסמים",
-      "gloss": "pira"
+      "gloss": "in piro"
     },
     {
       "surface": "ונתתה",
-      "gloss": "in dáš"
+      "gloss": "in dáj"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "pšeno, ječmen, bob, lečo, proso, piro"
+      "gloss": "⟨את⟩",
+      "marks": "njih"
     },
     {
       "surface": "בכלי",
@@ -88,12 +62,12 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "in narediš"
+      "gloss": "in naredi"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "jih (žita)"
+      "gloss": "⟨את⟩",
+      "marks": "njih"
     },
     {
       "surface": "לך",
@@ -137,7 +111,7 @@
     },
     {
       "surface": "מאות",
-      "gloss": "(sto)"
+      "gloss": ""
     },
     {
       "surface": "ותשעים",
@@ -149,9 +123,9 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "boš jedel"
+      "gloss": "jih boš jedel"
     }
   ],
-  "timestamp": "2026-10-19T17:48:22.989522898Z",
+  "timestamp": "2026-10-19T20:23:59.958594659Z",
   "model": "glm-5.3"
 }

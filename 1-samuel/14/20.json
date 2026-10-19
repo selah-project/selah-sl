@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויזעק",
-      "rationale": "Niphal: »je bil poklican\/sklican« (YL T, KJV) ali »je zaklical« (Wycliffe); prevzemanjem pasivne oblike"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨je⟩",
-      "rationale": "slovenščina zahteva glagol biti v odvisniku"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרב איש ברעהו",
-      "rationale": "obrat: meč vsakega moža proti njegovemu SOSEDU — Filistinci se sekajo med sabo, ponovitev iz 14,14"
-    }
-  ],
-  "translation": "In Šaul in vse ljudstvo, ki ⟨je⟩ ⟨z njim⟩, sta bila sklicana, in prišli so do boja; in glej: meč vsakega moža je bil proti njegovemu bližnjemu — zmeda velika zelo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/14\/17-20.1792427775652.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zavpil je Šaul in ves ljudstvo, ki je bilo ⟨את⟩ z njim, in prišli so do bitke; in glej, meč vsakega moža je bil ⟨proti⟩ njegovemu bližnjemu — zmeda zelo velika.",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "sta bila sklicana"
+      "gloss": "in zavpil"
     },
     {
       "surface": "שאול",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "in vse"
+      "gloss": "in ves"
     },
     {
       "surface": "העם",
@@ -56,7 +30,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ z njim",
-      "marks": "ljudstvo, ki je z njim"
+      "marks": "z njim"
     },
     {
       "surface": "ויבאו",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "boja"
+      "gloss": "bitve"
     },
     {
       "surface": "והנה",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ברעהו",
-      "gloss": "proti njegovemu bližnjemu"
+      "gloss": "⟨proti⟩ njegovemu bližnjemu"
     },
     {
       "surface": "מהומה",
@@ -103,6 +77,6 @@
       "gloss": "zelo"
     }
   ],
-  "timestamp": "2026-10-19T16:36:15.654138953Z",
+  "timestamp": "2026-10-19T20:15:06.687241506Z",
   "model": "glm-5.3"
 }

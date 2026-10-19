@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מאפכם",
-      "rationale": "Dobesedno 'iz vaših nosov' — af pomeni nos\/nostril, ne dih."
-    },
-    {
-      "kind": "hapax",
-      "subject": "זרא",
-      "rationale": "Samostalnik 'zgaga\/odvornost' (z z vzklikom זרוע iz 2 Mz) je izjemno redek; tukaj kot samostalnik."
-    }
-  ],
-  "translation": "temveč ves mesec dni, dokler ne pride iz vaših nosov, in postal vam bo odvaren, ker ste zasovražili ⟨את⟩ Jahveja, ki je med vami, in jokali ste pred njim, ko ste govorili: Zakaj smo sploh izšli iz Micrajima?",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "f6b5814ac3e3241e8a8dd0db04a7564fb544f5291eaf45198bd62097c2f5a9ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/11\/17-20.1792425048920.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Do meseca dni, dokler vam ne pride iz vaših nosov in vam ⟨bo⟩ v gnus, ker ste zavrgli ⟨את⟩ Jahveja, ki je sredi vas, in ste jokali pred njim ter rekli: Zakaj smo sploh šli iz Micrajima?",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "ves"
+      "gloss": "do"
     },
     {
       "surface": "חדש",
-      "gloss": "mesec"
+      "gloss": "meseca"
     },
     {
       "surface": "ימים",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "dokler ne"
+      "gloss": "dokler"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "da"
     },
     {
       "surface": "יצא",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "in postal bo"
+      "gloss": "in ⟨bo⟩ v"
     },
     {
       "surface": "לכם",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "לזרא",
-      "gloss": "odvaren"
+      "gloss": "gnus"
     },
     {
       "surface": "יען",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ker"
+      "gloss": "da"
     },
     {
       "surface": "מאסתם",
-      "gloss": "ste zasovražili"
+      "gloss": "ste zavrgli"
     },
     {
       "surface": "את",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "בקרבכם",
-      "gloss": "je med vami"
+      "gloss": "je sredi vas"
     },
     {
       "surface": "ותבכו",
-      "gloss": "in jokali ste"
+      "gloss": "in ste jokali"
     },
     {
       "surface": "לפניו",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ko ste govorili"
+      "gloss": "ter rekli"
     },
     {
       "surface": "למה",
@@ -119,13 +98,13 @@
     },
     {
       "surface": "יצאנו",
-      "gloss": "smo izšli"
+      "gloss": "smo šli"
     },
     {
       "surface": "ממצרים",
       "gloss": "iz Micrajima"
     }
   ],
-  "timestamp": "2026-10-19T15:50:48.921472373Z",
+  "timestamp": "2026-10-19T20:35:25.257518085Z",
   "model": "glm-5.3"
 }

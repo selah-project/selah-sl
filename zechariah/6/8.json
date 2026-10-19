@@ -5,37 +5,16 @@
   "book": "zechariah",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "moja ruah",
-      "rationale": "ruah tukaj 'duh\/veter' — 'so pomirili mojega duha' (KJV 'quieted my spirit') ali 'so dali počitek moji jezi' (jeza = trebušna slika נוח); ki jo umirijo, so ruah iz v. 5"
-    },
-    {
-      "kind": "substitution",
-      "subject": "umirili",
-      "rationale": "הניחו dobesedno 'dali so počivati \/ umirili' — pomiritev je dosežena stanje, ne le umiritev"
-    }
-  ],
-  "translation": "In zaklical me je ter govoril meni, rekoč: Glej, ti, ki gredo v deželo severa, so umirili ⟨את⟩ mojo ruah v deželi severa.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/zechariah\/6\/5-8.1792434403814.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zaklical se je ⟨name⟩ k meni in govoril ⟨z menoj⟩ ter rekel: Poglej, tisti, ki hodijo v deželo severa, so spravili k počitku ⟨את⟩ mojo ruah v deželi severa.",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "in zaklical je"
+      "gloss": "in zaklical se je"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "me"
+      "marks": "in govoril"
     },
     {
       "surface": "וידבר",
@@ -43,19 +22,19 @@
     },
     {
       "surface": "אלי",
-      "gloss": "meni"
+      "gloss": "k meni"
     },
     {
       "surface": "לאמר",
-      "gloss": "rekoč"
+      "gloss": "ter rekel"
     },
     {
       "surface": "ראה",
-      "gloss": "glej"
+      "gloss": "Poglej"
     },
     {
       "surface": "היוצאים",
-      "gloss": "ki gredo"
+      "gloss": "tisti, ki hodijo"
     },
     {
       "surface": "אל",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "so umirili"
+      "gloss": "so spravili k počitku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mojo ruah"
+      "marks": "moja ruah"
     },
     {
       "surface": "רוחי",
-      "gloss": "mojo ruah"
+      "gloss": "moja ruah"
     },
     {
       "surface": "בארץ",
@@ -91,6 +70,6 @@
       "gloss": "severa"
     }
   ],
-  "timestamp": "2026-10-19T18:26:43.818933362Z",
+  "timestamp": "2026-10-19T20:38:17.641964833Z",
   "model": "glm-5.3"
 }

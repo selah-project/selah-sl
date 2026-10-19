@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "elohim drugim",
-      "rationale": "אלהים אחרים — 'drugim bogovom' z malo po pravilih; Elohim z veliko je samo Izraelov Bog."
-    }
-  ],
-  "translation": "In izrekel bom svoje sodbe nad njimi ⟨glede⟩ vse njihove hudobije, ker so me zapustili in kadili drugim elohimom in se priklanjali delom svojih rok.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/1\/13-16.1792431014945.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In izrekel bom svoje sodbe nad ⟨את⟩ njimi zaradi vse njihove hudobije, ker so me zapustili, kadili drugim bogovom in se priklanjali delom svojih rok.",
   "tokens": [
     {
       "surface": "ודברתי",
@@ -33,8 +17,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "njimi"
+      "gloss": "⟨את⟩ njimi",
+      "marks": "njimi — zaimenski predmet sodb"
     },
     {
       "surface": "על",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "רעתם",
-      "gloss": "njihove hudobije"
+      "gloss": "njihovo hudobijo"
     },
     {
       "surface": "אשר",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "drugim elohimom"
+      "gloss": "drugim bogovom"
     },
     {
       "surface": "אחרים",
@@ -81,6 +65,6 @@
       "gloss": "svojih rok"
     }
   ],
-  "timestamp": "2026-10-19T17:30:14.946302570Z",
+  "timestamp": "2026-10-19T20:28:02.652892300Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,16 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נאסף אל עמי",
-      "rationale": "dobra slovenščina: 'sem zbran h svojemu ljudstvu' —一格athering idiom za umrljenje."
-    }
-  ],
-  "translation": "In ukazal ⟨jim⟩ je in rekel ⟨jim⟩: Jaz sem zbran h k svojemu ljudstvu; pokopljite ⟨את⟩ mene h svojim očetom, v jamo, ki je na polju Efrona Hetejca.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a33527899d60e9fdd3d1c851099961a8f996658e25a20fc2b16ee53ed9aa957a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/49\/29-32.1792423028289.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zapovedal je ⟨את⟩ njim in rekel jim: Jaz sem zbran k svojemu ljudstvu; pokopljite ⟨את⟩ me k mojim očetom, v jamo, ki je na polju Efrona Hetita.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "in ukazal"
+      "gloss": "zapovedal je"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨jim⟩"
+      "gloss": "⟨את⟩ njim",
+      "marks": "njim (sinovi Jisraela)"
     },
     {
       "surface": "ויאמר",
@@ -37,7 +22,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "⟨jim⟩"
+      "gloss": "njim"
     },
     {
       "surface": "אני",
@@ -49,7 +34,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "h"
+      "gloss": "k"
     },
     {
       "surface": "עמי",
@@ -61,15 +46,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
     },
     {
       "surface": "אל",
-      "gloss": "h"
+      "gloss": "k"
     },
     {
       "surface": "אבתי",
-      "gloss": "svojim očetom"
+      "gloss": "mojim očetom"
     },
     {
       "surface": "אל",
@@ -81,11 +67,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki je"
     },
     {
       "surface": "בשדה",
-      "gloss": "je na polju"
+      "gloss": "na polju"
     },
     {
       "surface": "עפרון",
@@ -93,9 +79,9 @@
     },
     {
       "surface": "החתי",
-      "gloss": "Hetejca"
+      "gloss": "Hetita"
     }
   ],
-  "timestamp": "2026-10-19T15:17:08.289964270Z",
+  "timestamp": "2026-10-19T20:26:30.356857242Z",
   "model": "glm-5.3"
 }

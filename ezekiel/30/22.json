@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הנני אל פרעה",
-      "rationale": "dobesedno 'glej, jaz nad\/k Parohom' — večina: 'jaz sem proti Parohu'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "padla bo meč",
-      "rationale": "הפיל dobesedno 'pahniti padati'; slovenščina zahteva aktiven glagol 'izpustil bom meč'"
-    }
-  ],
-  "translation": "Zato tako govori Adonaj Jahve: Glede Paroha, kralja Micrajima, sem jaz, in zlomil bom njegove roke — ⟨את⟩ močno in ⟨את⟩ že zlomljeno — ter padla bo meč iz njegove roke.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/30\/21-24.1792432573997.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato tako govori Adonaj Jahve: Glede, jaz sem proti Faraonu, kralju Micrajima, in prelomil bom ⟨את⟩ njegovi roki, ⟨את⟩ močno in ⟨את⟩ že prelomljeno, in porinil bom ⟨את⟩ meč iz njegove roke.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Zato"
+      "gloss": "zato"
     },
     {
       "surface": "כה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Glede"
+      "gloss": "glede, jaz sem"
     },
     {
       "surface": "אל",
@@ -58,28 +37,28 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroha"
+      "gloss": "Farao"
     },
     {
       "surface": "מלך",
-      "gloss": "kralja"
+      "gloss": "kralj"
     },
     {
       "surface": "מצרים",
-      "gloss": "Micrajima"
+      "gloss": "Micrajim"
     },
     {
       "surface": "ושברתי",
-      "gloss": "in zlomil bom"
+      "gloss": "in prelomil bom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njegove roke"
+      "marks": "njegovi roki"
     },
     {
       "surface": "זרעתיו",
-      "gloss": "njegove roke"
+      "gloss": "njegovi roki"
     },
     {
       "surface": "את",
@@ -93,15 +72,15 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "že zlomljeno"
+      "marks": "že prelomljeno"
     },
     {
       "surface": "הנשברת",
-      "gloss": "že zlomljeno"
+      "gloss": "že prelomljeno"
     },
     {
       "surface": "והפלתי",
-      "gloss": "in padla bo"
+      "gloss": "in porinil bom"
     },
     {
       "surface": "את",
@@ -117,6 +96,6 @@
       "gloss": "iz njegove roke"
     }
   ],
-  "timestamp": "2026-10-19T17:56:13.998308073Z",
+  "timestamp": "2026-10-19T20:23:33.019279043Z",
   "model": "glm-5.3"
 }

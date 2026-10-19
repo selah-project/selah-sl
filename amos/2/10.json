@@ -5,36 +5,20 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "štirideset let",
-      "rationale": "Štetje let puščavske poti."
-    }
-  ],
-  "translation": "In jaz sem vas popeljal gor iz dežele Micrajim in vodil vas po puščavi štirideset let, da bi ⟨zavzeli⟩ ⟨את⟩ deželo Emorijca.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "43d2e154267841f210e7ca85ba64e9495a4a05f5cbcb119e33166a3c35f0bb66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/2\/9-12.1792433965753.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In jaz sem vas dvignil ⟨את⟩ iz dežele Micrajim in sem vas vodil ⟨את⟩ po puščavi štirideset let, da zasedete ⟨את⟩ deželo Emorijca.",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "in jaz"
+      "gloss": "In jaz"
     },
     {
       "surface": "העליתי",
-      "gloss": "sem popeljal gor"
+      "gloss": "sem dvignil"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vas"
+      "marks": "iz dežele Micrajim"
     },
     {
       "surface": "מארץ",
@@ -46,12 +30,12 @@
     },
     {
       "surface": "ואולך",
-      "gloss": "in vodil"
+      "gloss": "in sem vodil"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vas"
+      "marks": "po puščavi"
     },
     {
       "surface": "במדבר",
@@ -67,7 +51,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "da bi zavzeli"
+      "gloss": "da zasedete"
     },
     {
       "surface": "את",
@@ -83,6 +67,6 @@
       "gloss": "Emorijca"
     }
   ],
-  "timestamp": "2026-10-19T18:19:25.754958455Z",
+  "timestamp": "2026-10-19T20:18:54.327988236Z",
   "model": "glm-5.3"
 }

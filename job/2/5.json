@@ -5,32 +5,11 @@
   "book": "job",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "blagoslovil",
-      "rationale": "יברכך je dobesedno 'te bo blagoslovil', evfemizem za preklinjanje; prevodi se delijo med 'blagoslovil' (ylt), 'preklinjal' (kcv) in 'zavrnil' (asv)."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "hebrejska prisegna 'če ne …' pomeni 'gotovo bo'; doslovno ohranjeno."
-    }
-  ],
-  "translation": "Ampak iztegni, prosim, svojo roko in se dotakni njegove kosti in njegovega mesa — če ne, v tvoje obličje te bo blagoslovil.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/2\/5-8.1792436254328.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vendar pa iztegni zdaj svojo roko in se dotakni njegovih kosti in njegovega mesa — če ne, ⟨te⟩ bo v obličje ⟨prenejhe⟩ blagoslovil!",
   "tokens": [
     {
       "surface": "אולם",
-      "gloss": "ampak"
+      "gloss": "Vendar pa"
     },
     {
       "surface": "שלח",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "prosím"
+      "gloss": "zdaj"
     },
     {
       "surface": "ידך",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "bliži se"
     },
     {
       "surface": "עצמו",
-      "gloss": "njegove kosti"
+      "gloss": "njegovih kosti"
     },
     {
       "surface": "ואל",
-      "gloss": "in"
+      "gloss": "in bliži se"
     },
     {
       "surface": "בשרו",
-      "gloss": "njegovega mesa"
+      "gloss": "njegovemu mesu"
     },
     {
       "surface": "אם",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "פניך",
-      "gloss": "tvoje obličje"
+      "gloss": "obličje tvoje"
     },
     {
       "surface": "יברכך",
       "gloss": "te bo blagoslovil"
     }
   ],
-  "timestamp": "2026-10-19T18:57:34.328985494Z",
+  "timestamp": "2026-10-19T20:30:03.921526293Z",
   "model": "glm-5.3"
 }

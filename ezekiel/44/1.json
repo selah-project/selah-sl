@@ -5,40 +5,24 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "so bila",
-      "rationale": "hebrejščina nima glagola biti v preteriku"
-    }
-  ],
-  "translation": "In povrnil me je po poti vrat zunanjega svetišča, ki gledajo proti vzhodu, in ona so bila zaprta.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/44\/1-4.1792433682705.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In pripeljal me je ⟨nazaj⟩ po poti ⟨את⟩ vrat svetišča zunanjega, obrnjenih proti vzhodu, in ⟨ta⟩ so bila ⟨zaprta⟩.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "povrnil"
+      "gloss": "in pripeljal ⟨nazaj⟩"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "po poti"
+      "marks": "me \/ poti"
     },
     {
       "surface": "דרך",
-      "gloss": "poti"
+      "gloss": "po poti"
     },
     {
       "surface": "שער",
-      "gloss": "vrat"
+      "gloss": "vrata"
     },
     {
       "surface": "המקדש",
@@ -50,21 +34,21 @@
     },
     {
       "surface": "הפנה",
-      "gloss": "gledajo"
+      "gloss": "obrnjenih proti"
     },
     {
       "surface": "קדים",
-      "gloss": "proti vzhodu"
+      "gloss": "vzhodu"
     },
     {
       "surface": "והוא",
-      "gloss": "in ona"
+      "gloss": "in ⟨ta⟩"
     },
     {
       "surface": "סגור",
       "gloss": "zaprta"
     }
   ],
-  "timestamp": "2026-10-19T18:14:42.706916242Z",
+  "timestamp": "2026-10-19T20:24:23.651825220Z",
   "model": "glm-5.3"
 }

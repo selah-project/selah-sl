@@ -5,40 +5,19 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אם",
-      "rationale": "'čeprav' (KJV, JPS) ali 'samo če \/ če' — pogojni ali koncesivni odvisnik"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ne bom všeč",
-      "rationale": "ארצה dobesedno 'ne bom zadovoljen \/ ne sprejmem'"
-    }
-  ],
-  "translation": "Če mi darujete ⟨את⟩ žgalne daritve in ⟨את⟩ svoje daritve מנחה, ne bom všeč ⟨jim⟩; ⟨את⟩ zahrbtno tele vaših zahvalnih daritev ne bom gledal.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/5\/21-24.1792433965750.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Čeprav mi prinesete ⟨את⟩ žgalne daritve in vaše mine, jih ne bom sprejel, in zahvalnih daritve vaših pitanih telet ne bom pogledal.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Če"
+      "gloss": "čeprev"
     },
     {
       "surface": "אם",
-      "gloss": "--"
+      "gloss": "če"
     },
     {
       "surface": "תעלו",
-      "gloss": "darujete"
+      "gloss": "prinesete"
     },
     {
       "surface": "לי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ומנחתיכם",
-      "gloss": "in svoje daritve מנחה"
+      "gloss": "in vaše mine"
     },
     {
       "surface": "לא",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "ארצה",
-      "gloss": " bom všeč ⟨jim⟩ "
+      "gloss": "bom sprejel"
     },
     {
       "surface": "ושלם",
-      "gloss": "zahvalnih daritev"
+      "gloss": "in zahvalne daritve"
     },
     {
       "surface": "מריאיכם",
-      "gloss": "zahrbtno tele vaših"
+      "gloss": "vaših pitanih telet"
     },
     {
       "surface": "לא",
@@ -74,9 +53,9 @@
     },
     {
       "surface": "אביט",
-      "gloss": " bom gledal"
+      "gloss": "bom pogledal"
     }
   ],
-  "timestamp": "2026-10-19T18:19:25.753089767Z",
+  "timestamp": "2026-10-19T20:56:41.326440214Z",
   "model": "glm-5.3"
 }

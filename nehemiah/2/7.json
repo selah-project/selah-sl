@@ -5,28 +5,7 @@
   "book": "nehemiah",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "טוב על המלך",
-      "rationale": "dobesedno 'dobro nad kralju', tj. če je kralju po volji"
-    },
-    {
-      "kind": "elision",
-      "subject": "הנהר",
-      "rationale": "'reka' brez imena — onstran (Evfrata), slovenščina brez določitve"
-    }
-  ],
-  "translation": "In rekel sem ⟨⟨kralju⟩⟩: Če je ⟨⟨kralju⟩⟩ dobro, naj mi dájo pisma za namestnike onstran reke, naj me sprevodijo, dokler ne pridem v Jehudo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "2784d643033be86d5492969d579d6efefed8fc218155a0296243b073685de904",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/2\/5-8.1792437790331.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekel sem kralju: Če je kralju dobro, naj mi dájo pisma za paché dežele onkraj reke, da me sprevodijo, dokler ne pridem v Jehudo.",
   "tokens": [
     {
       "surface": "ואומר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨je⟩"
+      "gloss": "za"
     },
     {
       "surface": "המלך",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "dobro"
+      "gloss": "je dobro"
     },
     {
       "surface": "אגרות",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "פחוות",
-      "gloss": "namestnike"
+      "gloss": "paché"
     },
     {
       "surface": "עבר",
-      "gloss": "onstran"
+      "gloss": "onkraj"
     },
     {
       "surface": "הנהר",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "naj"
+      "gloss": "da"
     },
     {
       "surface": "יעבירוני",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ko"
+      "gloss": "ne"
     },
     {
       "surface": "אבוא",
@@ -109,6 +88,6 @@
       "gloss": "Jehudo"
     }
   ],
-  "timestamp": "2026-10-19T19:23:10.332527884Z",
+  "timestamp": "2026-10-19T20:34:56.014870289Z",
   "model": "glm-5.3"
 }

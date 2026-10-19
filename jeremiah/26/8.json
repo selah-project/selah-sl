@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מות תמות",
-      "rationale": "neodvisni infin. + glagol: dobesedno 'umreti boš umrl', slovenski popolnivi glagol 'smrt boš umrl'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨boš⟩",
-      "rationale": "glagol 'biti' v prihodniku dodan v slovenščini; hebrejščina ga nima."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויתפשו ... אתו",
-      "gloss": "zgrabili so ga: תפש z אתו ponazarja fizično prijetje preroka takoj po govoru."
-    }
-  ],
-  "translation": "In zgodilo se je, ko je Jeremija končal govoriti ⟨את⟩ vse, kar je Jahve zapovedal govoriti vsemu ljudstvu, so ga zgrabili duhovniki in preroki in vse ljudstvo, rekoč: Smrt ⟨boš⟩ umrl.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/26\/5-8.1792431494552.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodbilo se je, ko je Jeremija končal govoriti ⟨את⟩ vse, kar je Jahve zapovedal govoriti vsemu ljudstvu, so ⟨את⟩ ga zagrabili duhovniki in preroki in vse ljudstvo ⟨z besedami⟩: Smrt ⟨boš⟩ umrl.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "In zgodilo se je"
+      "gloss": "In zgodbilo se je"
     },
     {
       "surface": "ככלות",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "je zapovedal"
+      "gloss": "zapovedal"
     },
     {
       "surface": "יהוה",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "vsemu"
     },
     {
       "surface": "כל",
@@ -88,12 +62,12 @@
     },
     {
       "surface": "ויתפשו",
-      "gloss": "so ga zgrabili"
+      "gloss": "so zagrabili"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ njega",
-      "marks": "ga"
+      "gloss": "⟨את⟩ ga",
+      "marks": "duhovniki in preroki in vse ljudstvo so ga zagrabili"
     },
     {
       "surface": "הכהנים",
@@ -113,17 +87,17 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "rekoč"
+      "gloss": "⟨z besedami⟩"
     },
     {
       "surface": "מות",
-      "gloss": "Smrt"
+      "gloss": "smrt"
     },
     {
       "surface": "תמות",
       "gloss": "boš umrl"
     }
   ],
-  "timestamp": "2026-10-19T17:38:14.553953954Z",
+  "timestamp": "2026-10-19T20:28:55.056138615Z",
   "model": "glm-5.3"
 }

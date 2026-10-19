@@ -5,37 +5,16 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "čas njegove dežele",
-      "rationale": "עת ארצו — 'čas (kazni) njegove dežele': KJV 'time of his land', razlage se razhajajo (čas, ko pride vrsta na njegovo deželo)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ועבדו … ועבדו",
-      "rationale": "ponovitev glagola עבד v okvirju: strežbo obrne v strežbo — njemu služijo, potem oni služijo (Nevuhadnecar)"
-    }
-  ],
-  "translation": "In služili mu bodo vsi narodi, tudi ⟨את⟩ njegovemu sinu in ⟨את⟩ sinu njegovega sina, dokler ne pride čas njegove dežele, tudi on; in služili bodo njemu narodi številni in kralji veliki.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6daa34ae43df54ac910cc02c1020e968402961072fa170fadbff0c42b14dfd21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/27\/5-8.1792431506439.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In služili mu bodo vsi narodi, ⟨את⟩ njega in ⟨את⟩ njegovega sina in ⟨את⟩ sina njegovega sina, dokler ne pride čas njegove dežele, tudi on; in služili bodo njemu mnogi narodi in veliki kralji.",
   "tokens": [
     {
       "surface": "ועבדו",
-      "gloss": "In služili"
+      "gloss": "in služili bodo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "vsim narodom"
+      "marks": "njega (vsi narodi mu bodo služili)"
     },
     {
       "surface": "כל",
@@ -47,21 +26,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "tudi ⟨את⟩",
-      "marks": "njegovemu sinu"
+      "gloss": "⟨את⟩",
+      "marks": "njegovega sina"
     },
     {
       "surface": "בנו",
-      "gloss": "njegovemu sinu"
+      "gloss": "njegov sin"
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
-      "marks": "sinu njegovega sina"
+      "gloss": "⟨את⟩",
+      "marks": "sina njegovega sina"
     },
     {
       "surface": "בן",
-      "gloss": "sinu"
+      "gloss": "sin"
     },
     {
       "surface": "בנו",
@@ -105,7 +84,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "številni"
+      "gloss": "mnogi"
     },
     {
       "surface": "ומלכים",
@@ -116,6 +95,6 @@
       "gloss": "veliki"
     }
   ],
-  "timestamp": "2026-10-19T17:38:26.440471140Z",
+  "timestamp": "2026-10-19T20:28:54.290494927Z",
   "model": "glm-5.3"
 }

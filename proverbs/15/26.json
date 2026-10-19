@@ -5,48 +5,27 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je \/ so",
-      "rationale": "Slovenščina potrebuje glagol biti, hebrejščina ga nima."
-    },
-    {
-      "kind": "crux",
-      "subject": "čistost prikupnih besed",
-      "rationale": "Ali so 'čiste besede prikupnosti' (besede so čiste) ali 'prikupne so besede čistih' (ljudje so čisti), odvisno od tega, kaj pridevniki vežejo."
-    }
-  ],
-  "translation": "Groza ⟨je⟩ Jahvi ⟨את⟩ načrti zla, besede prikupnosti pa ⟨so⟩ čiste.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "de6cbe6260b3f3f5d0194cbd567b9cf491168bb0acac71ac5239b751476c1b48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/15\/25-28.1792436016860.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gruza ⟨so⟩ Jahveja ⟨so⟩ misli húdega, čisti ⟨so pa⟩ besede prikupnosti.",
   "tokens": [
     {
       "surface": "תועבת",
-      "gloss": "groza"
+      "gloss": "gruza"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvi"
+      "gloss": "Jahveja"
     },
     {
       "surface": "מחשבות",
-      "gloss": "načrti"
+      "gloss": "misli"
     },
     {
       "surface": "רע",
-      "gloss": "zla"
+      "gloss": "húdega"
     },
     {
       "surface": "וטהרים",
-      "gloss": "čiste"
+      "gloss": "čisti"
     },
     {
       "surface": "אמרי",
@@ -57,6 +36,6 @@
       "gloss": "prikupnosti"
     }
   ],
-  "timestamp": "2026-10-19T18:53:36.862724600Z",
+  "timestamp": "2026-10-19T20:37:04.400808169Z",
   "model": "glm-5.3"
 }

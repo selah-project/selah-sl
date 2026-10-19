@@ -5,42 +5,16 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "מאה כסף",
-      "rationale": "globa določena v številu: sto srebra (šeklov)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨jo⟩",
-      "rationale": "hebrejščina osebkov ne izraža; slovenščina ga potrebuje"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הוציא שם רע",
-      "rationale": "dobesedno 'izpeljal hudo ime' — slovensko 'raznesel hudo ime'"
-    }
-  ],
-  "translation": "In naložili mu bodo globo sto srebra in dali ⟨jo⟩ očetu dekleta, ker je raznesel hudo ime o devici Jisraela; in ona mu bo ⟨za⟩ ženo; ne bo je smel poslati vse dni svojega življenja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/22\/17-20.1792426151155.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In kaznujejo ga ⟨את⟩ s sto ⟨srebrnikov⟩ šeklov in dajo ⟨jih⟩ očetu dekleta, ker je razširil hudo ime o devici Jisraela; in ona ⟨mu⟩ bo ⟨postala⟩ za ženo — ne more je poslati proč vse svoje dni.",
   "tokens": [
     {
       "surface": "וענשו",
-      "gloss": "in naložili bodo globo"
+      "gloss": "in kaznujejo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mu",
-      "marks": "globo sto srebra"
+      "gloss": "⟨את⟩",
+      "marks": "s sto šeklov srebra"
     },
     {
       "surface": "מאה",
@@ -48,11 +22,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "srebra"
+      "gloss": "šeklov srebra"
     },
     {
       "surface": "ונתנו",
-      "gloss": "in dali"
+      "gloss": "in dajo"
     },
     {
       "surface": "לאבי",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "je raznesel"
+      "gloss": "je razširil"
     },
     {
       "surface": "שם",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "רע",
-      "gloss": "hudo"
+      "gloss": "hudо"
     },
     {
       "surface": "על",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "⟨za⟩ ženo"
+      "gloss": "za ženo"
     },
     {
       "surface": "לא",
@@ -108,11 +82,11 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "bo smel"
+      "gloss": "more"
     },
     {
       "surface": "לשלחה",
-      "gloss": "poslati jo"
+      "gloss": "poslati jo proč"
     },
     {
       "surface": "כל",
@@ -120,9 +94,9 @@
     },
     {
       "surface": "ימיו",
-      "gloss": "dneve svoje"
+      "gloss": "svoje dni"
     }
   ],
-  "timestamp": "2026-10-19T16:09:11.156690158Z",
+  "timestamp": "2026-10-19T20:20:27.382039121Z",
   "model": "glm-5.3"
 }

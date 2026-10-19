@@ -5,28 +5,7 @@
   "book": "nehemiah",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "so",
-      "rationale": "Hebrejščina ima samo 'moji bratje'; 'so' je dodano za slovensko slovnico."
-    },
-    {
-      "kind": "measurement",
-      "subject": "dvanajst let",
-      "rationale": "Verz šteje leta pehovega službovanja od dvajsetega do dvaintridesetega leta kralja Artahšaste."
-    }
-  ],
-  "translation": "Tudi od dneva, ko mi je bilo naročeno, da bodem peha v deželi Jehude, od dvajsetega leta do dvaintridesetega leta Artahšaste, kralja, dvanajst let, jaz in moji brje nismo jedli kruha, ki pripada pehi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f0b0dfe51a0e0fdce2d18ef0472a338adddf7ca71da2103971c593fa546fe4c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/nehemiah\/5\/13-16.1792437844785.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tudi od dneva, ko mi je zapovedal, da bodem peek ⟨את⟩ v deželi Jehude, od dvajsetega leta do dvaintridesetega leta Artaḥšaste, kralja, dvanajst let, jaz in moji bratje nismo jedli kruha ⟨peka⟩.",
   "tokens": [
     {
       "surface": "גם",
@@ -42,12 +21,12 @@
     },
     {
       "surface": "צוה",
-      "gloss": "je bilo naročeno"
+      "gloss": "je zapovedal"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mi"
+      "marks": "mene"
     },
     {
       "surface": "להיות",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "פחם",
-      "gloss": "peha"
+      "gloss": "peek"
     },
     {
       "surface": "בארץ",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "tridesetega"
+      "gloss": "dvaintridesetega"
     },
     {
       "surface": "ושתים",
-      "gloss": "in dveh"
+      "gloss": ""
     },
     {
       "surface": "לארתחשסתא",
-      "gloss": "Artahšaste"
+      "gloss": "Artaḥšaste"
     },
     {
       "surface": "המלך",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "—"
+      "gloss": ""
     },
     {
       "surface": "אני",
@@ -115,15 +94,15 @@
     },
     {
       "surface": "ואחי",
-      "gloss": "in moji brje"
+      "gloss": "in moji bratje"
     },
     {
       "surface": "לחם",
-      "gloss": "kruha"
+      "gloss": "kruh"
     },
     {
       "surface": "הפחה",
-      "gloss": "pehe"
+      "gloss": "⟨peka⟩"
     },
     {
       "surface": "לא",
@@ -131,9 +110,9 @@
     },
     {
       "surface": "אכלתי",
-      "gloss": "nismo jedli"
+      "gloss": "jedli (nismo)"
     }
   ],
-  "timestamp": "2026-10-19T19:24:04.787315660Z",
+  "timestamp": "2026-10-19T20:35:02.145586280Z",
   "model": "glm-5.3"
 }

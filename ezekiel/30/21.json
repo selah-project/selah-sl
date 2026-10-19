@@ -5,41 +5,20 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Človek",
-      "rationale": "בן אדם dobesedno 'sin človeka', Ezehielov naziv; okrnjeno v eno besedo"
-    },
-    {
-      "kind": "alternative",
-      "subject": "rešila",
-      "rationale": "רפאות je 'zdravila, obkladki'; 'rešila' po zgledu Wycliffa, drugi beremo 'zdravilnih sredstev'"
-    }
-  ],
-  "translation": "Človek, ⟨את⟩ roko Paroha, kralja Micrajima, sem zlomil, in glej, ni bila povezana, da bi se dale rešila, da bi se nanesel povoj, da bi se ovila, da bi se okrepila, da bi zgrabila meč.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/30\/21-24.1792432573997.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Človeški sin, ⟨את⟩ roko Paroha, kralja Micrajima, sem prelomil, in glej, ni bila obveza-ne, da bi se dale rane-zdravila, da bi se dalo povoj-za-objem, da bi se okrepila, da bi držala meč.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Človek"
+      "gloss": "sin"
     },
     {
       "surface": "אדם",
-      "gloss": ""
+      "gloss": "človeški"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "roko"
+      "marks": "roko Paroha"
     },
     {
       "surface": "זרוע",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "שברתי",
-      "gloss": "sem zlomil"
+      "gloss": "sem prelomil"
     },
     {
       "surface": "והנה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "חבשה",
-      "gloss": "bila povezana"
+      "gloss": "bila obveza-ne"
     },
     {
       "surface": "לתת",
@@ -79,19 +58,19 @@
     },
     {
       "surface": "רפאות",
-      "gloss": "rešila"
+      "gloss": "rane-zdravila"
     },
     {
       "surface": "לשום",
-      "gloss": "da bi se nanesel"
+      "gloss": "da bi se dalo"
     },
     {
       "surface": "חתול",
-      "gloss": "povoj"
+      "gloss": "povoj-za-objem"
     },
     {
       "surface": "לחבשה",
-      "gloss": "da bi se ovila"
+      "gloss": "da bi se objela"
     },
     {
       "surface": "לחזקה",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "לתפש",
-      "gloss": "da bi zgrabila"
+      "gloss": "da bi držala"
     },
     {
       "surface": "בחרב",
       "gloss": "meč"
     }
   ],
-  "timestamp": "2026-10-19T17:56:13.998044191Z",
+  "timestamp": "2026-10-19T20:23:27.746601057Z",
   "model": "glm-5.3"
 }

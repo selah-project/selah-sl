@@ -5,41 +5,16 @@
   "book": "exodus",
   "lang": "sl",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨je⟩",
-      "rationale": "Hebrejščina brez kopule; slovenščina jo zahteva"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ריח ניחוח",
-      "rationale": "dobesedno 'dih pomirjenosti' — ubit idiom za prijeten vonj"
-    },
-    {
-      "kind": "crux",
-      "subject": "על העלה",
-      "rationale": "'na\/poleg žgalne daritve' — ali darave gredo POZRAMA na žgalno daritev (nad njo) ali OB NJO"
-    }
-  ],
-  "translation": "In vzel jih boš iz njihovih rok in kadil na oltarju, poleg žgalne daritve, za dih pomirjenosti pred Jahvem; ognjena daritev ⟨je⟩ to za Jahveja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "9a0dcdcfa7d8f4c0e420bc6707e78b725386be5882908c6fc59138b82d7ecad6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/29\/25-28.1792423697651.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vzeli boš ⟨את⟩ njih iz njihovih rok in zažgal na oltarju na žrtvi povzetnice, za dih pomirjenosti pred Jahve; ognja žrtev ⟨je⟩ to za Jahveja.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "in vzel boš"
+      "gloss": "In vzeli boš"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ njih"
+      "gloss": "⟨את⟩",
+      "marks": "njih"
     },
     {
       "surface": "מידם",
@@ -47,7 +22,7 @@
     },
     {
       "surface": "והקטרת",
-      "gloss": "in kadil boš"
+      "gloss": "in zažgal (v dih)"
     },
     {
       "surface": "המזבחה",
@@ -55,11 +30,11 @@
     },
     {
       "surface": "על",
-      "gloss": "poleg"
+      "gloss": "na"
     },
     {
       "surface": "העלה",
-      "gloss": "žgalne daritve"
+      "gloss": "žrtvi povzetnice"
     },
     {
       "surface": "לריח",
@@ -75,11 +50,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvem"
+      "gloss": "Jahve"
     },
     {
       "surface": "אשה",
-      "gloss": "ognjena daritev"
+      "gloss": "ognja žrtev"
     },
     {
       "surface": "הוא",
@@ -90,6 +65,6 @@
       "gloss": "za Jahveja"
     }
   ],
-  "timestamp": "2026-10-19T15:28:17.651896870Z",
+  "timestamp": "2026-10-19T20:21:44.970201424Z",
   "model": "glm-5.3"
 }

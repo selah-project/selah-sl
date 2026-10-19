@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bomo",
-      "rationale": "Hebrejščina ima samo pridevnik נקים brez glagola; slovenščina zahteva kopulo."
-    }
-  ],
-  "translation": "In moški so ji rekli: Mi ⟨bomo⟩ nedolžni ⟨od⟩ te tvoje prisegе, ki si nam jo prisegla.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "3bf79038383a1b8df82cf196a9b51832a16726ee9dc5cd6270c3e47eca5edc64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/2\/17-20.1792426487426.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In možje so rekli njej: Nedolžni ⟨smo⟩ od tvoje prisege te, katero si nas prisegla ⟨si⟩.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "moški"
+      "gloss": "možje"
     },
     {
       "surface": "נקים",
@@ -41,25 +25,25 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "mi"
+      "gloss": "⟨smo⟩ mi"
     },
     {
       "surface": "משבעתך",
-      "gloss": "od te tvoje prisege"
+      "gloss": "od tvoje prisege"
     },
     {
       "surface": "הזה",
-      "gloss": "tej"
+      "gloss": "te"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "katero"
     },
     {
       "surface": "השבעתנו",
-      "gloss": "si nam prisegla"
+      "gloss": "si nas prisegla"
     }
   ],
-  "timestamp": "2026-10-19T16:14:47.427498517Z",
+  "timestamp": "2026-10-19T20:31:18.190290986Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "dobesedno 'rezati zavezo' (med preklanimi kosi), slovensko 'skleniti zavezo'"
-    },
-    {
-      "kind": "you",
-      "subject": "Izraelcem",
-      "rationale": "neposreden nagovor, govorilec je Jahve v prvi osebi"
-    }
-  ],
-  "translation": "In zaveze, ki sem jo sklenil ⟨את⟩ z vami, ne pozabite, in ne bojte se drugih bogov.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/17\/37-40.1792429693652.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zaveze, ki sem jo sklenil ⟨z⟩ vami, ne pozabite, in ne bojte se drugih bogov.",
   "tokens": [
     {
       "surface": "והברית",
-      "gloss": "in zavezo"
+      "gloss": "in zaveze"
     },
     {
       "surface": "אשר",
@@ -38,11 +17,12 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "sem sklenil ⟨⟨rezal⟩⟩"
+      "gloss": "sem sklenil"
     },
     {
       "surface": "אתכם",
-      "gloss": "z vami ⟨את⟩"
+      "gloss": "⟨את⟩ z vami",
+      "marks": "vi"
     },
     {
       "surface": "לא",
@@ -69,6 +49,6 @@
       "gloss": "drugih"
     }
   ],
-  "timestamp": "2026-10-19T17:08:13.652790506Z",
+  "timestamp": "2026-10-19T20:17:21.270764020Z",
   "model": "glm-5.3"
 }

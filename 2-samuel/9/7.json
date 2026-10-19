@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עשה אעשה",
-      "rationale": "Infinitivus absolutus pred glagolom: 'delal bom delal' — zagotovilo, izgubljeno v 'zagotovo'."
-    },
-    {
-      "kind": "crux",
-      "subject": "אביך (o Šaulu)",
-      "rationale": "Šaul je Mefíbošetov ded, ne oče; hebrejščina pravi 'tvoj oče', prevodi to pogosto gladijo v 'deda'."
-    },
-    {
-      "kind": "you",
-      "subject": "David → Mefíbošet",
-      "rationale": "Davidov blagi nagovor 'ne boj se' neposredno govori Mefíbošetu."
-    }
-  ],
-  "translation": "In David mu je rekel: Ne boj se, kajti zagotovo bom delal hesed s teboj zaradi Jónatanа, tvojega očeta, in vrnem ti ⟨את⟩ vsa polja Šaula, tvojega očeta; in ti boš jedel kruh za mojo mizo stalno.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/9\/5-8.1792428296429.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "David pa mu je rekel: Ne boj se, kajti hesed bom storil s teboj zaradi Jonatana, očeta tvojega, in vrnil ti bom ⟨את⟩ vsa polja Šaula, očeta tvojega, in ti boš jedel kruh pri moji mizi zmeraj.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "delal"
+      "gloss": "storil"
     },
     {
       "surface": "אעשה",
-      "gloss": "bom delal"
+      "gloss": "bom storil"
     },
     {
       "surface": "עמך",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jónatanа"
+      "gloss": "Jonatana"
     },
     {
       "surface": "אביך",
-      "gloss": "tvojega očeta"
+      "gloss": "očeta tvojega"
     },
     {
       "surface": "והשבתי",
-      "gloss": "in vrnem"
+      "gloss": "in vrnil bom"
     },
     {
       "surface": "לך",
@@ -96,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vsa polja Šaula, tvojega očeta"
+      "marks": "vsa polja Šaula"
     },
     {
       "surface": "כל",
@@ -108,11 +82,11 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulа"
+      "gloss": "Šaula"
     },
     {
       "surface": "אביך",
-      "gloss": "tvojega očeta"
+      "gloss": "očeta tvojega"
     },
     {
       "surface": "ואתה",
@@ -128,17 +102,17 @@
     },
     {
       "surface": "על",
-      "gloss": "za"
+      "gloss": "pri"
     },
     {
       "surface": "שלחני",
-      "gloss": " mojo mizo"
+      "gloss": "moji mizi"
     },
     {
       "surface": "תמיד",
-      "gloss": "stalno"
+      "gloss": "zmeraj"
     }
   ],
-  "timestamp": "2026-10-19T16:44:56.430207972Z",
+  "timestamp": "2026-10-19T20:18:31.533578341Z",
   "model": "glm-5.3"
 }

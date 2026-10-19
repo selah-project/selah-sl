@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "je nakleval",
-      "rationale": "דמה tu: 'si je zamislil\/nakleval' (prim. 1 Mz 50,20) proti osnovnemu pomenu 'primerjati, podobiti' — prevajalci se delijo."
-    },
-    {
-      "kind": "you",
-      "subject": "Gibeonci",
-      "rationale": "neposreden nagovor kralju (Davidu)."
-    }
-  ],
-  "translation": "In rekli so kralju: ›Mož, ki nas je uničil, in ki je nakleval zoper nas — uničeni smo, da se ne moremo postaviti v nobeni meji Jisraela.‹",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "db170475e941c4b7028a8470325fff169b3ae594ffa0c6de3171f89af7c610af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/21\/5-8.1792428597485.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekli so kralju: Mož, ki nas je uničeval, in ki si je zamislil zoper nas — pregnetjeni smo, da se ne moremo več postaviti na noge v nobeni meji Jisraela.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kralju"
+      "gloss": "k"
     },
     {
       "surface": "המלך",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "כלנו",
-      "gloss": "nas je uničil"
+      "gloss": "nas je uničeval"
     },
     {
       "surface": "ואשר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "דמה",
-      "gloss": "je nakleval"
+      "gloss": "si je zamislil"
     },
     {
       "surface": "לנו",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "נשמדנו",
-      "gloss": "uničeni smo"
+      "gloss": "pregnetjeni smo"
     },
     {
       "surface": "מהתיצב",
@@ -85,6 +64,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-10-19T16:49:57.486334213Z",
+  "timestamp": "2026-10-19T20:18:32.370440453Z",
   "model": "glm-5.3"
 }

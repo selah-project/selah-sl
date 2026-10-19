@@ -5,42 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ועודנו לא ישוב",
-      "rationale": "Večina bere »ker se še ni vrnil« (Jeremija ni odšel); YLT bere »ker ne odgovarja« — govor, ki se nadaljuje."
-    },
-    {
-      "kind": "addition",
-      "subject": "je rekel",
-      "rationale": "Hebrejščina ne navaja govornika; vstavljen, da je prerok očiten."
-    },
-    {
-      "kind": "substitution",
-      "subject": "rabelj",
-      "rationale": "רב טבחיח je dobesedno »glavar klavcev\/telesnih stražarjev«; raba izvajalcev kazni je bližje kot »kuhar«."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שוב\/ושבה",
-      "rationale": "Koren šuv (vrniti se) se v verzu ponovi — »ni se vrnil … vrni se«; v slovenščini delno ohranjeno."
-    }
-  ],
-  "translation": "Ker se še ni vrnil, ⟨je rekel⟩: Vrni se h Gedaljáhu, sinu Ahikámovemu, sinu Šafánovemu, ki ga je kralj Bavéla postavil nad mesta Júde, in prebivaj ⟨z njim⟩ sredi ljudstva, ali pa pojdi, kamor koli je prav v tvojih očeh iti. In glavar rabelj mu je dal obrok in darilo ter ga poslal.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/40\/5-8.1792431805500.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ker ⟨se⟩ še ni obrnil, ⟨je rekel⟩: Vrni se h Gedaljahiju, sinu Ahikama, sina Šafana, ki ga je postavil kralj Babela nad mesti Judove, in prebivaj ⟨את⟩ njega sredi ljudstva, ali pa pojdi, kamor koli je prav v tvojih očeh, da greš — pojdi. In dal mu je poveljnik krvnikov obrok in darilo ter ga odpustil.",
   "tokens": [
     {
       "surface": "ועודנו",
-      "gloss": "še"
+      "gloss": "in ker še"
     },
     {
       "surface": "לא",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "se vrnil"
+      "gloss": "obrnil"
     },
     {
       "surface": "ושבה",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "גדליה",
-      "gloss": "Gedaljáhu"
+      "gloss": "Gedaljahu"
     },
     {
       "surface": "בן",
@@ -68,15 +37,15 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahikámovemu"
+      "gloss": "Ahikama"
     },
     {
       "surface": "בן",
-      "gloss": "sinu"
+      "gloss": "sina"
     },
     {
       "surface": "שפן",
-      "gloss": "Šafánovemu"
+      "gloss": "Šafana"
     },
     {
       "surface": "אשר",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "הפקיד",
-      "gloss": "postavil"
+      "gloss": "je postavil"
     },
     {
       "surface": "מלך",
@@ -92,23 +61,24 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavéla"
+      "gloss": "Babela"
     },
     {
       "surface": "בערי",
-      "gloss": "nad mesti"
+      "gloss": "nad mest"
     },
     {
       "surface": "יהודה",
-      "gloss": "Júde"
+      "gloss": "Judove"
     },
     {
       "surface": "ושב",
-      "gloss": "prebivaj"
+      "gloss": "in prebivaj"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ z njim"
+      "gloss": "⟨את⟩",
+      "marks": "njega"
     },
     {
       "surface": "בתוך",
@@ -128,7 +98,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "kakor koli"
+      "gloss": "kjer koli"
     },
     {
       "surface": "הישר",
@@ -140,7 +110,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "iti"
+      "gloss": "da greš"
     },
     {
       "surface": "לך",
@@ -156,11 +126,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "glavar"
+      "gloss": "poveljnik"
     },
     {
       "surface": "טבחים",
-      "gloss": "rabelj"
+      "gloss": "krvnikov"
     },
     {
       "surface": "ארחה",
@@ -172,9 +142,9 @@
     },
     {
       "surface": "וישלחהו",
-      "gloss": "ga poslal"
+      "gloss": "ga odpustil"
     }
   ],
-  "timestamp": "2026-10-19T17:43:25.501588055Z",
+  "timestamp": "2026-10-19T20:38:51.793516759Z",
   "model": "glm-5.3"
 }

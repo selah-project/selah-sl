@@ -5,69 +5,73 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "Slovenščina za vprežni glagolski konstrukcija ויהי potrebuje pomožni glagol."
-    }
-  ],
-  "translation": "In zgodilo se je ob koncu sedmih let, da se je žena vrnila iz dežele Plištimcev in šla prošnjat kralja za svojo hišo in za svojo njivo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/8\/1-4.1792429515495.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodilo se je ob koncu sedmih let, da se je žena vrnila iz dežele Peleštimcev; in izšla je, da bi zakričala h kralju glede ⟨svoje⟩ hiše in glede ⟨svojega⟩ polja.",
   "tokens": [
     {
+      "surface": "ויהי",
+      "gloss": "in zgodilo se je"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ob koncu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedmih"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
       "surface": "ותשב",
-      "gloss": ""
+      "gloss": "da se je vrnila"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
     },
     {
       "surface": "מארץ",
-      "gloss": ""
+      "gloss": "iz dežele"
     },
     {
       "surface": "פלשתים",
-      "gloss": ""
+      "gloss": "Peleštimcev"
     },
     {
       "surface": "ותצא",
-      "gloss": ""
+      "gloss": "in izšla je"
     },
     {
       "surface": "לצעק",
-      "gloss": ""
+      "gloss": "da bi zakričala"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "h"
     },
     {
       "surface": "המלך",
-      "gloss": ""
+      "gloss": "kralju"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "glede"
     },
     {
       "surface": "ביתה",
-      "gloss": ""
+      "gloss": "⟨svoje⟩ hiše"
     },
     {
       "surface": "ואל",
-      "gloss": ""
+      "gloss": "in glede"
     },
     {
       "surface": "שדה",
-      "gloss": ""
+      "gloss": "⟨svojega⟩ polja"
     }
   ],
-  "timestamp": "2026-10-19T17:05:15.496173542Z",
+  "timestamp": "2026-10-19T20:17:52.996380399Z",
   "model": "glm-5.3"
 }

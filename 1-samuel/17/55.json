@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefesh",
-      "rationale": "נפש je 'dih\/življenjska sila', ne 'duša' v poznejšem pomenu"
-    },
-    {
-      "kind": "idiom",
-      "subject": "אם ידעתי",
-      "rationale": "dobesedno 'če vem' — hebrejska potrditvena prisega, pomeni 'res ne vem'"
-    },
-    {
-      "kind": "crux",
-      "subject": "בן מי זה הנער אבנר",
-      "rationale": "'Abner' na koncu vprašanja: nagovor (čigav sin je ta mladenič, Abner?) ali del vprašanja po njegovem rodu"
-    }
-  ],
-  "translation": "In ko je videl Šaul ⟨את⟩ Davida, kako izhaja nasproti Peliščanu, je rekel Avnerju, poveljniku vojske: Čigav sin je ta mladenič, Avner? In Avner je rekel: Kakor živi tvoja nefesh, kralj, ne vem.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/17\/53-56.1792427832999.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ko je Šaul videl ⟨את⟩ Davida, kako gre nasproti Peliščanu, je rekel Avnerju, poveljniku vojske: Sin čigav je ta mladenič, Avner? In Avner je rekel: Živi tvoja duša, kralj — če vem, ⟨potem⟩ nisem ⟨vedel⟩.",
   "tokens": [
     {
       "surface": "וכראות",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "izhaja"
+      "gloss": "gre"
     },
     {
       "surface": "לקראת",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "k"
     },
     {
       "surface": "אבנר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "poveljniku"
+      "gloss": "poveljnik"
     },
     {
       "surface": "הצבא",
@@ -112,14 +86,14 @@
     },
     {
       "surface": "חי",
-      "gloss": "kakor živi"
+      "gloss": "živi"
     },
     {
       "surface": "נפשך",
-      "gloss": "tvoja nefesh"
+      "gloss": "tvoja duša"
     },
     {
-      "surface": "המלčך",
+      "surface": "המלך",
       "gloss": "kralj"
     },
     {
@@ -131,6 +105,6 @@
       "gloss": "vem"
     }
   ],
-  "timestamp": "2026-10-19T16:37:13.000418150Z",
+  "timestamp": "2026-10-19T20:15:10.492618126Z",
   "model": "glm-5.3"
 }

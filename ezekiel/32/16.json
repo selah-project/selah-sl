@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "hebrejščina izpusti glagol 'biti'; היא je poudarni zaimek 'ona — to je ta'"
-    }
-  ],
-  "translation": "Žalostinka ⟨je⟩; napevali so jo hčere narodov, napevale jo bodo nad Micrajim in nad vso njeno množico jo bodo napevale, govori Adonaj Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ea43647c18cfa8272363a7be921856d06ffb4585a8ec045dde12c071902d76fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/32\/13-16.1792433491401.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Žalostinka je to, in njo bodo objokovale hčere narodov, nad Micrajim in nad vso njeno množico jo bodo objokovale, govori Adonaj Jahve.",
   "tokens": [
     {
       "surface": "קינה",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "היא",
-      "gloss": "je"
+      "gloss": "je to"
     },
     {
       "surface": "וקוננוה",
-      "gloss": "in napevali so jo"
+      "gloss": "in njo bodo objokovale"
     },
     {
       "surface": "בנות",
@@ -45,11 +29,12 @@
     },
     {
       "surface": "תקוננה",
-      "gloss": "napevale jo bodo"
+      "gloss": "bodo objokovale"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ jo"
+      "gloss": "⟨את⟩",
+      "marks": "njo (Micrajim in njeno množico)"
     },
     {
       "surface": "על",
@@ -73,11 +58,12 @@
     },
     {
       "surface": "תקוננה",
-      "gloss": "napevale jo bodo"
+      "gloss": "bodo objokovale"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ jo"
+      "gloss": "⟨את⟩",
+      "marks": "njo (Micrajim in njeno množico)"
     },
     {
       "surface": "נאם",
@@ -92,6 +78,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T18:11:31.404441506Z",
+  "timestamp": "2026-10-19T20:23:40.208662613Z",
   "model": "glm-5.3"
 }

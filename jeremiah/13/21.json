@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אלפים",
-      "rationale": "'prijatelji\/voditelji (tisoči)' — pregledi deljeni: 'kapitani' (KJV), 'zavezniki' (JPS), 'tisoči\/vodje'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חבלים",
-      "rationale": "dobesedno 'vrvi\/popsi' — krči poroda"
-    },
-    {
-      "kind": "you",
-      "subject": "Jeruzalem",
-      "rationale": "ogovorjen kot ženska"
-    }
-  ],
-  "translation": "Kaj boš rekla, ko te bo obiskal ⟨sodija⟩, ti, ki si jih naučila nad seboj, prijatelje za glavo? Mar te ne bodo zgrabili krči kot žensko ob rojstvu?",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "4cdf6e28a5b63e5b5a7b2c77d1f569e6a6f5f878b1bdf09799c1812e5a1e3433",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/13\/21-24.1792431283454.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kaj boš rekla, ko se bo znova prikazal nad teboj? Saj ti si jih naučila ⟨את⟩ zoper teboj — za poglavarje za glavo. Ali te ne bodo zagrabile bolečine kakor ženska ob porodu?",
   "tokens": [
     {
       "surface": "מה",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "יפקד",
-      "gloss": "obiskal"
+      "gloss": "se bo znova prikazal"
     },
     {
       "surface": "עליך",
-      "gloss": "te"
+      "gloss": "nad teboj"
     },
     {
       "surface": "ואת",
-      "gloss": "ti"
+      "gloss": "ti (sama)"
     },
     {
       "surface": "למדת",
@@ -64,15 +38,15 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jih (prijatelje)"
+      "marks": "jih — njih, zoper teboj"
     },
     {
       "surface": "עליך",
-      "gloss": "nad seboj"
+      "gloss": "zoper teboj"
     },
     {
       "surface": "אלפים",
-      "gloss": "prijatelje"
+      "gloss": "za poglavarje"
     },
     {
       "surface": "לראש",
@@ -80,29 +54,29 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "mar ne"
+      "gloss": "ali ne"
     },
     {
       "surface": "חבלים",
-      "gloss": "krči"
+      "gloss": "bolečine"
     },
     {
       "surface": "יאחזוך",
-      "gloss": "te bodo zgrabili"
+      "gloss": "te bodo zagrabile"
     },
     {
       "surface": "כמו",
-      "gloss": "kot"
+      "gloss": "kakor"
     },
     {
       "surface": "אשת",
-      "gloss": "žensko"
+      "gloss": "ženska"
     },
     {
       "surface": "לדה",
-      "gloss": "ob rojstvu"
+      "gloss": "ob porodu"
     }
   ],
-  "timestamp": "2026-10-19T17:34:43.454881474Z",
+  "timestamp": "2026-10-19T20:28:34.508929879Z",
   "model": "glm-5.3"
 }

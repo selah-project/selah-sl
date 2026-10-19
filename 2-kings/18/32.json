@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "možje na obzidju",
-      "rationale": "Vrh Ravšakovega prepričevanja — izgnanstvo predstavljeno kot blaginja."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mošt",
-      "rationale": "תירוש je grozdni sok\/mošt, svež ali fermentiran; 'vino' je prevoz."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יסית \/ ישיא",
-      "rationale": "Kralj Ašurja uporablja isto besedo 'zapeljevati\/napeljevati' (סות\/נשא) za Hizkijahuja, s katero ga obtožuje — Retorika prevrata."
-    }
-  ],
-  "translation": "dokler ne pridem in vzamem ⟨את⟩ vas v deželo, kakor je vaša dežela — deželo žita in mošta, deželo kruha in vinogradov, deželo oljk, olja in medu — in živite in ne umrite; in ne poslušajte Hizkijahuja, kajti napeljuje ⟨את⟩ vas, češ: Jahve nas bo rešil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/18\/29-32.1792429795279.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "dokler ne pridem in ne vzamem ⟨את⟩ vas v deželo, kakor je vaša dežela, dežela žita in mošta, dežela kruha in vinogradov, dežela oljk, oljnega olja in medu, in ⟨boste⟩ živeli in ne umrli; in ne poslušajte Hizkija, ker vas hujska, ko pravi: Jahve nas bo rešil.",
   "tokens": [
     {
       "surface": "עד",
@@ -43,12 +17,12 @@
     },
     {
       "surface": "ולקחתי",
-      "gloss": "in vzamem"
+      "gloss": "in ne vzamem"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
-      "marks": "v deželo"
+      "gloss": "⟨את⟩",
+      "marks": "vas"
     },
     {
       "surface": "אל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "deželo"
+      "gloss": "dežela"
     },
     {
       "surface": "דגן",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "deželo"
+      "gloss": "dežela"
     },
     {
       "surface": "לחם",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "deželo"
+      "gloss": "dežela"
     },
     {
       "surface": "זית",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "יצהר",
-      "gloss": "olja"
+      "gloss": "oljnega olja"
     },
     {
       "surface": "ודבש",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "וחיו",
-      "gloss": "in živite"
+      "gloss": "in ⟨boste⟩ živeli"
     },
     {
       "surface": "ולא",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "תמתו",
-      "gloss": "umrite"
+      "gloss": "umrli"
     },
     {
       "surface": "ואל",
@@ -124,28 +98,28 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "poslušajte"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkijahua"
+      "gloss": "Hizkija"
     },
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "ker"
     },
     {
       "surface": "יסית",
-      "gloss": "napeljuje"
+      "gloss": "hujska"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
-      "marks": "vas (k rekemu: Jahve nas bo rešil)"
+      "gloss": "⟨את⟩",
+      "marks": "vas"
     },
     {
       "surface": "לאמר",
-      "gloss": "češ"
+      "gloss": "ko pravi"
     },
     {
       "surface": "יהוה",
@@ -156,6 +130,6 @@
       "gloss": "nas bo rešil"
     }
   ],
-  "timestamp": "2026-10-19T17:09:55.281108535Z",
+  "timestamp": "2026-10-19T20:17:30.184324344Z",
   "model": "glm-5.3"
 }

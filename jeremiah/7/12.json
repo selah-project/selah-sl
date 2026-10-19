@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "zaimek 'njemu' (o Šilu) se v slovenščini naravno stopi z odvisnim stavkom"
-    },
-    {
-      "kind": "you",
-      "subject": "do ljudstva v Jahvejem templju",
-      "rationale": "neposreden poziv 'pojdite … in glejte' Judom"
-    }
-  ],
-  "translation": "Kajti pojdite zdaj na svoje mesto, ki je v Šilu, kjer sem prvič naselil svoje ime, in glejte ⟨את⟩, kar sem storil zaradi hudobije svojega ljudstva Jisrael.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "de524f14ad9416449c63f096373ec9d235c2dea283cffb62435d67b908e03ff9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/7\/9-12.1792431163038.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti pojdite zdaj na moje mesto, ki je v Šilu, kjer sem v začetku naselil svoje ime tam, in poglejte ⟨את⟩ to, kar sem mu storil zaradi hudobije svojega ljudstva Jisrael.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kajti"
+      "gloss": "kajti"
     },
     {
       "surface": "לכו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "מקומי",
-      "gloss": "svoje mesto"
+      "gloss": "moje mesto"
     },
     {
       "surface": "אשר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "בשילו",
-      "gloss": "je v Šilu"
+      "gloss": "v Šilu"
     },
     {
       "surface": "אשר",
@@ -70,20 +49,20 @@
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "tam"
     },
     {
       "surface": "בראשונה",
-      "gloss": "prvič"
+      "gloss": "v začetku"
     },
     {
       "surface": "וראו",
-      "gloss": "in glejte"
+      "gloss": "in poglejte"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kar sem storil"
+      "marks": "to, kar sem mu storil"
     },
     {
       "surface": "אשר",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "mu"
     },
     {
       "surface": "מפני",
@@ -114,6 +93,6 @@
       "gloss": "Jisrael"
     }
   ],
-  "timestamp": "2026-10-19T17:32:43.039214993Z",
+  "timestamp": "2026-10-19T20:29:57.566169483Z",
   "model": "glm-5.3"
 }

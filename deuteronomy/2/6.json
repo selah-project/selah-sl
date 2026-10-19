@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תשברו",
-      "gloss": "šavar tu pomeni 'kupovati žito', dobesedno 'lomiti' (kar je povezano z deljenjem kruha)."
-    }
-  ],
-  "translation": "Hrano kupujte od njih za srebro in jejte; tudi vodo kupite od njih za srebro in pijte.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/2\/5-8.1792425685318.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hrano kupujte ⟨od⟩ njih za srebro in jejte; tudi vodo kupujte ⟨od⟩ njih za srebro in pijte.",
   "tokens": [
     {
       "surface": "אכל",
@@ -33,7 +17,8 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "od njih ⟨את⟩"
+      "gloss": "⟨את⟩ od njih",
+      "marks": "od njih"
     },
     {
       "surface": "בכסף",
@@ -53,11 +38,12 @@
     },
     {
       "surface": "תכרו",
-      "gloss": "kupite"
+      "gloss": "kupujte"
     },
     {
       "surface": "מאתם",
-      "gloss": "od njih ⟨את⟩"
+      "gloss": "⟨את⟩ od njih",
+      "marks": "od njih"
     },
     {
       "surface": "בכסף",
@@ -68,6 +54,6 @@
       "gloss": "in pijte"
     }
   ],
-  "timestamp": "2026-10-19T16:01:25.319227092Z",
+  "timestamp": "2026-10-19T20:19:49.881536549Z",
   "model": "glm-5.3"
 }

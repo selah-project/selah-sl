@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "zgradil\/porušil · posadil\/izruval",
-      "rationale": "Dva nasprotna para v popolni vzporednosti; obuditveni ritem, ki ga slovenščina ohranja z glagolskimi predponami"
-    },
-    {
-      "kind": "crux",
-      "subject": "obžalujem",
-      "rationale": "נחם: 'obžalovati\/ Premisliti si' (spremeniti namen) proti 'tolažiti se'; tu gre za spremembo odločitve, ne čustva kesanja"
-    }
-  ],
-  "translation": "Če boste povrnjeni ostali prebivati v tej deželi, vas bom zgradil in ne porušil, vas bom posadil in ne izruval, kajti obžalujem hudo, ki sem ga storil vam.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "66c4f1e94a01e0eee81ea336f12009d61544a49eaa48593b186d42788903ade6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/42\/9-12.1792431858993.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Če boste res ostali prebivati v tej deželi, vas bom zidal in ne porušil, vas bom sadil in ne izruval, kajti obžalujem húdo, ki sem vam jo storil.",
   "tokens": [
     {
       "surface": "אם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "שוב",
-      "gloss": "povrnjeni"
+      "gloss": "res, gotovo (ostali)"
     },
     {
       "surface": "תשבו",
-      "gloss": "boste prebivali"
+      "gloss": "prebivati boste"
     },
     {
       "surface": "בארץ",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "ובניתי",
-      "gloss": "vas bom zgradil"
+      "gloss": "in zidal vas bom"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vas (zgradil bom ⟨את⟩ vas)"
+      "marks": "vas (2. oseba množine)"
     },
     {
       "surface": "ולא",
@@ -67,12 +46,12 @@
     },
     {
       "surface": "ונטעתי",
-      "gloss": "vas bom posadil"
+      "gloss": "in sadil vas bom"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vas (posadil bom ⟨את⟩ vas)"
+      "marks": "vas (2. oseba množine)"
     },
     {
       "surface": "ולא",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "glede"
+      "gloss": "glede, nad"
     },
     {
       "surface": "הרעה",
-      "gloss": "hudega"
+      "gloss": "húdo"
     },
     {
       "surface": "אשר",
@@ -111,6 +90,6 @@
       "gloss": "vam"
     }
   ],
-  "timestamp": "2026-10-19T17:44:18.994127044Z",
+  "timestamp": "2026-10-19T20:29:30.723333889Z",
   "model": "glm-5.3"
 }

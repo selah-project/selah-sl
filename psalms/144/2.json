@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 144,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לי",
-      "rationale": "ločilni לי ('zame') se v slovenščini steka v svojinske pridevnike"
-    },
-    {
-      "kind": "crux",
-      "subject": "עמי",
-      "rationale": "'moje ljudstvo' (ljudstvo pod Davidom) ali 'ljudstva' (narodi) — Ketiv\/Qere razlika; sprejet je Ketiv 'moje ljudstvo'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "חסד po D2 ostane hesed, ne 'dobrota' ali 'ljubezen'"
-    }
-  ],
-  "translation": "Moj hesed in moja trdnjava, moj visoki stolp in moj rešitelj, moj ščit, ⟨v njega⟩ sem se zatekal, tisti, ki podvrže ljudstva podenoi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/144\/1-4.1792435741447.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Moj hesed in moja trdnjava, moja vzpetina in moj rešitelj ⟨je⟩ zame, moj ščit, v katerega sem se zatekel, ki podjarja moje ljudstvo pod me.",
   "tokens": [
     {
       "surface": "חסדי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "משגבי",
-      "gloss": "moj visoki stolp"
+      "gloss": "moja vzpetina"
     },
     {
       "surface": "ומפלטי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "zame"
     },
     {
       "surface": "מגני",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "ובו",
-      "gloss": "in v njega"
+      "gloss": "in vanj"
     },
     {
       "surface": "חסיתי",
-      "gloss": "sem se zatekal"
+      "gloss": "sem se zatekel"
     },
     {
       "surface": "הרודד",
-      "gloss": "ki podvrže"
+      "gloss": "ki podjarja"
     },
     {
       "surface": "עמי",
@@ -75,9 +49,9 @@
     },
     {
       "surface": "תחתי",
-      "gloss": "pod menoj"
+      "gloss": "pod me"
     }
   ],
-  "timestamp": "2026-10-19T18:49:01.448173110Z",
+  "timestamp": "2026-10-19T20:37:15.901288915Z",
   "model": "glm-5.3"
 }

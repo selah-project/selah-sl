@@ -5,32 +5,11 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mladi lev — כפיר",
-      "rationale": "כפיר je mladi lev; dobesedna slika 'pokriti' se v slovenščini izgubi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "rjove \/ dá glas",
-      "rationale": "Dvojni levji zvok: שאג (rjovenje) in נתן קול (dati glas), paralelizem vprašanj"
-    }
-  ],
-  "translation": "Ali rjove lev v gozdu,〈ko〉 plena ni ⟨za⟩ njega? Ali dá mladi lev glas svoj iz svojega brloga, razen če je ujel?",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/3\/1-4.1792433991428.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ali zarjovi lev v gozdu, ko ni plena ⟨zanj⟩? Ali izda mladi lev svoj glas iz svojega brloga, razen če je ujel?",
   "tokens": [
     {
       "surface": "הישאג",
-      "gloss": "Ali rjove"
+      "gloss": "ali zarjovi"
     },
     {
       "surface": "אריה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וטרף",
-      "gloss": "plena"
+      "gloss": "ko ni plena"
     },
     {
       "surface": "אין",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "njega"
+      "gloss": "⟨zanj⟩"
     },
     {
       "surface": "היתן",
-      "gloss": "Ali dá"
+      "gloss": "ali izda"
     },
     {
       "surface": "כפיר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "קולו",
-      "gloss": "glas svoj"
+      "gloss": "svoj glas"
     },
     {
       "surface": "ממענתו",
@@ -81,6 +60,6 @@
       "gloss": "je ujel"
     }
   ],
-  "timestamp": "2026-10-19T18:19:51.430669743Z",
+  "timestamp": "2026-10-19T20:19:06.082212544Z",
   "model": "glm-5.3"
 }

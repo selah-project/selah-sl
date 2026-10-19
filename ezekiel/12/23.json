@@ -5,38 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨sem⟩ ⟨z⟩",
-      "rationale": "kauzativni perfekt השבתי ('spravil v shabat\/prenehal') potrebuje v slovenščini pomožnik in predlog"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "dvojni veznik 'ampak' — osilno 'marveč', izraženo z enim 'ampak'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "השבתי\/שבת",
-      "gloss": "glagol je isti koren kot שבת (šabat) — 'spraviti v počitek, prekiniti'"
-    },
-    {
-      "kind": "you",
-      "subject": "k Ezekielu",
-      "rationale": "neposreden ukaz 'reci njim'"
-    }
-  ],
-  "translation": "Zato jim reci: Tako pravi Adonaj Jahve: Prenehal ⟨sem⟩ ⟨z⟩ tem pregovorom in ne bodo ⟨את⟩ ga več uporabljali kot pregovor v Jisraelu; ampak reci jim: Približali so se dnevi in beseda vsakega videnja.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/12\/21-24.1792432199424.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato jim reci: Tako govori Adonaj Jahve: Prenehal sem ⟨את⟩ s tem pregovorom, in ne bodo več govorili ⟨את⟩ njega kot pregovora v Jisraelu; temveč govori njim: Približali so se dnevi in beseda vsakega videnja.",
   "tokens": [
     {
       "surface": "לכן",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "pravi"
+      "gloss": "govori"
     },
     {
       "surface": "אדני",
@@ -68,16 +37,16 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "Prenehal sem"
+      "gloss": "prenehal sem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tem pregovorom"
+      "marks": "s tem pregovorom"
     },
     {
       "surface": "המשל",
-      "gloss": "ta pregovor"
+      "gloss": "pregovor"
     },
     {
       "surface": "הזה",
@@ -89,12 +58,12 @@
     },
     {
       "surface": "ימשלו",
-      "gloss": "bodo uporabljali kot pregovor"
+      "gloss": "bodo govorili"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga",
-      "marks": "on (pregovor)"
+      "gloss": "⟨את⟩",
+      "marks": "njega"
     },
     {
       "surface": "עוד",
@@ -106,15 +75,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ampak"
+      "gloss": "temveč"
     },
     {
       "surface": "אם",
-      "gloss": "ampak"
+      "gloss": "temveč"
     },
     {
       "surface": "דבר",
-      "gloss": "reci"
+      "gloss": "govori"
     },
     {
       "surface": "אליהם",
@@ -122,7 +91,7 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "Približali so se"
+      "gloss": "približali so se"
     },
     {
       "surface": "הימים",
@@ -141,6 +110,6 @@
       "gloss": "videnja"
     }
   ],
-  "timestamp": "2026-10-19T17:49:59.425856462Z",
+  "timestamp": "2026-10-19T20:22:42.580563952Z",
   "model": "glm-5.3"
 }

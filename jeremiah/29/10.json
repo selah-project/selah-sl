@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sedemdeset let",
-      "rationale": "določen čas izpolnitve za Bavel"
-    },
-    {
-      "kind": "crux",
-      "subject": "אפקד",
-      "rationale": "פקד pomeni obiskati\/pregledati\/potrditi — 'obiskal' dobesedno, 'spomnil se vas' (JPS) ali 'izpolnil' so razlage"
-    }
-  ],
-  "translation": "Kajti tako je rekel Jahve: Ko se izpolni za Bavel sedemdeset let, vas bom obiskal in nad vas postavil ⟨את⟩ svojo dobro besedo, da vas povem na to mesto.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "70c4a9a201890c3269109a2e9ea1c11cfe26ca9cbf69b90fda2072ffa419c458",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/9-12.1792431592661.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kaj tako govori Jahve: Ko se za Babilon izpolni sedemdeset let, vas bom obiskal ⟨את⟩ in uresničil nad vami svojo dobro besedo ⟨את⟩, da vas spravim nazaj ⟨את⟩ na to mesto.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "kaj"
     },
     {
       "surface": "כה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "je rekel"
+      "gloss": "govori"
     },
     {
       "surface": "יהוה",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "לפי",
-      "gloss": "po izpolnitvi"
+      "gloss": "po"
     },
     {
       "surface": "מלאת",
-      "gloss": "se izpolni"
+      "gloss": "izpolni"
     },
     {
       "surface": "לבבל",
-      "gloss": "za Bavel"
+      "gloss": "za Babilon"
     },
     {
       "surface": "שבעים",
@@ -70,19 +49,20 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "obiskal bom"
+      "gloss": "obiskal"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (obiskal)"
     },
     {
       "surface": "והקמתי",
-      "gloss": "in postavil"
+      "gloss": "uresničil"
     },
     {
       "surface": "עליכם",
-      "gloss": "nad vas"
+      "gloss": "nad vami"
     },
     {
       "surface": "את",
@@ -91,7 +71,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "besedo"
+      "gloss": "svojo besedo"
     },
     {
       "surface": "הטוב",
@@ -99,11 +79,12 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "da povem"
+      "gloss": "spravim nazaj"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas (spravim nazaj)"
     },
     {
       "surface": "אל",
@@ -111,13 +92,13 @@
     },
     {
       "surface": "המקום",
-      "gloss": "kraj"
+      "gloss": "mesto"
     },
     {
       "surface": "הזה",
-      "gloss": "ta"
+      "gloss": "to"
     }
   ],
-  "timestamp": "2026-10-19T17:39:52.661936716Z",
+  "timestamp": "2026-10-19T20:29:01.938361001Z",
   "model": "glm-5.3"
 }

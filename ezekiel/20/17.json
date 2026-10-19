@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ותחס \/ משחתם",
-      "rationale": "חס (prizanesti) in שחת (uničiti) — asonanca, ki v slovenščini izgine."
-    },
-    {
-      "kind": "alternative",
-      "subject": "naredil sem jih konec",
-      "rationale": "Dobesedno 'in nisem jih naredil (za) konec'; hebrejščina ima brez besede za končni rezultat — 'narediti konec' je idiom."
-    }
-  ],
-  "translation": "In moje oko jih je prizaneselo pred njihovim uničenjem, in naredil sem jih <konec> v puščavi <ne>.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/20\/17-20.1792432307877.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vendar jih je moje oko prizaneslo, da jih ne uničim, in nisem jih naredil ⟨את⟩ konec v puščavi.",
   "tokens": [
     {
       "surface": "ותחס",
-      "gloss": "in je prizaneselo"
+      "gloss": "prizaneslo je"
     },
     {
       "surface": "עיני",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "jih"
+      "gloss": "nad njimi"
     },
     {
       "surface": "משחתם",
-      "gloss": "pred njihovim uničenjem"
+      "gloss": "od njihovega uničenja"
     },
     {
       "surface": "ולא",
@@ -54,8 +33,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "konec (končni konec njih)"
+      "gloss": "⟨את⟩",
+      "marks": "konec (njih)"
     },
     {
       "surface": "כלה",
@@ -66,6 +45,6 @@
       "gloss": "v puščavi"
     }
   ],
-  "timestamp": "2026-10-19T17:51:47.877563782Z",
+  "timestamp": "2026-10-19T20:22:51.019230850Z",
   "model": "glm-5.3"
 }

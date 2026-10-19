@@ -5,27 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jih",
-      "rationale": "hebrejščina pomensko predmet פלצות namiguje, a besede ni"
-    }
-  ],
-  "translation": "In opašali si bodo raševino, groza jih bo pokrila, sramota bo na vseh obrazih in plešavost na vseh njihovih glavah.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "7e0f99af95246c59860d9d516d4b3da58b548ad6d4cf062aca0da8e1bf55d475",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/7\/17-20.1792432121908.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In prezašili bodo raševino, in groza jih bo pokrila, ⟨את⟩ — groza; in na vseh obrazih sramota, in na vseh njihovih glavah plešavost.",
   "tokens": [
     {
       "surface": "וחגרו",
-      "gloss": "in opašali si bodo"
+      "gloss": "in prezašili bodo"
     },
     {
       "surface": "שקים",
@@ -33,12 +17,12 @@
     },
     {
       "surface": "וכסתה",
-      "gloss": "in pokrila"
+      "gloss": "in pokrila bo"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "njih"
+      "marks": "njih — pomeni פלצות, grozo"
     },
     {
       "surface": "פלצות",
@@ -73,6 +57,6 @@
       "gloss": "plešavost"
     }
   ],
-  "timestamp": "2026-10-19T17:48:41.909516679Z",
+  "timestamp": "2026-10-19T20:24:33.721552589Z",
   "model": "glm-5.3"
 }

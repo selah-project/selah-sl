@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Sanherib, posredno prek poslancev Hizkiji",
-      "rationale": "Tirhakovo sporočilo sproži novo poslanstvo asirskega kralja Hizkiji."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨zoper te⟩",
-      "rationale": "אתך je tukaj predlog s priponsko osebno zaimkom ('s\/zoper teboj'), ne predmetni označevalec; ⟨את⟩ je v glosi ohranjen po pravilu."
-    }
-  ],
-  "translation": "In slišal je o Tirhaki, kralju Kuša, takole: Glej, izšel je, da se vojskuje ⟨zoper te⟩. In se obrnil je ter poslal poslance k Hizkiji, ki pravi:",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/19\/9-12.1792429704868.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In slišal je ⟨o⟩ Tirhaki, kralju Kuša, ki je rekel: Glej, izšel je, da se bo vojskoval ⟨את⟩ tebe; in vrnil se je ter poslal poslance Hizkiju, ki so rekli:",
   "tokens": [
     {
       "surface": "וישמע",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "o"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "תרהקה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "takole"
+      "gloss": "ki je rekel"
     },
     {
       "surface": "הנה",
-      "gloss": "glej"
+      "gloss": "Glej"
     },
     {
       "surface": "יצא",
@@ -62,20 +41,20 @@
     },
     {
       "surface": "להלחם",
-      "gloss": "da se vojskuje"
+      "gloss": "da se bo vojskoval"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ te",
-      "marks": "zoper te"
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
     },
     {
       "surface": "וישב",
-      "gloss": "in se obrnil je"
+      "gloss": "in vrnil se je"
     },
     {
       "surface": "וישלח",
-      "gloss": "ter poslal je"
+      "gloss": "ter poslal"
     },
     {
       "surface": "מלאכים",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkiji"
+      "gloss": "Hizkiju"
     },
     {
       "surface": "לאמר",
-      "gloss": "ki pravi"
+      "gloss": "ki so rekli"
     }
   ],
-  "timestamp": "2026-10-19T17:08:24.869479550Z",
+  "timestamp": "2026-10-19T20:17:19.204172882Z",
   "model": "glm-5.3"
 }

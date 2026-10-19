@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "cedek",
-      "rationale": "צדקה je 'cedek\/pravičnost', JPS 'due reward', BSB 'vindication' — oblika besede se ohrani kot cedek."
-    },
-    {
-      "kind": "addition",
-      "subject": "zoper tebe",
-      "rationale": "אתך pri לשון תקום dobesedno 's teboj\/v tvoji bližini'; kontekst zahteva 'zoper tebe'."
-    },
-    {
-      "kind": "crux",
-      "subject": "תרשיעי",
-      "rationale": "hifil 2. os. 'obsoditi' — 'ti boš obsodil' vs. pasivno branje 'bo obsojen'."
-    }
-  ],
-  "translation": "Vsako orodje, oblikovano zoper tebe, ne bo uspelo, in vsak jezik, ki vstane ⟨zoper tebe⟩ ⟨את⟩ v sodbi, boš obsodil. To je dediščina sužnjev Jahveja in njihova cedek je od mene, govori Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/54\/17-17.1792430760425.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vsako orožje, oblikovano zoper tebe, ne bo uspelo, in vsak jezik, ki vstane zoper tebe na sodbo, boš obsodila. To je dediščina služabnikov Jahveja in njihova cedek ⟨je⟩ od mene, govori Jahve.",
   "tokens": [
     {
       "surface": "כל",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "orodje"
+      "gloss": "orožje"
     },
     {
       "surface": "יוצר",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "למשפט",
-      "gloss": "v sodbi"
+      "gloss": "na sodbo"
     },
     {
       "surface": "תרשיעי",
-      "gloss": "boš obsodil"
+      "gloss": "boš obsodila"
     },
     {
       "surface": "זאת",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "נחלת",
-      "gloss": "je dediščina"
+      "gloss": "dediščina"
     },
     {
       "surface": "עבדי",
-      "gloss": "sužnjev"
+      "gloss": "služabnikov"
     },
     {
       "surface": "יהוה",
@@ -104,8 +78,8 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩ je od mene",
-      "marks": "cedek od mene"
+      "gloss": "⟨את⟩ od mene",
+      "marks": "od mene"
     },
     {
       "surface": "נאם",
@@ -116,6 +90,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T17:26:00.426582309Z",
+  "timestamp": "2026-10-19T20:27:45.440287811Z",
   "model": "glm-5.3"
 }

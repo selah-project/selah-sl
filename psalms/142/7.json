@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 142,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Predlog אל se v slovenščini steka z glagolom 'prisluhni'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ponižan",
-      "rationale": "דלותי dobesedno 'sem oslabel potrt', ne 'ponižan'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Prisluhni",
-      "rationale": "Imperativ, prošnja govorca."
-    }
-  ],
-  "translation": "Prisluhni mojemu vzkliku, kajti zelo sem ponižan; reši me pred moimi zasledovalci, kajti močnejši so od mene.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/142\/5-8.1792435731571.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Poslušaj mojo vzklik, kajti zelo sem omagal; reši me pred mojimi zasledovalci, kajti močnejši so od mene.",
   "tokens": [
     {
       "surface": "הקשיבה",
-      "gloss": "Prisluhni"
+      "gloss": "Poslušaj"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "mojo"
     },
     {
       "surface": "רנתי",
-      "gloss": "mojemu vzkliku"
+      "gloss": "vzklik"
     },
     {
       "surface": "כי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "דלותי",
-      "gloss": "sem ponižan"
+      "gloss": "sem omagal"
     },
     {
       "surface": "מאד",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "מרדפי",
-      "gloss": "pred moimi zasledovalci"
+      "gloss": "pred mojimi zasledovalci"
     },
     {
       "surface": "כי",
@@ -78,6 +52,6 @@
       "gloss": "od mene"
     }
   ],
-  "timestamp": "2026-10-19T18:48:51.573286395Z",
+  "timestamp": "2026-10-19T20:37:22.484027853Z",
   "model": "glm-5.3"
 }

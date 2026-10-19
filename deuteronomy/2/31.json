@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "glej",
-      "rationale": "imperativ ראה nagovarja Mošeta — 'glej' kot poziv k videnju"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "החל\/רש",
-      "rationale": "koren igra: החלתי…החל (začeti) in רש\/לרשת (zasedati) podvajata koren besed"
-    }
-  ],
-  "translation": "In Jahve je rekel meni: Glej, začel sem dáti pred teboj ⟨את⟩ Sihona in ⟨את⟩ njegovo deželo; začni zasedati, da zasedeš njegovo deželo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e71f91e8c762e5a16aa9c9c262e34a9b075ea96ac8ef84a7b24a17712acbc572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/2\/29-32.1792425656689.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jahve je rekel meni: Glej, pričel sem dati pred teboj ⟨את⟩ Sihona in ⟨את⟩ njegovo deželo; prični zasedati, da zasedeš ⟨את⟩ njegovo deželo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in je rekel"
+      "gloss": "In je rekel"
     },
     {
       "surface": "יהוה",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "ראה",
-      "gloss": "glej"
+      "gloss": "Glej"
     },
     {
       "surface": "החלתי",
-      "gloss": "začel sem"
+      "gloss": "pričel sem"
     },
     {
       "surface": "תת",
-      "gloss": "dáti"
+      "gloss": "dati"
     },
     {
       "surface": "לפניך",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "in ⟨את⟩",
       "marks": "njegovo deželo"
     },
     {
@@ -76,7 +55,7 @@
     },
     {
       "surface": "החל",
-      "gloss": "začni"
+      "gloss": "prični"
     },
     {
       "surface": "רש",
@@ -96,6 +75,6 @@
       "gloss": "njegovo deželo"
     }
   ],
-  "timestamp": "2026-10-19T16:00:56.690297765Z",
+  "timestamp": "2026-10-19T20:19:41.927540126Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "svojim",
-      "rationale": "hebrejščina nima prisvojnega zaimka pri בניו"
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "aleph-tav kot oznaka predmeta, v slovenščini samo ⟨את⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "sinovom Jaakovovim",
-      "rationale": "Jaakov nagovarja svoje sinove"
-    }
-  ],
-  "translation": "In poklical je Jaakov svoje sinove in rekel: Zberite se, in oznanil vam bom, kaj ⟨את⟩ vas bo doletelo v poslednjih dneh.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/49\/1-4.1792423027049.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jaakov je poklical k sebi svoje sinove in rekel: Zberite se, in povem vam ⟨את⟩ tisto, kar ⟨את⟩ vas bo doletelo v poslednjih dneh.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "in poklical je"
+      "gloss": "in je poklical"
     },
     {
       "surface": "יעקב",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "k sebi"
     },
     {
       "surface": "בניו",
-      "gloss": "svojim sinovom"
+      "gloss": "svoje sinove"
     },
     {
       "surface": "ויאמר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ואגידה",
-      "gloss": "in oznanil bom"
+      "gloss": "in povem"
     },
     {
       "surface": "לכם",
@@ -68,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaj vas bo doletelo"
+      "marks": "tisto, kar vas bo doletelo"
     },
     {
       "surface": "אשר",
@@ -91,6 +65,6 @@
       "gloss": "dneh"
     }
   ],
-  "timestamp": "2026-10-19T15:17:07.050601889Z",
+  "timestamp": "2026-10-19T20:26:32.480794627Z",
   "model": "glm-5.3"
 }

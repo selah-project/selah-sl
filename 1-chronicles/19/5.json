@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨k njim⟩",
-      "rationale": "slovenščina potrebuje osebek\/dopolnilo pri 'poslal v naproti', hebrejščina ima samo pripono -ם"
-    },
-    {
-      "kind": "you",
-      "subject": "shranjene moži",
-      "rationale": "kralj David neposredno nagovoriva osramočene može: 'Ostanite v Jerihu'"
-    }
-  ],
-  "translation": "In so odšli in sporočili Davidu o ⟨את⟩ teh možeh, in poslal je ⟨k njim⟩ v naproti, ker so bili možje zelo osramočeni. In kralj je rekel: Ostanite v Jerihu, dokler ne zraste vaša brada, in se vrnete.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/19\/5-8.1792438303832.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In so odšli in sporočili Davidu o ⟨teh⟩ možeh; on pa je poslal ⟨k njim⟩, da se z njimi sreča, kajti možje so bili zelo osramočeni. In kralj je rekel: Ostanite v Jerihu, dokler ne povzrodi vaša brada ⟨dlake⟩, in se vrnete.",
   "tokens": [
     {
       "surface": "וילכו",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨את⟩ teh možeh"
+      "gloss": "⟨teh⟩ možeh"
     },
     {
       "surface": "וישלח",
-      "gloss": "in poslal je"
+      "gloss": "in je poslal"
     },
     {
       "surface": "לקראתם",
-      "gloss": "v naproti ⟨k njim⟩"
+      "gloss": "k njim v srečanje"
     },
     {
       "surface": "כי",
-      "gloss": "ker"
+      "gloss": "kajti"
     },
     {
       "surface": "היו",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "dokler"
+      "gloss": "dokler ne"
     },
     {
       "surface": "אשר",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "יצמח",
-      "gloss": "zraste"
+      "gloss": "povzrodi"
     },
     {
       "surface": "זקנכם",
@@ -113,6 +92,6 @@
       "gloss": "in se vrnete"
     }
   ],
-  "timestamp": "2026-10-19T19:31:43.834617838Z",
+  "timestamp": "2026-10-19T20:13:39.097662770Z",
   "model": "glm-5.3"
 }

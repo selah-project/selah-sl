@@ -5,35 +5,19 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "z njim",
-      "rationale": "Hebrejščina ima le אתו (aleph-tav z pripono); 'z njim' dodano za slovensko slovnico"
-    }
-  ],
-  "translation": "In Sará je zanosila in rodila Avrahamu sina v njegovi starosti, ob določenem času, za katerega je govoril Elohim ⟨את⟩ ⟨z njim⟩.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/21\/1-4.1792422315954.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Sára je spočela in rodila Avrahamu sina v njegovi starosti ob določenem času, o katerem je govoril ⟨את⟩ Elohim.",
   "tokens": [
     {
       "surface": "ותהר",
-      "gloss": "zanosila"
+      "gloss": "in je spočela"
     },
     {
       "surface": "ותלד",
-      "gloss": "rodila"
+      "gloss": "in rodila"
     },
     {
       "surface": "שרה",
-      "gloss": "Sará"
+      "gloss": "Sára"
     },
     {
       "surface": "לאברהם",
@@ -44,7 +28,7 @@
       "gloss": "sina"
     },
     {
-      "surface": "לזקניv",
+      "surface": "לזקניו",
       "gloss": "v njegovi starosti"
     },
     {
@@ -53,15 +37,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "za katerega"
+      "gloss": "o katerem"
     },
     {
       "surface": "דבר",
-      "gloss": "govoril"
+      "gloss": "je govoril"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨z njim⟩",
+      "gloss": "⟨את⟩",
       "marks": "Elohim"
     },
     {
@@ -69,6 +53,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-19T15:05:15.955046788Z",
+  "timestamp": "2026-10-19T20:25:12.631457928Z",
   "model": "glm-5.3"
 }

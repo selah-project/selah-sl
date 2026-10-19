@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עשה\/יוצר אותה",
-      "rationale": "dvojina deležnikov s pripono -הּ: ali gre za Jeruzalem\/mesto ali za zemljo (1 Mz 1,1); slovenščina ohranja »njo« brez poimenovanja predmeta"
-    }
-  ],
-  "translation": "Tako govori Jahve, njen izdelovalec, Jahve, ki jo je oblikoval, da jo utrdi — Jahve je njegovo ime:",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/33\/1-4.1792431698682.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tako govori Jahve, njen delovalec, Jahve, njen oblikovalec, da bi ⟨את⟩ njeno pripravil — Jahve ⟨je⟩ njegovo ime.",
   "tokens": [
     {
       "surface": "כה",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "njen izdelovalec"
+      "gloss": "njen delovalec"
     },
     {
       "surface": "יהוה",
@@ -45,16 +29,16 @@
     },
     {
       "surface": "יוצר",
-      "gloss": "ki jo je oblikoval"
+      "gloss": "njen oblikovalec"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "jo (mesto)"
+      "marks": "njeno (zemljo iz verza 33,2 konteksta — sufnik 3. ž. sp.)"
     },
     {
       "surface": "להכינה",
-      "gloss": "da jo utrdi"
+      "gloss": "da bi jo pripravil"
     },
     {
       "surface": "יהוה",
@@ -65,6 +49,6 @@
       "gloss": "njegovo ime"
     }
   ],
-  "timestamp": "2026-10-19T17:41:38.682938517Z",
+  "timestamp": "2026-10-19T20:28:45.041071201Z",
   "model": "glm-5.3"
 }

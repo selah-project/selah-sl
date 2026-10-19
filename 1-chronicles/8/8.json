@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מן שלחו אתם",
-      "rationale": "'potem ko jih je poslal proč' — KJZ dodaja 'otroke', JPS bere אתם kot 'namreč' (Hušim in Baara) namesto objektni את."
-    },
-    {
-      "kind": "substitution",
-      "subject": "v polju Moaba",
-      "rationale": "בשדה מואאב dobesedno 'v polju Moaba'; različice glade 'dežela Moab'."
-    }
-  ],
-  "translation": "In Šaharajim je rodil v polju Moaba, potem ko jih je poslal ⟨את⟩ proč — Hušim in Baaro, svoji ženi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/8\/5-8.1792438101568.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šaharajim je rodil v polju Moaba, potem ko jih je poslal proč — Hušim in Baaro, svoji ženi ⟨so⟩.",
   "tokens": [
     {
       "surface": "ושחרים",
-      "gloss": "in Šaharajim"
+      "gloss": "Šaharajim"
     },
     {
       "surface": "הוליד",
@@ -54,7 +33,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Hušim"
     },
     {
       "surface": "חושים",
@@ -62,7 +42,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Baaro"
     },
     {
@@ -74,6 +54,6 @@
       "gloss": "svoji ženi"
     }
   ],
-  "timestamp": "2026-10-19T19:28:21.571990404Z",
+  "timestamp": "2026-10-19T20:13:39.000477459Z",
   "model": "glm-5.3"
 }

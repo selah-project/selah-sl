@@ -5,49 +5,23 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "glede",
-      "rationale": "predlog za zvezo ‘soditi glede vseh cedekov’; hebrejščina postavlja אתכם neposredno pred את כל צדקות"
-    },
-    {
-      "kind": "substitution",
-      "subject": "cedek",
-      "rationale": "צדקות dobesedno ‘pravična dejanja’; ohranjena beseda cedek po jezikovnem pravilu"
-    },
-    {
-      "kind": "you",
-      "subject": "Samuel nagovarja ljudstvo",
-      "rationale": "imperativ ‘stojte’ z neposrednim nagovorom zbranega ljudstva"
-    }
-  ],
-  "translation": "Zdaj pa stojte ⟨pokonci⟩, in jaz vas bom sodil pred Jahvejem ⟨glede⟩ vseh cedekov Jahveja, ki jih je storil ⟨את⟩ z vami ⟨את⟩ in z vašimi očeti.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/12\/5-8.1792427659671.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zdaj stopite predme, da se pripravim ⟨za⟩ sojenje ⟨את⟩ ⟨z⟩ vami pred Jahvejem ⟨o⟩ vseh cedek-dejanjih Jahveja, ki jih je storil ⟨את⟩ z vami in ⟨את⟩ z vašimi očeti.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "zdaj pa"
+      "gloss": "in zdaj"
     },
     {
       "surface": "התיצבו",
-      "gloss": "stojte pokonci"
+      "gloss": "stopite"
     },
     {
       "surface": "ואשפטה",
-      "gloss": "in jaz bom sodil"
+      "gloss": "da sodim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ ⟨z⟩ vami"
     },
     {
       "surface": "לפני",
@@ -60,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vse cedekove"
+      "marks": "vsa cedek-dejanja Jahveja"
     },
     {
       "surface": "כל",
-      "gloss": "vseh"
+      "gloss": "vsa"
     },
     {
       "surface": "צדקות",
-      "gloss": "cedekov"
+      "gloss": "cedek-dejanja"
     },
     {
       "surface": "יהוה",
@@ -84,17 +58,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ z vami"
+      "gloss": "⟨את⟩ ⟨z⟩ vami"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ in z"
+      "gloss": "⟨את⟩ in ⟨z⟩"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "vašimi očeti"
+      "gloss": "z vašimi očeti"
     }
   ],
-  "timestamp": "2026-10-19T16:34:19.672482736Z",
+  "timestamp": "2026-10-19T20:14:54.660061576Z",
   "model": "glm-5.3"
 }

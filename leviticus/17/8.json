@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "vàm",
-      "rationale": "בתוכם dobesedno 'v njihovi sredi'; slovenščina potrebuje 'med vami'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moše, za ljudstvo",
-      "rationale": "Neposreden naslov ('reci njim') — zapoved prek Mošea ljudstvu in tujcem v njegovi sredi"
-    }
-  ],
-  "translation": "In njim reci: vsakdo iz hiše Jisraelove in iz tujca, ki biva med vami, kdor prinese za žgalno daritev ali žrtev ⟨את⟩",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/17\/5-8.1792424322373.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In njim boš rekel: vsak človek iz hiše Jisraela ali iz tujca, ki biva med njimi, kdor prinese ⟨את⟩ žgalno daritev ali ⟨את⟩ žrtev,",
   "tokens": [
     {
       "surface": "ואלהם",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "reci"
+      "gloss": "boš rekel"
     },
     {
       "surface": "איש",
-      "gloss": "vsakdo"
+      "gloss": "človek"
     },
     {
       "surface": "איש",
-      "gloss": "kdorkoli"
+      "gloss": "vsak"
     },
     {
       "surface": "מבית",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelove"
+      "gloss": "Jisraela"
     },
     {
       "surface": "ומן",
-      "gloss": "in iz"
+      "gloss": "ali iz"
     },
     {
       "surface": "הגר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "בתוכם",
-      "gloss": "med vami"
+      "gloss": "med njimi"
     },
     {
       "surface": "אשר",
@@ -90,9 +69,9 @@
     },
     {
       "surface": "זבח",
-      "gloss": "žrtev ⟨את⟩"
+      "gloss": "žrtev"
     }
   ],
-  "timestamp": "2026-10-19T15:38:42.374490261Z",
+  "timestamp": "2026-10-19T20:33:15.279513692Z",
   "model": "glm-5.3"
 }

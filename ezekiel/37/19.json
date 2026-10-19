@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חברו",
-      "rationale": "prevedeno kot 'njegove tovariše' (pridevnik 'združeni'); KJV 'his fellows', dobesedno 'njegovi zdržani'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨skupaj z⟩",
-      "rationale": "hebrejščina ne ponovi 'z drogom' — vzet iz konteksta ponovitve."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עץ\/שבט",
-      "rationale": "isti simbol 'palice\/droga' za pleme in za les — besedna igra pleme=palica je v slovenščini delno izgubljena."
-    }
-  ],
-  "translation": "Govori njim: Tako govori Adonaj Jahve: Glede, jaz jemam drog Jozefa, ki je v roki Efrajima, in palice Jisraela, njegove tovariše, in položil jih nanj — ⟨skupaj z⟩ drogom Jude, in naredil jih bom v en drog, in bodo eno v moji roki.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "18696fd18bd90417d1b512fab9fafbad0081578a1c64efe81d16e002edd7f088",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/37\/17-20.1792433573691.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Govori njim: Tako govori Adonaj Jahve: Glede, jaz jemljem ⟨את⟩ palico Jožefa, ki je v roki Efrajima, in palice Jisraela, ⟨ki so⟩ z njo združene, in položil jih bom nanjo, ⟨את⟩ palico Jehude, in naredil jih bom v eno palico, in ⟨bodo⟩ eno v moji roki.",
   "tokens": [
     {
       "surface": "דבר",
@@ -67,20 +41,20 @@
     },
     {
       "surface": "לקח",
-      "gloss": "jemam"
+      "gloss": "jemljem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": " drog Jozefa"
+      "marks": "palico Jožefa"
     },
     {
       "surface": "עץ",
-      "gloss": " drog"
+      "gloss": "palico"
     },
     {
       "surface": "יוסף",
-      "gloss": "Jozefa"
+      "gloss": "Jožefa"
     },
     {
       "surface": "אשר",
@@ -104,49 +78,49 @@
     },
     {
       "surface": "חברו",
-      "gloss": "njegove tovariše"
+      "gloss": "z njo združene"
     },
     {
       "surface": "ונתתי",
-      "gloss": "in položil"
+      "gloss": "in položil jih bom"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ jih",
-      "marks": "nanj"
+      "marks": "nanjo (skupaj s palico Jehude)"
     },
     {
       "surface": "עליו",
-      "gloss": "nanj"
+      "gloss": "nanjo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": " drog Juda"
+      "marks": "palico Jehude"
     },
     {
       "surface": "עץ",
-      "gloss": " drog"
+      "gloss": "palico"
     },
     {
       "surface": "יהודה",
-      "gloss": "Juda"
+      "gloss": "Jehude"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "in naredil"
+      "gloss": "in naredil jih bom"
     },
     {
       "surface": "לעץ",
-      "gloss": "v drog"
+      "gloss": "v eno palico"
     },
     {
       "surface": "אחד",
-      "gloss": "en"
+      "gloss": "eno"
     },
     {
       "surface": "והיו",
-      "gloss": "in bodo"
+      "gloss": "in ⟨bodo⟩"
     },
     {
       "surface": "אחד",
@@ -157,6 +131,6 @@
       "gloss": "v moji roki"
     }
   ],
-  "timestamp": "2026-10-19T18:12:53.692858043Z",
+  "timestamp": "2026-10-19T20:24:05.040147815Z",
   "model": "glm-5.3"
 }

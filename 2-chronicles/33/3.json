@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "višave",
-      "rationale": "במה je 'vzpetina', kultno množinsko 'višave' — kraji čaščenja na vzpetinah"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ašere",
-      "rationale": "אשרות so podobe ali stebri boginje Ašere; 'gaji' (KJV groves) je napaka"
-    },
-    {
-      "kind": "addition",
-      "subject": "ponovno",
-      "rationale": "וישב ('obrnil se je') nosi vračilni pomen, zidanje znova"
-    }
-  ],
-  "translation": "In obrnil se je ter ponovno zidal višave, ki jih je porušil Jehizkijahu, njegov oče; in postavil je oltarje Baalom, in naredil ašere, in priklonil se je vsem vojskam nebes, in jih častil.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f4a55bf8309dca614ef373190eb333db3b48c0a55ae2b93d0d1f6876fe7337e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/33\/1-4.1792438877028.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vrnil se je in sezidal je ⟨את⟩ višave, ki jih je porušil Jizkijahu, njegov oče; in postavil je oltarje Baalom, in naredil je Ašere, in priklonil se je vsemu vojsku nebes in jih je služil.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "in obrnil se je"
+      "gloss": "in vrnil se je"
     },
     {
       "surface": "ויבן",
-      "gloss": "ter zidal"
+      "gloss": "in sezidal je"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "je porušil"
+      "gloss": "porušil"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Jehizkijahu"
+      "gloss": "Jizkijahu"
     },
     {
       "surface": "אביו",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "in naredil"
+      "gloss": "in naredil je"
     },
     {
       "surface": "אשרות",
-      "gloss": "ašere"
+      "gloss": "Ašere"
     },
     {
       "surface": "וישתחו",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "vsem"
+      "gloss": "vsemu"
     },
     {
       "surface": "צבא",
-      "gloss": "vojskam"
+      "gloss": "vojsku"
     },
     {
       "surface": "השמים",
@@ -104,13 +78,14 @@
     },
     {
       "surface": "ויעבד",
-      "gloss": "in častil (služil)"
+      "gloss": "in služil jih je"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "jih"
     }
   ],
-  "timestamp": "2026-10-19T19:41:17.033385529Z",
+  "timestamp": "2026-10-19T20:16:10.264238939Z",
   "model": "glm-5.3"
 }

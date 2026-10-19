@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שלשים",
-      "rationale": "beseda pomeni 'tretji častnik \/ plemič' (KJv 'great lords') ali glasbilo 'triangel'; sprejel sem plemiče."
-    },
-    {
-      "kind": "hapax",
-      "subject": "פקוד",
-      "rationale": "Pekod — simbolično ime za babilonsko pokrajino, samo tu v tej obliki."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פקוד ושוע וקוע",
-      "rationale": "tri plemenska imena zraven vojaškega pregleda (פקד) — zvočna igra, v slovenščini izgubljena."
-    }
-  ],
-  "translation": "Sinovi Bavela in vsi Kašdijci, Pekod in Šoa in Koa, vsi sinovi Ašurja ⟨z njimi⟩ — vsi izbrani mladeniči želje, namestniki in poveljniki, vsi plemiči in kličani po imenu, jezdci konj vsi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "291e6e7a8e8a499a25243fd4672dac9ed0d189dce0e41f67900d8677a5d4cf77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/23\/21-24.1792432440641.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sinje Babilona in vsi Kaldejci, Pekod in Šoa in Koa, vsi sinje Asurja ⟨z njimi⟩ — mladeniči željene lepote, namestniki in poveljniki, vsi tretji možje in poklicani, jezdilci konj, vsi.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "sinovi"
+      "gloss": "sinje"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavela"
+      "gloss": "Babilona"
     },
     {
       "surface": "וכל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kašdijci"
+      "gloss": "Kaldejci"
     },
     {
       "surface": "פקוד",
@@ -67,24 +41,24 @@
     },
     {
       "surface": "בני",
-      "gloss": "sinovi"
+      "gloss": "sinje"
     },
     {
       "surface": "אשור",
-      "gloss": "Ašurja"
+      "gloss": "Asurja"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "izbrani mladeniči"
+      "marks": "mladeniči željene lepote"
     },
     {
       "surface": "בחורי",
-      "gloss": "izbrani mladeniči"
+      "gloss": "mladeniči"
     },
     {
       "surface": "חמד",
-      "gloss": "želenja"
+      "gloss": "željene lepote"
     },
     {
       "surface": "פחות",
@@ -100,15 +74,15 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "plemiči"
+      "gloss": "tretji možje"
     },
     {
       "surface": "וקרואים",
-      "gloss": "in kličani po imenu"
+      "gloss": "in poklicani"
     },
     {
       "surface": "רכבי",
-      "gloss": "jezdci"
+      "gloss": "jezdilci"
     },
     {
       "surface": "סוסים",
@@ -119,6 +93,6 @@
       "gloss": "vsi"
     }
   ],
-  "timestamp": "2026-10-19T17:54:00.642618353Z",
+  "timestamp": "2026-10-19T20:23:21.729894896Z",
   "model": "glm-5.3"
 }

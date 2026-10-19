@@ -5,37 +5,16 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וחרה אף",
-      "rationale": "Dobesedno 'vzgorel bo nos' — hebrejski idiom za jezo, izgubljen v slovenščini."
-    },
-    {
-      "kind": "you",
-      "subject": "to Izraelu",
-      "rationale": "Pogojni opomin neposredno Izraelu o zavezi in posledicah."
-    }
-  ],
-  "translation": "Kadar prekršite ⟨את⟩ zavezo Jahveja, vašega Elohima, ki vam jo je zapolovedal, in odidete ter služite drugim bogovom in se priklonite njim, se bo vnela jeza Jahveja proti vam in hitro boste izginili s te dobre zemlje, ki vam jo je dal.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "993bb73692a49117fd80f4e3eaa593096e801a0883966c36e9411b7df3120cfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/23\/13-16.1792426960036.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Če prekršite ⟨את⟩ zavezo Jahveja, vašega Elohima, ki vam jo je zadal, in pojdete ter služite drugim bogovom in se priklonite njim, se bo vnela jeza Jahveja proti vam in hitro boste izginili z dobre dežele, ki vam jo je dal.",
   "tokens": [
     {
       "surface": "בעברכם",
-      "gloss": "kadar prekršite"
+      "gloss": "če prekršite"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zavezo Jahveja"
+      "marks": "zavezo"
     },
     {
       "surface": "ברית",
@@ -55,20 +34,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "je zapolovedal"
+      "gloss": "je zadal"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vam",
+      "gloss": "⟨את⟩",
       "marks": "vam"
     },
     {
       "surface": "והלכתם",
-      "gloss": "in odidete"
+      "gloss": "in pojdete"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "ter služite"
+      "gloss": "in služite"
     },
     {
       "surface": "אלהים",
@@ -112,11 +91,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "s"
+      "gloss": "z"
     },
     {
       "surface": "הארץ",
-      "gloss": "zemlje"
+      "gloss": "dežele"
     },
     {
       "surface": "הטובה",
@@ -135,6 +114,6 @@
       "gloss": "vam"
     }
   ],
-  "timestamp": "2026-10-19T16:22:40.038412131Z",
+  "timestamp": "2026-10-19T20:31:52.557434696Z",
   "model": "glm-5.3"
 }

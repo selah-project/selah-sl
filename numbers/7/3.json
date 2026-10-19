@@ -5,42 +5,11 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צב",
-      "gloss_rationale": "hapax: 'pokrita\/palankinska voz' (Targum, Rashi) proti 'voz za tovor' ali žival 'kuščar'; miška 'z baldahini'."
-    },
-    {
-      "kind": "hapax",
-      "subject": "צב",
-      "rationale": "beseda צב se v Tanahu pojavi samo tukaj (v tem pomenu)."
-    },
-    {
-      "kind": "measurement",
-      "subject": "šest voz in dvanajst volov",
-      "rationale": "natančno štetje daritve."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ena⟩",
-      "rationale": "slovenščina potrebuje pridevnik pri 'vsakega'."
-    }
-  ],
-  "translation": "In prinesli so ⟨את⟩ svojo daritev pred Jahve: šest voz z baldahini in dvanajst glav govedi; voz za dva načelnika in vol za vsakega ⟨ena⟩; in prineli so ⟨את⟩ jih pred miškan.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/7\/1-4.1792424787926.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In prinesli so ⟨את⟩ svojo daritev pred Jahve: šest pokritih vozov in dvanajst govedi, en voz za dva kneza in en vol za vsakega ⟨enega⟩; in prineli so ⟨את⟩ njih pred miškan.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "In prinesli so"
+      "gloss": "in prinesli so"
     },
     {
       "surface": "את",
@@ -65,11 +34,11 @@
     },
     {
       "surface": "עגלת",
-      "gloss": "voz"
+      "gloss": "pokritih vozov"
     },
     {
       "surface": "צב",
-      "gloss": "z baldahini"
+      "gloss": "pokritih"
     },
     {
       "surface": "ושני",
@@ -77,15 +46,15 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "dvanajst"
     },
     {
       "surface": "בקר",
-      "gloss": "glav govedi"
+      "gloss": "govedi"
     },
     {
       "surface": "עגלה",
-      "gloss": "voz"
+      "gloss": "en voz"
     },
     {
       "surface": "על",
@@ -97,11 +66,11 @@
     },
     {
       "surface": "הנשאים",
-      "gloss": "načelnika"
+      "gloss": "kneza"
     },
     {
       "surface": "ושור",
-      "gloss": "in vol"
+      "gloss": "in en vol"
     },
     {
       "surface": "לאחד",
@@ -113,8 +82,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "voz in govedo"
+      "gloss": "⟨את⟩",
+      "marks": "njih"
     },
     {
       "surface": "לפני",
@@ -125,6 +94,6 @@
       "gloss": "miškan"
     }
   ],
-  "timestamp": "2026-10-19T15:46:27.927523395Z",
+  "timestamp": "2026-10-19T20:36:35.063906826Z",
   "model": "glm-5.3"
 }

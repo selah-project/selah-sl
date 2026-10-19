@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "paznik",
-      "rationale": "צפה je 'kdo strmijoči v daljavo, opazovalec' — 'paznik' je kraješna vloga"
-    },
-    {
-      "kind": "you",
-      "subject": "Ezekielu",
-      "rationale": "Jahve imenuje preroka in mu dá nalogo — neposreden nagovor"
-    }
-  ],
-  "translation": "Sin človeka, za paznika sem te postavil domu Jisraela, in slišal boš iz mojih ust besedo ter jih opozoril od mene.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "8b5d17580228be84adb43dfad763b009cb81ebf9b85462328582707980652917",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/3\/17-20.1792432128141.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sin človeka, za opazovalca sem te postavil hiši Jisraela, in slišal boš iz mojih ust besedo in opozoril ⟨את⟩ jih od mene.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "sin"
+      "gloss": "Sin"
     },
     {
       "surface": "אדם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "צפה",
-      "gloss": "za paznika"
+      "gloss": "opazovalca"
     },
     {
       "surface": "נתתיך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "domu"
+      "gloss": "hiši"
     },
     {
       "surface": "ישראל",
@@ -66,18 +45,18 @@
     },
     {
       "surface": "והזהרת",
-      "gloss": "ter opozoril"
+      "gloss": "in opozoril"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "jih od mene"
     },
     {
       "surface": "ממני",
       "gloss": "od mene"
     }
   ],
-  "timestamp": "2026-10-19T17:48:48.142055901Z",
+  "timestamp": "2026-10-19T20:23:23.694573320Z",
   "model": "glm-5.3"
 }

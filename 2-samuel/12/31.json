@@ -5,33 +5,12 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "במגרה ובחרצי הברזל",
-      "rationale": "klasična težava: mučenje in poboj (KJV, medievals) proti prisilnemu delu z žago, drljačo in sekirami pri opečnih pečeh (1 Lét 20,3 vzporedni odlomek, večina sodobnih prevodov)"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "gloss-hint": "prvi את kot predmetni označevalec ⟨את⟩; drugi אותם je osebni zaimek 'jih'"
-    }
-  ],
-  "translation": "In ⟨את⟩ ljudstvo, ki je bilo v njej, je izpel in jih postavil pod žago in pod železne drljače in pod železne sekire, in jih pognal skozi opečno peč; tako je storil vsem mestom sinov Amona. In David se je vrnil, in vse ljudstvo, v Jerušalajim.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "936d153ee2b2f78b34c4651dd78800f3303730400f4a93745dea4a8f2079fe3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/12\/29-31.1792428381808.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ ljudstvo, ki je bilo v njej, je izpel in jih postavil k žagi in rezalnim orodjem iz železa ter sekiram iz železa, in jih je spravil v peč za opeko; tako je storil vsem mestom sinov Amona. In David se je vrnil z vsem ljudstvom v Jerušalajim.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ljudstvo, ki je bilo v njej"
+      "marks": "ljudstvo"
     },
     {
       "surface": "העם",
@@ -47,35 +26,35 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "izpel je"
+      "gloss": "je izpel"
     },
     {
       "surface": "וישם",
-      "gloss": "in postavil"
+      "gloss": "in jih postavil"
     },
     {
       "surface": "במגרה",
-      "gloss": "pod žago"
+      "gloss": "k žagi"
     },
     {
       "surface": "ובחרצי",
-      "gloss": "in pod drljače"
+      "gloss": "in rezalnim orodjem"
     },
     {
       "surface": "הברזל",
-      "gloss": "železne"
+      "gloss": "iz železa"
     },
     {
       "surface": "ובמגזרת",
-      "gloss": "in pod sekire"
+      "gloss": "ter sekiram"
     },
     {
       "surface": "הברזל",
-      "gloss": "železne"
+      "gloss": "iz železa"
     },
     {
       "surface": "והעביר",
-      "gloss": "in pognal"
+      "gloss": "in jih je spravil"
     },
     {
       "surface": "אותם",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "במלכן",
-      "gloss": "skozi opečno peč"
+      "gloss": "v peč za opeko"
     },
     {
       "surface": "וכן",
@@ -111,7 +90,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "in vrnil se je"
+      "gloss": "in se je vrnil"
     },
     {
       "surface": "דוד",
@@ -119,17 +98,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "in vse"
+      "gloss": "z vsem"
     },
     {
       "surface": "העם",
-      "gloss": "ljudstvo"
+      "gloss": "ljudstvom"
     },
     {
       "surface": "ירושלם",
       "gloss": "v Jerušalajim"
     }
   ],
-  "timestamp": "2026-10-19T16:46:21.809604928Z",
+  "timestamp": "2026-10-19T20:18:05.723129072Z",
   "model": "glm-5.3"
 }

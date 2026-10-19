@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הבמות",
-      "rationale": "'višave' (kultna mesta na vzvišenih krajih) — pogosto 'oline' ali 'opravišča'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Ašera",
-      "gloss": "KJV 'grove' (gaj); boginja ali njen kultni steber"
-    }
-  ],
-  "translation": "In obrnil se je in zidal višave, ki jih je uničil Hizkijahu, njegov oče; in postavil je žrtvenike Baalu in naredil Ašero, kakor je naredil Ahav, kralj Jisraela; in poklonil se je vsem vojskam neba in jih častil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "82f8e157cec26c82461cc6eb3327af91726a2b5d7465903b05a1a25eb5fd2eb8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/21\/1-4.1792429799156.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In obrnil se je ter zopet zgradil ⟨את⟩ višine, ki jih je uničil Hizkija, njegov oče; ter postavil oltarje Baalu in naredil ašero, kakor je naredil Ahab, kralj Jisraela; ter se priklonil vsemu vojskovanju neba in ⟨את⟩ njih služil.",
   "tokens": [
     {
       "surface": "וישב",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "ויבן",
-      "gloss": "in zidal"
+      "gloss": "ter zopet zgradil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "višave"
+      "marks": "višine"
     },
     {
       "surface": "הבמות",
-      "gloss": "višave"
+      "gloss": "višine"
     },
     {
       "surface": "אשר",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "אבד",
-      "gloss": "uničil"
+      "gloss": "je uničil"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkijahu"
+      "gloss": "Hizkija"
     },
     {
       "surface": "אביו",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "in postavil"
+      "gloss": "ter postavil"
     },
     {
       "surface": "מזבחת",
-      "gloss": "žrtvenike"
+      "gloss": "oltarje"
     },
     {
       "surface": "לבעל",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אשרה",
-      "gloss": "Ašero"
+      "gloss": "ašero"
     },
     {
       "surface": "כאשר",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "naredil"
+      "gloss": "je naredil"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahav"
+      "gloss": "Ahab"
     },
     {
       "surface": "מלך",
@@ -103,15 +82,15 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "in poklonil se je"
+      "gloss": "ter se priklonil"
     },
     {
       "surface": "לכל",
-      "gloss": "vsem"
+      "gloss": "vsemu"
     },
     {
       "surface": "צבא",
-      "gloss": "vojskam"
+      "gloss": "vojskovanju"
     },
     {
       "surface": "השמים",
@@ -119,13 +98,14 @@
     },
     {
       "surface": "ויעבד",
-      "gloss": "in častil"
+      "gloss": "ter služil"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩ njih",
+      "marks": "vojskovanje neba"
     }
   ],
-  "timestamp": "2026-10-19T17:09:59.157811387Z",
+  "timestamp": "2026-10-19T20:17:29.763219936Z",
   "model": "glm-5.3"
 }

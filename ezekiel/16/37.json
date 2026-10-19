@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "si bila všeč",
-      "rationale": "ערבת: 'bila všeč\/ugajala' (JPS, YLT) ali 'zavezala se\/prosredovala' (KJV 'taken pleasure' mehko)"
-    },
-    {
-      "kind": "you",
-      "subject": "Jerušalajim",
-      "rationale": "neposreden nagovor mesta v ženski obliki"
-    }
-  ],
-  "translation": "Zato, glej, jaz zbiram ⟨את⟩ vse tvoje ljubimce, katerim si bila všeč, in ⟨את⟩ vse, ki si jih ljubila, poleg vseh, ki si jih sovražila; in zbral jih bom nad teboj z vseh strani in razodel tvojo goloto pred njimi, in videli bodo ⟨את⟩ vso tvojo goloto.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "11091746fc5030c0b3b9c1248487d2112884ecc9e51aec66a5039fa20a130735",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/37-40.1792432272305.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato glej, jaz zbiram ⟨את⟩ vse tvoje ljubimce, katerim si bila všeč, in ⟨את⟩ vse, ki si jih ljubila, poleg vseh, ki si jih sovražila; in zbral jih bom nate z vseh strani in razodel bom tvojo goto prednje, in videli bodo ⟨את⟩ vso tvojo goto.",
   "tokens": [
     {
       "surface": "לכן",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "njim"
+      "gloss": "pri njih"
     },
     {
       "surface": "ואת",
@@ -100,15 +79,16 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "in zbral bom"
+      "gloss": "in zbral jih bom"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "nate"
     },
     {
       "surface": "עליך",
-      "gloss": "nad teboj"
+      "gloss": "nate"
     },
     {
       "surface": "מסביב",
@@ -120,11 +100,11 @@
     },
     {
       "surface": "ערותך",
-      "gloss": "tvojo goloto"
+      "gloss": "tvojo goto"
     },
     {
       "surface": "אלהם",
-      "gloss": "pred njimi"
+      "gloss": "prednje"
     },
     {
       "surface": "וראו",
@@ -133,7 +113,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vso tvojo goloto"
+      "marks": "vso tvojo goto"
     },
     {
       "surface": "כל",
@@ -141,9 +121,9 @@
     },
     {
       "surface": "ערותך",
-      "gloss": "tvojo goloto"
+      "gloss": "tvojo goto"
     }
   ],
-  "timestamp": "2026-10-19T17:51:12.305681364Z",
+  "timestamp": "2026-10-19T20:22:51.221878376Z",
   "model": "glm-5.3"
 }

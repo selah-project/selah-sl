@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "להם",
-      "rationale": "hebrejski idiom »šli so ⟨sebi⟩« = odšli so; slovenščina ga ne potrebuje"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tordejmat",
-      "rationale": "תרדמה glosovana po zvoku — ne običajno spanje, ampak božja globoka omamica (prim. 1 Mz 2,21)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ואין × 3",
-      "rationale": "trojna negacija »ni videl · ni vedel · ni se zbudil« — retorični ritem, ohranjen"
-    }
-  ],
-  "translation": "In David je vzel ⟨את⟩ kopje in ⟨את⟩ skodelico vode od Šaulove vzglavice, in odšla sta; in ni bilo nikogar, ki bi videl, in nikogar, ki bi vedel, in nikogar, ki bi se zbudil, kajti vsi so spali, kajti tordejmat Jahve je padla nanje.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/26\/9-12.1792428076485.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In David je vzel ⟨את⟩ kopje in ⟨את⟩ posodo z vodo od Žaulove glave, in odšli so; in ni bilo nikogar, ki bi videl, in ni bilo nikogar, ki bi vedel, in ni bilo nikogar, ki bi se zbudil, kajtar vsi so spali, kajtar tardema od Jahveja je padla nanje.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "in je vzel"
+      "gloss": "In vzel je"
     },
     {
       "surface": "דוד",
@@ -53,59 +27,59 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "skodelico"
+      "marks": "posodo z vodo"
     },
     {
       "surface": "צפחת",
-      "gloss": "skodelico"
+      "gloss": "posoda"
     },
     {
       "surface": "המים",
-      "gloss": "vode"
+      "gloss": "z vodo"
     },
     {
       "surface": "מראשתי",
-      "gloss": "od vzglavice"
+      "gloss": "od vzglavlja"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaula"
+      "gloss": "Žaula"
     },
     {
       "surface": "וילכו",
-      "gloss": "in odšla sta"
+      "gloss": "in odšli so"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "svojo pot"
     },
     {
       "surface": "ואין",
-      "gloss": "in ni bilo nikogar"
+      "gloss": "in ni bilo nikogar, ki bi"
     },
     {
       "surface": "ראה",
-      "gloss": "ki bi videl"
+      "gloss": "videl"
     },
     {
       "surface": "ואין",
-      "gloss": "in nikogar"
+      "gloss": "in ni bilo nikogar, ki bi"
     },
     {
       "surface": "יודע",
-      "gloss": "ki bi vedel"
+      "gloss": "vedel"
     },
     {
       "surface": "ואין",
-      "gloss": "in nikogar"
+      "gloss": "in ni bilo nikogar, ki bi"
     },
     {
       "surface": "מקיץ",
-      "gloss": "ki bi se zbudil"
+      "gloss": "se zbudil"
     },
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "kajtar"
     },
     {
       "surface": "כלם",
@@ -117,15 +91,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "kajtar"
     },
     {
       "surface": "תרדמת",
-      "gloss": "tordejmat"
+      "gloss": "tardema"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "od Jahveja"
     },
     {
       "surface": "נפלה",
@@ -136,6 +110,6 @@
       "gloss": "nanje"
     }
   ],
-  "timestamp": "2026-10-19T16:41:16.486295328Z",
+  "timestamp": "2026-10-19T20:15:43.504227135Z",
   "model": "glm-5.3"
 }

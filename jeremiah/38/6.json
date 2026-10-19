@@ -5,54 +5,29 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "del zveze כי אם »ampak (nič drugega kot)« — samostojno nima svoje besede."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "טיט … בטיט",
-      "rationale": "blato … v blato — ponovitev korena טיט zapira stavek; v slovenščini ostane, a aliteracija ויטבע\/טיט je izgubljena."
-    },
-    {
-      "kind": "crux",
-      "subject": "בן המלך",
-      "rationale": "»sin kralja« (YSO) proti »Hammelech« kot osebnim imenom (KJV, Geneva)."
-    }
-  ],
-  "translation": "In vzeli so ⟨את⟩ Jirmejahu in vrgli so ga v jamo Malkijahu, sina kralja, ki je bila na dvorišču ječe; in spustili so Jirmejahu s vrvmi. V jami ni bilo vode, ampak blato, in Jirmejahu je potonil v blato.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/38\/5-8.1792431732024.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vzeli so ⟨את⟩ Jeremija in vrgli ⟨את⟩ ga v jašek Malkije, sina kralja, ki je ⟨bil⟩ na dvorišču ječe; in spustili so ⟨את⟩ Jeremija z vrvmi. V jašku ni bilo vode, ampak blato, in Jeremija je potonil v blato.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "in vzeli so"
+      "gloss": "In vzeli so"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jirmejahu"
+      "marks": "Jeremija"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremija"
     },
     {
       "surface": "וישלכו",
-      "gloss": "in vrgli so"
+      "gloss": "in vrgli"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ njega"
+      "gloss": "⟨את⟩ ga",
+      "marks": "v jašek"
     },
     {
       "surface": "אל",
@@ -60,11 +35,11 @@
     },
     {
       "surface": "הבור",
-      "gloss": "jamo"
+      "gloss": "jašek"
     },
     {
       "surface": "מלכיהו",
-      "gloss": "Malkijahu"
+      "gloss": "Malkije"
     },
     {
       "surface": "בן",
@@ -76,7 +51,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki je"
     },
     {
       "surface": "בחצר",
@@ -93,19 +68,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jirmejahu"
+      "marks": "Jeremija"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremija"
     },
     {
       "surface": "בחבלים",
-      "gloss": "s vrvmi"
+      "gloss": "z vrvmi"
     },
     {
       "surface": "ובבור",
-      "gloss": "in v jami"
+      "gloss": "v jašku"
     },
     {
       "surface": "אין",
@@ -117,29 +92,29 @@
     },
     {
       "surface": "כי",
-      "gloss": "ampak (kajti)"
+      "gloss": "ampak"
     },
     {
       "surface": "אם",
-      "gloss": "— (del zveze כי אם: ampak)"
+      "gloss": ""
     },
     {
       "surface": "טיט",
-      "gloss": "blata"
+      "gloss": "blato"
     },
     {
       "surface": "ויטבע",
-      "gloss": "in potonil je"
+      "gloss": "in je potonil"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremija"
     },
     {
       "surface": "בטיט",
       "gloss": "v blato"
     }
   ],
-  "timestamp": "2026-10-19T17:42:12.025707918Z",
+  "timestamp": "2026-10-19T20:29:35.174939381Z",
   "model": "glm-5.3"
 }

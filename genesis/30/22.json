@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "uslišal",
-      "rationale": "שמע je dobesedno 'slišal', uslišal je prot druga stvar"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זכר\/פתח",
-      "rationale": "zaporedje 'spomnil se — slišal — odprl' gradi tri glagole na isti Raveni"
-    }
-  ],
-  "translation": "In Elohim se je spomnil ⟨את⟩ Rahel, in Elohim je uslišal ⟨את⟩ njo, in odprl je ⟨את⟩ njeno maternico.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "fde1c94bcb49b1a4499c2da29cfb885d381ad0a35d7d29a0a589ae220f764943",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/30\/21-24.1792422498251.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Elohim se je spomnil ⟨את⟩ Rahel, in Elohim je uslišal njo, ter odprl ⟨את⟩ njen maternico.",
   "tokens": [
     {
       "surface": "ויזכר",
-      "gloss": "in se je spomnil"
+      "gloss": "se je spomnil"
     },
     {
       "surface": "אלהים",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "in uslišal je"
+      "gloss": "je uslišal"
     },
     {
       "surface": "אליה",
-      "gloss": "⟨את⟩ njo"
+      "gloss": "njo"
     },
     {
       "surface": "אלהים",
@@ -59,18 +38,18 @@
     },
     {
       "surface": "ויפתח",
-      "gloss": "in odprl je"
+      "gloss": "je odprl"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njeno maternico"
+      "marks": "njen maternico"
     },
     {
       "surface": "רחמה",
-      "gloss": "njeno maternico"
+      "gloss": "njen maternico"
     }
   ],
-  "timestamp": "2026-10-19T15:08:18.252206019Z",
+  "timestamp": "2026-10-19T20:25:33.259312988Z",
   "model": "glm-5.3"
 }

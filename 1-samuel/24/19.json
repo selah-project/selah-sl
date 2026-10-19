@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סגרני",
-      "rationale": "'me je zaprl (predal)' — hebrejska slika zaprtja v roko, ne 'izročil'"
-    }
-  ],
-  "translation": "In ti si danes razodel ⟨את⟩ to, kar si mi storil ⟨את⟩ dobro: ⟨da⟩ me je Jahve zaprl v tvojo roko in me nisi ubil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/24\/17-20.1792427949813.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ti si danes razodel ⟨את⟩ to, kar si mi storil dobro — ⟨את⟩ to, kar me je Jahve zaprl v tvojo roko, pa me nisi ubil.",
   "tokens": [
     {
       "surface": "ואת",
@@ -38,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "to, kar si mi storil dobro"
     },
     {
       "surface": "אשר",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mi"
+      "gloss": "⟨את⟩ meni"
     },
     {
       "surface": "טובה",
@@ -59,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "to, kar me je Jahve zaprl v tvojo roko"
     },
     {
       "surface": "אשר",
@@ -79,13 +63,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "pa ne"
     },
     {
       "surface": "הרגתני",
-      "gloss": "me nisi ubil"
+      "gloss": "si me ubil"
     }
   ],
-  "timestamp": "2026-10-19T16:39:09.814842251Z",
+  "timestamp": "2026-10-19T20:15:16.068582375Z",
   "model": "glm-5.3"
 }

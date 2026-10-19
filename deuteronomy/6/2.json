@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ur-e",
-      "rationale": "חקת je 'določene\/navadne ureditve' — urejene predpise, ne le 'zakone'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "dnevi",
-      "rationale": "Verz šteje rodove (sin, sinov sin) in dni življenja — dolžina življenja kot obljuba."
-    }
-  ],
-  "translation": "Da bi se bal Jahveja, svojega Elohima, in varoval vse njegove ure in njegove zapovedi, ki jih jaz ukazujem tebi, ti in tvoj sin in sin tvojega sina, vse dneve svojega življenja, in da se podaljšajo tvoji dnevi.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/6\/1-4.1792425774883.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Da bi se bal ⟨את⟩ Jahveja, svojega Elohima, in da bi varoval ⟨את⟩ vse njegove severne odloke in njegove zapovedi, ki jih jaz zapovedujem tebi, ti in tvoj sin in sin tvojega sina, vse dni svojega življenja; in da bi se podaljšali tvoji dnevi.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "da"
+      "gloss": "da bi"
     },
     {
       "surface": "תירא",
-      "gloss": "boš bal"
+      "gloss": "se bal"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahveja"
+      "marks": "Jahveja, svojega Elohima"
     },
     {
       "surface": "יהוה",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "varoval"
+      "gloss": "in da bi varoval"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vse njegove ure"
+      "marks": "vse njegove severne odloke"
     },
     {
       "surface": "כל",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "njegove ure"
+      "gloss": "njegove severne odloke"
     },
     {
       "surface": "ומצותיו",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "ukazujem tebi"
+      "gloss": "zapovedujem tebi"
     },
     {
       "surface": "אתה",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "ימי",
-      "gloss": "dneve"
+      "gloss": "dni"
     },
     {
       "surface": "חייך",
@@ -112,17 +91,17 @@
     },
     {
       "surface": "ולמען",
-      "gloss": "in da"
+      "gloss": "in da bi"
     },
     {
       "surface": "יארכן",
-      "gloss": "se podaljšajo"
+      "gloss": "se podaljšali"
     },
     {
       "surface": "ימיך",
       "gloss": "tvoji dnevi"
     }
   ],
-  "timestamp": "2026-10-19T16:02:54.884655877Z",
+  "timestamp": "2026-10-19T20:20:48.516300744Z",
   "model": "glm-5.3"
 }

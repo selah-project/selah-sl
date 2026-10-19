@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "za njim",
-      "rationale": "אתו points at Josef; Slovenian needs a preposition, supplied in brackets"
-    },
-    {
-      "kind": "crux",
-      "subject": "אבל שאולה",
-      "rationale": "'mourning to Sheol' vs 'in mourning I will go down to Sheol' — placement of 'mourning' disputed"
-    },
-    {
-      "kind": "substitution",
-      "subject": "šeol",
-      "rationale": "שאול as the world of the dead, kept as šeol, not 'pekel\/grob'"
-    }
-  ],
-  "translation": "In vsi njegovi sinovi in vse njegove hčere so vstali, da bi ga tolažili, a ni maral biti potolažen, rekoč: Kajti ⟨spuščal⟩ se bom sinu svojemu v žalost v šeol. In njegov oče je jokal ⟨za njim⟩.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "0a69462e695018c9e73e085b15e3e5a5dbd4a04d267b1569e9530cdc3ddaf9ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/37\/33-36.1792422729532.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vstali so vsi njegovi sinovi in vse njegove hčere, da bi ga tolažili, a ni hotel biti tolažen, in rekel je: Kajti v žalosti stopim v šeol h svojemu sinu. In njegov oče je objokoval ⟨את⟩ njega.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "so vstali"
+      "gloss": "in vstali so"
     },
     {
       "surface": "כל",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "וימאן",
-      "gloss": "ni maral"
+      "gloss": "a ni hotel"
     },
     {
       "surface": "להתנחם",
-      "gloss": "biti potolažen"
+      "gloss": "biti tolažen"
     },
     {
       "surface": "ויאמר",
-      "gloss": "rekoč"
+      "gloss": "in rekel je"
     },
     {
       "surface": "כי",
@@ -75,38 +49,38 @@
     },
     {
       "surface": "ארד",
-      "gloss": "se bom spuščal"
+      "gloss": "stopim"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "v"
     },
     {
       "surface": "בני",
-      "gloss": "sinu svojemu"
+      "gloss": "svojemu sinu"
     },
     {
       "surface": "אבל",
-      "gloss": "v žalost"
+      "gloss": "v žalosti"
     },
     {
-      "surface": "שאolה",
-      "gloss": "v šeol"
+      "surface": "שאלה",
+      "gloss": "šeol"
     },
     {
       "surface": "ויבך",
-      "gloss": "je jokal"
+      "gloss": "in objokoval je"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "njegov oče (kot objekt jokanja — zanj)"
+      "marks": "njega (njegov oče ga je objokoval)"
     },
     {
       "surface": "אביו",
       "gloss": "njegov oče"
     }
   ],
-  "timestamp": "2026-10-19T15:12:09.533608816Z",
+  "timestamp": "2026-10-19T20:25:44.255056163Z",
   "model": "glm-5.3"
 }

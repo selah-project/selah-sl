@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "možem Sukota",
-      "rationale": "Gedeon neposredno nagovarja može Sukota in ponavlja njihove besede."
-    },
-    {
-      "kind": "idiom",
-      "subject": "הכף",
-      "rationale": "dobesedno 'dlan (roke)' — idiom za 'je mar v tvoji (dlani) roki', izgubi se podoba votle roke."
-    }
-  ],
-  "translation": "In prišel je k možem Sukota in rekel: Gle, Zebah in Calmuná, o katerih ste me zasmehovali, ko ste rekli: Mar so Zebah in Calmuná zdaj v tvoji roki, da bi dali kruh tvojim utrujenim možem?",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/8\/13-16.1792427108438.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In prišel je k možem Sukota in rekel: Glejte Zevaha in Calmuno, o katerih ste me zasmehovali ⟨את⟩ me, rekoč: Mar sta Zevah in Calmuna zdaj v tvoji roki, da bi dali kruh tvojim izmučenim možem?",
   "tokens": [
     {
       "surface": "ויבא",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "הנה",
-      "gloss": "gle"
+      "gloss": "Glejte"
     },
     {
       "surface": "זבח",
-      "gloss": "Zebah"
+      "gloss": "Zevaha"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "in Calmuná"
+      "gloss": "in Calmuno"
     },
     {
       "surface": "אשר",
@@ -66,27 +45,28 @@
     },
     {
       "surface": "חרפתם",
-      "gloss": "ste me zasmehovali"
+      "gloss": "ste zasmehovali"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mene"
+      "gloss": "⟨את⟩ me",
+      "marks": "mene (Gideonov »jaz«)"
     },
     {
       "surface": "לאמר",
-      "gloss": "ko ste rekli"
+      "gloss": "rekoč"
     },
     {
       "surface": "הכף",
-      "gloss": "mar so"
+      "gloss": "dlan"
     },
     {
       "surface": "זבח",
-      "gloss": "Zebah"
+      "gloss": "Zevah"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "in Calmuná"
+      "gloss": "in Calmuna"
     },
     {
       "surface": "עתה",
@@ -110,13 +90,13 @@
     },
     {
       "surface": "היעפים",
-      "gloss": "utrujenim"
+      "gloss": "izmučenim"
     },
     {
       "surface": "לחם",
       "gloss": "kruh"
     }
   ],
-  "timestamp": "2026-10-19T16:25:08.439826155Z",
+  "timestamp": "2026-10-19T20:32:50.534898625Z",
   "model": "glm-5.3"
 }

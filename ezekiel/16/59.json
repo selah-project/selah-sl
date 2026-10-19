@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ועשית",
-      "rationale": "oblika je 2. ž. spregnjena (izpust joda za ועשיתי), a subjekt je Elohim: 'storil ti bom' (KJV\/ASV) proti dobesedni 'ti si storila'"
-    },
-    {
-      "kind": "addition",
-      "subject": "bom",
-      "rationale": "hebrejščina postavlja dejanje v preteklik\/obljubo brez pomožnika; slovenščina potrebuje 'bom' za prihodnost"
-    }
-  ],
-  "translation": "Kajti tako govori Adonaj Jahve: In storil ti bom, kakor si storila ti, ki si zaničevala prisego, da bi prelomila zavezo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/57-60.1792432261249.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kaj tako govori Adonaj Jahve: ravnal bom s teboj ⟨את⟩ kakor si ravnala ⟨ti⟩, ki si zaničevala ⟨את⟩ prisego, da bi prelomila zavezo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kajti"
+      "gloss": "kaj"
     },
     {
       "surface": "כה",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "In storil"
+      "gloss": "ravnal bom"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "ti"
+      "marks": "s teboj"
     },
     {
       "surface": "כאשר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "עשית",
-      "gloss": "si storila"
+      "gloss": "si ravnala"
     },
     {
       "surface": "אשר",
@@ -86,6 +65,6 @@
       "gloss": "zavezo"
     }
   ],
-  "timestamp": "2026-10-19T17:51:01.250294145Z",
+  "timestamp": "2026-10-19T20:22:35.281372193Z",
   "model": "glm-5.3"
 }

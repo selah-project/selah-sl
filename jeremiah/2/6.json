@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Izraelu",
-      "rationale": "Jahve (prek preroka) nagovarja hišo Jakoba in rodbine hiše Jisraela glede nezvestobe očetov."
-    },
-    {
-      "kind": "crux",
-      "subject": "צלמות",
-      "rationale": "Sestavljena beseda cel-mavet ('senca smrti') ali ena beseda 'globoka tema'; slovenščina 'senca smrti' ohranja sestavo."
-    }
-  ],
-  "translation": "Niso pa rekli: Kje je Jahve, ki nas je dvignil iz dežele Micrajim, ki nas vodi po puščavi, v deželi ravnice in jam, v deželi suše in sence smrti, v deželi, kjer ni prešel čez njo noben mož in kjer ni človek prebival?",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/5-8.1792431039625.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In niso rekli: Kje je Jahve, ki nas je dvignil ⟨את⟩ nas iz dežele Micrajim, ki nas je vodil ⟨את⟩ nas po puščavi, v deželi ravnine in jam, v deželi suše in sence smrti, v deželi, ki je čez njo ni prešel noben mož in ni človek prebival tam?",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "In niso"
+      "gloss": "in niso"
     },
     {
       "surface": "אמרו",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "איה",
-      "gloss": "Kje"
+      "gloss": "kje"
     },
     {
       "surface": "יהוה",
-      "gloss": "je Jahve"
+      "gloss": "Jahve"
     },
     {
       "surface": "המעלה",
-      "gloss": "ki nas je dvignil"
+      "gloss": "ki dviga"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "nas"
+      "marks": "nas iz dežele Micrajim"
     },
     {
       "surface": "מארץ",
@@ -68,7 +47,7 @@
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "nas"
+      "marks": "nas po puščavi"
     },
     {
       "surface": "במדבר",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ערבה",
-      "gloss": "ravnice"
+      "gloss": "ravnine"
     },
     {
       "surface": "ושוחה",
@@ -135,6 +114,6 @@
       "gloss": "tam"
     }
   ],
-  "timestamp": "2026-10-19T17:30:39.626550465Z",
+  "timestamp": "2026-10-19T20:28:25.189207024Z",
   "model": "glm-5.3"
 }

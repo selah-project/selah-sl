@@ -5,28 +5,7 @@
   "book": "ezra",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "שתר בוזני",
-      "rationale": "Eno osebno ime, razdeljeno na dva hebrejska žetona."
-    },
-    {
-      "kind": "addition",
-      "subject": "sta … izvedla",
-      "rationale": "Aramejščina ima samo עבדו 'izvedli'; slovenščina zahteva dvojino pri dveh imenih."
-    }
-  ],
-  "translation": "Nato sta Tatnaj, satrap onstran reke, Šetar-Boznaj in njuni tovariši — glede na to, kar je poslal kralj Darjavuš — tako vestno izvedla.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezra\/6\/13-16.1792437673621.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nato sta Tatnaj, glavar onstran Reke, Šetar-Boznaj in njegovi tovariši, ker je kralj Darej tako poslal, vestno izvršila.",
   "tokens": [
     {
       "surface": "אדין",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "פחת",
-      "gloss": "satrap"
+      "gloss": "glavar"
     },
     {
       "surface": "עבר",
@@ -46,27 +25,27 @@
     },
     {
       "surface": "נהרה",
-      "gloss": "reke"
+      "gloss": "Reke"
     },
     {
       "surface": "שתר",
-      "gloss": "Šetar-Boznaj"
+      "gloss": "Šetar-"
     },
     {
       "surface": "בוזני",
-      "gloss": ""
+      "gloss": "Boznaj"
     },
     {
       "surface": "וכנותהון",
-      "gloss": "in njuni tovariši"
+      "gloss": "in njegovi tovariši"
     },
     {
       "surface": "לקבל",
-      "gloss": "glede na"
+      "gloss": "skladno s"
     },
     {
       "surface": "די",
-      "gloss": "to, kar"
+      "gloss": "kar"
     },
     {
       "surface": "שלח",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "דריוש",
-      "gloss": "Darjavuš"
+      "gloss": "Darej"
     },
     {
       "surface": "מלכא",
@@ -90,9 +69,9 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "izvedla"
+      "gloss": "izvršila"
     }
   ],
-  "timestamp": "2026-10-19T19:21:13.623553254Z",
+  "timestamp": "2026-10-19T20:24:49.900598512Z",
   "model": "glm-5.3"
 }

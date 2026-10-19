@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "sl",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כן",
-      "rationale": "אחרי כן je trden frazem 'potem'; כן posebej ne pride v slovenščino."
-    }
-  ],
-  "translation": "In potem so se približali vsi sinovi Jisraela, in zapovedal jim je ⟨את⟩ vse, kar je govoril Jahve ⟨את⟩ z njim na gori Sinaj.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e670e27f6b3857e01f1b3dc17e041907012b287426691f8f344500e829fd02d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/34\/29-32.1792423784883.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In potem so pristopili vsi sinovi Jisraela, in ⟨Moše⟩ jim je ukazal ⟨את⟩ vse, kar je govoril Jahve ⟨z⟩ njim na gori Sinaj.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "potem"
     },
     {
       "surface": "נגשו",
-      "gloss": "so se približali"
+      "gloss": "so pristopili"
     },
     {
       "surface": "כל",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "ויצום",
-      "gloss": "in zapovedal jim je"
+      "gloss": "in je ukazal"
     },
     {
       "surface": "את",
@@ -74,8 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ z njim",
-      "marks": "z njim"
+      "gloss": "⟨את⟩ z njim"
     },
     {
       "surface": "בהר",
@@ -86,6 +69,6 @@
       "gloss": "Sinaj"
     }
   ],
-  "timestamp": "2026-10-19T15:29:44.884898941Z",
+  "timestamp": "2026-10-19T20:22:07.668901372Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sramota",
-      "rationale": "ערוה je golota, spolna sramota; 'razgaliti nakedness' = hebrejski idiom za razkrivanje sramote."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ime med ženskami",
-      "rationale": "שם לנשים — ' ime med ženskami' pomeni pregovor, poučna oznaka; dobesedno bi zavedlo."
-    },
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "וַתְּהִי — 'in je postala'; glagolska zveza deloma dopolnjena v slovenščini."
-    }
-  ],
-  "translation": "Ti so razgalili njeno sramoto, njene sinove in hčere so vzeli, njo pa z mečem pobili; in postala je ⟨׳ime med ženskami — pregovor⟩ med ženskami, in sodbe so izvršili nad njo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "dc21e0187a7ca853f35db5e16754a7d74f43eac680d31f9ed9ca6c7f9bc4aac9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/23\/9-12.1792432454113.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ti so razkrili njeno goločutnost; njene sinove in njene hčere so vzeli, njo pa so z mečem ⟨את⟩ pobili; in postala je pregovor med ženskami, kajti sodbe so izvršili nad njo.",
   "tokens": [
     {
       "surface": "המה",
-      "gloss": "ti"
+      "gloss": "Ti"
     },
     {
       "surface": "גלו",
-      "gloss": "so razgalili"
+      "gloss": "so razkrili"
     },
     {
       "surface": "ערותה",
-      "gloss": "njeno sramoto"
+      "gloss": "njeno goločutnost"
     },
     {
       "surface": "בניה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ובנותיה",
-      "gloss": "in hčere"
+      "gloss": "in njene hčere"
     },
     {
       "surface": "לקחו",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "in je postala"
+      "gloss": "in postala je"
     },
     {
       "surface": "שם",
-      "gloss": "ime"
+      "gloss": "pregovor"
     },
     {
       "surface": "לנשים",
@@ -95,6 +69,6 @@
       "gloss": "nad njo"
     }
   ],
-  "timestamp": "2026-10-19T17:54:14.114436070Z",
+  "timestamp": "2026-10-19T20:23:19.324459384Z",
   "model": "glm-5.3"
 }

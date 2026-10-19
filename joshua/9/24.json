@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הגד הגד",
-      "rationale": "Infinitivus absolutus: ponovitev korena poudarja gotovost — »zagotovo je bilo povedano«; v slovenščini podvojenim »razglašeno, da je bilo razglašeno«."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפשתינו",
-      "rationale": "נפש je bližje »grlu\/življenjski sili« kot ločeni »duši«."
-    },
-    {
-      "kind": "you",
-      "subject": "Jozue",
-      "rationale": "Gibeonci neposredno odgovarjajo Jozuetu in skupščini."
-    }
-  ],
-  "translation": "In odgovorili so Jozuetu in rekli: »Ker je bilo razglašeno, da je bilo razglašeno vašim služabnikom ⟨את⟩, kar je Jahve, Elohim vaš, zapovedil ⟨את⟩ Mošetu, služabniku svojemu: dati vam ⟨את⟩ vso deželo in uničiti ⟨את⟩ vse prebivalce dežele pred vami — zato smo se zelo bali za svoje duše pred vami in naredili ⟨את⟩ to stvar.«",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c27bc578a133c57897222f7a932ad2ac4a3790ba05e4d360a76e226b373304c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/9\/21-24.1792426571151.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In odgovorili so ⟨את⟩ Jehošui in rekli: Ker je bilo povsem razglašeno tvojim služabnikom, ⟨את⟩ kar je Jahve, tvoj Elohim, zapovedal ⟨את⟩ Mošetu, svojemu služabniku, da vam da ⟨את⟩ vso deželo in iztrebi ⟨את⟩ vse prebivalce dežele pred vami, smo se zelo bali za naše duše pred vami in smo naredili ⟨את⟩ to stvar.",
   "tokens": [
     {
       "surface": "ויענו",
@@ -40,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jozue"
+      "marks": "Jehošua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jozuetu"
+      "gloss": "Jehošui"
     },
     {
       "surface": "ויאמרו",
@@ -56,20 +30,20 @@
     },
     {
       "surface": "הגד",
-      "gloss": "razglašeno"
+      "gloss": "je bilo razglašeno"
     },
     {
       "surface": "הגד",
-      "gloss": "razglašeno"
+      "gloss": "povsem razglašeno"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "vašim služabnikom"
+      "gloss": "tvojim služabnikom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kar (אשר)"
+      "marks": "kar"
     },
     {
       "surface": "אשר",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "zapovedel"
+      "gloss": "zapovedal"
     },
     {
       "surface": "יהוה",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim vaš"
+      "gloss": "tvoj Elohim"
     },
     {
       "surface": "את",
@@ -98,11 +72,11 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "služabniku svojemu"
+      "gloss": "svojemu služabniku"
     },
     {
       "surface": "לתת",
-      "gloss": "dati"
+      "gloss": "da da"
     },
     {
       "surface": "לכם",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "ולהשמיד",
-      "gloss": "in uničiti"
+      "gloss": "in iztrebi"
     },
     {
       "surface": "את",
@@ -148,7 +122,7 @@
     },
     {
       "surface": "ונירא",
-      "gloss": "in bali smo se"
+      "gloss": "smo se bali"
     },
     {
       "surface": "מאד",
@@ -156,7 +130,7 @@
     },
     {
       "surface": "לנפשתינו",
-      "gloss": "za svoje duše"
+      "gloss": "za naše duše"
     },
     {
       "surface": "מפניכם",
@@ -164,7 +138,7 @@
     },
     {
       "surface": "ונעשה",
-      "gloss": "in naredili"
+      "gloss": "in smo naredili"
     },
     {
       "surface": "את",
@@ -173,13 +147,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "stvar"
+      "gloss": "to stvar"
     },
     {
       "surface": "הזה",
       "gloss": "to"
     }
   ],
-  "timestamp": "2026-10-19T16:16:11.152423375Z",
+  "timestamp": "2026-10-19T20:32:02.100870623Z",
   "model": "glm-5.3"
 }

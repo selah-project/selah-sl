@@ -5,41 +5,20 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "so bile",
-      "rationale": "hebrejščina brez pomožnega glagola v odvisnem stavku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "poveljnik morilcev",
-      "rationale": "רב טבחים je dobesedno 'velik (poveljnik) klavcev'; 'kapitan straže' prireja urad"
-    }
-  ],
-  "translation": "In vso obzidje Jerušalajima okrog in okrog so porušile vse čete Kaldejcev, ki ⟨so bile⟩ z poveljnikom morilcev.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/52\/13-16.1792432028725.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ vse zidove Jerušalajima naokoli so porušili vsi možje vojske Kaldejcev, ki so bili ⟨את⟩ ⟨z⟩ poveljnikom krvnikov.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
-      "marks": "vso obzidje Jerušalajima"
+      "gloss": "⟨את⟩",
+      "marks": "vse zidove Jerušalajima"
     },
     {
       "surface": "כל",
-      "gloss": "vso"
+      "gloss": "vse"
     },
     {
       "surface": "חמות",
-      "gloss": "obzidje"
+      "gloss": "zidove"
     },
     {
       "surface": "ירושלם",
@@ -47,19 +26,19 @@
     },
     {
       "surface": "סביב",
-      "gloss": "okrog in okrog"
+      "gloss": "naokoli"
     },
     {
       "surface": "נתצו",
-      "gloss": "so porušile"
+      "gloss": "so porušili"
     },
     {
       "surface": "כל",
-      "gloss": "vse"
+      "gloss": "vsi"
     },
     {
       "surface": "חיל",
-      "gloss": "čete"
+      "gloss": "možje vojske"
     },
     {
       "surface": "כשדים",
@@ -72,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩ ⟨z⟩",
-      "marks": "poveljnikom morilcev"
+      "marks": "poveljnikom krvnikov"
     },
     {
       "surface": "רב",
@@ -80,9 +59,9 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "morilcev"
+      "gloss": "krvnikov"
     }
   ],
-  "timestamp": "2026-10-19T17:47:08.726682493Z",
+  "timestamp": "2026-10-19T20:29:49.122150123Z",
   "model": "glm-5.3"
 }

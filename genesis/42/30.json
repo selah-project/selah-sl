@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gospodar",
-      "rationale": "אדני je o človeku — po D1 prav 'gospodar', ne 'gospod'."
-    },
-    {
-      "kind": "crux",
-      "subject": "nas postavil kot vohune",
-      "rationale": "ויתן אתנו כמרגלים dobesedno 'dal nas za vohune'; prevodi raznihajo med 'vzel nas za vohune' in 'postavil nas kot vohune'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "vohuni",
-      "rationale": "מרגלים — izvidniki\/vohuni; 'vohun' ohranja ostrino obtožbe."
-    }
-  ],
-  "translation": "Tisti mož, gospodar dežele, je govoril z ⟨את⟩ nami ostro in nas postavil kot vohune ⟨את⟩ dežele.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "5933c0637e91465dd8ddabbdc8d586683311ae72728660062db239ddca332a3d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/42\/29-32.1792422851876.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mož, gospod dežele, je govoril z nami ostro in nas je postavil ⟨את⟩ kakor izvidnike ⟨את⟩ dežele.",
   "tokens": [
     {
       "surface": "דבר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "tisti mož"
+      "gloss": "mož"
     },
     {
       "surface": "אדני",
-      "gloss": "gospodar"
+      "gloss": "gospod"
     },
     {
       "surface": "הארץ",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "z ⟨את⟩ nami"
+      "gloss": "z nami ⟨את⟩"
     },
     {
       "surface": "קשות",
@@ -59,16 +33,16 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "in nas postavil"
+      "gloss": "in je postavil"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "kot vohune (nas)"
+      "gloss": "⟨את⟩ nas",
+      "marks": "kakor izvidnike"
     },
     {
       "surface": "כמרגלים",
-      "gloss": "kot vohune"
+      "gloss": "kakor izvidnike"
     },
     {
       "surface": "את",
@@ -80,6 +54,6 @@
       "gloss": "dežele"
     }
   ],
-  "timestamp": "2026-10-19T15:14:11.877085521Z",
+  "timestamp": "2026-10-19T20:26:12.524666952Z",
   "model": "glm-5.3"
 }

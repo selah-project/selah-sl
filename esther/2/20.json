@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "Estera",
-      "rationale": "Verz temelji na skriti identiteti — rod in ljudstvo sta zamolčana"
-    },
-    {
-      "kind": "crux",
-      "subject": "באמנה אתו",
-      "rationale": "'pod njegovo varstvom\/z njim' — KJV 'brought up with him'; אתו je predlog 'z', ne aleph-tav označevalnik"
-    }
-  ],
-  "translation": "Ester ni razkrila svojega rodu in ⟨את⟩ svojega ljudstva, kakor ji je zapovedal Mordej; in ⟨את⟩ zapoved Mordeja je Ester izpolnjevala, kakor je bila ⟨z njim⟩ pod skrbjo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/2\/17-20.1792437227636.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ester ni razodela svojega rodu in ⟨את⟩ svojega ljudstva, kakor ji je zapovedal Mordej; in ⟨את⟩ zapoved Mordeja je Ester izpolnjevala, kakor je bila v varstvu ⟨z⟩ njim ⟨את⟩.",
   "tokens": [
     {
       "surface": "אין",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מגדת",
-      "gloss": "razkrila"
+      "gloss": "razodela"
     },
     {
       "surface": "מולדתה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "in ⟨את⟩",
       "marks": "svojega ljudstva"
     },
     {
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "in ⟨את⟩",
       "marks": "zapoved Mordeja"
     },
     {
@@ -100,14 +79,13 @@
     },
     {
       "surface": "באמנה",
-      "gloss": "pod skrbjo"
+      "gloss": "v varstvu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ z njim",
-      "marks": "z njim"
+      "gloss": "⟨את⟩ z njim"
     }
   ],
-  "timestamp": "2026-10-19T19:13:47.640250542Z",
+  "timestamp": "2026-10-19T20:21:06.605057477Z",
   "model": "glm-5.3"
 }

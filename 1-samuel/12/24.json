@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Samuelov poziv",
-      "rationale": "imperativa 'bojte se' in 'služite' — nagovor ljudstvu k zavezi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אמת",
-      "rationale": "'zvestoba\/trdnost' namesto abstraktnega 'resnica'; emet je stabilnost zavezništva"
-    }
-  ],
-  "translation": "Le Jahve se bojte in služite ⟨את⟩ njemu v zvestobi z vsem svojim srcem, kajti poglejte ⟨את⟩ to, kar je veliko naredil z vami.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/12\/21-24.1792427651860.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Le Jahve se bojte in ⟨את⟩ njega služite v resnici, z vsem svojim srcem, kajti videli ste ⟨את⟩ to, kar je veliko storil z vami.",
   "tokens": [
     {
       "surface": "אך",
@@ -51,11 +30,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ njemu"
+      "gloss": "⟨את⟩",
+      "marks": "njega"
     },
     {
       "surface": "באמת",
-      "gloss": "v zvestobi"
+      "gloss": "v resnici"
     },
     {
       "surface": "בכל",
@@ -71,12 +51,12 @@
     },
     {
       "surface": "ראו",
-      "gloss": "poglejte"
+      "gloss": "ste videli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to, kar je veliko naredil"
+      "marks": "to, kar je veliko storil z vami"
     },
     {
       "surface": "אשר",
@@ -84,13 +64,13 @@
     },
     {
       "surface": "הגדל",
-      "gloss": "je veliko naredil"
+      "gloss": "je veliko storil"
     },
     {
       "surface": "עמכם",
       "gloss": "z vami"
     }
   ],
-  "timestamp": "2026-10-19T16:34:11.861263070Z",
+  "timestamp": "2026-10-19T20:14:44.478010436Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "zgrešil",
-      "rationale": "חטא pomeni dobesedno 'zgrešiti' (tarčo); slovenski 'zgrešil sem' ohranja sliko."
-    },
-    {
-      "kind": "you",
-      "subject": "prošnja Davidu Elohimu",
-      "rationale": "David se neposredno obrača na Elohim z izpovedjo in prošnjo."
-    }
-  ],
-  "translation": "In David je rekel Elohimu: Zgrešil sem zelo, ker sem storil ⟨את⟩ to stvar; in zdaj odpravi prosim krivdo svojega sužnja, kajtoravno sem ravnal.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/21\/5-8.1792438277148.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In David je rekel Elohimu: Zgrešil sem ⟨sem⟩ zelo, ker sem storil ⟨את⟩ to stvar; in zdaj daj ⟨prosim⟩, da preide ⟨את⟩ krivica svojega sužnja, kajti ravnal sem zelo nespametno.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "je rekel"
+      "gloss": "In je rekel"
     },
     {
       "surface": "דויד",
@@ -79,20 +58,20 @@
     },
     {
       "surface": "העבר",
-      "gloss": "odpravi"
+      "gloss": "daj, da preide"
     },
     {
       "surface": "נא",
-      "gloss": "prosím"
+      "gloss": "⟨prosim⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "krivdo"
+      "marks": "krivica svojega sužnja"
     },
     {
       "surface": "עוון",
-      "gloss": "krivdo"
+      "gloss": "krivica"
     },
     {
       "surface": "עבדך",
@@ -104,9 +83,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "sem ravnal neumno"
+      "gloss": "ravnal sem nespametno"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zelo"
     }
   ],
-  "timestamp": "2026-10-19T19:31:17.150627011Z",
+  "timestamp": "2026-10-19T20:13:45.324561379Z",
   "model": "glm-5.3"
 }

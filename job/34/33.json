@@ -5,36 +5,15 @@
   "book": "job",
   "lang": "sl",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המעמך",
-      "rationale": "dobesedno 'od\/z tebe' — 'po tvoji volji' (KJV) proti 'po tebi poplača' (YLJ); pomen je 'naj bo po tvoje?'"
-    },
-    {
-      "kind": "you",
-      "subject": "Ijovu",
-      "rationale": "Elihu se neposredno obrača na Ijova s vprašanjem in zahtevo 'govori'"
-    }
-  ],
-  "translation": "Ali naj po tvoji volji poplača, ker si zavrnil, ker ti izbiraš in ne jaz? In kaj veš, govori.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/34\/33-36.1792436749817.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ali naj po tvoji ⟨volji⟩ ⟨On⟩ to povrnea, ker si zavrnil, ker ti izbereš in ne jaz? In kaj veš, govori!",
   "tokens": [
     {
       "surface": "המעמך",
-      "gloss": "po tvoji volji"
+      "gloss": "po tvoji ⟨volji⟩"
     },
     {
       "surface": "ישלמנה",
-      "gloss": "poplača"
+      "gloss": "⟨On⟩ to povrnea"
     },
     {
       "surface": "כי",
@@ -54,15 +33,19 @@
     },
     {
       "surface": "תבחר",
-      "gloss": "izbiraš"
+      "gloss": "izbereš"
     },
     {
-      "surface": "ו לא אני",
-      "gloss": "in ne jaz"
+      "surface": "ולא",
+      "gloss": "in ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jaz"
     },
     {
       "surface": "ומה",
-      "gloss": "in kaj"
+      "gloss": "In kaj"
     },
     {
       "surface": "ידעת",
@@ -73,6 +56,6 @@
       "gloss": "govori"
     }
   ],
-  "timestamp": "2026-10-19T19:05:49.817999048Z",
+  "timestamp": "2026-10-19T20:30:30.115885843Z",
   "model": "glm-5.3"
 }

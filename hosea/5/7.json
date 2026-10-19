@@ -5,33 +5,7 @@
   "book": "hosea",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חדש",
-      "rationale": "'mesec' (KJV: čas enega meseca) proti 'mlaj' (ASV\/JPS\/BSB: praznik nove lune); oboje slovninsko mogoče."
-    },
-    {
-      "kind": "crux",
-      "subject": "חלקיהם",
-      "rationale": "'dele\/porcije' (JPS) proti 'njive' (ASV: 'fields'); חלק je 'gladek kos, delež'."
-    },
-    {
-      "kind": "addition",
-      "subject": "skupaj z",
-      "rationale": "predlog את tukaj kot 'z', vključno z deležem — slovenščina potrebuje 'skupaj z', ker את ne more nositi obeh vlog hkrati."
-    }
-  ],
-  "translation": "Zoper Jahveja so zagrešili nezvestobo, kajti tuje sinove so rodili; zdaj jih bo požrl mesec ⟨skupaj z⟩ njihovimi deli.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/5\/5-8.1792433800563.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zoper Jahveja so ravnali nezvesto, kajti tuje sinove so rodili; zdaj jih bo požrl mlaj ⟨את⟩ njihove dele.",
   "tokens": [
     {
       "surface": "ביהוה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "בגדו",
-      "gloss": "so zagrešili nezvestobo"
+      "gloss": "so ravnali nezvesto"
     },
     {
       "surface": "כי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "חדש",
-      "gloss": "mesec"
+      "gloss": "mlaj"
     },
     {
       "surface": "את",
@@ -76,9 +50,9 @@
     },
     {
       "surface": "חלקיהם",
-      "gloss": "njihove deli"
+      "gloss": "njihove dele"
     }
   ],
-  "timestamp": "2026-10-19T18:16:40.572402946Z",
+  "timestamp": "2026-10-19T20:26:48.981184001Z",
   "model": "glm-5.3"
 }

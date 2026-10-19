@@ -5,42 +5,16 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Izrael",
-      "rationale": "Neposreden nagovor zbora v Jahvejevem govoru."
-    },
-    {
-      "kind": "crux",
-      "subject": "אתכם (z vami)",
-      "rationale": "H854 ›s pri-‹ — »z vami«, ne DOM; ista pisava kot DOM v istem verzu."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בידכם",
-      "rationale": "dobesedno »v vašo roko« — hebrejski idiom za izročitev v oblast."
-    }
-  ],
-  "translation": "In pripeljal sem ⟨את⟩ vas v deželo Emorjcev, ki prebiva onstran Jordana, in bojevali so se ⟨את⟩ z vami, in dal sem jih v vašo roko, in zavzeli ste ⟨את⟩ njihovo deželo, in iztrebil sem jih izpred vas.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "7690aa7772f1b0c283995573c241b5ebd46434026f0aef0474dd02829edc9921",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/24\/7-8.1792439021875.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In privedel sem ⟨את⟩ vas v deželo Emorijcev, ki so prebivali onkraj Jordana, in bojevali so se z ⟨את⟩ vami; in dal sem ⟨את⟩ njih v vašo roko, in zasedli ste ⟨את⟩ njihovo deželo, in iztrebil sem jih izpred vaših obrazov.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "in pripeljal sem"
+      "gloss": "in privedel sem"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "v deželo Emorjcev"
+      "marks": "vas (privedel sem vas)"
     },
     {
       "surface": "אל",
@@ -52,15 +26,15 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorjcev"
+      "gloss": "Emorijcev"
     },
     {
       "surface": "היושב",
-      "gloss": "ki prebiva"
+      "gloss": "ki so prebivali"
     },
     {
       "surface": "בעבר",
-      "gloss": "onstran"
+      "gloss": "onkraj"
     },
     {
       "surface": "הירדן",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ z vami"
+      "gloss": "z ⟨את⟩ vami"
     },
     {
       "surface": "ואתן",
@@ -80,7 +54,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩ njih",
+      "marks": "njih (dal sem jih)"
     },
     {
       "surface": "בידכם",
@@ -88,7 +63,7 @@
     },
     {
       "surface": "ותירשו",
-      "gloss": "in zavzeli ste"
+      "gloss": "in zasedli ste"
     },
     {
       "surface": "את",
@@ -105,9 +80,9 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "izpred vas"
+      "gloss": "izpred vaših obrazov"
     }
   ],
-  "timestamp": "2026-10-19T19:43:41.877647067Z",
+  "timestamp": "2026-10-19T20:31:40.608701968Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "hebrejska predloga 's' se v slovenščini stapa z osebkom; ohranjena kot ⟨את⟩ z glagolsko osebo"
-    },
-    {
-      "kind": "substitution",
-      "subject": "החילים",
-      "rationale": "ד\/2428 je 'moč\/vojska'; 'vojakov' ohranja vojaški pomen množine"
-    }
-  ],
-  "translation": "In ko je videlo vse ljudstvo, ki je bilo pri Jišmaelu, Jochanana, sina Kareahovega, in vse kneze vojakov, ki so bili z njim ⟨את⟩, se je razveselilo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ab8b0b76bdfb311fd0f7c121e377008b83663e3994a66df64375b37d4f8549ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/41\/13-16.1792431788906.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodilo se je, da je videlo vse ljudstvo, ki je bilo ⟨את⟩ Jišmaelom, ⟨את⟩ Jochanana, sina Kareachovega, in ⟨את⟩ vse kneze vojakov, ki so bili pri njem, da so se razveselili.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "in zgodelo se je"
+      "gloss": "in zgodilo se je"
     },
     {
       "surface": "כראות",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "ves"
+      "gloss": "vse"
     },
     {
       "surface": "העם",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pri Jišmaelu"
+      "marks": "z Jišmaelom"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Jišmael"
+      "gloss": "Jišmaelom"
     },
     {
       "surface": "את",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "יוחנן",
-      "gloss": "Jochanan"
+      "gloss": "Jochanana"
     },
     {
       "surface": "בן",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "קרח",
-      "gloss": "Kareah"
+      "gloss": "Kareachovega"
     },
     {
       "surface": "ואת",
@@ -97,13 +76,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "z njim ⟨את⟩"
+      "gloss": "pri ⟨את⟩ njem"
     },
     {
       "surface": "וישמחו",
       "gloss": "so se razveselili"
     }
   ],
-  "timestamp": "2026-10-19T17:43:08.907655829Z",
+  "timestamp": "2026-10-19T20:29:15.588969491Z",
   "model": "glm-5.3"
 }

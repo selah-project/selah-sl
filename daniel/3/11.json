@@ -5,23 +5,7 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "aramejski veznik brez lastnega mesta v slovenščini po 'kdor'"
-    }
-  ],
-  "translation": "in kdor ne pade in se ne prikloni, bo vrečen v sredo goreče ognjene peči.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a39e0187f01707ef63c1ff3f10100e8d8295ec1a640bcecbc4a4e725f58b9ccc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/3\/9-12.1792437368260.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In kdor ne pade ⟨ne⟩ se prikloni v čaščenje, bo vržen sredi peči ognja goreče.",
   "tokens": [
     {
       "surface": "ומן",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "ne"
     },
     {
       "surface": "לא",
@@ -41,15 +25,15 @@
     },
     {
       "surface": "ויסגד",
-      "gloss": "se prikloni"
+      "gloss": "se prikloni v čaščenje"
     },
     {
       "surface": "יתרמא",
-      "gloss": "bo vrečen"
+      "gloss": "bo vržen"
     },
     {
       "surface": "לגוא",
-      "gloss": "v sredo"
+      "gloss": "sredi"
     },
     {
       "surface": "אתון",
@@ -57,13 +41,13 @@
     },
     {
       "surface": "נורא",
-      "gloss": "ognjene"
+      "gloss": "ognja"
     },
     {
       "surface": "יקדתא",
       "gloss": "goreče"
     }
   ],
-  "timestamp": "2026-10-19T19:16:08.263652199Z",
+  "timestamp": "2026-10-19T20:19:03.544384344Z",
   "model": "glm-5.3"
 }

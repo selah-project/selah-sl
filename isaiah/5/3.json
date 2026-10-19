@@ -5,89 +5,49 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "tokens",
-      "rationale": "wrong token list supplied for verse 3 — actual verse tokens (ועתה יושב ירושלם ואיש יהודה שפטו נא ביני ובין כרמי) were translated in the translation field"
-    }
-  ],
-  "translation": "In zdaj, prebivalec Jerušalajima in mož Jehude, sodita-mi-sodita ⟨prosim⟩ med menoj in mojim vinogradom.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "eaf4b995f23c0a289731a73115ec447ff30ac863496a6e76492b5b2df9c0cf38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/5\/1-4.1792430034262.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zdaj, prebivalci Jerušalajma in ljudje Jehudáha, presodita, prosim, med menoj in mojim vinogradom.",
   "tokens": [
     {
-      "surface": "ויעזקהו",
-      "gloss": ""
+      "surface": "ועתה",
+      "gloss": "in zdaj"
     },
     {
-      "surface": "ויסקלהו",
-      "gloss": ""
+      "surface": "יושב",
+      "gloss": "prebivalci"
     },
     {
-      "surface": "וטעהו",
-      "gloss": ""
+      "surface": "ירושלם",
+      "gloss": "Jerušalajma"
     },
     {
-      "surface": "שרק",
-      "gloss": ""
+      "surface": "ואיש",
+      "gloss": "in ljudje"
     },
     {
-      "surface": "ויבן",
-      "gloss": ""
+      "surface": "יהודה",
+      "gloss": "Jehudáha"
     },
     {
-      "surface": "מגדל",
-      "gloss": ""
+      "surface": "שפטו",
+      "gloss": "presodita"
     },
     {
-      "surface": "בתוכו",
-      "gloss": ""
+      "surface": "נא",
+      "gloss": "prosims"
     },
     {
-      "surface": "וגם",
-      "gloss": ""
+      "surface": "ביני",
+      "gloss": "med menoj"
     },
     {
-      "surface": "יקב",
-      "gloss": ""
+      "surface": "ובין",
+      "gloss": "in"
     },
     {
-      "surface": "חצב",
-      "gloss": ""
-    },
-    {
-      "surface": "בו",
-      "gloss": ""
-    },
-    {
-      "surface": "ויקו",
-      "gloss": ""
-    },
-    {
-      "surface": "לעשות",
-      "gloss": ""
-    },
-    {
-      "surface": "ענבים",
-      "gloss": ""
-    },
-    {
-      "surface": "ויעש",
-      "gloss": ""
-    },
-    {
-      "surface": "באשים",
-      "gloss": ""
+      "surface": "כרמי",
+      "gloss": "mojim vinogradom"
     }
   ],
-  "timestamp": "2026-10-19T17:13:54.263241936Z",
+  "timestamp": "2026-10-19T20:27:43.175470624Z",
   "model": "glm-5.3"
 }

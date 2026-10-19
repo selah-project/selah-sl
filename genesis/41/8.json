@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "rationale": "תפעם רוחו dobesedno 'njegova ruah je bila potrkana' — ruah kot dih\/razpoloženje, ne ločeno 'duh'"
-    },
-    {
-      "kind": "crux",
-      "subject": "חרטומים",
-      "rationale": "'vedeževalci\/_magiki' — krogi rajanje vedeževalcev Egipta; izbira med 'magiki', 'vedomci', 'wegeverji'"
-    }
-  ],
-  "translation": "In zgodbilo se je zjutraj, da je bila njegova ruah vznemirjena, in je poslal ter poklical vse egiptovanske vedeževalce in vse njene modrece; in Paroh jim je povedal ⟨את⟩ svoje sanje, ni pa bilo nikogar, ki bi ⟨את⟩ jih razložil Parohu.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/41\/5-8.1792433291835.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgrodilo se je zjutraj, da se je njegov ruah vznemiril, in je poslal ter poklical ⟨את⟩ vse čarovnike-egiptovske-drevnoreznike Micrajima in ⟨את⟩ vse njene modrece; in Farao jim je pripovedoval ⟨את⟩ svojo sanjsko-videnje, in ni bilo, kdor bi ⟨את⟩ ⟨je⟩ razložil Faraoju.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "In zgodbilo se je"
+      "gloss": "in zgrodilo se je"
     },
     {
       "surface": "בבקר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ותפעם",
-      "gloss": "vznemirjena"
+      "gloss": "se je vznemiril"
     },
     {
       "surface": "רוחו",
-      "gloss": "njegova ruah"
+      "gloss": "njegov ruah"
     },
     {
       "surface": "וישלח",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "poklical"
+      "gloss": "ter poklical"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vse vedeževalce in modrece"
+      "marks": "vse čarovnike-egiptovske-drevnoreznike Micrajima"
     },
     {
       "surface": "כל",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "חרטמי",
-      "gloss": "vedeževalce"
+      "gloss": "čarovnike-egiptovske-drevnoreznike"
     },
     {
       "surface": "מצרים",
-      "gloss": "egiptovanske"
+      "gloss": "Micrajima"
     },
     {
       "surface": "ואת",
@@ -84,42 +63,43 @@
     },
     {
       "surface": "ויספר",
-      "gloss": "povedal"
+      "gloss": "in je pripovedoval"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh"
+      "gloss": "Farao"
     },
     {
       "surface": "להם",
-      "gloss": "jim"
+      "gloss": "njim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svoje sanje"
+      "marks": "svojo sanjsko-videnje"
     },
     {
       "surface": "חלמו",
-      "gloss": "svoje sanje"
+      "gloss": "svojo sanjsko-videnje"
     },
     {
       "surface": "ואין",
-      "gloss": "ni pa bilo nikogar"
+      "gloss": "in ni bilo"
     },
     {
       "surface": "פותר",
-      "gloss": "ki bi razložil"
+      "gloss": "razložil"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩ ⟨je⟩",
+      "marks": "Faraoju — z vidika povedanega: sanje"
     },
     {
       "surface": "לפרעה",
-      "gloss": "Parohu"
+      "gloss": "Faraoju"
     }
   ],
-  "timestamp": "2026-10-19T18:08:11.837919754Z",
+  "timestamp": "2026-10-19T20:26:23.121608875Z",
   "model": "glm-5.3"
 }

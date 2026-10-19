@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruah",
-      "rationale": "ruach ostaja ruah — veter\/duh\/dih v eni besedi; 'duh' sam bi izgubil obseg."
-    },
-    {
-      "kind": "crux",
-      "subject": "רוח החיה",
-      "rationale": "ruah živega bitja: ali 'duh živega bitja' ali 'duh življenja'; JPS\/ASV 'living creature'."
-    },
-    {
-      "kind": "addition",
-      "subject": "je bila",
-      "rationale": "Hebrejščina brez copule; dodano v oklepajih vred."
-    }
-  ],
-  "translation": "Ko so stale, so stale ⟨kolesa⟩, in ko so se dvignile, so se dvignila ⟨z njimi⟩; kajti ruah živega bitja je bila v njih.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ac88f0b970f06e8c998758bae41c9e3d160f47969c750fe0d7145b75842eecd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/10\/17-20.1792432150905.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ko so stale, so stale; ko so se dvigovale, so se dvignile ⟨z njimi⟩ ⟨את njih⟩; kajti ruah ⟨od⟩ živega bitja je bila v njih.",
   "tokens": [
     {
       "surface": "בעמדם",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "וברומם",
-      "gloss": "in ko so se dvignile"
+      "gloss": "ko so se dvigovale"
     },
     {
       "surface": "ירומו",
-      "gloss": "so se dvignila"
+      "gloss": "so se dvignile"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "so se dvignila"
+      "gloss": "⟨את njih⟩",
+      "marks": "njih — kolesa, ki se dvigajo z njimi"
     },
     {
       "surface": "כי",
@@ -71,6 +45,6 @@
       "gloss": "v njih"
     }
   ],
-  "timestamp": "2026-10-19T17:49:10.905587749Z",
+  "timestamp": "2026-10-19T20:23:00.806949550Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨s teboj⟩",
-      "rationale": "אותך je označevalnik זאת s priponskim zaimkom; slovenščina potrebuje 's teboj', da zaveza dobi drugi člen"
-    },
-    {
-      "kind": "substitution",
-      "subject": "večno",
-      "rationale": "עולם dobesedno 'skrito, izhodišče iz-vida'; preneseno 'neizmerno dolg čas' — 'večen' je okrnjen prevod"
-    }
-  ],
-  "translation": "In jaz se bom spomnil ⟨את⟩ svoje zaveze, ⟨s teboj⟩, v dneh tveje mladosti, in postavil ti bom zavezo večno.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/57-60.1792432261249.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In jaz bom se spomnil ⟨את⟩ svoje zaveze s teboj ⟨את⟩ v dnevih tvoje mladosti in postavil ti bom zavezo večno.",
   "tokens": [
     {
       "surface": "וזכרתי",
-      "gloss": "In se bom spomnil"
+      "gloss": "In bom se spomnil"
     },
     {
       "surface": "אני",
@@ -48,11 +27,11 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "s teboj"
+      "marks": "v dnevih tvoje mladosti"
     },
     {
       "surface": "בימי",
-      "gloss": "v dneh"
+      "gloss": "v dnevih"
     },
     {
       "surface": "נעוריך",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "והקמותי",
-      "gloss": "in postavil"
+      "gloss": "in postavil bom"
     },
     {
       "surface": "לך",
@@ -75,6 +54,6 @@
       "gloss": "večno"
     }
   ],
-  "timestamp": "2026-10-19T17:51:01.250439427Z",
+  "timestamp": "2026-10-19T20:22:40.204143135Z",
   "model": "glm-5.3"
 }

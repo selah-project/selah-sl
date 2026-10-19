@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ga blagoslovil",
-      "rationale": "hebrejščina ima אתו — aleph-tav z končnico 'njega' kot blagoslovljeni predmet"
-    }
-  ],
-  "translation": "In Elohim se je ponovno prikazal Jaakovu, ko je prihajal iz Padan-Arama, in ga blagoslovil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "8ca4f03839b236cb80761e08b2932bfc0eec8520b69d78ced693d13e855d4623",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/35\/9-12.1792422675261.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Elohim se je prikazal Jaakovu še enkrat, ko je prihajal iz Padan-Arama, in ga blagoslovil ⟨את⟩ ⟨njega⟩.",
   "tokens": [
     {
       "surface": "וירא",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "ponovno"
+      "gloss": "še enkrat"
     },
     {
       "surface": "בבאו",
@@ -62,9 +46,9 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ga"
+      "marks": "ga \/ njega (Jaakova)"
     }
   ],
-  "timestamp": "2026-10-19T15:11:15.261696769Z",
+  "timestamp": "2026-10-19T20:25:47.806563272Z",
   "model": "glm-5.3"
 }

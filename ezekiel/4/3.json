@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "železna plošča",
-      "rationale": "מחבת je pekač (za kruh); 'plošča' je videnjska upodobitev, ne kuhinjsko orodje"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨mesto⟩",
-      "rationale": "Slovenščina potrebuje subjekt glagola במצור; hebrejščina ga izpušča"
-    },
-    {
-      "kind": "mystery",
-      "subject": "znamenje",
-      "rationale": "אות — dejanje je simbolično znamenje za hišo Jisraelovo, skrivnostna upodobitev"
-    }
-  ],
-  "translation": "In ti vzemi sebi železno ploščo in jo postavi za železno steno med teboj in ⟨med⟩ mestom, in usmeri ⟨את⟩ svoj obraz proti njej, in ⟨mesto⟩ bo v obleganju, in oblegaj ga; znamenje je ⟨to⟩ hiši Jisraela.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/4\/1-4.1792432092903.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ti vzemi sebi ploščo iz železa in postaviš jo ⟨את⟩ kot železno steno med seboj in med mestom; in usmeriš ⟨את⟩ svoj obraz proti njej, in ⟨ona⟩ bo v obleganju, ti pa jo boš oblegal. Znamenje je hiši Jisraela.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "קח",
-      "gloss": "vzami"
+      "gloss": "vzemi"
     },
     {
       "surface": "לך",
@@ -47,24 +21,24 @@
     },
     {
       "surface": "מחבת",
-      "gloss": "železno ploščo"
+      "gloss": "ploščo"
     },
     {
       "surface": "ברזל",
-      "gloss": "železno"
+      "gloss": "iz železa"
     },
     {
       "surface": "ונתתה",
-      "gloss": "in postavi"
+      "gloss": "in postaviš"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "jo (železno ploščo)"
+      "marks": "jo (ploščo)"
     },
     {
       "surface": "קיר",
-      "gloss": "za steno"
+      "gloss": "steno"
     },
     {
       "surface": "ברזל",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "בינך",
-      "gloss": "med teboj"
+      "gloss": "med seboj"
     },
     {
       "surface": "ובין",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "והכינתה",
-      "gloss": "in usmeri"
+      "gloss": "in usmeriš"
     },
     {
       "surface": "את",
@@ -109,11 +83,11 @@
     },
     {
       "surface": "וצרת",
-      "gloss": "in oblegaj"
+      "gloss": "pa boš oblegal"
     },
     {
       "surface": "עליה",
-      "gloss": "ga"
+      "gloss": "njo"
     },
     {
       "surface": "אות",
@@ -132,6 +106,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-10-19T17:48:12.904718283Z",
+  "timestamp": "2026-10-19T20:23:50.865066048Z",
   "model": "glm-5.3"
 }

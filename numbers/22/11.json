@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "preklinjaj",
-      "rationale": "קבה je dobesedno 'izdolbsti', po.preklinjati — zabosti z besedami"
-    },
-    {
-      "kind": "alternative",
-      "subject": "oko dežele",
-      "rationale": "עין je dobesedno 'oko'; mnogi prevodi dajo 'površje\/obličje dežele'"
-    }
-  ],
-  "translation": "Glej, ljudstvo, ki prihaja iz Micrajima, je pokrilo ⟨את⟩ oko dežele; zdaj pridi, preklinjaj ga namesto mene; morda bom zmožen bojevati se z njim in ga izgnati.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "efe838158a0ccacf66bb1628b16dff59c221d95d84c0b6429d06775f2aedc408",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/22\/9-12.1792425228828.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Glej, ljudstvo, ki prihaja iz Micrajima, je pokrilo ⟨את⟩ obličje dežele; zdaj pridi, preklinjaj mi ⟨את⟩ njih; morda se bom mogel spopasti z njimi in jih pregnati.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "glej"
+      "gloss": "Glej"
     },
     {
       "surface": "העם",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ויכס",
-      "gloss": "in je pokrilo"
+      "gloss": "je pokrilo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oko dežele"
+      "marks": "obličje dežele"
     },
     {
       "surface": "עין",
-      "gloss": "oko"
+      "gloss": "obličje"
     },
     {
       "surface": "הארץ",
@@ -75,11 +54,12 @@
     },
     {
       "surface": "לי",
-      "gloss": "namesto mene"
+      "gloss": "mi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩",
+      "marks": "njih — ljudstvo"
     },
     {
       "surface": "אולי",
@@ -87,21 +67,21 @@
     },
     {
       "surface": "אוכל",
-      "gloss": " bom zmožen"
+      "gloss": "se bom mogel"
     },
     {
       "surface": "להלחם",
-      "gloss": "bojevati se"
+      "gloss": "spopasti"
     },
     {
       "surface": "בו",
-      "gloss": "z njim"
+      "gloss": "z njimi"
     },
     {
       "surface": "וגרשתיו",
-      "gloss": "in ga izgnati"
+      "gloss": "in jih pregnati"
     }
   ],
-  "timestamp": "2026-10-19T15:53:48.829364333Z",
+  "timestamp": "2026-10-19T20:35:56.827317955Z",
   "model": "glm-5.3"
 }

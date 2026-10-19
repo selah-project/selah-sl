@@ -5,57 +5,36 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je bila",
-      "rationale": "hebrejščina ima samo past particip — slovenščina potrebuje pomožni glagol"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הוחדה \/ מרטה",
-      "rationale": "ponovitev para »izostrjen\/izbrusan« iz v. 14–15 — verižni refran o meču"
-    }
-  ],
-  "translation": "In dana je bila ⟨את⟩ v brušenje, da bi jo zgrabila dlan: ta meč je izostrjen, in ta je izbrusan, da bi jo dal v roko ubijalca.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f266c1441b9214d38266bec65d8b5f0f602a4cdcd60f5e349152295a4d8c73ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/21\/13-16.1792432345020.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In dal jo je ⟨את⟩ izbrusiti, da se prime za dlan — ona je nabrušena, meč, in ona je izbrusena, da se da ⟨את⟩ v roko ubijalca.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "In-dana"
+      "gloss": "In dal je"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "njo (meč)"
+      "marks": "izbrusiti (jo)"
     },
     {
       "surface": "למרטה",
-      "gloss": "v-brušenje"
+      "gloss": "izbrusiti"
     },
     {
       "surface": "לתפש",
-      "gloss": "da-bi-zgrabila"
+      "gloss": "da se prime"
     },
     {
       "surface": "בכף",
-      "gloss": "dlan"
+      "gloss": "za dlan"
     },
     {
       "surface": "היא",
-      "gloss": "ta"
+      "gloss": "ona"
     },
     {
       "surface": "הוחדה",
-      "gloss": "izostrjen"
+      "gloss": "nabrušena"
     },
     {
       "surface": "חרב",
@@ -63,30 +42,30 @@
     },
     {
       "surface": "והיא",
-      "gloss": "in-ta"
+      "gloss": "in ona"
     },
     {
       "surface": "מרטה",
-      "gloss": "izbrusan"
+      "gloss": "izbrusena"
     },
     {
       "surface": "לתת",
-      "gloss": "da-bi-dal"
+      "gloss": "da se da"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "njo — v roko ubijalca"
+      "marks": "v roko ubijalca"
     },
     {
       "surface": "ביד",
-      "gloss": "v-roko"
+      "gloss": "v roko"
     },
     {
       "surface": "הורג",
       "gloss": "ubijalca"
     }
   ],
-  "timestamp": "2026-10-19T17:52:25.021183041Z",
+  "timestamp": "2026-10-19T20:23:21.819139027Z",
   "model": "glm-5.3"
 }

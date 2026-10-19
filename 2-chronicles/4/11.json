@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "štofke",
-      "rationale": "מזרקות so sklede za škropljenje; 'štofke' zveni domače, druga možnost 'škropilne sklede'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "delo",
-      "rationale": "seznam izdelkov — zaključek štetja tempeljske posode"
-    }
-  ],
-  "translation": "In Huram je naredil ⟨את}} lonce in ⟨את}} lopate in ⟨את}} štofke; in Huram je dokončal delo, ki ga je naredil za kralja Šalomona v hiši Elohim.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/4\/9-12.1792438470428.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Huram je naredil ⟨את⟩ lone in ⟨את⟩ lopate in ⟨את⟩ sklede; in Huram je dokončal ⟨את⟩ delo, ki ga je naredil za kralja Šelomója v hiši Elohim.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "in naredil je"
+      "gloss": "in je naredil"
     },
     {
       "surface": "חורם",
@@ -39,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lonce"
+      "marks": "lone"
     },
     {
       "surface": "הסירות",
-      "gloss": "lonce"
+      "gloss": "lone"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "in ⟨את⟩",
       "marks": "lopate"
     },
     {
@@ -56,16 +35,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "štofke"
+      "gloss": "in ⟨את⟩",
+      "marks": "sklede"
     },
     {
       "surface": "המזרקות",
-      "gloss": "štofke"
+      "gloss": "sklede"
     },
     {
       "surface": "ויכל",
-      "gloss": "in dokončal je"
+      "gloss": "in je dokončal"
     },
     {
       "surface": "חירם",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "narediti"
+      "gloss": "delati"
     },
     {
       "surface": "את",
@@ -98,7 +77,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šalomona"
+      "gloss": "Šelomója"
     },
     {
       "surface": "בבית",
@@ -109,6 +88,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-19T19:34:30.434460711Z",
+  "timestamp": "2026-10-19T20:16:48.280310803Z",
   "model": "glm-5.3"
 }

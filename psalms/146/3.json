@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 146,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "velikaši",
-      "rationale": "נדיבim dobesedno 'plemiči\/velikodušni' — 'knezi' je okrajšava"
-    },
-    {
-      "kind": "you",
-      "subject": "bralcu",
-      "rationale": "negativni imperativ nagovarja poslušalca"
-    }
-  ],
-  "translation": "Ne zanašajte se na velikaše, na človekovega sina, pri katerem ni rešitve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/146\/1-4.1792435787022.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne zanašajte se na veljake, na sina človeškega, ⟨ki⟩ mu ni rešitve.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "תבטחו",
       "gloss": "zanašajte se"
     },
     {
-      "surface": "בנדיבim",
-      "gloss": "na velikaše"
+      "surface": "בנדיבים",
+      "gloss": "na veljake"
     },
     {
       "surface": "בבן",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אדם",
-      "gloss": "človeka"
+      "gloss": "človeškega"
     },
     {
       "surface": "שאין",
-      "gloss": "pri katerem ni"
+      "gloss": "⟨ki⟩ ni"
     },
     {
       "surface": "לו",
@@ -61,6 +40,6 @@
       "gloss": "rešitve"
     }
   ],
-  "timestamp": "2026-10-19T18:49:47.023542503Z",
+  "timestamp": "2026-10-19T20:37:24.224477100Z",
   "model": "glm-5.3"
 }

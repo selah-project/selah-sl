@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to izgnanci v Babilonu",
-      "rationale": "Nadaljevek pisma, ki ga Jahve govori pregnancem."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kuga",
-      "rationale": "הדבר je dobesedno 'kuga\/kužna bolezen'."
-    }
-  ],
-  "translation": "Tako govori Jahve Cebaot: Glede, pošiljam nanje ⟨את⟩ meč, ⟨את⟩ lakoto in ⟨את⟩ kugo, in postavil ⟨⟨את⟩ jih⟩ bom kakor slabih smokv, ki se ne morejo jesti zaradi slabosti.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "30064370d8174674835cd2578b44a002828236b96d463df2243dc7cc2f7f6c34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/17-20.1792431601401.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tako govori Jahve Cebaot: Glede, pošiljam nanje ⟨את⟩ meč, ⟨את⟩ lakoto in ⟨את⟩ kugo, in postavil jih bom ⟨את⟩ kakor slabe fige, ki se ne morejo jesti zaradi slabosti.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "tako"
+      "gloss": "Tako"
     },
     {
       "surface": "אמר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "glede"
+      "gloss": "Glede"
     },
     {
       "surface": "משלח",
@@ -85,19 +64,20 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "in postavil bom"
+      "gloss": "in postavil jih bom"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "slabe fige"
     },
     {
       "surface": "כתאנים",
-      "gloss": "kakor smokve"
+      "gloss": "kakor slabe fige"
     },
     {
       "surface": "השערים",
-      "gloss": "slabih"
+      "gloss": "slabe"
     },
     {
       "surface": "אשר",
@@ -109,13 +89,13 @@
     },
     {
       "surface": "תאכלנה",
-      "gloss": "se morejo jesti"
+      "gloss": "se lahko jesti"
     },
     {
       "surface": "מרע",
       "gloss": "zaradi slabosti"
     }
   ],
-  "timestamp": "2026-10-19T17:40:01.402490061Z",
+  "timestamp": "2026-10-19T20:29:00.094790440Z",
   "model": "glm-5.3"
 }

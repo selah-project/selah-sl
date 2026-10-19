@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תלום",
-      "rationale": "ketiv תלום\/qere תלאם — 'obesili jih'; soglasnikovna razlika med obešanjem (תלא) in nenavadno obliko, ki jo Masoreti popravljajo."
-    },
-    {
-      "kind": "elision",
-      "subject": "שם 'tam'",
-      "rationale": "hebrejski prislov שם je v toku slovenščine raztopljen v 'kjer … tam'; glosa nosi 'tam'."
-    }
-  ],
-  "translation": "David pa je šel in vzel ⟨את⟩ kosti Šaulove in ⟨את⟩ kosti Jonatana, njegovega sina, od ⟨את⟩ prebivalcev Jabeša v Gileadu, ki so jih ukradli s trga Bet-Šeana, kjer so jih Filiščani obesili, na dan, ko so Filiščani udarili ⟨את⟩ Šaula na Gilboi.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "f0eb2fe791d1a5ee79377e2610ae0b9cb0c6c31662826dd53a3ed5ca8383fb6c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/21\/9-12.1792428586134.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In David je šel ter vzel ⟨את⟩ kosti Šaula in ⟨את⟩ kosti Jonathanu, njegovega sina, od ⟨את⟩ mož Javeša Gilada, ki so ukradli ⟨את⟩ njiju s trga Bet-Šeana, kjer so ju Filistejci obesili, v dnevu, ko so Filistejci udarili ⟨את⟩ Šaula na Gilboi.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "in šel je"
+      "gloss": "in je šel"
     },
     {
       "surface": "דוד",
@@ -38,12 +17,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "in vzel"
+      "gloss": "ter vzel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kosti Šaulove"
+      "marks": "kosti"
     },
     {
       "surface": "עצמות",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulove"
+      "gloss": "Šaula"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kosti Jonatana"
+      "gloss": "in ⟨את⟩",
+      "marks": "kosti"
     },
     {
       "surface": "עצמות",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jonatana"
+      "gloss": "Jonathanu"
     },
     {
       "surface": "בנו",
@@ -72,20 +51,19 @@
     },
     {
       "surface": "מאת",
-      "gloss": "od ⟨את⟩",
-      "marks": "prebivalcev Jabeša v Gileadu"
+      "gloss": "od ⟨את⟩"
     },
     {
       "surface": "בעלי",
-      "gloss": "prebivalcev"
+      "gloss": "mož"
     },
     {
       "surface": "יביש",
-      "gloss": "Jabeša"
+      "gloss": "Javeša"
     },
     {
       "surface": "גלעד",
-      "gloss": "v Gileadu"
+      "gloss": "Gilada"
     },
     {
       "surface": "אשר",
@@ -97,7 +75,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩ njiju",
+      "marks": "s trga Bet-Šeana"
     },
     {
       "surface": "מרחב",
@@ -105,7 +84,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Bet-"
     },
     {
       "surface": "שן",
@@ -117,7 +96,7 @@
     },
     {
       "surface": "תלום",
-      "gloss": "so jih obesili"
+      "gloss": "obesili"
     },
     {
       "surface": "שם",
@@ -125,11 +104,11 @@
     },
     {
       "surface": "הפלשתים",
-      "gloss": "Filiščani"
+      "gloss": "Filistejci"
     },
     {
       "surface": "ביום",
-      "gloss": "na dan"
+      "gloss": "v dnevu"
     },
     {
       "surface": "הכות",
@@ -137,7 +116,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filiščani"
+      "gloss": "Filistejci"
     },
     {
       "surface": "את",
@@ -153,6 +132,6 @@
       "gloss": "na Gilboi"
     }
   ],
-  "timestamp": "2026-10-19T16:49:46.135985353Z",
+  "timestamp": "2026-10-19T20:18:26.911160251Z",
   "model": "glm-5.3"
 }

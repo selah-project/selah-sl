@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אשם",
-      "rationale": "krivda \/ daritev za krivdo — gre za 'asem', naknadilo za prestopek."
-    },
-    {
-      "kind": "hapax",
-      "subject": "ארגז",
-      "rationale": "skrinjica — beseda se v Tanahu pojavi le tu in v v. 11 in 15 te poglavja."
-    }
-  ],
-  "translation": "In vzeli boste ⟨את⟩ skrinjo Jahveja in jo dali ⟨את⟩ na voz; in ⟨את⟩ zlate posode, ki jih vračate njemu za krivdo, položite v skrinjico ob njeni strani, in jo pošljete, in šla bo.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/6\/5-8.1792427592247.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vzeli ⟨את⟩ skrinjo Jahveja ter jo dali na voz, in ⟨את⟩ zlate predmete, ki jih vračate njemu kot škodo, položite v skrinjico ob njeni strani, in jo pošljete, in šla ⟨bo⟩.",
   "tokens": [
     {
       "surface": "ולקחתם",
-      "gloss": "in vzeli boste"
+      "gloss": "in vzeli"
     },
     {
       "surface": "את",
@@ -47,12 +26,11 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "in dali"
+      "gloss": "ter dali"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jo",
-      "marks": "na voz"
+      "gloss": "⟨את⟩ jo"
     },
     {
       "surface": "אל",
@@ -64,12 +42,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
-      "marks": "zlate posode"
+      "gloss": "⟨את⟩",
+      "marks": "zlate predmete"
     },
     {
       "surface": "כלי",
-      "gloss": "posode"
+      "gloss": "predmete"
     },
     {
       "surface": "הזהב",
@@ -89,7 +67,7 @@
     },
     {
       "surface": "אשם",
-      "gloss": "za krivdo"
+      "gloss": "kot škodo"
     },
     {
       "surface": "תשימו",
@@ -105,18 +83,17 @@
     },
     {
       "surface": "ושלחתם",
-      "gloss": "in jo pošljete"
+      "gloss": "in pošljete"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jo",
-      "marks": "in šla bo"
+      "gloss": "⟨את⟩ jo"
     },
     {
       "surface": "והלך",
-      "gloss": "in šla bo"
+      "gloss": "in šla"
     }
   ],
-  "timestamp": "2026-10-19T16:33:12.248393196Z",
+  "timestamp": "2026-10-19T20:15:54.813436685Z",
   "model": "glm-5.3"
 }

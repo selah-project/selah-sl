@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "obiščem",
-      "rationale": "פקדי pomeni 'obiskati' v obeh pomenih — koristno ali kazensko; JPS 'remember', KJV 'visit', slovensko 'obiščem' drži sredino"
-    },
-    {
-      "kind": "addition",
-      "subject": "ko",
-      "rationale": "slovenščina potrebuje veznik 'ko' pri zvezi עד יום פקדי — 'do dne, ko'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "označevalec pulpov z zaimkom -am se v slovenščini stakne v 'jih' — ni ločenega ⟨את⟩"
-    }
-  ],
-  "translation": "V Babilon bodo prineseni in tam bodo, do dne, ko jih obiščem, govori Jahve; in dvignil jih bom ter jih povrnil na to mesto.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/27\/21-22.1792431551633.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "V Babilon bodo odnešeni in tam bodo ⟨ostali⟩ do dne, ko jih obiskam, govori Jahve; takrat jih dvignim gor in jih povrnem na to mesto.",
   "tokens": [
     {
       "surface": "בבלה",
-      "gloss": "v Babilon"
+      "gloss": "V Babilon"
     },
     {
       "surface": "יובאו",
-      "gloss": "bodo prineseni"
+      "gloss": "bodo odnešeni"
     },
     {
       "surface": "ושמה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "bodo"
+      "gloss": "bodo ⟨ostali⟩"
     },
     {
       "surface": "עד",
@@ -59,12 +33,12 @@
     },
     {
       "surface": "פקדי",
-      "gloss": "ko jih obiščem"
+      "gloss": "ko jih obiskam"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "posode — zaimkov končnica -am namesto samostojnega označevalca"
+      "gloss": "⟨את⟩",
+      "marks": "jih"
     },
     {
       "surface": "נאם",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "והעליתים",
-      "gloss": "in dvignil jih bom"
+      "gloss": "in jih dvignim gor"
     },
     {
       "surface": "והשיבתים",
-      "gloss": "ter jih povrnil"
+      "gloss": "in jih povrnem"
     },
     {
       "surface": "אל",
@@ -88,13 +62,13 @@
     },
     {
       "surface": "המקום",
-      "gloss": "to mesto"
+      "gloss": "kraj"
     },
     {
       "surface": "הזה",
       "gloss": "ta"
     }
   ],
-  "timestamp": "2026-10-19T17:39:11.633938650Z",
+  "timestamp": "2026-10-19T20:29:01.095048191Z",
   "model": "glm-5.3"
 }

@@ -5,17 +5,33 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 105,
-  "translation": "Rekel je, in je prišel ⟨את⟩ kobila — ne: prišla je arbeh (kobilica), in je rdeči pohodnik, in ni bilo števila.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "afa54f2d84ceef0f931ba73a7120058c4f11a856313ed16f33a163d0410b6628",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/105\/34-35.1792439039351.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-19T19:43:59.352439624Z",
+  "translation": "Rekel je, in je prišla kobilica in zelena živalica ⟨je prišla⟩, in ni bilo števila ⟨jih⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Rekel je"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "in je prišla"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kobilica"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "in zelena živalica"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "in ni bilo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "števila"
+    }
+  ],
+  "timestamp": "2026-10-19T20:36:56.952516430Z",
   "model": "glm-5.3"
 }

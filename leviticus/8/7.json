@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את (10. žeton)",
-      "rationale": "Ta את je predlog 'z' (pri oblačenju), ne aleph-tav označevalec določenega predmeta."
-    },
-    {
-      "kind": "measurement",
-      "subject": "zaporedje oblačenja",
-      "rationale": "Verz natančno našteva dele velikonočne obleke po vrsti: tunika, pas, ogrnilo, efod, tkani pas."
-    }
-  ],
-  "translation": "In nadel mu je ⟨את⟩ tuniko in ga opasal s pasom, in oblekel ga je z ogrinjalom, in nadel mu je ⟨את⟩ efod, in ga opasal s tkanim pasom efoda, in mu ga z njim pritrdil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/8\/5-8.1792424091723.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In nadel ⟨את⟩ kutonet nanj ter ga prepásl z avnetom; oblekel ⟨את⟩ ga je ⟨את⟩ v meil in nadel nanj ⟨את⟩ efod, ter ga prepásl z heševom efoda, in ga z njim pripel ⟨z njim⟩.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "in je dal"
+      "gloss": "in nadel"
     },
     {
       "surface": "עליו",
@@ -39,43 +18,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tuniko"
+      "marks": "kutonet"
     },
     {
       "surface": "הכתנת",
-      "gloss": "tuniko"
+      "gloss": "kutonet"
     },
     {
       "surface": "ויחגר",
-      "gloss": "in je opasal"
+      "gloss": "ter prepásl"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩ ga",
+      "marks": "z avnetom"
     },
     {
       "surface": "באבנט",
-      "gloss": "s pasom"
+      "gloss": "z avnetom"
     },
     {
       "surface": "וילבש",
-      "gloss": "in je oblekel"
+      "gloss": "oblekel"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩ ga je",
+      "marks": "v meil"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ z"
+      "gloss": "⟨את⟩",
+      "marks": "meil"
     },
     {
       "surface": "המעיל",
-      "gloss": "ogrnilo"
+      "gloss": "meil"
     },
     {
       "surface": "ויתן",
-      "gloss": "in je dal"
+      "gloss": "in nanel"
     },
     {
       "surface": "עליו",
@@ -92,15 +74,16 @@
     },
     {
       "surface": "ויחגר",
-      "gloss": "in je opasal"
+      "gloss": "ter prepásl"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩ ga",
+      "marks": "z heševom efoda"
     },
     {
       "surface": "בחשב",
-      "gloss": "s tkanim pasom"
+      "gloss": "z heševom"
     },
     {
       "surface": "האפד",
@@ -108,7 +91,7 @@
     },
     {
       "surface": "ויאפד",
-      "gloss": "in mu pritrdil efod"
+      "gloss": "pripel"
     },
     {
       "surface": "לו",
@@ -119,6 +102,6 @@
       "gloss": "z njim"
     }
   ],
-  "timestamp": "2026-10-19T15:34:51.725296169Z",
+  "timestamp": "2026-10-19T20:34:37.656621377Z",
   "model": "glm-5.3"
 }

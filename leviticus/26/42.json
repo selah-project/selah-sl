@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בריתי ×3",
-      "rationale": "trikratna ponovitev 'svoje zaveze' po imenih očetov v obratnem vrstnem redu (Jaakov–Jichak–Avraham) — kiazem podobna struktura, v slovenščini ohranjena."
-    }
-  ],
-  "translation": "In spomnil se bom svoje zaveze z Jaakovom, in tudi svoje zaveze z Jichakom, in tudi svoje zaveze z Avrahamom se bom spomnil, in deželo se bom spomnil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "62160dc84f4ede1a8f56087e4b0ba757293bffea11a318710f943bf0ebdd9854",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/26\/41-44.1792424649575.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In spomnil se bom ⟨את⟩ svoje zaveze z Jaakovom, in tudi ⟨את⟩ svoje zaveze z Jichakom, in tudi ⟨את⟩ svoje zaveze z Avrahamom se bom spomnil, in ⟨a⟩ deželo se bom spomnil.",
   "tokens": [
     {
       "surface": "וזכרתי",
@@ -30,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svoje zaveze z Jaakovom"
+      "marks": "svoje zaveze"
     },
     {
       "surface": "בריתי",
@@ -47,7 +31,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svoje zaveze z Jichakom"
+      "marks": "svoje zaveze"
     },
     {
       "surface": "בריתי",
@@ -64,7 +48,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svoje zaveze z Avrahamom"
+      "marks": "svoje zaveze"
     },
     {
       "surface": "בריתי",
@@ -87,6 +71,6 @@
       "gloss": "se bom spomnil"
     }
   ],
-  "timestamp": "2026-10-19T15:44:09.576960983Z",
+  "timestamp": "2026-10-19T20:33:45.521697321Z",
   "model": "glm-5.3"
 }

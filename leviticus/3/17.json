@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "smete",
-      "rationale": "Hebrew has plain negation לא תאכלו 'ne jejte'; slovenščina potrebuje modalnost 'ne smete jesti'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "prebivališča",
-      "rationale": "מושבות je 'sedišča\/bivališča', naselitveni kraji"
-    }
-  ],
-  "translation": "Večna odredba za vaše rodove v vseh vaših prebivališčih: vse masti in vse krvi ne smete jesti.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "d24a50ef8f2d925c03eee118c3d0ab7a3847e8b3486c26f4765bfbd46fd3601e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/3\/17-17.1792423902810.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Večna odlok za vaše rodove v vseh vaših bivališčih: vse maščobe in vse krvi ne smete jesti.",
   "tokens": [
     {
       "surface": "חקת",
-      "gloss": "odredba"
+      "gloss": "odlok"
     },
     {
       "surface": "עולם",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "מושבתיכם",
-      "gloss": "vaših prebivališčih"
+      "gloss": "vaših bivališčih"
     },
     {
       "surface": "כל",
-      "gloss": "vse"
+      "gloss": "ves"
     },
     {
       "surface": "חלב",
-      "gloss": "masti"
+      "gloss": "maščobo"
     },
     {
       "surface": "וכל",
-      "gloss": "in vse"
+      "gloss": "in vso"
     },
     {
       "surface": "דם",
-      "gloss": "krvi"
+      "gloss": "kri"
     },
     {
       "surface": "לא",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "smete jesti"
+      "gloss": "jejte"
     }
   ],
-  "timestamp": "2026-10-19T15:31:42.810702147Z",
+  "timestamp": "2026-10-19T20:33:59.309251823Z",
   "model": "glm-5.3"
 }

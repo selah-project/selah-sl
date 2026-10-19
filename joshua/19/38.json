@@ -5,35 +5,27 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vasi",
-      "rationale": "הצרים so 'obzidana dvorišča \/ zaselke', 'vasi' je okvirni prevod"
-    }
-  ],
-  "translation": "in Jiron in Migdal-El, Ḥorem, Bet-‛Anat in Bet-Šemeš; osemnajst mest in njihove vasi",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "447c94f81d1952fee89308289cd03cc07adc7c1580a039e57a9b63bc3206dc84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/19\/37-40.1792426770555.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jiron in Migdal-El, Horem, in Bet-Anat in Bet-Šemeš — mesta devetnajst in njihove vaške <anagram-room>... In Jiron in Migdal-El, Horem, in Bet-Anat in Bet-Šemeš: mest devetnajst in njihovi dvori.",
   "tokens": [
     {
+      "surface": "ויראון",
+      "gloss": "in Jiron"
+    },
+    {
       "surface": "ומגדל",
-      "gloss": "in Migdal"
+      "gloss": "in Migdal-"
     },
     {
       "surface": "אל",
       "gloss": "El"
     },
     {
+      "surface": "חרם",
+      "gloss": "Horem"
+    },
+    {
       "surface": "ובית",
-      "gloss": "Bet"
+      "gloss": "v Bet-"
     },
     {
       "surface": "ענת",
@@ -41,7 +33,7 @@
     },
     {
       "surface": "ובית",
-      "gloss": "Bet"
+      "gloss": "v Bet-"
     },
     {
       "surface": "שמש",
@@ -53,17 +45,17 @@
     },
     {
       "surface": "תשע",
-      "gloss": "devet"
+      "gloss": "devet(najst)"
     },
     {
       "surface": "עשרה",
-      "gloss": "najst"
+      "gloss": "(devet)najst"
     },
     {
       "surface": "וחצריהן",
-      "gloss": "in njihove vasi"
+      "gloss": "in njihovi dvori"
     }
   ],
-  "timestamp": "2026-10-19T16:19:30.556063808Z",
+  "timestamp": "2026-10-19T20:31:17.404361828Z",
   "model": "glm-5.3"
 }

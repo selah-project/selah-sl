@@ -5,56 +5,35 @@
   "book": "isaiah",
   "lang": "sl",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Pojdite iz Bavel",
-      "rationale": "vrsta vzklikov — vabilo k odhodu in razglasitvi"
-    },
-    {
-      "kind": "you",
-      "subject": "izgnanci v Bavelu",
-      "rationale": "ukaz neposredno ogovorjene skupnosti"
-    }
-  ],
-  "translation": "Pojdite iz Bavel, zbežite pred Kasdim, z glasom radosti povejte, oznanite to, razglasite jo do konca dežele; recite: Odkupil je Jahve svojega sužnja Jaakova!",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "729f08c787722c99a8eca2eb0e87ba705a754e7fd2755fa9ed184c382761d74d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/isaiah\/48\/17-20.1792430693351.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pojdite iz Babela, zbežite pred Kaldejci; z glasom radosti razglasite, oznanite to, odnesite ⟨jo⟩ do konca ⟨dežele⟩; recite: Jahve je odkupil ⟨את⟩ svojega služabnika Jaakova.",
   "tokens": [
     {
       "surface": "צאו",
-      "gloss": "Pojdite iz"
+      "gloss": "Pojdite"
     },
     {
       "surface": "מבבל",
-      "gloss": "Bavel"
+      "gloss": "iz Babela"
     },
     {
       "surface": "ברחו",
-      "gloss": "zbežite pred"
+      "gloss": "zbežite"
     },
     {
       "surface": "מכשדים",
-      "gloss": "Kasdim"
+      "gloss": "pred Kaldejci"
     },
     {
       "surface": "בקול",
       "gloss": "z glasom"
     },
     {
-      "surface": "רנha",
+      "surface": "רנה",
       "gloss": "radosti"
     },
     {
       "surface": "הגידו",
-      "gloss": "povejte"
+      "gloss": "razglasite"
     },
     {
       "surface": "השמיעו",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "הוציאוה",
-      "gloss": "razglasite jo"
+      "gloss": "odnesite ⟨jo⟩"
     },
     {
       "surface": "עד",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "dežele"
+      "gloss": "⟨dežele⟩"
     },
     {
       "surface": "אמרו",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "Odkupil je"
+      "gloss": "je odkupil"
     },
     {
       "surface": "יהוה",
@@ -94,13 +73,14 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "svojega sužnja"
+      "gloss": "⟨את⟩",
+      "marks": "svojega služabnika Jaakova"
     },
     {
       "surface": "יעקב",
       "gloss": "Jaakova"
     }
   ],
-  "timestamp": "2026-10-19T17:24:53.352222058Z",
+  "timestamp": "2026-10-19T20:27:19.071408847Z",
   "model": "glm-5.3"
 }

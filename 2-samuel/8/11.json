@@ -5,23 +5,7 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הקדיש",
-      "rationale": "הקדיש je 'posvetil' (koren קדש, svet); izbrana dobesedna formula 'odpovedal v sveto' z namenom posvetitve Jahveju"
-    }
-  ],
-  "translation": "Tudi teh se je odpovedal v sveto kralj David Jahveju — skupaj s srebrom in zlatom, ki se ga je odpovedal v sveto od vseh narodov, ki jih je pokoril.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "cda57e7303b88f611917223d5a35d20b103457163d085c67082dfe6e0c6334cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/8\/9-12.1792428255446.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tudi ⟨את⟩ te je posvetil kralj David Jahveju, skupaj s srebrom in zlatom, ki ga je posvetil vseh narodov, ki jih je podjarmil.",
   "tokens": [
     {
       "surface": "גם",
@@ -30,11 +14,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "teh (posod)"
+      "marks": "te (posode, 8,10)"
     },
     {
       "surface": "הקדיש",
-      "gloss": "je odpovedal v sveto"
+      "gloss": "je posvetil"
     },
     {
       "surface": "המלך",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "skupaj s"
+      "gloss": "skupaj z"
     },
     {
       "surface": "הכסף",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "הקדיש",
-      "gloss": "je odpovedal v sveto"
+      "gloss": "je posvetil"
     },
     {
       "surface": "מכל",
@@ -82,9 +66,9 @@
     },
     {
       "surface": "כבש",
-      "gloss": "je pokoril"
+      "gloss": "je podjarmil"
     }
   ],
-  "timestamp": "2026-10-19T16:44:15.447363257Z",
+  "timestamp": "2026-10-19T20:18:36.505179401Z",
   "model": "glm-5.3"
 }

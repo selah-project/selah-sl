@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הקשית לשאול",
-      "rationale": "dobesedno 'otrdil si, da prosiš' — težko (neresnično) si prosil; pogoj je Elišu nemogoč sam po sebi"
-    },
-    {
-      "kind": "mystery",
-      "subject": "pogoj vzetja",
-      "rationale": "vzetje je skrivnostno; videti ali ne videti je merilo, ki ga Elija sam ne more zagotoviti"
-    }
-  ],
-  "translation": "In rekel je: Težko reč si prosil. Če boš videl ⟨את⟩ mene, ko bom vzet od tebe, bodi ti tako; in če ne, ne bo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "a05c6ffb361fe34523065e6da1e240bb80a93c7bfc7000a5e1736c0ac1ac953c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/2\/9-12.1792433451066.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In je rekel: Težko si vprašal. Če me boš videl, ko bom vzet ⟨od-tebe⟩, naj ti bo tako; če pa ne, ne bo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "הקשית",
-      "gloss": "težko reč si prosil"
+      "gloss": "težko si vprašal"
     },
     {
       "surface": "לשאול",
-      "gloss": "prositi"
+      "gloss": "vprašal"
     },
     {
       "surface": "אם",
@@ -51,19 +30,19 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mene"
+      "marks": "me"
     },
     {
       "surface": "לקח",
-      "gloss": "ko bom vzet"
+      "gloss": "vzet"
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ od tebe"
+      "gloss": "⟨od-tebe⟩ ⟨את⟩"
     },
     {
       "surface": "יהי",
-      "gloss": "bodi"
+      "gloss": "naj bo"
     },
     {
       "surface": "לך",
@@ -90,6 +69,6 @@
       "gloss": "bo"
     }
   ],
-  "timestamp": "2026-10-19T18:10:51.067905899Z",
+  "timestamp": "2026-10-19T20:17:27.025762059Z",
   "model": "glm-5.3"
 }

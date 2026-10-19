@@ -5,44 +5,23 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "izrael",
-      "rationale": "neposreden nagovor Izraelu prek duhovnikov, levitov"
-    },
-    {
-      "kind": "substitution",
-      "subject": "צרעת",
-      "rationale": "caarat ni sodobna gobavost — stanje na koži, hišah in tkaninah; ime se ne prevaja"
-    }
-  ],
-  "translation": "Pazi na udarec caarat, da zelo obvaruješ in storiš vse, kar vam bodo poučili duhovniki, leviti; kakor sem jim zapovedal, tako varuj in stori.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/24\/5-8.1792426147156.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vedno se varuj v zadevi nagage caraat, da zelo strogo varuješ in ravnaš po vsem, kar ⟨את⟩ vas bodo poučevali duhovniki leviti; kakor sem jim zapovedal, tako bodite varovali in ravnali.",
   "tokens": [
     {
       "surface": "השמר",
-      "gloss": "Pazi"
+      "gloss": "vedno se varuj"
     },
     {
       "surface": "בנגע",
-      "gloss": "na udarec"
+      "gloss": "v zadevi nagage"
     },
     {
       "surface": "הצרעת",
-      "gloss": "caarat"
+      "gloss": "caraat"
     },
     {
       "surface": "לשמר",
-      "gloss": "obvaruješ"
+      "gloss": "da strogo varuješ"
     },
     {
       "surface": "מאד",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ולעשות",
-      "gloss": "in storiš"
+      "gloss": "in ravnati"
     },
     {
       "surface": "ככל",
-      "gloss": "vse"
+      "gloss": "po vsem"
     },
     {
       "surface": "אשר",
@@ -62,12 +41,12 @@
     },
     {
       "surface": "יורו",
-      "gloss": "bodo poučili"
+      "gloss": "bodo poučevali"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vi (dajalnik: vas bodo poučili)"
+      "marks": "vas — znamenje kaže na pouk duhovnikov levitov"
     },
     {
       "surface": "הכהנים",
@@ -87,13 +66,13 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "varuj"
+      "gloss": "bodite varovali"
     },
     {
       "surface": "לעשות",
-      "gloss": "in stori"
+      "gloss": "in ravnali"
     }
   ],
-  "timestamp": "2026-10-19T16:09:07.157786125Z",
+  "timestamp": "2026-10-19T20:20:13.461866338Z",
   "model": "glm-5.3"
 }

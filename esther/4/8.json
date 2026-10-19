@@ -5,33 +5,12 @@
   "book": "esther",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פתשגן",
-      "rationale": "perzijska izposojenka 'prepis, kopija dokumenta' — značilna za estersko pisarniško besedje"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מלפניו",
-      "rationale": "dobesedno 'izpred njegovega obličja'; 'pred njim' je oslabela ukinitev telesne podobe"
-    }
-  ],
-  "translation": "In ⟨את⟩ prepis pisma edikta, ki je bil dan v Šušanu, da jih uničijo, mu je dal, da ga pokaže Estri in ji naznani ter ji naroči, naj gre h kralju, da ga proseče in išče od njegovega obličja za svoje ljudstvo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/esther\/4\/5-8.1792437241910.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ prepis spisa zakona, ki je bil dan v Šušanu, da bi jih uničili, je dal njemu, da bi pokazal Esteri ⟨את⟩ in ji razglasil ter ji naročil, naj gre h kralju, da bi ga prosila in iskala pred njim za svoje ljudstvo.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
-      "marks": "prepis pisma edikta"
+      "gloss": "⟨את⟩",
+      "marks": "prepis spisa zakona"
     },
     {
       "surface": "פתשגן",
@@ -39,11 +18,11 @@
     },
     {
       "surface": "כתב",
-      "gloss": "pisma"
+      "gloss": "spisa"
     },
     {
       "surface": "הדת",
-      "gloss": "edikta"
+      "gloss": "zakona"
     },
     {
       "surface": "אשר",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "להשמידם",
-      "gloss": "da jih uničijo"
+      "gloss": "da bi jih uničili"
     },
     {
       "surface": "נתן",
@@ -67,24 +46,24 @@
     },
     {
       "surface": "לו",
-      "gloss": "mu"
+      "gloss": "njemu"
     },
     {
       "surface": "להראות",
-      "gloss": "da pokaže"
+      "gloss": "da bi pokazal"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ester"
+      "marks": "Esteri"
     },
     {
       "surface": "אסתר",
-      "gloss": "Ester"
+      "gloss": "Esteri"
     },
     {
       "surface": "ולהגיד",
-      "gloss": "in ji naznani"
+      "gloss": "in razglasil"
     },
     {
       "surface": "לה",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "ולצוות",
-      "gloss": "ter naroči"
+      "gloss": "in naročil"
     },
     {
       "surface": "עליה",
-      "gloss": "njej"
+      "gloss": "jej"
     },
     {
       "surface": "לבוא",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "להתחנן",
-      "gloss": "da proseče"
+      "gloss": "prosila"
     },
     {
       "surface": "לו",
@@ -120,11 +99,11 @@
     },
     {
       "surface": "ולבקש",
-      "gloss": "in išče"
+      "gloss": "in iskala"
     },
     {
       "surface": "מלפניו",
-      "gloss": "od njegovega obličja"
+      "gloss": "pred njim"
     },
     {
       "surface": "על",
@@ -135,6 +114,6 @@
       "gloss": "svoje ljudstvo"
     }
   ],
-  "timestamp": "2026-10-19T19:14:01.915186732Z",
+  "timestamp": "2026-10-19T20:21:30.208499621Z",
   "model": "glm-5.3"
 }

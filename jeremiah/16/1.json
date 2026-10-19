@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "hebrejščina nima pomožnika; slovenščina ga za preteklik zahteva"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לאמר → ne",
-      "rationale": "infinitiv 'za reči' bi bil dobesedno, a slovenski govor pravi 'ne'"
-    }
-  ],
-  "translation": "In prišlo je beseda Jahveja do mene <ne>:",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6dfecd209b945013c712a7ff4af2832eee7655f4a68c49cd494e32a95c1148be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/16\/1-4.1792431331019.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In beseda Jahveja je prišla k meni, ⟨ko je rekel⟩:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "in prišlo je"
+      "gloss": "In je bila"
     },
     {
       "surface": "דבר",
@@ -42,13 +21,13 @@
     },
     {
       "surface": "אלי",
-      "gloss": "do mene"
+      "gloss": "k meni"
     },
     {
       "surface": "לאמר",
-      "gloss": "ne"
+      "gloss": "ko je rekel"
     }
   ],
-  "timestamp": "2026-10-19T17:35:31.020145124Z",
+  "timestamp": "2026-10-19T20:28:09.506431615Z",
   "model": "glm-5.3"
 }

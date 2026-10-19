@@ -5,41 +5,15 @@
   "book": "ecclesiastes",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nič dobrega ni v človeku",
-      "rationale": "ein tov ba'adam: 'ni dobrega v človeku (razen ...)' — YLT dobesedno, KJV\/JPS 'ni boljšega za človeka kot'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "duša",
-      "rationale": "nefeš je 'dihajoče bitje, življenjska sila', ne nesmrtna duša"
-    },
-    {
-      "kind": "addition",
-      "subject": "razen",
-      "gloss": "oziralnik שֶמ razlaga kot izjemo, hebrejščina ga nima izrecno"
-    }
-  ],
-  "translation": "Nič dobrega ni v človeku, razen da je in pijе ter pokaže ⟨את⟩ svojo dušo dobro v svojem trudu; tudi to sem videl jaz, da je iz roke Elohim.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ecclesiastes\/2\/21-24.1792437072984.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ni dobrega v človeku, razen da jé in pije ter pokaže ⟨את⟩ svoji duši dobro v svojem trudu; tudi to sem videl jaz — ⟨da⟩ je iz roke Elohim ⟨to⟩.",
   "tokens": [
     {
       "surface": "אין",
-      "gloss": "nič ... ni"
+      "gloss": "ni"
     },
     {
       "surface": "טוב",
-      "gloss": "dobra"
+      "gloss": "dobrega"
     },
     {
       "surface": "באדם",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "שיאכל",
-      "gloss": "da je"
+      "gloss": "da jé"
     },
     {
       "surface": "ושתה",
@@ -55,16 +29,16 @@
     },
     {
       "surface": "והראה",
-      "gloss": "in pokaže"
+      "gloss": "ter pokaže"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svojo dušo"
+      "marks": "svoji duši"
     },
     {
       "surface": "נפשו",
-      "gloss": "svojo dušo"
+      "gloss": "svoji duši"
     },
     {
       "surface": "טוב",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "היא",
-      "gloss": "je"
+      "gloss": "⟨to⟩ ⟨je⟩"
     }
   ],
-  "timestamp": "2026-10-19T19:11:12.987138811Z",
+  "timestamp": "2026-10-19T20:20:59.587512212Z",
   "model": "glm-5.3"
 }

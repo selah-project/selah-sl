@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "Hebrejščina brez glagola — imenovalni stavek, brez »je« bi bil neslovenski"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נצב\/עמד",
-      "rationale": "Verz 89 in 90 povezuje glagol stajanja — beseda stoji v nebesih, zemlja stoji"
-    }
-  ],
-  "translation": "Rodu in rodu ⟨je⟩ tvoja zvestoba; ti si utrdil ⟨את⟩ zemljo in ona stoji.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/119\/89-92.1792435499879.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rodu in rodu ⟨je⟩ tvoja zvestoba; ⟨את⟩ zemljo si utrdil, in ⟨ona⟩ stoji.",
   "tokens": [
     {
       "surface": "לדר",
@@ -46,13 +25,14 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨את⟩ zemljo"
+      "gloss": "⟨את⟩ zemljo",
+      "marks": "zemljo"
     },
     {
       "surface": "ותעמד",
-      "gloss": "in ona stoji"
+      "gloss": "in ⟨ona⟩ stoji"
     }
   ],
-  "timestamp": "2026-10-19T18:44:59.879947950Z",
+  "timestamp": "2026-10-19T20:37:12.747310052Z",
   "model": "glm-5.3"
 }

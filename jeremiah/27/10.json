@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨iz nje⟩",
-      "rationale": "Slovenščina potrebuje izvor pregnitve, hebrejščina ga izpušča."
-    },
-    {
-      "kind": "alternative",
-      "subject": "osebek הרחיק",
-      "rationale": "Dobesedno 'da odmaknejo' — preroki kot osebek, a namen je, da se izpolni Jahvejev izgon (v. 11)."
-    }
-  ],
-  "translation": "kajti laž vam prerokujejo, da vas odmaknejo daleč od vaše zemlje, in pregnal vas bom ⟨iz nje⟩ in izgubili se boste.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/27\/9-12.1792431519500.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "kàrž laž vam prerokujejo, da vas oddaljijo od vaše zemlje, in pregnal vas bom ⟨את⟩ in boste propadli.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "kàrž"
     },
     {
       "surface": "שקר",
@@ -54,11 +33,12 @@
     },
     {
       "surface": "הרחיק",
-      "gloss": "odmaknejo daleč"
+      "gloss": "oddaljijo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩",
+      "marks": "vas"
     },
     {
       "surface": "מעל",
@@ -70,17 +50,18 @@
     },
     {
       "surface": "והדחתי",
-      "gloss": "in pregnal vas bom"
+      "gloss": "in pregnal bom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩",
+      "marks": "vas"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "in izgubili se boste"
+      "gloss": "in boste propadli"
     }
   ],
-  "timestamp": "2026-10-19T17:38:39.501261975Z",
+  "timestamp": "2026-10-19T20:38:51.758676511Z",
   "model": "glm-5.3"
 }

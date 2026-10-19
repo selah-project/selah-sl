@@ -5,46 +5,20 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "so bili",
-      "rationale": "Hebrew nominal clause 'v kateri zlati predmeti' brez glagola biti."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העלו עלות",
-      "rationale": "koren עלה — 'povzdignili\/darovali žgalne daritve'; besedna igra 'dvig' in 'kar gre gor v dimu', v slovenščini izgubljena."
-    },
-    {
-      "kind": "measurement",
-      "subject": "pet knezov",
-      "rationale": "številsko natančno štetje darov in udeležencev prepoj v 6,4.18 — ta verzek člen verige."
-    }
-  ],
-  "translation": "In Leviti so sneli ⟨את⟩ skrinjo Jahveja in ⟨את⟩ skrinjico, ki je bila ⟨את⟩ pri njej in v kateri so bili zlati predmeti, in položili so jih na velik kamen; in možje Bet Šemeša so darovali žgalne daritve in zaklali daritve tisti dan Jahveju.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "fa9adcabb47aa46ae65748c1e0a6e9d02cc2345ec9a1461c4de6814f204b57a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/6\/13-16.1792427569462.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Leviti so sneli ⟨את⟩ skrinjo Jahveja in ⟨את⟩ skrinjico, ki je bila ⟨pri njej⟩, v kateri so bili zlati predmeti, in položili ⟨jih⟩ na veliki kamen; možje Bet Šemeša so tisti dan povzdignili žgalne daritve in zaklali daritve ⟨v čast⟩ Jahveju.",
   "tokens": [
     {
       "surface": "והלוים",
       "gloss": "In Leviti"
     },
     {
-      "surface": "הורידu",
+      "surface": "הורידו",
       "gloss": "so sneli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "skrinjo Jahveja"
+      "marks": "skrinjo"
     },
     {
       "surface": "ארון",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "in v kateri"
+      "gloss": "v kateri"
     },
     {
       "surface": "בו",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "וישמו",
-      "gloss": "in so položili"
+      "gloss": "in položili"
     },
     {
       "surface": "אל",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "velik"
+      "gloss": "veliki"
     },
     {
       "surface": "ואנשי",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "העלו",
-      "gloss": "so darovali"
+      "gloss": "so povzdignili"
     },
     {
       "surface": "עלות",
@@ -125,7 +99,7 @@
     },
     {
       "surface": "ויזבחו",
-      "gloss": "in so zaklali"
+      "gloss": "in zaklali"
     },
     {
       "surface": "זבחים",
@@ -133,7 +107,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "na dan"
+      "gloss": "tisti dan"
     },
     {
       "surface": "ההוא",
@@ -144,6 +118,6 @@
       "gloss": "Jahveju"
     }
   ],
-  "timestamp": "2026-10-19T16:32:49.463217658Z",
+  "timestamp": "2026-10-19T20:15:56.572022313Z",
   "model": "glm-5.3"
 }

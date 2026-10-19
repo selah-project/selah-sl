@@ -5,27 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ki so",
-      "rationale": "slovenščina potrebuje oziralni stavek z 'ki', hebrejščina uporablja deležnik"
-    }
-  ],
-  "translation": "Kaj tako govori Jahve o sinovih in o hčereh, rojenih na tem kraju, in o njihovih materah, ki so jih rodile, in o njihovih očetih, ki so jih rodili v tej deželi:",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "6dfecd209b945013c712a7ff4af2832eee7655f4a68c49cd494e32a95c1148be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/16\/1-4.1792431331019.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti tako govori Jahve o sinovih in o hčerah, rojenih na tem kraju, in o njihovih materah, ki so jih rodile, ⟨את⟩ in o njihovih očetih, ki so jih rodili ⟨את⟩ v tej deželi:",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kaj"
+      "gloss": "kajti"
     },
     {
       "surface": "כה",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "הבנות",
-      "gloss": "hčereh"
+      "gloss": "hčerah"
     },
     {
       "surface": "הילודים",
-      "gloss": "rojenih"
+      "gloss": "rojene"
     },
     {
       "surface": "במקום",
@@ -82,7 +66,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "njih (sinove in hčere)"
     },
     {
       "surface": "ועל",
@@ -99,7 +83,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "njih (sinove in hčere)"
     },
     {
       "surface": "בארץ",
@@ -110,6 +94,6 @@
       "gloss": "tej"
     }
   ],
-  "timestamp": "2026-10-19T17:35:31.020539550Z",
+  "timestamp": "2026-10-19T20:28:17.384511556Z",
   "model": "glm-5.3"
 }

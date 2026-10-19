@@ -5,37 +5,11 @@
   "book": "ruth",
   "lang": "sl",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefeš",
-      "rationale": "נפש je blježeče bitje, življenjska sila — 'duša' je le približek; dobesedno 'tista, ki vrača življenjsko sapo'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sedmih sinov",
-      "rationale": "število sedem kot merilo polnosti — snaha je 'več kot sedem sinov'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ילדתו",
-      "rationale": "komu je rodila — dečku (Boazu) ali njemu (Noemi za sinove); večina bere 'ga je rodila' z nedoločnim ciljem"
-    }
-  ],
-  "translation": "in bodi ti za vrnjevalca duše ⟨nefeš⟩ in za vzdrževalca tvoje starosti; kajti tvoja snaha, ki te je ljubila, ga je rodila — ta, ki je tebi boljša od sedmih sinov.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "74b037ff52ec3203f9f2992878e3a2ae3e68d7cc88ba64ad214b7c9b6f428b46",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ruth\/4\/13-16.1792436908968.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨bo⟩ ti vrnilec duše in hranilec tvoje sive starosti, kajti tvoja snaha, ki te ljubi, je rodila ⟨njemu⟩ ⟨to⟩, ki je tebi boljša od sedmih sinov.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "in bodi"
+      "gloss": "in bo"
     },
     {
       "surface": "לך",
@@ -43,24 +17,24 @@
     },
     {
       "surface": "למשיב",
-      "gloss": "za vrnjevalca"
+      "gloss": "vrnilec"
     },
     {
       "surface": "נפש",
-      "gloss": "duše ⟨nefeš⟩"
+      "gloss": "duše"
     },
     {
       "surface": "ולכלכל",
-      "gloss": "in za vzdrževalca"
+      "gloss": "in hranilec"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tvojo starost"
+      "marks": "tvojo sivo starost"
     },
     {
       "surface": "שיבתך",
-      "gloss": "tvojo starost"
+      "gloss": "tvojo sivo starost"
     },
     {
       "surface": "כי",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "אהבתך",
-      "gloss": "te je ljubila"
+      "gloss": "te ljubi"
     },
     {
       "surface": "ילדתו",
-      "gloss": "ga je rodila"
+      "gloss": "je rodila ⟨njemu⟩"
     },
     {
       "surface": "אשר",
-      "gloss": "ta, ki"
+      "gloss": "ki"
     },
     {
       "surface": "היא",
@@ -107,6 +81,6 @@
       "gloss": "sinov"
     }
   ],
-  "timestamp": "2026-10-19T19:08:28.970007673Z",
+  "timestamp": "2026-10-19T20:37:48.285759678Z",
   "model": "glm-5.3"
 }

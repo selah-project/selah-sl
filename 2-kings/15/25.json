@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "šališ",
-      "rationale": "שלישו: 'tretji častnik' (dobesedno 'njegov trojni') ali 'dvorjan\/vojvoda' — prevodi se razhajajo."
-    },
-    {
-      "kind": "crux",
-      "subject": "בארמון בית מלך",
-      "rationale": "'utrdba doma kralja' ali 'višina\/prostor kraljeve palače'; dobesedna slika je višina."
-    }
-  ],
-  "translation": "In zasnovala je zoper ⟨njega⟩ Pekah, sin Remaljahov, njegov tretji častnik, in udaril ga je v Šomronu, v utrdbi kraljevega doma — ⟨skupaj z⟩ Argobom in ⟨את⟩ Arjejem — in z njim petdeset mož izmed sinov Giladovih; usmrtil ga je in kraljeval namesto njega.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "4852c911c20e77ea54f9075b66788c27ec7170337fac8dd4d8cc397dd7006237",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/15\/25-28.1792429655369.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zaroto je stal zoper njega Pekah, sin Remaljahov, njegov tretji-častnik, in udaril ga v Šomronu, v trdnjavi hiše kralja, ⟨את⟩ Argob in ⟨את⟩ Arjej — s tem petdeset možmi izmed sinov Giladovih — in umoril ga je in kraljeval namesto njega.",
   "tokens": [
     {
       "surface": "ויקשר",
-      "gloss": "zasnoval je"
+      "gloss": "zaroto je stal"
     },
     {
       "surface": "עליו",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "רמליהו",
-      "gloss": "Remaljaha"
+      "gloss": "Remaljahov"
     },
     {
       "surface": "שלישו",
-      "gloss": "njegov tretji častnik"
+      "gloss": "njegov tretji-častnik"
     },
     {
       "surface": "ויכהו",
-      "gloss": "in udaril ga je"
+      "gloss": "in udaril ga"
     },
     {
       "surface": "בשמרון",
@@ -62,20 +41,20 @@
     },
     {
       "surface": "בארמון",
-      "gloss": "v utrdbi"
+      "gloss": "v trdnjavi"
     },
     {
       "surface": "בית",
-      "gloss": "doma"
+      "gloss": "hiše"
     },
     {
       "surface": "מלך",
-      "gloss": "kraljevega"
+      "gloss": "kralja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Argoba"
+      "marks": "Argob"
     },
     {
       "surface": "ארגב",
@@ -84,15 +63,15 @@
     {
       "surface": "ואת",
       "gloss": "in ⟨את⟩",
-      "marks": "Arjeja"
+      "marks": "Arjej"
     },
     {
       "surface": "האריה",
-      "gloss": "Arje"
+      "gloss": "Arjej"
     },
     {
       "surface": "ועמו",
-      "gloss": "in z njim"
+      "gloss": "s tem"
     },
     {
       "surface": "חמשים",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mož"
+      "gloss": "možmi"
     },
     {
       "surface": "מבני",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "וימיתהו",
-      "gloss": "usmrtil ga je"
+      "gloss": "in umoril ga je"
     },
     {
       "surface": "וימלך",
@@ -123,6 +102,6 @@
       "gloss": "namesto njega"
     }
   ],
-  "timestamp": "2026-10-19T17:07:35.370603465Z",
+  "timestamp": "2026-10-19T20:17:15.351881289Z",
   "model": "glm-5.3"
 }

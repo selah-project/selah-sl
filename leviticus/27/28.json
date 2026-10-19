@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חרם\/יחרם\/חרם",
-      "rationale": "Trikratni koren h-r-m v enem verzu: dvojina samostalnika in glagola zapira verzu obroč; v slovenščini ostaja 'herem' kot ena beseda."
-    },
-    {
-      "kind": "substitution",
-      "subject": "herem",
-      "rationale": "חרם pomeni zapečateneno, izločeno v prepoved — ne 'posvečena stvar' niti 'klet'; ohranjeno po zvoku."
-    },
-    {
-      "kind": "crux",
-      "subject": "svetost svetosti",
-      "rationale": "קדש קדשים: dobesedno 'svetost svetosti' (najsvejejše); hebrejska stopnjevalna dvojina genitiva."
-    }
-  ],
-  "translation": "Samo vsak herem, ki ga človek izroči v prepoved Jahvu iz vsega, kar ima — iz človeka in živine ter iz polja njegove posesti — se ne sme prodati in se ne sme odkupiti; vsak herem je svetost svetosti, Jahvu je.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/27\/25-28.1792424653218.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Razen vsega herema, ki ga človek izroči v zapoved Jahveju od vsega, kar ima — od človeka in živine in polja njegove posesti — se ne sme prodati in se ne sme odkupiti; vsak herem je svet nad svetimi, ⟨to je⟩ Jahveju.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "samo"
+      "gloss": "razen"
     },
     {
       "surface": "כל",
-      "gloss": "vsak"
+      "gloss": "ves"
     },
     {
       "surface": "חרם",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "יחרם",
-      "gloss": "izroči v prepoved"
+      "gloss": "izroči v zapoved"
     },
     {
       "surface": "איש",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahveju"
     },
     {
       "surface": "מכל",
-      "gloss": "iz vsega"
+      "gloss": "od vsega"
     },
     {
       "surface": "אשר",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "מאדם",
-      "gloss": "iz človeka"
+      "gloss": "od človeka"
     },
     {
       "surface": "ובהמה",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ומשדה",
-      "gloss": "in iz polja"
+      "gloss": "in polja"
     },
     {
       "surface": "אחזתו",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "ימכר",
-      "gloss": "se sme prodati"
+      "gloss": "se proda"
     },
     {
       "surface": "ולא",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "יגאל",
-      "gloss": "se sme odkupiti"
+      "gloss": "se odkupi"
     },
     {
       "surface": "כל",
@@ -115,11 +89,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "svetost"
+      "gloss": "svet"
     },
     {
       "surface": "קדשים",
-      "gloss": "svetosti"
+      "gloss": "nad svetimi"
     },
     {
       "surface": "הוא",
@@ -127,9 +101,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahvu"
+      "gloss": "Jahveju"
     }
   ],
-  "timestamp": "2026-10-19T15:44:13.220137615Z",
+  "timestamp": "2026-10-19T20:33:56.683585903Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "joel",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "severnjaka",
-      "rationale": "הצפוני 'severni': kobilice, ki prihajajo s severa, ali severna vojska — prevodi se delijo."
-    },
-    {
-      "kind": "substitution",
-      "subject": "את (z)",
-      "rationale": "את pred פניו je tu predlog 'z', ne označevalnik predmeta — vidna homonimija."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ועלה ... ותעל",
-      "rationale": "Ponovitev korena עלה 'vzpeti se' v vzporedju — smrad in gnus skupaj 'dvorasteta'."
-    }
-  ],
-  "translation": "In ⟨את⟩ severnjaka odstranim daleč od vas in ga odženem v deželo suho in pusto, z njegovim obrazom proti vzhodnemu morju in z njegovim koncem proti zadnjemu morju; in dvignil se bo njegov smrad in vzšel bo njegov gnus, kajti veliko je storil.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f35a0f18421a0934b7515f206b6972824de39b4f7cdf8843d10b7bd1addb0964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/2\/17-20.1792433957346.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ severnjaka bom odgnal daleč od vas in ga pahnil v deželo sušno in pusto: ⟨את⟩ njegov obraz proti vzhodnemu morju, njegov konec proti zadnjemu morju. In dvignil se bo njegov smrad, in vzšla bo njegov smrdljivost, kajti veliko je storil ⟨v delovanju⟩.",
   "tokens": [
     {
       "surface": "ואת",
@@ -40,19 +14,19 @@
     },
     {
       "surface": "הצפוני",
-      "gloss": "severnjaka"
+      "gloss": "severnjak"
     },
     {
       "surface": "ארחיק",
-      "gloss": "odstranim-daleč"
+      "gloss": "bom odgnal daleč"
     },
     {
       "surface": "מעליכם",
-      "gloss": "od-vas"
+      "gloss": "od vas"
     },
     {
       "surface": "והדחתיו",
-      "gloss": "in-ga-odženem"
+      "gloss": "in ga pahnil"
     },
     {
       "surface": "אל",
@@ -64,19 +38,20 @@
     },
     {
       "surface": "ציה",
-      "gloss": "suho"
+      "gloss": "sušno"
     },
     {
       "surface": "ושממה",
-      "gloss": "in-pusto"
+      "gloss": "in pusto"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ z"
+      "gloss": "⟨את⟩",
+      "marks": "njegov obraz"
     },
     {
       "surface": "פניו",
-      "gloss": "njegovim-obrazom"
+      "gloss": "njegov obraz"
     },
     {
       "surface": "אל",
@@ -92,7 +67,7 @@
     },
     {
       "surface": "וספו",
-      "gloss": "in-z-njegovim-koncem"
+      "gloss": "in njegov konec"
     },
     {
       "surface": "אל",
@@ -108,19 +83,19 @@
     },
     {
       "surface": "ועלה",
-      "gloss": "in-dvignil-se-bo"
+      "gloss": "in dvignil se bo"
     },
     {
       "surface": "באשו",
-      "gloss": "njegov-smrad"
+      "gloss": "njegov smrad"
     },
     {
       "surface": "ותעל",
-      "gloss": "in-vzšel-bo"
+      "gloss": "in vzšla bo"
     },
     {
       "surface": "צחנתו",
-      "gloss": "njegov-gnus"
+      "gloss": "njegova smrdljivost"
     },
     {
       "surface": "כי",
@@ -128,13 +103,13 @@
     },
     {
       "surface": "הגדיל",
-      "gloss": "veliko-je"
+      "gloss": "veliko je storil"
     },
     {
       "surface": "לעשות",
-      "gloss": "storil"
+      "gloss": "⟨v delovanju⟩"
     }
   ],
-  "timestamp": "2026-10-19T18:19:17.350762883Z",
+  "timestamp": "2026-10-19T20:30:39.177357022Z",
   "model": "glm-5.3"
 }

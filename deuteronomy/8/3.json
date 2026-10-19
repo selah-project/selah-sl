@@ -5,45 +5,19 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מן (mana)",
-      "rationale": "ime izhaja iz vprašanja 'man hu' — kaj je to (2 Mz 16,15); tu edino živilo s tem imenom"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מוצא פי",
-      "rational": "dobesedno 'izhod ust' — ne 'beseda', temveč vse, kar izhaja iz Jahvejevih ust; okus izvora je v slovenščini omiljen"
-    },
-    {
-      "kind": "substitution",
-      "subject": "lačnal te je pustil",
-      "rationale": "hebrejščina govori 'pogladi te je' (וירעיבך, vzročnik 'narediti lačnega'), slovenščina doda pomožni glagol"
-    }
-  ],
-  "translation": "In ponižal te je in lačnal te je pustil, in hranil te je z ⟨את⟩ mano, ki je nisi poznal, niti je niso poznale tvoje očetje, da bi te dvedel, da človek ne živi samo s kruhom, temveč z vsem, kar izhaja iz ust Jahveja, živi človek.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c67e2c9751c6fcd7f4cf9f34277f6e0329b85dec6fe7528226887ea4e3484938",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/8\/1-4.1792425878048.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ponižal te je in dal ti lačnost, in nahranil te s ⟨את⟩ mano, ki je niso poznali ne ti ne tvoji očetje, da bi ti dal vedeti, da človek ne živi samo po kruhu, temveč po vsem, kar izhaja iz ust Jahveja, živi človek.",
   "tokens": [
     {
       "surface": "ויענך",
-      "gloss": "In ponižal te je"
+      "gloss": "in ponižal te je"
     },
     {
-      "surface": "וירעibך",
-      "gloss": "lačnal te je pustil"
+      "surface": "וירעבך",
+      "gloss": "in dal ti lačnost"
     },
     {
       "surface": "ויאכלך",
-      "gloss": "hranil te je"
+      "gloss": "in nahranil te"
     },
     {
       "surface": "את",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "niti"
+      "gloss": "ne"
     },
     {
       "surface": "ידעון",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "אבתיך",
-      "gloss": "tvoje očetje"
+      "gloss": "tvoji očetje"
     },
     {
       "surface": "למען",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "הודעך",
-      "gloss": "te dvedel"
+      "gloss": "dal ti vedeti"
     },
     {
       "surface": "כי",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "על",
-      "gloss": "s"
+      "gloss": "po"
     },
     {
       "surface": "הלחם",
-      "gloss": "kruhom"
+      "gloss": "kruhu"
     },
     {
       "surface": "לבדו",
@@ -116,11 +90,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "temveč z"
+      "gloss": "temveč po"
     },
     {
       "surface": "על",
-      "gloss": "z"
+      "gloss": "po"
     },
     {
       "surface": "כל",
@@ -147,6 +121,6 @@
       "gloss": "človek"
     }
   ],
-  "timestamp": "2026-10-19T16:04:38.050224900Z",
+  "timestamp": "2026-10-19T20:20:45.542583063Z",
   "model": "glm-5.3"
 }

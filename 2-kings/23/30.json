@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מת",
-      "rationale": "Delni stavke: 'umirajoč' (YLT) ali že 'mrtvega' — nedoločeno, kdaj je Jošija umrl."
-    },
-    {
-      "kind": "addition",
-      "subject": "na voz",
-      "rationale": "רכב pomeni 'posaditi na (jaho\/dilo)'; 'voz' je dopolnjeno iz konteksta."
-    }
-  ],
-  "translation": "In njegovi služabniki so ga posadili na voz, mrtvega, iz Megida, in pripeljali so ga v Jerušalajim ter ga pokopali v njegovem grobu. In ljudstvo dežele je vzelo Jehoahaza, sina Jošije, in mazilili so ga ⟨את⟩ in ustoličili so ga ⟨את⟩ namesto njegovega očeta.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/23\/29-32.1792429824362.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In njegovi služabniki so ga pelzali mrtvega iz Megida in ga pripeljali v Jerušalajim ter ga pokopali v njegovi grobnici. Ljudstvo dežele je vzelo ⟨את⟩ Jehoahaza, sina Jošija, in ga mazililo ter ga ustoličilo za kralja namesto njegovega očeta.",
   "tokens": [
     {
       "surface": "וירכבהו",
-      "gloss": "In so ga posadili na voz"
+      "gloss": "so ga pelzali"
     },
     {
       "surface": "עבדיו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויבאהו",
-      "gloss": "in so ga pripeljali"
+      "gloss": "in ga pripeljali"
     },
     {
       "surface": "ירושלם",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "ויקברהו",
-      "gloss": "in so ga pokopali"
+      "gloss": "ter ga pokopali"
     },
     {
       "surface": "בקברתו",
-      "gloss": "v njegovem grobu"
+      "gloss": "v njegovi grobnici"
     },
     {
       "surface": "ויקח",
-      "gloss": "in je vzelo"
+      "gloss": "je vzelo"
     },
     {
       "surface": "עם",
@@ -83,29 +62,29 @@
     },
     {
       "surface": "בן",
-      "gloss": "sina"
+      "gloss": "sin"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Jošije"
+      "gloss": "Jošija"
     },
     {
       "surface": "וימשחו",
-      "gloss": "in so ga mazilili"
+      "gloss": "in mazililo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ga"
+      "gloss": "⟨את⟩ ga",
+      "marks": "mazililo"
     },
     {
       "surface": "וימליכו",
-      "gloss": "in so ga ustoličili"
+      "gloss": "ter ustoličilo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ga"
+      "gloss": "⟨את⟩ ga",
+      "marks": "ustoličilo"
     },
     {
       "surface": "תחת",
@@ -116,6 +95,6 @@
       "gloss": "njegovega očeta"
     }
   ],
-  "timestamp": "2026-10-19T17:10:24.363658511Z",
+  "timestamp": "2026-10-19T20:17:47.679569122Z",
   "model": "glm-5.3"
 }

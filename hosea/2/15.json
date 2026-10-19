@@ -5,41 +5,20 @@
   "book": "hosea",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "sešteval bom",
-      "rationale": "פקד 'obiskati' — prijateljsko ali sovražno; tu 'kaznovati, spraviti na dan dolga', povezano z בקר 'obračun'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ואתי",
-      "rationale": "'in mene' — osebni zaimek אותי se v pisavi ujema z oznako ⟨את⟩; ironično je prav On tisti 'predmet', ki ga je pozabila."
-    }
-  ],
-  "translation": "In sešteval bom nad njo ⟨את⟩ dneve Baalov, katerim je kadila, in se okrasila s svojim nosnim prstanom in svojo draginjo, in hodila je za svojimi ljubimci — ⟨in⟩ mene je pozabila, govori Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "8409e26cb5687f7845a7be93c8657ef5993e23252f2ca8236104b7bd69a42b2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/hosea\/2\/13-16.1792433810590.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In obiskal bom nad njo ⟨את⟩ dneve Baalov, katerim je kadila, in okrasila se je s svojim nosnim prstanom in svojo dragocenostjo, in šla je za svojimi ljubimci, ⟨את⟩ mene pa je pozabila, govori Jahve.",
   "tokens": [
     {
       "surface": "ופקדתי",
-      "gloss": "in sešteval bom"
+      "gloss": "in obiskal bom nad"
     },
     {
       "surface": "עליה",
-      "gloss": "nad njo"
+      "gloss": "njo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dneve Baalov"
+      "marks": "dneve"
     },
     {
       "surface": "ימי",
@@ -63,19 +42,19 @@
     },
     {
       "surface": "ותעד",
-      "gloss": "in se okrasila"
+      "gloss": "in okrasila se je"
     },
     {
       "surface": "נזמה",
-      "gloss": "njen nosni prstan"
+      "gloss": "s svojim nosnim prstanom"
     },
     {
       "surface": "וחליתה",
-      "gloss": "in njena draginja"
+      "gloss": "in svojo dragocenostjo"
     },
     {
       "surface": "ותלך",
-      "gloss": "in hodila je"
+      "gloss": "in šla je"
     },
     {
       "surface": "אחרי",
@@ -87,7 +66,8 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "in ⟨את⟩ mene"
+      "gloss": "⟨את⟩ mene",
+      "marks": "je pozabila"
     },
     {
       "surface": "שכחה",
@@ -102,6 +82,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T18:16:50.599619185Z",
+  "timestamp": "2026-10-19T20:26:39.900142186Z",
   "model": "glm-5.3"
 }

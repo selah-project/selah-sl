@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jih",
-      "rationale": "Slovenščina potrebuje brezosebni dodatek 'jih' pri 'povrnil' — hebrejščina ga ima v končnici."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פרו ורבו",
-      "rationale": "Ozven blagoslova iz 1 Mz 1,28 ('plodite se in množite se') nad novo zbrano drobnico."
-    }
-  ],
-  "translation": "In jaz bom zbral ⟨את⟩ ostanek svoje drobnice iz vseh dežel, kamor sem jih pregnal ⟨את⟩ tja, in povrnil jih bom na njihove pašnike, in obrodili bodo in se pomnožili.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "d2e90f6b9d8caa26d81b7ea4847707972dc7915f35fa0d89d5558ff0da9083d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/23\/1-4.1792431443584.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In jaz bom zbral ⟨את⟩ ostanek svoje drobnice iz vseh dežel, kamor sem jih zagánjal tja, in povrnil ⟨את⟩ jih na njihove pašnike, in obrodili bodo in se pomnožili.",
   "tokens": [
     {
       "surface": "ואני",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ostanek"
+      "marks": "ostanek svoje drobnice"
     },
     {
       "surface": "שארית",
@@ -63,12 +42,12 @@
     },
     {
       "surface": "הדחתי",
-      "gloss": "sem jih pregnal"
+      "gloss": "sem jih zagánjal"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tja"
+      "marks": "jih"
     },
     {
       "surface": "שם",
@@ -76,12 +55,12 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "in povrnil jih bom"
+      "gloss": "in povrnil"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "jih na njihove pašnike"
     },
     {
       "surface": "על",
@@ -100,6 +79,6 @@
       "gloss": "in se pomnožili"
     }
   ],
-  "timestamp": "2026-10-19T17:37:23.585750972Z",
+  "timestamp": "2026-10-19T20:28:50.467874720Z",
   "model": "glm-5.3"
 }

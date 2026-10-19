@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Dvojni veznik 'temveč' — אם se v slovenščini zlije s כי in nima lastne besede."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨več⟩",
-      "rationale": "Dopolnjeno za slovenski glagolski način; hebrejščina ima samo מאין 'ni'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "pokopavali bodo ... ni prostora",
-      "rationale": "Verz meri grobišče po prostoru — pokop se konča, ko ni več mesta."
-    }
-  ],
-  "translation": "Zato glej, prihajajo dnevi, govori Jahve, in ne bo več rečeno Tofet in soteska sina Hinoma, temveč soteska pokola; in pokopavali bodo v Tofetu, ker ni ⟨več⟩ prostora.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "0432c9bd9190cccac8cfe9ae01d92b96dd136d2a1fcf748d8cd6ceb3d746d3c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/7\/29-32.1792431245131.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato glej, prihajajo dnevi, govori Jahve, in ne bo več rečeno Tofet in dolina sina Hinomovega, ampak dolina pokola; in pokopavali bodo v Tofetu, ker ⟨ni⟩ več prostora.",
   "tokens": [
     {
       "surface": "לכן",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "וגיא",
-      "gloss": "in soteska"
+      "gloss": "in dolina"
     },
     {
       "surface": "בן",
@@ -83,19 +57,19 @@
     },
     {
       "surface": "הנם",
-      "gloss": "Hinoma"
+      "gloss": "Hinomovega"
     },
     {
       "surface": "כי",
-      "gloss": "temveč"
+      "gloss": "ampak"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "temveč"
     },
     {
       "surface": "גיא",
-      "gloss": "soteska"
+      "gloss": "dolina"
     },
     {
       "surface": "ההרגה",
@@ -118,6 +92,6 @@
       "gloss": "prostora"
     }
   ],
-  "timestamp": "2026-10-19T17:34:05.132733755Z",
+  "timestamp": "2026-10-19T20:30:02.291734141Z",
   "model": "glm-5.3"
 }

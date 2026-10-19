@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עליו",
-      "rationale": "ויקמו עליו je vzeti sem: vstali so nad\/zoper njim — 'and went to him' (KJV) mehča predlog."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ברא",
-      "rationale": "ברא (H1262, hifil: hraniti\/priskrbeti jed) tu pomeni jesti; ne mešati z ברא 'ustvariti'."
-    }
-  ],
-  "translation": "In starešine njegovega doma so vstali ⟨nad⟩ njim, da bi ga dvignili s tal, a ni hotel in ni jedel ⟨z⟩ njimi kruha.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/12\/17-20.1792428350057.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In vstali so starši njegovega doma ob njem, da bi ga dvignili s tal, pa ni hotel in ni jedel z njimi ⟨את⟩ kruha.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "so vstali"
+      "gloss": "in vstali so"
     },
     {
       "surface": "זקני",
-      "gloss": "starešine"
+      "gloss": "starši"
     },
     {
       "surface": "ביתו",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "nad njim"
+      "gloss": "ob njem"
     },
     {
       "surface": "להקימו",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "a ni"
+      "gloss": "pa ni"
     },
     {
       "surface": "אבה",
@@ -74,14 +53,13 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "z njimi"
+      "gloss": "⟨את⟩ z njimi"
     },
     {
       "surface": "לחם",
       "gloss": "kruha"
     }
   ],
-  "timestamp": "2026-10-19T16:45:50.058144782Z",
+  "timestamp": "2026-10-19T20:18:07.591180342Z",
   "model": "glm-5.3"
 }

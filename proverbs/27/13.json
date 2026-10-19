@@ -5,36 +5,15 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "poroštvo",
-      "rationale": "חבל je 'zaviti kot vrv', torej zavezati z zavarovanjem; 'poroštvo' je pravna vsevina, slika vrvi je izgubljena"
-    },
-    {
-      "kind": "addition",
-      "subject": "žene",
-      "rationale": "נכריה je samostalniški pridevnik ženskega spola ('tuja'); beseda 'žena' je dodana v oklepaju"
-    }
-  ],
-  "translation": "Vzemi njegovo oblačilo, kajti porok je postal za tujca, in zaradi tuje ⟨žene⟩ vzemi ⟨את⟩ poroštvo od njega.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/27\/13-16.1792436143043.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vzemi njegovo obleko, kajti porok je postal za tujca, in vzemi zavarovanje od njega za tujo ženo.",
   "tokens": [
     {
       "surface": "קח",
-      "gloss": "Vzemi"
+      "gloss": "vzemi"
     },
     {
       "surface": "בגדו",
-      "gloss": "njegovo oblačilo"
+      "gloss": "njegovo obleko"
     },
     {
       "surface": "כי",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "ובעד",
-      "gloss": "in zaradi"
+      "gloss": "in za"
     },
     {
       "surface": "נכריה",
-      "gloss": "tuje"
+      "gloss": "tujo ženo"
     },
     {
       "surface": "חבלהו",
-      "gloss": "vzemi ⟨את⟩ poroštvo od njega"
+      "gloss": "vzemi zavarovanje od njega"
     }
   ],
-  "timestamp": "2026-10-19T18:55:43.044165181Z",
+  "timestamp": "2026-10-19T20:37:04.214579689Z",
   "model": "glm-5.3"
 }

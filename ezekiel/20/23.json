@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "dvigniti roko",
-      "rationale": "נשא את יד — gesta prisege ob prisego pri zaobljubi, ne grožnje."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "להפיץ \/ ולזרות",
-      "rationale": "dva glagola razprševanja (raztresel \/ razsul-rejal) podajata podobo žita, ki ga vejejo po deželah."
-    }
-  ],
-  "translation": "Tudi jaz sem dvignil ⟨את⟩ svojo roko nadnje v puščavi, da bi jih raztresel med narode in jih razsul po deželah.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/20\/21-24.1792432366592.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tudi jaz sem dvignil ⟨את⟩ svojo roko nadnje v puščavi, da bi jih razkropil med narode in jih raztresel po deželah.",
   "tokens": [
     {
       "surface": "גם",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ידי",
-      "gloss": "svojo roko"
+      "gloss": "roko"
     },
     {
       "surface": "להם",
@@ -59,11 +38,12 @@
     },
     {
       "surface": "להפיץ",
-      "gloss": "da bi raztresel"
+      "gloss": "da bi razkropil"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "jih (med narode)"
     },
     {
       "surface": "בגוים",
@@ -71,17 +51,18 @@
     },
     {
       "surface": "ולזרות",
-      "gloss": "in razsul"
+      "gloss": "in raztresel"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "jih (po deželah)"
     },
     {
       "surface": "בארצות",
       "gloss": "po deželah"
     }
   ],
-  "timestamp": "2026-10-19T17:52:46.593954704Z",
+  "timestamp": "2026-10-19T20:23:23.324257267Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "sl",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "למ",
-      "rationale": "poševna ali pokvarjena črkovna oblika (možno לְמַ־ pred בָּרִאשׁוֹנָה, 'prvič'), brez lastnega pomena"
-    },
-    {
-      "kind": "crux",
-      "subject": "כמשפט",
-      "rationale": "'po pravu\/pravilu\/ustanovi' — različice: 'po predpisu', 'kakor spada'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vdrl",
-      "rationale": "פרץ je 'prebil se, vdrl' — isti koren kot Uca-Perez iz 2 S 6,8"
-    }
-  ],
-  "translation": "Ker prvič niste bili vi, je Jahve, naš Elohim, vdrl med nas, ker ga nismo iskali po pravu.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "5805a0b79fda9fce2abf4402fc682384a02e55b52375aa8481b414daf85b8757",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-chronicles\/15\/13-16.1792438249016.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ker prvič niste ⟨bili⟩ vi ⟨tisti, ki so nosili⟩, je zlomil Jahve, Elohim naš, med nami, ker ga nismo iskali po pravem sodbi ⟨reda⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ker"
+      "gloss": "ker"
     },
     {
       "surface": "למ",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "je vdrl"
+      "gloss": "je zlomil"
     },
     {
       "surface": "יהוה",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "naš Elohim"
+      "gloss": "Elohim naš"
     },
     {
       "surface": "בנו",
-      "gloss": "med nas"
+      "gloss": "med nami"
     },
     {
       "surface": "כי",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "כמשפט",
-      "gloss": "po pravu"
+      "gloss": "po pravem sodbi"
     }
   ],
-  "timestamp": "2026-10-19T19:30:49.017080183Z",
+  "timestamp": "2026-10-19T20:13:44.536489872Z",
   "model": "glm-5.3"
 }

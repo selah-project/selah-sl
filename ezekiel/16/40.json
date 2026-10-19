@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "z svojimi meči",
-      "rationale": "חרבות: 'meči' (vsi prevodi) — koren pomeni tudi 'suša', a tu prevladuje rezilo"
-    },
-    {
-      "kind": "substitution",
-      "subject": "zbor",
-      "rationale": "קהל je skupina ljudi v pravnem obredju — usmrtitveni zbor, ne 'množica'"
-    }
-  ],
-  "translation": "In pripeljali bodo nate zbor in kamnali te bodo s kamni in razsekali te bodo s svojimi meči.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "11091746fc5030c0b3b9c1248487d2112884ecc9e51aec66a5039fa20a130735",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/16\/37-40.1792432272305.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In pripeljali bodo nate zbor in kamnali te bodo s kamni ⟨את⟩ in razsekali te z njihovimi meči.",
   "tokens": [
     {
       "surface": "והעלו",
-      "gloss": "in pripeljali bodo"
+      "gloss": "In pripeljali bodo"
     },
     {
       "surface": "עליך",
@@ -42,12 +21,12 @@
     },
     {
       "surface": "ורגמו",
-      "gloss": "in kamnali"
+      "gloss": "kamnali te bodo"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ te",
-      "marks": "s kamni"
+      "gloss": "⟨את⟩",
+      "marks": "te (tebe, z kamni)"
     },
     {
       "surface": "באבן",
@@ -55,13 +34,13 @@
     },
     {
       "surface": "ובתקוך",
-      "gloss": "in razsekali te"
+      "gloss": "razsekali te"
     },
     {
       "surface": "בחרבותם",
-      "gloss": "s svojimi meči"
+      "gloss": "z njihovimi meči"
     }
   ],
-  "timestamp": "2026-10-19T17:51:12.306284634Z",
+  "timestamp": "2026-10-19T20:22:47.883333185Z",
   "model": "glm-5.3"
 }

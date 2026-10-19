@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "od najmanjšega do največjega",
-      "rationale": "למקטן ועד גדול — merilna zveza za vse ljudstvo brez izjeme"
-    }
-  ],
-  "translation": "In poklical je Johanana, sina Kareáha, in vse kneze vojske, ki so bili ⟨z njim⟩, in vse ljudstvo, od najmanjšega do največjega.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f792e7182f12eba44add716595e6bb1935b921e9bfa567a2495db2ec93660fe6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/42\/5-8.1792431821038.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In poklical je Jochanána, sina Kareáhovega, in vse poveljnike čet, ki so bili ⟨pri njem⟩, in vse ljudstvo, od najmanjšega do največjega.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "יוחנן",
-      "gloss": "Johananu"
+      "gloss": "Jochanána"
     },
     {
       "surface": "בן",
-      "gloss": "sinu"
+      "gloss": "sin"
     },
     {
       "surface": "קרח",
-      "gloss": "Kareáha"
+      "gloss": "Kareáhovega"
     },
     {
       "surface": "ואל",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "knezom"
+      "gloss": "poveljnikom"
     },
     {
       "surface": "החילים",
-      "gloss": "vojske"
+      "gloss": "čet"
     },
     {
       "surface": "אשר",
@@ -65,7 +49,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ z njim"
+      "gloss": "⟨את⟩ pri njem",
+      "marks": "poveljniki čet"
     },
     {
       "surface": "ולכל",
@@ -88,6 +73,6 @@
       "gloss": "največjega"
     }
   ],
-  "timestamp": "2026-10-19T17:43:41.039464889Z",
+  "timestamp": "2026-10-19T20:29:20.128521438Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "sl",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פחים",
-      "rationale": "'zankе' (KJV) proti 'ogliš' (JPS, iz גחלים po predlagani prebrani) — istе črke, drug samoglasnik"
-    },
-    {
-      "kind": "addition",
-      "subject": "je",
-      "rationale": "hebrejščina brez veznika; v stavku dodan za slovensko obliko"
-    }
-  ],
-  "translation": "Deževal bo na hudobneže zankе, ogenj in žveplo; in ruah plamenov ⟨je⟩ delež njihovega keliha.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/psalms\/11\/5-7.1792434579955.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Deževal bo na hudobneze pasti, ogenj in žveplo, in ruah žareče-jeze — delež njihovega keliha.",
   "tokens": [
     {
       "surface": "ימטר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "hudobneže"
+      "gloss": "hudobneze"
     },
     {
       "surface": "פחים",
-      "gloss": "zankе"
+      "gloss": "pasti"
     },
     {
       "surface": "אש",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "זלעפות",
-      "gloss": "plamenov"
+      "gloss": "žareče-jeze"
     },
     {
       "surface": "מנת",
@@ -69,6 +48,6 @@
       "gloss": "njihovega keliha"
     }
   ],
-  "timestamp": "2026-10-19T18:29:39.958154691Z",
+  "timestamp": "2026-10-19T20:37:11.258989377Z",
   "model": "glm-5.3"
 }

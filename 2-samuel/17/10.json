@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "המס ימס",
-      "rationale": "Infinitivni resolutiv istega glagola 'raztopiti se, raztopil se bo' — popolna taljenost; slovenščina 'popolnoma raztopi'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בן־חיל",
-      "rationale": "Dobesedno 'sin jakosti' = srčen junak; 'junak' izgubi podobo 'sina'."
-    }
-  ],
-  "translation": "In tudi mož, srčen kakor lev, se bo popolnoma raztopil, kajti ves Jisrael ve, da je tvoj oče junak in da so z njimi ⟨z njim⟩ mogoči možje.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "f92f1e4f1f5ec5d0ab0abe1b74466ac2b7b34eaf000104e85feeb1716055037d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/17\/9-12.1792428432417.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In tudi ⟨ta⟩ mož, sin poguma, ki mu je srce kakor srce leva, se bo povsem raztopil, kajti ves Jisrael ve, da je tvoj oče junak in da so ⟨את⟩ z njim pogumni možje.",
   "tokens": [
     {
       "surface": "והוא",
-      "gloss": "In tudi on"
+      "gloss": "in tudi on"
     },
     {
       "surface": "גם",
-      "gloss": "prav tako"
+      "gloss": "tudi"
     },
     {
       "surface": "בן",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "חיל",
-      "gloss": "junak"
+      "gloss": "poguma"
     },
     {
       "surface": "אשר",
-      "gloss": "kateremu"
+      "gloss": "ki"
     },
     {
       "surface": "לבו",
-      "gloss": "srce"
+      "gloss": "njegovo srce"
     },
     {
       "surface": "כלב",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "המס",
-      "gloss": "se raztopi"
+      "gloss": "bo povsem"
     },
     {
       "surface": "ימס",
-      "gloss": "popolnoma raztopi"
+      "gloss": "raztopljen"
     },
     {
       "surface": "כי",
@@ -93,16 +72,16 @@
       "gloss": "junak"
     },
     {
-      "surface": "אביק",
+      "surface": "אביך",
       "gloss": "tvoj oče"
     },
     {
       "surface": "ובני",
-      "gloss": "in sinovi"
+      "gloss": "in možje"
     },
     {
       "surface": "חיל",
-      "gloss": "mogočni možje"
+      "gloss": "pogumni"
     },
     {
       "surface": "אשר",
@@ -110,10 +89,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "z njim"
+      "gloss": "⟨את⟩ z njim"
     }
   ],
-  "timestamp": "2026-10-19T16:47:12.417935699Z",
+  "timestamp": "2026-10-19T20:18:09.973901102Z",
   "model": "glm-5.3"
 }

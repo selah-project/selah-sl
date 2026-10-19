@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "za duhovnika meni",
-      "rationale": "Hebrejščina 'zame, za duhovnika' — slovenski red besed razcepi vezano zvezo לי לכהן."
-    },
-    {
-      "kind": "crux",
-      "subject": "אשי",
-      "rationale": "'Iššej' — ognjene daritve (od אש, ogenj) ali 'moški daritve' (od איש); prevodi se odločajo med 'ognjeni darovi' in 'moški deli daritev'."
-    }
-  ],
-  "translation": "In izvolil sem ⟨ga⟩ izmed vseh rodov Jisraela, ⟨da⟩ ⟨bo⟩ moj duhovnik, da vzhgaja na moj oltar, da kadi kad, da nosi efod pred mano, in ⟨sem⟩ dal domu tvojega očeta ⟨את⟩ vse ognjene daritve sinov Jisraela?",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/2\/25-28.1792427499950.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In izbral sem ⟨את⟩ njega izmed vseh rodov Jisraela zase, da mi bo duhovnik, da vzpenja se na moj oltar, da kadil kadilno daritev, da nosi efod pred mojim obličjem, in dal sem domu tvojega očeta ⟨את⟩ vse ognjene daritve sinov Jisraela?",
   "tokens": [
     {
       "surface": "ובחר",
-      "gloss": "in izvolil sem"
+      "gloss": "in izbral sem"
     },
     {
       "surface": "אתו",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "meni"
+      "gloss": "zase"
     },
     {
       "surface": "לכהן",
-      "gloss": "za duhovnika"
+      "gloss": "duhovnik"
     },
     {
       "surface": "לעלות",
-      "gloss": "da vzhgaja"
+      "gloss": "da vzpenja se"
     },
     {
       "surface": "על",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "להקטיר",
-      "gloss": "da kadi"
+      "gloss": "da kadil"
     },
     {
       "surface": "קטרת",
-      "gloss": "kad"
+      "gloss": "kadilno daritev"
     },
     {
       "surface": "לשאת",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pred mano"
+      "gloss": "pred mojim obličjem"
     },
     {
       "surface": "ואתנה",
-      "gloss": "in sem dal"
+      "gloss": "in dal sem"
     },
     {
       "surface": "לבית",
@@ -123,6 +102,6 @@
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-10-19T16:31:39.951696689Z",
+  "timestamp": "2026-10-19T20:15:26.639751030Z",
   "model": "glm-5.3"
 }

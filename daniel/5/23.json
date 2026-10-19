@@ -5,43 +5,11 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Belšacar",
-      "rationale": "nadaljevanje neposrednega obtoževalnega ogovora kralju"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Gospodar neba",
-      "rationale": "aram. מרא שמיא dobesedno 'gospodar neba'; ni ime יהוה, zato dobesedno"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dih",
-      "rationale": "aram. נשמתך je dih\/življenjski dah, ne 'duša' v poznejšem pomenu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bogovom",
-      "gloss": "z malo začetnico",
-      "rationale": "אלהי tukaj označuje malike narodov, zato mali 'bogovom'"
-    }
-  ],
-  "translation": "In proti Gospodarju neba si se povzdignil, in posode njegove hiše so prinesli pred tebe, in ti in tvoji veljaki, tvoje žene in priležnice ste iz njih pili vino; in bogovom srebra in zlata, bakerja, železa, lesa in kamna, ki ne vidijo, ne slišijo in ne vedijo, si se poklonil; in Elahu, v čigar roki je tvoj dih in vse tvoje poti, nisi izkazal časti.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "aed8ce4b0d66142f5ea25f1f43524182b70176576f71af7bb9c9ed762c260b8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/5\/21-24.1792437460668.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In proti Gospodarju nebes si se povzdignil, in posode njegove hiše so prinesli pred tebe, in ti, tvoji veljaki, tvoje priležnice in tvoje ljubice ste pili iz njih vino, in bogovom srebra in zlata, bakra, železa, lesa in kamna, ki ne vidijo in ne slišijo in ne vedo, si izkazal čast, in Elohimu, v čigar roki sta tvoj dih in vse tvoje poti, ⟨njemu⟩ nisi izkazal časti.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "In proti"
+      "gloss": "in proti"
     },
     {
       "surface": "מרא",
@@ -49,7 +17,7 @@
     },
     {
       "surface": "שמיא",
-      "gloss": "neba"
+      "gloss": "nebes"
     },
     {
       "surface": "התרוממת",
@@ -61,7 +29,7 @@
     },
     {
       "surface": "די",
-      "gloss": "iz"
+      "gloss": ""
     },
     {
       "surface": "ביתה",
@@ -81,15 +49,15 @@
     },
     {
       "surface": "ורברבניך",
-      "gloss": "in tvoji veljaki"
+      "gloss": "tvoji veljaki"
     },
     {
       "surface": "שגלתך",
-      "gloss": "tvoje žene"
+      "gloss": "tvoje priležnice"
     },
     {
       "surface": "ולחנתך",
-      "gloss": "in priležnice"
+      "gloss": "in tvoje ljubice"
     },
     {
       "surface": "חמרא",
@@ -117,7 +85,7 @@
     },
     {
       "surface": "נחשא",
-      "gloss": "bakerja"
+      "gloss": "bakra"
     },
     {
       "surface": "פרזלא",
@@ -145,7 +113,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ne"
+      "gloss": "in ne"
     },
     {
       "surface": "שמעין",
@@ -157,15 +125,15 @@
     },
     {
       "surface": "ידעין",
-      "gloss": "vedijo"
+      "gloss": "vedo"
     },
     {
       "surface": "שבחת",
-      "gloss": "si se poklonil"
+      "gloss": "si izkazal čast"
     },
     {
       "surface": "ולאלהא",
-      "gloss": "in Elahu"
+      "gloss": "in Elohimu"
     },
     {
       "surface": "די",
@@ -173,11 +141,11 @@
     },
     {
       "surface": "נשמתך",
-      "gloss": "roki je tvoj dih"
+      "gloss": "sta tvoj dih"
     },
     {
       "surface": "בידה",
-      "gloss": "roki"
+      "gloss": "v roki"
     },
     {
       "surface": "וכל",
@@ -189,7 +157,7 @@
     },
     {
       "surface": "לה",
-      "gloss": "so njegove"
+      "gloss": ""
     },
     {
       "surface": "לא",
@@ -197,9 +165,9 @@
     },
     {
       "surface": "הדרת",
-      "gloss": "si izkazal časti"
+      "gloss": "nisi izkazal časti"
     }
   ],
-  "timestamp": "2026-10-19T19:17:40.680841305Z",
+  "timestamp": "2026-10-19T20:19:25.791199096Z",
   "model": "glm-5.3"
 }

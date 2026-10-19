@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "duše",
-      "rationale": "נפשות je dihajoča bitja, življenjska sila, ne 'duša' v pomenskem pomenu"
-    },
-    {
-      "kind": "crux",
-      "subject": "יעשה אותו",
-      "rationale": "dobesedno 'napravi z njim': 'pomagal mu' (KJV\/ASV\/JPS) proti 'vojeval proti njemu' (Wycliffe)"
-    }
-  ],
-  "translation": "In ne ⟨bo⟩ z veliko vojsko in ne s številno množico ⟨mu pomagal⟩ Paroh v boju, pri nasipanju nasipa in pri zidovanju oblegovalnega stolpa, da bi pokončal veliko duš.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "be0978ccc929a9c28b4ba27c5d5ae05661c75d4b0020e6ff57555d033de0f734",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/17\/17-20.1792432261947.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne z veliko vojsko in ne s številno množico mu bo Paroh pomagal v boju, ob nasipavanju nasipa in ob zidovanju oblegovalnega stolpa, da bi zatrelo mnogo duš.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "ne"
     },
     {
       "surface": "בחיל",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "bo storil"
+      "gloss": "bo pomagal"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "njega (Paroh mu)"
+      "marks": "mu (njemu)"
     },
     {
       "surface": "פרעה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בשפך",
-      "gloss": "pri nasipanju"
+      "gloss": "ob nasipavanju"
     },
     {
       "surface": "סללה",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ובבנות",
-      "gloss": "in pri zidovanju"
+      "gloss": "in ob zidovanju"
     },
     {
       "surface": "דיק",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "להכרית",
-      "gloss": "da bi pokončal"
+      "gloss": "da bi zatrelo"
     },
     {
       "surface": "נפשות",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "רבות",
-      "gloss": "veliko"
+      "gloss": "mnogo"
     }
   ],
-  "timestamp": "2026-10-19T17:51:01.948087577Z",
+  "timestamp": "2026-10-19T20:22:34.642534365Z",
   "model": "glm-5.3"
 }

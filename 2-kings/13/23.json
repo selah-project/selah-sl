@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויחן\/ויפן",
-      "rationale": "Chan\/fan — asonanca dveh glagolov naklonjenosti in obračanja, v slovenščini izgubljena."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "Objektni označevalec אותם se v slovenščini zlije z osebnim dvojnim glagolom; ⟨את⟩ ohranjen kot oznaka."
-    }
-  ],
-  "translation": "In Jahve jim je bil milostljiv in usmilil jih je ter se obrnil k njim zaradi svoje zaveze z ⟨את⟩ Avrahamom, Jichakom in Jaakovom; in ni hotel uničiti jih ter jih ni vrgel s svojega obličja do sedaj.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/13\/21-24.1792429590972.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jahve se je usmilil ⟨את⟩ njih in se jih usmilil, in se obrnil k njim zaradi svoje zaveze ⟨את⟩ z Avrahamom, Jichakom in Jaakovom, in ni hotel ⟨jih⟩ pokvariti, niti jih ni vrgel s svojega obličja do ⟨te⟩ danes.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "in bil je milostljiv"
+      "gloss": "se je usmilil"
     },
     {
       "surface": "יהוה",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ njih",
-      "marks": "jim"
+      "gloss": "⟨את⟩",
+      "marks": "njih"
     },
     {
       "surface": "וירחמם",
-      "gloss": "in usmilil jih je"
+      "gloss": "in se jih usmilil"
     },
     {
       "surface": "ויפן",
-      "gloss": "in obrnil se je"
+      "gloss": "in se obrnil"
     },
     {
       "surface": "אליהם",
@@ -63,8 +42,8 @@
     },
     {
       "surface": "את",
-      "gloss": "z ⟨את⟩",
-      "marks": "Avrahamom, Jichakom in Jaakovom"
+      "gloss": "⟨את⟩",
+      "marks": "z Avrahamom, Jichakom in Jaakovom"
     },
     {
       "surface": "אברהם",
@@ -88,15 +67,15 @@
     },
     {
       "surface": "השחיתם",
-      "gloss": "uničiti jih"
+      "gloss": "pokvariti"
     },
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "niti"
     },
     {
       "surface": "השליכם",
-      "gloss": "jih je vrgel"
+      "gloss": "jih ni vrgel"
     },
     {
       "surface": "מעל",
@@ -112,9 +91,9 @@
     },
     {
       "surface": "עתה",
-      "gloss": "sedaj"
+      "gloss": "danes"
     }
   ],
-  "timestamp": "2026-10-19T17:06:30.973184038Z",
+  "timestamp": "2026-10-19T20:17:04.687425928Z",
   "model": "glm-5.3"
 }

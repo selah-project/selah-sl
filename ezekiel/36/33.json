@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨je⟩\/struktura",
-      "rationale": "slovenščina potrebuje veznik in glagolske oblike, ki jih hebrejščina izraža s predponskimi oblikami"
-    },
-    {
-      "kind": "substitution",
-      "subject": "opustele",
-      "rationale": "החרבות je dobesedno 'izsušene\/požejane', pomeni opustošene kraje"
-    }
-  ],
-  "translation": "Tako govori Adonaj Jahve: V dan, ko vas očistim ⟨od⟩ vseh vaših krivdic, vas naselim v mesta in zgrajene bodo opustele.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "812d97991d1e222a17c9e2dbd786a2735762fdad0c7b843a101675b6c9862575",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/36\/33-36.1792433594437.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tako govori Adonaj Jahve: V dnevu, ko vas očistim ⟨את⟩ od vseh vaših krivic, naselil bom ⟨את⟩ mesta in zgrajena bodo opustošena mesta.",
   "tokens": [
     {
       "surface": "כה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "V dan"
+      "gloss": "V dnevu"
     },
     {
       "surface": "טהרי",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas",
+      "gloss": "⟨את⟩",
       "marks": "vas"
     },
     {
@@ -63,11 +42,11 @@
     },
     {
       "surface": "עונותיכם",
-      "gloss": "vaših krivdic"
+      "gloss": "vaših krivic"
     },
     {
       "surface": "והושבתי",
-      "gloss": "naselim"
+      "gloss": "naselil bom"
     },
     {
       "surface": "את",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "ונבנו",
-      "gloss": "zgrajene bodo"
+      "gloss": "in zgrajena bodo"
     },
     {
       "surface": "החרבות",
-      "gloss": "opustele"
+      "gloss": "opustošena mesta"
     }
   ],
-  "timestamp": "2026-10-19T18:13:14.438588002Z",
+  "timestamp": "2026-10-19T20:23:39.159995549Z",
   "model": "glm-5.3"
 }

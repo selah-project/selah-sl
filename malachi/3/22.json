@@ -5,33 +5,7 @@
   "book": "malachi",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨Mojega⟩",
-      "rationale": "svojilni zaimek 'Mojega' dodan, ker hebrejščina svojilnico עבדי nosi v obliki, slovenščina pa potrebuje jasno pripadnost Jahveju."
-    },
-    {
-      "kind": "invitation",
-      "subject": "do Jisraela",
-      "rationale": "imperativ 'Spomnite se' neposredno naslavlja ljudstvo."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Torah Moshe",
-      "rationale": "construct-vez תורת משה ohranjena kot tesna zveza 'Tore Mojzesa'."
-    }
-  ],
-  "translation": "Spomnite se Tore Mojzesa, ⟨Mojega⟩ služabnika, ki sem mu zapovedal na Horébu za vsega Jisraela, ustanove in sodbe.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "0a7fd7a022fee10f2285b367ffb653fa990268be66f6fccffe371f6aec4b35ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/malachi\/3\/21-24.1792434450496.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Spomnite se Tore Mošeta, svojega služabnika ⟨mojega⟩, ki sem mu ⟨את⟩ zapovedal na Horebu za ves Jisrael: ustanove in pravice.",
   "tokens": [
     {
       "surface": "זכרו",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mojzesa"
+      "gloss": "Mošeta"
     },
     {
       "surface": "עבדי",
-      "gloss": "služabnika"
+      "gloss": "mojega služabnika"
     },
     {
       "surface": "אשר",
@@ -60,11 +34,11 @@
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "njemu (z vidika zapovedi na Horébu)"
+      "marks": "mu — zaimuje Mošeta, predmet glagola 'zapovedal'"
     },
     {
       "surface": "בחרב",
-      "gloss": "na Horébu"
+      "gloss": "na Horebu"
     },
     {
       "surface": "על",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "vsega"
+      "gloss": "ves"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraela"
+      "gloss": "Jisrael"
     },
     {
       "surface": "חקים",
@@ -84,9 +58,9 @@
     },
     {
       "surface": "ומשפטים",
-      "gloss": "in sodbe"
+      "gloss": "in pravice"
     }
   ],
-  "timestamp": "2026-10-19T18:27:30.497341727Z",
+  "timestamp": "2026-10-19T20:34:17.031019688Z",
   "model": "glm-5.3"
 }

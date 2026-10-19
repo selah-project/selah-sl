@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "izniči",
-      "rationale": "הניא: 'preglasi \/ razveljavi \/ izniči' — različni prevodi; smisel: oče prekliče veljavnost obljube"
-    },
-    {
-      "kind": "substitution",
-      "subject": "odpusti",
-      "rationale": "יסלח — Jahve odpusti njej, čeprav je preklical oče; 'propitiatory' prizanesljivost ni izrecna"
-    }
-  ],
-  "translation": "Če pa njen oče izniči ⟨את⟩ njo na dan svojega slišanja, nobena od njenih zaobljub in zavez, katero je zavezala na svojo dušo, ne obstane; in Jahve ji odpusti, kajti njen oče jo je izničil.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "4a336e517f8796b22247bdf8afb6a7f4508ff0a9dfc38574848fbfa0fc3695df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/30\/5-8.1792425519885.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In če jo je njen oče ⟨את⟩ odvrnil na dan, ko je slišal, nobena od njenih zaobljub in njenih zavez, ki jih je naložila na svojo dušo, ne bo obstala, in Jahve ji bo odpustil, ker jo je njen oče ⟨את⟩ odvrnil.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "če pa"
+      "gloss": "in če"
     },
     {
       "surface": "הניא",
-      "gloss": "izniči"
+      "gloss": "odvrnil"
     },
     {
       "surface": "אביה",
@@ -43,7 +22,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "njo"
+      "marks": "jo"
     },
     {
       "surface": "ביום",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "svojega slišanja"
+      "gloss": "ko je slišal"
     },
     {
       "surface": "כל",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "ואסריה",
-      "gloss": "in zavez"
+      "gloss": "in njenih zavez"
     },
     {
       "surface": "אשר",
-      "gloss": "katero"
+      "gloss": "ki"
     },
     {
       "surface": "אסרה",
-      "gloss": "je zavezala"
+      "gloss": "jih je naložila"
     },
     {
       "surface": "על",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "יקום",
-      "gloss": "obstane"
+      "gloss": "bo obstala"
     },
     {
       "surface": "ויהוה",
@@ -95,19 +74,19 @@
     },
     {
       "surface": "יסלח",
-      "gloss": "odpusti"
+      "gloss": "bo odpustil"
     },
     {
       "surface": "לה",
-      "gloss": "ji"
+      "gloss": "njej"
     },
     {
       "surface": "כי",
-      "gloss": "kajti"
+      "gloss": "ker"
     },
     {
       "surface": "הניא",
-      "gloss": "je izničil"
+      "gloss": "odvrnil"
     },
     {
       "surface": "אביה",
@@ -119,6 +98,6 @@
       "marks": "jo"
     }
   ],
-  "timestamp": "2026-10-19T15:58:39.886295003Z",
+  "timestamp": "2026-10-19T20:35:45.542136411Z",
   "model": "glm-5.3"
 }

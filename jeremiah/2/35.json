@@ -5,57 +5,31 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אפו",
-      "rationale": "dobesedno 'njegov nos' — hebrejski idiom za jezo; predstavljeno kot 'njegova jeza'."
-    },
-    {
-      "kind": "addition",
-      "subject": "v sodbi",
-      "rationale": "נשפט je 'soditi\/pravdati se' — 'v sodbi' je dodano za jasnost nedovršnika."
-    },
-    {
-      "kind": "you",
-      "subject": "Jeruzalem\/Juda",
-      "rationale": "Jahve neposredno sooča nevesto z njenim zanikanjem."
-    }
-  ],
-  "translation": "In rekla si: ›Ker sem nedolžna, se bo zagotovo njegova jeza odvrnila od mene.‹ Glej, jaz se bom ⟨את⟩ s tebojo pravdal v sodbi, ker praviš: Nisem grešila.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "281c7d884e89a2049df56feed76be65f1193cc8e9225dcd7ef3019887ee0a67f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/2\/33-36.1792431010732.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekla si: Ker sem ⟨nevest⟩ čista, se je njegova jeza prav gotovo odvrnila od mene. Glej, jaz se bom pravdal ⟨את⟩ s teboj, ker praviš: Nisem grešil ⟨a⟩.",
   "tokens": [
     {
       "surface": "ותאמרי",
-      "gloss": "In rekla si"
+      "gloss": "in rekla si"
     },
     {
       "surface": "כי",
-      "gloss": "Ker"
+      "gloss": "ker"
     },
     {
       "surface": "נקיתי",
-      "gloss": "sem nedolžna"
+      "gloss": "sem čista"
     },
     {
       "surface": "אך",
-      "gloss": "zagotovo"
+      "gloss": "prav gotovo"
     },
     {
       "surface": "שב",
-      "gloss": "se bo odvrnila"
+      "gloss": "je odvrnila"
     },
     {
       "surface": "אפו",
-      "gloss": "njegova jeza"
+      "gloss": "jeza"
     },
     {
       "surface": "ממני",
@@ -63,33 +37,34 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Glej, jaz"
+      "gloss": "glej, jaz"
     },
     {
       "surface": "נשפט",
-      "gloss": "se bom pravdal v sodbi"
+      "gloss": "se bom pravdal"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ s tebojo"
+      "gloss": "⟨את⟩",
+      "marks": "s teboj"
     },
     {
       "surface": "על",
-      "gloss": "zaradi"
+      "gloss": "ker"
     },
     {
       "surface": "אמרך",
-      "gloss": "ker praviš"
+      "gloss": "praviš"
     },
     {
       "surface": "לא",
-      "gloss": "Nisem"
+      "gloss": "ne"
     },
     {
       "surface": "חטאתי",
-      "gloss": "grešila"
+      "gloss": "sem grešil"
     }
   ],
-  "timestamp": "2026-10-19T17:30:10.733400082Z",
+  "timestamp": "2026-10-19T20:28:20.000613141Z",
   "model": "glm-5.3"
 }

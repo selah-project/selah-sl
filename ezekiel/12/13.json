@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רשתי \/ מצודתי",
-      "rationale": "dvojna slika lova — mreža in lov — ponovljena v istem stavku"
-    },
-    {
-      "kind": "crux",
-      "subject": "ואותה לא יראה",
-      "rationale": "ženski zaznamek ⟨את⟩ kaže na deželo Babilon: ne bo videl dežele (ali: Babilona), medtem ko je sam tja pripeljan"
-    }
-  ],
-  "translation": "In razprel bom ⟨את⟩ svojo mrežo nad njim in ujet bo v mojem lovu; pripeljal ga bom v Babilon, deželo Kaldejcev, ⟨את⟩ nje pa ne bo videl, in tam bo umrl.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/12\/13-16.1792432180226.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In razprel bom ⟨את⟩ svojo mrežo nad njim, ujet bo v moji zanki; in pripeljal ga bom v Bavel, v deželo Kašdimov, ⟨a⟩ ⟨je⟩ te ⟨dežele⟩ ne bo videl, in tam bo umrl.",
   "tokens": [
     {
       "surface": "ופרשתי",
@@ -46,25 +25,25 @@
       "gloss": "nad njim"
     },
     {
-      "surface": "ויתפש",
-      "gloss": "in ujet bo"
+      "surface": "ונתפש",
+      "gloss": "ujet bo"
     },
     {
       "surface": "במצודתי",
-      "gloss": "v mojem lovu"
+      "gloss": "v moji zanki"
     },
     {
       "surface": "והבאתי",
-      "gloss": "in pripeljal bom"
+      "gloss": "in pripeljal ga bom"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "njega"
+      "marks": "v Bavel"
     },
     {
       "surface": "בבלה",
-      "gloss": "v Babilon"
+      "gloss": "v Bavel"
     },
     {
       "surface": "ארץ",
@@ -72,12 +51,11 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kaldejcev"
+      "gloss": "Kašdimov"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩",
-      "marks": "nje — deželo Babilon"
+      "gloss": "in ⟨את⟩ jo"
     },
     {
       "surface": "לא",
@@ -93,9 +71,9 @@
     },
     {
       "surface": "ימות",
-      "gloss": "bo umrel"
+      "gloss": "bo umrl"
     }
   ],
-  "timestamp": "2026-10-19T17:49:40.227246408Z",
+  "timestamp": "2026-10-19T20:22:55.071324059Z",
   "model": "glm-5.3"
 }

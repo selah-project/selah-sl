@@ -5,49 +5,23 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pokril",
-      "rationale": "כפר pomeni dobesedno 'pokriti'; 'spraviti' ali 'odkupiti' je prevzeta vloga, ne oblika besede"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתם",
-      "rationale": "oblika השכן אתם: את H854 kot predlog 'z njimi' ali poudarjeni osebek 'njim' — spremljajoča pečat ⟨את⟩ je ohranjena v glosi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "טמאות\/טומאותיהם",
-      "rationale": "ponovitev korena טמא v istem verzu (nečistovanja … nečistovanj) poudarja okuženost svetišča"
-    }
-  ],
-  "translation": "In pokril bo zaradi svetosti nečistovanja sinov Jisraela in njihovih uporov v vseh njihovih grehih; tako naj stori za šotor srečanja, ki prebiva ⟨z njimi⟩ sredi njihovih nečistovanj.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/16\/13-16.1792424361133.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In pokril ⟨bo⟩ ⟨את⟩ svetega zaradi nečistov sinov Jisraela in zaradi njihovih uporov, za vse njihove grehe; in tako naj stori za šotor srečanja, ki prebiva ⟨את⟩ z njimi sredi njihovih nečistov.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "pokril bo"
+      "gloss": "in pokril"
     },
     {
       "surface": "על",
-      "gloss": "zaradi"
+      "gloss": "nad"
     },
     {
       "surface": "הקדש",
-      "gloss": "svetosti"
+      "gloss": "svetega"
     },
     {
       "surface": "מטמאת",
-      "gloss": "nečistovanja"
+      "gloss": "zaradi nečistov"
     },
     {
       "surface": "בני",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "ומפשעיהם",
-      "gloss": "njihovih uporov"
+      "gloss": "in zaradi njihovih uporov"
     },
     {
       "surface": "לכל",
-      "gloss": "v vseh"
+      "gloss": "za vse"
     },
     {
       "surface": "חטאתם",
-      "gloss": "njihovih grehih"
+      "gloss": "njihove grehe"
     },
     {
       "surface": "וכן",
-      "gloss": "tako"
+      "gloss": "in tako"
     },
     {
       "surface": "יעשה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩-z-njimi"
+      "gloss": "⟨את⟩ z njimi"
     },
     {
       "surface": "בתוך",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "טמאתם",
-      "gloss": "njihovih nečistovanj"
+      "gloss": "njihovih nečistov"
     }
   ],
-  "timestamp": "2026-10-19T15:39:21.135774267Z",
+  "timestamp": "2026-10-19T20:33:36.457730482Z",
   "model": "glm-5.3"
 }

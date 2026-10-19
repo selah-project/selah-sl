@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "potem pa",
-      "rationale": "veza ו… ולא ('in ko… in ne') potrebuje v slovenščini časovni naslednik 'potem'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ne puščim več nobenega",
-      "rationale": "popolna števnost: nobeden ne ostane, skupno nič"
-    }
-  ],
-  "translation": "In spoznali bodo, da sem jaz Jahve, njihov Elohim, ker sem jih izgnal med narode, potem pa jih zbral na njihovo zemljo, in ne puščim več nobenega od njih tam.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "34c312d3577b7cbe99fe48860bc40f72989526e8effc829baf4cc307cec2f5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/39\/25-28.1792433577637.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In spoznali bodo, da sem jaz Jahve, njihov Elohim, ko sem jih ⟨את⟩ izgnal med narode in jih zbral na njihovo zemljo, in ne bom pustil več nobenega od njih tam.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "בהגלותי",
-      "gloss": "ker sem jih izgnal"
+      "gloss": "ko sem izgnal"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih"
+      "gloss": "⟨את⟩",
+      "marks": "jih (med narode)"
     },
     {
       "surface": "אל",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "וכנסתים",
-      "gloss": "potem pa jih zbral"
+      "gloss": "in jih zbral"
     },
     {
       "surface": "על",
@@ -82,7 +62,7 @@
     },
     {
       "surface": "אותיר",
-      "gloss": "puščim"
+      "gloss": "bom pustil"
     },
     {
       "surface": "עוד",
@@ -97,6 +77,6 @@
       "gloss": "tam"
     }
   ],
-  "timestamp": "2026-10-19T18:12:57.639222882Z",
+  "timestamp": "2026-10-19T20:23:45.423625628Z",
   "model": "glm-5.3"
 }

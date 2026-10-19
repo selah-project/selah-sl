@@ -5,36 +5,15 @@
   "book": "haggai",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨se⟩ bom veselil",
-      "rationale": "hebrejščina ima gol kohortativ וארצה brez zaimka"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Pojdite … prinesite … zgradite",
-      "rationale": "trojni imperativ, neposreden poziv ljudstvu k dejanju"
-    }
-  ],
-  "translation": "Pojdite na goro in prinesite les, zgradite ⟨את⟩ hišo, in v njej ⟨se⟩ bom veselil, ⟨in⟩ se bom poveličeval, govori Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "5d94111d7b989a2bfd712e3f7c89cd5e8d250cefb499c91c176fd17c45b6bf32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/haggai\/1\/5-8.1792434303383.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pojdite na goro in prinesite les ter zgradite ⟨את⟩ hišo, in v njej bom našel veselje in bodo me poveličevali, govori Jahve.",
   "tokens": [
     {
       "surface": "עלו",
-      "gloss": "Pojdite na"
+      "gloss": "Pojdite"
     },
     {
       "surface": "ההר",
-      "gloss": "goro"
+      "gloss": "na goro"
     },
     {
       "surface": "והבאתם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ובנו",
-      "gloss": "zgradite"
+      "gloss": "ter zgradite"
     },
     {
       "surface": "הבית",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "וארצה",
-      "gloss": "in ⟨se⟩ bom veselil"
+      "gloss": "in v njej bom našel veselje"
     },
     {
       "surface": "בו",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ואכבד",
-      "gloss": "⟨in⟩ se bom poveličeval"
+      "gloss": "in bodo me poveličevali"
     },
     {
       "surface": "אמר",
@@ -73,6 +52,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T18:25:03.385538006Z",
+  "timestamp": "2026-10-19T20:26:36.011177887Z",
   "model": "glm-5.3"
 }

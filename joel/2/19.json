@@ -5,32 +5,11 @@
   "book": "joel",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨z njim⟩",
-      "rationale": "אתו kaže na darove; slovenščina potrebuje predlog 'z', hebrejščina ga kot besedo nima."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mošt",
-      "rationale": "תירוש je svež grozdni sok, ne pijača; 'vino' bi bilo predolgo."
-    }
-  ],
-  "translation": "In odgovoril je Jahve in rekel svojemu ljudstvu: Glede, pošiljam vam ⟨את⟩ žito in mošt in olje, in nasičeni boste ⟨z njim⟩; ne dam ⟨את⟩ vas več v sramoto med narodi.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "f35a0f18421a0934b7515f206b6972824de39b4f7cdf8843d10b7bd1addb0964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joel\/2\/17-20.1792433957346.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Jahve je odgovoril in rekel svojemu ljudstvu: Glejte, pošiljam vam ⟨את⟩ žito in mošt in olje, da se boste njega nasitili, in ne bom vas več dal ⟨za⟩ sramoto med narodi.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "in-odgovoril"
+      "gloss": "in odgovoril je"
     },
     {
       "surface": "יהוה",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "in-rekel"
+      "gloss": "in rekel je"
     },
     {
       "surface": "לעמו",
-      "gloss": "svojemu-ljudstvu"
+      "gloss": "svojemu ljudstvu"
     },
     {
       "surface": "הנני",
-      "gloss": "glede"
+      "gloss": "glejte, jaz"
     },
     {
       "surface": "שלח",
@@ -67,32 +46,33 @@
     },
     {
       "surface": "והתירוש",
-      "gloss": "in-mošt"
+      "gloss": "in mošt"
     },
     {
       "surface": "והיצהר",
-      "gloss": "in-olje"
+      "gloss": "in olje"
     },
     {
       "surface": "ושבעתם",
-      "gloss": "in-nasičeni-boste"
+      "gloss": "da se boste nasitili"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "z-njim (žito, mošt in olje)"
+      "marks": "njega (nasitili se boste njega)"
     },
     {
       "surface": "ולא",
-      "gloss": "in-ne"
+      "gloss": "in ne"
     },
     {
       "surface": "אתן",
-      "gloss": "dam"
+      "gloss": "dal bom"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas"
     },
     {
       "surface": "עוד",
@@ -100,13 +80,13 @@
     },
     {
       "surface": "חרפה",
-      "gloss": "v-sramoto"
+      "gloss": "sramota"
     },
     {
       "surface": "בגוים",
-      "gloss": "med-narodi"
+      "gloss": "med narodi"
     }
   ],
-  "timestamp": "2026-10-19T18:19:17.349525053Z",
+  "timestamp": "2026-10-19T20:30:36.057881156Z",
   "model": "glm-5.3"
 }

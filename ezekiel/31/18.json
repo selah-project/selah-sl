@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "faraon",
-      "rationale": "Ves verz je neposreden ogovor faraonu: 'Komur si podoben … boš spuščen … boš ležal'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נאם אדני יהוה",
-      "rationale": "Zaključni orakeljski žig 'govori Adonaj Jahve' zaključuje celo podobo drevesa iz Egipta."
-    },
-    {
-      "kind": "substitution",
-      "subject": "neobrezani",
-      "rationale": "ערלים 'neobrezani' pomeni sramotno družbo med mrtvimi, ne verske oznake."
-    }
-  ],
-  "translation": "Komur si tako podoben v slavi in velikosti med drevesi Edena? Ta boš ⟨je⟩ spuščen z drevesi Edena v spodnjo zemljo, med neobrezane boš ležal ⟨את⟩ med prebodenimi z mečem. To je faraon in vsa njegova množica, govori Adonaj Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "8fe58fd7207ee972e501194ac1da852c52f4cd735d1faad2ec783797f3c61cc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/31\/17-18.1792432568862.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Komu si tako podoben v sijaju in velikosti med drevesi Edna? Bil boš spuščen ⟨את⟩ z drevesi Edna v najglobljo deželo, med neobrezane boš ležal ⟨skupaj z⟩ ⟨את⟩ padlimi od meča — to je Faraon in vse njegovo mnoštvo, govori Adonaj Jahve.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "komur"
+      "gloss": "Komu"
     },
     {
       "surface": "מי",
-      "gloss": "kdo"
+      "gloss": "kateremu"
     },
     {
       "surface": "דמית",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "בכבוד",
-      "gloss": "v slavi"
+      "gloss": "v sijaju"
     },
     {
       "surface": "ובגדל",
-      "gloss": "in velikosti"
+      "gloss": "in v velikosti"
     },
     {
       "surface": "בעצי",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Edena"
+      "gloss": "Edna"
     },
     {
       "surface": "והורדת",
@@ -72,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "drevesi Edena"
+      "marks": "z drevesi Edna"
     },
     {
       "surface": "עצי",
-      "gloss": "drevesi"
+      "gloss": "z drevesi"
     },
     {
       "surface": "עדן",
-      "gloss": "Edena"
+      "gloss": "Edna"
     },
     {
       "surface": "אל",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "zemljo"
+      "gloss": "deželo"
     },
     {
       "surface": "תחתית",
-      "gloss": "spodnjo"
+      "gloss": "najglobljo"
     },
     {
       "surface": "בתוך",
@@ -109,15 +83,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "prebodene z mečem"
+      "marks": "padlimi od meča"
     },
     {
       "surface": "חללי",
-      "gloss": "prebodene"
+      "gloss": "padlimi"
     },
     {
       "surface": "חרב",
-      "gloss": "z mečem"
+      "gloss": "od meča"
     },
     {
       "surface": "הוא",
@@ -125,15 +99,15 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "faraon"
+      "gloss": "Faraon"
     },
     {
       "surface": "וכל",
-      "gloss": "in vsa"
+      "gloss": "in vse"
     },
     {
       "surface": "המונה",
-      "gloss": "njegova množica"
+      "gloss": "njegovo mnoštvo"
     },
     {
       "surface": "נאם",
@@ -148,6 +122,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T17:56:08.863440821Z",
+  "timestamp": "2026-10-19T20:23:42.440407739Z",
   "model": "glm-5.3"
 }

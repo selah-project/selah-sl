@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סורר ומורה",
-      "rationale": "'trmasto in uporno' — glossa izhaja iz korena 'grizati' (מרה); različne teže od 'razuzdan'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "סורר",
-      "rationale": "particip סורר v tem pomenu se pojavlja le tu in v 21,20"
-    }
-  ],
-  "translation": "Kadar ima kdo sina, ki odstopa in se upira, ki ne posluša glasu svojega očeta in glasu svoje matere, in ga kaznujeva, pa jima ne posluša —",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/21\/17-20.1792426073527.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kadar ima kateri mož sin, uporen in grenak, ki ne posluša glasu svojega očeta in glasu svoje matere, in ga odkarita ⟨את⟩ njega, pa jima ne posluša —",
   "tokens": [
     {
       "surface": "כי",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "kdo"
+      "gloss": "kateri mož"
     },
     {
       "surface": "בן",
-      "gloss": "sina"
+      "gloss": "sin"
     },
     {
       "surface": "סורר",
-      "gloss": "ki odstopa"
+      "gloss": "uporen"
     },
     {
       "surface": "ומורה",
-      "gloss": "in se upira"
+      "gloss": "in grenak"
     },
     {
       "surface": "איננו",
@@ -78,12 +57,12 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "in ga kaznujeva"
+      "gloss": "in ga odkarita"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨ga⟩",
-      "marks": "ga (sina)"
+      "gloss": "⟨את⟩",
+      "marks": "njega"
     },
     {
       "surface": "ולא",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "jima"
+      "gloss": "njima"
     }
   ],
-  "timestamp": "2026-10-19T16:07:53.528878083Z",
+  "timestamp": "2026-10-19T20:20:14.707613641Z",
   "model": "glm-5.3"
 }

@@ -5,56 +5,36 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עליו אנשים",
-      "rationale": "Kdo ukazuje komu: 'moške glede njega' ali 'svojim moškom o njem' — prevodi se razhajajo."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "gloss-note": "אתו je osebni zaimek 'njega' in ne označevalec את; v slovenščini se ne označi."
-    }
-  ],
-  "translation": "In faraon je ukazal nad njim ⟨את⟩ moške, in ti so odposlili ⟨את⟩ njega in ⟨את⟩ njegovo ženo in ⟨את⟩ vse, kar je imel.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/12\/17-20.1792422157228.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Paroh je nadeljal ⟨את⟩ može glede njega, in oni so ga poslali proč, ⟨את⟩ njegovo ženo in ⟨את⟩ vse, kar je imel.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "in ukazal"
+      "gloss": "in je nadeljal"
     },
     {
       "surface": "עליו",
-      "gloss": "nad njim"
+      "gloss": "glede njega"
     },
     {
       "surface": "פרעה",
-      "gloss": "faraon"
+      "gloss": "Paroh"
     },
     {
       "surface": "אנשים",
-      "gloss": "⟨את⟩ moške"
+      "gloss": "može"
     },
     {
       "surface": "וישלחו",
-      "gloss": "in odposlili"
+      "gloss": "in oni so poslali proč"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ njega"
+      "gloss": "⟨את⟩",
+      "marks": "ga (njega)"
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "njegovo ženo"
     },
     {
@@ -63,8 +43,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
-      "marks": "vse"
+      "gloss": "⟨את⟩",
+      "marks": "vse, kar je imel"
     },
     {
       "surface": "כל",
@@ -79,6 +59,6 @@
       "gloss": "je imel"
     }
   ],
-  "timestamp": "2026-10-19T15:02:37.230182541Z",
+  "timestamp": "2026-10-19T20:25:06.428479906Z",
   "model": "glm-5.3"
 }

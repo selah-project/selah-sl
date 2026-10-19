@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "zaveza prvih",
-      "rationale": "ברית ראשנים: zaveza 'prvih' (prednikov) — dobesedno 'zaveza prvih', ne 'z njihovimi očeti'."
-    },
-    {
-      "kind": "you",
-      "subject": "narod",
-      "rationale": "Izjava v prvi osebi — Jahve govori o sebi in o Izraelu pred narodi."
-    }
-  ],
-  "translation": "In spomnil se bom zanje na zavezo prvih, ki sem ⟨את⟩ jih izpeljal iz dežele Micrajim pred očmi narodov, da bi bil ⟨⟨njim⟩⟩ za Elohima; jaz sem Jahve.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/26\/45-46.1792424603753.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In spomnil se bom zanje na zavezo prvih, ki sem jo ⟨jim⟩ izpeljal iz dežele Micrajim pred očmi narodov, da bi bil njim za Elohima — jaz, Jahve.",
   "tokens": [
     {
       "surface": "וזכרתי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ברית",
-      "gloss": "zavezo"
+      "gloss": "zaveza"
     },
     {
       "surface": "ראשנים",
@@ -54,8 +33,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jih",
-      "marks": "jih — izpeljal ⟨את⟩ njih"
+      "gloss": "⟨את⟩",
+      "marks": "jih (iz dežele Micrajim)"
     },
     {
       "surface": "מארץ",
@@ -94,6 +73,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T15:43:23.754040781Z",
+  "timestamp": "2026-10-19T20:33:45.512994732Z",
   "model": "glm-5.3"
 }

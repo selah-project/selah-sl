@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "גמל",
-      "rationale": "ת 'odstaviti od prsi' — koren pomeni 'povravnati'; slovenščina dodaja 'od prsi'."
-    }
-  ],
-  "translation": "In Elkana, njen mož, ji je rekel: Stori, kar je dobro v tvojih očeh; ostani, dokler ga ne odstaviš od prsi — naj le Jahve uresniči ⟨את⟩ svojo besedo. In žena je ostala in dojila ⟨את⟩ svojega sina, dokler ga ni odstavila od prsi.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/1\/21-24.1792427508091.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Elkaná, njen mož, ji je rekel: Stori, kar je dobro v tvojih očeh; bodi, dokler ga ne oddojiš ⟨את⟩; samo naj Jahve uresniči ⟨את⟩ svojo besedo. In žena je ostala in dojila ⟨את⟩ svojega sina, dokler ga ni oddojila ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "אלקנה",
-      "gloss": "Elkana"
+      "gloss": "Elkaná"
     },
     {
       "surface": "אישה",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "שבי",
-      "gloss": "ostani"
+      "gloss": "bodi"
     },
     {
       "surface": "עד",
@@ -61,16 +45,16 @@
     },
     {
       "surface": "גמלך",
-      "gloss": "ga ne odstaviš od prsi"
+      "gloss": "ga ne oddojiš"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga",
-      "marks": "ga (dečka)"
+      "gloss": "⟨את⟩",
+      "marks": "ga (sina)"
     },
     {
       "surface": "אך",
-      "gloss": "naj le"
+      "gloss": "samo"
     },
     {
       "surface": "יקם",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "דברו",
-      "gloss": "svoja beseda"
+      "gloss": "svojo besedo"
     },
     {
       "surface": "ותשב",
@@ -108,7 +92,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "svoj sin"
+      "gloss": "svojega sina"
     },
     {
       "surface": "עד",
@@ -116,14 +100,14 @@
     },
     {
       "surface": "גמלה",
-      "gloss": "ni odstavila od prsi"
+      "gloss": "ni oddojila"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga",
-      "marks": "ga"
+      "gloss": "⟨את⟩",
+      "marks": "ga (sina)"
     }
   ],
-  "timestamp": "2026-10-19T16:31:48.092368521Z",
+  "timestamp": "2026-10-19T20:14:44.679705670Z",
   "model": "glm-5.3"
 }

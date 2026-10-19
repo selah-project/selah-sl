@@ -5,40 +5,20 @@
   "book": "amos",
   "lang": "sl",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אפקד — bom obiskal",
-      "rationale": "פקד pomeni 'obiskati' (naklonjeno ali sovražno); prevodi segajo od 'obiskal' do 'kaznoval'"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨sodbo⟩",
-      "rationale": "Iz konteksta dodana razjasnitev sovražnega namena פקד"
-    }
-  ],
-  "translation": "Samo vas sem poznal izmed vseh družin zemlje; zato bom obiskal ⟨sodbo⟩ zoper vas ⟨את⟩ vsa vaša hudobija.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/amos\/3\/1-4.1792433991428.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Samo ⟨את⟩ vas sem spoznal izmed vseh družin ⟨od⟩ zemlje; zato vas bom obiskal ⟨s kaznijo⟩ zaradi ⟨את⟩ vseh vaših krivic.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Samo"
+      "gloss": "samo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ vas"
+      "gloss": "⟨את⟩ vas",
+      "marks": "vas — predmet spoznanja (ידעתי)"
     },
     {
       "surface": "ידעתי",
-      "gloss": "sem poznal"
+      "gloss": "sem spoznal"
     },
     {
       "surface": "מכל",
@@ -54,7 +34,7 @@
     },
     {
       "surface": "על",
-      "gloss": "zato"
+      "gloss": "zaradi"
     },
     {
       "surface": "כן",
@@ -62,26 +42,26 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "bom obiskal"
+      "gloss": "bom obiskal ⟨s kaznijo⟩"
     },
     {
       "surface": "עליכם",
-      "gloss": "zoper vas"
+      "gloss": "vas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vsa vaša hudobija"
+      "marks": "vse vaše krivice"
     },
     {
       "surface": "כל",
-      "gloss": "vsa"
+      "gloss": "vse"
     },
     {
       "surface": "עונתיכם",
-      "gloss": "vaša hudobija"
+      "gloss": "vaše krivice"
     }
   ],
-  "timestamp": "2026-10-19T18:19:51.430137857Z",
+  "timestamp": "2026-10-19T20:18:57.931940127Z",
   "model": "glm-5.3"
 }

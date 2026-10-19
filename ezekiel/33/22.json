@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨je⟩",
-      "rationale": "Slovenščina potrebuje pomožnik pri prehodni rabi 'roka je odprla', hebrejščina pa tega dela ne izraža ločeno."
-    },
-    {
-      "kind": "substitution",
-      "subject": "onemel",
-      "rationale": "אלם dobesedno 'biti svezan po jeziku' — 'onemel' je najbližja slovenska slika."
-    }
-  ],
-  "translation": "In roka Jahveja je bila name zvečer, preden je prišel ubežnik, in odprla ⟨je⟩ moja usta, dokler ni prišel k meni zjutraj; in odprla so se moja usta in nisem več onemel.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "9e142cf6ce7e01be40dfba7c68257f11547a4b1da68207c6264a452fdc14cba8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/33\/21-24.1792432585674.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In roka Jahvejeva je bila namezvečer, preden je prišel ubežnik, in odprl je ⟨את⟩ moja usta, dokler ni prišel k meni zjutraj; in odprla so se mi usta in nisem bil več nemi.",
   "tokens": [
     {
       "surface": "ויד",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahveja"
+      "gloss": "Jahvejeva"
     },
     {
       "surface": "היתה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אלי",
-      "gloss": "name"
+      "gloss": "nadi"
     },
     {
       "surface": "בערב",
-      "gloss": "zvečer"
+      "gloss": "večer"
     },
     {
       "surface": "לפני",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויפתח",
-      "gloss": "in odprla"
+      "gloss": "in odprl je"
     },
     {
       "surface": "את",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "moja usta"
+      "gloss": "usta"
     },
     {
       "surface": "ולא",
@@ -103,13 +82,13 @@
     },
     {
       "surface": "נאלמתי",
-      "gloss": "onemel"
+      "gloss": "bil nemi"
     },
     {
       "surface": "עוד",
       "gloss": "več"
     }
   ],
-  "timestamp": "2026-10-19T17:56:25.675503570Z",
+  "timestamp": "2026-10-19T20:24:02.210882448Z",
   "model": "glm-5.3"
 }

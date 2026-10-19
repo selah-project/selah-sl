@@ -5,45 +5,19 @@
   "book": "judges",
   "lang": "sl",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "ironija",
-      "subject": "v mojo senco",
-      "rationale": "Trnasti grm senco skoraj nima — prispodoba govori z namernim pretiravanjem."
-    },
-    {
-      "kind": "crux",
-      "subject": "תצא אש",
-      "rationale": "slovenski jussiv 'naj pride' je dodan; hebrejščina ima preprost 'gre ven' kot grožnjo."
-    },
-    {
-      "kind": "invitation",
-      "subject": "pridite, zateknite se",
-      "rationale": "Vabilo\/imperativ v jeziku trnastega grma — z grešno posledico."
-    }
-  ],
-  "translation": "In trnasti grm je rekel drevesom: Če me v resnici mazilite za kralja nad seboj, pridite, zateknite se v mojo senco; če pa ne, naj pride ogenj iz trnastega grma in požre ⟨את⟩ cedre Libanona.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "d79c3c82a0cc6f13db09dbebcf6fc49eae5c4a7eec27932e351d79a3c878bde8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/judges\/9\/13-16.1792427103041.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In reče trnjevi grm drevesom: Če v resnici maziljujete ⟨את⟩ mene za kralja nad seboj, pridite, zateknite se v mojo senco; če pa ne, naj pride ogenj iz trnjevega grma in naj požre ⟨את⟩ cedre Libanona.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "in-je-rekel"
+      "gloss": "in reče"
     },
     {
       "surface": "האטד",
-      "gloss": "trnasti-grm"
+      "gloss": "trnjevi grm"
     },
     {
       "surface": "אל",
-      "gloss": "k"
+      "gloss": "drevesom"
     },
     {
       "surface": "העצים",
@@ -55,28 +29,28 @@
     },
     {
       "surface": "באמת",
-      "gloss": "v-resnici"
+      "gloss": "v resnici"
     },
     {
       "surface": "אתם",
-      "gloss": "me"
+      "gloss": "vi"
     },
     {
       "surface": "משחים",
-      "gloss": "mazilite"
+      "gloss": "maziljujete"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "me"
+      "marks": "mene"
     },
     {
       "surface": "למלך",
-      "gloss": "za-kralja"
+      "gloss": "za kralja"
     },
     {
       "surface": "עליכם",
-      "gloss": "nad-seboj"
+      "gloss": "nad seboj"
     },
     {
       "surface": "באו",
@@ -84,15 +58,15 @@
     },
     {
       "surface": "חסו",
-      "gloss": "zateknite-se"
+      "gloss": "zateknite se"
     },
     {
       "surface": "בצלי",
-      "gloss": "v-mojo-senco"
+      "gloss": "v mojo senco"
     },
     {
       "surface": "ואם",
-      "gloss": "in-če"
+      "gloss": "in če"
     },
     {
       "surface": "אין",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "תצא",
-      "gloss": "naj-pride"
+      "gloss": "naj pride"
     },
     {
       "surface": "אש",
@@ -112,11 +86,11 @@
     },
     {
       "surface": "האטד",
-      "gloss": "trnastega-grma"
+      "gloss": "trnjevega grma"
     },
     {
       "surface": "ותאכל",
-      "gloss": "in-požre"
+      "gloss": "in naj požre"
     },
     {
       "surface": "את",
@@ -132,6 +106,6 @@
       "gloss": "Libanona"
     }
   ],
-  "timestamp": "2026-10-19T16:25:03.042845174Z",
+  "timestamp": "2026-10-19T20:32:42.066925586Z",
   "model": "glm-5.3"
 }

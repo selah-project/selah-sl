@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "meja",
-      "rationale": "nadaljnji opis poteka meje"
-    },
-    {
-      "kind": "crux",
-      "subject": "ועבר אותו ממזרח",
-      "rationale": "»prešla je njegovo vzhodno stran« — ali meja prečka Taanat-Šilo ali poteka vzhodno od njega"
-    }
-  ],
-  "translation": "Meja pa je šla ⟨k⟩ morju, Mikmetat na severu; meja pa se je obrnila proti vzhodu k Taanat-Šilu in je šla ⟨z⟩ njegovega vzhoda do Janoaha.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "84ee85e2fbce130027ef2212ca2343e7771ede97bfec44043414909ef217ad43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/joshua\/16\/5-8.1792426741004.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In meja je šla proti morju, Mihmetat na severu, in meja se je obrnila proti vzhodu do Taanat Šilo, ter šla ⟨את⟩ nje na vzhod do Janoaha.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "in šla je"
+      "gloss": "in je šla"
     },
     {
       "surface": "הגבול",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "הימה",
-      "gloss": "k morju"
+      "gloss": "proti morju"
     },
     {
       "surface": "המכמתת",
-      "gloss": "Mikmetat"
+      "gloss": "Mihmetat"
     },
     {
       "surface": "מצפון",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ונסב",
-      "gloss": "obrnila pa se je"
+      "gloss": "in se je obrnila"
     },
     {
       "surface": "הגבול",
@@ -66,26 +45,26 @@
     },
     {
       "surface": "שלה",
-      "gloss": "Šilu"
+      "gloss": "Šilo"
     },
     {
       "surface": "ועבר",
-      "gloss": "in prešla je"
+      "gloss": "ter šla"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "njegovega vzhoda"
+      "marks": "njo (Taanat Šilo)"
     },
     {
       "surface": "ממזרח",
-      "gloss": "z vzhoda"
+      "gloss": "na vzhod"
     },
     {
       "surface": "ינוחה",
-      "gloss": "Janoaha"
+      "gloss": "Janoah"
     }
   ],
-  "timestamp": "2026-10-19T16:19:01.005629636Z",
+  "timestamp": "2026-10-19T20:31:24.033839015Z",
   "model": "glm-5.3"
 }

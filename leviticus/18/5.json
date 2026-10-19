@@ -5,50 +5,29 @@
   "book": "leviticus",
   "lang": "sl",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "zakona",
-      "rationale": "חקה je 'določba\/odlok', postavljena meja, ne splošni 'zakon'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Izraelu",
-      "rationale": "neposreden nagovor skupnosti z obljuno življenja za uboganje"
-    }
-  ],
-  "translation": "In varovali boste ⟨את⟩ moja zakona in ⟨את⟩ moje sodbe, ki jih bo človek delal in živel po njih; jaz sem Jahve.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/leviticus\/18\/5-8.1792424293199.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In varujte ⟨את⟩ moje huke in ⟨את⟩ moje pravne odločbe, ki ⟨את⟩ jih bo človek delal in živel v njih; jaz sem Jahve.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "in varovali boste"
+      "gloss": "In varujte"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moja zakona"
+      "marks": "moje huke"
     },
     {
       "surface": "חקתי",
-      "gloss": "moja zakona"
+      "gloss": "moje huke"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "moje sodbe"
+      "gloss": "in ⟨את⟩",
+      "marks": "moje pravne odločbe"
     },
     {
       "surface": "משפטי",
-      "gloss": "moje sodbe"
+      "gloss": "moje pravne odločbe"
     },
     {
       "surface": "אשר",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ jih",
       "marks": "človek"
     },
     {
@@ -73,7 +52,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "po njih"
+      "gloss": "v njih"
     },
     {
       "surface": "אני",
@@ -84,6 +63,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T15:38:13.200081942Z",
+  "timestamp": "2026-10-19T20:33:35.407756737Z",
   "model": "glm-5.3"
 }

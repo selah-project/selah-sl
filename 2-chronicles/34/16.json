@@ -5,27 +5,11 @@
   "book": "2-chronicles",
   "lang": "sl",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "השיב דבר",
-      "rationale": "dobesedno 'vrnil besedo' — poročal, odgovoril"
-    }
-  ],
-  "translation": "In Šafan je prinesel ⟨את⟩ knjigo h kralju in povrnil je kralju ⟨še⟩ besedo, rekoč: Vse, kar je dano v roko tvojih sužnjev, to oni delajo.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-chronicles\/34\/13-16.1792438891507.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šafan je prinesel ⟨את⟩ knjigo h kralju in kralju je vrnil še besedo, rekoč: Vse, kar je bilo dano v roko tvojih sužnjev, to oni delajo.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "In prinesel"
+      "gloss": "je prinesel"
     },
     {
       "surface": "שפן",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "h"
+      "gloss": "k"
     },
     {
       "surface": "המלך",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "in povrnil"
+      "gloss": "je vrnil"
     },
     {
       "surface": "עוד",
@@ -59,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kralju besedo"
+      "marks": "kralju"
     },
     {
       "surface": "המלך",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "Vse"
+      "gloss": "vse"
     },
     {
       "surface": "אשר",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "je dano"
+      "gloss": "je bilo dano"
     },
     {
       "surface": "ביד",
@@ -102,6 +86,6 @@
       "gloss": "delajo"
     }
   ],
-  "timestamp": "2026-10-19T19:41:31.511355728Z",
+  "timestamp": "2026-10-19T20:16:22.977454710Z",
   "model": "glm-5.3"
 }

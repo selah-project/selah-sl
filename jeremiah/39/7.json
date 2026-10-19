@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bronaste verige",
-      "rationale": "נחשתים je dvojina besede za bron: 'dve bronasti (okovi)', okovi iz brona."
-    },
-    {
-      "kind": "addition",
-      "subject": "da",
-      "rationale": "infinitiv לביא 'prinesti' preveden kot namen (da ga pripeljejo)."
-    }
-  ],
-  "translation": "In ⟨את⟩ oči Cidkija je oslepil, zavezal ga je v bronaste verige, da ga pripeljejo v Babilon.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/39\/5-8.1792431739485.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨את⟩ oči Cidkijahu je oslepil in gavezal v bronaste verige, da bi ⟨את⟩ ga pripeljal v Babilon.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "in ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "oči"
     },
     {
@@ -39,15 +18,15 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Cidkija"
+      "gloss": "Cidkijahu"
     },
     {
       "surface": "עור",
-      "gloss": "je oslepil"
+      "gloss": "oslepil"
     },
     {
       "surface": "ויאסרהו",
-      "gloss": "zavezal ga je"
+      "gloss": "gavezal ga"
     },
     {
       "surface": "בנחשתים",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "לביא",
-      "gloss": "da pripeljejo"
+      "gloss": "da bi pripeljal"
     },
     {
       "surface": "אתו",
@@ -67,6 +46,6 @@
       "gloss": "v Babilon"
     }
   ],
-  "timestamp": "2026-10-19T17:42:19.486648958Z",
+  "timestamp": "2026-10-19T20:29:28.872127056Z",
   "model": "glm-5.3"
 }

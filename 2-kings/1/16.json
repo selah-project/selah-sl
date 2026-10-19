@@ -5,50 +5,19 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "rationale": "'tam' je v slovenščini odveč, hebrejščina ga navadno dodaja k 'postelja, na katero si legel tam'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מות תמות",
-      "rationale": "infinitiv absolutni: 'umreti boš umrl' — slovenščina ponovitev komajda prenese"
-    },
-    {
-      "kind": "crux",
-      "subject": "המבלי אין אלהים",
-      "rationale": "retorično vprašanje ('mar ni zato, ker ni Elohim v Jisraelu?') ali očitek ('kot da bi ne bilo Elohim v Jisraelu')"
-    },
-    {
-      "kind": "you",
-      "subject": "kralju Ahazija",
-      "rationale": "Elija izreka Jahvejevo besedo neposredno kralju"
-    }
-  ],
-  "translation": "In govoril mu je: Tako govori Jahve: Ker si poslal poslance vprašat Baal-Zebuba, boga Ekrona — ali ni zato, ker ni Elohim v Jisraelu, da bi vprašal njegovo besedo? — zato s postelje, na katero si stopil, ne boš šel dol, kajti umreti boš umrl.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/1\/13-16.1792429383320.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In govoril je z njim takole: Tako govori Jahve: Ker si poslal poslance, da vprašajo pri Baal-Zebubu, bogu Ekrona — ali ⟨ni⟩ ⟨zato, ker⟩ ni Elohim v Jisraelu, da bi vprašali po njegovi besedi — zato s postelje, na katero si se povzpel, ne boš sodel, kajti umreti boš umrl.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "in govoril"
+      "gloss": "in govoril je"
     },
     {
       "surface": "אליו",
-      "gloss": "mu"
+      "gloss": "z njim"
     },
     {
       "surface": "כה",
-      "gloss": "tako"
+      "gloss": "takole"
     },
     {
       "surface": "אמר",
@@ -76,19 +45,19 @@
     },
     {
       "surface": "לדרש",
-      "gloss": "vprašat"
+      "gloss": "da vprašajo"
     },
     {
       "surface": "בבעל",
-      "gloss": "Baal-"
+      "gloss": "pri Baal"
     },
     {
       "surface": "זבוב",
-      "gloss": "Zebuba"
+      "gloss": "-Zebubu"
     },
     {
       "surface": "אלהי",
-      "gloss": "boga"
+      "gloss": "bogu"
     },
     {
       "surface": "עקרון",
@@ -96,7 +65,7 @@
     },
     {
       "surface": "המבלי",
-      "gloss": "ali ni zato, ker"
+      "gloss": "ali ⟨ni⟩ ⟨zato, ker⟩"
     },
     {
       "surface": "אין",
@@ -112,11 +81,11 @@
     },
     {
       "surface": "לדרש",
-      "gloss": "vprašat"
+      "gloss": "da bi vprašali"
     },
     {
       "surface": "בדברו",
-      "gloss": "njegovo besedo"
+      "gloss": "po njegovi besedi"
     },
     {
       "surface": "לכן",
@@ -132,11 +101,11 @@
     },
     {
       "surface": "עלית",
-      "gloss": "si stopil"
+      "gloss": "si se povzpel"
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "tja"
     },
     {
       "surface": "לא",
@@ -144,7 +113,7 @@
     },
     {
       "surface": "תרד",
-      "gloss": "boš šel dol"
+      "gloss": "boš sodel"
     },
     {
       "surface": "ממנה",
@@ -163,6 +132,6 @@
       "gloss": "boš umrl"
     }
   ],
-  "timestamp": "2026-10-19T17:03:03.321562261Z",
+  "timestamp": "2026-10-19T20:17:11.857272436Z",
   "model": "glm-5.3"
 }

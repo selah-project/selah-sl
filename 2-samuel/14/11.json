@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "sl",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מהרבית גאל הדם",
-      "rationale": "Križanje prevodov: »da se maščevalci krvi ne množijo v uničevanje« (YLt) proti »da maščevalec krvi ne uničuje več« (KJV\/ASV); dobesedno »od množenja krvnega maščevalca v uničevanje«."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "Prisega »Živ je Jahve« — dobesedno, ne kot »tako zagotovo«."
-    },
-    {
-      "kind": "substitution",
-      "subject": "maščevalec krvi",
-      "rationale": "גאל הדם je sorodnik-odkupitelj, dolžan preliti krv morilca; »maščevalec« je približek."
-    }
-  ],
-  "translation": "In ona je rekla: Spomni se prosim, kralj, ⟨na⟩ Jahve, Elohim tvoj, da krvni maščevalci ne se množijo v uničevanje, in ne iztrebijo ⟨את⟩ mojega sina. In kralj je rekel: Živ je Jahve, če pade z lasja tvojega sina na tla.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-samuel\/14\/9-12.1792428376919.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In rekla je: Prosim, naj kralj pomni ⟨את⟩ Jahve, svojega Elohima, da krvni odkupitelj ne pomnoži uničevanja in naj ne uničijo ⟨את⟩ mojega sina. In rekel je: Živ je Jahve — če pade dlak z glave tvojega sina na tla ⟨…⟩ nič več.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "In je rekla"
+      "gloss": "in rekla je"
     },
     {
       "surface": "יזכר",
-      "gloss": "Spomni se"
+      "gloss": "naj pomni"
     },
     {
       "surface": "נא",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve"
+      "marks": "Jahve, svojega Elohima"
     },
     {
       "surface": "יהוה",
@@ -60,31 +34,31 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim tvoj"
+      "gloss": "svojega Elohima"
     },
     {
       "surface": "מהרבית",
-      "gloss": "ne se množijo"
+      "gloss": "da ne pomnoži"
     },
     {
       "surface": "גאל",
-      "gloss": "krvni maščevalec"
+      "gloss": "krvni odkupitelj"
     },
     {
       "surface": "הדם",
-      "gloss": "kri"
+      "gloss": "krvi"
     },
     {
       "surface": "לשחת",
-      "gloss": "v uničevanje"
+      "gloss": "uničevanja"
     },
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "in naj ne"
     },
     {
       "surface": "ישמידו",
-      "gloss": "iztrebijo"
+      "gloss": "uničijo"
     },
     {
       "surface": "את",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "In je rekel"
+      "gloss": "in rekel je"
     },
     {
       "surface": "חי",
-      "gloss": "Živ"
+      "gloss": "živ"
     },
     {
       "surface": "יהוה",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "משערת",
-      "gloss": "z lasja"
+      "gloss": "dlak"
     },
     {
       "surface": "בנך",
@@ -128,6 +102,6 @@
       "gloss": "na tla"
     }
   ],
-  "timestamp": "2026-10-19T16:46:16.920826667Z",
+  "timestamp": "2026-10-19T20:18:17.675875309Z",
   "model": "glm-5.3"
 }

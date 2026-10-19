@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בגדי בגד",
-      "rationale": "Igra besed: 'ohiški-izdajalci izdaje' — koren בגד trikrat v dveh besedah, v slovenščini izgubljena."
-    },
-    {
-      "kind": "you",
-      "subject": "Jeremija govori Jahveju",
-      "rationale": "Neposreden nagovor Jahveju v preroku:"
-    }
-  ],
-  "translation": "Pravičen si Ti, Jahve, kadar se prerivam s Teboj; vendar o pravu govorim s Teboj. Zakaj uspeva pot krivičnih, v miru so vsi, ki hinavsko izdajajo?",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/12\/1-4.1792431268877.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pravičen si ti, Jahve, kadar se pravdam s teboj; vendar o sodbah govorim s teboj ⟨את⟩: zakaj uspeva pot krivičnih, v miru počivajo vsi prevaranti prevare?",
   "tokens": [
     {
       "surface": "צדיק",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Ti"
+      "gloss": "si ti"
     },
     {
       "surface": "יהוה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אריב",
-      "gloss": "se prerivam"
+      "gloss": "se pravdam"
     },
     {
       "surface": "אליך",
-      "gloss": "s Teboj"
+      "gloss": "s teboj"
     },
     {
       "surface": "אך",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "משפטים",
-      "gloss": "o pravu"
+      "gloss": "o sodbah"
     },
     {
       "surface": "אדבר",
@@ -66,7 +45,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ s Teboj"
+      "gloss": "⟨את⟩",
+      "marks": "s teboj"
     },
     {
       "surface": "מדוע",
@@ -86,7 +66,7 @@
     },
     {
       "surface": "שלו",
-      "gloss": "v miru so"
+      "gloss": "v miru počivajo"
     },
     {
       "surface": "כל",
@@ -94,13 +74,13 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "ki hinavsko izdajajo"
+      "gloss": "prevaranti"
     },
     {
       "surface": "בגד",
-      "gloss": "izdaja"
+      "gloss": "prevare"
     }
   ],
-  "timestamp": "2026-10-19T17:34:28.877808632Z",
+  "timestamp": "2026-10-19T20:28:26.047236832Z",
   "model": "glm-5.3"
 }

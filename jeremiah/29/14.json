@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "sl",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שביתכם",
-      "rationale": "שבות dobesedno 'prebivalstvo\/izgnanstvo'; šola glagola šub — 'povrniti izgnanstvo' ali 'povrniti usodo'; prevedeno 'povrnil ⟨את⟩ vaše izgnanstvo'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הדחתי",
-      "rationale": "dobesedno 'potisnil sem vas proč\/odgnal'; uporabljeno 'odgnal', ker slovenščina 'potisniti' ne nosi pregnanstva."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ושבתי...והשבתי",
-      "rationale": "Dvojni povratek istega korena šub obdaja verz — povrnitev izgnanstva in povrnitev ljudstva; v slovenščini izgubi popolno zanko."
-    }
-  ],
-  "translation": "In najden vam bom, govori Jahve; in povrnil bom ⟨את⟩ vaše izgnanstvo ter vas zbral izmed vseh narodov in iz vseh krajev, kamor sem vas odgnal tja, govori Jahve; in povrnil vas bom na kraj, s katerega sem vas izgnal od tam, govori Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/jeremiah\/29\/13-16.1792431571758.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In najden ⟨sem⟩ vam, govori Jahve; in povrnil ⟨sem⟩ ⟨את⟩ vaše izgnanstvo in zbral ⟨sem⟩ ⟨את⟩ vas iz vseh narodov in iz vseh krajev, kamor sem pregnal ⟨את⟩ vas tja, govori Jahve; in povrnil ⟨sem⟩ ⟨את⟩ vas na kraj, s katerega sem izgnal ⟨את⟩ vas odtam.",
   "tokens": [
     {
       "surface": "ונמצאתי",
-      "gloss": "in najden vam bom"
+      "gloss": "in najden"
     },
     {
       "surface": "לכם",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ושבתי",
-      "gloss": "in povrnil bom"
+      "gloss": "in povrnil sem"
     },
     {
       "surface": "את",
@@ -64,16 +38,16 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "ter zbral"
+      "gloss": "in zbral sem"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vas (izmed vseh narodov)"
+      "marks": "vas"
     },
     {
       "surface": "מכל",
-      "gloss": "izmed vseh"
+      "gloss": "iz vseh"
     },
     {
       "surface": "הגוים",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "הדחתי",
-      "gloss": "sem odgnal"
+      "gloss": "sem pregnal"
     },
     {
       "surface": "אתכם",
@@ -114,12 +88,12 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "in povrnil vas bom"
+      "gloss": "in povrnil sem"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ vas",
-      "marks": "vas (na kraj)"
+      "marks": "vas"
     },
     {
       "surface": "אל",
@@ -144,9 +118,9 @@
     },
     {
       "surface": "משם",
-      "gloss": "od tam"
+      "gloss": "odtam"
     }
   ],
-  "timestamp": "2026-10-19T17:39:31.759658239Z",
+  "timestamp": "2026-10-19T20:29:07.008200619Z",
   "model": "glm-5.3"
 }

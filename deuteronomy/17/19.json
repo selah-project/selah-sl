@@ -5,44 +5,23 @@
   "book": "deuteronomy",
   "lang": "sl",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "v njej",
-      "rationale": "בו je besedni pridevek; slovenščina potrebuje ženski zaostanek 'knjiga' → 'v njej'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "straheti se",
-      "rationale": "יראה je strah in češčenje hkrati; 'častiti' samo bi izgubilo tresenje"
-    }
-  ],
-  "translation": "In ⟨bo⟩ z njim, in bral bo v njej vse dni svojega življenja, da se nauči straheti se Jahve, svojega Elohima, da varuje ⟨את⟩ vse besede te Tore in ⟨את⟩ te odloke, da jih izvršuje.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "35dc072d2d079730c7735dd49d575a21294a94605877250856203b16e8196da9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/deuteronomy\/17\/17-20.1792426107374.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ⟨bo⟩ ⟨on⟩ njegovi roki ⟨naj⟩ bo, in bral ⟨naj⟩ v njej vse dneve svojega življenja, da se nauči bati Jahveja, svojega Elohima, da varuje vse besede te Tore in ⟨את⟩ te odloke — da jih izvršuje.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "in-bo"
+      "gloss": "in ⟨naj⟩ bo"
     },
     {
       "surface": "עמו",
-      "gloss": "z-njim"
+      "gloss": "z njim"
     },
     {
       "surface": "וקרא",
-      "gloss": "in-bral-bo"
+      "gloss": "in bral"
     },
     {
       "surface": "בו",
-      "gloss": "v-njej"
+      "gloss": "v njej"
     },
     {
       "surface": "כל",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ימי",
-      "gloss": "dne"
+      "gloss": "dneve"
     },
     {
       "surface": "חייו",
-      "gloss": "svojega-življenja"
+      "gloss": "svojega življenja"
     },
     {
       "surface": "למען",
@@ -62,28 +41,28 @@
     },
     {
       "surface": "ילמד",
-      "gloss": "se-nauči"
+      "gloss": "se nauči"
     },
     {
       "surface": "ליראה",
-      "gloss": "straheti-se"
+      "gloss": "bati"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve"
+      "marks": "Jahveja"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahveja"
     },
     {
       "surface": "אלהיו",
-      "gloss": "svojega-Elohima"
+      "gloss": "svojega Elohima"
     },
     {
       "surface": "לשמר",
-      "gloss": "da-varuje"
+      "gloss": "da varuje"
     },
     {
       "surface": "את",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "התורה",
-      "gloss": "te-Tore"
+      "gloss": "te Tore"
     },
     {
       "surface": "הזאת",
@@ -108,12 +87,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "in-⟨את⟩",
+      "gloss": "in ⟨את⟩",
       "marks": "te odloke"
     },
     {
       "surface": "החקים",
-      "gloss": "odloke"
+      "gloss": "te odloke"
     },
     {
       "surface": "האלה",
@@ -121,9 +100,9 @@
     },
     {
       "surface": "לעשתם",
-      "gloss": "da-jih-izvršuje"
+      "gloss": "da jih izvršuje"
     }
   ],
-  "timestamp": "2026-10-19T16:08:27.375198675Z",
+  "timestamp": "2026-10-19T20:19:33.764885513Z",
   "model": "glm-5.3"
 }

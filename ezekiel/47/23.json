@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גר הגר",
-      "rationale": "istokorenska igra glagola in samostalnika — 'prebiva kot tujec tujec' — poudari tujčev status"
-    }
-  ],
-  "translation": "In zgodilo se bo: v plemenu, v katerem prebiva tujec ⟨z⟩ ⟨njim⟩, tam mu boste dali njegovo dedno posest — govori Adonaj Jahve.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "51fc97d9ed2c385993afa06b3e24111ae280042e402a7b3231f30406968f5084",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/47\/21-23.1792433697322.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In zgodilo se bo: v pleme, pri katerem tujec biva ⟨את⟩ ⟨z njim⟩, tam mu dajte njegovo dediščino — govori Adonaj Jahve.",
   "tokens": [
     {
       "surface": "והיה",
@@ -29,15 +13,15 @@
     },
     {
       "surface": "בשבט",
-      "gloss": "v plemenu"
+      "gloss": "v pleme"
     },
     {
       "surface": "אשר",
-      "gloss": "v katerem"
+      "gloss": "pri katerem"
     },
     {
       "surface": "גר",
-      "gloss": "prebiva kot tujec"
+      "gloss": "tujec biva"
     },
     {
       "surface": "הגר",
@@ -45,7 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ z njim"
+      "gloss": "⟨את⟩ ⟨z njim⟩",
+      "marks": "z njim"
     },
     {
       "surface": "שם",
@@ -53,11 +38,11 @@
     },
     {
       "surface": "תתנו",
-      "gloss": "boste dali"
+      "gloss": "dajte"
     },
     {
       "surface": "נחלתו",
-      "gloss": "njegovo dedno posest"
+      "gloss": "njegovo dediščino"
     },
     {
       "surface": "נאם",
@@ -72,6 +57,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T18:14:57.326856220Z",
+  "timestamp": "2026-10-19T20:24:25.457765275Z",
   "model": "glm-5.3"
 }

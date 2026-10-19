@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "sl",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מקטר",
-      "rationale": "מקטר קטרת — poimenovanje oltarja po njegovi funkciji: kraj, kjer se kadi kadilo."
-    },
-    {
-      "kind": "measurement",
-      "subject": "šitim",
-      "rationale": "Akacijev les (šita) — snov puščavskega svetišča; ime lesa ostaja po hebrejskem zvoku."
-    }
-  ],
-  "translation": "In narediš oltar za opravljanje kadila; iz lesa šitim ga narediš.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/30\/1-4.1792423670772.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In naredil boš oltar za kadilne darove, iz lesa akacije ga boš naredil ⟨את⟩.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "In narediš"
+      "gloss": "In naredil boš"
     },
     {
       "surface": "מזבח",
@@ -38,30 +17,30 @@
     },
     {
       "surface": "מקטר",
-      "gloss": "za opravljanje"
+      "gloss": "za kadilne darove"
     },
     {
       "surface": "קטרת",
-      "gloss": "kadila"
+      "gloss": "kadilo"
     },
     {
       "surface": "עצי",
-      "gloss": "iz lesa"
+      "gloss": "lesa"
     },
     {
       "surface": "שטים",
-      "gloss": "šitim"
+      "gloss": "akacije"
     },
     {
       "surface": "תעשה",
-      "gloss": "narediš"
+      "gloss": "boš naredil"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ga — oltar"
+      "marks": "ga (oltar)"
     }
   ],
-  "timestamp": "2026-10-19T15:27:50.773415449Z",
+  "timestamp": "2026-10-19T20:22:16.579697103Z",
   "model": "glm-5.3"
 }

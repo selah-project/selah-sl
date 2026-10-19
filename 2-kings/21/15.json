@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מכעסים + אתי",
-      "rationale": "Aleph-tav z osebnim priponom (אתי) se v slovenščini stakne v 'me'."
-    }
-  ],
-  "translation": "Ker so delali ⟨את⟩ húdo v mojih očeh in me izzivali k jezi, od dneva, ko so njihovi očetje izšli iz Micrajima, do tega dne.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/21\/13-16.1792429828728.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ker so delali ⟨את⟩ húdo pred mojimi očmi in so ⟨את⟩ me izzivali v jezo od dneva, ko so njihovi očetje prišli iz Micrajima, vse do tega dneva.",
   "tokens": [
     {
       "surface": "יען",
@@ -46,19 +30,19 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "v mojih očeh"
+      "gloss": "pred mojimi očmi"
     },
     {
       "surface": "ויהיו",
-      "gloss": "in bili"
+      "gloss": "in so bili"
     },
     {
       "surface": "מכעסים",
-      "gloss": "izzivali k jezi"
+      "gloss": "izzivali v jezo"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mene"
+      "gloss": "⟨את⟩ me"
     },
     {
       "surface": "מן",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "יצאו",
-      "gloss": "so izšli"
+      "gloss": "so prišli"
     },
     {
       "surface": "אבותם",
@@ -86,7 +70,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "do"
+      "gloss": "in vse do"
     },
     {
       "surface": "היום",
@@ -97,6 +81,6 @@
       "gloss": "tega"
     }
   ],
-  "timestamp": "2026-10-19T17:10:28.730299474Z",
+  "timestamp": "2026-10-19T20:17:26.004134708Z",
   "model": "glm-5.3"
 }

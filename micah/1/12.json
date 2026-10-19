@@ -5,45 +5,19 @@
   "book": "micah",
   "lang": "sl",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חלה לטוב",
-      "rationale": "od חול 'trzati, rojevati se': 'trza po dobrem' (JPS 'waiteth anxiously') proti KJV 'boluje zaradi dobrega'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מרות",
-      "rationale": "ime Marot zveni kot 'grenkosti' (merorim) — trzanje grenkega kraja"
-    },
-    {
-      "kind": "hapax",
-      "subject": "עמדתו",
-      "rationale": "(v v. 11) beseda עֶמְדָּה se v Tanahu pojavi samo tu"
-    }
-  ],
-  "translation": "Kaj trza po dobrem prebivalka Marota, kaj stopilo je zlo ⟨od⟩ Jahve do vrat Jerušalajma.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/micah\/1\/9-12.1792434141434.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti prebivalka Marota je čakala ⟨na⟩ dobro, kajti zlo je šlo dol od Jahveja ⟨od⟩ ⟨את⟩ do vrat Jerušalajma.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kaj"
+      "gloss": "kajti"
     },
     {
       "surface": "חלה",
-      "gloss": "trza"
+      "gloss": "je čakala"
     },
     {
       "surface": "לטוב",
-      "gloss": "po dobrem"
+      "gloss": "na dobro"
     },
     {
       "surface": "יושבת",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kaj"
+      "gloss": "kajti"
     },
     {
       "surface": "ירד",
-      "gloss": "je stopilo"
+      "gloss": "je šlo dol"
     },
     {
       "surface": "רע",
@@ -68,11 +42,11 @@
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "Jahve"
+      "marks": "zlo"
     },
     {
       "surface": "יהוה",
-      "gloss": "od Jahve"
+      "gloss": "Jahveja"
     },
     {
       "surface": "לשער",
@@ -83,6 +57,6 @@
       "gloss": "Jerušalajma"
     }
   ],
-  "timestamp": "2026-10-19T18:22:21.436968144Z",
+  "timestamp": "2026-10-19T20:34:15.478439822Z",
   "model": "glm-5.3"
 }

@@ -5,49 +5,23 @@
   "book": "job",
   "lang": "sl",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קימנו",
-      "rationale": "tripogled: 'naši nasprotniki' (קים=qum, nasprotnik, s suffiksom -נו), 'naše premoženje' (קנין), ali 'njihovi telesni ostanki'; KJV bere drugače kot JPS."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "doslovno 'če ne'; potrjevalni 'zares, gotovo' — hebrejska potrditvena zveza."
-    },
-    {
-      "kind": "elision",
-      "subject": "לא",
-      "rationale": "negacija je del potrjevalne zveze אם לא in se v slovenščino ne prenaša ločeno."
-    }
-  ],
-  "translation": "Zares, uničeni so naši nasprotniki, ostanek njih je požrl ogenj.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/job\/22\/17-20.1792436519590.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mar niso odrezani tisti, ki so vstali ⟨proti nam⟩, ostanek njih je požrl ogenj.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Zares"
+      "gloss": "mar"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "ne"
     },
     {
       "surface": "נכחד",
-      "gloss": "uničeni so"
+      "gloss": "so odrezani"
     },
     {
       "surface": "קימנו",
-      "gloss": "naši nasprotniki"
+      "gloss": "tisti, ki so vstali ⟨proti nam⟩"
     },
     {
       "surface": "ויתרם",
@@ -62,6 +36,6 @@
       "gloss": "ogenj"
     }
   ],
-  "timestamp": "2026-10-19T19:01:59.592852558Z",
+  "timestamp": "2026-10-19T20:38:26.648984479Z",
   "model": "glm-5.3"
 }

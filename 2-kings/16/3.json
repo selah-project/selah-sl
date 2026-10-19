@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "sl",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העביר באש",
-      "rationale": "Dobesedno 'prepeljal skozi ogenj': žrtvovanje otroka (Molohov obred) ali simbolična ognjena preizkušnja; prevodi se delijo."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "Drugi aleph-tav s končnico, upadan kot ločilen označevalec."
-    }
-  ],
-  "translation": "In hodil je po poti kraljev Jisraela; celo svojega sina je pripeljal skozi ogenj po gnusobah narodov, ki jih je Jahve izgnal ⟨את⟩ spredaj sinovom Jisraela.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/2-kings\/16\/1-4.1792429728620.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In hodil je po poti kraljev Jisraela, celo ⟨את⟩ svojega sina je pognal skozi ogenj, po grozotah narodov, ki jih je Jahve izgnal izpred sinov Jisraela.",
   "tokens": [
     {
       "surface": "וילך",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "העביר",
-      "gloss": "je pripeljal skozi"
+      "gloss": "je pognal"
     },
     {
       "surface": "באש",
-      "gloss": "ogenj"
+      "gloss": "skozi ogenj"
     },
     {
       "surface": "כתעבות",
-      "gloss": "po gnusobah"
+      "gloss": "po grozotah"
     },
     {
       "surface": "הגוים",
@@ -88,21 +67,21 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jih"
+      "marks": "jih — narode"
     },
     {
       "surface": "מפני",
-      "gloss": "spredaj"
+      "gloss": "izpred"
     },
     {
       "surface": "בני",
-      "gloss": "sinovom"
+      "gloss": "sinov"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraela"
     }
   ],
-  "timestamp": "2026-10-19T17:08:48.621896645Z",
+  "timestamp": "2026-10-19T20:17:04.228630813Z",
   "model": "glm-5.3"
 }

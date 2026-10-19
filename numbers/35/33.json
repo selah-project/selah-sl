@@ -5,60 +5,24 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "omadeževati",
-      "rationale": "חניף pomeni 'onešesti v moralnem pomenu'; prevodi se razhajajo med 'oskruniti', 'omadeževati', 'onesnažiti'."
-    },
-    {
-      "kind": "crux",
-      "subject": "se pokrije",
-      "rationale": "כפר dobesedno 'pokriti' (kot s smolo); prevodi dajo 'okajati', 'očistiti', 'odkupiti' — pomen pokritja je v slovenščini ohranjen dobesedno."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "par 'kaj-če' deluje kot izključujoči 'razen' in je preveden z eno besedo."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelu",
-      "rationale": "neposreden nagovor skupnosti glede dežele, kjer bivajo."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תחניפו \/ יחניף",
-      "rationale": "ponovitev istega glagola v prepovedi in razlogu — stavek se ogiba v istem koraku."
-    }
-  ],
-  "translation": "In ne omadežujte ⟨את⟩ deželo, v kateri ⟨bivate⟩, kajti kri — ravno ⟨ta⟩ omadežuje ⟨את⟩ deželo, in deželi se ne pokrije kri, ki je bila prelita v njej, razen s krvjo njenega prelivalca.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c16118f94e46841ff816556e2762e266ae5912dda079e968e4ab17236057de89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/35\/33-34.1792425549531.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In ne onečaščajte ⟨את⟩ dežele, v kateri ⟨ste⟩, kajti kri onečašča ⟨את⟩ deželo, in deželi ni mogoče odkupiti ⟨za⟩ krvi, ki je bila v njej izlita, razen s krijo tistega, ki jo je izlil.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "in ne"
+      "gloss": "In ne"
     },
     {
       "surface": "תחניפו",
-      "gloss": "omadežujte"
+      "gloss": "onečaščajte"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "deželo"
+      "marks": "dežele"
     },
     {
       "surface": "הארץ",
-      "gloss": "deželo"
+      "gloss": "dežele"
     },
     {
       "surface": "אשר",
@@ -82,11 +46,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ravno ⟨ta⟩"
+      "gloss": "sama"
     },
     {
       "surface": "יחניף",
-      "gloss": "omadežuje"
+      "gloss": "onečašča"
     },
     {
       "surface": "את",
@@ -107,7 +71,7 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "se pokrije"
+      "gloss": "je mogoče odkupiti"
     },
     {
       "surface": "לדם",
@@ -119,7 +83,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "je bila prelita"
+      "gloss": "je bila izlita"
     },
     {
       "surface": "בה",
@@ -131,17 +95,17 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "če"
     },
     {
       "surface": "בדם",
-      "gloss": "s krvjo"
+      "gloss": "s krijo"
     },
     {
       "surface": "שפכו",
-      "gloss": "njenega prelivalca"
+      "gloss": "ki jo je izlil"
     }
   ],
-  "timestamp": "2026-10-19T15:59:09.531948892Z",
+  "timestamp": "2026-10-19T20:35:58.282537950Z",
   "model": "glm-5.3"
 }

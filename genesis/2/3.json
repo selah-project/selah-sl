@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "sl",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לעשות",
-      "rationale": "'ki ga je Elohim ustvaril za delovanje\/delati' — dvoumen infinitiv: 'ustvaril, da bi bilo narejeno' ali 'ustvaril in naredil' (KJV 'created and made')"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שבת",
-      "rationale": "glagol šavat (počivati) temelji imenu šabat, ki tu prvič dobiva blagoslov in posvečenje"
-    }
-  ],
-  "translation": "In Elohim je blagoslovil ⟨את⟩ dan sedmi in ga posvetil, ker na njem je počival od vsega svojega dela, ki ga je Elohim ustvaril za delovanje.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/genesis\/2\/1-4.1792422010366.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In Elohim je blagoslovil ⟨את⟩ dan sedmi in ga posvetil ⟨את⟩, ker je ⟨v njem⟩ počival od vsega svojega dela, ki ga je Elohim ustvaril, da ⟨ga⟩ naredi.",
   "tokens": [
     {
       "surface": "ויברך",
@@ -51,11 +30,12 @@
     },
     {
       "surface": "ויקדש",
-      "gloss": "in ga posvetil"
+      "gloss": "in je posvetil"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ga"
+      "gloss": "⟨את⟩",
+      "marks": "ga (dan sedmi)"
     },
     {
       "surface": "כי",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "na njem"
+      "gloss": "v njem"
     },
     {
       "surface": "שבת",
@@ -91,9 +71,9 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "za delovanje"
+      "gloss": "da naredi"
     }
   ],
-  "timestamp": "2026-10-19T15:00:10.367083303Z",
+  "timestamp": "2026-10-19T20:25:08.274144057Z",
   "model": "glm-5.3"
 }

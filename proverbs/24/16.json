@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nesreča",
-      "rationale": "רעה je 'hudo\/zlo' — težava ali nesreča, ne moralno zlo nujno"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "sedemkrat",
-      "rationale": "שבע kot sveto polno število — popolnost padcev in vstajenj"
-    }
-  ],
-  "translation": "Kajti sedemkrat pade pravični in vstane, hudobneži pa se potešejo v nesreči.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/24\/13-16.1792436109438.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kajti sedemkrat pade cedek in vstane, hudiči pa se pobotajo v zlu.",
   "tokens": [
     {
       "surface": "כי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "pravični"
+      "gloss": "cedek"
     },
     {
       "surface": "וקם",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "ורשעים",
-      "gloss": "hudobneži pa"
+      "gloss": "hudiči pa"
     },
     {
-      "surface": "יכשלuju",
-      "gloss": "se potešejo"
+      "surface": "יכשלו",
+      "gloss": "se pobotajo"
     },
     {
       "surface": "ברעה",
-      "gloss": "v nesreči"
+      "gloss": "v zlu"
     }
   ],
-  "timestamp": "2026-10-19T18:55:09.440484677Z",
+  "timestamp": "2026-10-19T20:36:56.631753733Z",
   "model": "glm-5.3"
 }

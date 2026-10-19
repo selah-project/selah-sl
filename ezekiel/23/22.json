@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "duša",
-      "rationale": "נפש je bližje 'grlu \/ življenjski sili' kot slovenski 'duši'."
-    },
-    {
-      "kind": "addition",
-      "subject": "v gnusu",
-      "rationale": "נקע pomeni gnusobnost\/otujenost; dodano za jasnost."
-    },
-    {
-      "kind": "you",
-      "subject": "Oholiba",
-      "rationale": "neposreden ogovor simboličnega imena Jude."
-    }
-  ],
-  "translation": "Zato, Oholiba, tako govori Adonaj Jahve: Glej, prebujam proti tebi tvoje ljubimce, od katerih se je tvoja duša odvrgla v gnusu, in pripeljal jih bom nad te z vseh strani.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "291e6e7a8e8a499a25243fd4672dac9ed0d189dce0e41f67900d8677a5d4cf77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/ezekiel\/23\/21-24.1792432440641.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Zato, Ohóliva, tako govori Adonaj Jahve: Glede, prebujam ⟨את⟩ tvoje ljubimce nad teboj, ⟨את⟩ tiste, od katerih se je tvoja duša odvrgla z gnusom, in pripeljal jih bom nad teboz vseh strani.",
   "tokens": [
     {
       "surface": "לכן",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אהליבה",
-      "gloss": "Oholiba"
+      "gloss": "Ohóliva"
     },
     {
       "surface": "כה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "glej"
+      "gloss": "glede"
     },
     {
       "surface": "מעיר",
@@ -76,20 +50,20 @@
     },
     {
       "surface": "עליך",
-      "gloss": "proti tebi"
+      "gloss": "nad teboj"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiste, od katerih"
+      "marks": "tiste, od katerih se je tvoja duša odvrgla"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "tiste, ki"
     },
     {
       "surface": "נקעה",
-      "gloss": "se je odvrgla v gnusu"
+      "gloss": "se je odvrgla z gnusom"
     },
     {
       "surface": "נפשך",
@@ -105,13 +79,13 @@
     },
     {
       "surface": "עליך",
-      "gloss": "nad te"
+      "gloss": "nad tebo"
     },
     {
       "surface": "מסביב",
       "gloss": "z vseh strani"
     }
   ],
-  "timestamp": "2026-10-19T17:54:00.642373120Z",
+  "timestamp": "2026-10-19T20:23:08.609250476Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "sl",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨to⟩",
-      "rationale": "Dodan poudarni zaimek, ki slovenščina potrebuje za glagolsko osebek"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תרומה",
-      "rationale": "Trikratna ponovitev korena v enem verzu — daj je izgubila ritmična oklepaja"
-    }
-  ],
-  "translation": "In bo ⟨to⟩ za Aharona in za njegove sinove za večni predpis s strani sinov Jisraela, kajti dviganje ⟨je⟩ to; in dviganje bo od sinov Jisraela, od njihovih žrtev miru — njihovo dviganje za Jahveja.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "9a0dcdcfa7d8f4c0e420bc6707e78b725386be5882908c6fc59138b82d7ecad6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/exodus\/29\/25-28.1792423697651.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In to bo Aharonu in njegovim sinovom za večni predpis od ⟨את⟩ sinov Jisraela, kajti dvignjeni dar ⟨je⟩; in dvignjeni dar bo od ⟨את⟩ sinov Jisraela, od njihovih žrtev šelamim, njihov dvignjeni dar ⟨namenjen⟩ Jahveju.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "in bo"
+      "gloss": "in to bo"
     },
     {
       "surface": "לאהרן",
-      "gloss": "za Aharona"
+      "gloss": "Aharonu"
     },
     {
       "surface": "ולבניו",
-      "gloss": "in za njegove sinove"
+      "gloss": "in njegovim sinovom"
     },
     {
       "surface": "לחק",
@@ -50,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ s strani"
+      "gloss": "od ⟨את⟩",
+      "marks": "sinov Jisraela"
     },
     {
       "surface": "בני",
@@ -66,15 +46,15 @@
     },
     {
       "surface": "תרומה",
-      "gloss": "dviganje"
+      "gloss": "dvignjeni dar"
     },
     {
       "surface": "הוא",
-      "gloss": "to"
+      "gloss": "je"
     },
     {
       "surface": "ותרומה",
-      "gloss": "in dviganje"
+      "gloss": "in dvignjeni dar"
     },
     {
       "surface": "יהיה",
@@ -82,7 +62,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ od"
+      "gloss": "od ⟨את⟩",
+      "marks": "sinov Jisraela"
     },
     {
       "surface": "בני",
@@ -98,17 +79,17 @@
     },
     {
       "surface": "שלמיהם",
-      "gloss": "njihovih miru"
+      "gloss": "njihovih šelamim"
     },
     {
       "surface": "תרומתם",
-      "gloss": "njihovo dviganje"
+      "gloss": "njihov dvignjeni dar"
     },
     {
       "surface": "ליהוה",
-      "gloss": "za Jahveja"
+      "gloss": "Jahveju"
     }
   ],
-  "timestamp": "2026-10-19T15:28:17.652530872Z",
+  "timestamp": "2026-10-19T20:21:58.104939453Z",
   "model": "glm-5.3"
 }

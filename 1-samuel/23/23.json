@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "sl",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tisočih",
-      "rationale": "אלפי 'tisoči' = rodovni\/klanske enote Jehude, ne dobesedno število"
-    }
-  ],
-  "translation": "In poglejte in spoznajte vse skrivališča, kjer se skriva tam, in vrnite se ⟨k⟩ meni z gotovostjo, in pojščem ⟨z⟩ ⟨את⟩ vas; in zgodi se, če je ⟨on⟩ v deželi, da ga bom poiskal po vseh tisočih Jehude.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/1-samuel\/23\/21-24.1792427949421.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "In poglejte in spoznajte vsa njegova skrivališča, kjer se tam skriva, in vrnite se k meni z gotovostjo, in jaz grem ⟨z⟩ vami; in zgodi se, če je ⟨on⟩ v deželi, da ga bom poiskal ⟨את⟩ po vseh tisočih Jehude.",
   "tokens": [
     {
       "surface": "וראו",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "vse"
+      "gloss": "vsa"
     },
     {
       "surface": "המחבאים",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "⟨k⟩ meni"
+      "gloss": "k meni"
     },
     {
       "surface": "אל",
@@ -69,11 +53,12 @@
     },
     {
       "surface": "והלכתי",
-      "gloss": "in pojščem"
+      "gloss": "in jaz grem"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨z⟩ ⟨את⟩ vas"
+      "gloss": "⟨את⟩ z vami",
+      "marks": "z vami"
     },
     {
       "surface": "והיה",
@@ -85,7 +70,7 @@
     },
     {
       "surface": "ישנו",
-      "gloss": "je ⟨on⟩"
+      "gloss": "je"
     },
     {
       "surface": "בארץ",
@@ -93,7 +78,7 @@
     },
     {
       "surface": "וחפשתי",
-      "gloss": "da ga bom poiskal"
+      "gloss": "da bom poiskal"
     },
     {
       "surface": "אתו",
@@ -113,6 +98,6 @@
       "gloss": "Jehude"
     }
   ],
-  "timestamp": "2026-10-19T16:39:09.422945073Z",
+  "timestamp": "2026-10-19T20:15:31.237131236Z",
   "model": "glm-5.3"
 }
