@@ -5,57 +5,31 @@
   "book": "proverbs",
   "lang": "sl",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "העז בפניו",
-      "rationale": "hebrejski idiom 'utrditi svoj obraz' pomeni osiliti se, ne omahovati — brez sramu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "razbitež",
-      "rationale": "רשע je 'aktivno slab človek'; 'razbitež' je najbližja ena beseda."
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "הוא je poudarni zaimek; oklepaj kaže slovensko dopolnitev strukture."
-    }
-  ],
-  "translation": "Razbitež utrdi svoj obraz, a ravnemu — ⟨on⟩ pripravi svojo pot.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "243034cdca2f0efe63be48014d3d8c29e9982e3f1e7a05bbc98fffff9eb9e825",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/proverbs\/21\/29-31.1792436043787.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Utrdi se v svojem obrazu hudič, ⟨pravi⟩ pa ⟨je⟩ tisti, ki je pokončen, on pripravi svojo pot.",
   "tokens": [
     {
       "surface": "העז",
-      "gloss": "utrdi"
+      "gloss": "utrdi se"
     },
     {
       "surface": "איש",
-      "gloss": "⟨⟩"
+      "gloss": "hudič"
     },
     {
       "surface": "רשע",
-      "gloss": "razbitež"
+      "gloss": "v svojem obrazu"
     },
     {
       "surface": "בפניו",
-      "gloss": "svoj obraz"
+      "gloss": "in"
     },
     {
       "surface": "וישר",
-      "gloss": "a ravnemu"
+      "gloss": "pokončen"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨on⟩"
+      "gloss": "on"
     },
     {
       "surface": "יכין",
@@ -66,6 +40,6 @@
       "gloss": "svojo pot"
     }
   ],
-  "timestamp": "2026-10-19T18:54:03.787594409Z",
+  "timestamp": "2026-10-19T21:52:48.856490668Z",
   "model": "glm-5.3"
 }

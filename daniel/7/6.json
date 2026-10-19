@@ -5,44 +5,23 @@
   "book": "daniel",
   "lang": "sl",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "je imela",
-      "rationale": "aramejščina brez glagola »imeti«; slovenščina ga doda brez ⟨⟩, ker je zveza ראשין לחיותא vezana in se glagol razume"
-    },
-    {
-      "kind": "measurement",
-      "subject": "štiri peruti, štiri glave",
-      "rationale": "verz šteje dele živali — štiri in štiri"
-    }
-  ],
-  "translation": "Za tem sem gledal, in glej, druga, kakor leopard, in ta je imela na svojem hrbtu štiri peruti ptice; in štiri glave je imela žival, in oblast je bila dana ⟨njej⟩.",
-  "provenance": {
-    "system-sha256": "eba1cfbca2803b9516d7ced8072e205f7e7bcf17f0762d8ec7b11339c639f2ef",
-    "user-sha256": "b2b15714d8f9616b177bac01d99255b40ae7c900279e05f33eae270ab0e20556",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/daniel\/7\/5-8.1792437572605.json",
-    "code": "97dea7966-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Za tem sem gledal, in glej, druga ⟨žival⟩, podobna leopardu, in imela je na svojem hrbtu štiri peruti ptice, in štiri glave je imela ta žival, in oblast je bila dana njej.",
   "tokens": [
     {
       "surface": "באתר",
-      "gloss": "za"
+      "gloss": "za tem"
     },
     {
       "surface": "דנה",
-      "gloss": "tem"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "חזה",
-      "gloss": "sem gledal"
+      "gloss": "gledal"
     },
     {
       "surface": "הוית",
-      "gloss": "sem"
+      "gloss": "sem ⟨bil⟩"
     },
     {
       "surface": "וארו",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "כנמר",
-      "gloss": "kakor leopard"
+      "gloss": "podobna leopardu"
     },
     {
       "surface": "ולה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "די",
-      "gloss": "ki so ⟨bile⟩"
+      "gloss": "⟨od⟩"
     },
     {
       "surface": "עוף",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "po"
     },
     {
       "surface": "גביה",
-      "gloss": "njenem hrbtu"
+      "gloss": "hrbtu"
     },
     {
       "surface": "וארבעה",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "לחיותא",
-      "gloss": "je imela žival"
+      "gloss": "ta žival"
     },
     {
       "surface": "ושלטן",
@@ -109,6 +88,6 @@
       "gloss": "njej"
     }
   ],
-  "timestamp": "2026-10-19T19:19:32.609587046Z",
+  "timestamp": "2026-10-19T21:52:53.670287695Z",
   "model": "glm-5.3"
 }

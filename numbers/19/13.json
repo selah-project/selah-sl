@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "sl",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefesh",
-      "rationale": "נפש ni 'duša' v grškem pomenu, temveč dihajoče bitje, življenjska sila."
-    },
-    {
-      "kind": "substitution",
-      "subject": "voda nide",
-      "rationale": "מי נדה dobesedno 'voda ločevanja\/nesnage'; puščeno po zvoku."
-    },
-    {
-      "kind": "substitution",
-      "subject": "odrezana",
-      "rationale": "נכרתה 'biti odrezan' — karet, iztrebljenje iz ljudstva."
-    }
-  ],
-  "translation": "Vsak, ki se dotakne mrtvega, ⟨⟩ telesa človeka, ki umre, in se ne očisti — onesnažil je ⟨את⟩ miškan Jahveja, in ta nefesh bo odrezana od Jisraela, ker voda nide ni bila poškropljena nanj; nečist bo ⟨ostal⟩, njegova nečistost je ⟨še⟩ na njem.",
-  "provenance": {
-    "system-sha256": "4a003929b9a8d9de97cf57b5471bf27eb94177319041630681ac755ac252a478",
-    "user-sha256": "6c273d970a43a4a03307573822814d99717b27e612af76425ca31ba947bdd81b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/sl\/numbers\/19\/13-16.1792425222512.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vsak, ki se dotakne mrtvega, telesa človekove duše, ki umre, in se ne očisti, oskruni ⟨את⟩ miškan Jahve, in ta duša bo iztrebljena iz Jisraela, kajti voda nide ni bila poškropljena nanj; nečist bo, njegova nečistost je še vedno na njem.",
   "tokens": [
     {
       "surface": "כל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "telesa"
+      "gloss": "telesa duše"
     },
     {
       "surface": "האדם",
-      "gloss": "človeka"
+      "gloss": "človekove"
     },
     {
       "surface": "אשר",
@@ -67,12 +41,12 @@
     },
     {
       "surface": "יתחטא",
-      "gloss": "očisti se"
+      "gloss": "se očisti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miškan Jahveja"
+      "marks": "miškan"
     },
     {
       "surface": "משכן",
@@ -80,19 +54,19 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahveja"
+      "gloss": "Jahve"
     },
     {
       "surface": "טמא",
-      "gloss": "onesnažil je"
+      "gloss": "oskruni"
     },
     {
       "surface": "ונכרתה",
-      "gloss": "in odrezana bo"
+      "gloss": "in bo iztrebljena"
     },
     {
       "surface": "הנפש",
-      "gloss": "ta nefesh"
+      "gloss": "ta duša"
     },
     {
       "surface": "ההוא",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "מישראל",
-      "gloss": "od Jisraela"
+      "gloss": "iz Jisraela"
     },
     {
       "surface": "כי",
-      "gloss": "ker"
+      "gloss": "kajti"
     },
     {
       "surface": "מי",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "זרק",
-      "gloss": "poškropljena"
+      "gloss": "je bila poškropljena"
     },
     {
       "surface": "עליו",
@@ -136,7 +110,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "še"
+      "gloss": "še vedno"
     },
     {
       "surface": "טמאתו",
@@ -147,6 +121,6 @@
       "gloss": "na njem"
     }
   ],
-  "timestamp": "2026-10-19T15:53:42.512782884Z",
+  "timestamp": "2026-10-19T21:52:47.708061263Z",
   "model": "glm-5.3"
 }
