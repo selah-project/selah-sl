@@ -14,7 +14,7 @@ Dano pod licenco **Creative Commons Priznanje avtorstva-Deljenje pod enakimi pog
 
 ## Pod temi pogoji
 
-- **Priznanje avtorstva** — povej, od kod delo izvira (**Selah**, https://selahproject.com), dodaj povezavo do te
+- **Priznanje avtorstva** — povej, od kod delo izvira (**Selah**, https://s33k3r.com), dodaj povezavo do te
   licence in povej, ali si kaj spremenil.
 - **Deljenje pod enakimi pogoji** — kar spremeniš ali zgradiš na tem delu, deli pod isto licenco.
 
